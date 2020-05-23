@@ -113,6 +113,10 @@
     "SKP-PB": "and then",
     "TWH-BGT": "when it comes to",
 
+    // Pick more distinctive part of word for brief
+    "STRAEUGS": "administration",
+    "TPHAOEBG": "technique", // add star for "anemic"
+
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
 
