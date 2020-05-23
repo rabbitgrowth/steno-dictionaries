@@ -1,7 +1,8 @@
 {
 
     // Simpler vowels
-    "KRERPBT": "century", // use STR for "center"
+    "KRERPBT": "century",    // use STR for "center"
+    "TKEUFLT": "difficulty", // use TKEUFL for "difficult"
     "PHERPL": "memory",
     "PHERPLS": "memories",
 
