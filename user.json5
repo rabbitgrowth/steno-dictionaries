@@ -24,6 +24,13 @@
     "STRAOEUTD": "strident",
     "SRAPBL/TAOEUPB": "valentine",
 
+    // Abbreviations outside of steno theories
+    "SKWR-P": "Japan",     // JP
+    "SKWR-PS": "Japanese",
+    "KAOEB": "keyboard",   // keeb
+    "SEBG": "second",      // sec
+    "S*EBG": "sec",
+
     // Fold in A for a-
     "KRAOS": "across",
     "HAED": "ahead",
