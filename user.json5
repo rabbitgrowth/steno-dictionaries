@@ -7,8 +7,10 @@
     // Use -L for -ly
     // END/-D "ended" feels nice. Why not F*UL/-L for "fundamentally"?
     "-L": "{^ly}",   // overrides {^'ll}
-    "AEL": "{^'ll}", // like AES
-    "AED": "{^'d}",  // to complete the set
+    "AEL": "{^'ll}", // overrides "ale"
+    "AEUL": "ale",   // overrides "ail"
+    "A*EUL": "ail",
+    "AED": "{^'d}",  // to complete the set: AES AEL AED
 
     // Consistency
     "AFT": "after the",       // with "before the"
