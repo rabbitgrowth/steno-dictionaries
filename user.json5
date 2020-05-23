@@ -31,4 +31,8 @@
     "HURG": "hurrying",
     "HURD": "hurried",
 
+    // More sensible plurals
+    "TP-PBS": "finances",
+    "HR-PBS": "licenses",
+
 }
