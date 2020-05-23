@@ -23,4 +23,7 @@
     "THREPBD": "threatened",
     "THREPBG": "threatening",
 
+    // Consistency with -ing and -ed
+    "TPHOEU": "annoy",
+
 }
