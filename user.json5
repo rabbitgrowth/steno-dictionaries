@@ -37,6 +37,8 @@
     "SKWR-P": "Japan",     // JP
     "SKWR-PS": "Japanese",
     "KAOEB": "keyboard",   // keeb
+    "PHO": "month",        // mo
+    "PH-FT": "movement",   // mvt
     "SEBG": "second",      // sec
     "S*EBG": "sec",
 
