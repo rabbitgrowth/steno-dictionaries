@@ -82,7 +82,7 @@
     // Add -s after the right word
     "TOEFRTS": "efforts to",
 
-    // Merge grammar words
+    // Merge words in common expressions
     "HRAOFT": "a lot of",
     "SKPOER": "and other",
     "TPAS": "as if",
@@ -90,7 +90,10 @@
     "TPAOEPBT": "even if the",
     "STPH": "is in", // overrides ? but KW-PL is much nicer anyway
     "T-TS": "it's the",
+    "TROEFR": "refer to",
+    "TROEFRS": "refers to",
     "-FTS": "was the",
+    "TWAOEU": "way to", // TWAOEUS already taken by "twice"
     "WHE": "when he",
     "TWH": "when it",
 
