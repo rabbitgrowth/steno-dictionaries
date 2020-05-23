@@ -159,6 +159,12 @@
     "KR-G": "occurring",
     "KR-D": "occurred",
 
+    // STREUS feels more like "industries" (STREU + -S for plural) than
+    // "industrious". Of course I can remember to use -Z to pluralize
+    // "industry", but that's one more thing to remember.
+    "STREUS": "industries",
+    "STROUS": "industrious",
+
     // The standard dictionary has TPHURGS for "nurse" and TPHURBGS for
     // "nursing". There seem to be an extra G in the former and an extra
     // B in the latter.
