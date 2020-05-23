@@ -80,8 +80,8 @@
     "PHREULG": "publicly",
 
     // More sensible plurals
-    "TP-PBS": "finances",
-    "HR-PBS": "licenses",
+    "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
+    "HR-PBS": "licenses", // same for HR-PB and HR-PBS
 
     // Add missing plurals
     "KAUPB/SKWREBG/TAOURS": "conjectures",
