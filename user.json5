@@ -1,5 +1,9 @@
 {
 
+    // Simpler vowels
+    "PHERPL": "memory", // default is "moimr"
+    "PHERPLS": "memories",
+
     // Fold in A for a-
     "KRAOS": "across",
     "HAED": "ahead",
