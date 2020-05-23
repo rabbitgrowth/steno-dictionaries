@@ -9,6 +9,7 @@
     "-L": "{^ly}",
 
     // Consistency
+    "AFT": "after the",       // with "before the"
     "TPHOEU": "annoy",        // with "annoying", "annoyed"
     "PWRAOEUFPB": "brighten", // with the standard "frighten"
     "WOEPB": "woken",         // with "broken", "spoken"
