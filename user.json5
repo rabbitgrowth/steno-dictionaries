@@ -125,6 +125,7 @@
 
     // Pick more distinctive part of word for brief
     "STRAEUGS": "administration",
+    "STEPBD": "extend",
     "TKAO*ED": "indeed",
     "TPHAOEBG": "technique", // add star for "anemic"
 
