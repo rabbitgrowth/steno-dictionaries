@@ -24,6 +24,12 @@
     "STRAOEUTD": "strident",
     "SRAPBL/TAOEUPB": "valentine",
 
+    // Glue words together
+    "KURB/SAOEUD": "curbside",
+    "TKAEUR/SAEU": "daresay",
+    "HOEPL/PWOUPBD": "homebound",
+    "SKART/SHOT": "scattershot",
+
     // Abbreviations outside of steno theories
     "SKWR-P": "Japan",     // JP
     "SKWR-PS": "Japanese",
