@@ -117,6 +117,13 @@
     "STRAEUGS": "administration",
     "TPHAOEBG": "technique", // add star for "anemic"
 
+    // Adjustments to match my personal (and sometimes wrong)
+    // perceptions of how English words are pronounced
+    "EFP/KWROPB/APBLG": "espionage",
+    "SPHRAPB/TREU": "explanatory",
+    "TPHRO*E": "fellow",
+    "SKHRAUS": "Santa Claus", // which should end with -z
+
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
 
