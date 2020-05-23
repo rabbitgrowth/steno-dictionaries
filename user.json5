@@ -59,6 +59,15 @@
     "HURG": "hurrying",
     "HURD": "hurried",
 
+    // Modal verb + be
+    "PHAEUB": "may be",
+    "PHAOEUBT": "might be",
+    "PHUFBT": "must be",
+
+    // Common adverbs
+    "PRAOEUFLT": "privately",
+    "PHREULG": "publicly",
+
     // More sensible plurals
     "TP-PBS": "finances",
     "HR-PBS": "licenses",
@@ -69,10 +78,6 @@
     "HRAUR/KWRATS": "laureates",
     "HRAUFS": "layoffs",
     "PHOD/RATS": "moderates",
-
-    // Common adverbs
-    "PRAOEUFLT": "privately",
-    "PHREULG": "publicly",
 
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
