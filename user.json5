@@ -79,6 +79,9 @@
     "HRAUFS": "layoffs",
     "PHOD/RATS": "moderates",
 
+    // Add -s after the right word
+    "TOEFRTS": "efforts to",
+
     // Merge grammar words
     "HRAOFT": "a lot of",
     "SKPOER": "and other",
