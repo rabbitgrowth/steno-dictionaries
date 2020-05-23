@@ -97,6 +97,10 @@
     "WHE": "when he",
     "TWH": "when it",
 
+    // Heavily abbreviated strokes that somehow make sense
+    "SKP-PB": "and then",
+    "TWH-BGT": "when it comes to",
+
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
 
