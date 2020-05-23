@@ -141,6 +141,10 @@
     "TKAO*ED": "indeed",
     "TPHAOEBG": "technique", // add star for "anemic"
 
+    // Assign the nicer stroke to the word that's more common
+    "STPHUR": "ensure", // merges TPH and SH
+    "STPH*UR": "insure",
+
     // Adjustments to match my personal (and sometimes wrong)
     // perceptions of how English words are pronounced
     "EFP/KWROPB/APBLG": "espionage",
