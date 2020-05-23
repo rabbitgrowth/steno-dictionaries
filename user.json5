@@ -14,6 +14,14 @@
     "SRAEL": "valley",     // with the "many" group; overrides "vale"
     "TOPL/KWREU": "Tommy", // with "Sammy"
 
+    // Reduce strokes for long words
+    "SPWOBGS/KAEUGT": "intoxicating",
+    "SPWREUBGT": "intricate",
+    "PAPL/TAEUT": "palpitate",
+    "STHRAOEUT": "satellite",
+    "STRAOEUTD": "strident",
+    "SRAPBL/TAOEUPB": "valentine",
+
     // Fold in A for a-
     "KRAOS": "across",
     "HAED": "ahead",
