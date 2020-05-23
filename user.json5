@@ -79,6 +79,18 @@
     "HRAUFS": "layoffs",
     "PHOD/RATS": "moderates",
 
+    // Merge grammar words
+    "HRAOFT": "a lot of",
+    "SKPOER": "and other",
+    "TPAS": "as if",
+    "AOEPBT": "even the",
+    "TPAOEPBT": "even if the",
+    "STPH": "is in", // overrides ? but KW-PL is much nicer anyway
+    "T-TS": "it's the",
+    "-FTS": "was the",
+    "WHE": "when he",
+    "TWH": "when it",
+
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
 
