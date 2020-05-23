@@ -82,6 +82,9 @@
     // Add -s after the right word
     "TOEFRTS": "efforts to",
 
+    // Don't capitalize
+    "AUP/STAEUT": "upstate",
+
     // Merge words in common expressions
     "HRAOFT": "a lot of",
     "SKPOER": "and other",
