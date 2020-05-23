@@ -1,7 +1,8 @@
 {
 
     // Simpler vowels
-    "PHERPL": "memory", // default is "moimr"
+    "KRERPBT": "century", // use STR for "center"
+    "PHERPL": "memory",
     "PHERPLS": "memories",
 
     // Use -L for -ly
