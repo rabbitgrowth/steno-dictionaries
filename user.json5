@@ -58,10 +58,13 @@
     "THREPBG": "threatening",
     "THREPBD": "threatened",
 
-    // Remove unnecessary extra strokes
+    // Autocomplete effect
+    "AUPL": "automatic",
+    "AOEG": "ego",
     "HUR": "hurry",
     "HURG": "hurrying",
     "HURD": "hurried",
+    "SAOUF": "souvenir",
 
     // Modal verb + be
     "PHAEUB": "may be",
