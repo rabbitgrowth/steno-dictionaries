@@ -9,10 +9,11 @@
     "-L": "{^ly}",
 
     // Consistency
-    "TPHOEU": "annoy",     // with "annoying", "annoyed"
-    "WOEPB": "woken",      // with "broken", "spoken"
-    "SRAEL": "valley",     // with the "many" group; overrides "vale"
-    "TOPL/KWREU": "Tommy", // with "Sammy"
+    "TPHOEU": "annoy",        // with "annoying", "annoyed"
+    "PWRAOEUFPB": "brighten", // with the standard "frighten"
+    "WOEPB": "woken",         // with "broken", "spoken"
+    "SRAEL": "valley",        // with the "many" group; overrides "vale"
+    "TOPL/KWREU": "Tommy",    // with "Sammy"
 
     // Reduce strokes for long words
     "SPWOBGS/KAEUGT": "intoxicating",
@@ -44,9 +45,6 @@
     "THREPB": "threaten", // threa(glottal stop)en
     "THREPBG": "threatening",
     "THREPBD": "threatened",
-
-    // Use F for -t-
-    "PWRAOEUFPB": "brighten",
 
     // Remove unnecessary extra strokes
     "HUR": "hurry",
