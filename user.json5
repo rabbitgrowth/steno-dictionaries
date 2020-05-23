@@ -20,10 +20,15 @@
     "TPRAOEUPB": "frighten",
     "TPRAOEUPBG": "frightening",
     "THREPB": "threaten", // threa(glottal stop)en
-    "THREPBD": "threatened",
     "THREPBG": "threatening",
+    "THREPBD": "threatened",
 
     // Consistency with -ing and -ed
     "TPHOEU": "annoy",
+
+    // Remove unnecessary extra strokes
+    "HUR": "hurry",
+    "HURG": "hurrying",
+    "HURD": "hurried",
 
 }
