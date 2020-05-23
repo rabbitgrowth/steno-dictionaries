@@ -46,6 +46,10 @@
     "HRAUFS": "layoffs",
     "PHOD/RATS": "moderates",
 
+    // Common adverbs
+    "PRAOEUFLT": "privately",
+    "PHREULG": "publicly",
+
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
 
