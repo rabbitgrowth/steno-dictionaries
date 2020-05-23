@@ -8,6 +8,9 @@
     // END/-D "ended" feels nice. Why not F*UL/-L for "fundamentally"?
     "-L": "{^ly}",
 
+    // Consistency
+    "TPHOEU": "annoy", // with "annoying" and "annoyed"
+
     // Fold in A for a-
     "KRAOS": "across",
     "HAED": "ahead",
@@ -30,9 +33,6 @@
     "THREPB": "threaten", // threa(glottal stop)en
     "THREPBG": "threatening",
     "THREPBD": "threatened",
-
-    // Consistency with -ing and -ed
-    "TPHOEU": "annoy",
 
     // Remove unnecessary extra strokes
     "HUR": "hurry",
