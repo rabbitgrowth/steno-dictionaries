@@ -57,6 +57,9 @@
     "TKPWURT": "gutter",
     "PHURT": "mutter",
 
+    // Use F for -s-
+    "AOUFR": "user", // allows one-stroking "users"; use AUFR for {over^}
+
     // Omit F for -t-
     "TPRAOEUPB": "frighten",
     "TPRAOEUPBG": "frightening",
