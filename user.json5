@@ -144,4 +144,9 @@
     "KR-G": "occurring",
     "KR-D": "occurred",
 
+    // The standard dictionary has TPHURGS for "nurse" and TPHURBGS for
+    // "nursing". There seem to be an extra G in the former and an extra
+    // B in the latter.
+    "TPHURGS": "nursing",
+
 }
