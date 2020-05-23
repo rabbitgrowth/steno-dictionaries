@@ -17,6 +17,7 @@
     "WOEPB": "woken",         // with "broken", "spoken"
     "SRAEL": "valley",        // with the "many" group; overrides "vale"
     "TOPL/KWREU": "Tommy",    // with "Sammy"
+    "PAUFT": "{post^}",       // with "con-", "over-"
 
     // Reduce strokes for long words
     "SPWOBGS/KAEUGT": "intoxicating",
