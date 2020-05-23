@@ -45,6 +45,9 @@
     "THREPBG": "threatening",
     "THREPBD": "threatened",
 
+    // Use F for -t-
+    "PWRAOEUFPB": "brighten",
+
     // Remove unnecessary extra strokes
     "HUR": "hurry",
     "HURG": "hurrying",
