@@ -147,6 +147,17 @@
     "TPHRO*E": "fellow",
     "SKHRAUS": "Santa Claus", // which should end with -z
 
+    // Drop weak sounds
+    "PWHOLD": "behold",
+    "PWHOELD": "behold",
+    "PWHELD": "beheld",
+    "KURPB": "curtain",
+    "TPREFT": "forest",
+    "TKPWARPB": "garden",
+    "HEUPB": "hidden",
+    "HRAURPBD": "laundry",
+    "STURD": "sturdy", // or think stur-D
+
     // Just use the starless version
     "SKOLGS": "psychologist", // "psychologies" is very rare
     "SHULT": "shuttle",
