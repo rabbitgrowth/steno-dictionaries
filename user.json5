@@ -35,4 +35,11 @@
     "TP-PBS": "finances",
     "HR-PBS": "licenses",
 
+    // Add missing plurals
+    "KAUPB/SKWREBG/TAOURS": "conjectures",
+    "TKREGS": "dregs",
+    "HRAUR/KWRATS": "laureates",
+    "HRAUFS": "layoffs",
+    "PHOD/RATS": "moderates",
+
 }
