@@ -37,15 +37,6 @@
     "SEBG": "second",      // sec
     "S*EBG": "sec",
 
-    // Fold in A for a-
-    "KRAOS": "across",
-    "HAED": "ahead",
-    "HRAEUF": "alive",
-    "SAERT": "assert",
-    "SAES": "assess",
-    "SAET": "asset",
-    "TAEPBD": "attend",
-
     // -URT for -utter
     "PWURT": "butter", // overrides "Burt"
     "KHRURT": "clutter",
@@ -102,6 +93,15 @@
     "TWAOEU": "way to", // TWAOEUS already taken by "twice"
     "WHE": "when he",
     "TWH": "when it",
+
+    // Fold in A for a-
+    "KRAOS": "across",
+    "HAED": "ahead",
+    "HRAEUF": "alive",
+    "SAERT": "assert",
+    "SAES": "assess",
+    "SAET": "asset",
+    "TAEPBD": "attend",
 
     // Heavily abbreviated strokes that somehow make sense
     "SKP-PB": "and then",
