@@ -9,7 +9,10 @@
     "-L": "{^ly}",
 
     // Consistency
-    "TPHOEU": "annoy", // with "annoying" and "annoyed"
+    "TPHOEU": "annoy",     // with "annoying", "annoyed"
+    "WOEPB": "woken",      // with "broken", "spoken"
+    "SRAEL": "valley",     // with the "many" group; overrides "vale"
+    "TOPL/KWREU": "Tommy", // with "Sammy"
 
     // Fold in A for a-
     "KRAOS": "across",
