@@ -80,6 +80,11 @@
     "PRAOEUFLT": "privately",
     "PHREULG": "publicly",
 
+    // Missing inflections
+    "ART/KHRAEUGT": "articulating",  // otherwise gives "art calculating"
+    "ART/KHRAEUTD": "articulated",
+    "SHREUD/TPAOEUG": "solidifying", // otherwise gives "sliddifying"
+
     // More sensible plurals
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
     "HR-PBS": "licenses", // same for HR-PB and HR-PBS
