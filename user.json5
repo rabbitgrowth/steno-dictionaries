@@ -4,6 +4,10 @@
     "PHERPL": "memory", // default is "moimr"
     "PHERPLS": "memories",
 
+    // Use -L for -ly
+    // END/-D "ended" feels nice. Why not F*UL/-L for "fundamentally"?
+    "-L": "{^ly}",
+
     // Fold in A for a-
     "KRAOS": "across",
     "HAED": "ahead",
