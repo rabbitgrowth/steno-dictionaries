@@ -82,8 +82,10 @@
 
     // I hate KROEUR with every fiber of my being. Had to choose between
     // KR and K-R, both of which were taken up by "consider". Settled
-    // with KR so that the "lengths" of the strokes match up with the
-    // lengths of the words:
+    // with KR so that the visual lengths of the strokes match up with
+    // the lengths of the words:
+    // K-R   -> occur
+    // K---R -> consider
     "KR": "occur",
     "KR-S": "occurs",
     "KR-G": "occurring",
