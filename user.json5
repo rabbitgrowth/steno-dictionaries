@@ -77,6 +77,9 @@
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
 
+    // Don't map nice strokes to obscure words
+    "PH-B": "maybe", // not "Mapbox"
+
     // Tricks
     "SED/SED": "said, \"{^}{-|}", // like SAEUD/SAEUD
     "HRAL": "{#command(a)}",      // lal -> all
