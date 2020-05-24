@@ -42,22 +42,6 @@
     "HOEPL/PWOUPBD": "homebound",
     "SKART/SHOT": "scattershot",
 
-    // Abbreviations outside of steno theories
-    "SKWR-P": "Japan",     // JP
-    "SKWR-PS": "Japanese",
-    "KAOEB": "keyboard",   // keeb
-    "PHO": "month",        // mo
-    "PH-FT": "movement",   // mvt
-    "SEBG": "second",      // sec
-    "S*EBG": "sec",
-
-    // -URT for -utter
-    "PWURT": "butter", // overrides "Burt"
-    "KHRURT": "clutter",
-    "TPHRURT": "flutter",
-    "TKPWURT": "gutter",
-    "PHURT": "mutter",
-
     // Use F for -s-
     "AOUFR": "user", // allows one-stroking "users"; use AUFR for {over^}
 
@@ -67,6 +51,13 @@
     "THREPB": "threaten", // threa(glottal stop)en
     "THREPBG": "threatening",
     "THREPBD": "threatened",
+
+    // -URT for -utter
+    "PWURT": "butter", // overrides "Burt"
+    "KHRURT": "clutter",
+    "TPHRURT": "flutter",
+    "TKPWURT": "gutter",
+    "PHURT": "mutter",
 
     // Autocomplete effect
     "AUPL": "automatic",
@@ -85,24 +76,24 @@
     "PRAOEUFLT": "privately",
     "PHREULG": "publicly",
 
-    // Missing inflections
-    "ART/KHRAEUGT": "articulating",  // otherwise gives "art calculating"
-    "ART/KHRAEUTD": "articulated",
-    "SHREUD/TPAOEUG": "solidifying", // otherwise gives "sliddifying"
-
     // More sensible plurals
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
     "HR-PBS": "licenses", // same for HR-PB and HR-PBS
 
-    // Add missing plurals
+    // Pluralize the right word
+    "TOEFRTS": "efforts to",
+
+    // Missing plurals
     "KAUPB/SKWREBG/TAOURS": "conjectures",
     "TKREGS": "dregs",
     "HRAUR/KWRATS": "laureates",
     "HRAUFS": "layoffs",
     "PHOD/RATS": "moderates",
 
-    // Add -s after the right word
-    "TOEFRTS": "efforts to",
+    // Missing inflections
+    "ART/KHRAEUGT": "articulating",  // otherwise gives "art calculating"
+    "ART/KHRAEUTD": "articulated",
+    "SHREUD/TPAOEUG": "solidifying", // otherwise gives "sliddifying"
 
     // Don't capitalize
     "AUP/STAEUT": "upstate",
@@ -131,7 +122,7 @@
     "SAET": "asset",
     "TAEPBD": "attend",
 
-    // Heavily abbreviated strokes that somehow make sense
+    // Heavy abbreviations that somehow make sense
     "SKP-PB": "and then",
     "TWH-BGT": "when it comes to",
 
@@ -167,11 +158,20 @@
     "SKOLGS": "psychologist", // "psychologies" is very rare
     "SHULT": "shuttle",
 
+    // Don't map nice strokes to obscure words
+    "PH-B": "maybe", // not "Mapbox"
+
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
 
-    // Don't map nice strokes to obscure words
-    "PH-B": "maybe", // not "Mapbox"
+    // Abbreviations outside of steno theories
+    "SKWR-P": "Japan",     // JP
+    "SKWR-PS": "Japanese",
+    "KAOEB": "keyboard",   // keeb
+    "PHO": "month",        // mo
+    "PH-FT": "movement",   // mvt
+    "SEBG": "second",      // sec
+    "S*EBG": "sec",
 
     // Tricks
     "SED/SED": "said, \"{^}{-|}", // like SAEUD/SAEUD
