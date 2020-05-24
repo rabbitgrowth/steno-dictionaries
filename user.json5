@@ -55,6 +55,11 @@
     "THREPBG": "threatening",
     "THREPBD": "threatened",
 
+    // -AELT for -attle
+    "PWAELT": "battle",
+    "KAELT": "cattle",
+    "RAELT": "rattle", // use RELT for "relate"
+
     // -URT for -utter
     "PWURT": "butter", // overrides "Burt"
     "KHRURT": "clutter",
