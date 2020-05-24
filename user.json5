@@ -183,6 +183,10 @@
     "HRAL": "{#command(a)}",      // lal -> all
     "TPHAOP": "{#}",              // JUJ/(no-op)/*MT -> judgement
 
+    // The superrich
+    "TROEUPB/AEUR": "trillionaire", // c.f. "millionaire", "billionaire"
+    "SO*EUPB/AEUR": "zillionaire",
+
     // O*ERBGS for "oh" is really ugly. I like the intuitiveness of
     // O -> oh, but it feels a bit wasteful to assign something as nice
     // as O to a word that's not super common. An alternative is "to".
