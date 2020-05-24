@@ -72,6 +72,8 @@
     "TPHRURT": "flutter",
     "TKPWURT": "gutter",
     "PHURT": "mutter",
+    // It's a bit tempting to assign URT to "utter",
+    // but "you're the" is too useful to give up.
 
     // Autocomplete effect
     "AUPL": "automatic",
