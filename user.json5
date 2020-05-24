@@ -104,6 +104,8 @@
 
     // Merge words in common expressions
     "HRAOFT": "a lot of",
+    "SKPHEUS": "and his",
+    "SKPHER": "and her",
     "SKPOER": "and other",
     "TPAS": "as if",
     "AOEPBT": "even the",
