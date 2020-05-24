@@ -70,6 +70,19 @@
     "PRAELT": "prattle",
     "RAELT": "rattle", // use RELT for "relate"
 
+    // Avoid * for -[eiou]ttle
+    // Plover now allows SELT for "settle". "Fettle" and "nettle" clash with
+    // "felt" and "knelt" but are too rare for me to care about
+    "PWREUL": "brittle", // like HREUL for "little",
+                         // although "lil" is much more well-established
+    "PWOLT": "bottle",
+    "PWOELT": "bolt", // c.f. THUPBD/*ER/PWOELT "thunderbolt"
+    "THROLT": "throttle",
+    "SKULT": "scuttle", // overrides "consult"
+    "SULT": "consult",  // "sult" is a more distinctive part of "consult" anyway
+    "KULT": "cult",     // ... which frees up KULT for "cult"
+    "SHULT": "shuttle",
+
     // -URT for -utter
     "PWURT": "butter", // overrides "Burt"
     "KHRURT": "clutter",
@@ -178,7 +191,6 @@
 
     // Just use the starless version
     "SKOLGS": "psychologist", // "psychologies" is very rare
-    "SHULT": "shuttle",
 
     // Don't map nice strokes to obscure words
     "PH-B": "maybe", // not "Mapbox"
