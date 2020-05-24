@@ -14,6 +14,9 @@
     "A*EUL": "ail",
     "AED": "{^'d}",  // to complete the set: AES AEL AED
 
+    // Fold in -L for multi-stroke words
+    "PHEUFT/KWROULS": "mysteriously",
+
     // Consistency
     "AFT": "after the",       // with "before the"
     "TPHOEU": "annoy",        // with "annoying", "annoyed"
