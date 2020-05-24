@@ -95,21 +95,19 @@
     "PRAOEUFLT": "privately",
     "PHREULG": "publicly",
 
-    // More sensible plurals
+    // Plurals
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
     "HR-PBS": "licenses", // same for HR-PB and HR-PBS
-
-    // Pluralize the right word
-    "TOEFRTS": "efforts to",
-
-    // Missing plurals
-    "PWEPB/TPEURBS": "beneficiaries",
+    "PWEPB/TPEURBS": "beneficiaries", // just add -S to PWEPB/TPEURB
     "KAUPB/SKWREBG/TAOURS": "conjectures",
     "TKREGS": "dregs",
     "HRAUR/KWRATS": "laureates",
     "HRAUFS": "layoffs",
     "PHOD/RATS": "moderates",
     "WEUPBD/TPAULS": "windfalls",
+
+    // Pluralize the right word
+    "TOEFRTS": "efforts to",
 
     // Missing inflections
     "ART/KHRAEUGT": "articulating",  // otherwise gives "art calculating"
