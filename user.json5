@@ -92,6 +92,7 @@
     "HRAUR/KWRATS": "laureates",
     "HRAUFS": "layoffs",
     "PHOD/RATS": "moderates",
+    "WEUPBD/TPAULS": "windfalls",
 
     // Missing inflections
     "ART/KHRAEUGT": "articulating",  // otherwise gives "art calculating"
