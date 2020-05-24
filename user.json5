@@ -56,6 +56,12 @@
     "THREPBD": "threatened",
 
     // -AELT for -attle
+    // Plover already uses -AERT for -atter. You can think of AE as /æ/:
+    // PHAERT "matter" /ˈmætər/ (standard)
+    // PHART  "mart"   / mɑːrt/ (standard)
+    // We can extend this rule to apply to -AELT:
+    // PWAELT "battle" /ˈbætl/
+    // HALT   "halt"   / hɔːlt/ (standard)
     "PWAELT": "battle",
     "KAELT": "cattle",
     "RAELT": "rattle", // use RELT for "relate"
