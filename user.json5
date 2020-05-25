@@ -93,14 +93,54 @@
     "TKEUS/PHAPBLT": "dismantle",
     "PHEURLT": "myrtle",
 
-    // -[aeiou]ddle
-    // The * in *LD is much less droppable than the * in *LT.
-    // For example, TPEULD and PULD are perfect strokes for "filled"
-    // and "pulled", and there's no way I'm going to give them up for
-    // "fiddle" and "puddle". So for -[aeiou]ddle, just strive for
-    // consistency with the existing strokes.
+    // Try to drop * for -dle
+    // The * in *LD is less droppable than the * in *LT. For example,
+    // TPEULD and PULD are perfect strokes for "filled" and "pulled",
+    // and there's no way I'm going to give them up for "fiddle" and
+    // "puddle". So for -dle, drop * but only when that doesn't lead to
+    // conflicts; otherwise just aim for consistency with the existing
+    // starred strokes.
     "TK*EULD": "diddle", // with "middle", "riddle"
-    "H*ULD": "huddle",   // with "muddle", "puddle"
+    "KO*LD": "coddle",
+    "TO*LD": "toddle",
+    "K*ULD": "cuddle",   // with "muddle", "puddle"
+    "H*ULD": "huddle",
+
+    "PWRAOEULD": "bridle",  // precedent for starless -dle: PWUPBLD  "bundle"
+    "PWRAO*EULD": "bridle", // but with star is fine too:   PW*UPBLD "bundle"
+    "KAPBLD": "candle",
+    "KA*PBLD": "candle",
+    "KRAEULD": "cradle",
+    "KRA*EULD": "cradle",
+    "K*URLD": "curdle",  // KURLD is "curled"
+    "TKA*ULD": "dawdle", // TKAULD is "called it"
+    "TKAOLD": "doodle",
+    "TKAO*LD": "doodle",
+    "TKWEUPBLD": "dwindle",
+    "TKW*EUPBLD": "dwindle",
+    "TPOPBLD": "fondle",
+    "TPO*PBLD": "fondle",
+    "TKPWEURLD": "girdle",
+    "TKPW*EURLD": "girdle",
+    "AOEULD": "idle", // overrides "island"
+    "AO*EULD": "idle",
+    "AOEUPBLD": "island", // use SKPAOEUPL for "and I'm"
+    "AO*EUPBLD": "Island",
+    "KEUPBLD": "kindle",
+    "K*EUPBLD": "kindle",
+    "HRAEULD": "ladle", // overrides "Long Island"
+    "HRA*EULD": "ladle",
+    "HRAOEUPBLD": "Long Island",
+    "TPHAOLD": "noodle",
+    "SAOEULD": "sidle",
+    "SAO*EULD": "sidle",
+    "SWEUPBLD": "swindle",
+    "SW*EUPBLD": "swindle",
+    "TRUPBLD": "trundle",
+    "TR*UPBLD": "trundle",
+    "WHAO*ELD": "wheedle", // WHAOELD is "wheeled"
+    // As a special case, "handle" is HAPBL,
+    // so HAPBLD makes more sense as "handled"
 
     // -URT for -utter
     "PWURT": "butter", // overrides "Burt"
