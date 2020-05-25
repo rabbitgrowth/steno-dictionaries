@@ -61,8 +61,7 @@
     // Drop * for -tle
     // Precedents: SELT "settle", TAOEULT "title"
     "PWALT": "battle",
-    "PWA*LT": "ballot",
-    "PW-LT": "ballot",
+    "PWAELT": "ballot",
     "KALT": "cattle",
     "PRALT": "prattle",
     "RALT": "rattle",
