@@ -83,6 +83,12 @@
     "KULT": "cult",     // ... which frees up KULT for "cult"
     "SHULT": "shuttle",
 
+    // Consistency for -[aeiou]ddle
+    // Omitting * in *LD leads to much worse conflicts than in *LT,
+    // so just strive for consistency with the existing strokes.
+    "TK*EULD": "diddle", // with "middle", "riddle"
+    "H*ULD": "huddle",   // with "muddle", "puddle"
+
     // -URT for -utter
     "PWURT": "butter", // overrides "Burt"
     "KHRURT": "clutter",
