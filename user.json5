@@ -58,8 +58,8 @@
     "THREPBG": "threatening",
     "THREPBD": "threatened",
 
-    // Drop * for -[aeiou]ttle
-    // Precedent: SELT "settle"
+    // Drop * for -tle
+    // Precedents: SELT "settle", TAOEULT "title"
     "PWALT": "battle",
     "PWA*LT": "ballot",
     "PW-LT": "ballot",
@@ -83,6 +83,15 @@
     "SULT": "consult",  // "sult" is a more distinctive part of "consult" anyway
     "KULT": "cult",     // ... which frees up KULT for "cult"
     "SHULT": "shuttle",
+
+    "PWAOELT": "beetle",
+    "KHORLT": "chortle",
+    "SKWREPBLT": "gentle",
+    "SKWR*EPBLT": "generality",
+    "HURLT": "hurtle",
+    "PHAPBLT": "mantle",
+    "TKEUS/PHAPBLT": "dismantle",
+    "PHEURLT": "myrtle",
 
     // -[aeiou]ddle
     // The * in *LD is much less droppable than the * in *LT.
