@@ -72,7 +72,7 @@
 
     // Avoid * for -[eiou]ttle
     // Plover now allows SELT for "settle". "Fettle" and "nettle" clash with
-    // "felt" and "knelt" but are too rare for me to care about
+    // "felt" and "knelt" but are too rare for me to care about.
     "PWREUL": "brittle", // like HREUL for "little",
                          // although "lil" is much more well-established
     "PWOLT": "bottle",
