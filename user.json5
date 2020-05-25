@@ -83,9 +83,12 @@
     "KULT": "cult",     // ... which frees up KULT for "cult"
     "SHULT": "shuttle",
 
-    // Consistency for -[aeiou]ddle
-    // Omitting * in *LD leads to much worse conflicts than in *LT,
-    // so just strive for consistency with the existing strokes.
+    // -[aeiou]ddle
+    // Omitting * in *LD leads to much worse conflicts than in *LT.
+    // For example, TPEULD and PULD are perfect strokes for "filled"
+    // and "pulled", and there's no way I'm going to give them up for
+    // "fiddle" and "puddle". So for -[aeiou]ddle, just strive for
+    // consistency with the existing strokes.
     "TK*EULD": "diddle", // with "middle", "riddle"
     "H*ULD": "huddle",   // with "muddle", "puddle"
 
