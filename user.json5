@@ -58,25 +58,26 @@
     "THREPBG": "threatening",
     "THREPBD": "threatened",
 
-    // -AELT for -attle
-    // Plover already uses -AERT for -atter. You can think of AE as /æ/:
-    // PHAERT "matter" /ˈmætər/ (standard)
-    // PHART  "mart"   / mɑːrt/ (standard)
-    // We can extend this rule to apply to -AELT:
-    // PWAELT "battle" /ˈbætl/
-    // HALT   "halt"   / hɔːlt/ (standard)
-    "PWAELT": "battle",
-    "KAELT": "cattle",
-    "PRAELT": "prattle",
-    "RAELT": "rattle", // use RELT for "relate"
-
-    // Avoid * for -[eiou]ttle
-    // Plover now allows SELT for "settle". "Fettle" and "nettle" clash with
-    // "felt" and "knelt" but are too rare for me to care about.
-    "PWREUL": "brittle", // like HREUL for "little",
-                         // although "lil" is much more well-established
+    // Drop * for -[aeiou]ttle
+    // Precedent: SELT "settle"
+    "PWALT": "battle",
+    "PWA*LT": "ballot",
+    "PW-LT": "ballot",
+    "KALT": "cattle",
+    "PRALT": "prattle",
+    "RALT": "rattle",
+    // There's also "tattle" but TALT is already used by "totality".
+    "KELT": "kettle",
+    "K*ELT": "Celt",
+    // "Fettle", "mettle", and "nettle" clash with "felt", "melt", and "knelt"
+    // but are too rare for me to care about.
+    "PWHREUL": "belittle", // c.f. HREUL "little"
+    "PWREUL": "brittle", // conflicts with "brilliant" with -T
+    "WHEUL": "whittle",
+    "WHEULT": "whittle", // allow adding -T
     "PWOLT": "bottle",
-    "PWOELT": "bolt", // c.f. THUPBD/*ER/PWOELT "thunderbolt"
+    "PWOELT": "bolt", // BOLT not giving "bolt" feels weird but there is precedent:
+                      // THUPBD/*ER/PWOELT "thunderbolt"
     "THROLT": "throttle",
     "SKULT": "scuttle", // overrides "consult"
     "SULT": "consult",  // "sult" is a more distinctive part of "consult" anyway
