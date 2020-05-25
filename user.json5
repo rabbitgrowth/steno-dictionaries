@@ -93,7 +93,7 @@
     "TKEUS/PHAPBLT": "dismantle",
     "PHEURLT": "myrtle",
 
-    // Try to drop * for -dle
+    // Drop * for -dle if possible
     // The * in *LD is less droppable than the * in *LT. For example,
     // TPEULD and PULD are perfect strokes for "filled" and "pulled",
     // and there's no way I'm going to give them up for "fiddle" and
