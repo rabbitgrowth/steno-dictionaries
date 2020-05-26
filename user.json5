@@ -2,9 +2,10 @@
 
     // Simpler vowels
     "KRERPBT": "century",    // use STR for "center"
-    "TKEUFLT": "difficulty", // use TKEUFL for "difficult"
+    "TKEUFLT": "difficulty", // TKEUFL "difficult" + -T
+    "HEF": "heavy",          // HEFL "heavily" - -L
+    "HRURBG/TEUF": "lucrative",
     "PHERPL": "memory",
-    "PHERPLS": "memories",
 
     // Use -L for -ly
     // END/-D "ended" feels nice. Why not F*UL/-L for "fundamentally"?
