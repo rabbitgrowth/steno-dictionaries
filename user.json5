@@ -39,7 +39,8 @@
     "STRAOEUTD": "strident",
     "SRAPBL/TAOEUPB": "valentine",
 
-    // Glue words together
+    // Compound words
+    "KROS/WORD": "crossword",
     "KURB/SAOEUD": "curbside",
     "TKAEUR/SAEU": "daresay",
     "HOEPL/PWOUPBD": "homebound",
