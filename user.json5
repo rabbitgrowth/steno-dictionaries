@@ -159,9 +159,11 @@
     "SAOUF": "souvenir",
 
     // Modal verb + be
-    "PHAEUB": "may be",
-    "PHAOEUBT": "might be",
+    "PHAEUB": "may be", // overrides "maybe"
+    "PH-B": "maybe",    // overrides "Mapbox", but who cares?
+    "PHAOEUBT": "might be", // or use the standard PHAOEUB which omits the -T
     "PHUFBT": "must be",
+    "PHUFB": "must be", // for consistency with PHAOEUB
 
     // Common adverbs
     "PRAOEUFLT": "privately",
@@ -249,9 +251,6 @@
 
     // Just use the starless version
     "SKOLGS": "psychologist", // "psychologies" is very rare
-
-    // Don't map nice strokes to obscure words
-    "PH-B": "maybe", // not "Mapbox"
 
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
