@@ -166,6 +166,24 @@
     "PHUFBT": "must be",
     "PHUFB": "must be", // for consistency with PHAOEUB
 
+    // Fold in "to" as TO or O
+    "SRO": "have to",
+    "SROB": "have to be", // you can keep going
+    "SROBT": "have to be the", // and going
+    "STROB": "have to be", // STRO for "have to" is standard
+    "STROBT": "have to be the",
+    "SKPO": "and to", // STKPO too tricky to type
+    "SKPOB": "and to be",
+    "SKPOBT": "and to be the",
+    "TKPWO": "go to", // use TKPW for "go"
+    "TKPWOG": "going to", // "goes to" and "went to" already work
+    "TPWO": "about to",
+    "TPWOB": "about to be", // needs T to avoid conflict with "bob"
+    "STOBT": "is to be the",
+    "TOFS": "was to",
+    "TOFBS": "was to be",
+    "TOFBTS": "was to be the", // tricky to type, just for completeness
+
     // Common adverbs
     "PRAOEUFLT": "privately",
     "PHREULG": "publicly",
