@@ -259,6 +259,7 @@
     "PR*UPL": "President Trump",
 
     // Abbreviations outside of steno theories
+    "TK-L": "download",    // dl
     "SKWR-P": "Japan",     // JP
     "SKWR-PS": "Japanese",
     "KAOEB": "keyboard",   // keeb
