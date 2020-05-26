@@ -183,6 +183,10 @@
     "TOFS": "was to",
     "TOFBS": "was to be",
     "TOFBTS": "was to be the", // tricky to type, just for completeness
+    "TROEFR": "refer to",
+    "TROEFRS": "refers to",
+    "TOEFRTS": "efforts to", // pluralize the right word
+    "TWAOEU": "way to", // TWAOEUS already taken by "twice"
 
     // Common adverbs
     "PRAOEUFLT": "privately",
@@ -198,9 +202,6 @@
     "HRAUFS": "layoffs",
     "PHOD/RATS": "moderates",
     "WEUPBD/TPAULS": "windfalls",
-
-    // Pluralize the right word
-    "TOEFRTS": "efforts to",
 
     // Missing inflections
     "ART/KHRAEUGT": "articulating",  // otherwise gives "art calculating"
@@ -220,10 +221,7 @@
     "TPAOEPBT": "even if the",
     "STPH": "is in", // overrides ? but KW-PL is much nicer anyway
     "T-TS": "it's the",
-    "TROEFR": "refer to",
-    "TROEFRS": "refers to",
     "-FTS": "was the",
-    "TWAOEU": "way to", // TWAOEUS already taken by "twice"
     "WHE": "when he",
     "TWH": "when it",
 
