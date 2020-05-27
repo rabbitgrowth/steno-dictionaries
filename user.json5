@@ -269,13 +269,10 @@
     "KURPB": "curtain",
     "TPREFT": "forest",
     "TKPWARPB": "garden",
+    "TKPWOEPL": "go home",
     "HEUPB": "hidden",
     "HRAURPBD": "laundry",
     "STURD": "sturdy", // or think stur-D
-
-    // Melding
-    "KREUFPL": "criticism",
-    "TKPWOEPL": "go home",
 
     // Drop *
     "KWRAER": "area", // Too much mental gymnastics with KWRA*ER:
@@ -303,6 +300,15 @@
     "SED/SED": "said, \"{^}{-|}", // like SAEUD/SAEUD
     "HRAL": "{#command(a)}",      // lal -> all
     "TPHAOP": "{#}",              // JUJ/(no-op)/*MT -> judgement
+
+    // Finding faults
+    "KREUFPL": "criticism",
+    "KRAOEUZ": "criticize",
+    "KREUL": "critical",
+    "KR*EUL": "krill", // I don't care if "krill" is a perfect match phonetically;
+                       // "critical" is way, way more common
+    "KREUBG": "critic",
+    "KR*EUBG": "crick", // use KAERBG for "characteristic"
 
     // The superrich
     "TROEUPB/AEUR": "trillionaire", // c.f. "millionaire", "billionaire"
