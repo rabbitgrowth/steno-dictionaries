@@ -308,6 +308,7 @@
     "KR*EUL": "krill", // I don't care if "krill" is a perfect match phonetically;
                        // "critical" is way, way more common
     "KREUBG": "critic",
+    "KREUBGS": "critics",
     "KR*EUBG": "crick", // use KAERBG for "characteristic"
 
     // The superrich
