@@ -52,9 +52,6 @@
     "HOEPL/PWOUPBD": "homebound",
     "SKART/SHOT": "scattershot",
 
-    // Portmanteaus
-    "TKPWOEPL": "go home",
-
     // Use F for -s-
     "AOUFR": "user", // allows one-stroking "users"; use AUFR for {over^}
 
@@ -275,6 +272,10 @@
     "HEUPB": "hidden",
     "HRAURPBD": "laundry",
     "STURD": "sturdy", // or think stur-D
+
+    // Melding
+    "KREUFPL": "criticism",
+    "TKPWOEPL": "go home",
 
     // Drop *
     "KWRAER": "area", // Too much mental gymnastics with KWRA*ER:
