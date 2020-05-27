@@ -6,6 +6,7 @@
     "HEF": "heavy",          // HEFL "heavily" - -L
                              // it's also nice that HEF + -T = "heft"
     "PHERPL": "memory",
+    "PARPLT": "parliament", // use ARPLT for "apartment"
 
     // Use -L for -ly
     // END/-D "ended" feels nice. Why not F*UL/-L for "fundamentally"?
