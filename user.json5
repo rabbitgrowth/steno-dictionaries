@@ -261,6 +261,8 @@
     "SPHRAPB/TREU": "explanatory",
     "TPHRO*E": "fellow",
     "SKHRAUS": "Santa Claus", // which should end with -z
+    "SRAOES": "series",
+    "SRAOEZ": "series",
 
     // Drop weak sounds
     "PWHOLD": "behold",
