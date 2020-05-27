@@ -38,7 +38,6 @@
     // Reduce strokes for long words
     "SPWREUBGT": "intricate",
     "PAPL/TAEUT": "palpitate",
-    "SKREUFS": "sacrifice",
     "STHRAOEUT": "satellite",
     "STRAOEUTD": "strident",
     "SRAPBL/TAOEUPB": "valentine",
@@ -324,6 +323,12 @@
     // "industry", but that's one more thing to remember.
     "STREUS": "industries",
     "STROUS": "industrious",
+
+    // SKREUFS for "sacrifice" is nice because it has all the consonants
+    // in it, but it ends with -S, which makes "sacrifices" and "sacrificed"
+    // awkward. So just drop the -S. We can pretend "scriff" is Ploverese
+    // for "sacrifice".
+    "SKREUF": "sacrifice",
 
     // The standard dictionary has TPHURGS for "nurse" and TPHURBGS for
     // "nursing". There seem to be an extra G in the former and an extra
