@@ -273,6 +273,7 @@
     "KWRAER": "area", // Too much mental gymnastics with KWRA*ER:
                       // "area" -> ERYA -> YAER -> YAER*
     "SKOLGS": "psychologist", // "psychologies" is very rare
+    "THOEUPB": "{^,000}",
 
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
