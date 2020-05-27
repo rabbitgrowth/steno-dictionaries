@@ -35,12 +35,13 @@
     "WOEPB": "woken",          // with "broken", "spoken"
     "PAUFT": "{post^}",        // with "con-", "over-"
 
-    // Reduce strokes for long words
+    // Phonetically near-lossless compressions
     "SPWREUBGT": "intricate",
     "PAPL/TAEUT": "palpitate",
     "STHRAOEUT": "satellite",
     "STRAOEUTD": "strident",
     "SRAPBL/TAOEUPB": "valentine",
+    "SRAOEPBG": "vegan",
 
     // Compound words
     "KROS/WORD": "crossword",
@@ -162,7 +163,6 @@
     "HURG": "hurrying",
     "HURD": "hurried",
     "SAOUF": "souvenir",
-    "SRAOEG": "vegan",
 
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
