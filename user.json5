@@ -18,7 +18,7 @@
     // Fold in -L for multi-stroke words
     "PHEUFT/KWROULS": "mysteriously",
 
-    // Consistency
+    // Consistency with existing strokes
     "AFT": "after the",        // with "before the"
     "TPHOEU": "annoy",         // with "annoying", "annoyed"
     "PWRAOEUFPB": "brighten",  // with the standard "frighten"
@@ -206,7 +206,7 @@
     "PHOD/RATS": "moderates",
     "WEUPBD/TPAULS": "windfalls",
 
-    // Missing inflections
+    // Inflections
     "ART/KHRAEUGT": "articulating",   // otherwise gives "art calculating"
     "ART/KHRAEUTD": "articulated",
     "SPWOBGS/KAEUGT": "intoxicating", // otherwise gives "sandbox indicating"
@@ -242,18 +242,17 @@
     "SKP-PB": "and then",
     "TWH-BGT": "when it comes to",
 
-    // Pick more distinctive part of word for brief
+    // Pick more distinctive part of word
     "STRAEUGS": "administration",
     "STEPBD": "extend",
     "TKAO*ED": "indeed",
     "TPHAOEBG": "technique", // add star for "anemic"
 
-    // Assign the nicer stroke to the word that's more common
+    // Assign nicer stroke to word that's more common
     "STPHUR": "ensure", // merges TPH and SH
     "STPH*UR": "insure",
 
-    // Adjustments to match my personal (and sometimes wrong)
-    // perceptions of how English words are pronounced
+    // Adjust to match how I (wrongly) pronounce words
     "EFP/KWROPB/APBLG": "espionage",
     "SPHRAPB/TREU": "explanatory",
     "TPHRO*E": "fellow",
