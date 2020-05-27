@@ -246,7 +246,7 @@
     "STRAEUGS": "administration",
     "STEPBD": "extend",
     "TKAO*ED": "indeed",
-    "TPHAOEBG": "technique", // add star for "anemic"
+    "TPHAOEBG": "technique", // add * for "anemic"
 
     // Assign nicer stroke to word that's more common
     "STPHUR": "ensure", // merges TPH and SH
@@ -269,7 +269,9 @@
     "HRAURPBD": "laundry",
     "STURD": "sturdy", // or think stur-D
 
-    // Just use the starless version
+    // Drop *
+    "KWRAER": "area", // Too much mental gymnastics with KWRA*ER:
+                      // "area" -> ERYA -> YAER -> YAER*
     "SKOLGS": "psychologist", // "psychologies" is very rare
 
     // Current words
