@@ -1,10 +1,10 @@
 {
 
     // Simpler vowels
-    "KRERPBT": "century",    // use STR for "center"
+    "KRERPBT": "century", // use STR for "center"
     "TKEUFLT": "difficulty", // TKEUFL "difficult" + -T
-    "HEF": "heavy",          // HEFL "heavily" - -L
-                             // it's also nice that HEF + -T = "heft"
+    "HEF": "heavy", // HEFL "heavily" - -L
+                    // it's also nice that HEF + -T = "heft"
     "PHERPL": "memory",
     "PARPLT": "parliament", // use ARPLT for "apartment"
 
