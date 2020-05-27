@@ -34,7 +34,6 @@
     "PAUFT": "{post^}",        // with "con-", "over-"
 
     // Reduce strokes for long words
-    "SPWOBGS/KAEUGT": "intoxicating",
     "SPWREUBGT": "intricate",
     "PAPL/TAEUT": "palpitate",
     "STHRAOEUT": "satellite",
@@ -207,9 +206,10 @@
     "WEUPBD/TPAULS": "windfalls",
 
     // Missing inflections
-    "ART/KHRAEUGT": "articulating",  // otherwise gives "art calculating"
+    "ART/KHRAEUGT": "articulating",   // otherwise gives "art calculating"
     "ART/KHRAEUTD": "articulated",
-    "SHREUD/TPAOEUG": "solidifying", // otherwise gives "sliddifying"
+    "SPWOBGS/KAEUGT": "intoxicating", // otherwise gives "sandbox indicating"
+    "SHREUD/TPAOEUG": "solidifying",  // otherwise gives "sliddifying"
 
     // Don't capitalize
     "AUP/STAEUT": "upstate",
