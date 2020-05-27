@@ -5,7 +5,6 @@
     "TKEUFLT": "difficulty", // TKEUFL "difficult" + -T
     "HEF": "heavy",          // HEFL "heavily" - -L
                              // it's also nice that HEF + -T = "heft"
-    "HRURBG/TEUF": "lucrative",
     "PHERPL": "memory",
 
     // Use -L for -ly
