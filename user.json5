@@ -320,6 +320,13 @@
     "KR-G": "occurring",
     "KR-D": "occurred",
 
+    // HOEUFLT for "healthy" doesn't make sense at all. There's the ugly
+    // all-purpose disambiguator OEU again, and what does that F even
+    // stand for? H*EULT is better: it feels related to H*ELT "health",
+    // and you can think of it as either "H*ELT with E changed to EU" or
+    // as "HLTHI".
+    "H*EULT": "healthy",
+
     // STREUS feels more like "industries" (STREU + -S for plural) than
     // "industrious". Of course I can remember to use -Z to pluralize
     // "industry", but that's one more thing to remember.
