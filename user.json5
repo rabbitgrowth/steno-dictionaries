@@ -191,10 +191,6 @@
     "TWAOEU": "way to", // TWAOEUS already taken by "twice"
     "TAOUFBD": "used to be",
 
-    // Common adverbs
-    "PRAOEUFLT": "privately",
-    "PHREULG": "publicly",
-
     // Plurals
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
     "HR-PBS": "licenses", // same for HR-PB and HR-PBS
@@ -211,6 +207,10 @@
     "ART/KHRAEUTD": "articulated",
     "SPWOBGS/KAEUGT": "intoxicating", // otherwise gives "sandbox indicating"
     "SHREUD/TPAOEUG": "solidifying",  // otherwise gives "sliddifying"
+
+    // Common adverbs
+    "PRAOEUFLT": "privately",
+    "PHREULG": "publicly",
 
     // Don't capitalize
     "AUP/STAEUT": "upstate",
