@@ -323,6 +323,10 @@
     "TROEUPB/AEUR": "trillionaire", // c.f. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
 
+    // Awesome bands
+    "SRAOUF": "Vulf",
+    "SRAOUF/PEBG": "Vulfpeck",
+
     // O*ERBGS for "oh" is really ugly. I like the intuitiveness of
     // O -> oh, but it feels a bit wasteful to assign something as nice
     // as O to a word that's not super common. An alternative is "to".
