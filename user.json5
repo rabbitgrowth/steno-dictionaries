@@ -234,11 +234,14 @@
 
     // Fold in A for a-
     "KRAOS": "across",
+    "TKAOPT": "adopt",
     "HAED": "ahead",
+    "HRAERT": "alert", // use HRART for "latter"
     "HRAEUF": "alive",
     "SAERT": "assert",
     "SAES": "assess",
     "SAET": "asset",
+    "SHAUR": "assure",
     "TAEPBD": "attend",
 
     // Heavy abbreviations that somehow make sense
