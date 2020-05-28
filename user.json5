@@ -298,6 +298,7 @@
 
     // For work
     "HED/WORD": "headword",
+    "HED/WORDZ": "headwords",
 
     // Tricks
     "SED/SED": "said, \"{^}{-|}", // like SAEUD/SAEUD
