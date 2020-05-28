@@ -301,6 +301,11 @@
     "HRAL": "{#command(a)}",      // lal -> all
     "TPHAOP": "{#}",              // JUJ/(no-op)/*MT -> judgement
 
+    // Affirmation
+    "KWRE": "yeah",
+    "KWRES": "yes",
+    "KWREFS": "yes{,}sir", // "yess"
+
     // Finding faults
     "KREUFPL": "criticism", // "critsim" already truncates the "ci". Why not go further?
     "KRAOEUZ": "criticize",
