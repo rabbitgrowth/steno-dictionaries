@@ -234,14 +234,18 @@
 
     // Fold in A for a-
     "KRAOS": "across",
-    "TKAOPT": "adopt",
+    "TKAOPT": "adopt",     // or just use TKOPT
+    "TKAOPGS": "adoption", // or just use TKOPGS
     "HAED": "ahead",
     "HRAERT": "alert", // use HRART for "latter"
     "HRAEUF": "alive",
     "SAERT": "assert",
+    "SAERGS": "assertion",
     "SAES": "assess",
+    "SAEFPLT": "assessment", // or just use SEFPLT
     "SAET": "asset",
     "SHAUR": "assure",
+    "SHAURPBS": "assurance",
     "TAEPBD": "attend",
 
     // Heavy abbreviations that somehow make sense
