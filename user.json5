@@ -302,7 +302,7 @@
     "TPHAOP": "{#}",              // JUJ/(no-op)/*MT -> judgement
 
     // Finding faults
-    "KREUFPL": "criticism",
+    "KREUFPL": "criticism", // "critsim" already truncates the "ci". Why not go further?
     "KRAOEUZ": "criticize",
     "KREUL": "critical",
     "KR*EUL": "krill", // I don't care if "krill" is a perfect match phonetically;
