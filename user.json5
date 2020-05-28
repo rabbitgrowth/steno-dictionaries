@@ -281,11 +281,6 @@
     "-PLT": "{^ment}", // use TP-PL for {.}
     "THOEUPB": "{^,000}", // also avoids typing 3/2/1/THO*EUPB and getting "32 1,000"
 
-    // Current words
-    "KROEPB/SRAOEURS": "coronavirus",
-    "KOEFD/1-9": "Covid-19",
-    "PR*UPL": "President Trump",
-
     // Abbreviations outside of steno theories
     "TK-L": "download",    // dl
     "SKWR-P": "Japan",     // JP
@@ -295,6 +290,14 @@
     "PH-FT": "movement",   // mvt
     "SEBG": "second",      // sec
     "S*EBG": "sec",
+
+    // Current words
+    "KROEPB/SRAOEURS": "coronavirus",
+    "KOEFD/1-9": "Covid-19",
+    "PR*UPL": "President Trump",
+
+    // For work
+    "HED/WORD": "headword",
 
     // Tricks
     "SED/SED": "said, \"{^}{-|}", // like SAEUD/SAEUD
