@@ -242,6 +242,13 @@
     "WHE": "when he",
     "TWH": "when it",
 
+    // J for "just"
+    "SKWR": "just",
+    "SKWR-T": "just the", // overrides "jury trial"
+    "SKWR-LG": "just like", // starless -lk
+    "SKWR-PBG": "just in case", // "junk" is SKWRUPBG; no * needed
+    "SKWRUF": "justify", // drop *
+
     // Plurals
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
     "HR-PBS": "licenses", // same for HR-PB and HR-PBS
