@@ -288,9 +288,10 @@
     // Drop *
     "KWRAER": "area", // Too much mental gymnastics with KWRA*ER:
                       // "area" -> ERYA -> YAER -> YAER*
-    "SKOLGS": "psychologist", // "psychologies" is very rare
+    "SPWREBGS": "intersection", // no * in "intersect"
+    "SKOLGS": "psychologist", // "psychologies" too rare
     "-PLT": "{^ment}", // use TP-PL for {.}
-    "THOEUPB": "{^,000}", // also avoids typing 3/2/1/THO*EUPB and getting "32 1,000"
+    "THOEUPB": "{^,000}", // also avoids 3/2/1/THO*EUPB outputting "32 1,000"
 
     // Abbreviations outside of steno theories
     "TK-L": "download",    // dl
