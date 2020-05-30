@@ -43,6 +43,9 @@
     "TKPWROFRPB": "governor",
     "SPROR": "supporter",
 
+    // Miscellaneous folding in
+    "K-BLT": "accountable", // "accountability" is K-T/-BLT
+
     // Consistency with existing strokes
     "AFT": "after the",        // with "before the"
     "TPHOEU": "annoy",         // with "annoying", "annoyed"
