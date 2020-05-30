@@ -210,9 +210,12 @@
     "SROBT": "have to be the", // and going
     "STROB": "have to be", // STRO for "have to" is standard
     "STROBT": "have to be the",
-    "SKPO": "and to", // STKPO too tricky to type
+    "SKPO": "and to",
     "SKPOB": "and to be",
     "SKPOBT": "and to be the",
+    "STKPO": "and to", // just for completeness; SKPO feels cleaner
+    "STKPOB": "and to be",
+    "STKPOBT": "and to be the",
     "TKPWO": "go to", // use TKPW for "go"
     "TKPWOG": "going to", // "goes to" and "went to" already work
     "TPWO": "about to",
