@@ -38,6 +38,9 @@
     "PAUFT": "{post^}",        // with "con-", "over-"
 
     // Phonetically near-lossless compressions
+    "ARPB/KEU": "anarchy",
+    "ARPB/KEUFPL": "anarchism",
+    "ARPB/KEUFT": "anarchist",
     "SPWREFT": "interest", // for when my brain malfunctions and I forget about TR
     "SPWREUBGT": "intricate",
     "PAPL/TAEUT": "palpitate",
