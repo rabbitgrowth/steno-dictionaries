@@ -37,7 +37,11 @@
 
     // Fold in -R for -er or -or
     "STKRAEURT": "demonstrator",
-    "SPROR": "supporter", // R on left
+
+    // ... or use R if -R is already used
+    // Precedents: TPRORPL "former", RERL "earlier"
+    "TKPWROFRPB": "governor",
+    "SPROR": "supporter",
 
     // Consistency with existing strokes
     "AFT": "after the",        // with "before the"
