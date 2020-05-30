@@ -17,6 +17,8 @@
     "AED": "{^'d}",  // to complete the set: AES AEL AED
 
     // Fold in -L for -ly
+    "PHREULG": "publicly",
+    "PRAOEUFLT": "privately",
     "PHEUFT/KWROULS": "mysteriously",
 
     // Fold in A for a-
@@ -271,10 +273,6 @@
     "ES/KHRAEUTD": "escalated",
     "SPWOBGS/KAEUGT": "intoxicating", // otherwise gives "sandbox indicating"
     "SHREUD/TPAOEUG": "solidifying",  // otherwise gives "sliddifying"
-
-    // Adverbs
-    "PRAOEUFLT": "privately",
-    "PHREULG": "publicly",
 
     // Expand "n't" into "not" with -L as bridge
     "K-PBLT": "cannot",     // from K-PBT "can't"
