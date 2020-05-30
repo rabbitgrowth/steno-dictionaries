@@ -330,7 +330,7 @@
     "HED/WORDZ": "headwords",
 
     // Tricks
-    "SED/SED": "said, \"{^}{-|}", // like SAEUD/SAEUD
+    "SED/SED": "said. \"{^}{-|}", // like SAEUD/SAEUD but with .
     "HRAL": "{#command(a)}",      // lal -> all
     "TPHAOP": "{#}",              // JUJ/(no-op)/*MT -> judgement
 
