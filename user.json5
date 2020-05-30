@@ -16,8 +16,28 @@
     "A*EUL": "ail",
     "AED": "{^'d}",  // to complete the set: AES AEL AED
 
-    // Fold in -L for multi-stroke words
+    // Fold in -L for -ly
     "PHEUFT/KWROULS": "mysteriously",
+
+    // Fold in A for a-
+    "KRAOS": "across",
+    "TKAOPT": "adopt",     // or just use TKOPT
+    "TKAOPGS": "adoption", // or just use TKOPGS
+    "HAED": "ahead",
+    "HRAERT": "alert", // use HRART for "latter"
+    "HRAEUF": "alive",
+    "SAERT": "assert",
+    "SAERGS": "assertion",
+    "SAES": "assess",
+    "SAEFPLT": "assessment", // or just use SEFPLT
+    "SAET": "asset",
+    "SHAUR": "assure",
+    "SHAURPBS": "assurance",
+    "TAEPBD": "attend",
+
+    // Fold in -R for -er or -or
+    "STKRAEURT": "demonstrator",
+    "SPROR": "supporter", // R on left
 
     // Consistency with existing strokes
     "AFT": "after the",        // with "before the"
@@ -237,22 +257,6 @@
     "-FTS": "was the",
     "WHE": "when he",
     "TWH": "when it",
-
-    // Fold in A for a-
-    "KRAOS": "across",
-    "TKAOPT": "adopt",     // or just use TKOPT
-    "TKAOPGS": "adoption", // or just use TKOPGS
-    "HAED": "ahead",
-    "HRAERT": "alert", // use HRART for "latter"
-    "HRAEUF": "alive",
-    "SAERT": "assert",
-    "SAERGS": "assertion",
-    "SAES": "assess",
-    "SAEFPLT": "assessment", // or just use SEFPLT
-    "SAET": "asset",
-    "SHAUR": "assure",
-    "SHAURPBS": "assurance",
-    "TAEPBD": "attend",
 
     // Heavy abbreviations that somehow make sense
     "SKP-PB": "and then",
