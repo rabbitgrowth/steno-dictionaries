@@ -264,7 +264,8 @@
 
     // Pick more distinctive part of word
     "STRAEUGS": "administration",
-    "STEPBD": "extend", // overrides "send it"
+    "STEPBD": "extend",      // overrides "send it"
+    "STEPBD/-D": "extended", // misstroke for "tended"?
     "TKAO*ED": "indeed",
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "TPHAOEBG": "technique", // add * for "anemic"
