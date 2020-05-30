@@ -247,7 +247,6 @@
     "SKWR-T": "just the", // overrides "jury trial"
     "SKWR-LG": "just like", // starless -lk
     "SKWR-PBG": "just in case", // "junk" is SKWRUPBG; no * needed
-    "SKWRUF": "justify", // drop *
 
     // Plurals
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
@@ -315,6 +314,7 @@
     "KWRAER": "area", // Too much mental gymnastics with KWRA*ER:
                       // "area" -> ERYA -> YAER -> YAER*
     "SPWREBGS": "intersection", // no * in "intersect"
+    "SKWRUF": "justify", // no * in "justifiable", "justification", etc.
     "SKOLGS": "psychologist", // "psychologies" too rare
     "-PLT": "{^ment}", // use TP-PL for {.}
     "THOEUPB": "{^,000}", // also avoids 3/2/1/THO*EUPB outputting "32 1,000"
