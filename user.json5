@@ -209,6 +209,8 @@
     // Inflections
     "ART/KHRAEUGT": "articulating",   // otherwise gives "art calculating"
     "ART/KHRAEUTD": "articulated",
+    "ES/KHRAEUGT": "escalating",
+    "ES/KHRAEUTD": "escalated",
     "SPWOBGS/KAEUGT": "intoxicating", // otherwise gives "sandbox indicating"
     "SHREUD/TPAOEUG": "solidifying",  // otherwise gives "sliddifying"
 
