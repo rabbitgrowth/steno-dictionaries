@@ -259,6 +259,7 @@
     "STRAEUGS": "administration",
     "STEPBD": "extend",
     "TKAO*ED": "indeed",
+    "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "TPHAOEBG": "technique", // add * for "anemic"
 
     // Assign nicer stroke to word that's more common
