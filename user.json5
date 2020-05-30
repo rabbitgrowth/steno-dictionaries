@@ -222,6 +222,20 @@
     "TWAOEU": "way to", // TWAOEUS already taken by "twice"
     "TAOUFBD": "used to be",
 
+    // Miscellaneous intentional stacking
+    "HRAOFT": "a lot of",
+    "SKPHEUS": "and his",
+    "SKPHER": "and her",
+    "SKPOER": "and other",
+    "TPAS": "as if",
+    "AOEPBT": "even the",
+    "TPAOEPBT": "even if the",
+    "STPH": "is in",
+    "T-TS": "it's the",
+    "-FTS": "was the",
+    "WHE": "when he",
+    "TWH": "when it",
+
     // Plurals
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
     "HR-PBS": "licenses", // same for HR-PB and HR-PBS
@@ -241,26 +255,12 @@
     "SPWOBGS/KAEUGT": "intoxicating", // otherwise gives "sandbox indicating"
     "SHREUD/TPAOEUG": "solidifying",  // otherwise gives "sliddifying"
 
-    // Common adverbs
+    // Adverbs
     "PRAOEUFLT": "privately",
     "PHREULG": "publicly",
 
     // Don't capitalize
     "AUP/STAEUT": "upstate",
-
-    // Merge words in common expressions
-    "HRAOFT": "a lot of",
-    "SKPHEUS": "and his",
-    "SKPHER": "and her",
-    "SKPOER": "and other",
-    "TPAS": "as if",
-    "AOEPBT": "even the",
-    "TPAOEPBT": "even if the",
-    "STPH": "is in",
-    "T-TS": "it's the",
-    "-FTS": "was the",
-    "WHE": "when he",
-    "TWH": "when it",
 
     // Heavy abbreviations that somehow make sense
     "SKP-PB": "and then",
