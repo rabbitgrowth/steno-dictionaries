@@ -304,6 +304,9 @@
     "SEBG": "second",      // sec
     "S*EBG": "sec",
 
+    // Missing words
+    "TRAORP": "trooper",
+
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
     "KOEFD/1-9": "Covid-19",
