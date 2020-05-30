@@ -50,7 +50,6 @@
     "AFT": "after the",        // with "before the"
     "TPHOEU": "annoy",         // with "annoying", "annoyed"
     "PWRAOEUFPB": "brighten",  // with the standard "frighten"
-    "K-PBLT": "cannot",        // K-PBT "can't" + bridge
     "KREBL": "credible",       // with "incredible"
     "SPHRORGS": "exploration", // with "explore"
     "STK*EPB": "incident",     // with "accident"
@@ -276,6 +275,14 @@
     // Adverbs
     "PRAOEUFLT": "privately",
     "PHREULG": "publicly",
+
+    // Expand "n't" into "not" with -L as bridge
+    "K-PBLT": "cannot",     // from K-PBT "can't"
+    "TKOEPBLT": "do not",   // from TKOEPBT "don't" (or just use the standard TKPHOT)
+    "TKOPBLT": "does not",  // from TKOPBT "doesn't"
+    "PHUPBLT": "must not",  // from PHUPBT "mustn't"
+    "SHAPBLT": "shall not", // from SHAPBT "shan't"
+    "WOEPBLT": "will not",  // from WOEPBT "won't" (or just use the standard HR-PBT)
 
     // Don't capitalize
     "AUP/STAEUT": "upstate",
