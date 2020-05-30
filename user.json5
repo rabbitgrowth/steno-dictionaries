@@ -257,7 +257,7 @@
 
     // Pick more distinctive part of word
     "STRAEUGS": "administration",
-    "STEPBD": "extend",
+    "STEPBD": "extend", // overrides "send it"
     "TKAO*ED": "indeed",
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "TPHAOEBG": "technique", // add * for "anemic"
