@@ -106,6 +106,15 @@
     "THREPBG": "threatening",
     "THREPBD": "threatened",
 
+    // -URT for -utter
+    "PWURT": "butter", // overrides "Burt"
+    "KHRURT": "clutter",
+    "TPHRURT": "flutter",
+    "TKPWURT": "gutter",
+    "PHURT": "mutter",
+    // It's a bit tempting to assign URT to "utter",
+    // but "you're the" is too useful to give up.
+
     // Drop * for -tle
     // Precedents: SELT "settle", TAOEULT "title"
     "PWALT": "battle",
@@ -188,15 +197,6 @@
     "WHAO*ELD": "wheedle", // WHAOELD is "wheeled"
     // As a special case, "handle" is HAPBL,
     // so HAPBLD makes more sense as "handled"
-
-    // -URT for -utter
-    "PWURT": "butter", // overrides "Burt"
-    "KHRURT": "clutter",
-    "TPHRURT": "flutter",
-    "TKPWURT": "gutter",
-    "PHURT": "mutter",
-    // It's a bit tempting to assign URT to "utter",
-    // but "you're the" is too useful to give up.
 
     // Autocomplete effect
     // Precedents: TPEUS "physical", PED "pedestrian"
