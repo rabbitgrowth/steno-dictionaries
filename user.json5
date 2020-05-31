@@ -87,6 +87,15 @@
     "HOEPL/PWOUPBD": "homebound",
     "SKART/SHOT": "scattershot",
 
+    // -maker
+    // Precedent: PAEUS/PHAEURBG "pacemaker"
+    "HRAU/PHAEURBG": "lawmaker",
+    "HRAU/PHAEURBGS": "lawmakers",
+    "SHAOU/PHAEURBG": "shoemaker",
+    "SHAOU/PHAEURBGS": "shoemakers",
+    "TRUBL/PHAEURBG": "troublemaker",
+    "TRUBL/PHAEURBGS": "troublemakers",
+
     // Use F for -s-
     "AOUFR": "user", // allows one-stroking "users"; use AUFR for {over^}
 
