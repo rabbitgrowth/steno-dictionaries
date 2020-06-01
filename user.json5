@@ -19,6 +19,10 @@
     // Fold in -L for -ly
     "PHEUFT/KWROULS": "mysteriously",
 
+    // Use -LG for -kly
+    // Precedent: KWEULG "quickly"
+    "TKRALG": "dramatically", // drak -> drakl
+
     // Fold in A for a-
     "KRAOS": "across",
     "TKAOPT": "adopt",     // or just use TKOPT
