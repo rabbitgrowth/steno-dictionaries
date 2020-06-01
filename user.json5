@@ -21,6 +21,10 @@
     "PRAOEUFLT": "privately",
     "PHEUFT/KWROULS": "mysteriously",
 
+    // Use -LG for -kly
+    // Precedent: KWEULG "quickly"
+    "TKRALG": "dramatically", // drak -> drakl
+
     // Fold in A for a-
     "KRAOS": "across",
     "TKAOPT": "adopt",     // or just use TKOPT
@@ -60,6 +64,7 @@
     "SEURPB": "sinner",        // with "dinner", "winner"
     "SPH-R": "somewhere",      // with "someone", "somebody"
     "PRAERL": "temporarily",   // with "temporary"
+    "THABG": "that can",       // with "this can"
     "TOPL/KWREU": "Tommy",     // with "Sammy"
     "SRAEL": "valley",         // with the "many" group; overrides "vale"
     "WOEPB": "woken",          // with "broken", "spoken"
@@ -82,6 +87,7 @@
     // Compound words
     "KROS/WORD": "crossword",
     "KURB/SAOEUD": "curbside",
+    "KUFRB/PWAUL": "curveball",
     "TKAEUR/SAEU": "daresay",
     "TPAOEUR/WORBG": "firework",
     "HOEPL/PWOUPBD": "homebound",
