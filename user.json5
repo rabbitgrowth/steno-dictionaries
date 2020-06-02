@@ -60,6 +60,7 @@
     "SPHRORGS": "exploration", // with "explore"
     "STK*EPB": "incident",     // with "accident"
     "SKWREULG": "magical",     // with "magic"
+    "RAEUGSZ": "regulations",  // with "regulation"
     "SWAUBG": "sidewalk",      // with "sidewalks"
     "SEURPB": "sinner",        // with "dinner", "winner"
     "SPH-R": "somewhere",      // with "someone", "somebody"
