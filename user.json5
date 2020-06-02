@@ -160,6 +160,7 @@
     "PWAOELT": "beetle",
     "KHORLT": "chortle",
     "SKWREPBLT": "gentle",
+    "SKWREPBT/-L": "gently", // frees up -L for -ly
     "SKWR*EPBLT": "generality",
     "HURLT": "hurtle",
     "PHAPBLT": "mantle",
