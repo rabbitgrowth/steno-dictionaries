@@ -89,8 +89,10 @@
 
     // Compound words
     "KROS/WORD": "crossword",
+    "KROS/WORDZ": "crosswords",
     "KURB/SAOEUD": "curbside",
     "KUFRB/PWAUL": "curveball",
+    "KUFRB/PWAULS": "curveballs",
     "TKAEUR/SAEU": "daresay",
     "TPAOEUR/WORBG": "firework",
     "HOEPL/PWOUPBD": "homebound",
