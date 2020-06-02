@@ -102,6 +102,14 @@
     "TRUBL/PHAEURBG": "troublemaker",
     "TRUBL/PHAEURBGS": "troublemakers",
 
+    // TPH for in-
+    // Precedents: TPHERT "inert", TPHEURBL "initial"
+    "TPHAEUPB": "inane", // overrides "ninja"
+    "TPH*EUPBG": "ninja", // starless is {^ening} as in "sickening"
+                          // mnemonic: * looks like a shuriken
+    "TPHEPT": "inept",
+    "TPHAOUR": "inure",
+
     // Use -F for -s-
     "AOUFR": "user", // allows one-stroking "users"; use AUFR for {over^}
 
