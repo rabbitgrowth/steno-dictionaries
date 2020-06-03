@@ -107,15 +107,6 @@
     "TRUBL/PHAEURBG": "troublemaker",
     "TRUBL/PHAEURBGS": "troublemakers",
 
-    // SPH for some-
-    // Precedents: SPH-PB "someone" (although SWUPB makes sense too)
-    //             SPH-B "somebody" (although S-B is simpler)
-    //             SPHOU "somehow"
-    "SPH-R": "somewhere", // or SWR
-    // Default strokes are inconsistent: SPHOF "some of", SOFPLT "some of the"
-    "SPH-F": "some of",
-    "SPH-FT": "some of the",
-
     // TPH for in-
     // Precedents: TPHERT "inert", TPHEURBL "initial"
     "TPHAEUPB": "inane", // overrides "ninja"
@@ -285,6 +276,13 @@
     // *UF "UV" (?!)
     "*UF": "you have", // "UV" is easily fingerspellable
     "SRU": "have you",
+
+    // SPH for "some"
+                             // Default strokes are inconsistent:
+    "SPH-F": "some of",      // SPHOF  "some of"
+    "SPH-FT": "some of the", // SOFPLT "some of the"
+    "SPH-R": "some are",
+    "SPH-RP": "some were",
 
     // Miscellaneous intentional stacking
     "HRAOFT": "a lot of",
