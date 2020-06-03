@@ -170,8 +170,8 @@
 
     "PWAOELT": "beetle",
     "KHORLT": "chortle",
-    "SKWREPBLT": "gentle",
-    "SKWREPBT/-L": "gently", // frees up -L for -ly
+    "SKWREPBLT": "gentle", // which frees up ...
+    "SKWREPBT/-L": "gently",
     "SKWR*EPBLT": "generality",
     "HURLT": "hurtle",
     "PHAPBLT": "mantle",
@@ -271,6 +271,20 @@
     "TOEFRTS": "efforts to", // pluralize the right word
     "TWAOEU": "way to", // TWAOEUS already taken by "twice"
     "TAOUFBD": "used to be",
+
+    // I/you have / have I/you
+    // The standard Plover strokes are a bit inconsistent:
+    // KWROEU  "I don't"
+    // KWROEUF "I don't have"
+    // SREU    "I have" (?!)
+    "KWR-F": "I have", // which frees up ...
+    "SREU": "have I",
+    // UR "you're"
+    // UF "you've"
+    // *UR "you are"
+    // *UF "UV" (?!)
+    "*UF": "you have", // "UV" is easily fingerspellable
+    "SRU": "have you",
 
     // Miscellaneous intentional stacking
     "HRAOFT": "a lot of",
