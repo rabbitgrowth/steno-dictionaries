@@ -71,7 +71,7 @@
     "WOEPB": "woken",          // with "broken", "spoken"
     "PAUFT": "{post^}",        // with "con-", "over-"
 
-    // Phonetically near-lossless compressions
+    // Phonetic
     "ARPB/KEUFPL": "anarchism",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEU": "anarchy",
