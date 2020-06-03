@@ -64,7 +64,6 @@
     "RAEUGSZ": "regulations",  // with "regulation"
     "SWAUBG": "sidewalk",      // with "sidewalks"
     "SEURPB": "sinner",        // with "dinner", "winner"
-    "SPH-R": "somewhere",      // with "someone", "somebody"
     "PRAERL": "temporarily",   // with "temporary"
     "THABG": "that can",       // with "this can"
     "TOPL/KWREU": "Tommy",     // with "Sammy"
@@ -107,6 +106,15 @@
     "SHAOU/PHAEURBGS": "shoemakers",
     "TRUBL/PHAEURBG": "troublemaker",
     "TRUBL/PHAEURBGS": "troublemakers",
+
+    // SPH for some-
+    // Precedents: SPH-PB "someone" (although SWUPB makes sense too)
+    //             SPH-B "somebody" (although S-B is simpler)
+    //             SPHOU "somehow"
+    "SPH-R": "somewhere", // or SWR
+    // Default strokes are inconsistent: SPHOF "some of", SOFPLT "some of the"
+    "SPH-F": "some of",
+    "SPH-FT": "some of the",
 
     // TPH for in-
     // Precedents: TPHERT "inert", TPHEURBL "initial"
