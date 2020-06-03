@@ -234,7 +234,7 @@
     "PHUFBT": "must be",
     "PHUFB": "must be", // for consistency with PHAOEUB
 
-    // Fold in "to" as TO or O
+    // Stack "to" as TO or O
     "SRO": "have to",
     "SROB": "have to be", // you can keep going
     "SROBT": "have to be the", // and going
