@@ -433,6 +433,7 @@
     "S*EBG": "sec",
 
     // Missing words
+    "ART/SEU/TPART/SEU": "artsy-fartsy",
     "TRAORP": "trooper",
 
     // Current words
