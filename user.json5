@@ -68,7 +68,6 @@
     "PRAERL": "temporarily",   // with "temporary"
     "THABG": "that can",       // with "this can"
     "TOPL/KWREU": "Tommy",     // with "Sammy"
-    "SRAEL": "valley",         // with the "many" group; overrides "vale"
     "WOEPB": "woken",          // with "broken", "spoken"
     "PAUFT": "{post^}",        // with "con-", "over-"
 
@@ -219,6 +218,17 @@
     "WHAO*ELD": "wheedle", // WHAOELD is "wheeled"
     // As a special case, "handle" is HAPBL,
     // so HAPBLD makes more sense as "handled"
+
+    // Extend "many" rule
+    // We have PHAEPB "many" = MAEN = MANE = man-E.
+    // Why not PWEUR "bury"  = BEUR = BURE = bur-E?
+    "PWEUR": "bury", // overrides "bier"
+    "PWAO*ER": "bier",
+    "KEUR": "curry", // overrides "Kir"
+    "K*EUR": "Kir",
+    "TPHREUR": "flurry",
+    "SRAEL": "valley", // overrides "vale"
+    "SRA*EUL": "vale",
 
     // Autocomplete effect
     // Precedents: TPEUS "physical", PED "pedestrian"
