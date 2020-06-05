@@ -291,6 +291,9 @@
     "SKPHEUS": "and his",
     "SKPHER": "and her",
     "SKPOER": "and other",
+    "SKPHR": "and will",           // instead of SKP-L
+    "SKPHR-B": "and will be",      // c.f. "will be"
+    "SKPHR-BT": "and will be the", // c.f. "will be the"
     "TPAS": "as if",
     "AOEPBT": "even the",
     "TPAOEPBT": "even if the",
