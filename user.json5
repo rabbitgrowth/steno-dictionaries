@@ -261,6 +261,29 @@
     "PHUFBT": "must be",
     "PHUFB": "must be", // for consistency with PHAOEUB
 
+    // Pronoun + modal verb
+    // The standard strokes feel a bit inconsistent:
+    //  ELD  "he would"  (E for "he")
+    // HELD  "held"      (H in spelling included)
+    //  ERBD "herbed"    (H in spelling omitted)
+    // HERBD "he should" (HE for "he")
+    // Of course, the "h" in "held" is pronounced while the "h" in "herb"
+    // can be silent. Still, it would be nice to be able to always use the
+    // same spelling for the "he" in "he" + modal verb.
+    "EBGD": "he could",
+    "ERBD": "he should",
+    "HERBD": "herbed", // spell out silent H as in "hour"
+    // With "that"
+    "THAEBGD": "that he could",
+    "THAERBD": "that he should",
+    "THAELD": "that he would",
+    "STHAEBGD": "that she could", // c.f. STHAE "that she" = THA + SHE
+    "STHAERBD": "that she should",
+    "STHAELD": "that she would",
+    // With "be"
+    "THAEFS": "that he was", // c.f. THAEUFS "that I was", THAURP "that you were"
+    "STHAEFS": "that she was",
+
     // Stack "to" as TO or O
     "SRO": "have to",
     "SROB": "have to be", // you can keep going
@@ -291,7 +314,7 @@
     "TAOUFBD": "used to be",
 
     // I/you have / have I/you
-    // The standard Plover strokes are a bit inconsistent:
+    // The standard strokes are inconsistent:
     // KWROEU  "I don't"
     // KWROEUF "I don't have"
     // SREU    "I have" (?!)
