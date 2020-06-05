@@ -1,58 +1,5 @@
 {
 
-    // Simpler vowels
-    "KRERPBT": "century", // use STR for "center"
-    "TKEUFLT": "difficulty", // TKEUFL "difficult" + -T
-    "HEF": "heavy", // HEFL "heavily" - -L
-                    // it's also nice that HEF + -T = "heft"
-    "PHERPL": "memory",
-    "PARPLT": "parliament", // use ARPLT for "apartment"
-
-    // Use -L for -ly
-    // END/-D "ended" feels nice. Why not F*UL/-L for "fundamentally"?
-    "-L": "{^ly}",   // overrides {^'ll}
-    "AEL": "{^'ll}", // overrides "ale"
-    "AEUL": "ale",   // overrides "ail"
-    "A*EUL": "ail",
-    "AED": "{^'d}",  // to complete the set: AES AEL AED
-
-    // Fold in -L for -ly
-    "PHREULG": "publicly",
-    "PRAOEUFLT": "privately",
-    "PHEUFT/KWROULS": "mysteriously",
-
-    // Use -LG for -kly
-    // Precedent: KWEULG "quickly"
-    "TKRALG": "dramatically", // drak -> drakl
-
-    // Fold in A for a-
-    // Precedent: SPAEBGT "aspect", TAEPBGS "attention"
-    "KRAOS": "across",
-    "TKAOPT": "adopt",     // or just use TKOPT
-    "TKAOPGS": "adoption", // or just use TKOPGS
-    "HAED": "ahead",
-    "HRAERT": "alert", // use HRART for "latter"
-    "HRAEUF": "alive",
-    "SAERT": "assert",
-    "SAERGS": "assertion",
-    "SAES": "assess",
-    "SAEFPLT": "assessment", // or just use SEFPLT
-    "SAET": "asset",
-    "SHAUR": "assure",
-    "SHAURPBS": "assurance",
-    "TAEPBD": "attend",
-
-    // Fold in -R for -er or -or
-    "STKRAEURT": "demonstrator",
-
-    // ... or use R if -R is already used
-    // Precedents: TPRORPL "former", RERL "earlier"
-    "TKPWROFRPB": "governor",
-    "SPROR": "supporter",
-
-    // Miscellaneous folding in
-    "K-BLT": "accountable", // "accountability" is K-T/-BLT
-
     // Consistency with existing strokes
     "AFT": "after the",        // with "before the"
     "TPHOEU": "annoy",         // with "annoying", "annoyed"
@@ -88,6 +35,26 @@
     "SRAOEPBG": "vegan",
     "SRAOEPBGS": "vegans",
 
+    // Drop weak sounds
+    "PWHOLD": "behold",
+    "PWHOELD": "behold",
+    "PWHELD": "beheld",
+    "KURPB": "curtain",
+    "TPREFT": "forest",
+    "TKPWARPB": "garden",
+    "TKPWOEPL": "go home",
+    "HEUPB": "hidden",
+    "HRAURPBD": "laundry",
+    "STURD": "sturdy", // or think stur-D
+
+    // Don't alter vowel
+    "KRERPBT": "century", // use STR for "center"
+    "TKEUFLT": "difficulty", // TKEUFL "difficult" + -T
+    "HEF": "heavy", // HEFL "heavily" - -L
+                    // it's also nice that HEF + -T = "heft"
+    "PHERPL": "memory",
+    "PARPLT": "parliament", // use ARPLT for "apartment"
+
     // Compound words
     "KROS/WORD": "crossword",
     "KROS/WORDZ": "crosswords",
@@ -108,6 +75,51 @@
     "TRUBL/PHAEURBG": "troublemaker",
     "TRUBL/PHAEURBGS": "troublemakers",
 
+    // Fold in A for a-
+    // Precedent: SPAEBGT "aspect", TAEPBGS "attention"
+    "KRAOS": "across",
+    "TKAOPT": "adopt",     // or just use TKOPT
+    "TKAOPGS": "adoption", // or just use TKOPGS
+    "HAED": "ahead",
+    "HRAERT": "alert", // use HRART for "latter"
+    "HRAEUF": "alive",
+    "SAERT": "assert",
+    "SAERGS": "assertion",
+    "SAES": "assess",
+    "SAEFPLT": "assessment", // or just use SEFPLT
+    "SAET": "asset",
+    "SHAUR": "assure",
+    "SHAURPBS": "assurance",
+    "TAEPBD": "attend",
+
+    // Fold in -R for -er or -or
+    "STKRAEURT": "demonstrator",
+
+    // ... or use R if -R is already used
+    // Precedents: TPRORPL "former", RERL "earlier"
+    "TKPWROFRPB": "governor",
+    "SPROR": "supporter",
+
+    // -L for -ly
+    // END/-D "ended" feels nice. Why not F*UL/-L for "fundamentally"?
+    "-L": "{^ly}",   // overrides {^'ll}
+    "AEL": "{^'ll}", // overrides "ale"
+    "AEUL": "ale",   // overrides "ail"
+    "A*EUL": "ail",
+    "AED": "{^'d}",  // to complete the set: AES AEL AED
+
+    // Fold in -L for -ly
+    "PHREULG": "publicly",
+    "PRAOEUFLT": "privately",
+    "PHEUFT/KWROULS": "mysteriously",
+
+    // -LG for -kly
+    // Precedent: KWEULG "quickly"
+    "TKRALG": "dramatically", // drak -> drakl
+
+    // Miscellaneous folding in
+    "K-BLT": "accountable", // "accountability" is K-T/-BLT
+
     // TPH for in-
     // Precedents: TPHERT "inert", TPHEURBL "initial"
     "TPHAEUPB": "inane", // overrides "ninja"
@@ -116,10 +128,10 @@
     "TPHEPT": "inept",
     "TPHAOUR": "inure",
 
-    // Use -F for -s-
+    // -F for -s-
     "AOUFR": "user", // allows one-stroking "users"; use AUFR for {over^}
 
-    // Omit -F for -t-
+    // Drop -F for -t-
     "TPRAOEUPB": "frighten",
     "TPRAOEUPBG": "frightening",
     "THREPB": "threaten", // threa(glottal stop)en
@@ -289,6 +301,12 @@
     "*UF": "you have", // "UV" is easily fingerspellable
     "SRU": "have you",
 
+    // J for "just"
+    "SKWR": "just",
+    "SKWR-T": "just the", // overrides "jury trial"
+    "SKWR-LG": "just like", // starless -lk
+    "SKWR-PBG": "just in case", // "junk" is SKWRUPBG; no * needed
+
     // SPH for "some"
                              // Default strokes are inconsistent:
     "SPH-F": "some of",      // SPHOF  "some of"
@@ -313,12 +331,6 @@
     "-FTS": "was the",
     "WHE": "when he",
     "TWH": "when it",
-
-    // J for "just"
-    "SKWR": "just",
-    "SKWR-T": "just the", // overrides "jury trial"
-    "SKWR-LG": "just like", // starless -lk
-    "SKWR-PBG": "just in case", // "junk" is SKWRUPBG; no * needed
 
     // Plurals
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
@@ -373,18 +385,6 @@
     "SKHRAUS": "Santa Claus", // which should end with -z
     "SRAOES": "series",
     "SRAOEZ": "series",
-
-    // Drop weak sounds
-    "PWHOLD": "behold",
-    "PWHOELD": "behold",
-    "PWHELD": "beheld",
-    "KURPB": "curtain",
-    "TPREFT": "forest",
-    "TKPWARPB": "garden",
-    "TKPWOEPL": "go home",
-    "HEUPB": "hidden",
-    "HRAURPBD": "laundry",
-    "STURD": "sturdy", // or think stur-D
 
     // Drop *
     "KWRAER": "area", // Too much mental gymnastics with KWRA*ER:
