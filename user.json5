@@ -23,8 +23,6 @@
     "ARPB/KEUFPL": "anarchism",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEU": "anarchy",
-    "STKPHAL": "dismal", // inspired by the standard STKPHEUS "dismiss"
-    "STKPHAEU": "dismay",
     "SPWREFT": "interest", // for when my brain malfunctions and I forget about TR
     "SPWREUBGT": "intricate",
     "PAPL/TAEUT": "palpitate",
@@ -124,6 +122,80 @@
 
     // Miscellaneous folding in
     "K-BLT": "accountable", // "accountability" is K-T/-BLT
+
+    // STK for dis-
+    // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
+    "STKARPL": "disarm",
+    "STKARPLT": "disarmament",
+    "STKARD": "discard", // TK+S+K, cf. STKORD "discord"
+    "STKERPB": "discern",
+    "STKERPLT": "discernment", // drop -n-, cf. A/HRAOEUPLT "alignment"
+    "STKAOEUPL": "disciple",
+    "STKHROES": "disclose",
+    "STKHROEFD": "disclosed",
+    "STKHROERS": "disclosure", // too much going on?
+    "STKEBGT": "disconnect",    // cf. KEBGT "connect"
+    "STKEBGS": "disconnection", // cf. KEBGS "connection"
+    "STKORPBLG": "discourage",
+    "STKORS": "discourse",
+    "STKRAOET": "discreet", // follows vowel in TKEUS/KRAOET "discreet"
+    "STKRAET": "discrete",  // follows vowel in TKEUS/KRAET  "discrete"
+    "STKPWRAEUS": "disgrace", // cf. STKPWAOEUS "disguise"
+    "STKPWRAEUFD": "disgraced",
+    "STKHARPBT": "dishearten", // three strokes (TKEUS/HART/*EPB) to one!
+    "STKPHAL": "dismal",
+    "STKPHAEU": "dismay",
+    "STKPHEB": "dismember",  // cf. PHEB  "member"
+    "STKPHEPL": "dismember", // cf. PHEPL "member"
+    "STKOEPB": "disown",
+    "STKPARPBLG": "disparage",
+    "STKPEPBS": "dispense",
+    "STKPEFPBD": "dispensed",
+    "STKPERPBS": "dispenser",
+    "STKPERS": "disperse",
+    "STKPEFRD": "dispersed", // cf. KUFRD "cursed"
+    "STKPEFRL": "dispersal", // cf. TKOFRL "dorsal"
+    "STKPERLS": "dispersal", // although there's no TKORLS
+    "STKPERGS": "dispersion",
+    "STKPEURT": "dispirit", // let Plover handle "dispirited" and "dispiriting"
+    "STKPHRAEUS": "displace", // use -Z for "displays"
+    "STKPHRAEUFD": "displaced",
+    "STKPHRAEUPLT": "displacement",  // cf. PHRAEUPLT  "placement"
+    "STKPHRAEUFPLT": "displacement", // cf. PHRAEUFPLT "placement"
+    "STKPHRAOES": "displease",
+    "STKPHRERB": "displeasure", // cf. PHRERB "pleasure"
+    "STKPOEFBL": "disposable", // for consistency with "dispose", "disposal"
+                               // or just use the standard TKOEBL
+    "STKPOEFD": "disposed",
+    "STKPOEFG": "disposing",
+    "STKPOGS": "disposition", // cf. POGS "position", -OE- is "disposing"
+    "STKPROF": "disprove",    // cf. PROF "prove"
+    "STKPROFPB": "disproven", // cf. PROFPB "proven"
+    "STKAEBGS": "dissatisfaction", // cf. SAEBGS "satisfaction"
+    "STKAED": "dissatisfied",      // cf. SAED "satisfied"
+    "STKEUPL": "dissimilar", // cf. SEUPL "similar"
+    "STKHRAR": "dissimilar", // cf. SHRAR "similar"
+    "STKPAEUT": "dissipate",
+    "STKPAEUGS": "dissipation",
+    "STKOERBT": "dissociate", // cf. SOERBT "associate"
+    "STKHRAOUT": "dissolute",
+    "STKHRAOUGS": "dissolution",
+    "STKOFL": "dissolve", // or drop the -L
+    "STKPHAPBS": "dissonance", // TK+S+TPH
+    "STKPHAPBT": "dissonant",
+    "STKWAEUD": "dissuade",
+    "STKWAEUGS": "dissuasion",
+    "STKORT": "distort", // for consistency with "distortion"
+                         // overrides "accident report"
+
+    "STKEPBD": "descend", // now "condescending" is just KAUPB/STKEPBGD
+    "STKEPBD/APBT": "descendant",
+    "STKHREBGT": "deselect",
+    // A lot of des- words that sound like dis- are already STK-
+
+    "STKEPBT": "dissent", // drop -T for "accident"
+    "STKERPBT": "dissenter",
+    "STK*EPBT": "descent", // dis- feels more default-y than des-
 
     // TPH for in-
     // Precedents: TPHERT "inert", TPHEURBL "initial"
