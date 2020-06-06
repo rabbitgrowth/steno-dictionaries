@@ -365,6 +365,7 @@
     "HR-PBS": "licenses", // same for HR-PB and HR-PBS
     "PWEPB/TPEURBS": "beneficiaries", // just add -S to PWEPB/TPEURB
     "KAUPB/SKWREBG/TAOURS": "conjectures",
+    "TKEUPL/PHATS": "diplomats",
     "TKREGS": "dregs",
     "SKWRUFSZ": "justices", // otherwise gives "justifieses" (SKWRUFZ + -S)
     "HRAUR/KWRATS": "laureates",
