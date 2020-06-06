@@ -19,6 +19,7 @@
     "PAUFT": "{post^}",        // with "con-", "over-"
 
     // Phonetic
+    "TKPHRAL": "admiral", // c.f. TKPHAOEUR "admire"
     "ARPB/KEUFPL": "anarchism",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEU": "anarchy",
