@@ -365,6 +365,7 @@
     "PWEPB/TPEURBS": "beneficiaries", // just add -S to PWEPB/TPEURB
     "KAUPB/SKWREBG/TAOURS": "conjectures",
     "TKREGS": "dregs",
+    "SKWRUFSZ": "justices", // otherwise gives "justifieses" (SKWRUFZ + -S)
     "HRAUR/KWRATS": "laureates",
     "HRAUFS": "layoffs",
     "PHOD/RATS": "moderates",
