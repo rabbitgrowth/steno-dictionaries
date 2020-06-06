@@ -23,6 +23,8 @@
     "ARPB/KEUFPL": "anarchism",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEU": "anarchy",
+    "STKPHAL": "dismal", // inspired by the standard STKPHEUS "dismiss"
+    "STKPHAEU": "dismay",
     "SPWREFT": "interest", // for when my brain malfunctions and I forget about TR
     "SPWREUBGT": "intricate",
     "PAPL/TAEUT": "palpitate",
@@ -183,6 +185,7 @@
     "HURLT": "hurtle",
     "PHAPBLT": "mantle",
     "TKEUS/PHAPBLT": "dismantle",
+    "STKPHAPBLT": "dismantle",
     "PHEURLT": "myrtle",
 
     // Drop * for -dle if possible
