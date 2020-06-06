@@ -94,6 +94,7 @@
     "TAEPBD": "attend",
 
     // Fold in -R for -er or -or
+    "KPHARPBD": "commander",
     "STKRAEURT": "demonstrator",
 
     // ... or use R if -R is already used
