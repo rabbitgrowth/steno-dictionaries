@@ -19,7 +19,7 @@
     "PAUFT": "{post^}",        // with "con-", "over-"
 
     // Phonetic
-    "TKPHRAL": "admiral", // c.f. TKPHAOEUR "admire"
+    "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "ARPB/KEUFPL": "anarchism",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEU": "anarchy",
@@ -164,7 +164,7 @@
     "K*ELT": "Celt",
     // "Fettle", "mettle", and "nettle" clash with "felt", "melt", and "knelt"
     // but are too rare for me to care about.
-    "PWHREUL": "belittle", // c.f. HREUL "little"
+    "PWHREUL": "belittle", // cf. HREUL "little"
     "PWREUL": "brittle", // conflicts with "brilliant" with -T
     "WHEUL": "whittle",
     "WHEULT": "whittle", // allow adding -T
@@ -283,11 +283,11 @@
     "THAEBGD": "that he could",
     "THAERBD": "that he should",
     "THAELD": "that he would",
-    "STHAEBGD": "that she could", // c.f. STHAE "that she" = THA + SHE
+    "STHAEBGD": "that she could", // cf. STHAE "that she" = THA + SHE
     "STHAERBD": "that she should",
     "STHAELD": "that she would",
     // With "be"
-    "THAEFS": "that he was", // c.f. THAEUFS "that I was", THAURP "that you were"
+    "THAEFS": "that he was", // cf. THAEUFS "that I was", THAURP "that you were"
     "STHAEFS": "that she was",
 
     // Stack "to" as TO or O
@@ -352,8 +352,8 @@
     "SKPHER": "and her",
     "SKPOER": "and other",
     "SKPHR": "and will",           // instead of SKP-L
-    "SKPHR-B": "and will be",      // c.f. "will be"
-    "SKPHR-BT": "and will be the", // c.f. "will be the"
+    "SKPHR-B": "and will be",      // cf. "will be"
+    "SKPHR-BT": "and will be the", // cf. "will be the"
     "TPAS": "as if",
     "AOEPBT": "even the",
     "TPAOEPBT": "even if the",
@@ -482,7 +482,7 @@
     "TKPHEUFS": "dismissive",
 
     // The superrich
-    "TROEUPB/AEUR": "trillionaire", // c.f. "millionaire", "billionaire"
+    "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
 
     // Awesome bands
