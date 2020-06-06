@@ -495,6 +495,8 @@
     // Drop *
     "KWRAER": "area", // Too much mental gymnastics with KWRA*ER:
                       // "area" -> ERYA -> YAER -> YAER*
+    "STKERTD": "deserted", // "desert" is starred to distinguish it from "dessert",
+                           // but "desserted" is not a word
     "SPWREBGS": "intersection", // no * in "intersect"
     "SKWRUF": "justify", // no * in "justifiable", "justification", etc.
     "SKOLGS": "psychologist", // "psychologies" too rare
