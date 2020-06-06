@@ -470,6 +470,14 @@
     "KREUBGS": "critics",
     "KR*EUBG": "crick", // use KAERBG for "characteristic"
 
+    // Sending away
+    "TKPHEUS": "dismiss", // DIS/MIS -> DMIS (IS shared by D and M)
+                          // inspired by the standard TKPHEUFD "dismissed"
+                          // (maybe it's a misstroke though?)
+    "TKPHEUFG": "dismissing",
+    "TKPHEUFL": "dismissal",
+    "TKPHEUFS": "dismissive",
+
     // The superrich
     "TROEUPB/AEUR": "trillionaire", // c.f. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
