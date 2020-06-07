@@ -339,15 +339,24 @@
     "PHUFBT": "must be",
     "PHUFB": "must be", // for consistency with PHAOEUB
 
-    // Pronoun + verb
-    // The standard strokes feel a bit inconsistent:
+    // Pronouns
+    // The standard strokes are inconsistent:
+    // WHEU "when I"
+    // WHU  "when you"
+    // WHE  "when" (?!)
+    // and
     //  ELD  "he would"  (E for "he")
     // HELD  "held"      (H in spelling included)
     //  ERBD "herbed"    (H in spelling omitted)
     // HERBD "he should" (HE for "he")
     // Of course, the "h" in "held" is pronounced while the "h" in "herb"
-    // can be silent. Still, it would be nice to be able to always use the
-    // same spelling for the "he" in "he" + verb.
+    // can be silent. Still, it would be nice to be able to always use
+    // EU for "I", U for "you", and E for "he".
+    "TPE": "if he", // overrides "fe", which isn't a word
+                    // the only downside I can think of is that it causes
+                    // noise when typing words like TPE/KUPBD "fecund":
+                    // "if he" -> "fecund" instead of "fe" -> "fecund"
+    "WHE": "when he", // use WH for "when"
     "EBGD": "he could",
     "ERBD": "he should",
     "HERBD": "herbed", // spell out silent H as in "hour"
@@ -433,7 +442,6 @@
     "T-TS": "it's the",
     "STHAO": "so that",
     "-FTS": "was the",
-    "WHE": "when he",
     "TWH": "when it",
 
     // Plurals
