@@ -339,7 +339,7 @@
     "PHUFBT": "must be",
     "PHUFB": "must be", // for consistency with PHAOEUB
 
-    // Pronoun + modal verb
+    // Pronoun + verb
     // The standard strokes feel a bit inconsistent:
     //  ELD  "he would"  (E for "he")
     // HELD  "held"      (H in spelling included)
@@ -347,10 +347,11 @@
     // HERBD "he should" (HE for "he")
     // Of course, the "h" in "held" is pronounced while the "h" in "herb"
     // can be silent. Still, it would be nice to be able to always use the
-    // same spelling for the "he" in "he" + modal verb.
+    // same spelling for the "he" in "he" + verb.
     "EBGD": "he could",
     "ERBD": "he should",
     "HERBD": "herbed", // spell out silent H as in "hour"
+    "EBS": "he said", // use EBZ for "ebbs"
     // With "that"
     "THAEBGD": "that he could",
     "THAERBD": "that he should",
@@ -358,7 +359,6 @@
     "STHAEBGD": "that she could", // cf. STHAE "that she" = THA + SHE
     "STHAERBD": "that she should",
     "STHAELD": "that she would",
-    // With "be"
     "THAEFS": "that he was", // cf. THAEUFS "that I was", THAURP "that you were"
     "STHAEFS": "that she was",
 
