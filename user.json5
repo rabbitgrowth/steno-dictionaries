@@ -23,11 +23,14 @@
     "ARPB/KEUFPL": "anarchism",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEU": "anarchy",
+    "SPHRAPB/TREU": "explanatory", // instead of TOER
     "SPWREFT": "interest", // for when my brain malfunctions and I forget about TR
     "SPWREUBGT": "intricate",
     "PAPL/TAEUT": "palpitate",
     "RAFPL/KAEUGS": "ramification",
     "STHRAOEUT": "satellite",
+    "SRAOES": "series",
+    "SRAOEZ": "series",
     "STRAOEUTD": "strident",
     "SR*ERPBD": "surrender", // starless is "vendor"
     "T*ERS": "terrace", // starless is "terse"
@@ -497,13 +500,8 @@
     "STPHUR": "ensure", // merges TPH and SH
     "STPH*UR": "insure",
 
-    // Adjust to match how I (wrongly) pronounce words
-    "EFP/KWROPB/APBLG": "espionage",
-    "SPHRAPB/TREU": "explanatory",
-    "TPHRO*E": "fellow",
-    "SKHRAUS": "Santa Claus", // which should end with -z
-    "SRAOES": "series",
-    "SRAOEZ": "series",
+    // Use -S instead of -Z
+    "SKHRAUS": "Santa Claus",
 
     // Drop *
     "KWRAER": "area", // Too much mental gymnastics with KWRA*ER:
