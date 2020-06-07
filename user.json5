@@ -361,15 +361,17 @@
     "ERBD": "he should",
     "HERBD": "herbed", // spell out silent H as in "hour"
     "EBS": "he said", // use EBZ for "ebbs"
-    // With "that"
+    // THAEUFS "that I was"
+    // THAURP  "that you were"
+    // THAEFS  "THAEFS" (?!)
+    "THAEFS": "that he was",
+    "STHAEFS": "that she was",
     "THAEBGD": "that he could",
     "THAERBD": "that he should",
     "THAELD": "that he would",
-    "STHAEBGD": "that she could", // cf. STHAE "that she" = THA + SHE
+    "STHAEBGD": "that she could", // THA + SHE, cf. STHAE "that she"
     "STHAERBD": "that she should",
     "STHAELD": "that she would",
-    "THAEFS": "that he was", // cf. THAEUFS "that I was", THAURP "that you were"
-    "STHAEFS": "that she was",
 
     // Stack "to" as TO or O
     "SRO": "have to",
