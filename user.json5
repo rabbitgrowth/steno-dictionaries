@@ -348,6 +348,17 @@
     "PHUFBT": "must be",
     "PHUFB": "must be", // for consistency with PHAOEUB
 
+    // -FPLT for "must"
+    // I'm pretty much settled with TP-PL for {.} for life,
+    // so this one should be safe to override. -FPLT = -FMT = MST,
+    // and four keys in a row feels emphatic ("you MUST...").
+    "EUFPLT": "I must",
+    "UFPLT": "you must",
+    "EFPLT": "he must",
+    "SHEFPLT": "she must",
+    "WEFPLT": "we must",
+    "THEFPLT": "they must",
+
     // Pronouns
     // The standard strokes are inconsistent:
     // WHEU "when I"
