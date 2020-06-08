@@ -515,6 +515,7 @@
     "SPWREBGS": "intersection", // no * in "intersect"
     "SKWRUF": "justify", // no * in "justifiable", "justification", etc.
     "SKOLGS": "psychologist", // "psychologies" too rare
+    "T-FGS": "television", // "it wasing" doesn't make any sense
     "KWRUP": "yup", // use AUP for {up^}
     "-PLT": "{^ment}", // use TP-PL for {.}
     "THOEUPB": "{^,000}", // also avoids 3/2/1/THO*EUPB outputting "32 1,000"
