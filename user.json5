@@ -538,7 +538,7 @@
                            // but "desserted" is not a word
     "SPWREBGS": "intersection", // no * in "intersect"
     "SKWRUF": "justify", // no * in "justifiable", "justification", etc.
-    "SKOLGS": "psychologist", // "psychologies" too rare
+    "SKOLGS": "psychologist", // "psychologies" is too rare
     "T-FGS": "television", // "it wasing" doesn't make any sense
     "KWRUP": "yup", // use AUP for {up^}
     "-PLT": "{^ment}", // use TP-PL for {.}
