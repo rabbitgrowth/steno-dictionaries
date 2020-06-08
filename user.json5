@@ -395,6 +395,15 @@
     "STHAELD": "that she would",
     "WHAEFS": "what he was",
 
+    // Reflexive pronouns
+    "O*URS": "ourselves", // "ourself" is too rare
+    "OUR/SEFL": "ourself",
+    "WUPB/SEFL": "oneself",
+    "THAO*EUS": "thyself",
+    "SEFL": "self", // since all possibilities have been exhausted
+                    // (myself, yourself, ... and now even thyself),
+                    // -self as a suffix becomes useless
+
     // Stack "to" as TO or O
     "SRO": "have to",
     "SROB": "have to be", // you can keep going
