@@ -338,6 +338,9 @@
     "RE/SKWRAOUFGS": "rejuvenation",
     "SAOUF": "souvenir",
 
+    // Essential grammar
+    "T*S": "it is",
+
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
     "PH-B": "maybe",    // overrides "Mapbox", but who cares?
