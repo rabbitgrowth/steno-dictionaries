@@ -316,6 +316,7 @@
     // Extend "many" rule
     // We have PHAEPB "many" = MAEN = MANE = man-E.
     // Why not PWEUR "bury"  = BEUR = BURE = bur-E?
+    "PWAOEB": "booby",
     "PWEUR": "bury", // overrides "bier"
     "PWAO*ER": "bier",
     "KEUR": "curry", // overrides "Kir"
