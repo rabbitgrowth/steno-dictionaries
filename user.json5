@@ -617,17 +617,26 @@
     // S*T is still available for "St."; I can think of the * as the
     // omitted part (S___t).
 
-    // O*ERBGS for "oh" is really ugly. I like the intuitiveness of
-    // O -> oh, but it feels a bit wasteful to assign something as nice
-    // as O to a word that's not super common. An alternative is "to".
+    // I hate O*ERBGS for "oh". I like the intuitiveness of O -> oh,
+    // although it feels a bit wasteful to assign something as nice as O
+    // to a word that's not super common. An alternative is "to".
     "O": "oh",
 
-    // HOEUFLT for "healthy" doesn't make sense at all. There's the ugly
-    // all-purpose disambiguator OEU again, and what does that F even
-    // stand for? H*EULT is better: it feels related to H*ELT "health",
-    // and I can think of it as either "H*ELT with E changed to EU" or
-    // as "HLTHI".
+    // I hate HOEUFLT for "healthy". There's the ugly all-purpose
+    // disambiguator OEU again, and what does that F even stand for?
+    // H*EULT is better: it feels related to H*ELT "health", and I can
+    // think of it as either "H*ELT with E changed to EU" or as "HLTHI".
     "H*EULT": "healthy",
+
+    // I hate KROEUR for "occur". Had to choose between KR and K-R,
+    // which were both "consider". Settled with KR so that the visual
+    // lengths of the strokes matched up with the lengths of the words:
+    // K-R   -> occur
+    // K---R -> consider
+    "KR": "occur",
+    "KR-S": "occurs",
+    "KR-G": "occurring",
+    "KR-D": "occurred",
 
     // STREUS feels more like "industries" (STREU + -S for plural) than
     // "industrious". Of course I can remember to use -Z to pluralize
@@ -639,17 +648,6 @@
     // "nursing". There seem to be an extra G in the former and an extra
     // B in the latter.
     "TPHURGS": "nursing",
-
-    // I hate KROEUR with every fiber of my being. Had to choose between
-    // KR and K-R, both of which were taken up by "consider". Settled
-    // with KR so that the visual lengths of the strokes match up with
-    // the lengths of the words:
-    // K-R   -> occur
-    // K---R -> consider
-    "KR": "occur",
-    "KR-S": "occurs",
-    "KR-G": "occurring",
-    "KR-D": "occurred",
 
     // SKREUFS for "sacrifice" is nice because it has all the consonants
     // in it, but it ends with -S, which makes "sacrifices" and "sacrificed"
