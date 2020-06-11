@@ -346,9 +346,6 @@
     "RE/SKWRAOUFGS": "rejuvenation",
     "SAOUF": "souvenir",
 
-    // Essential grammar
-    "T*S": "it is",
-
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
     "PH-B": "maybe",    // overrides "Mapbox", but who cares?
@@ -610,6 +607,12 @@
     // Awesome bands
     "SRAOUF": "Vulf",
     "SRAOUF/PEBG": "Vulfpeck",
+
+    // It is a bit strange that it is not possible to one-stroke "it is".
+    // We can add a * to ST "is it" to invert the two words. S*T is still
+    // available for "St."; we can think of the * as the omitted part
+    // (S___t).
+    "ST*": "it is",
 
     // O*ERBGS for "oh" is really ugly. I like the intuitiveness of
     // O -> oh, but it feels a bit wasteful to assign something as nice
