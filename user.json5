@@ -625,7 +625,7 @@
     // HOEUFLT for "healthy" doesn't make sense at all. There's the ugly
     // all-purpose disambiguator OEU again, and what does that F even
     // stand for? H*EULT is better: it feels related to H*ELT "health",
-    // and you can think of it as either "H*ELT with E changed to EU" or
+    // and I can think of it as either "H*ELT with E changed to EU" or
     // as "HLTHI".
     "H*EULT": "healthy",
 
@@ -653,7 +653,7 @@
 
     // SKREUFS for "sacrifice" is nice because it has all the consonants
     // in it, but it ends with -S, which makes "sacrifices" and "sacrificed"
-    // awkward. So just drop the -S. We can pretend "scriff" is Ploverese
+    // awkward. So just drop the -S. I can pretend "scriff" is Ploverese
     // for "sacrifice".
     "SKREUF": "sacrifice",
 
