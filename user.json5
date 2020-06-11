@@ -61,6 +61,9 @@
                     // it's also nice that HEF + -T = "heft"
     "PHERPL": "memory",
     "PARPLT": "parliament", // use ARPLT for "apartment"
+    "THAOER": "theory",
+    "THAOEFRT": "theorist",
+    "THAOERL": "theoretical", // standard stroke but with OEU -> AOE
 
     // Compound words
     "KROS/WORD": "crossword",
