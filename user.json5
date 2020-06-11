@@ -552,7 +552,7 @@
     "-PLT": "{^ment}", // use TP-PL for {.}
     "THOEUPB": "{^,000}", // also avoids 3/2/1/THO*EUPB outputting "32 1,000"
 
-    // Abbreviations outside of steno theories
+    // Existing abbreviations
     "TK-L": "download",    // dl
     "SKWR-P": "Japan",     // JP
     "SKWR-PS": "Japanese",
