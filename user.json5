@@ -108,6 +108,7 @@
     // Precedents: TPRORPL "former", RERL "earlier"
     "TKPWROFRPB": "governor",
     "PHRURD": "murderer",
+    "RORP": "reporter", // embrace ORP
     "SPROR": "supporter",
 
     // -L for -ly
