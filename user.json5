@@ -609,10 +609,13 @@
     "SRAOUF/PEBG": "Vulfpeck",
 
     // It is a bit strange that it is not possible to one-stroke "it is".
-    // We can add a * to ST "is it" to invert the two words. S*T is still
-    // available for "St."; we can think of the * as the omitted part
-    // (S___t).
-    "ST*": "it is",
+    // My first instinct was to add a * to ST "is it" to invert the two
+    // words, but it felt weird to have to use the * for something as
+    // common as "it is". The solution is to swap "is it" and "it is":
+    "ST": "it is",
+    "ST*": "is it", // add * to ask question
+    // S*T is still available for "St."; I can think of the * as the
+    // omitted part (S___t).
 
     // O*ERBGS for "oh" is really ugly. I like the intuitiveness of
     // O -> oh, but it feels a bit wasteful to assign something as nice
