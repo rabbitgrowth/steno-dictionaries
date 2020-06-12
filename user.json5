@@ -232,7 +232,7 @@
     "THREPBG": "threatening",
     "THREPBD": "threatened",
 
-    // -URT for -utter
+    // URT for -utter
     "PWURT": "butter", // overrides "Burt"
     "KHRURT": "clutter",
     "TPHRURT": "flutter",
