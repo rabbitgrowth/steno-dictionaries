@@ -42,7 +42,6 @@
     "SRAPBL/TAOEUPB": "valentine",
     "SRAOEPBG": "vegan",
     "SRAOEPBGS": "vegans",
-    "W*EURT": "wither",
 
     // Drop weak sounds
     "PWHOLD": "behold",
@@ -240,6 +239,14 @@
     "PHURT": "mutter",
     // It's a bit tempting to assign URT to "utter",
     // but "you're the" is too useful to give up.
+
+    // *EURT for -ither
+    // Precedents: H*EURT "hither", TH*EURT "thither"
+    "TK*EURT": "dither",
+    "SHR*EURT": "slither",
+    "WH*EURT": "whither",
+    "W*EURT": "wither",
+    "S*EURT": "zither", // double *: one for "z", one for "th"
 
     // Drop * for -tle
     // Precedents: SELT "settle", TAOEULT "title"
