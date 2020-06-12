@@ -240,13 +240,18 @@
     // It's a bit tempting to assign URT to "utter",
     // but "you're the" is too useful to give up.
 
-    // *EURT for -ither
+    // *RT for -ther
     // Precedents: H*EURT "hither", TH*EURT "thither"
+    "HRA*RT": "lather",
+    "SHRA*RT": "slather",
+    "AO*ERT": "ether", // use British pronunciation for "either"
+    "T*ERT": "tether",
     "TK*EURT": "dither",
     "SHR*EURT": "slither",
     "WH*EURT": "whither",
     "W*EURT": "wither",
     "S*EURT": "zither", // double *: one for "z", one for "th"
+    "SPHO*RT": "smother",
 
     // Drop * for -tle
     // Precedents: SELT "settle", TAOEULT "title"
