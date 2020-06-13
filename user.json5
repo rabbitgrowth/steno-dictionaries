@@ -501,6 +501,7 @@
     "TWH": "when it",
 
     // Plurals
+    "EBG/OES": "echoes",
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
     "HR-PBS": "licenses", // same for HR-PB and HR-PBS
     "PWEPB/TPEURBS": "beneficiaries", // just add -S to PWEPB/TPEURB
