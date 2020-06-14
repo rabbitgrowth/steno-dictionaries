@@ -521,14 +521,14 @@
     "WEUPBD/TPAULS": "windfalls",
 
     // Inflections
-    "ART/KHRAEUGT": "articulating",   // otherwise gives "art calculating"
+    "ART/KHRAEUGT": "articulating", // otherwise gives "art calculating"
     "ART/KHRAEUTD": "articulated",
     "KAUPB/SAOELS": "conceals",
     "KAUPB/SAOELG": "concealing",
     "ES/KHRAEUGT": "escalating",
     "ES/KHRAEUTD": "escalated",
-    "SPWOBGS/KAEUGT": "intoxicating", // otherwise gives "sandbox indicating"
-    "SHREUD/TPAOEUG": "solidifying",  // otherwise gives "sliddifying"
+    "SPWOBGS/KAEUGT": "intoxicating",
+    "SHREUD/TPAOEUG": "solidifying",
 
     // Expand "n't" into "not" with -L as bridge
     "K-PBLT": "cannot",     // from K-PBT "can't"
