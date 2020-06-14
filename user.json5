@@ -468,6 +468,12 @@
     "*UF": "you have", // "UV" is easily fingerspellable
     "SRU": "have you",
 
+    // I/you will / will I/you
+    "KWR-L": "I will",
+    "*UL": "you will",
+    // That almost completes the set -- HREU is still {^ly} instead of
+    // "will I". Remapping it feels a little bit crazy at the moment.
+
     // J for "just"
     "SKWR": "just",
     "SKWR-T": "just the", // overrides "jury trial"
