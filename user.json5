@@ -618,7 +618,7 @@
     "PAS/SO": "pass so", // overrides "Paso"; use EL/PA/SOE for "El Paso"
 
     // Tricks
-    "SED/SED": "said. \"{^}{-|}", // like SAEUD/SAEUD but with .
+    "SED/SED": "said, \"{^}{-|}", // like SAEUD/SAEUD
     "HRAL": "{#command(a)}",      // lal -> all
     "TPHAOP": "{#}",              // JUJ/(no-op)/*MT -> judgement
 
