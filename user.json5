@@ -618,6 +618,11 @@
     "TKPHEUFL": "dismissal",
     "TKPHEUFS": "dismissive",
 
+    // mass-
+    "PHASZ": "masses",   // originally misstroke (?) for "mass"
+    "PHAFS": "massive",  // originally "masses"
+    "PHEUFS": "missive", // originally "massive"
+
     // The superrich
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
