@@ -586,6 +586,7 @@
     "PH-FT": "movement",   // mvt
     "SEBG": "second",      // sec
     "S*EBG": "sec",
+    "T-GT": "together",    // tgt
 
     // Add * to expand to full form
     // Precedent: TPREUPBLG  "fridge"
