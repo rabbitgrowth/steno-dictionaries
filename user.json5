@@ -600,7 +600,7 @@
     "KWRES": "yes",
     "KWREFS": "yes{,}sir", // "yess"
 
-    // Finding faults
+    // "criticism" family
     "KREUFPL": "criticism", // "critsim" already truncates the "ci". Why not go further?
     "KRAOEUZ": "criticize",
     "KREUL": "critical",
@@ -610,7 +610,7 @@
     "KREUBGS": "critics",
     "KR*EUBG": "crick", // use KAERBG for "characteristic"
 
-    // Sending away
+    // "dismiss" family
     "TKPHEUS": "dismiss", // DIS/MIS -> DMIS (IS shared by D and M)
                           // inspired by the standard TKPHEUFD "dismissed"
                           // (maybe it's a misstroke though?)
