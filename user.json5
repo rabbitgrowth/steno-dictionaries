@@ -491,7 +491,7 @@
     "SKPHEUS": "and his",
     "SKPHER": "and her",
     "SKPOER": "and other",
-    "SKPHR": "and will",           // instead of SKP-L
+    "SKPHR": "and will",           // or use SKP-L
     "SKPHR-B": "and will be",      // cf. "will be"
     "SKPHR-BT": "and will be the", // cf. "will be the"
     "TPAS": "as if",
