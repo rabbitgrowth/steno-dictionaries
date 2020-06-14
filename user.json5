@@ -589,7 +589,9 @@
     // Precedent: TPREUPBLG  "fridge"
     //            TPR*EUPBLG "refrigerator"
     // "Not an accident" -- Mirabai
-    "PO*P": "popular",
+    "HRA*B": "laboratory", // lab
+    "PO*P": "popular",     // pop
+    "SR*ET": "veteran",    // vet
 
     // Missing words
     "ART/SEU/TPART/SEU": "artsy-fartsy",
