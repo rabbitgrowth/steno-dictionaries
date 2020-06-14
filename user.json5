@@ -523,6 +523,8 @@
     // Inflections
     "ART/KHRAEUGT": "articulating",   // otherwise gives "art calculating"
     "ART/KHRAEUTD": "articulated",
+    "KAUPB/SAOELS": "conceals",
+    "KAUPB/SAOELG": "concealing",
     "ES/KHRAEUGT": "escalating",
     "ES/KHRAEUTD": "escalated",
     "SPWOBGS/KAEUGT": "intoxicating", // otherwise gives "sandbox indicating"
