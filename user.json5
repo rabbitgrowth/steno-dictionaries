@@ -593,6 +593,10 @@
     "PO*P": "popular",     // pop
     "SR*ET": "veteran",    // vet
 
+    // ... or double the short form when it already has a *
+    "PHA*T/PHA*T": "mathematics", // PHA*T/-T and PHAT/PHAT are
+                                  // still available for "Matt"
+
     // Missing words
     "ART/SEU/TPART/SEU": "artsy-fartsy",
     "TRAORP": "trooper",
