@@ -606,6 +606,9 @@
     "HED/WORD": "headword",
     "HED/WORDZ": "headwords",
 
+    // Prevent word boundary errors
+    "PAS/SO": "pass so", // overrides "Paso"; use EL/PA/SOE for "El Paso"
+
     // Tricks
     "SED/SED": "said. \"{^}{-|}", // like SAEUD/SAEUD but with .
     "HRAL": "{#command(a)}",      // lal -> all
