@@ -585,6 +585,9 @@
     "SEBG": "second",      // sec
     "S*EBG": "sec",
 
+    // Add * to expand to full form
+    "PO*P": "popular",
+
     // Missing words
     "ART/SEU/TPART/SEU": "artsy-fartsy",
     "TRAORP": "trooper",
