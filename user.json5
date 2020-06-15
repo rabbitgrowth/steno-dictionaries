@@ -487,6 +487,8 @@
     "SA*": "as a",
     // S-T already gives "is the"
     "S*T": "as the",
+    "ST-FPLT": "St.{-|}", // gives St. without {-|} by default,
+                          // which seems to be never useful
     "TPHA": "in a", // following the pattern
 
     // J for "just"
@@ -676,8 +678,6 @@
     // common as "it is". The solution is to swap "is it" and "it is":
     "ST": "it is",
     "ST*": "is it", // add * to ask question
-    // S*T is still available for "St."; I can think of the * as the
-    // omitted part (S___t).
 
     // I hate WA*EU for "away". I briefly considered WEU which felt like
     // A/WAEU with the two A's cancelling each other out, but I wasn't
