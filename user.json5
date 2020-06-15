@@ -432,6 +432,7 @@
     "OUR/SEFL": "ourself",
     "WUPB/SEFL": "oneself", // WUPBS is "once", W*UPBS is "one's"
     "THAO*EUS": "thyself", // following the "add *S for reflexive pronoun" pattern
+    "TH*EPLS": "themself", // add * for special usage
     "SEFL": "self", // since all possibilities have been exhausted
                     // ("myself", "yourself", ... and even "thyself"),
                     // -self as a suffix becomes useless
