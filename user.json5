@@ -98,6 +98,11 @@
     "HRAERT": "alert", // use HRART for "latter"
     "HRAEUF": "alive",
     "RAEFT": "arrest",
+    "SAEPL/-BL": "assemble",
+    "SAEPL/PWHRER": "assembler",
+    "SAEPL/PWHREU": "assembly",
+    "SAEPL/PWHREUS": "assemblies",
+    "SAEPL/PWHRAPBLG": "assemblage",
     "SAERT": "assert",
     "SAERGS": "assertion",
     "SAES": "assess",
