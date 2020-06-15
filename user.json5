@@ -62,6 +62,8 @@
     "TKEUFLT": "difficulty", // TKEUFL "difficult" + -T
     "HEF": "heavy", // HEFL "heavily" - -L
                     // it's also nice that HEF + -T = "heft"
+    "HEFR": "heavier", // overrides "heifer"
+    "H*EFR": "heifer",
     "PHERPL": "memory",
     "PARPLT": "parliament", // use ARPLT for "apartment"
     "THAOER": "theory",
