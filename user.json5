@@ -502,6 +502,14 @@
                           // which seems to be never useful
     "TPHA": "in a", // following the pattern
 
+    // wh-word + -ever + the
+    "HOUFRT": "however the",
+    "WHAFRT": "whatever the",
+    "WH-FRT": "whenever the",
+    "WR-FRT": "wherever the",
+    "WEUFRT": "whichever the",
+    "WHOFRT": "whoever the",
+
     // J for "just"
     "SKWR": "just",
     "SKWR-T": "just the", // overrides "jury trial"
