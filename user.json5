@@ -478,6 +478,16 @@
     // That almost completes the set -- HREU is still {^ly} instead of
     // "will I". Remapping it feels a little bit crazy at the moment.
 
+    // is/as a/the
+    // My fingers can never remember SAZ "as the" and SA*Z "as a".
+    // I also dislike SA*EU "is a"; four keys and * for three letters!
+    // Solution: use S for "is", A for "a", -T for "the", and add *
+    // to change "is" to "as".
+    "SA": "is a",
+    "SA*": "as a",
+    // S-T already gives "is the"
+    "S*T": "as the",
+
     // J for "just"
     "SKWR": "just",
     "SKWR-T": "just the", // overrides "jury trial"
