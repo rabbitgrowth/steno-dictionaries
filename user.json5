@@ -487,6 +487,7 @@
     "SA*": "as a",
     // S-T already gives "is the"
     "S*T": "as the",
+    "TPHA": "in a", // following the pattern
 
     // J for "just"
     "SKWR": "just",
