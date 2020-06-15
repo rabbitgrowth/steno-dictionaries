@@ -373,6 +373,9 @@
     "RE/SKWRAOUF": "rejuvenate",
     "RE/SKWRAOUFGS": "rejuvenation",
     "SAOUF": "souvenir",
+    "SREUG": "vigor", // don't want "have Iing" flashing past every time
+                      // I type "vigorous" (standard is "I having")
+                      // SREUG/OUR for "vigor" -> "vigour" also feels nice
 
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
