@@ -399,7 +399,7 @@
     "THER": "they are",
     "THAEUR": "they're",
 
-    // I/you have / have I/you
+    // I/you have
     // The standard strokes are inconsistent:
     // KWROEU  "I don't"
     // KWROEUF "I don't have"
@@ -411,7 +411,7 @@
     "*UF": "you've",
     // SRU "have you" already works
 
-    // I/you will / will I/you
+    // I/you will
     "KWR-L": "I will",
     // AOEUL "I'll" already works
     // HREU {^ly} feels too canonical to override for "will I"
