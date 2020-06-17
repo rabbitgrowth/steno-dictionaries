@@ -377,6 +377,9 @@
                       // I type "vigorous" (standard is "I having")
                       // SREUG/OUR for "vigor" -> "vigour" also feels nice
 
+    // Basic grammar
+    "T-S": "it is",
+
     // Pronoun + be
     // Default to full form and use phonetics for contraction
     "KWR-PL": "I am",
@@ -706,13 +709,6 @@
     // Awesome bands
     "SRAOUF": "Vulf",
     "SRAOUF/PEBG": "Vulfpeck",
-
-    // It is a bit strange that it is not possible to one-stroke "it is".
-    // My first instinct was to add a * to ST "is it" to invert the two
-    // words, but it felt weird to have to use the * for something as
-    // common as "it is". The solution is to swap "is it" and "it is":
-    "ST": "it is",
-    "ST*": "is it", // add * to ask question
 
     // I hate WA*EU for "away". I briefly considered WEU which felt like
     // A/WAEU with the two A's cancelling each other out, but I wasn't
