@@ -378,7 +378,10 @@
                       // SREUG/OUR for "vigor" -> "vigour" also feels nice
 
     // Basic grammar
+    // Default to full form and use * for contraction
+    // `ST` "is it" already works
     "T-S": "it is",
+    // `T*S` "it's" already works
 
     // Pronoun + be
     // Default to full form and use phonetics for contraction
