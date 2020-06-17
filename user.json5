@@ -426,6 +426,9 @@
     "KWR-LD": "I would", // overrides "ideal"
     // "I'd"      AOEUD already works
     "WOEU": "would I", // gives "I would" by default
+    "KWRAOEL": "ideal",  // "eye-yeal"
+    "KWR-D/-L": "ideal", // "ideally" would then be KWR-D/-L/-L,
+                         // like RE/-D/-D "redundant"
 
     // "you can"    UBG already works
     // "you could"  UBGD already works
