@@ -408,6 +408,7 @@
     "SREU": "have I", // follow steno order
     "UF": "you have",
     "*UF": "you've",
+    "KWRAOUF": "you've",
     // SRU "have you" already works
 
     // Pronoun + modal verb
@@ -436,6 +437,8 @@
     "SHOU": "should you", // misstroke for "somehow"?
     "UL": "you will",
     "*UL": "you'll",
+    "KWRAOUL": "you'll", // swap with "Yule"
+    "KWRAO*UL": "Yule",
     // "will you"   HRU already works
     // "would you"  WOU already works
 
