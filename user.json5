@@ -399,6 +399,26 @@
     "THER": "they are",
     "THAEUR": "they're",
 
+    // I/you have / have I/you
+    // The standard strokes are inconsistent:
+    // KWROEU  "I don't"
+    // KWROEUF "I don't have"
+    // SREU    "I have" (?!)
+    "KWR-F": "I have",
+    // AOEUF "I've" already works
+    "SREU": "have I", // follow steno order
+    "UF": "you have",
+    "*UF": "you've",
+    // SRU "have you" already works
+
+    // I/you will / will I/you
+    "KWR-L": "I will",
+    // AOEUL "I'll" already works
+    // HREU {^ly} feels too canonical to override for "will I"
+    "UL": "you will",
+    "*UL": "you'll",
+    // HRU "will you" already works
+
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
     "PH-B": "maybe",    // overrides "Mapbox", but who cares?
@@ -490,26 +510,6 @@
     "TOEFRTS": "efforts to", // pluralize the right word
     "TWAOEU": "way to", // TWAOEUS already taken by "twice"
     "TAOUFBD": "used to be",
-
-    // I/you have / have I/you
-    // The standard strokes are inconsistent:
-    // KWROEU  "I don't"
-    // KWROEUF "I don't have"
-    // SREU    "I have" (?!)
-    "KWR-F": "I have",
-    // AOEUF "I've" already works
-    "SREU": "have I", // follow steno order
-    "UF": "you have",
-    "*UF": "you've",
-    // SRU "have you" already works
-
-    // I/you will / will I/you
-    "KWR-L": "I will",
-    // AOEUL "I'll" already works
-    // HREU {^ly} feels too canonical to override for "will I"
-    "UL": "you will",
-    "*UL": "you'll",
-    // HRU "will you" already works
 
     // is/as a/the
     // My fingers can never remember SAZ "as the" and SA*Z "as a".
