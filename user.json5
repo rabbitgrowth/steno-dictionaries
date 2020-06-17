@@ -439,6 +439,9 @@
     "*UL": "you'll",
     "KWRAOUL": "you'll", // swap with "Yule"
     "KWRAO*UL": "Yule",
+    "UD": "you would",
+    "*UD": "you'd",
+    "KWRAOUD": "you'd", // "yewed" isn't a word
     // "will you"   HRU already works
     // "would you"  WOU already works
 
