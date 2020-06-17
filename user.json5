@@ -377,6 +377,22 @@
                       // I type "vigorous" (standard is "I having")
                       // SREUG/OUR for "vigor" -> "vigour" also feels nice
 
+    // Pronoun + be
+    // Default to full form and use phonetics for contraction
+    "KWR-PL": "I am",
+    // `AOEUPL` "I'm"    already works
+    "UR": "you are",
+    "KWRAOUR": "you're",
+    "*UR": "you're", // allow starring because KWRAOUR is a bit of a ... handful
+    "ES": "he is", // there's still S*E for {^es}, which seems to be useless anyway
+    // `HAOES`  "he's"   already works
+    // `SHES`   "she is" already works
+    // `SHAOES` "she's"  already works
+    // `WER`    "we are" already works
+    // `WAOER`  "we're"  already works
+    "THER": "they are",
+    "THAEUR": "they're",
+
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
     "PH-B": "maybe",    // overrides "Mapbox", but who cares?
