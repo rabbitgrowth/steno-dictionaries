@@ -379,8 +379,7 @@
 
     // Basic grammar
     // Default to full form and use * for contraction
-    // ST "is it" already works
-    "T-S": "it is",
+    "T-S": "it is", // instead of "it's"; nicely symmetric with ST "is it"
     // T*S "it's" already works
 
     // Pronoun + be
