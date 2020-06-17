@@ -410,13 +410,34 @@
     "*UF": "you've",
     // SRU "have you" already works
 
-    // I/you will
-    "KWR-L": "I will",
-    // AOEUL "I'll" already works
-    // HREU {^ly} feels too canonical to override for "will I"
+    // Pronoun + modal verb
+    "KWR-BG": "I can", // overrides misstroke for {,}
+    "KWR-BGD": "I could",
+    // "can I"    KEU already works
+    // "could I"  KOEU is "coy"
+    "KWR-RBL": "I shall",
+    "KWR-RBD": "I should",
+    // "shall I"  just use SHAL/EU
+    // "should I" SHOEU already works
+    "KWR-L": "I will",   // overrides "ideal"
+    // "I'll"     AOEUL already works
+    // "will I"   HREU {^ly} feels too canonical to override
+    "KWR-LD": "I would", // overrides "ideal"
+    // "I'd"      AOEUD already works
+    "WOEU": "would I", // gives "I would" by default
+
+    // "you can"    UBG already works
+    // "you could"  UBGD already works
+    // "can you"    KU already works
+    // "could you"  KOU is "cow"
+    "URBL": "you shall", // use AOURB for "usual" (add -L for "usually")
+    // "you should" URBD already works
+    // "shall you"  too rare to care
+    "SHOU": "should you", // misstroke for "somehow"?
     "UL": "you will",
     "*UL": "you'll",
-    // HRU "will you" already works
+    // "will you"   HRU already works
+    // "would you"  WOU already works
 
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
