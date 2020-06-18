@@ -384,7 +384,8 @@
 
     // Pronoun + be
     // Default to full form and use phonetics for contraction
-    "KWR-PL": "I am",
+    "KWR-PL": "I am", // overrides "I mean"
+    "KWRAOEPB": "I mean",
     // AOEUPL "I'm"    already works
     "UR": "you are",
     "KWRAOUR": "you're",
