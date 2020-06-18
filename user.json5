@@ -448,6 +448,30 @@
     // "will you"   HRU already works
     // "would you"  WOU already works
 
+    // The standard strokes are inconsistent:
+    //  ELD  "he would"  (E for "he")
+    // HELD  "held"      (H in spelling included)
+    //  ERBD "herbed"    (H in spelling omitted)
+    // HERBD "he should" (HE for "he")
+    // Of course, the "h" in "held" is pronounced while the "h" in "herb"
+    // can be silent. Still, it would be nice to be able to consistently use
+    // EU for "I", U for "you", and E for "he".
+    "EBG": "he can", // overrides "ebbing"
+    "EBGD": "he could",
+    "KE": "can he", // gives "he can" by default
+    // "could he"  KOE is "co-"
+    "ERBL": "he shall", // use EFPBL for "eventual"
+    "ERBD": "he should", // overrides "herbed"
+    "HERBD": "herbed",   // spell out silent H as in "hour"
+    // "shall he"  too rare to care
+    // "should he" SHOE is "show"
+    // "he will"   EL is "El"
+    // "he'll"     HAOEL is "heel"
+    // "he would"  ELD already works
+    "HAOED": "heed", // for consistency with "heel"
+    // "will he"   HRE is "le"
+    // "would he"  WOE is "woe"
+
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
     "PH-B": "maybe",    // overrides "Mapbox", but who cares?
@@ -471,22 +495,11 @@
     // WHEU "when I"
     // WHU  "when you"
     // WHE  "when" (?!)
-    // and
-    //  ELD  "he would"  (E for "he")
-    // HELD  "held"      (H in spelling included)
-    //  ERBD "herbed"    (H in spelling omitted)
-    // HERBD "he should" (HE for "he")
-    // Of course, the "h" in "held" is pronounced while the "h" in "herb"
-    // can be silent. Still, it would be nice to be able to always use
-    // EU for "I", U for "you", and E for "he".
     "TPE": "if he", // overrides "fe", which isn't a word
                     // the only downside I can think of is that it causes
                     // noise when typing words like TPE/KUPBD "fecund":
                     // "if he" -> "fecund" instead of "fe" -> "fecund"
     "WHE": "when he", // use WH for "when"
-    "EBGD": "he could",
-    "ERBD": "he should",
-    "HERBD": "herbed", // spell out silent H as in "hour"
     "EBS": "he said", // use EBZ for "ebbs"
     // THAEUFS "that I was"
     // THAURP  "that you were"
