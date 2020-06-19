@@ -377,13 +377,8 @@
                       // I type "vigorous" (standard is "I having")
                       // SREUG/OUR for "vigor" -> "vigour" also feels nice
 
-    // Basic grammar
-    // Default to full form and use * for contraction
-    "T-S": "it is", // instead of "it's"; nicely symmetric with ST "is it"
-    // "it's"   T*S already works
-
     // Pronoun + be
-    // Default to full form and use phonetics for contraction
+    // Default to full form and add * or use phonetics for contraction
     "KWR-PL": "I am", // overrides "I mean"
     "KWRAOEPB": "I mean",
     // "I'm"    AOEUPL already works
@@ -398,6 +393,9 @@
     // "we're"  WAOER  already works
     "THER": "they are",
     "THAEUR": "they're",
+    "T-S": "it is",
+    // "it's"   T*S already works
+    // "is it"  ST  already works
 
     // Pronoun + have
     // The standard strokes are inconsistent:
