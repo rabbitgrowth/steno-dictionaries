@@ -380,22 +380,22 @@
     // Basic grammar
     // Default to full form and use * for contraction
     "T-S": "it is", // instead of "it's"; nicely symmetric with ST "is it"
-    // T*S "it's" already works
+    // "it's"   T*S already works
 
     // Pronoun + be
     // Default to full form and use phonetics for contraction
     "KWR-PL": "I am", // overrides "I mean"
     "KWRAOEPB": "I mean",
-    // AOEUPL "I'm"    already works
+    // "I'm"    AOEUPL already works
     "UR": "you are",
     "KWRAOUR": "you're",
     "*UR": "you're", // allow starring because KWRAOUR is a bit of a ... handful
     "ES": "he is", // there's still S*E for {^es}, which seems to be useless anyway
-    // HAOES  "he's"   already works
-    // SHES   "she is" already works
-    // SHAOES "she's"  already works
-    // WER    "we are" already works
-    // WAOER  "we're"  already works
+    // "he's"   HAOES  already works
+    // "she is" SHES   already works
+    // "she's"  SHAOES already works
+    // "we are" WER    already works
+    // "we're"  WAOER  already works
     "THER": "they are",
     "THAEUR": "they're",
 
@@ -405,12 +405,12 @@
     // KWROEUF "I don't have"
     // SREU    "I have" (?!)
     "KWR-F": "I have",
-    // AOEUF "I've" already works
+    // "I've"     AOEUF already works
     "SREU": "have I", // follow steno order
     "UF": "you have",
     "*UF": "you've",
     "KWRAOUF": "you've",
-    // SRU "have you" already works
+    // "have you" SRU already works
 
     // Pronoun + modal verb
     "KWR-BG": "I can", // overrides misstroke for {,}
