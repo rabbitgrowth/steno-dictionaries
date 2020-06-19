@@ -71,6 +71,8 @@
     "THAOERL": "theoretical", // standard stroke but with OEU -> AOE
 
     // Compound words
+    "KHOEBG/HOELD": "chokehold",
+    "KHOEBG/HOELDZ": "chokeholds",
     "KROS/WORD": "crossword",
     "KROS/WORDZ": "crosswords",
     "KURB/SAOEUD": "curbside",
