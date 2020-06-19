@@ -158,6 +158,9 @@
     "STKERPB": "discern",
     "STKERPLT": "discernment", // drop -n-, cf. A/HRAOEUPLT "alignment"
     "STKAOEUPL": "disciple",
+    "STKPHREUPB": "discipline",
+    "STKPHREUPB/REU": "disciplinary",
+    "STKPHREURPB": "disciplinary", // fold in -R for -ry
     "STKHROES": "disclose",
     "STKHROEFD": "disclosed",
     "STKHROERS": "disclosure", // too much going on?
