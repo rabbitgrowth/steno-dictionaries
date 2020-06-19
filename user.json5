@@ -383,8 +383,8 @@
     "KWRAOEPB": "I mean",
     // "I'm"    AOEUPL already works
     "UR": "you are",
-    "KWRAOUR": "you're", // slightly awkward, so allow ...
     "*UR": "you're",
+    "KWRAOUR": "you're", // slightly awkward
     "ES": "he is", // there's still S*E for {^es}, which seems to be useless anyway
     // "he's"   HAOES  already works
     // "she is" SHES   already works
@@ -392,7 +392,8 @@
     // "we are" WER    already works
     // "we're"  WAOER  already works
     "THER": "they are",
-    "THAEUR": "they're",
+    "TH*ER": "they're",
+    "THAEUR": "they're", // slightly awkward
     "T-S": "it is",
     // "it's"   T*S already works
     // "is it"  ST  already works
