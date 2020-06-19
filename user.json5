@@ -383,8 +383,8 @@
     "KWRAOEPB": "I mean",
     // "I'm"    AOEUPL already works
     "UR": "you are",
-    "KWRAOUR": "you're",
-    "*UR": "you're", // allow starring because KWRAOUR is a bit of a ... handful
+    "KWRAOUR": "you're", // slightly awkward, so allow ...
+    "*UR": "you're",
     "ES": "he is", // there's still S*E for {^es}, which seems to be useless anyway
     // "he's"   HAOES  already works
     // "she is" SHES   already works
