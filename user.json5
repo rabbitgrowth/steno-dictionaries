@@ -399,7 +399,7 @@
     "THER": "they are",
     "THAEUR": "they're",
 
-    // I/you have
+    // Pronoun + have
     // The standard strokes are inconsistent:
     // KWROEU  "I don't"
     // KWROEUF "I don't have"
@@ -411,6 +411,14 @@
     "*UF": "you've",
     "KWRAOUF": "you've",
     // "have you" SRU already works
+    // "he has"   use HEZ  (EZ is "easy")
+    // "she has"  use SHEZ
+    "WEF": "we have", // there's still WAEF for "weave",
+                      // which is admittedly inconsistent with HREF "leave"
+    // "we've"    W*EF and WAOEF already work
+    "THEF": "they have",
+    "TH*EF": "they've",
+    "THAEUF": "they've",
 
     // Pronoun + modal verb
     "KWR-BG": "I can", // overrides misstroke for {,}
