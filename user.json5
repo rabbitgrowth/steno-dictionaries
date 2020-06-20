@@ -747,6 +747,14 @@
     // Amounts
     "AEULT": "a lot", // The -L in HROELT doesn't seem to be doing anything
     "AEUFLT": "a lot of",
+    // HRAEUL "a little" already works nicely
+    "HRAEUFL": "a little of",
+    "HRAEUFLT": "a little of the",
+    "HRAEUBLT": "a little bit",
+    "HRAEUFBLT": "a little bit of", // completely flouts steno order:
+                                    //    2 9 68
+                                    //    3  7
+                                    //   1  45
 
     // "criticism" family
     "KREUFPL": "criticism", // "critsim" already truncates the "ci". Why not go further?
