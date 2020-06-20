@@ -755,6 +755,8 @@
                                     //    2 9 68
                                     //    3  7
                                     //   1  45
+    "HRAEUBT": "a little bit", // drop -L to mitigate the violation a little bit ("alibit")
+    "HRAEUFBT": "a little bit of",
 
     // "criticism" family
     "KREUFPL": "criticism", // "critsim" already truncates the "ci". Why not go further?
