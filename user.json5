@@ -688,6 +688,12 @@
     "-PLT": "{^ment}", // use TP-PL for {.}
     "THOEUPB": "{^,000}", // also avoids 3/2/1/THO*EUPB outputting "32 1,000"
 
+    "PAEUT": "participate", // partici[pate] or [p]articip[ate]
+    "PA*EUT": "pate",
+    "PAEUGS": "participation", // I can use -Z if I really need to pluralize "payings"
+    // I'm happy with having to star "participant" (PA*PBT) because
+    // "pant" is a common word. PARPT makes sense too.
+
     // Existing abbreviations
     "TK-L": "download",    // dl
     "SKWR-P": "Japan",     // JP
