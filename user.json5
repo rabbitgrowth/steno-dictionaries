@@ -396,8 +396,8 @@
     // "she is" SHES   already works
     // "she's"  SHAOES already works
     "T-S": "it is",
-    // "it's"   T*S already works
-    // "is it"  ST  already works
+    // "it's"   T*S    already works
+    // "is it"  ST     already works
     // "we are" WER    already works
     // "we're"  WAOER  already works
     "THER": "they are",
