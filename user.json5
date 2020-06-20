@@ -744,6 +744,10 @@
     "KWRES": "yes",
     "KWREFS": "yes{,}sir", // "yess"
 
+    // Amounts
+    "AEULT": "a lot", // The -L in HROELT doesn't seem to be doing anything
+    "AEUFLT": "a lot of",
+
     // "criticism" family
     "KREUFPL": "criticism", // "critsim" already truncates the "ci". Why not go further?
     "KRAOEUZ": "criticize",
