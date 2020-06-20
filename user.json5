@@ -758,6 +758,7 @@
     // Special mnemonics
     "KW-T": "quiet", // so quiet you can't hear the vowels
                      // shhh, KWAO*EUT is too loud
+    "TH-RS": "there is", // spread out a bit to expand 's
 
     // Tricks
     "SED/SED": "said, \"{^}{-|}", // like SAEUD/SAEUD
