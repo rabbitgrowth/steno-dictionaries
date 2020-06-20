@@ -745,6 +745,10 @@
     // Prevent word boundary errors
     "PAS/SO": "pass so", // overrides "Paso"; use EL/PA/SOE for "El Paso"
 
+    // Special mnemonics
+    "KW-T": "quiet", // so quiet you can't hear the vowels
+                     // shhh, KWAO*EUT is too loud
+
     // Tricks
     "SED/SED": "said, \"{^}{-|}", // like SAEUD/SAEUD
     "HRAL": "{#command(a)}",      // lal -> all
