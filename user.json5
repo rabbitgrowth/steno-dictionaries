@@ -619,13 +619,20 @@
     "SPH-R": "some are",
     "SPH-RP": "some were",
 
-    // Miscellaneous phrasing strokes
+    // "and" stacking
+    // SKP is just begging to be stacked.
+    // Look at this sea of possibilities:
+    //   P~ ~~~~~
+    // SK~~ ~~~~~
+    //   ~~ ~~
     "SKPHEUS": "and his",
     "SKPHER": "and her",
     "SKPOER": "and other",
     "SKPHR": "and will",           // or use SKP-L
     "SKPHR-B": "and will be",      // cf. "will be"
     "SKPHR-BT": "and will be the", // cf. "will be the"
+
+    // Miscellaneous phrasing strokes
     "TPAS": "as if",
     "AOEPBT": "even the",
     "TPAOEPBT": "even if the",
