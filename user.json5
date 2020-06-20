@@ -383,6 +383,109 @@
                       // I type "vigorous" (standard is "I having")
                       // SREUG/OUR for "vigor" -> "vigour" also feels nice
 
+    // Pronoun + be
+    // Default to full form and add * or use phonetics for contraction
+    "KWR-PL": "I am", // overrides "I mean"
+    "KWRAOEPB": "I mean",
+    // "I'm"    AOEUPL already works
+    "UR": "you are",
+    "*UR": "you're",
+    "KWRAOUR": "you're", // slightly awkward
+    "ES": "he is", // there's still S*E for {^es}, which seems to be useless anyway
+    // "he's"   HAOES  already works
+    // "she is" SHES   already works
+    // "she's"  SHAOES already works
+    "T-S": "it is",
+    // "it's"   T*S already works
+    // "is it"  ST  already works
+    // "we are" WER    already works
+    // "we're"  WAOER  already works
+    "THER": "they are",
+    "TH*ER": "they're",
+    "THAEUR": "they're", // slightly awkward
+
+    // Pronoun + have
+    // The standard strokes are inconsistent:
+    // KWROEU  "I don't"
+    // KWROEUF "I don't have"
+    // SREU    "I have" (?!)
+    "KWR-F": "I have",
+    // "I've"     AOEUF already works
+    "SREU": "have I", // follow steno order
+    "UF": "you have",
+    "*UF": "you've",
+    "KWRAOUF": "you've",
+    // "have you" SRU already works
+    // "he has"   use HEZ  (EZ is "easy")
+    // "she has"  use SHEZ
+    "WEF": "we have", // there's still WAEF for "weave",
+                      // which is admittedly inconsistent with HREF "leave"
+    // "we've"    W*EF and WAOEF already work
+    "THEF": "they have",
+    "TH*EF": "they've",
+    "THAEUF": "they've",
+
+    // Pronoun + modal verb
+    "KWR-BG": "I can", // overrides misstroke for {,}
+    "KWR-BGD": "I could",
+    // "can I"    KEU already works
+    // "could I"  KOEU is "coy"
+    "KWR-RBL": "I shall",
+    "KWR-RBD": "I should",
+    // "shall I"  just use SHAL/EU
+    // "should I" SHOEU already works
+    "KWR-L": "I will",   // overrides "ideal"
+    // "I'll"     AOEUL already works
+    // "will I"   HREU {^ly} feels too canonical to override
+    "KWR-LD": "I would", // overrides "ideal"
+    // "I'd"      AOEUD already works
+    "WOEU": "would I", // gives "I would" by default
+    "KWRAOEL": "ideal",  // "eye-yeal"
+    "KWR-D/-L": "ideal", // "ideally" would then be KWR-D/-L/-L,
+                         // like Johnny Jackson's RE/-D/-D "redundant"
+
+    // "you can"    UBG already works
+    // "you could"  UBGD already works
+    // "can you"    KU already works
+    // "could you"  KOU is "cow"
+    "URBL": "you shall", // use AOURB for "usual" (add -L for "usually")
+    // "you should" URBD already works
+    // "shall you"  too rare to care
+    "SHOU": "should you", // misstroke for "somehow"?
+    "UL": "you will",
+    "*UL": "you'll",
+    "KWRAOUL": "you'll", // swap with "Yule"
+    "KWRAO*UL": "Yule",
+    "UD": "you would",
+    "*UD": "you'd",
+    "KWRAOUD": "you'd", // "yewed" isn't a word
+    // "will you"   HRU already works
+    // "would you"  WOU already works
+
+    // The standard strokes are inconsistent:
+    //  ELD  "he would"  (E for "he")
+    // HELD  "held"      (H in spelling included)
+    //  ERBD "herbed"    (H in spelling omitted)
+    // HERBD "he should" (HE for "he")
+    // Of course, the "h" in "held" is pronounced while the "h" in "herb"
+    // can be silent. Still, it would be nice to be able to consistently use
+    // EU for "I", U for "you", and E for "he".
+    "EBG": "he can", // overrides "ebbing"
+    "EBGD": "he could",
+    "KE": "can he", // gives "he can" by default
+    // "could he"  KOE is "co-"
+    "ERBL": "he shall", // use EFPBL for "eventual"
+    "ERBD": "he should", // overrides "herbed"
+    "HERBD": "herbed",   // spell out silent H as in "hour"
+    // "shall he"  too rare to care
+    // "should he" SHOE is "show"
+    // "he will"   EL is "El"
+    // "he'll"     HAOEL is "heel"
+    // "he would"  ELD already works
+    "HAOED": "heed", // for consistency with "heel"
+    // "will he"   HRE is "le"
+    // "would he"  WOE is "woe"
+
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
     "PH-B": "maybe",    // overrides "Mapbox", but who cares?
@@ -401,27 +504,16 @@
     "WEFPLT": "we must",
     "THEFPLT": "they must",
 
-    // Pronouns
+    // EU "I", U "you", E "he"
     // The standard strokes are inconsistent:
     // WHEU "when I"
     // WHU  "when you"
     // WHE  "when" (?!)
-    // and
-    //  ELD  "he would"  (E for "he")
-    // HELD  "held"      (H in spelling included)
-    //  ERBD "herbed"    (H in spelling omitted)
-    // HERBD "he should" (HE for "he")
-    // Of course, the "h" in "held" is pronounced while the "h" in "herb"
-    // can be silent. Still, it would be nice to be able to always use
-    // EU for "I", U for "you", and E for "he".
     "TPE": "if he", // overrides "fe", which isn't a word
                     // the only downside I can think of is that it causes
                     // noise when typing words like TPE/KUPBD "fecund":
                     // "if he" -> "fecund" instead of "fe" -> "fecund"
     "WHE": "when he", // use WH for "when"
-    "EBGD": "he could",
-    "ERBD": "he should",
-    "HERBD": "herbed", // spell out silent H as in "hour"
     "EBS": "he said", // use EBZ for "ebbs"
     // THAEUFS "that I was"
     // THAURP  "that you were"
@@ -474,26 +566,6 @@
     "TOEFRTS": "efforts to", // pluralize the right word
     "TWAOEU": "way to", // TWAOEUS already taken by "twice"
     "TAOUFBD": "used to be",
-
-    // I/you have / have I/you
-    // The standard strokes are inconsistent:
-    // KWROEU  "I don't"
-    // KWROEUF "I don't have"
-    // SREU    "I have" (?!)
-    "KWR-F": "I have", // which frees up ...
-    "SREU": "have I",
-    // UR "you're"
-    // UF "you've"
-    // *UR "you are"
-    // *UF "UV" (?!)
-    "*UF": "you have", // "UV" is easily fingerspellable
-    "SRU": "have you",
-
-    // I/you will / will I/you
-    "KWR-L": "I will",
-    "*UL": "you will",
-    // That almost completes the set -- HREU is still {^ly} instead of
-    // "will I". Remapping it feels a little bit crazy at the moment.
 
     // is/as a/the
     // My fingers can never remember SAZ "as the" and SA*Z "as a".
@@ -696,13 +768,6 @@
     // Awesome bands
     "SRAOUF": "Vulf",
     "SRAOUF/PEBG": "Vulfpeck",
-
-    // It is a bit strange that it is not possible to one-stroke "it is".
-    // My first instinct was to add a * to ST "is it" to invert the two
-    // words, but it felt weird to have to use the * for something as
-    // common as "it is". The solution is to swap "is it" and "it is":
-    "ST": "it is",
-    "ST*": "is it", // add * to ask question
 
     // I hate WA*EU for "away". I briefly considered WEU which felt like
     // A/WAEU with the two A's cancelling each other out, but I wasn't
