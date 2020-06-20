@@ -389,14 +389,14 @@
     // "he's"   HAOES  already works
     // "she is" SHES   already works
     // "she's"  SHAOES already works
+    "T-S": "it is",
+    // "it's"   T*S already works
+    // "is it"  ST  already works
     // "we are" WER    already works
     // "we're"  WAOER  already works
     "THER": "they are",
     "TH*ER": "they're",
     "THAEUR": "they're", // slightly awkward
-    "T-S": "it is",
-    // "it's"   T*S already works
-    // "is it"  ST  already works
 
     // Pronoun + have
     // The standard strokes are inconsistent:
