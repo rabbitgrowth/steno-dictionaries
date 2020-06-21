@@ -668,6 +668,10 @@
     "SPWOBGS/KAEUGT": "intoxicating",
     "SHREUD/TPAOEUG": "solidifying",
 
+    // Fold in -T for -ed if the verb already ends with -d
+    // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
+    "TKPWAOEUTD": "guided",
+
     // Expand "n't" into "not" with -L as bridge
     "K-PBLT": "cannot",     // from K-PBT "can't"
     "TKOEPBLT": "do not",   // from TKOEPBT "don't" (or just use the standard TKPHOT)
