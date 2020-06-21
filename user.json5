@@ -673,12 +673,12 @@
     "TKPWAOEUTD": "guided",
 
     // Expand "n't" into "not" with -L as bridge
-    "K-PBLT": "cannot",     // from K-PBT "can't"
+    "K-PBLT": "cannot",     // from K-PBT   "can't"
     "TKOEPBLT": "do not",   // from TKOEPBT "don't" (or just use the standard TKPHOT)
-    "TKOPBLT": "does not",  // from TKOPBT "doesn't"
-    "PHUPBLT": "must not",  // from PHUPBT "mustn't"
-    "SHAPBLT": "shall not", // from SHAPBT "shan't"
-    "WOEPBLT": "will not",  // from WOEPBT "won't" (or just use the standard HR-PBT)
+    "TKOPBLT": "does not",  // from TKOPBT  "doesn't"
+    "PHUPBLT": "must not",  // from PHUPBT  "mustn't"
+    "SHAPBLT": "shall not", // from SHAPBT  "shan't"
+    "WOEPBLT": "will not",  // from WOEPBT  "won't" (or just use the standard HR-PBT)
 
     // Use -PBLT for "not" even when there's no -n't form
     // Precedent: KWR-PBLT "why not"
