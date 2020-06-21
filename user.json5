@@ -108,6 +108,8 @@
     "HRAERT": "alert", // use HRART for "latter"
     "HRAEUF": "alive",
     "HRAEPBLG": "allege",
+    "HRAOU": "allow",       // overrides "lieu", which is always preceded by "in"
+    "TPH/HRAOU": "in lieu", // TPH/HRAOUF "in lieu of" already works
     "RAEFT": "arrest",
     "SAEPL/-BL": "assemble",
     "SAEPL/PWHRER": "assembler",
