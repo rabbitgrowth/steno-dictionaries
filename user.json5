@@ -253,8 +253,8 @@
     // Precedent: KWROEFPB "I don't know if"
     // While "I don't know of" is valid English,
     // "I don't know if" is much more frequent:
-    // I DO N'T KNOW IF	 19988
-    // I DO N'T KNOW OF	 960
+    // I DO N'T KNOW IF  19988
+    // I DO N'T KNOW OF  960
     // Instead of blindly always using -F for "of",
     // let the context decide if it should be "if".
     "AOEFPB": "even if", // TPAOEPB feels more like "if even"
