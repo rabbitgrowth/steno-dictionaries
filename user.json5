@@ -680,9 +680,13 @@
     "SHAPBLT": "shall not", // from SHAPBT  "shan't"
     "WOEPBLT": "will not",  // from WOEPBT  "won't" (or just use the standard HR-PBT)
 
-    // Use -PBLT for "not" even when there's no -n't form
-    // Precedent: KWR-PBLT "why not"
-    "SKP-PBLT": "and not",
+    // Use -PBT for "not" when there's no -n't form
+    // Precedent: ORPBT "or not"
+    "SKP-PBT": "and not",  // there's no "andn't"
+    "SKP-PBLT": "and not", // but allow adding -L too
+    "KWR-PBT": "why not",
+    // KWR-PBLT "why not" already works
+    "ORPBLT": "or not",
 
     // Don't capitalize
     "AUP/STAEUT": "upstate",
