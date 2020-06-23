@@ -149,10 +149,12 @@
 
     // Fold in -L for -ly
     "ELZ": "easily",
-    "TPHR*UL": "fundamentally",
     "PHEUFT/KWROULS": "mysteriously",
     "PRAOEUFLT": "privately",
     "PHREULG": "publicly",
+
+    // ... or use HR if -L is already used
+    "TPHR*UL": "fundamentally",
 
     // -LG for -kly
     // Precedent: KWEULG "quickly"
