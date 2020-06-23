@@ -140,7 +140,7 @@
     "WRAOERD": "weirder",
 
     // -L for -ly
-    // END/-D "ended" feels nice. Why not F*UL/-L for "fundamentally"?
+    // END/-D "ended" feels nice. Why not FRAL/-L for "federally"?
     "-L": "{^ly}",   // overrides {^'ll}
     "AEL": "{^'ll}", // overrides "ale"
     "AEUL": "ale",   // overrides "ail"
