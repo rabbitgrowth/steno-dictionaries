@@ -154,6 +154,8 @@
     "PHREULG": "publicly",
 
     // ... or use HR if -L is already used
+    "TPHRUL": "fully", // for consistency with TPUL "full"
+                       // use TP*UL for "fundamental"
     "TPHR*UL": "fundamentally",
     "PHRERPL": "permanently",
 
