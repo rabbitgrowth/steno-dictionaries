@@ -30,8 +30,6 @@
     "ARPB/KEUFPL": "anarchism",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEU": "anarchy",
-    "PWEUPBG": "binge", // overrides "bing"
-    "PW*EUPBG": "Bing", // name of search engine
     "KHRERPBD": "calendar",
     "KAUFT": "caste",
     "KHEUBG/EPB": "chicken",
@@ -743,6 +741,8 @@
     // Drop *
     "KWRAER": "area", // Too much mental gymnastics with KWRA*ER:
                       // "area" -> ERYA -> YAER -> YAER*
+    "PWEUPBG": "binge", // overrides "bing"
+    "PW*EUPBG": "Bing", // name of search engine
     "STKERTD": "deserted", // "desert" is starred to distinguish it from "dessert",
                            // but "desserted" is not a word
     "SPWREBGS": "intersection", // no * in "intersect"
