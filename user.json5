@@ -29,6 +29,8 @@
     "ARPB/KEUFPL": "anarchism",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEU": "anarchy",
+    "PWEUPBG": "binge", // overrides "bing"
+    "PW*EUPBG": "Bing", // name of search engine
     "KHRERPBD": "calendar",
     "KAUFT": "caste",
     "KHEUBG/EPB": "chicken",
