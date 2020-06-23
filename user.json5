@@ -140,7 +140,7 @@
     "WRAOERD": "weirder",
 
     // -L for -ly
-    // END/-D "ended" feels nice. Why not FRAL/-L for "federally"?
+    // EPBD/-D "ended" feels nice. Why not TPRAL/-L for "federally"?
     "-L": "{^ly}",   // overrides {^'ll}
     "AEL": "{^'ll}", // overrides "ale"
     "AEUL": "ale",   // overrides "ail"
