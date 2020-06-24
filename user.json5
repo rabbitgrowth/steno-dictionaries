@@ -671,7 +671,7 @@
     "TWH": "when it",
 
     // Plurals
-    "PWEPB/TPEURBS": "beneficiaries", // just add -S to PWEPB/TPEURB
+    "PWEPB/TPEURBS": "beneficiaries", // just add -S instead of KWRAERS
     "KAUPB/SKWREBG/TAOURS": "conjectures",
     "TKEUPL/PHATS": "diplomats",
     "TKREGS": "dregs",
