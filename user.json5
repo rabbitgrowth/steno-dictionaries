@@ -683,6 +683,7 @@
     "HRAUFS": "layoffs",
     "PHOD/RATS": "moderates",
     "WEUPBD/TPAULS": "windfalls",
+    "WEUPBD/PHEULS": "windmills",
 
     // Inflections
     "ART/KHRAEUGT": "articulating", // otherwise gives "art calculating"
