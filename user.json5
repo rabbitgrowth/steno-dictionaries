@@ -866,9 +866,9 @@
     // "superior" and "inferior"
     "SPOEURT": "superiority",
     "TPOEURPBT": "inferiority", // from TPOEURPB (mnemonic: "infor")
-                                // FF   N
-                                //     RN
-                                //   O II
+                                //  FF   N
+                                //      RN
+                                //    O II
 
     // The superrich
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
