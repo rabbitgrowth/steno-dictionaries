@@ -743,8 +743,6 @@
                                 // "area" -> ERYA -> YAER -> YAER*
     "PWEUPBG": "binge",         // overrides "bing"
     "PW*EUPBG": "Bing",         // name of search engine
-    "STKERTD": "deserted",      // "desert" is starred to distinguish it from "dessert",
-                                // but "desserted" is not a word
     "SPWREBGS": "intersection", // no * in "intersect"
     "SKWRUF": "justify",        // no * in "justifiable", "justification", etc.
     "SKOLGS": "psychologist",   // "psychologies" is too rare
@@ -898,6 +896,15 @@
     "KR-S": "occurs",
     "KR-G": "occurring",
     "KR-D": "occurred",
+
+    // STK[*]ERTD can only be "deserted"; "desserted" is not a word.
+    // Naturally, you'd want STKERTD. But this leads to inconsistency
+    // within the word family: "desert" is STK*ERT while "deserted"
+    // is STKERTD. The solution is to swap "desert" and "dessert".
+    // It's also nice to have the lengths of the strokes match up
+    // with the lengths of the words.
+    "STKERT": "desert",
+    "STK*ERT": "dessert",
 
     // STREUS feels more like "industries" (STREU + -S for plural) than
     // "industrious". Of course I can remember to use -Z to pluralize
