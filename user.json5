@@ -13,7 +13,6 @@
     "RAEUGSZ": "regulations",   // with "regulation"
     "SWAUBG": "sidewalk",       // with "sidewalks"
     "SEURPB": "sinner",         // with "dinner", "winner"
-    "SPOEURT": "superiority",   // with "superior"
     "TAEG": "taking",           // with "take", "taken"
     "PRAERL": "temporarily",    // with "temporary"
     "THABG": "that can",        // with "this can"
@@ -863,6 +862,13 @@
     "PHASZ": "masses",   // originally misstroke (?) for "mass"
     "PHAFS": "massive",  // originally "masses"
     "PHEUFS": "missive", // originally "massive"
+
+    // "superior" and "inferior"
+    "SPOEURT": "superiority",
+    "TPOEURPBT": "inferiority", // from TPOEURPB ("infor")
+                                // FF   N
+                                //     RN
+                                //   O II
 
     // The superrich
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
