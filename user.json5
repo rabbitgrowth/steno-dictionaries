@@ -897,13 +897,15 @@
     "KR-G": "occurring",
     "KR-D": "occurred",
 
-    // STK[*]ERTD can only be "deserted"; "desserted" is not a word.
-    // Naturally, you'd want STKERTD. But this leads to inconsistency
-    // within the word family: "desert" is STK*ERT while "deserted"
-    // is STKERTD. The solution is to swap "desert" and "dessert".
-    // It's also nice to have the lengths of the strokes match up
-    // with the lengths of the words.
-    "STKERT": "desert",
+    // STKERTD feels like "deserted" but gives the non-word "desserted"
+    // since STKERT is "dessert". I could just remap STKERTD to "deserted",
+    // but that would lead to inconsistency within the "desert" word family:
+    // STKERT  "dessert"
+    // STK*ERT "desert"
+    // STKERTD "deserted"
+    // The solution is to swap "desert" and "dessert". It's also nice to have
+    // the lengths of the strokes match up with the lengths of the words.
+    "STKERT": "desert", // I then get STKERTD "deserted" for free
     "STK*ERT": "dessert",
 
     // STREUS feels more like "industries" (STREU + -S for plural) than
