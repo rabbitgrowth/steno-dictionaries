@@ -865,7 +865,7 @@
 
     // "superior" and "inferior"
     "SPOEURT": "superiority",
-    "TPOEURPBT": "inferiority", // from TPOEURPB ("infor")
+    "TPOEURPBT": "inferiority", // from TPOEURPB (mnemonic: "infor")
                                 // FF   N
                                 //     RN
                                 //   O II
