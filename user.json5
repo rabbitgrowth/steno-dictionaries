@@ -869,6 +869,10 @@
                                 //  FF   N
                                 //      RN
                                 //    O II
+    "TPOEUR": "inferior", // nicely symmetrical with SPOEUR "superior"
+                          // but overrides "foyer"
+    "TPO*EUR": "foyer",
+    "TPOEURT": "inferiority",
 
     // The superrich
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
