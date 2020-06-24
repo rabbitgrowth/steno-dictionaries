@@ -671,16 +671,16 @@
     "TWH": "when it",
 
     // Plurals
-    "EBG/OES": "echoes",
-    "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
-    "HR-PBS": "licenses", // same for HR-PB and HR-PBS
     "PWEPB/TPEURBS": "beneficiaries", // just add -S to PWEPB/TPEURB
     "KAUPB/SKWREBG/TAOURS": "conjectures",
     "TKEUPL/PHATS": "diplomats",
     "TKREGS": "dregs",
+    "EBG/OES": "echoes",
+    "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
     "SKWRUFSZ": "justices", // otherwise gives "justifieses" (SKWRUFZ + -S)
     "HRAUR/KWRATS": "laureates",
     "HRAUFS": "layoffs",
+    "HR-PBS": "licenses",
     "PHOD/RATS": "moderates",
     "WEUPBD/TPAULS": "windfalls",
     "WEUPBD/PHEULS": "windmills",
