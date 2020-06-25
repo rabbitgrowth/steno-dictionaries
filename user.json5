@@ -548,6 +548,32 @@
     "WEFPLT": "we must",
     "THEFPLT": "they must",
 
+    // I (+ don't) + common verb
+    // The standard strokes are inconsistent:
+    // KWROEU  "I don't"
+    // KWROEPB "I don't know"
+    // KWROFT  "I don't have the"
+    // These seem to use OEU, OE, and O for "don't" respectively.
+    // For consistency, always use OE, which is
+    // 1) the "average" of the three;
+    // 2) the vowel in "don't";
+    // 3) a nice symmetrical shape.
+    "KWROE": "I don't", // overrides "yo"
+    "KWRO": "yo", // use SKWRO for {^o}
+    // Mirabai also uses SKWR for suffixes (and SKWR* for infixes),
+    // so I'm in good company. The nice thing here is that I can
+    // follow the pattern and add ...
+    "KWRA": "ya", // instead of KWRO*U
+                  // use SKWRA for {^a}
+    // "I know"       KWR-PB  already works
+    // "I don't know" KWROEPB already works
+    "KWR-PBG": "I think", // thi[nk]
+    "KWROEPBG": "I don't think",
+    "KWR-PBT": "I want",  // wa[nt]
+    "KWROEPBT": "I don't want",
+    // "I have" has been defined above
+    "KWROEF": "I don't have",
+
     // EU "I", U "you", E "he"
     // The standard strokes are inconsistent:
     // WHEU "when I"
@@ -708,13 +734,10 @@
     "SHAPBLT": "shall not", // from SHAPBT  "shan't"
     "WOEPBLT": "will not",  // from WOEPBT  "won't" (or just use the standard HR-PBT)
 
-    // Use -PBT for "not" when there's no -n't form
-    // Precedent: ORPBT "or not"
-    "SKP-PBT": "and not",  // there's no "andn't"
-    "SKP-PBLT": "and not", // but allow adding -L too
-    "KWR-PBT": "why not",
-    // KWR-PBLT "why not" already works
-    "ORPBLT": "or not",
+    // Use -PBLT for "not" even when there's no -n't form
+    // Precedent: KWR-PBLT "why not"
+    "SKP-PBLT": "and not", // there's no "andn't"
+    "ORPBLT": "or not",    // there's no "orn't"
 
     // Don't capitalize
     "AUP/STAEUT": "upstate",
