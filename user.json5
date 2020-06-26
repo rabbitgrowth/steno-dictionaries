@@ -276,6 +276,7 @@
     // let the context decide if it should be "if".
     "AOEFPB": "even if", // TPAOEPB feels more like "if even"
     "AOEFPBT": "even if the",
+    "AOEPBT": "even the",
 
     // Drop -F for -t-
     "TPRAOEUPB": "frighten",
@@ -722,7 +723,6 @@
 
     // Miscellaneous phrasing strokes
     "TPAS": "as if",
-    "AOEPBT": "even the",
     "T-T": "it the", // as in "making it the..."
     "T-TS": "it is the",
     "TPHOBT": "not be",
