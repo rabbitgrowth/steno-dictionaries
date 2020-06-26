@@ -27,12 +27,6 @@
     "WOEPB": "woken",           // with "broken", "spoken"
     "PAUFT": "{post^}",         // with "con-", "over-"
 
-    // with "real"
-    "RAELT": "reality",
-    "RAEL/STEUBG": "realistic", // could cause word boundary error with "real stick"
-                                // ("My dad's a real stick in the mud...")
-    "UPB/RAEL/STEUBG": "unrealistic",
-
     // Phonetic
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "ARPB/KEUFPL": "anarchism",
@@ -915,6 +909,12 @@
     "TKPHEUFG": "dismissing",
     "TKPHEUFL": "dismissal",
     "TKPHEUFS": "dismissive",
+
+    // "real" family
+    "RAELT": "reality",
+    "RAEL/STEUBG": "realistic", // could cause word boundary error with "real stick"
+                                // ("My dad's a real stick in the mud...")
+    "UPB/RAEL/STEUBG": "unrealistic",
 
     // mass-
     "PHASZ": "masses",   // originally misstroke (?) for "mass"
