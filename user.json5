@@ -83,6 +83,7 @@
     // Mash sounds together
     "THRAFT": "at last", // cf. THRAOEFT "at least"
     "SPOEFT": "supposed to",
+    "SPOEFBT": "supposed to be",
 
     // Compound words
     "KHOEBG/HOELD": "chokehold",
