@@ -722,9 +722,10 @@
     "SWU": "is with you",
 
     // Miscellaneous phrasing strokes
+    "AOLT": "along the",
     "TPAS": "as if",
-    "T-T": "it the", // as in "making it the..."
     "T-TS": "it is the",
+    "T-T": "it the", // as in "making it the..."
     "TPHOBT": "not be",
     "STHAO": "so that",
     "-FTS": "was the",
