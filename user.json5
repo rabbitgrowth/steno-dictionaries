@@ -619,7 +619,6 @@
     "TKPWOG": "going to", // "goes to" and "went to" already work
     "TPWO": "about to",
     "TPWOB": "about to be", // needs T to avoid conflict with "bob"
-    "STOBT": "is to be the",
     "TOFS": "was to",
     "TOFBS": "was to be",
     "TOFBTS": "was to be the", // tricky to type, just for completeness
@@ -708,11 +707,20 @@
     "SKPHR-B": "and will be",      // cf. "will be"
     "SKPHR-BT": "and will be the", // cf. "will be the"
 
+    // "is" stacking
+    "STP-RT": "is for the",
+    "STPR": "is from",
+    "STPR-T": "is from the",
+    "STPH": "is in",
+    "STOBT": "is to be the",
+    "SW": "is with",
+    "SW-T": "is with the",
+    "SWU": "is with you",
+
     // Miscellaneous phrasing strokes
     "TPAS": "as if",
     "AOEPBT": "even the",
     "TPAOEPBT": "even if the",
-    "STPH": "is in",
     "T-T": "it the", // as in "making it the..."
     "T-TS": "it is the",
     "TPHOBT": "not be",
