@@ -255,22 +255,6 @@
     "TPHEPT": "inept",
     "TPHAOUR": "inure",
 
-    // P for "people"
-    // PAOEPL is definitely a bit clumsy for how common "people" is.
-    // PEPL is better (although it's listed as a misstroke).
-    // P is only slightly easier to type than PEPL but really shines
-    // when you stack it.
-    "P": "people",
-    "PR": "people are",
-    "P-R": "people are",
-    "PR-PBT": "people aren't",
-    "PR-PBLT": "people are not",
-    "P-RP": "people were",
-    "PWR-PBT": "people weren't",
-    "PWR-PBLT": "people were not",
-    "PWHO": "people who",
-    "TPO": "people to",
-
     // -F for -s-
     "AOUFR": "user", // allows one-stroking "users"; use AUFR for {over^}
     "WAOEUFR": "wiser", // actually /z/
@@ -675,6 +659,22 @@
     "SPH-FT": "some of the", // SOFPLT "some of the"
     "SPH-R": "some are",
     "SPH-RP": "some were",
+
+    // P for "people"
+    // PAOEPL is definitely a bit clumsy for how common "people" is.
+    // PEPL is better (although it's listed as a misstroke).
+    // P is only slightly easier to type than PEPL but really shines
+    // when you stack it.
+    "P": "people",
+    "PR": "people are",
+    "P-R": "people are",
+    "PR-PBT": "people aren't",
+    "PR-PBLT": "people are not",
+    "P-RP": "people were",
+    "PWR-PBT": "people weren't",
+    "PWR-PBLT": "people were not",
+    "PWHO": "people who",
+    "TPO": "people to",
 
     // "and" stacking
     // SKP is just begging to be stacked.
