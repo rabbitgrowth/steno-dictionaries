@@ -627,18 +627,33 @@
     "TWAOEU": "way to", // TWAOEUS already taken by "twice"
     "TAOUFBD": "used to be",
 
-    // is/as a/the
-    // My fingers can never remember SAZ "as the" and SA*Z "as a".
-    // I also dislike SA*EU "is a"; four keys and * for three letters!
-    // Solution: use S for "is", A for "a", -T for "the", and add *
-    // to change "is" to "as".
-    "SA": "is a",
-    "SA*": "as a",
-    // S-T already gives "is the"
+    // Common word + a
+    // SA   "sa"
+    // TKA  "da"
+    // PWA  "ba"
+    // HRA  "la"
+    // TPA  "fa"
+    // TPRA "Fra"
+    // TPHA "that" (misstroke)
+    // WA   (unassigned)
+    // These feel like huge missed opportunities for "is a", "did a",
+    // "about a", etc. I can understand "la" (French definite article)
+    // and "Fra" (Italian monk title), but "sa", "fa", "da", etc.
+    // aren't even real words.
+    "SA": "is a",     // S-T   "is the"
+    "TKA": "did a",   // TK-T  "did the"
+    "PWA": "about a", // PW-T  "about the"
+    "HRA": "will a",  // HR-T  "will the"
+    "TPA": "if a",    // TP-T  "if the"
+    "TPRA": "from a", // TPR-T "from the"
+    "TPHA": "in a",   // TPH-T "in the"
+    "WA": "with a",   // W-T   "with the"
+    // WA is nice for "away", but even nicer for "with a".
+    "SWA": "away", // arbitrary
+    "WAU": "away", // arbitrary
+    // Other common words
+    "SA*": "as a", // think "add * to is" or "za"
     "S*T": "as the",
-    "ST-FPLT": "St.{-|}", // gives St. without {-|} by default,
-                          // which seems to be never useful
-    "TPHA": "in a", // following the pattern
 
     // wh-word + -ever + the
     "HOUFRT": "however the",
@@ -906,13 +921,6 @@
     // The superrich
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
-
-    // I hate WA*EU for "away". I briefly considered WEU which felt like
-    // A/WAEU with the two A's cancelling each other out, but I wasn't
-    // ready to give up WEU for "which". Then I discovered that WA was
-    // just "was", for which there are nicer strokes: -FS for consistency
-    // with phrasing strokes, and WAS for phonetic completeness.
-    "WA": "away",
 
     // I hate O*ERBGS for "oh". I like the intuitiveness of O -> oh,
     // although it feels a bit wasteful to assign something as nice as O
