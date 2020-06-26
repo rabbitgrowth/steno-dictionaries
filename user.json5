@@ -80,6 +80,10 @@
     "THAOEFRT": "theorist",
     "THAOERL": "theoretical", // standard stroke but with OEU -> AOE
 
+    // Mash sounds together
+    "THRAFT": "at last", // cf. THRAOEFT "at least"
+    "SPOEFT": "supposed to",
+
     // Compound words
     "KHOEBG/HOELD": "chokehold",
     "KHOEBG/HOELDZ": "chokeholds",
