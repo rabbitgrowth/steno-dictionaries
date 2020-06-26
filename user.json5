@@ -1,5 +1,9 @@
 {
 
+    // Briefs for very common words
+    "-TS": "its",
+    "T-G": "thing",
+
     // Consistency with existing strokes
     "AFT": "after the",         // with "before the"
     "TPHOEU": "annoy",          // with "annoying", "annoyed"
