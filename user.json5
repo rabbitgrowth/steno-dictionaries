@@ -142,6 +142,7 @@
 
     // ... or use R if -R is already used
     // Precedents: TPRORPL "former", RERL "earlier"
+    "SKWRAEURT": "generator",
     "TKPWROFRPB": "governor",
     "PHROURPB": "mourner",
     "PHRURD": "murderer",
