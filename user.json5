@@ -1,6 +1,8 @@
 {
 
     // Briefs for very common words
+    "SWA": "away", // arbitrary
+    "WAU": "away", // arbitrary
     "-TS": "its",
     "T-G": "thing",
 
@@ -652,9 +654,6 @@
     "TPRA": "from a", // TPR-T "from the"
     "TPHA": "in a",   // TPH-T "in the"
     "WA": "with a",   // W-T   "with the"
-    // WA is nice for "away", but even nicer for "with a".
-    "SWA": "away", // arbitrary
-    "WAU": "away", // arbitrary
     // Other common words
     "SA*": "as a", // think "add * to is" or "za"
     "S*T": "as the",
