@@ -906,10 +906,6 @@
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
 
-    // Awesome bands
-    "SRAOUF": "Vulf",
-    "SRAOUF/PEBG": "Vulfpeck",
-
     // I hate WA*EU for "away". I briefly considered WEU which felt like
     // A/WAEU with the two A's cancelling each other out, but I wasn't
     // ready to give up WEU for "which". Then I discovered that WA was
