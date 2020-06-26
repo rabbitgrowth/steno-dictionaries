@@ -702,6 +702,9 @@
     //   ~~ ~~
     "SKPHEUS": "and his",
     "SKPHER": "and her",
+    "SKPHAOER": "and here",
+    "SKPHAOERS": "and here is",
+    "SKPHAO*ERS": "and here's",
     "SKPOER": "and other",
     "SKPHR": "and will",           // or use SKP-L
     "SKPHR-B": "and will be",      // cf. "will be"
