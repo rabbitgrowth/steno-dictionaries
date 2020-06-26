@@ -478,15 +478,17 @@
     "KWR-RBD": "I should",
     // "shall I"  just use SHAL/EU
     // "should I" SHOEU already works
-    "KWR-L": "I will",   // overrides "ideal"
+    "KWR-L": "I will",   // overrides "ideal" stroke #1
     // "I'll"     AOEUL already works
     // "will I"   HREU {^ly} feels too canonical to override
-    "KWR-LD": "I would", // overrides "ideal"
+    "KWR-LD": "I would", // overrides "ideal" stroke #2
     // "I'd"      AOEUD already works
     "WOEU": "would I", // gives "I would" by default
-    "KWRAOEL": "ideal",  // "eye-yeal"
-    "KWR-D/-L": "ideal", // "ideally" would then be KWR-D/-L/-L,
-                         // like Johnny Jackson's RE/-D/-D "redundant"
+    "EUD": "idea", // "I-D"
+                   // overrides "id" (psychoanalysis term)
+    "*EUD": "id",
+    "EULD": "ideal", // overrides "I would", for which I now have KWR-LD
+    "HREULD": "ideally",
 
     // "you can"    UBG already works
     // "you could"  UBGD already works
