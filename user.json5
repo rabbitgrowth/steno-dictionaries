@@ -155,7 +155,6 @@
     "ELZ": "easily",
     "PHEUFT/KWROULS": "mysteriously",
     "PRAOEUFLT": "privately",
-    "PHREULG": "publicly",
 
     // ... or use HR if -L is already used
     "TPHRUL": "fully", // for consistency with TPUL "full"
@@ -166,6 +165,7 @@
     // -LG for -kly
     // Precedent: KWEULG "quickly"
     "TKRALG": "dramatically", // drak -> drakl
+    "PHREULG": "publicly",    // plik -> plikl
 
     // Miscellaneous folding in
     "K-BLT": "accountable", // "accountability" is K-T/-BLT
