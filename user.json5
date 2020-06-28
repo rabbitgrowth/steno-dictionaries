@@ -763,6 +763,20 @@
     // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
     "TKPWAOEUTD": "guided",
 
+    // -FRD for -rced or -rsed
+    // Precedents: KUFRD "cursed", TPOFRD "forced", RAOEPB/TPOFRD "reinforced"
+    // -RSD is possible but requires Philly shift.
+    "TKWOFRD": "divorced",
+    "EPB/TKOFRD": "endorsed",
+    "EPB/TPOFRD": "enforced",
+    "EUPL/PHEFRD": "immersed",
+    "PAFRD": "parsed",
+    "RE/HEFRD": "rehearsed",
+    "RE/SREFRD": "reversed",
+    "SOFRD": "sourced",
+    "TRA/SREFRD": "traversed",
+    "SREFRD": "versed",
+
     // Expand "n't" into "not" with -L as bridge
     "K-PBLT": "cannot",     // from K-PBT   "can't"
     "TKOEPBLT": "do not",   // from TKOEPBT "don't" (or just use the standard TKPHOT)
