@@ -1038,10 +1038,12 @@
     // for "sacrifice".
     "SKREUF": "sacrifice",
 
-    // Fix errors in Plover dictionary
+    // Fix oddities in Plover dictionary
     // TPHURS   "nurse"
     // TPHURGS  "nurse"   (extra G)
     // TPHURBGS "nursing" (extra B)
     "TPHURGS": "nursing",
+    // THA/AOUGS "that use"
+    "THA/AOUGS": "that using",
 
 }
