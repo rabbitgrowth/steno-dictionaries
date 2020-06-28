@@ -264,6 +264,36 @@
     "TPHEPT": "inept",
     "TPHAOUR": "inure",
 
+    // WR for rev-
+    // Precedents for using W for /v/:
+    // TKWAOEUS "device", TKWOET "devote"
+    // (mnemonic: Hong Kong accent)
+    "WRA*PL": "revamp",
+    "WRAOEL": "reveal",
+    "WREPBG": "revenge",
+    "WRERB": "reverb",
+    "WRERS": "reverse",
+    "WRERLS": "reversal",
+    "WRERT": "revert",
+    "WRAOEUS": "revise",
+    "WRAOEUZ": "revise",
+    "WREUGS": "revision",
+    "WRAOEUF": "revive",
+    "WRAOEUFL": "revival",
+    "WROEBG": "revoke",
+    "WROELT": "revolt",
+    "WROLT": "revolt",
+    // "review" would be WRAOU, but that's "withdrew" already.
+    // WRAU  "withdraw"
+    // WRAOU "withdrew"
+    "WRAOE": "review", // cf. RE/SRAOE "review"
+                       // feels ugly though, so maybe just use RE/SRAOU
+    // "revolve" would be WROF, but that's "whereof" already.
+    // WROF for "whereof" is potentially confusing though,
+    // since WR is "were", and "where" is W-R.
+    "WORF": "whereof", // stack W-R and OF
+    "WROF": "revolve",
+
     // -F for -s-
     "AOUFR": "user", // allows one-stroking "users"; use AUFR for {over^}
     "WAOEUFR": "wiser", // actually /z/
