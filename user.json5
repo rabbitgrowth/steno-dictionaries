@@ -874,8 +874,8 @@
     "PAS/SO": "pass so", // overrides "Paso"; use EL/PA/SOE for "El Paso"
 
     // Special mnemonics
-    "KW-T": "quiet", // so quiet you can't hear the vowels
-                     // shhh, KWAO*EUT is too loud
+    "HOELT": "hotel", // reverse stress or HOELT->HOTEL
+    "KW-T": "quiet", // when you speak quietly the vowels become harder to hear
     "TH-RS": "there is", // spread out a bit to expand 's
 
     // Tricks
