@@ -286,9 +286,18 @@
     // "review" would be WRAOU, but that's "withdrew" already.
     // WRAU  "withdraw"
     // WRAOU "withdrew"
+    // This pair is too nice to override.
     "WRAOE": "review", // cf. RE/SRAOE "review"
                        // feels ugly though, so maybe just use RE/SRAOU
     // "revolve" would be WROF, but that's "whereof" already.
+    // So include the /l/ in "revolve", even though adding -L
+    // is usually optional in other -olve words:
+    // SROF     or SROFL     "involve"
+    // AOE/SROF or AOE/SROFL "evolve"
+    // SOF      or SOFL      "solve"
+    // There are precedents for requiring the -L:
+    // ROF       "resolve" (ROFL is "Rolf"; "ROFL" is undefined)
+    // TKE/SROFL "devolve" (TKE/SROF is undefined)
     "WROFL": "revolve",
 
     // -F for -s-
@@ -670,7 +679,7 @@
     // TPA  "fa"
     // TPRA "Fra"
     // TPHA "that" (misstroke)
-    // WA   (unassigned)
+    // WA   (undefined)
     // These feel like huge missed opportunities for "is a", "did a",
     // "about a", etc. I can understand "la" (French definite article)
     // and "Fra" (Italian monk title), but "sa", "fa", "da", etc.
