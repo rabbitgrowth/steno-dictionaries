@@ -63,7 +63,12 @@
     "TKPWOEPL": "go home",
     "HEUPB": "hidden",
     "HRAURPBD": "laundry",
-    "STURD": "sturdy", // or think stur-D
+
+    // Pronounce last letter
+    "PWOD": "body",    // overrides "bod"
+    "PWODZ": "bodies", // overrides "bods"
+    "PWO*D": "bod",
+    "STURD": "sturdy",
 
     // Don't alter vowel
     "PWERT": "better", // double for "Bert"; starred is "berth"
