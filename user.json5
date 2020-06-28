@@ -1047,6 +1047,8 @@
     // TPHURBGS "nursing" (extra B)
     "TPHURGS": "nursing",
     // THA/AOUGS "that use"
+    // ("It was estimated that using contract workers could save the company
+    // thousands of dollars.")
     "THA/AOUGS": "that using",
 
 }
