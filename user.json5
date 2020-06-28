@@ -10,7 +10,6 @@
     "AFT": "after the",         // with "before the"
     "TPHOEU": "annoy",          // with "annoying", "annoyed"
     "PWRAOEUFPB": "brighten",   // with the standard "frighten"
-    "TAEUPBD": "contained",     // with "contain"
     "KRAOEFT": "creativity",    // with "creative"
     "KREBL": "credible",        // with "incredible"
     "SPHRORGS": "exploration",  // with "explore"
@@ -1039,6 +1038,10 @@
     "SKREUF": "sacrifice",
 
     // Fix oddities in Plover dictionary
+    // TAEUPBD "tained"
+    // Since TAEUPB is "contain", one would expect TAEUPBD to be "contained".
+    // "tained" isn't even a word.
+    "TAEUPBD": "contained",
     // TPHURS   "nurse"
     // TPHURGS  "nurse"   (extra G)
     // TPHURBGS "nursing" (extra B)
