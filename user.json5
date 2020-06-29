@@ -923,8 +923,8 @@
     "TPHAOP": "{#}",              // JUJ/(no-op)/*MT -> judgement
 
     // Affirmation
-    "KWRE": "yeah",
-    "KWRES": "yes",
+    "KWRE": "yeah", // by default "yes"
+    "KWRES": "yes", // by default "yes, sir"
     "KWREFS": "yes{,}sir", // "yess"
 
     // Amounts
