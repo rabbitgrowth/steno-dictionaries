@@ -531,7 +531,7 @@
     "URBL": "you shall", // use AOURB for "usual" (add -L for "usually")
     // "you should" URBD already works
     // "shall you"  too rare to care
-    "SHOU": "should you", // misstroke for "somehow"?
+    "SHOU": "should you", // misstroke for "somehow"
     "UL": "you will",
     "*UL": "you'll",
     "KWRAOUL": "you'll", // swap with "Yule"
@@ -582,7 +582,7 @@
     "TH-L": "this will", // by default "this'll" (?!)
     // "this would"  TH-LD already works
 
-    "THABG": "that can", // misstroke for "thank"?
+    "THABG": "that can", // misstroke for "thank"
     // "that could"  THABGD already works
     // "that should" THARBD already works
     "THAL": "that will", // by default "that'll"
