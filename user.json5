@@ -968,8 +968,13 @@
     "KW-T": "quiet", // when you speak quietly the vowels become harder to hear
     "TH-RS": "there is", // spread out a bit to expand 's
 
-    // Tricks
-    "SED/SED": "said, \"{^}{-|}", // like SAEUD/SAEUD
+    // Comma + open quote + capitalization after reporting verb
+    // Precedents: SAEU/SAEU   "say, \"{^}{-|}"
+    //             SAEUD/SAEUD "said, \"{^}{-|}"
+    "SED/SED": "said, \"{^}{-|}",
+    "THAUT/THAUT": "thought, \"{^}{-|}",
+
+    // Commands
     "HRAL": "{#command(a)}",      // lal -> all
     "TPHAOP": "{#}",              // JUJ/(no-op)/*MT -> judgement
 
