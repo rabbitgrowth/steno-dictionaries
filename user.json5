@@ -658,7 +658,7 @@
     "STKPOB": "and to be",
     "STKPOBT": "and to be the",
     "TKPWO": "go to", // use TKPW for "go"
-    "TKPWOG": "going to", // "goes to" and "went to" already work
+    "TKPWOG": "going to", // TKPWOS "goes to" and TWOEPBT "went to" already work
     "TKPWOBG": "going to be",
     "TKPWOBGT": "going to be the",
     "STKPWOG": "is going to",
