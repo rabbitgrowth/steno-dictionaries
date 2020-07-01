@@ -149,8 +149,8 @@
     "TKPWROFRPB": "governor",
     "PHROURPB": "mourner",
     "PHRURD": "murderer",
-    "RORP": "reporter", // embrace ORP
-    "RORPS": "reporters",
+    "RORP": "reporter",   // embrace ORP
+    "RORPS": "reporters", // hard-coded to give "reports"
     "SPROR": "supporter",
     "WRAOERD": "weirder",
 
