@@ -449,6 +449,7 @@
 
     // Autocomplete effect
     // Precedents: TPEUS "physical", PED "pedestrian"
+    "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
     "AUPL": "automatic",
     "AOEG": "ego",
     "HUR": "hurry",
