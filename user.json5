@@ -336,6 +336,14 @@
     "S*EURT": "zither", // double *: one for "z", one for "th"
     "SPHO*RT": "smother",
 
+    // -OEPBLD for -olden
+    "PWHOEPBLD": "beholden",
+    "EPL/PWOEPBLD": "embolden",
+    "TKPWOEPBLD": "golden", // the only one I really care about
+                            // TKPWOELD/*EPB is just too awkward for
+                            // such a common word
+    "OEPBLD": "olden",
+
     // Drop * for -tle
     // Precedents: SELT "settle", TAOEULT "title"
     "PWALT": "battle",
