@@ -748,7 +748,7 @@
     // J for "just"
     "SKWR": "just",
     "SKWR-T": "just the", // overrides "jury trial"
-    "SKWR-LG": "just like", // starless -lk
+    "SKWR-BG": "just like", // first and last consonants
     "SKWR-PBG": "just in case", // "junk" is SKWRUPBG; no * needed
 
     // SPH for "some"
