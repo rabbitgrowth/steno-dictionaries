@@ -975,8 +975,8 @@
     "THAUT/THAUT": "thought, \"{^}{-|}",
 
     // Commands
-    "HRAL": "{#command(a)}",      // lal -> all
-    "TPHAOP": "{#}",              // JUJ/(no-op)/*MT -> judgement
+    "TPHAOP": "{#}", // JUJ/(no-op)/*MT -> judgement
+    "HRAL": "{#command(a)}", // lal -> all
 
     // Affirmation
     "KWRE": "yeah", // by default "yes"
