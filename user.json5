@@ -151,7 +151,7 @@
     "PHROURPB": "mourner",
     "PHRURD": "murderer",
     "RORP": "reporter",   // embrace ORP
-    "RORPS": "reporters", // hard-coded to give "reports"
+    "RORPS": "reporters", // hard-coded as "reports"
     "SPROR": "supporter",
     "WRAOERD": "weirder",
 
@@ -367,9 +367,9 @@
     "PWREUL": "brittle", // conflicts with "brilliant" with -T
     "WHEUL": "whittle",
     "WHEULT": "whittle", // allow adding -T
-    "PWOLT": "bottle",
-    "PWOELT": "bolt", // BOLT not giving "bolt" feels weird but there is precedent:
-                      // THUPBD/*ER/PWOELT "thunderbolt"
+    "PWOLT": "bottle",   // overrides "bolt"
+    "PWOLTS": "bottles", // hard-coded as "bolts"
+    "PWOELT": "bolt",    // cf. THUPBD/*ER/PWOELT "thunderbolt"
     "THROLT": "throttle",
     "SKULT": "scuttle", // overrides "consult"
     "SULT": "consult",  // "sult" is a more distinctive part of "consult" anyway
