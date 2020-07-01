@@ -1024,6 +1024,11 @@
     "KR-G": "occurring",
     "KR-D": "occurred",
 
+    // TPOERBGS "for example" is FOR and EKS smashed together, which
+    // requires some mental gymnastics and feels inconsistent with
+    // TPREUPBS "for instance", which is just FRINS.
+    "TPREBGS": "for example", // FREKS; use -Z for "frequents"
+
     // STKERTD feels like "deserted" but gives the non-word "desserted"
     // since STKERT is "dessert". I could just remap STKERTD to "deserted",
     // but that would lead to inconsistency within the "desert" word family:
