@@ -181,9 +181,6 @@
     "TKRALG": "dramatically", // drak -> drakl
     "PHREULG": "publicly",    // plik -> plikl
 
-    // Miscellaneous folding in
-    "K-BLT": "accountable", // "accountability" is K-T/-BLT
-
     // STK for dis-
     // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
     "STKARPL": "disarm",
