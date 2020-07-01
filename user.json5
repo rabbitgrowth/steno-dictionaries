@@ -518,7 +518,7 @@
     // "will I"   HREU {^ly} feels too canonical to override
     "KWR-LD": "I would", // overrides "ideal" stroke #2
     // "I'd"      AOEUD already works
-    "WOEU": "would I", // gives "I would" by default
+    "WOEU": "would I", // by default "I would"
     "EUD": "idea", // "I-D"
                    // overrides "id" (psychoanalysis term)
     "*EUD": "id",
@@ -554,7 +554,7 @@
     // EU for "I", U for "you", and E for "he".
     "EBG": "he can", // overrides "ebbing"
     "EBGD": "he could",
-    "KE": "can he", // gives "he can" by default
+    "KE": "can he", // by default "he can"
     // "could he"  KOE is "co-"
     "ERBL": "he shall", // use EFPBL for "eventual"
     "ERBD": "he should", // overrides "herbed"
@@ -567,6 +567,15 @@
     "HAOED": "heed", // for consistency with "heel"
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
+
+    // "they can"    THEBG already works
+    // "they could"  THEBGD already works
+    "THERBL": "they shall",
+    // "they should" THERBD already works
+    "THEL": "they will", // by default "they'll"
+    "TH*EL": "they'll",  // THAEUL also works
+    // "they would"  THELD already works
+    // "they'd"      THED and THAEUD already work
 
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
