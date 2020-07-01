@@ -268,8 +268,8 @@
     "PWHAO*EPLT": "behemoth",
     "PWHOELD": "behold",
     "PWHELD": "beheld",
-    "PWHOEF": "behove",
-    "PWHAOF": "behoove",
+    "PWHOEF": "behove",  // British English
+    "PWHAOF": "behoove", // American English
 
     // WR for rev-
     // Precedents for using W for /v/:
