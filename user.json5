@@ -768,6 +768,18 @@
     "SW-T": "is with the",
     "SWU": "is with you",
 
+    // as + adjective + as
+    // The most common ones already work beautifully:
+    // AS WELL AS  155949  SW-LS / SW*ELS  (SWELS)
+    // AS LONG AS   57042  SHROPBGS        (SLONGS)
+    // AS MUCH AS   49462  SPHUFPS         (SMUCHS)
+    // AS SOON AS   42046  SAOPBS          etc.
+    // AS FAR  AS   41940  STPARS
+    // AS GOOD AS   11733  STKPWAODZ
+    // AS MANY AS   10931  SPHAEPBS
+    // AS FAST AS    7145  STPAFTS
+    "SPHALS": "as small as",
+
     // Miscellaneous phrasing strokes
     "AOLT": "along the",
     "TPAS": "as if",
