@@ -306,18 +306,6 @@
     "AOUFR": "user", // allows one-stroking "users"; use AUFR for {over^}
     "WAOEUFR": "wiser", // actually /z/
 
-    // -F for "if" (instead of "of")
-    // Precedent: KWROEFPB "I don't know if"
-    // While "I don't know of" is valid English,
-    // "I don't know if" is much more frequent:
-    // I DO N'T KNOW IF  19988
-    // I DO N'T KNOW OF    960
-    // Instead of blindly always using -F for "of",
-    // let the context decide if it should be "if".
-    "AOEFPB": "even if", // TPAOEPB feels more like "if even"
-    "AOEFPBT": "even if the",
-    "AOEPBT": "even the",
-
     // Drop -F for -t-
     "TPRAOEUPB": "frighten",
     "TPRAOEUPBG": "frightening",
@@ -707,6 +695,18 @@
     "TOEFRTS": "efforts to", // pluralize the right word
     "TWAOEU": "way to", // TWAOEUS already taken by "twice"
     "TAOUFBD": "used to be",
+
+    // -F for "if" (instead of "of")
+    // Precedent: KWROEFPB "I don't know if"
+    // While "I don't know of" is valid English,
+    // "I don't know if" is much more frequent:
+    // I DO N'T KNOW IF  19988
+    // I DO N'T KNOW OF    960
+    // Instead of blindly always using -F for "of",
+    // let the context decide if it should be "if".
+    "AOEFPB": "even if", // TPAOEPB feels more like "if even"
+    "AOEFPBT": "even if the",
+    "AOEPBT": "even the",
 
     // Common word + a
     // SA   "sa"
