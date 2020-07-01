@@ -55,9 +55,6 @@
     "WAOERPBS": "weariness",
 
     // Drop weak sounds
-    "PWHOLD": "behold",
-    "PWHOELD": "behold",
-    "PWHELD": "beheld",
     "KURPB": "curtain",
     "TPREFT": "forest",
     "TKPWARPB": "garden",
@@ -265,6 +262,14 @@
                           // mnemonic: * looks like a shuriken
     "TPHEPT": "inept",
     "TPHAOUR": "inure",
+
+    // PWH for beh-
+    "PWHED": "behead",
+    "PWHAO*EPLT": "behemoth",
+    "PWHOELD": "behold",
+    "PWHELD": "beheld",
+    "PWHOEF": "behove",
+    "PWHAOF": "behoove",
 
     // WR for rev-
     // Precedents for using W for /v/:
