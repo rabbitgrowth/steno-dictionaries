@@ -366,7 +366,6 @@
     "PWHREUL": "belittle", // cf. HREUL "little"
     "PWREUL": "brittle", // conflicts with "brilliant" with -T
     "WHEUL": "whittle",
-    "WHEULT": "whittle", // allow adding -T
     "PWOLT": "bottle",   // overrides "bolt"
     "PWOLTS": "bottles", // hard-coded as "bolts"
     "PWOELT": "bolt",    // cf. THUPBD/*ER/PWOELT "thunderbolt"
