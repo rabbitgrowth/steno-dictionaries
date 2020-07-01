@@ -1027,9 +1027,9 @@
     "UPB/RAEL/STEUBG": "unrealistic",
 
     // mass-
-    "PHASZ": "masses",   // originally misstroke (?) for "mass"
-    "PHAFS": "massive",  // originally "masses"
-    "PHEUFS": "missive", // originally "massive"
+    "PHASZ": "masses",   // by default misstroke (?) for "mass"
+    "PHAFS": "massive",  // by default "masses"
+    "PHEUFS": "missive", // by default "massive"
 
     // "superior" and "inferior"
     "SPOEURT": "superiority",
