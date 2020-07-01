@@ -867,6 +867,7 @@
     "SPWREBGS": "intersection", // no * in "intersect"
     "SKWRUF": "justify",        // no * in "justifiable", "justification", etc.
     "SKOLGS": "psychologist",   // "psychologies" is too rare
+    "REUPBD": "remind",         // like HEUPBD "behind"
     "T-FGS": "television",      // "it wasing" doesn't make any sense
     "KWRUP": "yup",             // use AUP for {up^}
     "-PLT": "{^ment}",          // use TP-PL for {.}
