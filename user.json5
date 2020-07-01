@@ -452,7 +452,8 @@
     "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
     "AUPL": "automatic",
     "AOEG": "ego",
-    "HUR": "hurry",
+    "HUR": "hurry", // flashes past in HUR/RAEU "hurray" but I don't mind;
+                    // "hurry"->"hurray" feels nice
     "SKWRAOUF": "juvenile",
     "RE/SKWRAOUF": "rejuvenate",
     "RE/SKWRAOUFGS": "rejuvenation",
