@@ -19,7 +19,6 @@
     "RAEUGSZ": "regulations",   // with RAEUGS "regulation"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
     "SEURPB": "sinner",         // with TKEURPB "dinner", WEURPB "winner"
-    "TAEG": "taking",           // with TAEBG "take", TAEPB "taken"
     "PRAERL": "temporarily",    // with PRAER "temporary"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
