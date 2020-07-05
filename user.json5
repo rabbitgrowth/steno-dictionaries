@@ -966,6 +966,7 @@
     // Precedent: TPREUPBLG  "fridge"
     //            TPR*EUPBLG "refrigerator"
     // "Not an accident" -- Mirabai
+    "TP*EFT": "festival",  // fest
     "HRA*B": "laboratory", // lab
     "PO*P": "popular",     // pop
     "SR*ET": "veteran",    // vet
