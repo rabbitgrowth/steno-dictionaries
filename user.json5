@@ -578,14 +578,26 @@
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
 
-    "T-RB": "it shall",
-    "T-L": "it will",
-    "THERB": "they shall", // by default "they're"
+    // Plover pretty consistently uses -L for "'ll". In accordance with
+    // our "default to full form and add * for contraction" rule, change
+    // them all to "will".
+    // Plover is so consistent with this that TH-L gives "this'll",
+    // a pretty rare form:
+    // THIS 'LL    1735
+    // THIS WILL  31337
+    // Compare
+    // I 'LL   386926
+    // I WILL  147058
+    "T-L": "it will",    // by default "it'll"
     "THEL": "they will", // by default "they'll"
     "TH*EL": "they'll",
-    "TH-L": "this will", // by default "this'll" (?!)
-    "THABG": "that can", // misstroke for "thank"
+    "TH-L": "this will", // by default "this'll"
     "THAL": "that will", // by default "that'll"
+    "WHOL": "who will",
+    "WHAL": "what will",
+    "THABG": "that can", // misstroke for "thank"
+    "T-RB": "it shall",
+    "THERB": "they shall", // by default "they're"
 
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
