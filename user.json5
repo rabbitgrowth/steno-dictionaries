@@ -518,7 +518,8 @@
     "KWR-BGD": "I could",
     // "can I"    KEU already works
     // "could I"  KOEU is "coy"
-    "KWR-RBL": "I shall",
+    "KWR-RB": "I shall", // Precedents for using -RB for "shall":
+                         // SHERB "she shall", WHORB "who shall"
     "KWR-RBD": "I should",
     // "shall I"  just use SHAL/EU
     // "should I" SHOEU already works
@@ -538,7 +539,7 @@
     // "you could"  UBGD already works
     // "can you"    KU already works
     // "could you"  KOU is "cow"
-    "URBL": "you shall", // use AOURB for "usual" (add -L for "usually")
+    "URB": "you shall", // by default "you're"
     // "you should" URBD already works
     // "shall you"  too rare to care
     "SHOU": "should you", // misstroke for "somehow"
@@ -565,9 +566,9 @@
     "EBGD": "he could",
     "KE": "can he", // by default "he can"
     // "could he"  KOE is "co-"
-    "ERBL": "he shall", // use EFPBL for "eventual"
-    "ERBD": "he should", // overrides "herbed"
-    "HERBD": "herbed",   // spell out silent H as in "hour"
+    "ERB": "he shall",   // use HERB for "herb" (spell out silent H as in HOUR "hour")
+    "ERBD": "he should", // and for "herb" use ...
+    "HERBD": "herbed",
     // "shall he"  too rare to care
     // "should he" SHOE is "show"
     // "he will"   EL is "El"
@@ -577,10 +578,9 @@
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
 
-    "SHERBL": "she shall", // default is SHERB without -L for some reason
-    "T-RBL": "it shall",
+    "T-RB": "it shall",
     "T-L": "it will",
-    "THERBL": "they shall",
+    "THERB": "they shall", // by default "they're"
     "THEL": "they will", // by default "they'll"
     "TH*EL": "they'll",
     "TH-L": "this will", // by default "this'll" (?!)
