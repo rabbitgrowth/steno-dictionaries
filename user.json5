@@ -306,6 +306,14 @@
     // TKE/SROFL "devolve" (TKE/SROF is undefined)
     "WROFL": "revolve",
 
+    // AEUG for -aking
+    // Precedents: PHAEUG "making", SHAEUG "shaking"
+    "AEUG": "aching",   // "aing" is not a word
+    "PWAEUG": "baking", // "baying" is a word ("a jackal baying at the moon")
+                        // but is much rarer than "baking"
+    "TPAEUG": "faking", // "Faying" is not a word
+    "RAEUG": "raking",  // "raying" is a word but is extremely rare
+
     // -F for -s-
     "AOUFR": "user", // allows one-stroking "users"; use AUFR for {over^}
     "WAOEUFR": "wiser", // actually /z/
