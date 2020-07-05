@@ -825,12 +825,14 @@
     // Miscellaneous phrasing strokes
     "AOLT": "along the",
     "TPAS": "as if",
+    "ELGT": "exactly the",
     "T-TS": "it is the",
     "T-T": "it the", // as in "making it the..."
     "TPHOBT": "not be",
     "STHAO": "so that",
     "-FTS": "was the",
     "TWH": "when it",
+    "HR-F": "will have",
 
     // Plurals
     "PWEPB/TPEURBS": "beneficiaries", // just add -S instead of KWRAERS
