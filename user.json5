@@ -678,7 +678,7 @@
 
     // Stack "to" as TO or O
     "SRO": "have to",
-    "SROB": "have to be", // you can keep going
+    "SROB": "have to be",      // you can keep going
     "SROBT": "have to be the", // and going
     "STROB": "have to be", // STRO for "have to" is standard
     "STROBT": "have to be the",
