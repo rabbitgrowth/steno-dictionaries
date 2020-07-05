@@ -682,6 +682,9 @@
     "SROBT": "have to be the", // and going
     "STROB": "have to be", // STRO for "have to" is standard
     "STROBT": "have to be the",
+    "THO": "had to",
+    "THOB": "had to be",
+    "THOBT": "had to be the",
     "SKPO": "and to",
     "SKPOB": "and to be",
     "SKPOBT": "and to be the",
