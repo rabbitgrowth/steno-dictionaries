@@ -7,24 +7,22 @@
     "T-G": "thing",
 
     // Consistency with existing strokes
-    "AFT": "after the",         // with "before the"
-    "TPHOEU": "annoy",          // with "annoying", "annoyed"
-    "PWRAOEUFPB": "brighten",   // with the standard "frighten"
-    "KRAOEFT": "creativity",    // with "creative"
-    "KREBL": "credible",        // with "incredible"
-    "SPHRORGS": "exploration",  // with "explore"
-    "STK*EPB": "incident",      // with "accident"
-    "TERPGS": "interpretation", // with "interpret"
-    "SKWREULG": "magical",      // with "magic"
-    "PROEUFD": "processed",     // with "process", "processing"
-    "RAEUGSZ": "regulations",   // with "regulation"
-    "SWAUBG": "sidewalk",       // with "sidewalks"
-    "SEURPB": "sinner",         // with "dinner", "winner"
-    "TAEG": "taking",           // with "take", "taken"
-    "PRAERL": "temporarily",    // with "temporary"
-    "TOPL/KWREU": "Tommy",      // with "Sammy"
-    "WOEPB": "woken",           // with "broken", "spoken"
-    "PAUFT": "{post^}",         // with "con-", "over-"
+    "AFT": "after the",         // with PW-FT "before the"
+    "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
+    "PWRAOEUFPB": "brighten",   // with TPRAOEUFPB "frighten" (although I'm dropping the -F)
+    "KRAOEFT": "creativity",    // with KRAOEF "creative"
+    "KREBL": "credible",        // with EUPB/KREBL "incredible" (or TPHEBL)
+    "STK*EPB": "incident",      // with STKEPB "accident"
+    "TERPGS": "interpretation", // with TERP "interpret"
+    "SKWREULG": "magical",      // with SKWREUBG "magic"
+    "PROEUFD": "processed",     // with PROEUS "process", PROEUFG "processing"
+    "RAEUGSZ": "regulations",   // with RAEUGS "regulation"
+    "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
+    "SEURPB": "sinner",         // with TKEURPB "dinner", WEURPB "winner"
+    "TAEG": "taking",           // with TAEBG "take", TAEPB "taken"
+    "PRAERL": "temporarily",    // with PRAER "temporary"
+    "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
+    "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
 
     // Phonetic
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
@@ -85,6 +83,7 @@
 
     // Mash sounds together
     "THRAFT": "at last", // cf. THRAOEFT "at least"
+    "SPHRORGS": "exploration",
     "SPOEFT": "supposed to",
     "SPOEFBT": "supposed to be",
 
