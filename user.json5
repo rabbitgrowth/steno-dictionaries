@@ -578,6 +578,9 @@
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
 
+    "SHERBL": "she shall", // default is SHERB without -L for some reason
+    "T-RBL": "it shall",
+    "T-L": "it will",
     "THERBL": "they shall",
     "THEL": "they will", // by default "they'll"
     "TH*EL": "they'll",
