@@ -351,8 +351,8 @@
 
     // Drop * for -aken
     // Precedent: Plover now allows SPHAEUPB in addition to SPHA*EUPB for "mistaken"
-    "A/WAEUPB": "awaken",
-    "TPAUR/SAEUPB": "forsaken",
+    "A/WAEUPB": "awaken",       // "aWayne"  is not a word
+    "TPAUR/SAEUPB": "forsaken", // "forsane" is not a word
 
     // Drop * for -tle
     // Precedents: SELT "settle", TAOEULT "title"
