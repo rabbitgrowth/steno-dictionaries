@@ -578,26 +578,12 @@
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
 
-    // "they can"    THEBG already works
-    // "they could"  THEBGD already works
     "THERBL": "they shall",
-    // "they should" THERBD already works
     "THEL": "they will", // by default "they'll"
-    "TH*EL": "they'll",  // THAEUL also works
-    // "they would"  THELD already works
-    // "they'd"      THED and THAEUD already work
-
-    // "this can"    TH-BG already works
-    // "this could"  TH-BGD already works
-    // "this should" TH-RBD already works
+    "TH*EL": "they'll",
     "TH-L": "this will", // by default "this'll" (?!)
-    // "this would"  TH-LD already works
-
     "THABG": "that can", // misstroke for "thank"
-    // "that could"  THABGD already works
-    // "that should" THARBD already works
     "THAL": "that will", // by default "that'll"
-    // "that would"  THALD already works
 
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
