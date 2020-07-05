@@ -567,7 +567,7 @@
     "KE": "can he", // by default "he can"
     // "could he"  KOE is "co-"
     "ERB": "he shall",   // use HERB for "herb" (spell out silent H as in HOUR "hour")
-    "ERBD": "he should", // and for "herb" use ...
+    "ERBD": "he should", // and for "herbed" use ...
     "HERBD": "herbed",
     // "shall he"  too rare to care
     // "should he" SHOE is "show"
