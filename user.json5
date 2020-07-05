@@ -314,6 +314,14 @@
     "TPAEUG": "faking", // "Faying" is not a word
     "RAEUG": "raking",  // "raying" is a word but is extremely rare
 
+    // -OEPBLD for -olden
+    "PWHOEPBLD": "beholden",
+    "EPL/PWOEPBLD": "embolden",
+    "TKPWOEPBLD": "golden", // the only one I really care about
+                            // TKPWOELD/*EPB is just too awkward for
+                            // such a common word
+    "OEPBLD": "olden",
+
     // -F for -s-
     "AOUFR": "user", // allows one-stroking "users"; use AUFR for {over^}
     "WAOEUFR": "wiser", // actually /z/
@@ -347,14 +355,6 @@
     "W*EURT": "wither",
     "S*EURT": "zither", // double *: one for "z", one for "th"
     "SPHO*RT": "smother",
-
-    // -OEPBLD for -olden
-    "PWHOEPBLD": "beholden",
-    "EPL/PWOEPBLD": "embolden",
-    "TKPWOEPBLD": "golden", // the only one I really care about
-                            // TKPWOELD/*EPB is just too awkward for
-                            // such a common word
-    "OEPBLD": "olden",
 
     // Drop * for -aken
     // Precedent: Plover now allows SPHAEUPB in addition to SPHA*EUPB for "mistaken"
