@@ -349,6 +349,11 @@
                             // such a common word
     "OEPBLD": "olden",
 
+    // Drop * for -aken
+    // Precedent: Plover now allows SPHAEUPB in addition to SPHA*EUPB for "mistaken"
+    "A/WAEUPB": "awaken",
+    "TPAUR/SAEUPB": "forsaken",
+
     // Drop * for -tle
     // Precedents: SELT "settle", TAOEULT "title"
     "PWALT": "battle",
