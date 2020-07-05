@@ -959,6 +959,7 @@
     "KAOEB": "keyboard",   // keeb
     "PHO": "month",        // mo
     "PH-FT": "movement",   // mvt
+    "PREF": "previous",    // prev
     "SEBG": "second",      // sec
     "S*EBG": "sec",
     "T-GT": "together",    // tgt
