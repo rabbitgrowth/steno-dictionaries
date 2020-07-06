@@ -451,6 +451,26 @@
     // As a special case, "handle" is HAPBL,
     // so HAPBLD makes more sense as "handled"
 
+    // Miscellaneous star-dropping
+    "KWRAER": "area",           // Too much mental gymnastics with KWRA*ER:
+                                // "area" -> ERYA -> YAER -> YAER*
+    "PWEUPBG": "binge",         // overrides "bing"
+    "PW*EUPBG": "Bing",         // name of search engine
+    "SPWREBGS": "intersection", // no * in "intersect"
+    "SKWRUF": "justify",        // no * in "justifiable", "justification", etc.
+    "SKOLGS": "psychologist",   // "psychologies" is too rare
+    "REUPBD": "remind",         // like HEUPBD "behind"
+    "T-FGS": "television",      // "it wasing" doesn't make any sense
+    "KWRUP": "yup",             // use AUP for {up^}
+    "-PLT": "{^ment}",          // use TP-PL for {.}
+    "THOEUPB": "{^,000}",       // also avoids 3/2/1/THO*EUPB outputting "32 1,000"
+
+    "PAEUT": "participate", // partici[pate] or [p]articip[ate]
+    "PA*EUT": "pate",
+    "PAEUGS": "participation", // I can use -Z if I really need to pluralize "payings"
+    // I'm okay with the * in PA*PBT "participant" because "pant" is a common word.
+    // PARPT makes sense too.
+
     // Extend "many" rule
     // We have PHAEPB "many" = MAEN = MANE = man-E.
     // Why not PWEUR "bury"  = BEUR = BURE = bur-E?
@@ -937,26 +957,6 @@
     "STKPAOEUS": "despise",
     "SKHRAUS": "Santa Claus",
     "THOUS": "thousand",
-
-    // Miscellaneous star-dropping
-    "KWRAER": "area",           // Too much mental gymnastics with KWRA*ER:
-                                // "area" -> ERYA -> YAER -> YAER*
-    "PWEUPBG": "binge",         // overrides "bing"
-    "PW*EUPBG": "Bing",         // name of search engine
-    "SPWREBGS": "intersection", // no * in "intersect"
-    "SKWRUF": "justify",        // no * in "justifiable", "justification", etc.
-    "SKOLGS": "psychologist",   // "psychologies" is too rare
-    "REUPBD": "remind",         // like HEUPBD "behind"
-    "T-FGS": "television",      // "it wasing" doesn't make any sense
-    "KWRUP": "yup",             // use AUP for {up^}
-    "-PLT": "{^ment}",          // use TP-PL for {.}
-    "THOEUPB": "{^,000}",       // also avoids 3/2/1/THO*EUPB outputting "32 1,000"
-
-    "PAEUT": "participate", // partici[pate] or [p]articip[ate]
-    "PA*EUT": "pate",
-    "PAEUGS": "participation", // I can use -Z if I really need to pluralize "payings"
-    // I'm okay with the * in PA*PBT "participant" because "pant" is a common word.
-    // PARPT makes sense too.
 
     // Existing abbreviations
     "TK-L": "download",    // dl
