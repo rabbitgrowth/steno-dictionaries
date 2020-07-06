@@ -357,7 +357,7 @@
     "S*EURT": "zither", // double *: one for "z", one for "th"
     "SPHO*RT": "smother",
 
-    // -FRD for -rced or -rsed
+    // -FRD for -rsed
     // Precedents: KUFRD "cursed", TPOFRD "forced", RAOEPB/TPOFRD "reinforced"
     // -RSD is possible but requires Philly shift.
     "TKWOFRD": "divorced",
