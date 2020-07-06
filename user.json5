@@ -933,7 +933,7 @@
     "SKHRAUS": "Santa Claus",
     "THOUS": "thousand",
 
-    // Drop *
+    // Miscellaneous star-dropping
     "KWRAER": "area",           // Too much mental gymnastics with KWRA*ER:
                                 // "area" -> ERYA -> YAER -> YAER*
     "PWEUPBG": "binge",         // overrides "bing"
