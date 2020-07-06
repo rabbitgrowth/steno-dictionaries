@@ -76,6 +76,7 @@
     "TKPWARPB": "garden",
     "TKPWOEPL": "go home",
     "HEUPB": "hidden",
+    "PHAEUPLS": "my name is", // use -Z for "maims"
     "REFLGS": "reflection", // use REFGS for "revolution"
     "SPOEFT": "supposed to",
     "SPOEFBT": "supposed to be",
