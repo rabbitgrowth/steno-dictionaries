@@ -75,6 +75,7 @@
     "TKPWARPB": "garden",
     "TKPWOEPL": "go home",
     "HEUPB": "hidden",
+    "REFLGS": "reflection", // use REFGS for "revolution"
     "SPOEFT": "supposed to",
     "SPOEFBT": "supposed to be",
 
