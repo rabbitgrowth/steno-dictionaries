@@ -1,6 +1,7 @@
 {
 
     // Briefs for very common words
+    "SKW": "and",  // alternative to SKP
     "WAU": "away", // arbitrary
     "-TS": "its",
     "T-G": "thing",
