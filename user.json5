@@ -864,6 +864,7 @@
     "STPR": "is from",
     "STPR-T": "is from the",
     "STPH": "is in",
+    "SPHOR": "is more", // add * for "s'more"
     "STOBT": "is to be the",
     "SW": "is with",
     "SW-T": "is with the",
