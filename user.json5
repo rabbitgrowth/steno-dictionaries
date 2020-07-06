@@ -1078,6 +1078,18 @@
                                 // ("My dad's a real stick in the mud...")
     "UPB/RAEL/STEUBG": "unrealistic",
 
+    // Sound mashing with "whole"
+    "WHOELT": "whole lot",
+    "WHOEFLT": "whole lot of",
+    "WHAOELT": "a whole lot",
+    "WHAOEFLT": "a whole lot of",
+    "WHUFRPB": "whole bunch",
+    "WHEUD": "whole idea", // with my EUD "idea"
+    "WHAOEUF": "whole life",
+    "WHOEUPBT": "whole point",
+    "WH-G": "whole thing", // cf. my T-G "thing"
+    "WHAOEUPL": "whole time",
+
     // mass-
     "PHASZ": "masses",   // by default misstroke (?) for "mass"
     "PHAFS": "massive",  // by default "masses"
