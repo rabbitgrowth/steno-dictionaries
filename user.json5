@@ -362,6 +362,11 @@
     "A/WAEUPB": "awaken",       // "aWayne"  is not a word
     "TPAUR/SAEUPB": "forsaken", // "forsane" is not a word
 
+    // Drop * and use -T for -th (Indian accent?)
+    "ERT": "earth",
+    "PHOUT": "mouth",
+    "TRUT": "truth",
+
     // Drop * and use -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
     "PWALT": "battle",
