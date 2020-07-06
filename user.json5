@@ -53,16 +53,6 @@
     "SRAOEPBG": "vegan",
     "WAOERPBS": "weariness",
 
-    // Drop final -y sound
-    // For -D and -T, I can think of it as "pronounce last letter".
-    // For example, STURD = stur-D = "sturdy". A possibly accidental
-    // precedent is THORT = thor-T ~= "authority".
-    "PWOD": "body",    // overrides "bod"
-    "PWODZ": "bodies", // overrides "bods"
-    "PWO*D": "bod",
-    "HRAURPBD": "laundry",
-    "STURD": "sturdy",
-
     // Don't alter vowel
     "PWERT": "better", // double for "Bert"; starred is "berth"
     "KRERPBT": "century", // use STR for "center"
@@ -87,6 +77,16 @@
     "HEUPB": "hidden",
     "SPOEFT": "supposed to",
     "SPOEFBT": "supposed to be",
+
+    // Drop final -y sound
+    // For -D and -T, I can think of it as "pronounce last letter".
+    // For example, STURD = stur-D = "sturdy". A possibly accidental
+    // precedent is THORT = thor-T ~= "authority".
+    "PWOD": "body",    // overrides "bod"
+    "PWODZ": "bodies", // overrides "bods"
+    "PWO*D": "bod",
+    "HRAURPBD": "laundry",
+    "STURD": "sturdy",
 
     // Compound words
     "KHOEBG/HOELD": "chokehold",
