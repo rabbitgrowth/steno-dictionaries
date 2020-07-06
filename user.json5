@@ -852,6 +852,16 @@
     //   P~ ~~~~~
     // SK~~ ~~~~~
     //   ~~ ~~
+    "SKPEUPL": "and I am",
+    "SKP*EUPL": "and I'm",
+    "SKPUR": "and you are",
+    "SKP*UR": "and you're",
+    "SKPES": "and he is",
+    "SKP*ES": "and he's",
+    "SKPEUF": "and I have",
+    "SKPAOEUF": "and I've",
+    "SKPEUL": "and I will",
+    "SKP*EUL": "and I'll",
     "SKPHEUS": "and his",
     "SKPHER": "and her",
     "SKPHAOER": "and here",
