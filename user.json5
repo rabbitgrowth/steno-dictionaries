@@ -53,18 +53,14 @@
     "SRAOEPBG": "vegan",
     "WAOERPBS": "weariness",
 
-    // Drop weak sounds
-    "KURPB": "curtain",
-    "TPREFT": "forest",
-    "TKPWARPB": "garden",
-    "TKPWOEPL": "go home",
-    "HEUPB": "hidden",
-    "HRAURPBD": "laundry",
-
-    // Pronounce last letter
+    // Drop final -y sound
+    // For -D and -T, I can think of it as "pronounce last letter".
+    // For example, STURD = stur-D = "sturdy". A possibly accidental
+    // precedent is THORT = thor-T ~= "authority".
     "PWOD": "body",    // overrides "bod"
     "PWODZ": "bodies", // overrides "bods"
     "PWO*D": "bod",
+    "HRAURPBD": "laundry",
     "STURD": "sturdy",
 
     // Don't alter vowel
@@ -83,7 +79,12 @@
 
     // Mash sounds together
     "THRAFT": "at last", // cf. THRAOEFT "at least"
+    "KURPB": "curtain",
     "SPHRORGS": "exploration",
+    "TPREFT": "forest",
+    "TKPWARPB": "garden",
+    "TKPWOEPL": "go home",
+    "HEUPB": "hidden",
     "SPOEFT": "supposed to",
     "SPOEFBT": "supposed to be",
 
