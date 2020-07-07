@@ -927,6 +927,19 @@
     "WEUPBD/TPAULS": "windfalls",
     "WEUPBD/PHEULS": "windmills",
 
+    // -S vs -Z
+    // In general, fold in -S to minimize the number of strokes:
+    // KATS  "cats" (as opposed to KAT/-S)
+    // TKOGS "dogs" (as opposed to TKOG/-S)
+    // ...
+    // When there's a conflict, use -S when the /s/ or /z/ sound it represents
+    // is an integral part of the word, and -Z when it's a removable suffix.
+    // For example:
+    // TPHOES "nose"
+    // TPHOEZ "knows"
+    "ROES": "rose", // by default "rows"
+    "ROEZ": "rows", // by default "rose"
+
     // Inflections
     "ART/KHRAEUTD": "articulated",
     "ART/KHRAEUGT": "articulating", // otherwise gives "art calculating"
