@@ -1070,6 +1070,13 @@
     "HRAEUBT": "a little bit", // drop -L to mitigate the violation a little bit ("alibit")
     "HRAEUFBT": "a little bit of",
 
+    // Reporting speech
+    "STHAEU": "say that",
+    "STHAEZ": "says that",
+    "STHAEUG": "saying that",
+    "STHAED": "said that", // Plover has SED and SAEUD for "said"
+                           // but only STHAEUD (SAEUD + THA) for "said that"
+
     // "criticism" family
     "KREUFPL": "criticism", // "critsim" already truncates the "ci". Why not go further?
     "KRAOEUZ": "criticize",
