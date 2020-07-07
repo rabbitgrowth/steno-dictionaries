@@ -1059,7 +1059,6 @@
     // Since we fixed HRO*S "lost", we might as well also fix HR*EUS "list":
     "HREUS": "list", // overrides "Lys-", whatever that is
                      // think "drop *" or "ls"
-
     // HRAEUL "a little" already works nicely
     "HRAEUFL": "a little of",
     "HRAEUFLT": "a little of the",
