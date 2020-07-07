@@ -1026,9 +1026,9 @@
 
     // Special mnemonics
     "SHREPBD": "endless", // SHR as a sort of mirror image of -LS
-    "HOELT": "hotel", // reverse stress or HOELT->HOTEL
-    "KW-T": "quiet", // when you speak quietly the vowels become harder to hear
-    "TH-RS": "there is", // spread out a bit to expand 's
+    "HOELT": "hotel",     // reverse stress or HOELT->HOTEL
+    "KW-T": "quiet",      // when you speak quietly the vowels become harder to hear
+    "TH-RS": "there is",  // spread out a bit to expand 's
 
     // Comma + open quote + capitalization after reporting verb
     // Precedents: SAEU/SAEU   "say, \"{^}{-|}"
