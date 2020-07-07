@@ -1025,7 +1025,7 @@
     "PAS/SO": "pass so", // overrides "Paso"; use EL/PA/SOE for "El Paso"
 
     // Special mnemonics
-    "SHREPBD": "endless", // SHR as a sort of mirror image of -LS
+    "SHREPBD": "endless", // SL as mirror image of -LS
     "HOELT": "hotel",     // reverse stress or HOELT->HOTEL
     "KW-T": "quiet",      // when you speak quietly the vowels become harder to hear
     "TH-RS": "there is",  // spread out a bit to expand 's
