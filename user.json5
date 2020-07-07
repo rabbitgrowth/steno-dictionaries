@@ -928,17 +928,17 @@
     "WEUPBD/PHEULS": "windmills",
 
     // Inflections
-    "ART/KHRAEUGT": "articulating", // otherwise gives "art calculating"
     "ART/KHRAEUTD": "articulated",
-    "KAUPB/SAOELS": "conceals",
+    "ART/KHRAEUGT": "articulating", // otherwise gives "art calculating"
     "KAUPB/SAOELG": "concealing",
-    "ES/KHRAEUGT": "escalating",
+    "KAUPB/SAOELS": "conceals",
     "ES/KHRAEUTD": "escalated",
+    "ES/KHRAEUGT": "escalating",
     "SPWOBGS/KAEUGT": "intoxicating",
     "SHREUD/TPAOEUG": "solidifying",
-    "WEUT/TPHEFG": "witnessing", // or just use W-PBS/-G
-    "WEUT/TPHEGS": "witnessing",
     "WEUT/TPHEFD": "witnessed",  // or just use W-PBS/-D
+    "WEUT/TPHEGS": "witnessing", // or just use W-PBS/-G
+    "WEUT/TPHEFG": "witnessing",
 
     // Fold in -T for -ed if the verb already ends with -d
     // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
