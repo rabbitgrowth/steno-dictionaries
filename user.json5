@@ -43,7 +43,6 @@
     "SRAOES": "series",
     "SRAOEZ": "series",
     "SEUFRT": "sister", // alternative to ST-R
-    "SHRAOEPLS": "sleepless",
     "STRAOEUTD": "strident",
     "SR*ERPBD": "surrender", // starless is "vendor"
     "T*ERS": "terrace", // starless is "terse"
@@ -177,6 +176,15 @@
     // Precedent: KWEULG "quickly"
     "TKRALG": "dramatically", // drak -> drakl
     "PHREULG": "publicly",    // plik -> plikl
+
+    // Fold in -LS for -less
+    "PWOEPBLS": "boneless",
+    "KARBLS": "cashless",
+    "SKWROBLS": "jobless",
+    "HRAOEUFLS": "lifeless",
+    "SHRAOEPLS": "sleepless",
+    "SPAOEFPLS": "speechless",
+    "SPAOEUPBLS": "spineless",
 
     // STK for dis-
     // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
