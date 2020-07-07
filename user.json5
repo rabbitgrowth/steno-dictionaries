@@ -1030,12 +1030,6 @@
     "KW-T": "quiet",      // when you speak quietly the vowels become harder to hear
     "TH-RS": "there is",  // spread out a bit to expand 's
 
-    // Comma + open quote + capitalization after reporting verb
-    // Precedents: SAEU/SAEU   "say, \"{^}{-|}"
-    //             SAEUD/SAEUD "said, \"{^}{-|}"
-    "SED/SED": "said, \"{^}{-|}",
-    "THAUT/THAUT": "thought, \"{^}{-|}",
-
     // Commands
     "TPHAOP": "{#}", // JUJ/(no-op)/*MT -> judgement
     "HRAL": "{#command(a)}", // lal -> all
@@ -1076,6 +1070,12 @@
     "STHAEUG": "saying that",
     "STHAED": "said that", // Plover has SED and SAEUD for "said"
                            // but only STHAEUD (SAEUD + THA) for "said that"
+
+    // Comma + open quote + capitalization after reporting verb
+    // Precedents: SAEU/SAEU   "say, \"{^}{-|}"
+    //             SAEUD/SAEUD "said, \"{^}{-|}"
+    "SED/SED": "said, \"{^}{-|}",
+    "THAUT/THAUT": "thought, \"{^}{-|}",
 
     // "criticism" family
     "KREUFPL": "criticism", // "critsim" already truncates the "ci". Why not go further?
