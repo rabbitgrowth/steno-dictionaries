@@ -939,6 +939,8 @@
     // TPHOEZ "knows"
     "ROES": "rose", // by default "rows"
     "ROEZ": "rows", // by default "rose"
+    "AOEUZ": "eyes", // overrides {^ize}
+    "EUZ": "{^ize}",
 
     // Inflections
     "ART/KHRAEUTD": "articulated",
