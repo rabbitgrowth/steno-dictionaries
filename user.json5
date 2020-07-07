@@ -936,6 +936,9 @@
     "ES/KHRAEUTD": "escalated",
     "SPWOBGS/KAEUGT": "intoxicating",
     "SHREUD/TPAOEUG": "solidifying",
+    "WEUT/TPHEFG": "witnessing", // or just use W-PBS/-G
+    "WEUT/TPHEGS": "witnessing",
+    "WEUT/TPHEFD": "witnessed",  // or just use W-PBS/-D
 
     // Fold in -T for -ed if the verb already ends with -d
     // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
