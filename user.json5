@@ -530,9 +530,10 @@
 
     // Pronoun + be
     // Default to full form and add * or use phonetics for contraction
-    "KWR-PL": "I am", // overrides "I mean"
+    "KWR-PL": "I am",  // overrides "I mean"
     "KWR*PL": "I mean",
     // "I'm"    AOEUPL already works
+    "KWR-FS": "I was", // overrides "why was"
     "UR": "you are",
     "*UR": "you're",
     "KWRAOUR": "you're", // slightly awkward
