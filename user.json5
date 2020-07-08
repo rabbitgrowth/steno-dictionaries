@@ -400,6 +400,8 @@
 
     // Drop * and use -T for -th (Indian accent?)
     "ERT": "earth",
+    "HELT": "health",
+    "HAOELT": "healthy", // lengthen vowel for -y
     "PHOUT": "mouth",
     "TRUT": "truth",
 
