@@ -710,6 +710,8 @@
     "KWROEPBT": "I don't want",
     // "I have" has been defined above
     "KWROEF": "I don't have",
+    "KWR-BZ": "I say",
+    "KWR-BS": "I said",
 
     // EU "I", U "you", E "he"
     // The standard strokes are inconsistent:
