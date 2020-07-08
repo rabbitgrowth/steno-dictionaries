@@ -402,6 +402,9 @@
     "ERT": "earth",
     "HELT": "health",
     "HAOELT": "healthy", // lengthen vowel for -y
+    "PHETD": "method",  // by default "meted" by accident (met + -ed)
+                        // to type "meted" properly, use PHAO*ETD
+    "PHAOETD": "meted", // whose * is droppable because "meeted" is not a word
     "PHOUT": "mouth",
     "TRUT": "truth",
 
