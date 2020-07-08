@@ -1115,6 +1115,7 @@
     // Comma + open quote + capitalization after reporting verb
     // Precedents: SAEU/SAEU   "say, \"{^}{-|}"
     //             SAEUD/SAEUD "said, \"{^}{-|}"
+    "HRAOEUBG/HRAOEUBG": "like, \"{^}{-|}", // and I was like, "..."
     "SED/SED": "said, \"{^}{-|}",
     "THAUT/THAUT": "thought, \"{^}{-|}",
 
