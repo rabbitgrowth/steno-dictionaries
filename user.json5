@@ -91,6 +91,12 @@
     "HRAURPBD": "laundry",
     "STURD": "sturdy",
 
+    // Lengthen vowel for -y
+    // Precedent: TPUPB "fun", TPAOUPB "funny"
+    "AEURPBG": "angry", // use A/RAEUPB for "arraign"
+    "HAO*ELT": "healthy",
+    "HAOURPBG": "hungry",
+
     // Compound words
     "KHOEBG/HOELD": "chokehold",
     "KHOEBG/HOELDZ": "chokeholds",
@@ -1167,12 +1173,6 @@
     // although it feels a bit wasteful to assign something as nice as O
     // to a word that's not super common. An alternative is "to".
     "O": "oh",
-
-    // I hate HOEUFLT for "healthy". There's the ugly all-purpose
-    // disambiguator OEU again, and what does that F even stand for?
-    // H*EULT is better: it feels related to H*ELT "health", and I can
-    // think of it as either "H*ELT with E changed to EU" or as "HLTHI".
-    "H*EULT": "healthy",
 
     // I hate KROEUR for "occur". Had to choose between KR and K-R,
     // which were both "consider". Settled with KR so that the visual
