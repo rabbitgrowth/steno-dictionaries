@@ -953,6 +953,11 @@
     "ROEZ": "rows", // by default "rose"
     "AOEUZ": "eyes", // overrides {^ize}
     "EUZ": "{^ize}",
+    // When there's no conflict, prefer -S over -Z because it's easier
+    // to type.
+    "STKPAOEUS": "despise",
+    "SKHRAUS": "Santa Claus",
+    "THOUS": "thousand",
 
     // Inflections
     "ART/KHRAEUTD": "articulated",
@@ -1003,11 +1008,6 @@
     // Assign nicer stroke to word that's more common
     "STPHUR": "ensure", // merges TPH and SH
     "STPH*UR": "insure",
-
-    // Use -S instead of -Z
-    "STKPAOEUS": "despise",
-    "SKHRAUS": "Santa Claus",
-    "THOUS": "thousand",
 
     // Existing abbreviations
     "TK-L": "download",    // dl
