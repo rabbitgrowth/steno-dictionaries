@@ -69,6 +69,7 @@
     "THAOERL": "theoretical", // standard stroke but with OEU -> AOE
 
     // Mash sounds together
+    "SKP-PB": "and then",
     "THRAFT": "at last", // cf. THRAOEFT "at least"
     "KURPB": "curtain",
     "SPHRORGS": "exploration",
@@ -80,6 +81,7 @@
     "REFLGS": "reflection", // use REFGS for "revolution"
     "SPOEFT": "supposed to",
     "SPOEFBT": "supposed to be",
+    "TWH-BGT": "when it comes to",
 
     // Drop final -y sound
     // For -D and -T, I can think of it as "pronounce last letter".
@@ -993,10 +995,6 @@
 
     // Don't capitalize
     "AUP/STAEUT": "upstate",
-
-    // Heavy abbreviations that somehow make sense
-    "SKP-PB": "and then",
-    "TWH-BGT": "when it comes to",
 
     // Pick more distinctive part of word
     "STRAEUGS": "administration",
