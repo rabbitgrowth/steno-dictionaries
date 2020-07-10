@@ -69,6 +69,7 @@
     "THAOERL": "theoretical", // standard stroke but with OEU -> AOE
 
     // Mash sounds together
+    "SKP-PB": "and then",
     "THRAFT": "at last", // cf. THRAOEFT "at least"
     "KURPB": "curtain",
     "SPHRORGS": "exploration",
@@ -80,6 +81,7 @@
     "REFLGS": "reflection", // use REFGS for "revolution"
     "SPOEFT": "supposed to",
     "SPOEFBT": "supposed to be",
+    "TWH-BGT": "when it comes to",
 
     // Drop final -y sound
     // For -D and -T, I can think of it as "pronounce last letter".
@@ -132,6 +134,7 @@
                       // overrides "lieu", which is always preceded by "in"
     "TPH/HRAOU": "in lieu", // TPH/HRAOUF "in lieu of" already works
     "RAEFT": "arrest",
+    "SAEPBD": "ascend", // "scened" is too rare
     "SAEPL/-BL": "assemble",
     "SAEPL/PWHRER": "assembler",
     "SAEPL/PWHREU": "assembly",
@@ -888,6 +891,7 @@
     "SKPEUL": "and I will",
     "SKP*EUL": "and I'll",
     "SKPAULT": "and all the",
+    "SKPHR-S": "and also",
     "SKPHEUS": "and his",
     "SKPHER": "and her",
     "SKPHAOER": "and here",
@@ -956,16 +960,24 @@
     // KATS  "cats" (as opposed to KAT/-S)
     // TKOGS "dogs" (as opposed to TKOG/-S)
     // ...
-    // When there's a conflict, use -S when the /s/ or /z/ sound it represents
-    // is an integral part of the word, and -Z when it's a removable suffix.
+    // When there's a conflict, use -S for -ce or -se (which forms an
+    // integral part of the word) and -Z for -s (which is a removable
+    // suffix). Mnemonic: -Z is further away and feels more detachable.
     // For example:
     // TPHOES "nose"
     // TPHOEZ "knows"
-    // (mnemonic: -Z is further away and feels more detached)
+    // But always use -Z for -ze. For example:
+    // SAOEUZ "size"
+    // SAOEUS "sighs"
     "ROES": "rose", // by default "rows"
     "ROEZ": "rows", // by default "rose"
     "AOEUZ": "eyes", // overrides {^ize}
     "EUZ": "{^ize}",
+    // When there's no conflict, prefer -S over -Z because it's easier
+    // to type.
+    "STKPAOEUS": "despise",
+    "SKHRAUS": "Santa Claus",
+    "THOUS": "thousand",
 
     // Inflections
     "ART/KHRAEUTD": "articulated",
@@ -1001,10 +1013,6 @@
     // Don't capitalize
     "AUP/STAEUT": "upstate",
 
-    // Heavy abbreviations that somehow make sense
-    "SKP-PB": "and then",
-    "TWH-BGT": "when it comes to",
-
     // Pick more distinctive part of word
     "STRAEUGS": "administration",
     "STEPBD": "extend",      // overrides "send it"
@@ -1016,11 +1024,6 @@
     // Assign nicer stroke to word that's more common
     "STPHUR": "ensure", // merges TPH and SH
     "STPH*UR": "insure",
-
-    // Use -S instead of -Z
-    "STKPAOEUS": "despise",
-    "SKHRAUS": "Santa Claus",
-    "THOUS": "thousand",
 
     // Existing abbreviations
     "TK-L": "download",    // dl
