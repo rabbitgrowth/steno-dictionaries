@@ -128,6 +128,7 @@
                       // overrides "lieu", which is always preceded by "in"
     "TPH/HRAOU": "in lieu", // TPH/HRAOUF "in lieu of" already works
     "RAEFT": "arrest",
+    "SAEPBD": "ascend", // "scened" is too rare
     "SAEPL/-BL": "assemble",
     "SAEPL/PWHRER": "assembler",
     "SAEPL/PWHREU": "assembly",
