@@ -160,6 +160,13 @@
     "TAEPBD": "attend",
     "SRAEPBG": "avenge",
 
+    // When folding in A leads to conflict, extend S to a-
+    "SWEPBG": "avenge", // mostly for symmetry with WREPBG "revenge";
+                        // folding in A (SRAEPBG) works
+    "SWOEUD": "avoid", // SRAOEUD is "vied"
+    "SWOU": "avow",    // SRAOU is "view"
+    "SWOUL": "avowal", // SRAOUL is "value"
+
     // Fold in -R for -er or -or
     "KPHARPBD": "commander",
     "STKRAEURT": "demonstrator",
@@ -219,13 +226,6 @@
     "SHRAOEPLS": "sleepless",
     "SPAOEFPLS": "speechless",
     "SPAOEUPBLS": "spineless",
-
-    // Extend S to a- as a secondary strategy to folding in A
-    "SWEPBG": "avenge", // mostly for symmetry with WREPBG "revenge";
-                        // folding in A (SRAEPBG) works
-    "SWOEUD": "avoid", // SRAOEUD is "vied"
-    "SWOU": "avow",    // SRAOU is "view"
-    "SWOUL": "avowal", // SRAOUL is "value"
 
     // Extend SPW to ind-
     // This works great because int- and ind- tend not to overlap.
