@@ -416,8 +416,8 @@
     "PHAOETD": "meted", // whose * is droppable because "meeted" is not a word
     "PHOUT": "mouth",
     "TRUT": "truth", // from TR*UT; TRAOUT (from TRAO*UT) already works
-    "WORT": "worth", // by default "wort"
-    "WO*RT": "wort", // by default "worth"
+    "WORT": "worth", // swap with "wort"
+    "WO*RT": "wort",
 
     // Drop * and use -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
@@ -1003,8 +1003,8 @@
     // But always use -Z for -ze. For example:
     // SAOEUZ "size"
     // SAOEUS "sighs"
-    "ROES": "rose", // by default "rows"
-    "ROEZ": "rows", // by default "rose"
+    "ROES": "rose", // swap with "rows"
+    "ROEZ": "rows",
     "AOEUZ": "eyes", // overrides {^ize}
     "EUZ": "{^ize}",
     // When there's no conflict, prefer -S over -Z because it's easier
