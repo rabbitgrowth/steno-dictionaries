@@ -937,6 +937,12 @@
     "SWU": "is with you",
 
     // "that" stacking
+    "THAEUPL": "that I am",
+    "THA*EUPL": "that I'm",
+    "THAUR": "that you are",
+    "THA*UR": "that you're",
+    "THAES": "that he is",
+    "THA*ES": "that he's",
     "THAEFS": "that he was",
     "STHAEFS": "that she was",
     "THAEBGD": "that he could",
