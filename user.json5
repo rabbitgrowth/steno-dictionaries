@@ -554,9 +554,7 @@
     "SKWRAOUF": "juvenile",
     "RE/SKWRAOUF": "rejuvenate",
     "RE/SKWRAOUFGS": "rejuvenation",
-    "TPHAEUR": "narrow",
-    "TPHAEURS": "narrows", // overrides "nares" (anatomical term for nostrils)
-    "TPHA*EURS": "nares",  // overrides "Paris in" (???)
+    "TPHAR": "narrow",
     "SAOUF": "souvenir",
     "SREUG": "vigor", // I don't want "have Iing" flashing past every time
                       // I type "vigorous" (standard is "I having")
