@@ -946,9 +946,27 @@
     "THA*ES": "that he's",
     "THAEFS": "that he was",
     "STHAEFS": "that she was",
+    "THAEUBG": "that I can",
+    "THAEUBGD": "that I could",
+    "THAEURBD": "that I should",
+    "THAEUL": "that I will", // use TH*EL for "they'll"
+    "THA*EUL": "that I'll",  // use TH*EL for "they'll"
+    "THAEULD": "that I would",
+    "THAEUD": "that I'd",    // use THED for "they'd"
+    "THAUBG": "that you can",
+    "THAUBGD": "that you could",
+    "THAURBD": "that you should",
+    // THAUL "that you will" already works
+    "THA*UL": "that you'll",
+    "THAULD": "that you would",
+    "THAUD": "that you'd", // by default "that you had"
+    "THAEBG": "that he can", // use THAEBGT for "that's correct"
     "THAEBGD": "that he could",
     "THAERBD": "that he should",
+    "THAEL": "that he will",
+    "THA*EL": "that he'll",
     "THAELD": "that he would",
+    "THAED": "that he'd",
     "STHAEBGD": "that she could", // THA + SHE, cf. STHAE "that she"
     "STHAERBD": "that she should",
     "STHAELD": "that she would",
