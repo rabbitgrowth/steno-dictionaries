@@ -508,6 +508,7 @@
                                 // "area" -> ERYA -> YAER -> YAER*
     "PWEUPBG": "binge",         // overrides "bing"
     "PW*EUPBG": "Bing",         // name of search engine
+    "TERPBL": "eternal",        // otherwise undefined
     "SPWREBGS": "intersection", // no * in "intersect"
     "SKWRUF": "justify",        // no * in "justifiable", "justification", etc.
     "SKOLGS": "psychologist",   // "psychologies" is too rare
