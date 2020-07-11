@@ -756,17 +756,6 @@
                     // "if he" -> "fecund" instead of "fe" -> "fecund"
     "WHE": "when he", // use WH for "when"
     "EBS": "he said", // use EBZ for "ebbs"
-    // THAEUFS "that I was"
-    // THAURP  "that you were"
-    // THAEFS  "THAEFS" (?!)
-    "THAEFS": "that he was",
-    "STHAEFS": "that she was",
-    "THAEBGD": "that he could",
-    "THAERBD": "that he should",
-    "THAELD": "that he would",
-    "STHAEBGD": "that she could", // THA + SHE, cf. STHAE "that she"
-    "STHAERBD": "that she should",
-    "STHAELD": "that she would",
 
     // Reflexive pronouns
     "O*URS": "ourselves", // "ourself" is too rare
@@ -946,6 +935,16 @@
     "SW": "is with",
     "SW-T": "is with the",
     "SWU": "is with you",
+
+    // "that" stacking
+    "THAEFS": "that he was",
+    "STHAEFS": "that she was",
+    "THAEBGD": "that he could",
+    "THAERBD": "that he should",
+    "THAELD": "that he would",
+    "STHAEBGD": "that she could", // THA + SHE, cf. STHAE "that she"
+    "STHAERBD": "that she should",
+    "STHAELD": "that she would",
 
     // as + adjective + as
     // The most common ones already work beautifully:
