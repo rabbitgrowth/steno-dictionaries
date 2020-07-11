@@ -240,6 +240,13 @@
     "SPWUBGT": "induct",
     "SPWULG": "indulge",
 
+    // Extend SPW to ant-, ont-, and unt-
+    // Justification: "ent- or int-" isn't a mirror image of -nt; nt- is.
+    // And nt- feels like it could be extended to mean [any vowel]nt-.
+    "SPWHRER": "antler",
+    "SPWOLG": "ontology",
+    "SPWO": "unto",
+
     // STK for dis-
     // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
     "STKARPL": "disarm",
