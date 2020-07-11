@@ -560,9 +560,10 @@
 
     // Use nicer prefixes for multistroke words
     "SPWR/TPAOER": "interfere",   // prefer SPWR to EUPBT
-    "SPWR/TPAOERD": "interfered",
     "SPWR/TPAOERS": "interferes",
     "SPWR/TPAOERG": "interfering",
+    "SPWR/TPAOERD": "interfered",
+    "SPWR/TPAOERPBS": "interference",
     "SPR/STEUGS": "superstition", // prefer SPR to SAOUP
     "SPR/STEURBS": "superstitious",
     // There's something ugly about using {inter^} for "interfere",
