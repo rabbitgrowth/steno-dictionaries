@@ -508,6 +508,10 @@
                                 // "area" -> ERYA -> YAER -> YAER*
     "PWEUPBG": "binge",         // overrides "bing"
     "PW*EUPBG": "Bing",         // name of search engine
+    "TK-G": "doing",            // swap with "diagnose"
+    "TK-GS": "doings",          // swap with "diagnosis"
+    "TK*G": "diagnose",
+    "TK*GS": "diagnosis",
     "TERPBL": "eternal",        // otherwise undefined
     "SPWREBGS": "intersection", // no * in "intersect"
     "SKWRUF": "justify",        // no * in "justifiable", "justification", etc.
