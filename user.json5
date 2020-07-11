@@ -38,6 +38,8 @@
     "TPEPBGS": "fencing", // misstroke for "infection"
     "TPRAOEPBLS": "freelance",
     "SKWRERPBS": "generous",
+    "EUPB/SEPBT": "innocent", // alternative to TPH-PBT
+                              // use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest", // for when my brain malfunctions and I forget about TR
     "SPWREUBGT": "intricate",
     "ORPB/TAEUGS": "orientation",
