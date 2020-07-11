@@ -187,6 +187,7 @@
 
     // ... or use HR if -L is already used
     "KHR-RBL": "considerably",
+    "SHRERBL": "essentially",
     "HRERBL": "eventually",
     "TPHRUL": "fully", // for consistency with TPUL "full"
                        // use TP*UL for "fundamental"
@@ -512,6 +513,7 @@
     "TK-GS": "doings",          // swap with "diagnosis"
     "TK*G": "diagnose",
     "TK*GS": "diagnosis",
+    "AOEGS": "emotion",         // use SERBL for "essential"
     "TERPBL": "eternal",        // otherwise undefined
     "SPWREBGS": "intersection", // no * in "intersect"
     "SKWRUF": "justify",        // no * in "justifiable", "justification", etc.
