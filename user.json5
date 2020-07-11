@@ -1125,10 +1125,6 @@
     "KOEFD/1-9": "Covid-19",
     "PR*UPL": "President Trump",
 
-    // For work
-    "HED/WORD": "headword",
-    "HED/WORDZ": "headwords",
-
     // Prevent word boundary errors
     "PAS/SO": "pass so", // overrides "Paso"; use EL/PA/SOE for "El Paso"
 
