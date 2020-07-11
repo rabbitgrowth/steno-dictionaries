@@ -427,6 +427,7 @@
     "PHAOETD": "meted", // whose * is droppable because "meeted" is not a word
     "PHOUT": "mouth",
     "TRUT": "truth", // from TR*UT; TRAOUT (from TRAO*UT) already works
+    "UPBD/TPHAOET": "underneath",
     "WORT": "worth", // swap with "wort"
     "WO*RT": "wort",
 
