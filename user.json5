@@ -412,6 +412,8 @@
     "PHAOETD": "meted", // whose * is droppable because "meeted" is not a word
     "PHOUT": "mouth",
     "TRUT": "truth", // from TR*UT; TRAOUT (from TRAO*UT) already works
+    "WORT": "worth", // by default "wort"
+    "WO*RT": "wort", // by default "worth"
 
     // Drop * and use -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
