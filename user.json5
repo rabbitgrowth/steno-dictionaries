@@ -597,6 +597,7 @@
     // "is it"  ST     already works
     // "we are" WER    already works
     // "we're"  WAOER  already works
+    "W*ER": "we're",
     "THER": "they are",
     "TH*ER": "they're",
     "THAEUR": "they're", // slightly awkward
