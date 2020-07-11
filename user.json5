@@ -941,7 +941,8 @@
     "THA*EUPL": "that I'm",
     "THAUR": "that you are",
     "THA*UR": "that you're",
-    "THAES": "that he is",
+    "THAES": "that he is",  // overrides "thesis"
+    "THAOES/EUS": "thesis", // cf. THAOES/AOES "theses"
     "THA*ES": "that he's",
     "THAEFS": "that he was",
     "STHAEFS": "that she was",
