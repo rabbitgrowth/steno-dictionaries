@@ -187,6 +187,7 @@
 
     // ... or use HR if -L is already used
     "KHR-RBL": "considerably",
+    "HRERBL": "eventually",
     "TPHRUL": "fully", // for consistency with TPUL "full"
                        // use TP*UL for "fundamental"
     "TPHR*UL": "fundamentally",
