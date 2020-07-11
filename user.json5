@@ -587,7 +587,6 @@
     "KWR-FS": "I was", // overrides "why was"
     "UR": "you are",
     "*UR": "you're",
-    "KWRAOUR": "you're", // slightly awkward
     "ES": "he is", // there's still S*E for {^es}, which seems to be useless anyway
     // "he's"   HAOES  already works
     // "she is" SHES   already works
@@ -600,7 +599,6 @@
     "W*ER": "we're",
     "THER": "they are",
     "TH*ER": "they're",
-    "THAEUR": "they're", // slightly awkward
 
     // Pronoun + have
     // The standard strokes are inconsistent:
