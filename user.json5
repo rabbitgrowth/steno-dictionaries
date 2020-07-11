@@ -1072,6 +1072,8 @@
     "ES/KHRAEUTD": "escalated",
     "ES/KHRAEUGT": "escalating",
     "SPWOBGS/KAEUGT": "intoxicating",
+    "PUPBGT/WAEUTD": "punctuated",
+    "PUPBGT/WAEUGT": "punctuating",
     "SHREUD/TPAOEUG": "solidifying",
     "WEUT/TPHEFD": "witnessed",  // or just use W-PBS/-D
     "WEUT/TPHEGS": "witnessing", // or just use W-PBS/-G
