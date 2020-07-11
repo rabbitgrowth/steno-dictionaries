@@ -154,6 +154,9 @@
     // Fold in -R for -er or -or
     "KPHARPBD": "commander",
     "STKRAEURT": "demonstrator",
+    "ERLD": "elder", // overrides "elderly"
+                     // compare OERLD "older"
+    "HRERLD": "elderly", // HR for -ly since -L is used
     "SKWRAEURT": "generator",
     "SPHURLG": "smuggler",
     "SWEUFRT": "swifter",
