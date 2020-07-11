@@ -558,6 +558,23 @@
                       // I type "vigorous" (standard is "I having")
                       // SREUG/OUR giving "vigor"->"vigour" also feels nice
 
+    // Use nicer prefixes for multistroke words
+    "SPWR/TPAOER": "interfere",   // prefer SPWR to EUPBT
+    "SPWR/TPAOERD": "interfered",
+    "SPWR/TPAOERS": "interferes",
+    "SPWR/TPAOERG": "interfering",
+    "SPR/STEUGS": "superstition", // prefer SPR to SAOUP
+    "SPR/STEURBS": "superstitious",
+    // There's something ugly about using {inter^} for "interfere",
+    // because "fere" isn't a word -- you aren't tacking "inter-" onto
+    // "fere". In fact, TPAOER is "fear", so SPWR/TPAOER feels a bit
+    // like it should be "interfear". However, Plover often allows
+    // using prefixes even when the part after the prefix isn't a word.
+    // For example, although "ceal" isn't a word, for "conceal" Plover
+    // allows (in addition to KOPB/SAOEL) KAUPB/SAOEL, which feels
+    // natural because "con-" is so common KAUPB becomes muscle memory
+    // pretty quickly.
+
     // Pronoun + be
     // Default to full form and add * or use phonetics for contraction
     "KWR-PL": "I am",  // overrides "I mean"
