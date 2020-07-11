@@ -219,6 +219,27 @@
     "SPAOEFPLS": "speechless",
     "SPAOEUPBLS": "spineless",
 
+    // Extend SPW to ind-
+    // This works great because int- and ind- tend not to overlap.
+    // "indebt" is a word; "intebt" is not.
+    // "intern" is a word; "indern" is not.
+    // Of course there are exceptions: "intent", "indent".
+    "SPWET": "indebt",
+    "SPWAOEPBT": "indecent", // cf. TKAOEPBT "decent"
+    "SPWAOED": "indeed", // beats TPHAOEPBD imo
+    "SPW*EPBT": "indent", // starless is "intent" (default to int-)
+    "SPWEBGS": "index", // beats TKEUPBGS imo
+    "SPWAOEUT": "indict",
+    "SPWAOEUPLT": "indictment",
+    "SPWAOE": "indie",
+    "SPWEUFRPBS": "indifference",
+    "SPWEUFRPBT": "indifferent",
+    "SPWRET": "indirect",
+    "SPWAORS": "indoors",
+    "SPWAOUS": "induce",
+    "SPWUBGT": "induct",
+    "SPWULG": "indulge",
+
     // STK for dis-
     // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
     "STKARPL": "disarm",
