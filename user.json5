@@ -840,6 +840,7 @@
     // Other common words
     "SA*": "as a", // think "add * to is" or "za"
     "S*T": "as the",
+    "TA": "at a", // forms a nice pair with TE "at the"
 
     // wh-word + -ever + the
     "HOUFRT": "however the",
