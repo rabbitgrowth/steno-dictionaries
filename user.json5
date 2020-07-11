@@ -525,6 +525,7 @@
     "SKOLGS": "psychologist",   // "psychologies" is too rare
     "REUPBD": "remind",         // like HEUPBD "behind"
     "T-FGS": "television",      // "it wasing" doesn't make any sense
+    "WHOUS": "White House",     // I'm fine with not being able to one-stroke "us who"
     "KWRUP": "yup",             // use AUP for {up^}
     "-PLT": "{^ment}",          // use TP-PL for {.}
     "THOEUPB": "{^,000}",       // also avoids 3/2/1/THO*EUPB outputting "32 1,000"
