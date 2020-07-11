@@ -945,7 +945,6 @@
     "THAOES/EUS": "thesis", // cf. THAOES/AOES "theses"
     "THA*ES": "that he's",
     "THAEFS": "that he was",
-    "STHAEFS": "that she was",
     "THAEUBG": "that I can",
     "THAEUBGD": "that I could",
     "THAEURBD": "that I should",
@@ -967,9 +966,15 @@
     "THA*EL": "that he'll",
     "THAELD": "that he would",
     "THAED": "that he'd",
-    "STHAEBGD": "that she could", // THA + SHE, cf. STHAE "that she"
+    // Superimpose SHE for "she", cf. STHAE "that she" (THA + SHE)
+    "STHAEFS": "that she was",
+    "STHAEBG": "that she can",
+    "STHAEBGD": "that she could",
     "STHAERBD": "that she should",
+    "STHAEL": "that she will",
+    "STHA*EL": "that she'll",
     "STHAELD": "that she would",
+    // Special case: STHAED is more useful as "said that" than as "that she'd"
 
     // as + adjective + as
     // The most common ones already work beautifully:
