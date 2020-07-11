@@ -233,7 +233,9 @@
     // "intern" is a word; "indern" is not.
     // Of course there are exceptions: "intent", "indent".
     "SPWET": "indebt",
-    "SPWAOEPBT": "indecent", // cf. TKAOEPBT "decent"
+    "SPWAOEPBT": "indecent",  // cf. TKAOEPBT "decent"
+    "SPWAOEFPBT": "indecent", // fully phonetic stroke as alternative
+    "TKAOEFPBT": "decent",
     "SPWAOED": "indeed", // beats TPHAOEPBD imo
     "SPW*EPBT": "indent", // starless is "intent" (default to int-)
     "SPWEBGS": "index", // beats TKEUPBGS imo
