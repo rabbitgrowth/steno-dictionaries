@@ -4,6 +4,7 @@
     "SKW": "and",  // alternative to SKP
     "WAU": "away", // arbitrary
     "-TS": "its",
+    "*TS": "itself",
     "HR-BG": "like", // use WELG for "welcome"
     "T-G": "thing",
 
