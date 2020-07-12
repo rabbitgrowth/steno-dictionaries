@@ -108,17 +108,17 @@
     "HRAURPBD": "laundry",
     "STURD": "sturdy",
 
-    // Lengthen vowel for -y
-    // Precedent: TPUPB "fun", TPAOUPB "funny"
-    "HAO*ELT": "healthy",
-    "HAOURPBG": "hungry",
-
     // Extend "many" rule
     // We have PHAEPB "many" = MAEN = MANE = man-E.
     // Why not PWEUR  "bury" = BEUR = BURE = bur-E?
     "AERPBG": "angry",
     "SRAEL": "valley", // overrides "vale"
     "SRA*EUL": "vale",
+
+    // Lengthen vowel for -y
+    // Precedent: TPUPB "fun", TPAOUPB "funny"
+    "HAO*ELT": "healthy",
+    "HAOURPBG": "hungry",
 
     // Compound words
     "KHOEBG/HOELD": "chokehold",
