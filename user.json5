@@ -1122,6 +1122,8 @@
     "SPWOBGS/KAEUGT": "intoxicating",
     "PUPBGT/WAEUTD": "punctuated",
     "PUPBGT/WAEUGT": "punctuating",
+    "RE/SEUFTD": "resisted",
+    "RE/SEUFTS": "resists",
     "SHREUD/TPAOEUG": "solidifying",
 
     // Fold in -T for -ed if the verb already ends with -d
