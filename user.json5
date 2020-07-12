@@ -109,6 +109,18 @@
     "HAO*ELT": "healthy",
     "HAOURPBG": "hungry",
 
+    // Extend "many" rule
+    // We have PHAEPB "many" = MAEN = MANE = man-E.
+    // Why not PWEUR "bury"  = BEUR = BURE = bur-E?
+    "PWAOEB": "booby",
+    "PWEUR": "bury", // overrides "bier"
+    "PWAO*ER": "bier",
+    "KEUR": "curry", // overrides "Kir"
+    "K*EUR": "Kir",
+    "TPHREUR": "flurry",
+    "SRAEL": "valley", // overrides "vale"
+    "SRA*EUL": "vale",
+
     // Compound words
     "KHOEBG/HOELD": "chokehold",
     "KHOEBG/HOELDZ": "chokeholds",
@@ -579,18 +591,6 @@
     "PAEUGS": "participation", // I can use -Z if I really need to pluralize "payings"
     // I'm okay with the * in PA*PBT "participant" because "pant" is a common word.
     // PARPT makes sense too.
-
-    // Extend "many" rule
-    // We have PHAEPB "many" = MAEN = MANE = man-E.
-    // Why not PWEUR "bury"  = BEUR = BURE = bur-E?
-    "PWAOEB": "booby",
-    "PWEUR": "bury", // overrides "bier"
-    "PWAO*ER": "bier",
-    "KEUR": "curry", // overrides "Kir"
-    "K*EUR": "Kir",
-    "TPHREUR": "flurry",
-    "SRAEL": "valley", // overrides "vale"
-    "SRA*EUL": "vale",
 
     // Autocomplete effect
     // Precedents: TPEUS "physical", PED "pedestrian"
