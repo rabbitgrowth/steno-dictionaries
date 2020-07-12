@@ -1146,6 +1146,7 @@
     "ORPBLT": "or not",    // there's no "orn't"
 
     // Don't capitalize
+    "OP/ED": "op-ed",
     "AUP/STAEUT": "upstate",
 
     // Pick more distinctive part of word
