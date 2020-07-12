@@ -118,8 +118,6 @@
     // Why not PWEUR  "bury" = BEUR = BURE = bur-E?
     "AERPBG": "angry",
     "PWAOEB": "booby",
-    "KEUR": "curry", // overrides "Kir"
-    "K*EUR": "Kir",
     "TPHREUR": "flurry",
     "SRAEL": "valley", // overrides "vale"
     "SRA*EUL": "vale",
