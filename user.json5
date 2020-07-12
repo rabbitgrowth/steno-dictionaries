@@ -99,6 +99,10 @@
     "PWOD": "body",    // overrides "bod"
     "PWODZ": "bodies", // overrides "bods"
     "PWO*D": "bod",
+    "PWUR": "bury", // overrides "burr"
+                    // but folding in -G and -D don't work:
+                    // PWURG is {^burg} and PWURD is "burden"
+    "PW*UR": "burr",
     "TKEUZ": "dizzy", // use TKEUS for {dis^}
     "HUR": "hurry",
     "HRAURPBD": "laundry",
@@ -114,8 +118,6 @@
     // Why not PWEUR  "bury" = BEUR = BURE = bur-E?
     "AERPBG": "angry",
     "PWAOEB": "booby",
-    "PWEUR": "bury", // overrides "bier"
-    "PWAO*ER": "bier",
     "KEUR": "curry", // overrides "Kir"
     "K*EUR": "Kir",
     "TPHREUR": "flurry",
