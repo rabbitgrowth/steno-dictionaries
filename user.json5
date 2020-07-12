@@ -104,8 +104,6 @@
                     // PWURG is {^burg} and PWURD is "burden"
     "PW*UR": "burr",
     "TKEUZ": "dizzy", // use TKEUS for {dis^}
-    "TPHRUR": "flurry", // overrides "fleur"
-    "TPHREUR": "fleur", // orthographic
     "HUR": "hurry",
     "HRAURPBD": "laundry",
     "STURD": "sturdy",
@@ -119,7 +117,6 @@
     // We have PHAEPB "many" = MAEN = MANE = man-E.
     // Why not PWEUR  "bury" = BEUR = BURE = bur-E?
     "AERPBG": "angry",
-    "PWAOEB": "booby",
     "SRAEL": "valley", // overrides "vale"
     "SRA*EUL": "vale",
 
