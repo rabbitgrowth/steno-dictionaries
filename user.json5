@@ -1181,6 +1181,7 @@
     "TP*EFT": "festival",  // fest
     "HRA*B": "laboratory", // lab
     "PO*P": "popular",     // pop
+    "P*UB": "publish",     // pub
     "SR*ET": "veteran",    // vet
 
     // ... or double the short form when it already has a *
