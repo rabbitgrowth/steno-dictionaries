@@ -109,8 +109,8 @@
     "STURD": "sturdy",
 
     // Extend "many" rule
-    // We have PHAEPB "many" = MAEN = MANE = man-E.
-    // Why not PWEUR  "bury" = BEUR = BURE = bur-E?
+    // We have PHAEPB "many"   = MAEN = MANE = man-E.
+    // Why not SRAEL  "valley" = VAEL = VALE = val-E?
     "AERPBG": "angry",
     "SRAEL": "valley", // overrides "vale"
     "SRA*EUL": "vale",
