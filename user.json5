@@ -998,12 +998,16 @@
     // "is" stacking
     "STP-RT": "is for the",
     "STPR": "is from",
+    "STPRA": "is from a",
     "STPR-T": "is from the",
     "STPH": "is in",
+    "STPHA": "is in a",
+    "STPH-T": "is in the", // just two-stroke "isn't the"
     "SPHOR": "is more", // add * for "s'more"
     "STHRA": "is there a",
     "STOBT": "is to be the",
     "SW": "is with",
+    "SWA": "is with a",
     "SW-T": "is with the",
     "SWU": "is with you",
 
