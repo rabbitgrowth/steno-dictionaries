@@ -6,6 +6,7 @@
     "-TS": "its",
     "*TS": "itself",
     "HR-BG": "like", // use WELG for "welcome"
+    "HR-BGT": "like the",
     "T-G": "thing",
 
     // Consistency with existing strokes
