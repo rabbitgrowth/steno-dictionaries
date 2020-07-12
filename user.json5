@@ -583,6 +583,7 @@
     "TK-GS": "doings",          // swap with "diagnosis"
     "TK*G": "diagnose",
     "TK*GS": "diagnosis",
+    "TP-RB": "efficiency",      // for consistency with TP-RBT "efficient"
     "AOEGS": "emotion",         // use SERBL for "essential"
     "TERPBL": "eternal",        // otherwise undefined
     "SPWREBGS": "intersection", // no * in "intersect"
