@@ -400,6 +400,13 @@
     // TKE/SROFL "devolve" (TKE/SROF is undefined)
     "WROFL": "revolve",
 
+    // R for re- with inversion
+    // Precedent: PRAOET "repeat"
+    "TPRAOUS": "refuse",
+    "TPRAOUFD": "refused",
+    "TPRAOUFG": "refusing", // TPRAOUGS is "fruition"
+    "TPRAOULS": "refusal",  // TPRAOUFL is "fruitful"
+
     // AEUG for -aking
     // Precedents: PHAEUG "making", SHAEUG "shaking"
     "AEUG": "aching",   // "aing" is not a word
