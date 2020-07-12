@@ -1001,6 +1001,7 @@
     "STPR-T": "is from the",
     "STPH": "is in",
     "SPHOR": "is more", // add * for "s'more"
+    "STHRA": "is there a",
     "STOBT": "is to be the",
     "SW": "is with",
     "SW-T": "is with the",
@@ -1063,7 +1064,6 @@
     "AOLT": "along the",
     "TPAS": "as if",
     "ELGT": "exactly the",
-    "STHRA": "is there a",
     "T-TS": "it is the",
     "T*TS": "it's the",
     "T-FTS": "it was the",
