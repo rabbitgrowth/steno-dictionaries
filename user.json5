@@ -1004,6 +1004,7 @@
     "STPHA": "is in a",
     "STPH-T": "is in the", // just two-stroke "isn't the"
     "SPHOR": "is more", // add * for "s'more"
+    "STPHOU": "is now",
     "STHRA": "is there a",
     "STOBT": "is to be the",
     "SW": "is with",
