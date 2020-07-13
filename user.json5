@@ -1072,7 +1072,6 @@
     "THAUBG": "that you can",
     "THAUBGD": "that you could",
     "THAURBD": "that you should",
-    // THAUL "that you will" already works
     "THA*UL": "that you'll",
     "THAULD": "that you would",
     "THAUD": "that you'd", // by default "that you had"
