@@ -922,6 +922,7 @@
     "T*TS": "it's the",
     "T-FTS": "it was the",
     "TH-TS": "this is the", // use THA*S for "that's"
+    "TH-FTS": "this was the",
     "THATS": "that is the",
     "THA*TS": "that's the",
     "THAFTS": "that was the",
