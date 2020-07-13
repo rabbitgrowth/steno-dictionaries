@@ -1,10 +1,12 @@
 {
 
-    // Briefs for very common words
+    // Skeletal briefs for common words
     "-TS": "its",
     "*TS": "itself",
     "HR-BG": "like", // use WELG for "welcome"
     "HR-BGT": "like the",
+    "W-F": "one of",
+    "W-FT": "one of the",
     "T-G": "thing",
 
     // Consistency with existing strokes
