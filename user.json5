@@ -1118,6 +1118,7 @@
     "PWEPB/TPEURBS": "beneficiaries", // just add -S instead of KWRAERS
     "KAUPB/SKWREBG/TAOURS": "conjectures",
     "TKEUPL/PHATS": "diplomats",
+    "TKOPL/TPHOES": "dominoes",
     "TKREGS": "dregs",
     "EBG/OES": "echoes",
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
