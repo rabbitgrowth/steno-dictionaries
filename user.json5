@@ -921,14 +921,28 @@
     "T-TS": "it is the",
     "T*TS": "it's the",
     "T-FTS": "it was the",
-    "-FTS": "was the",
     "TH-TS": "this is the", // use THA*S for "that's"
     "THATS": "that is the",
+    "THA*TS": "that's the",
+    "THAFTS": "that was the",
     "WHATS": "what is the", // use WHA*S for "what's"
+    "WHA*TS": "what's the",
+    "WHAFTS": "what was the",
     "WH-TS": "when is the",
+    "WH*TS": "when's the",
+    "WH-FTS": "when was the",
     "W-RTS": "where is the",
+    "WR-TS": "where is the",   // -R pushed to the left (unnecessarily)
+    "W*RTS": "where's the",
+    "WR*TS": "where's the",    // -R pushed to the left (unnecessarily)
+    "WR-FTS": "where was the", // -R pushed to the left
     "WHOTS": "who is the",
+    "WHO*TS": "who's the",
+    "WHOFTS": "who was the",
     "KWR-TS": "why is the",
+    "KWR*TS": "why's the",
+    "KWR-FTS": "why was the",
+    "-FTS": "was the",
     "W-RS": "where is",
     "KWR-S": "why is",
 
