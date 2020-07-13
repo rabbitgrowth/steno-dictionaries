@@ -1093,6 +1093,17 @@
     "STHAELD": "that she would",
     // Special case: STHAED is more useful as "said that" than as "that she'd"
 
+    // "what" stacking
+    "WHAEUPL": "what I am",
+    "WHA*EUPL": "what I'm",
+    "WHAUR": "what you are",
+    "WHA*UR": "what you're",
+    "WHAES": "what he is",
+    "WHA*ES": "what he's",
+    "WHAEFS": "what he was",
+    "WHAF": "what if",
+    "WHAOER": "what other",
+
     // as + adjective + as
     // The most common ones already work beautifully:
     // AS WELL AS  155949  SW-LS / SW*ELS  (SWELS)
