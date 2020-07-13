@@ -1,8 +1,6 @@
 {
 
     // Briefs for very common words
-    "SKW": "and",  // alternative to SKP
-    "WAU": "away", // arbitrary
     "-TS": "its",
     "*TS": "itself",
     "HR-BG": "like", // use WELG for "welcome"
@@ -1245,7 +1243,9 @@
     // Prevent word boundary errors
     "PAS/SO": "pass so", // overrides "Paso"; use EL/PA/SOE for "El Paso"
 
-    // Special mnemonics
+    // Special rules
+    "SKW": "and",            // SKP with P one tile down
+    "WAU": "away",           // arbitrary
     "SHREPBD": "endless",    // SL as mirror image of -LS
     "SHREPBLD": "endlessly",
     "HOELT": "hotel",        // reverse stress or HOELT->HOTEL
