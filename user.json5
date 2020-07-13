@@ -918,6 +918,10 @@
     "TA": "at a", // forms a nice pair with TE "at the"
 
     // "the" stacking
+    "T-TS": "it is the",
+    "T*TS": "it's the",
+    "T-FTS": "it was the",
+    "-FTS": "was the",
     "TH-TS": "this is the", // use THA*S for "that's"
     "THATS": "that is the",
     "WHATS": "what is the", // use WHA*S for "what's"
@@ -928,7 +932,10 @@
     "W-RS": "where is",
     "KWR-S": "why is",
 
-    // wh-word + -ever + the
+    "AOLT": "along the",
+    "ELGT": "exactly the",
+    "OEPBLT": "only the",
+
     "HOUFRT": "however the",
     "WHAFRT": "whatever the",
     "WH-FRT": "whenever the",
@@ -1085,17 +1092,10 @@
 
     // Miscellaneous phrasing strokes
     "PWHOU": "about how",
-    "AOLT": "along the",
     "TPAS": "as if",
-    "ELGT": "exactly the",
-    "T-TS": "it is the",
-    "T*TS": "it's the",
-    "T-FTS": "it was the",
     "T-T": "it the", // as in "making it the..."
     "TPHOBT": "not be",
-    "OEPBLT": "only the",
     "STHAO": "so that",
-    "-FTS": "was the",
     "TWH": "when it",
     "HR-F": "will have",
 
