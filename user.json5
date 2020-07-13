@@ -1060,6 +1060,17 @@
     "STHAELD": "that she would",
     // Special case: STHAED is more useful as "said that" than as "that she'd"
 
+    // "the" stacking
+    "TH-TS": "this is the", // use THA*S for "that's"
+    "THATS": "that is the",
+    "WHATS": "what is the", // use WHA*S for "what's"
+    "WH-TS": "when is the",
+    "W-RTS": "where is the",
+    "WHOTS": "who is the",
+    "KWR-TS": "why is the",
+    "W-RS": "where is",
+    "KWR-S": "why is",
+
     // as + adjective + as
     // The most common ones already work beautifully:
     // AS WELL AS  155949  SW-LS / SW*ELS  (SWELS)
