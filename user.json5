@@ -1245,6 +1245,7 @@
 
     // Special rules
     "SKW": "and",            // SKP with P one tile down
+    "TAL": "at all",         // two outer letters stripped
     "WAU": "away",           // arbitrary
     "SHREPBD": "endless",    // SL as mirror image of -LS
     "SHREPBLD": "endlessly",
