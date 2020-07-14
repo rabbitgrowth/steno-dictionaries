@@ -152,6 +152,8 @@
     "KRAOS": "across",
     "TKAOPT": "adopt",     // or just use TKOPT
     "TKAOPGS": "adoption", // or just use TKOPGS
+    "TPHRAEUBGT": "afflict",
+    "TPHRAEUBGS": "affliction", // use -Z for "flakes"
     "HAED": "ahead",
     "HRAEUF": "alive",
     "HRAEPBLG": "allege",
