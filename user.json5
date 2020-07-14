@@ -892,6 +892,7 @@
     "AOEFPB": "even if", // TPAOEPB feels more like "if even"
     "AOEFPBT": "even if the",
     "AOEPBT": "even the",
+    "WHAF": "what if",
 
     // Common word + a
     // SA   "sa"
@@ -1137,8 +1138,6 @@
     "WHA*EL": "what he'll",
     "WHAELD": "what he would",
     "WHAED": "what he'd",
-    "WHAF": "what if",
-    "WHAOER": "what other",
 
     // as + adjective + as
     // The most common ones already work beautifully:
@@ -1159,6 +1158,7 @@
     "TPHOBT": "not be",
     "STHAO": "so that",
     "SAUFP": "such a",
+    "WHAOER": "what other",
     "TWH": "when it",
     "HR-F": "will have",
 
