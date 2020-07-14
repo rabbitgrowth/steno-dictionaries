@@ -1468,4 +1468,10 @@
     // thousands of dollars.")
     "THA/AOUGS": "that using",
 
+    // Error recovery
+    // Phoenix uses R-R but that's newline in Plover already,
+    // so move that up one tile and use H-F. (Use KW-PL for {?}.)
+    "PWEUT/H-F": "by the",       // not "bit"
+    "WHAEL/H-F": "what he will", // not "whale"
+
 }
