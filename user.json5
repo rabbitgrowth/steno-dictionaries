@@ -1216,7 +1216,6 @@
     "KAUPB/SKWREBG/TAOURS": "conjectures",
     "TKEUPL/PHATS": "diplomats",
     "TKOPL/TPHOES": "dominoes",
-    "TKREGS": "dregs",
     "EBG/OES": "echoes",
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
     "SKWRUFSZ": "justices", // otherwise gives "justifieses" (SKWRUFZ + -S)
