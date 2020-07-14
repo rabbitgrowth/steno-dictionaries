@@ -1257,7 +1257,7 @@
     "SPWOBGS/KAEUGT": "intoxicating",
     "OP/PREFD": "oppressed",
     "OP/PRESZ": "oppresses",
-    "OP/PREFG": "oppressing",
+    "OP/PREFG": "oppressing", // OP/PREGS is "oppression"
     "OP/PREFS": "oppressive",
     "OP/PREFR": "oppressor",
     "OP/PRERS": "oppressor",
