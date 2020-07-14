@@ -730,10 +730,16 @@
     "HERBD": "herbed",
     // "shall he"  too rare to care
     // "should he" SHOE is "show"
-    // "he will"   EL is "El"
-    // "he'll"     HAOEL is "heel"
+    "EL": "he will", // for "El", just keep on typing;
+                     // chances are you'll get what you want:
+                     // EL/PA/SOE        "El Paso"
+                     // EL/SAL/SRA/TKOR  "El Salvador"
+                     // EL/TPHEUPB/KWROE "El Nino"
+    // "he'll"     *EL already works
     // "he would"  ELD already works
-    "HAOED": "heed", // for consistency with "heel"
+    "ED": "he'd",    // add * for "Ed"
+                     // which frees up ...
+    "HAOED": "heed", // drop *
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
 
