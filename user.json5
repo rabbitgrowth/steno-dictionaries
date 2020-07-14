@@ -1065,6 +1065,10 @@
     "THAOES/EUS": "thesis", // cf. THAOES/AOES "theses"
     "THA*ES": "that he's",
     "THAEFS": "that he was",
+    "THAEUF": "that I have",
+    "THA*EUF": "that I've",
+    "THAUF": "that you have",
+    "THA*UF": "that you've",
     "THAEUBG": "that I can",
     "THAEUBGD": "that I could",
     "THAEURBD": "that I should",
