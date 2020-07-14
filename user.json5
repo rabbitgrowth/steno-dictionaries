@@ -919,6 +919,7 @@
     "SA*": "as a", // think "is + * = as" or "za"
     "S*T": "as the",
     "TA": "at a", // forms a nice pair with TE "at the"
+    "AOPB": "on a", // use AUPB for {on^}
 
     // "the" stacking
     "T-TS": "it is the",
