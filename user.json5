@@ -916,9 +916,9 @@
     "TPHA": "in a",   // TPH-T "in the"
     "WA": "with a",   // W-T   "with the"
     // Other common words
-    "SA*": "as a", // think "is + * = as" or "za"
+    "SA*": "as a",  // think "is + * = as" or "za"
     "S*T": "as the",
-    "TA": "at a", // forms a nice pair with TE "at the"
+    "TA": "at a",   // forms a nice pair with TE "at the"
     "AOPB": "on a", // use AUPB for {on^}
 
     // "the" stacking
