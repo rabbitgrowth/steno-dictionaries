@@ -1212,6 +1212,7 @@
     "HR-F": "will have",
 
     // Plurals
+    "AL/PWAOEUS": "alibis",
     "PWEPB/TPEURBS": "beneficiaries", // just add -S instead of KWRAERS
     "KAUPB/SKWREBG/TAOURS": "conjectures",
     "TKEUPL/PHATS": "diplomats",
@@ -1222,6 +1223,7 @@
     "HRAUR/KWRATS": "laureates",
     "HRAUFS": "layoffs",
     "HR-PBS": "licenses",
+    "HRUL/PWAOEUS": "lullabies",
     "PHOD/RATS": "moderates",
     "TPHARS/SEUFTS": "narcissists",
     "RAEU/SEUPBS": "raisins",
