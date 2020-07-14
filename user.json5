@@ -708,8 +708,8 @@
     "SHOU": "should you", // misstroke for "somehow"
     "UL": "you will",
     "*UL": "you'll",
-    "ULD": "you would",
-    "UD": "you'd",
+    // "you would"  ULD already works
+    // "you'd"      UD already works
     // "will you"   HRU already works
     // "would you"  WOU already works
 
