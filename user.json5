@@ -1161,6 +1161,13 @@
     "WHES": "when he is",
     "WH*ES": "when he's",
     "WHEFS": "when he was",
+    "WHEUF": "when I have", // overrides "whiff"
+    "WH*EUF": "when I've",  // even the starred stroke is occupied
+    "WH-F": "whiff",        // mnemonic: a whiff, being insubstantial, is empty in the middle
+                            // overrides "when have", but there are often better break points:
+                            // "when have I ever"   WH/SREU/-FR
+                            // "when have you been" WH/SRUB
+    "WHEUF/-F": "whiff of", // safeguard for when I forget this mnemonic
     "WH*UF": "when you've",
     "WHUF": "when you have",
 
