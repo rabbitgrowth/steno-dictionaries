@@ -1509,8 +1509,8 @@
     // Error recovery
     // Phoenix uses R-R but that's newline in Plover already,
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
-    "PWEUT/H-F": "by the",       // not "bit"
-    "TKPWUPB/H-F": "gun",        // not "begun"
-    "WHAEL/H-F": "what he will", // not "whale"
+    "PWEUT/H-F": "by the",       // from "bit"
+    "TKPWUPB/H-F": "gun",        // from "begun"
+    "WHAEL/H-F": "what he will", // from "whale"
 
 }
