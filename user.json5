@@ -708,12 +708,8 @@
     "SHOU": "should you", // misstroke for "somehow"
     "UL": "you will",
     "*UL": "you'll",
-    "KWRAOUL": "you'll", // swap with "Yule"
-    "KWRAO*UL": "Yule",
     "ULD": "you would",
-    "*ULD": "you'd",
     "UD": "you'd",
-    "KWRAOUD": "you'd",
     // "will you"   HRU already works
     // "would you"  WOU already works
 
