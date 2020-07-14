@@ -1145,6 +1145,16 @@
     "WHAED": "what he'd",
 
     // "when" stacking
+    "WHEUPL": "when I am",  // overrides "whim"
+    "WH*EUPL": "when I'm",  // even the starred stroke is occupied
+    "WH-PL": "whim",        // mnemonic: a whim, being insubstantial, is empty in the middle
+    "AEU/WHEUPL": "a whim", // safeguards for when I forget this mnemonic
+    "-T/WHEUPL": "the whim",
+    "TOT/WHEUPL": "to the whim",
+    "TA/WHEUPL": "at a whim",
+    "TE/WHEUPL": "at the whim",
+    "AOPB/WHEUPL": "on a whim",
+    "OPBT/WHEUPL": "on the whim",
     "WHUR": "when you are",
     "WH*UR": "when you're",
     "WHURP": "when you were",
