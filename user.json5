@@ -31,6 +31,8 @@
     "ARPB/KEUFPL": "anarchism",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEU": "anarchy",
+    "PWHRAOEU": "belie",
+    "PWHRAOEUD": "belied", // otherwise gives "belieed"
     "KHRERPBD": "calendar",
     "KAUFT": "caste",
     "KHEUBG/EPB": "chicken",
