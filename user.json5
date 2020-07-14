@@ -1143,6 +1143,16 @@
     "WHAELD": "what he would",
     "WHAED": "what he'd",
 
+    // "when" stacking
+    "WHUR": "when you are",
+    "WH*UR": "when you're",
+    "WHURP": "when you were",
+    "WHES": "when he is",
+    "WH*ES": "when he's",
+    "WHEFS": "when he was",
+    "WH*UF": "when you've",
+    "WHUF": "when you have",
+
     // as + adjective + as
     // The most common ones already work beautifully:
     // AS WELL AS  155949  SW-LS / SW*ELS  (SWELS)
