@@ -1346,6 +1346,10 @@
     "KW-T": "quiet",         // when you speak quietly the vowels become harder to hear
     "TH-RS": "there is",     // spread out a bit to expand 's
 
+    // Double to join with "and"
+    "OEFR/OEFR": "over and over",
+    "OEFR/OEFR/OEFR": "over and over and over",
+
     // Commands
     "TPHAOP": "{#}", // JUJ/(no-op)/*MT -> judgement
     "HRAL": "{#command(a)}", // lal -> all
