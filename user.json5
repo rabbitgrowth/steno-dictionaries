@@ -846,6 +846,8 @@
     "KWROELG": "I don't like",
     "KWR-FL": "I feel",   // [f]ee[l]
     "KWROEFL": "I don't feel",
+    "KWR-Z": "I see",     // Z /ziː/ ~= "see"
+    "KWROEZ": "I don't see",
     // KWR-F  "I have" has been defined above
     "KWROEF": "I don't have",
     // KWR*PL "I mean" has been defined above
