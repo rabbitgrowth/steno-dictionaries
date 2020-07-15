@@ -983,7 +983,7 @@
     // J for "just"
     "SKWR": "just",
     "SKWR-T": "just the",
-    "SKWR-BG": "just like", // first and last consonants
+    "SKWR-LG": "just like",
     "SKWR-PBG": "just in case", // "junk" is SKWRUPBG; no * needed
 
     // SPH for "some"
