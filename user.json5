@@ -673,20 +673,28 @@
     // KWROEUF "I don't have"
     // SREU    "I have" (?!)
     "KWR-F": "I have",
-    // "I've"     AOEUF already works
+    "KWR-FB": "I have been",
+    // "I've"      AOEUF already works
+    // "I've been" AOEUFB already works
     "SREU": "have I", // follow steno order
     "UF": "you have",
+    "UFB": "you have been", // just fingerspell "USB"
     "*UF": "you've",
     "KWRAOUF": "you've",
+    "*UFB": "you've been",
     // "have you" SRU already works
     // "he has"   use HEZ  (EZ is "easy")
     // "she has"  use SHEZ
     "WEF": "we have", // there's still WAEF for "weave",
                       // which is admittedly inconsistent with HREF "leave"
+    "WEFB": "we have been",
     // "we've"    W*EF and WAOEF already work
+    "W*EFB": "we've been",
     "THEF": "they have",
+    "THEFB": "they have been",
     "TH*EF": "they've",
     "THAEUF": "they've",
+    "TH*EFB": "they've been",
 
     // Pronoun + modal verb
     "KWR-BG": "I can", // overrides misstroke for {,}
