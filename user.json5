@@ -1572,4 +1572,13 @@
     "SAOEUD/H-F": "sighed",      // from "side"
     "WHAEL/H-F": "what he will", // from "whale"
 
+    // ... from using -S when I should have used -Z
+    "T-PBS/H-F": "continues",    // from "continuous"
+    "TPHOES/H-F": "knows",       // from "nose"
+    "PHAPBGS/H-F": "manages",    // from "mansion"
+    "PAOERS/H-F": "peers",       // from "pierce"
+    "PHRAEUS/H-F": "plays",      // from "place"
+    "PREUPBS/H-F": "principles", // from "prince"
+    "SPHRAOEUS/H-F": "supplies", // from "splice"
+
 }
