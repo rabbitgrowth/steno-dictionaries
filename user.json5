@@ -1034,17 +1034,30 @@
     // SK~~ ~~~~~
     //   ~~ ~~
     "SKPEUPL": "and I am",
+    "SKPEUPLT": "and I am the",
     "SKP*EUPL": "and I'm",
+    "SKP*EUPLT": "and I'm the",
     "SKPUR": "and you are",
+    "SKPURT": "and you are the",
     "SKP*UR": "and you're",
+    "SKP*URT": "and you're the",
     "SKPURPBT": "and you aren't",
     "SKPURP": "and you were",
+    "SKPURPT": "and you were the",
     "SKPES": "and he is",
+    "SKPETS": "and he is the",
     "SKP*ES": "and he's",
+    "SKP*ETS": "and he's the",
     "SKPEFS": "and he was",
+    "SKPEFTS": "and he was the",
     "SKPEUF": "and I have",
+    "SKPEUFT": "and I have the",
     "SKP*EUF": "and I've",
+    "SKP*EUFT": "and I've the",
+    // SKPUF "and you have" already works
+    "SKPUFT": "and you have the",
     "SKP*UF": "and you've",
+    "SKP*UFT": "and you've the",
     "SKPEUBGD": "and I could",
     "SKPEUL": "and I will",
     "SKP*EUL": "and I'll",
@@ -1095,17 +1108,28 @@
 
     // "that" stacking
     "THAEUPL": "that I am",
+    "THAEUPLT": "that I am the",
     "THA*EUPL": "that I'm",
+    "THA*EUPLT": "that I'm the",
     "THAUR": "that you are",
+    "THAURT": "that you are the",
     "THA*UR": "that you're",
+    "THA*URT": "that you're the",
     "THAES": "that he is",  // overrides "thesis"
     "THAOES/EUS": "thesis", // cf. THAOES/AOES "theses"
+    "THAETS": "that he is the",
     "THA*ES": "that he's",
+    "THA*ETS": "that he's the",
     "THAEFS": "that he was",
+    "THAEFTS": "that he was the",
     "THAEUF": "that I have",
+    "THAEUFT": "that I have the",
     "THA*EUF": "that I've",
+    "THA*EUFT": "that I've the",
     "THAUF": "that you have",
+    "THAUFT": "that you have the",
     "THA*UF": "that you've",
+    "THA*UFT": "that you've the",
     "THAEUBG": "that I can",
     "THAEUBGD": "that I could",
     "THAEURBD": "that I should",
@@ -1182,7 +1206,9 @@
 
     // "when" stacking
     "WHEUPL": "when I am",  // overrides "whim"
+    "WHEUPLT": "when I am the",
     "WH*EUPL": "when I'm",  // even the starred stroke is occupied
+    "WH*EUPLT": "when I'm the",
     "WH-PL": "whim",        // mnemonic: a whim, being insubstantial, is empty in the middle
     "AEU/WHEUPL": "a whim", // safeguards for when I forget this mnemonic
     "-T/WHEUPL": "the whim",
@@ -1192,20 +1218,30 @@
     "AOPB/WHEUPL": "on a whim",
     "OPBT/WHEUPL": "on the whim",
     "WHUR": "when you are",
+    "WHURT": "when you are the",
     "WH*UR": "when you're",
+    "WH*URT": "when you're the",
     "WHURP": "when you were",
+    "WHURPT": "when you were the",
     "WHES": "when he is",
+    "WHETS": "when he is the",
     "WH*ES": "when he's",
+    "WH*ETS": "when he's the",
     "WHEFS": "when he was",
+    "WHEFTS": "when he was the",
     "WHEUF": "when I have", // overrides "whiff"
+    "WHEUFT": "when I have the",
     "WH*EUF": "when I've",  // even the starred stroke is occupied
+    "WH*EUFT": "when I've the",
     "WH-F": "whiff",        // mnemonic: a whiff, being insubstantial, is empty in the middle
                             // overrides "when have", but there are often better break points:
                             // "when have I ever"   WH/SREU/-FR
                             // "when have you been" WH/SRUB
     "WHEUF/-F": "whiff of", // safeguard for when I forget this mnemonic
     "WH*UF": "when you've",
+    "WH*UFT": "when you've the",
     "WHUF": "when you have",
+    "WHUFT": "when you have the",
 
     // as + adjective + as
     // The most common ones already work beautifully:
