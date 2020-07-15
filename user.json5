@@ -2,11 +2,12 @@
 
     // Skeletal briefs for common words
     "TP-D": "find",
-    "-FD": "find",
+    "-FD": "find", // make combining form work too
     "T-FD": "find it",
     "-TS": "its",
     "*TS": "itself",
-    "-LG": "like", // use HR-G or WEULG for "willing"
+    "-LG": "like", // make combining form work too
+                   // use HR-G or WEULG for "willing"
     "-LGT": "like the", // by default "thing" by accident:
                         // -LT misstroke for "the"
                         // -G  fold in "-ing", cancelling the "e"
@@ -852,6 +853,13 @@
     "KWROEPBT": "I don't want",
     "KWR-LG": "I like",   // [l]i[k]e
     "KWROELG": "I don't like",
+    "KWR-FD": "I find",   // [f]in[d]
+    "KWROEFD": "I don't find", // Plover uses KWROFPBD but that PB feels
+                               // unnecessary; "find" is by far the most
+                               // common "f*d" word to follow "I don't":
+                               // I DO N'T FIND  1199
+                               // I DO N'T FEED    30
+                               // I DO N'T FIELD    3
     "KWR-FL": "I feel",   // [f]ee[l]
     "KWROEFL": "I don't feel",
     "KWR-Z": "I see",     // Z /ziː/ ~= "see"
