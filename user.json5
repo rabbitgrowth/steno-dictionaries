@@ -827,6 +827,8 @@
     "KWROEPBG": "I don't think",
     "KWR-PBT": "I want",  // wa[nt]
     "KWROEPBT": "I don't want",
+    "KWR-LG": "I like",   // [l]i[k]e
+    "KWROELG": "I don't like",
     // KWR-F  "I have" has been defined above
     "KWROEF": "I don't have",
     // KWR*PL "I mean" has been defined above
