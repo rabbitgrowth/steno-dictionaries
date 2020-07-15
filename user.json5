@@ -6,6 +6,8 @@
     "T-FD": "find it",
     "-TS": "its",
     "*TS": "itself",
+    "-LG": "like", // use HR-G or WEULG for "willing"
+    "-LGT": "like the",
     "HR-BG": "like", // use WELG for "welcome"
     "HR-BGT": "like the",
     "W-F": "one of",
