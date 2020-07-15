@@ -440,7 +440,7 @@
 
     // -F for -s-
     "AOUFR": "user", // use AUFR for {over^}
-    "WAOEUFR": "wiser", // actually /z/
+    "WAOEUFR": "wiser",
 
     // Drop -F for -t-
     "TPRAOEUPB": "frighten",
