@@ -35,10 +35,6 @@
     "ARPB/KEUFPL": "anarchism",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEU": "anarchy",
-    "APL": "apple", // overrides "am"
-    "-PL": "am", // cf. EU/-PL "I am"
-                 // use TP-PL for {.}
-    "PAOEUPB/APL": "pineapple",
     "PWHRAOEU": "belie",
     "PWHRAOEUD": "belied", // otherwise gives "belieed"
     "KHRERPBD": "calendar",
@@ -1430,6 +1426,12 @@
     "HRAOEUBG/HRAOEUBG": "like, \"{^}{-|}", // and I was like, "..."
     "SED/SED": "said, \"{^}{-|}",
     "THAUT/THAUT": "thought, \"{^}{-|}",
+
+    // "apple" family
+    "APL": "apple", // overrides "am"
+    "-PL": "am", // cf. EU/-PL "I am"
+                 // use TP-PL for {.}
+    "PAOEUPB/APL": "pineapple",
 
     // "criticism" family
     "KREUFPL": "criticism", // "critsim" already truncates the "ci". Why not go further?
