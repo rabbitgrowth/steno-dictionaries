@@ -32,9 +32,9 @@
 
     // Phonetic
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
-    "ARPB/KEUFPL": "anarchism",
-    "ARPB/KEUFT": "anarchist",
     "ARPB/KEU": "anarchy",
+    "ARPB/KEUFT": "anarchist",
+    "ARPB/KEUFPL": "anarchism",
     "PWHRAOEU": "belie",
     "PWHRAOEUD": "belied", // otherwise gives "belieed"
     "KHRERPBD": "calendar",
