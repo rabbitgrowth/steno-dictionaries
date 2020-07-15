@@ -1538,6 +1538,7 @@
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
     "PWEUT/H-F": "by the",       // from "bit"
     "TKPWUPB/H-F": "gun",        // from "begun"
+    "SAOEUD/H-F": "sighed",      // from "side"
     "WHAEL/H-F": "what he will", // from "whale"
 
 }
