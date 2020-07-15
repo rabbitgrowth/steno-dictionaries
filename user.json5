@@ -1617,6 +1617,7 @@
     // Error recovery
     // Phoenix uses R-R but that's newline in Plover already,
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
+    "AUFL/H-F": "all of",        // from "awful"
     "PWEUT/H-F": "by the",       // from "bit"
     "TKPWUPB/H-F": "gun",        // from "begun"
     "SAOEUD/H-F": "sighed",      // from "side"
