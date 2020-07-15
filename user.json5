@@ -1625,6 +1625,7 @@
 
     // ... from using -S when I should have used -Z
     "T-PBS/H-F": "continues",    // from "continuous"
+    "AOEUS/H-F": "eyes",         // from "ice"
     "TPHOES/H-F": "knows",       // from "nose"
     "PHAPBGS/H-F": "manages",    // from "mansion"
     "PAOERS/H-F": "peers",       // from "pierce"
