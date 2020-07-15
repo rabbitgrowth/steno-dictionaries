@@ -601,6 +601,7 @@
     "TP-RB": "efficiency",      // for consistency with TP-RBT "efficient"
     "AOEGS": "emotion",         // use SERBL for "essential"
     "TERPBL": "eternal",        // otherwise undefined
+    "HARLD": "hardly",          // use HAEURLD or HAR/O[E]LD for "Harold"
     "SPWREBGS": "intersection", // no * in "intersect"
     "SKWRUF": "justify",        // no * in "justifiable", "justification", etc.
     "SKOLGS": "psychologist",   // "psychologies" is too rare
