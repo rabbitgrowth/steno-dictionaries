@@ -57,6 +57,7 @@
     "ORPB/TAEUGS": "orientation",
     "PAPL/TAEUT": "palpitate",
     "RAFPL/KAEUGS": "ramification",
+    "RAOEUGS": "rising", // use RAOEUFPS for "righteous"
     "RORPBLG": "Roger",
     "STHRAOEUT": "satellite",
     "SRAOES": "series",
