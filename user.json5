@@ -1,6 +1,9 @@
 {
 
     // Skeletal briefs for common words
+    "TP-D": "find",
+    "-FD": "find",
+    "T-FD": "find it",
     "-TS": "its",
     "*TS": "itself",
     "HR-BG": "like", // use WELG for "welcome"
