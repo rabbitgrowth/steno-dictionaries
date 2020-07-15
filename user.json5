@@ -439,7 +439,7 @@
     "OEPBLD": "olden",
 
     // -F for -s-
-    "AOUFR": "user", // allows one-stroking "users"; use AUFR for {over^}
+    "AOUFR": "user", // use AUFR for {over^}
     "WAOEUFR": "wiser", // actually /z/
 
     // Drop -F for -t-
