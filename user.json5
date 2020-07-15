@@ -684,8 +684,9 @@
     // "have you" SRU already works
     // "he has"   use HEZ  (EZ is "easy")
     // "she has"  use SHEZ
-    "WEF": "we have", // there's still WAEF for "weave",
-                      // which is admittedly inconsistent with HREF "leave"
+    "WEF": "we have", // overrides "weave"
+    "WAOEF": "weave", // use W*EF for "we've"
+                      // cf. HAOEF "heave", KHRAOEF "cleave"
     "WEFB": "we have been",
     // "we've"    W*EF already works
     "W*EFB": "we've been",
