@@ -38,6 +38,7 @@
     "APL": "apple", // overrides "am"
     "-PL": "am", // cf. EU/-PL "I am"
                  // use TP-PL for {.}
+    "PAOEUPB/APL": "pineapple",
     "PWHRAOEU": "belie",
     "PWHRAOEUD": "belied", // otherwise gives "belieed"
     "KHRERPBD": "calendar",
