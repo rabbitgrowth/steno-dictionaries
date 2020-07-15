@@ -1074,6 +1074,7 @@
     "SKPHR-BT": "and will be the", // cf. "will be the"
 
     // "is" stacking
+    "S-FR": "is ever", // use SR-FR for "server"
     "STP-RT": "is for the",
     "STPR": "is from",
     "STPRA": "is from a",
