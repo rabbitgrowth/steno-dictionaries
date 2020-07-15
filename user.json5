@@ -1037,6 +1037,8 @@
     "SKPEUPLT": "and I am the",
     "SKP*EUPL": "and I'm",
     "SKP*EUPLT": "and I'm the",
+    "SKPEUFS": "and I was", // already works
+    "SKPEUFTS": "and I was the",
     "SKPUR": "and you are",
     "SKPURT": "and you are the",
     "SKP*UR": "and you're",
@@ -1111,10 +1113,14 @@
     "THAEUPLT": "that I am the",
     "THA*EUPL": "that I'm",
     "THA*EUPLT": "that I'm the",
+    "THAEUFS": "that I was", // already works
+    "THAEUFTS": "that I was the",
     "THAUR": "that you are",
     "THAURT": "that you are the",
     "THA*UR": "that you're",
     "THA*URT": "that you're the",
+    "THAURP": "that you were", // already works
+    "THAURPT": "that you were the",
     "THAES": "that he is",  // overrides "thesis"
     "THAOES/EUS": "thesis", // cf. THAOES/AOES "theses"
     "THAETS": "that he is the",
@@ -1163,8 +1169,10 @@
     // "what" stacking
     "WHAEUPL": "what I am",
     "WHA*EUPL": "what I'm",
+    "WHAEUFS": "what I was", // already works
     "WHAUR": "what you are",
     "WHA*UR": "what you're",
+    "WHAURP": "what you were", // already works
     "WHAES": "what he is",
     "WHA*ES": "what he's",
     "WHAEFS": "what he was",
@@ -1217,6 +1225,8 @@
     "TE/WHEUPL": "at the whim",
     "AOPB/WHEUPL": "on a whim",
     "OPBT/WHEUPL": "on the whim",
+    "WHEUFS": "when I was",
+    "WHEUFTS": "when I was the",
     "WHUR": "when you are",
     "WHURT": "when you are the",
     "WH*UR": "when you're",
