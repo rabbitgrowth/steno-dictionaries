@@ -449,6 +449,11 @@
     "THREPBG": "threatening",
     "THREPBD": "threatened",
 
+    // -G for -king
+    // You can't fold in -G when the verb already ends with -BG.
+    // Precedents: PHAEUG "making", HRAOG "looking"
+    "KHOEG": "choking",
+
     // URT for -utter
     "PWURT": "butter", // overrides "Burt"
     "PWURT/TPHRAOEU": "butterfly",
