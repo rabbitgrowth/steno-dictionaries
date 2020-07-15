@@ -687,6 +687,8 @@
     "WEF": "we have", // overrides "weave"
     "WAOEF": "weave", // use W*EF for "we've"
                       // cf. HAOEF "heave", KHRAOEF "cleave"
+                      // ("leave" gets HREF because it's very common
+                      //  and to disambiguate from "leaf")
     "WEFB": "we have been",
     // "we've"    W*EF already works
     "W*EFB": "we've been",
