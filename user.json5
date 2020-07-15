@@ -1270,11 +1270,11 @@
     // -G as a shortcut for -BG/-G
     // You can't fold in -G when the verb already ends with -BG.
     // Precedents: PHAEUG "making", HRAOG "looking"
-    "AEUG": "aching",   // "aing" is not a word
-    "PWAEUG": "baking", // "baying" is a word ("a jackal baying at the moon")
-                        // but is much rarer than "baking"
-    "TPAEUG": "faking", // "Faying" is not a word
-    "RAEUG": "raking",  // "raying" is a word but is extremely rare
+    "AEUG": "aching",
+    "PWAEUG": "baking", // overrides "baying" ("a jackal baying at the moon")
+                        // but "baking" is much more common
+    "TPAEUG": "faking",
+    "RAEUG": "raking", // overrides "raying", which is extremely rare
     "KHOEG": "choking",
 
     // Fold in -T for -ed if the verb already ends with -d
