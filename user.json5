@@ -1276,6 +1276,8 @@
     "TPAEUG": "faking",
     "RAEUG": "raking", // overrides "raying", which is extremely rare
     "KHOEG": "choking",
+    "TPUG": "fucking",
+    "TP*UG": "fug",
 
     // Fold in -T for -ed if the verb already ends with -d
     // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
