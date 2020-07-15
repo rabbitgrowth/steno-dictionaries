@@ -23,6 +23,7 @@
     "STK*EPB": "incident",      // with STKEPB "accident"
     "TERPGS": "interpretation", // with TERP "interpret"
     "SKWREULG": "magical",      // with SKWREUBG "magic"
+    "OPB/WARD": "onward",       // with PWABG/WARD "backward"
     "PROEUFD": "processed",     // with PROEUS "process", PROEUFG "processing"
     "RAEUGSZ": "regulations",   // with RAEUGS "regulation"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
