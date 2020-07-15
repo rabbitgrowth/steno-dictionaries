@@ -680,7 +680,6 @@
     "UF": "you have",
     "UFB": "you have been", // just fingerspell "USB"
     "*UF": "you've",
-    "KWRAOUF": "you've",
     "*UFB": "you've been",
     // "have you" SRU already works
     // "he has"   use HEZ  (EZ is "easy")
@@ -688,12 +687,11 @@
     "WEF": "we have", // there's still WAEF for "weave",
                       // which is admittedly inconsistent with HREF "leave"
     "WEFB": "we have been",
-    // "we've"    W*EF and WAOEF already work
+    // "we've"    W*EF already works
     "W*EFB": "we've been",
     "THEF": "they have",
     "THEFB": "they have been",
     "TH*EF": "they've",
-    "THAEUF": "they've",
     "TH*EFB": "they've been",
 
     // Pronoun + modal verb
