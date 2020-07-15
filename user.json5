@@ -1302,6 +1302,7 @@
     "PAG": "packing",
     "RAEUG": "raking", // overrides "raying", which is extremely rare
     "SHOG": "shocking",
+    "WORG": "working", // alternative to WOG
 
     // Fold in -T for -ed if the verb already ends with -d
     // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
