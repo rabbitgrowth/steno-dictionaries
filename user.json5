@@ -1238,10 +1238,10 @@
                             // "when have I ever"   WH/SREU/-FR
                             // "when have you been" WH/SRUB
     "WHEUF/-F": "whiff of", // safeguard for when I forget this mnemonic
-    "WH*UF": "when you've",
-    "WH*UFT": "when you've the",
     "WHUF": "when you have",
     "WHUFT": "when you have the",
+    "WH*UF": "when you've",
+    "WH*UFT": "when you've the",
 
     // as + adjective + as
     // The most common ones already work beautifully:
