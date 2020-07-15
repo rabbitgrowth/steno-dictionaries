@@ -35,6 +35,9 @@
     "ARPB/KEUFPL": "anarchism",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEU": "anarchy",
+    "APL": "apple", // overrides "am"
+    "-PL": "am", // cf. EU/-PL "I am"
+                 // use TP-PL for {.}
     "PWHRAOEU": "belie",
     "PWHRAOEUD": "belied", // otherwise gives "belieed"
     "KHRERPBD": "calendar",
