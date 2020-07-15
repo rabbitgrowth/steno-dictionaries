@@ -1194,6 +1194,7 @@
 
     // Miscellaneous phrasing strokes
     "PWHOU": "about how",
+    "PWU": "about you", // use PWUT for "but"
     "TPAS": "as if",
     "T-T": "it the", // as in "making it the..."
     "TPHOBT": "not be",
