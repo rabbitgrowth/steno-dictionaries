@@ -1054,7 +1054,7 @@
     "SKPEUFT": "and I have the",
     "SKP*EUF": "and I've",
     "SKP*EUFT": "and I've the",
-    // SKPUF "and you have" already works
+    "SKPUF": "and you have", // already works
     "SKPUFT": "and you have the",
     "SKP*UF": "and you've",
     "SKP*UFT": "and you've the",
