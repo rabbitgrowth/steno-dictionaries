@@ -1271,13 +1271,18 @@
     // You can't fold in -G when the verb already ends with -BG.
     // Precedents: PHAEUG "making", HRAOG "looking"
     "AEUG": "aching",
+    "A/TAG": "attacking",
     "PWAEUG": "baking", // overrides "baying" ("a jackal baying at the moon")
                         // but "baking" is much more common
-    "TPAEUG": "faking",
-    "RAEUG": "raking", // overrides "raying", which is extremely rare
     "KHOEG": "choking",
+    "KHREUG": "clicking",
+    "TPAEUG": "faking",
     "TPUG": "fucking",
     "TP*UG": "fug",
+    "KEUG": "kicking",
+    "PAG": "packing",
+    "RAEUG": "raking", // overrides "raying", which is extremely rare
+    "SHOG": "shocking",
 
     // Fold in -T for -ed if the verb already ends with -d
     // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
