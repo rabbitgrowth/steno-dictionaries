@@ -1463,7 +1463,6 @@
     "HOELT": "hotel",        // reverse stress or HOELT->HOTEL
     "TAOU": "in order to",   // a stronger "to"
     "KW-T": "quiet",         // when you speak quietly the vowels become harder to hear
-    "TH-RS": "there is",     // spread out a bit to expand 's
 
     // Double to join with "and"
     "OEFR/OEFR": "over and over",
@@ -1477,6 +1476,20 @@
     "KWRE": "yeah", // by default "yes"
     "KWRES": "yes", // by default "yes, sir"
     "KWREFS": "yes{,}sir", // "yess"
+
+    // Existence
+    // It's tempting to capitalize on the fact that THR and TH-R both give
+    // "there" to do tricks like
+    // THR-S "there's"
+    // TH-RS "there is" (mnemonic: spread out a bit to expand 's)
+    // to avoid *, but that's an added layer of complexity. It's better to
+    // stick to the "default to full form and add * for contraction" rule.
+    "THR-S": "there is",
+    "TH-RS": "there is",
+    // THR*S "there's" already works
+    "TH*RS": "there's",
+    // THR-R "there are" already works
+    "THR*R": "there're",
 
     // Amounts
     "AEULT": "a lot", // The -L in HROELT doesn't seem to be doing anything
