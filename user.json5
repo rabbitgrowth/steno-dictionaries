@@ -649,6 +649,10 @@
     "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
     "AUPL": "automatic",
     "AOEG": "ego",
+    "SKWREP": "jeopardy",
+    "SKWREP/AOEUZ": "jeopardize", // alternative to SKWREP/TKAOEUZ
+                                  // when "d" is printed on screen,
+                                  // TK feels necessary
     "SKWRAOUF": "juvenile",
     "RE/SKWRAOUF": "rejuvenate",
     "RE/SKWRAOUFGS": "rejuvenation",
