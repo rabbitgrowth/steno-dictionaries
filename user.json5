@@ -21,10 +21,13 @@
     "AFT": "after the",         // with PW-FT "before the"
     "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
     "SW-L": "as well",          // with SW-LS "as well as"
-    "PWRAOEUFPB": "brighten",   // with TPRAOEUFPB "frighten" (although I'm dropping the -F)
+    "PWRAOEUFPB": "brighten",   // with TPRAOEUFPB "frighten"
+                                //   (although I'm dropping the -F)
     "KRAOEFT": "creativity",    // with KRAOEF "creative"
-    "KREBL": "credible",        // with EUPB/KREBL "incredible" (or TPHEBL)
-    "TPREBGS": "for example",   // with TPREUPBS "for instance" (use -Z for "frequents")
+    "KREBL": "credible",        // with EUPB/KREBL, TPHEBL "incredible"
+                                //   use KRET/-BL for "creditable"
+    "TPREBGS": "for example",   // with TPREUPBS "for instance"
+                                //   use -Z for "frequents"
     "STK*EPB": "incident",      // with STKEPB "accident"
     "TERPGS": "interpretation", // with TERP "interpret"
     "SKWREULG": "magical",      // with SKWREUBG "magic"
