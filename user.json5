@@ -72,6 +72,8 @@
     "PHRAUL": "morale",
     "ORPB/TAEUGS": "orientation",
     "PAPL/TAEUT": "palpitate",
+    "P*ERL": "peril", // starless is "pearl"
+                      // overrides "Perl"; prioritize common nouns over proper nouns
     "RAFPL/KAEUGS": "ramification",
     "RAOEUGS": "rising", // use RAOEUFPS for "righteous"
     "RORPBLG": "Roger",
