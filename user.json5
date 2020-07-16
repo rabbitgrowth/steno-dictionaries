@@ -1639,6 +1639,8 @@
     "TKPWUPB/H-F": "gun",        // from "begun"
     "PREGS/H-F": "pressing",     // from "oppression"
     "SAOEUD/H-F": "sighed",      // from "side"
+    "TOEFRT/H-F": "toaster",     // from "effort to"
+    "TOEFRTS/H-F": "toasters",   // from "efforts to"
     "WHAEL/H-F": "what he will", // from "whale"
 
     // ... from using -S when I should have used -Z
