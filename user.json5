@@ -611,6 +611,7 @@
     // Miscellaneous star-dropping
     "KWRAER": "area",           // Too much mental gymnastics with KWRA*ER:
                                 // "area" -> ERYA -> YAER -> YAER*
+    "THRAOET": "athlete",       // bizarre misstroke for "throat"
     "PWEUPBG": "binge",         // overrides "bing"
     "PW*EUPBG": "Bing",         // name of search engine
     "TK-G": "doing",            // swap with "diagnose"
