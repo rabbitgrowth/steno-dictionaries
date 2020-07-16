@@ -1177,6 +1177,10 @@
     "THAUFT": "that you have the",
     "THA*UF": "that you've",
     "THA*UFT": "that you've the",
+    "THAF": "that have",
+    "THAFT": "that have the",
+    "THA*F": "that've", // already works
+    "THA*FT": "that've the",
     "THAEUBG": "that I can",
     "THAEUBGD": "that I could",
     "THAEURBD": "that I should",
