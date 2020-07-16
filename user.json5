@@ -107,7 +107,7 @@
     "PARPLT": "parliament", // use ARPLT for "apartment"
     "THAOER": "theory",
     "THAOEFRT": "theorist",
-    "THAOERL": "theoretical", // standard stroke but with OEU -> AOE
+    "THAOERL": "theoretical", // cf. the standard THOEURL
 
     // Mash sounds together
     "SKP-PB": "and then",
