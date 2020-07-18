@@ -1558,6 +1558,8 @@
     //             SAEUD/SAEUD "said, \"{^}{-|}"
     "HRAOEUBG/HRAOEUBG": "like, \"{^}{-|}", // and I was like, "..."
     "SED/SED": "said, \"{^}{-|}",
+    "SEZ/SEZ": "says, \"{^}{-|}",
+    "SAEUG/SAEUG": "saying, \"{^}{-|}",
     "THAUT/THAUT": "thought, \"{^}{-|}",
 
     // "apple" family
