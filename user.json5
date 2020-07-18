@@ -1338,6 +1338,7 @@
     "TKOPL/TPHOES": "dominoes",
     "EBG/OES": "echoes",
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
+    "TPOEUBGS": "focuses",
     "SKWRUFSZ": "justices", // otherwise gives "justifieses" (SKWRUFZ + -S)
     "HRAUR/KWRATS": "laureates",
     "HRAUFS": "layoffs",
