@@ -70,6 +70,7 @@
     "SPWREFT": "interest", // for when my brain malfunctions and I forget about TR
     "SPWREUBGT": "intricate",
     "PHRAL": "morale", // use PHORL for "moral"
+    "ORB": "orb", // misstroke for "or"
     "ORPB/TAEUGS": "orientation",
     "PAPL/TAEUT": "palpitate",
     "PERL": "peril",      // overrides "pearl"
