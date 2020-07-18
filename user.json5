@@ -538,6 +538,7 @@
     "UPBD/TPHAOET": "underneath",
     "WORT": "worth", // swap with "wort"
     "WO*RT": "wort",
+    "KWRAOUT": "youth",
 
     // Drop * and use -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
