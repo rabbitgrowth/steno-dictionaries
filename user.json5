@@ -647,7 +647,6 @@
     "T-FGS": "television",      // "it wasing" doesn't make any sense
     "WHOUS": "White House",     // just two-stroke "us who"
     "KWRUP": "yup",             // use AUP for {up^}
-    "-PLT": "{^ment}",          // use TP-PL for {.}
     "THOEUPB": "{^,000}",       // also avoids 3/2/1/THO*EUPB outputting "32 1,000"
 
     "PAEUT": "participate", // partici[pate] or [p]articip[ate]
@@ -655,6 +654,9 @@
     "PAEUGS": "participation",
     // I'm okay with the * in PA*PBT "participant" because "pant" is a common word.
     // PARPT makes sense too.
+
+    "-PLT": "{^ment}", // use TP-PL for {.}
+    "PRE/TKEUBG/-PLT": "predicament",
 
     // Autocomplete effect
     // Precedents: TPEUS "physical", PED "pedestrian"
