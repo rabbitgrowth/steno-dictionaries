@@ -747,7 +747,7 @@
     "TH*EFB": "they've been",
 
     // Pronoun + modal verb
-    "KWR-BG": "I can", // overrides misstroke for {,}
+    "KWR-BG": "I can", // misstroke for {,}
     "KWR-BGD": "I could",
     // "can I"    KEU already works
     // "could I"  KOEU is "coy"
