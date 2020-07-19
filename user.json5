@@ -81,6 +81,9 @@
     "RAOEUGS": "rising", // use RAOEUFPS for "righteous"
     "RORPBLG": "Roger",
     "STHRAOEUT": "satellite",
+    "SERBG/TREU": "secretary",
+    "SERBG": "secretary", // autocomplete effect
+                          // see also SERBG/TAEUR/KWRAT "secretariat"
     "SRAOES": "series",
     "SRAOEZ": "series",
     "SEUFRT": "sister", // alternative to ST-R
