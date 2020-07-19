@@ -1426,8 +1426,13 @@
 
     // Fold in -T for -ed if the verb already ends with -d
     // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
+    "ATD": "added",
+    "EPBTD": "ended",
     "TKPWAOEUTD": "guided",
     "HAPBTD": "handed",
+    "HETD": "headed",
+    "SPWEPBTD": "intended",
+    "PROEFTD": "provided",
 
     // Expand "n't" into "not" with -L as bridge
     "K-PBLT": "cannot",     // from K-PBT   "can't"
