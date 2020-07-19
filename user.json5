@@ -1388,6 +1388,8 @@
     "ART/KHRAEUGT": "articulating", // otherwise gives "art calculating"
     "KAUPB/SAOELG": "concealing",
     "KAUPB/SAOELS": "conceals",
+    "EPB/HAFPBD": "enhanced",
+    "EPB/HAPBGS": "enhancing",
     "ES/KHRAEUTD": "escalated",
     "ES/KHRAEUGT": "escalating",
     "SPWOBGS/KAEUGT": "intoxicating",
