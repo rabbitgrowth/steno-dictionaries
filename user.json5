@@ -469,6 +469,7 @@
     "TPRAOULS": "refusal",  // TPRAOUFL is "fruitful"
 
     // REU for -ary, -ery, and -ory
+    "EFGS/REU": "evolutionary",    // vs EFGS/AER
     "SPHRAPB/TREU": "explanatory", // vs SPHRAPB/TOER
 
     // AURB for -arsh
