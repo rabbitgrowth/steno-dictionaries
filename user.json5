@@ -1716,15 +1716,15 @@
     "TKOT/H-F": "do the",        // from "dot"
     "TKPWUPB/H-F": "gun",        // from "begun"
     "HARBG/H-F": "hacker",       // from "hark"
-    "HARBGS/H-F": "hackers",     // from "harks"
+    "HARBGS/H-F": "hackers",
     "PREGS/H-F": "pressing",     // from "oppression"
     "RAOEUFL/H-F": "rival",      // from "rifle"
-    "RAOEUFLS/H-F": "rivals",    // from "rifles"
+    "RAOEUFLS/H-F": "rivals",
     "RURPB/H-F": "runner",       // from "return"
     "RUPBG/H-F": "running",      // from "rung"
     "SAOEUD/H-F": "sighed",      // from "side"
     "TOEFRT/H-F": "toaster",     // from "effort to"
-    "TOEFRTS/H-F": "toasters",   // from "efforts to"
+    "TOEFRTS/H-F": "toasters",
     "WHAEL/H-F": "what he will", // from "whale"
 
     // ... from using -S when I should have used -Z
