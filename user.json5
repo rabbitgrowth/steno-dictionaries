@@ -912,6 +912,8 @@
                                // I DO N'T FIELD    3
     "KWR-FL": "I feel",   // [f]ee[l]
     "KWROEFL": "I don't feel",
+    "KWR*FL": "I love",   // [l]o[v]e (* for inversion)
+    "KWRO*EFL": "I don't love",
     "KWR-Z": "I see",     // Z /ziː/ ~= "see"
     "KWROEZ": "I don't see",
     // KWR-F  "I have" has been defined above
