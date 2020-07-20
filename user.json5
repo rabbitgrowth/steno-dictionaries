@@ -662,7 +662,7 @@
     "PAEUT": "participate", // partici[pate] or [p]articip[ate]
     "PA*EUT": "pate",
     "PAEUGS": "participation",
-    // I'm okay with the * in PA*PBT "participant" because "pant" is a common word.
+    // The * in PA*PBT "participant" is okay because "pant" is a common word.
     // PARPT makes sense too.
 
     "-PLT": "{^ment}", // use TP-PL for {.}
