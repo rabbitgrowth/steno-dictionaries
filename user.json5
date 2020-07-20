@@ -1351,6 +1351,7 @@
     "TKEUPL/PHATS": "diplomats",
     "TKOPL/TPHOES": "dominoes",
     "EBG/OES": "echoes",
+    "AOE/PHOET/KOPBS": "emoticons",
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
     "TPOEUBGS": "focuses",
     "SKWRUFSZ": "justices", // otherwise gives "justifieses" (SKWRUFZ + -S)
