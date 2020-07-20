@@ -1550,13 +1550,13 @@
     // stick to the "default to full form and add * for contraction" rule.
     "THR-S": "there is",
     "TH-RS": "there is",
-    // THR*S "there's" already works
+    // "there's"   THR*S  already works
     "TH*RS": "there's",
-    // THR-R "there are" already works
+    // "there are" THR-R  already works
     "THR*R": "there're",
-    // THR-FS "there was" already works
+    // "there was" THR-FS already works
     "THR-L": "there will",
-    // THR*L "there'll" already works
+    // "there'll"  THR*L  already works
     "THR-BL": "there will be",
     "THR*BL": "there'll be",
 
