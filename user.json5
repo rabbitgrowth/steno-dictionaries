@@ -1554,6 +1554,7 @@
     "TH*RS": "there's",
     // THR-R "there are" already works
     "THR*R": "there're",
+    // THR-FS "there was" already works
     "THR-L": "there will",
     // THR*L "there'll" already works
     "THR-BL": "there will be",
