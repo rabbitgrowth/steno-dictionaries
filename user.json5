@@ -135,6 +135,10 @@
     "TWH-BGT": "when it comes to",
     "KWRAOEUS": "you guys",
 
+    "STORB": "astonish",
+    "STORBG": "astonishing", // overrides "stork" (a bird)
+    "STO*RBG": "stork",      // overrides "State of New York"
+
     // Drop final -y sound
     // For -D, -T, and -Z, I can think of it as "pronounce last letter".
     // For example, STURD = stur-D = "sturdy". A possibly accidental
