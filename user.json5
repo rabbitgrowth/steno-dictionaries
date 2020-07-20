@@ -655,6 +655,10 @@
     "KWRUP": "yup",             // use AUP for {up^}
     "THOEUPB": "{^,000}",       // also avoids 3/2/1/THO*EUPB outputting "32 1,000"
 
+    "KPRAOEPL": "extreme",  // overrides "extremely"
+    "KPRAOEL": "extremely", // sort of like PHAEUBG "make", PHAEUG "making"
+                            // where -G swallows -BG; here -L swallows -PL
+
     "PAEUT": "participate", // partici[pate] or [p]articip[ate]
     "PA*EUT": "pate",
     "PAEUGS": "participation",
