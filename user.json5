@@ -58,7 +58,6 @@
     "TKEUS/SPEURT": "dispirit", // alternative to STKPEURT
     "AOELG": "eagle",
     "ERPBT": "errant",
-    "SPHRAPB/TREU": "explanatory", // instead of TOER
     "TPEPBGS": "fencing", // misstroke for "infection"
     "TPHRAPBT": "flatten", // alternative to TPHRAFPB and TPHRAEPB
     "TPRAOEPBLS": "freelance",
@@ -468,6 +467,9 @@
     "TPRAOUFD": "refused",
     "TPRAOUFG": "refusing", // TPRAOUGS is "fruition"
     "TPRAOULS": "refusal",  // TPRAOUFL is "fruitful"
+
+    // REU for -ary, -ery, and -ory
+    "SPHRAPB/TREU": "explanatory", // vs SPHRAPB/TOER
 
     // AURB for -arsh
     "HAURB": "harsh",
