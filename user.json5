@@ -1730,4 +1730,8 @@
     "PREUPBS/H-F": "principles", // from "prince"
     "SPHRAOEUS/H-F": "supplies", // from "splice"
 
+    // Use same stroke to change to British spelling
+    "PWHAEUFR/H-F": "behaviour",
+    "TKPWRAEU/H-F": "grey",
+
 }
