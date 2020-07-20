@@ -1554,6 +1554,10 @@
     "TH*RS": "there's",
     // THR-R "there are" already works
     "THR*R": "there're",
+    "THR-L": "there will",
+    // THR*L "there'll" already works
+    "THR-BL": "there will be",
+    "THR*BL": "there'll be",
 
     // Amounts
     "AEULT": "a lot", // The -L in HROELT doesn't seem to be doing anything
