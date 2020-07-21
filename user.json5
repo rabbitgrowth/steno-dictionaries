@@ -640,26 +640,28 @@
 
     // Miscellaneous star-dropping
     "THRAOET": "athlete",       // bizarre misstroke for "throat"
-    "PWEUPBG": "binge",         // overrides "bing"
-    "PW*EUPBG": "Bing",         // name of search engine
-    "TK-G": "doing",            // swap with "diagnose"
-    "TK-GS": "doings",          // swap with "diagnosis"
-    "TK*G": "diagnose",
-    "TK*GS": "diagnosis",
-    "TP-RB": "efficiency",      // for consistency with TP-RBT "efficient"
+    "TP-RB": "efficiency",      // TP-RBT "efficient" - -T
     "AOEGS": "emotion",         // use SERBL for "essential"
-    "TERPBL": "eternal",        // otherwise undefined
-    "HARLD": "hardly",          // use HAEURLD or HAR/O[E]LD for "Harold"
+    "TERPBL": "eternal",
+    "HARLD": "hardly",          // use HAEURLD or HAR/OLD for "Harold"
     "HERD": "herd",             // use HAERD for "heard", like HAER for "hear"
-    "SPWREBGS": "intersection", // no * in "intersect"
-    "SKWRUF": "justify",        // no * in "justifiable", "justification", etc.
+    "SPWREBGS": "intersection", // cf. SPWREBGT "intersect"
+    "SKWRUF": "justify",        // cf. SKWRUFGS "justification"
     "SKOLGS": "psychologist",   // "psychologies" is too rare
     "REUPBD": "remind",         // like HEUPBD "behind"
-    "STOEPBL": "stolen",        // otherwise undefined
+    "STOEPBL": "stolen",
     "T-FGS": "television",      // "it wasing" doesn't make any sense
     "WHOUS": "White House",     // just two-stroke "us who"
     "KWRUP": "yup",             // use AUP for {up^}
     "THOEUPB": "{^,000}",       // also avoids 3/2/1/THO*EUPB outputting "32 1,000"
+
+    "PWEUPBG": "binge", // overrides "bing"
+    "PW*EUPBG": "Bing", // name of search engine
+
+    "TK-G": "doing",   // swap with "diagnose"
+    "TK-GS": "doings", // swap with "diagnosis"
+    "TK*G": "diagnose",
+    "TK*GS": "diagnosis",
 
     "KPRAOEPL": "extreme",  // overrides "extremely"
     "KPRAOEL": "extremely", // sort of like PHAEUBG "make", PHAEUG "making"
