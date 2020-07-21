@@ -663,6 +663,9 @@
     "TK*G": "diagnose",
     "TK*GS": "diagnosis",
 
+    "ER": "{^er}",  // swap with {er^}
+    "*ER": "{er^}", // when is this useful anyway?
+
     "KPRAOEPL": "extreme",  // overrides "extremely"
     "KPRAOEL": "extremely", // sort of like PHAEUBG "make", PHAEUG "making"
                             // where -G swallows -BG; here -L swallows -PL
