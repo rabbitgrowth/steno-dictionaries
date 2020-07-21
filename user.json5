@@ -725,7 +725,7 @@
     "KWR-FS": "I was", // overrides "why was"
     "UR": "you are",
     "*UR": "you're",
-    "ES": "he is", // there's still S*E for {^es}, which seems to be useless anyway
+    "HES": "he is", // overrides "Hess"
     // "he's"   HAOES  already works
     // "she is" SHES   already works
     // "she's"  SHAOES already works
