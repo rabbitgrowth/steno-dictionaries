@@ -1725,6 +1725,8 @@
     "TKPWUPB/H-F": "gun",        // from "begun"
     "HARBG/H-F": "hacker",       // from "hark"
     "HARBGS/H-F": "hackers",
+    "PHEUGS/H-F": "missing",     // from "mission"
+    "PAEURS/H-F": "Paris",       // from "pairs"
     "PREGS/H-F": "pressing",     // from "oppression"
     "RAOEUFL/H-F": "rival",      // from "rifle"
     "RAOEUFLS/H-F": "rivals",
