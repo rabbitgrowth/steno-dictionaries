@@ -657,6 +657,7 @@
     "SKWRUF": "justify",        // no * in "justifiable", "justification", etc.
     "SKOLGS": "psychologist",   // "psychologies" is too rare
     "REUPBD": "remind",         // like HEUPBD "behind"
+    "STOEPBL": "stolen",        // otherwise undefined
     "T-FGS": "television",      // "it wasing" doesn't make any sense
     "WHOUS": "White House",     // just two-stroke "us who"
     "KWRUP": "yup",             // use AUP for {up^}
