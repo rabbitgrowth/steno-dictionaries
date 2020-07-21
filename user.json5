@@ -639,8 +639,6 @@
     // so HAPBLD makes more sense as "handled"
 
     // Miscellaneous star-dropping
-    "KWRAER": "area",           // Too much mental gymnastics with KWRA*ER:
-                                // "area" -> ERYA -> YAER -> YAER*
     "THRAOET": "athlete",       // bizarre misstroke for "throat"
     "PWEUPBG": "binge",         // overrides "bing"
     "PW*EUPBG": "Bing",         // name of search engine
