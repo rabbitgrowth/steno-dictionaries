@@ -1580,16 +1580,10 @@
     // Since we fixed HRO*S "lost", we might as well also fix HR*EUS "list":
     "HREUS": "list", // overrides "Lys-", whatever that is
                      // think "drop *" or "ls"
-    // HRAEUL "a little" already works nicely
+    // HRAEUL "a little" already works
     "HRAEUFL": "a little of",
-    "HRAEUFLT": "a little of the",
-    "HRAEUBLT": "a little bit",
-    "HRAEUFBLT": "a little bit of", // completely flouts steno order:
-                                    //    2 9 68
-                                    //    3  7
-                                    //   1  45
-    "HRAEUBT": "a little bit", // drop -L to mitigate the violation a little bit ("alibit")
-    "HRAEUFBT": "a little bit of",
+    "HRAEUBT": "a little bit",    // drop -L; "alibit"
+    "HRAEUFB": "a little bit of", // drop -T; like OUF "out of"
 
     // Reporting speech
     "STHAEU": "say that",
