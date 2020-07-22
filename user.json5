@@ -241,6 +241,7 @@
     "ERLD": "elder", // overrides "elderly"
                      // compare OERLD "older"
     "HRERLD": "elderly", // HR for -ly since -L is used
+    "TPAEURPBT": "fainter",
     "SKWRAEURT": "generator",
     "SPHURLG": "smuggler",
     "SWEUFRT": "swifter",
@@ -252,6 +253,7 @@
     "PHRURD": "murderer",
     "RORP": "reporter",   // embrace ORP
     "RORPS": "reporters", // hard-coded as "reports"
+    "SHRORT": "shorter",
     "SPROR": "supporter",
     "WRAOERD": "weirder",
 
