@@ -1382,6 +1382,7 @@
     "EBG/OES": "echoes",
     "AOE/PHOET/KOPBS": "emoticons",
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
+    "TPAOEUR/TPHRAOEUS": "fireflies",
     "TPOEUBGS": "focuses",
     "SKWRUFSZ": "justices", // otherwise gives "justifieses" (SKWRUFZ + -S)
     "HRAUR/KWRATS": "laureates",
