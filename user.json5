@@ -1741,6 +1741,8 @@
     "PHEUGS/H-F": "missing",     // from "mission"
     "PAEURS/H-F": "Paris",       // from "pairs"
     "PREGS/H-F": "pressing",     // from "oppression"
+    "REUPL/H-F": "ripple",       // from "rim"
+    "REUPLS/H-F": "ripples",
     "RAOEUFL/H-F": "rival",      // from "rifle"
     "RAOEUFLS/H-F": "rivals",
     "RURPB/H-F": "runner",       // from "return"
