@@ -593,17 +593,26 @@
     "STKPHAPBLT": "dismantle",
     "PHEURLT": "myrtle",
 
-    // Drop * and use -LD for -dle if possible
+    // Drop * and use -LD for -dle (sometimes)
     // The * in *LD is less droppable than the * in *LT. For example,
     // TPEULD and PULD are perfect strokes for "filled" and "pulled",
     // and there's no way I'm going to give them up for "fiddle" and
-    // "puddle". So for -dle, drop * but only when that doesn't lead to
-    // conflicts; otherwise just aim for consistency with the existing
-    // starred strokes.
-    "TK*EULD": "diddle", // with "middle", "riddle"
+    // "puddle". So for -dle, only drop * for the most common words
+    // or when it doesn't lead to conflicts. Otherwise, just aim for
+    // consistency with the existing starred strokes.
+    "PHEULD": "middle", // very common, so swap with "milled"
+    "PH*EULD": "milled",
+    "REULD": "riddle",  // very common, so swap with "rilled"
+    "R*EULD": "rilled",
+
+    "TK*EULD": "diddle", // much less common:
+                         // MIDDLE  166138
+                         // RIDDLE    2623
+                         // DIDDLE     145
+                         // so follow the standard "add * for -dle" pattern
     "KO*LD": "coddle",
     "TO*LD": "toddle",
-    "K*ULD": "cuddle",   // with "muddle", "puddle"
+    "K*ULD": "cuddle", // cf. PH*ULD "muddle", P*ULD "puddle"
     "H*ULD": "huddle",
 
     "PWRAOEULD": "bridle",  // precedent for starless -dle: PWUPBLD  "bundle"
