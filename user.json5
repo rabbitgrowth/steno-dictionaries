@@ -719,24 +719,41 @@
 
     // Pronoun + be
     // Default to full form and add * or use phonetics for contraction
-    "KWR-PL": "I am",  // overrides "I mean"
+    "KWR-PL": "I am", // overrides "I mean"
     "KWR*PL": "I mean",
-    // "I'm"    AOEUPL already works
+    "KWR-PLT": "I am the",
+    // "I'm"       AOEUPL already works
+    // "I'm the"   AOEUPLT is "item"
     "KWR-FS": "I was", // overrides "why was"
+    "KWR-FTS": "I was the",
     "UR": "you are",
+    "URT": "you are the",
     "*UR": "you're",
+    "*URT": "you're the",
+    // "you were"  URP already works
+    "URPT": "you were the",
     "HES": "he is", // overrides "Hess"
-    // "he's"   HAOES  already works
-    // "she is" SHES   already works
-    // "she's"  SHAOES already works
-    "T-S": "it is",
-    // "it's"   T*S    already works
-    // "is it"  ST     already works
-    // "we are" WER    already works
-    // "we're"  WAOER  already works
-    "W*ER": "we're",
+    "HETS": "he is the",
+    // "he's"      HAOES already works
+    // "He's the"  HAOETS is "heats"
+    // "she is"    SHES already works
+    "SHETS": "she is the", // use SHAOETS for "sheets"
+    // "she's"     SHAOES already works
+    // "she's the" SHAOETS is "sheets"
+    "T-S": "it is", // nicely symmetrical with ST "is it"
+    "T-TS": "it is the",
+    // "it's"      T*S already works
+    "T*TS": "it's the",
+    // "it was"    T-FS already works
+    "T-FTS": "it was the",
+    // "we are"    WER already works
+    "WERT": "we are the", // use WET/ER for "wetter"
+    "W*ER": "we're", // or use WAOER
+    // "we're the" W*ERT is "weather"
     "THER": "they are",
+    "THERT": "they are the",
     "TH*ER": "they're",
+    "TH*ERT": "they're the",
 
     // Pronoun + have
     // The standard strokes are inconsistent:
@@ -1029,9 +1046,6 @@
     "AOPB": "on a", // use AUPB for {on^}
 
     // "the" stacking
-    "T-TS": "it is the",
-    "T*TS": "it's the",
-    "T-FTS": "it was the",
     "TH-TS": "this is the", // use THA*S for "that's"
     "TH-FTS": "this was the",
     "THATS": "that is the",
@@ -1043,6 +1057,7 @@
     "WH-TS": "when is the",
     "WH*TS": "when's the",
     "WH-FTS": "when was the",
+    "W-RS": "where is",
     "W-RTS": "where is the",
     "WR-TS": "where is the",   // -R pushed to the left (unnecessarily)
     "W*RTS": "where's the",
@@ -1051,18 +1066,17 @@
     "WHOTS": "who is the",
     "WHO*TS": "who's the",
     "WHOFTS": "who was the",
+    "KWR-S": "why is", // KWR for "why" because "I is" is impossible
+                       // compare KWR-FS which is redefined to "I was"
     "KWR-TS": "why is the",
     "KWR*TS": "why's the",
-    "KWR-FTS": "why was the",
-    "-FTS": "was the",
-    "W-RS": "where is",
-    "KWR-S": "why is",
 
     "AOLT": "along the",
     "ELGT": "exactly the",
     "OEPBLT": "only the",
     "OUFT": "out of the", // add * for "oust"
     "UPT": "up the", // use UPBT for "you want"
+    "-FTS": "was the",
 
     "HOUFRT": "however the",
     "WHAFRT": "whatever the",
