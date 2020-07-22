@@ -1053,11 +1053,18 @@
     "TPRA": "from a", // TPR-T "from the"
     "TPHA": "in a",   // TPH-T "in the"
     "WA": "with a",   // W-T   "with the"
-    // Other common words
+
     "SA*": "as a",  // think "is + * = as" or "za"
     "S*T": "as the",
     "TA": "at a",   // forms a nice pair with TE "at the"
     "AOPB": "on a", // use AUPB for {on^}
+
+    "HA": "had a",        // misstroke for "that"
+    "HA/HA": "haha",      // no hyphen
+    "HA/HA/HA": "hahaha", // no hyphen
+    "HA*": "ha",          // "Ha! That'll teach you."
+    "HA*/HA*": "haha",    // no hyphen
+    "HA*/HA*/HA*": "hahaha",
 
     // "the" stacking
     "TH-TS": "this is the", // use THA*S for "that's"
