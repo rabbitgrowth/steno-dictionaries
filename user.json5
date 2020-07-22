@@ -651,6 +651,7 @@
     "HERD": "herd",             // use HAERD for "heard", like HAER for "hear"
     "SPWREBGS": "intersection", // cf. SPWREBGT "intersect"
     "SKWRUF": "justify",        // cf. SKWRUFGS "justification"
+    "PHOEUD": "media",          // use PHROEUD for "employed"
     "SKOLGS": "psychologist",   // "psychologies" is too rare
     "REUPBD": "remind",         // like HEUPBD "behind"
     "ROPBT": "rotten",
