@@ -109,6 +109,7 @@
     "H*EFR": "heifer",
     "PHERPL": "memory",
     "PARPLT": "parliament", // use ARPLT for "apartment"
+    "POERT": "poetry",
     "THAOER": "theory",
     "THAOEFRT": "theorist",
     "THAOERL": "theoretical", // cf. the standard THOEURL
