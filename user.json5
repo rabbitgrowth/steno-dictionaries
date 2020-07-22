@@ -1470,6 +1470,17 @@
     "SPWEPBTD": "intended",
     "PROEFTD": "provided",
 
+    // Drop -te- for superlatives of adjectives that end with -t
+    // Precedents: HRAEUFT "latest", TKPWRAEFT "greatest"
+    // Doesn't always work; for example, "fastest" minus -te- is still "fast".
+    "PWRAOEUFT": "brightest",
+    "TPAEUFPBT": "faintest",
+    "HRAOEUFT": "lightest",
+    "SHOFRT": "shortest",
+    "SHRAOEUFT": "slightest",
+    "SPHAFRT": "smartest",
+    "SWAOEFT": "sweetest",
+
     // Expand "n't" into "not" with -L as bridge
     "K-PBLT": "cannot",     // from K-PBT   "can't"
     "TKOEPBLT": "do not",   // from TKOEPBT "don't" (or just use the standard TKPHOT)
