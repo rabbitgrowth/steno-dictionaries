@@ -1519,6 +1519,7 @@
     "ORPBLT": "or not",    // there's no "orn't"
 
     // Don't capitalize
+    "HURPBT": "hunter",
     "OP/ED": "op-ed",
     "AUP/STAEUT": "upstate",
 
