@@ -1521,6 +1521,7 @@
     "ORPBLT": "or not",    // there's no "orn't"
 
     // Don't capitalize
+    "TKAO*US": "dews",
     "HURPBT": "hunter",
     "OP/ED": "op-ed",
     "AUP/STAEUT": "upstate",
