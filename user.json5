@@ -1826,8 +1826,8 @@
     // "contained". "tained" isn't even a word.
     "TAEUPBD": "contained",
     // THA/AOUGS "that use"
-    // ("It was estimated that using contract workers could save the
-    //  company millions of dollars.")
+    // ("It was estimated that using contract workers could save
+    //   the company millions of dollars.")
     "THA/AOUGS": "that using",
 
     // Error recovery
