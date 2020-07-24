@@ -1794,7 +1794,7 @@
     "SAOEUD/H-F": "sighed",      // from "side"
     "TOEFRT/H-F": "toaster",     // from "effort to"
     "TOEFRTS/H-F": "toasters",
-    "WHAEL/H-F": "what he will", // from "whale"
+    "WHAEL/H-F": "what he will", // from "whale" (custom)
 
     // ... from using -S when I should have used -Z
     "T-PBS/H-F": "continues",    // from "continuous"
