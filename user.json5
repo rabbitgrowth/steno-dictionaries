@@ -82,6 +82,8 @@
     "RAOEUGS": "rising", // use RAOEUFPS for "righteous"
     "RORPBLG": "Roger",
     "STHRAOEUT": "satellite",
+    "SKREURPT": "scripture",
+    "SKR*EURPT": "Scripture",
     "SERBG/TREU": "secretary",
     "SERBG": "secretary", // autocomplete effect
                           // see also SERBG/TAEUR/KWRAT "secretariat"
