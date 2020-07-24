@@ -1410,6 +1410,7 @@
     "TPAOEUR/TPHRAOEUS": "fireflies",
     "TPOEUBGS": "focuses",
     "HOL/HROES": "hollows",
+    "HOL/OES": "hollows",
     "SKWRUFSZ": "justices", // otherwise gives "justifieses" (SKWRUFZ + -S)
     "HRAUR/KWRATS": "laureates",
     "HRAUFS": "layoffs",
