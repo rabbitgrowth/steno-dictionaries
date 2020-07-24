@@ -1825,6 +1825,10 @@
     // ("It was estimated that using contract workers could save the company
     // thousands of dollars.")
     "THA/AOUGS": "that using",
+    // KULD "culd"
+    // "culd" is not a word (at least not in modern English --
+    // apparently it's an obsolete form of "could").
+    "KULD": "culled", // cf. KUL "cull"
 
     // Error recovery
     // Phoenix uses R-R but that's newline in Plover already,
