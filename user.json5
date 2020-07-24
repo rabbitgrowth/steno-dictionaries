@@ -1378,6 +1378,17 @@
     "WH*UF": "when you've",
     "WH*UFT": "when you've the",
 
+    // "who" stacking
+    "WHOEUPL": "who I am",
+    "WHO*EUPL": "who I'm",
+    "WHOEUFS": "who I was",
+    "WHOUR": "who you are",
+    "WHO*UR": "who you're",
+    "WHOURP": "who you were",
+    "WHOES": "who he is",
+    "WHO*ES": "who he's",
+    "WHOEFS": "who he was",
+
     // as + adjective + as
     // The most common ones already work beautifully:
     // AS WELL AS  155949  SW-LS / SW*ELS  (SWELS)
