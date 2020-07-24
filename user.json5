@@ -1817,6 +1817,8 @@
     // "culd" is not a word (at least not in modern English --
     // apparently it's an obsolete form of "could").
     "KULD": "culled", // cf. KUL "cull"
+    // HAPBD/SHAEUBGS "hand"
+    "HAPBD/SHAEUBGS": "handshakes",
     // TPHURS   "nurse"
     // TPHURGS  "nurse"   (extra G)
     // TPHURBGS "nursing" (extra B)
