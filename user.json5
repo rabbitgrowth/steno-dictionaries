@@ -1519,6 +1519,11 @@
     "SHAPBLT": "shall not", // from SHAPBT  "shan't"
     "WOEPBLT": "will not",  // from WOEPBT  "won't" (or just use the standard HR-PBT)
 
+    // S for negation
+    "STPHOL": "abnormal",
+    "SHRAOEL": "illegal",
+    "SKREBGT": "incorrect",
+
     // Use -PBLT for "not" even when there's no -n't form
     // Precedent: KWR-PBLT "why not"
     "SKP-PBLT": "and not", // there's no "andn't"
