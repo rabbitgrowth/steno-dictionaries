@@ -708,7 +708,6 @@
     "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
     "AUPL": "automatic",
     "AOEG": "ego",
-    "HOR": "horror", // drop the final schwa
     "SKWREP": "jeopardy",
     "SKWREP/AOEUZ": "jeopardize", // alternative to SKWREP/TKAOEUZ
                                   // when "d" is printed on screen,
@@ -1731,6 +1730,12 @@
     "TPO*EUR": "foyer",
     "TPOEURT": "inferiority",
 
+    // Fear
+    "HOR": "horror", // drop the final schwa
+    "TER": "terror",
+    // By the same logic "error" should be ER,
+    // but ER is more useful as {^er}.
+
     // The superrich
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
@@ -1824,6 +1829,7 @@
     "PHRAEUS/H-F": "plays",      // from "place"
     "PREUPBS/H-F": "principles", // from "prince"
     "SPHRAOEUS/H-F": "supplies", // from "splice"
+    "TERS/H-F": "terrors",       // from "terse"
 
     // Use same stroke to change to British spelling
     "PWHAEUFR/H-F": "behaviour",
