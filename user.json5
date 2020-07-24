@@ -56,18 +56,12 @@
     "KAUFT": "caste",
     "KHEUBG/EPB": "chicken",
     "KAUPB/TKPWRELGS": "congressional",
-    "KUFPB": "cousin", // alternative to KUZ
-    "TKEUS/SPEURT": "dispirit", // alternative to STKPEURT
     "AOELG": "eagle",
     "ERPBT": "errant",
     "TPEPBGS": "fencing", // misstroke for "infection"
-    "TPHRAPBT": "flatten", // alternative to TPHRAFPB and TPHRAEPB
     "TPRAOEPBLS": "freelance",
-    "TPAOURPBL": "funeral", // alternative to TPAOUPBL
     "SKWRERPBS": "generous",
     "TKPWUPBS": "guns", // "beguns" is not a word
-    "EUPB/SEPBT": "innocent", // alternative to TPH-PBT
-                              // use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest", // for when my brain malfunctions and I forget about TR
     "SPWREUBGT": "intricate",
     "PHRAL": "morale", // use PHORL for "moral"
@@ -89,7 +83,6 @@
     "SRAOES": "series",
     "SRAOEZ": "series",
     "S*EUPL/TOPB": "simpleton",
-    "SEUFRT": "sister", // alternative to ST-R
     "SOEPB/AR": "sonar",
     "STRAOEUTD": "strident",
     "SR*ERPBD": "surrender", // starless is "vendor"
@@ -106,6 +99,15 @@
     "PAERL": "pearl",     // overrides "parole"
     "PROEL": "parole",    // overrides "proposal"
     "PROELS": "proposal", // PROEFL is "profile"
+
+    // Phonetic alternatives to briefs
+    "KUFPB": "cousin",          // to KUZ
+    "TKEUS/SPEURT": "dispirit", // to STKPEURT
+    "TPHRAPBT": "flatten",      // to TPHRAFPB and TPHRAEPB
+    "TPAOURPBL": "funeral",     // to TPAOUPBL
+    "EUPB/SEPBT": "innocent",   // to TPH-PBT
+                                // use EUPB/SEFPBT for "incessant"
+    "SEUFRT": "sister",         // to ST-R
 
     // Don't alter vowel
     "PWERT": "better", // double for "Bert"; starred is "berth"
