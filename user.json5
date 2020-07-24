@@ -1531,6 +1531,7 @@
     "SKPHRAOET": "incomplete",
     "SKREBGT": "incorrect",
     "SABL": "unable",
+    "STPAEUR": "unfair",
 
     // Use -PBLT for "not" even when there's no -n't form
     // Precedent: KWR-PBLT "why not"
