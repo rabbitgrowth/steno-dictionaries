@@ -1776,6 +1776,7 @@
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
     "AUFL/H-F": "all of",        // from "awful"
     "PWEUT/H-F": "by the",       // from "bit"
+    "KREUFPL/H-F": "crisply",    // from "criticism" (custom)
     "TKOT/H-F": "do the",        // from "dot"
     "TKPWUPB/H-F": "gun",        // from "begun"
     "HARBG/H-F": "hacker",       // from "hark"
