@@ -30,7 +30,6 @@
                                 //   use -Z for "frequents"
     "STK*EPB": "incident",      // with STKEPB "accident"
     "TERPGS": "interpretation", // with TERP "interpret"
-    "SKWREULG": "magical",      // with SKWREUBG "magic"
     "OPB/WARD": "onward",       // with PWABG/WARD "backward"
     "ORPB": "origin",           // with ORPBL "original"
     "PROEUFD": "processed",     // with PROEUS "process", PROEUFG "processing"
@@ -41,6 +40,9 @@
     "PRAERL": "temporarily",    // with PRAER "temporary"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
+
+    "SKWREULG": "magical",  // with SKWREUBG "magic"
+    "SKWREUGS": "magician", // use -Z for "jigs"
 
     "TREUG": "trying", // with TREU "try"
                        // overrides "trig"
@@ -1854,6 +1856,7 @@
     "AOEUS/H-F": "eyes",         // from "ice"
     "TKPWROES/H-F": "grows",     // from "gross"
     "HORS/H-F": "horrors",       // from "horse"
+    "SKWREUGS/H-F": "jigs",      // from "magician" (custom)
     "SKWROEUS/H-F": "joys",      // from "Joyce"
     "TPHOES/H-F": "knows",       // from "nose"
     "PHAPBGS/H-F": "manages",    // from "mansion"
