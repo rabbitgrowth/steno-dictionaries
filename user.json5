@@ -253,6 +253,10 @@
     "HRERLD": "elderly", // HR for -ly since -L is used
     "TPAEURPBT": "fainter",
     "SKWRAEURT": "generator",
+    "TPEUFRLS": "philosopher", // flouts steno order:
+                               //  11  5 3
+                               //      6  4
+                               //      22
     "SPHURLG": "smuggler",
     "SWEUFRT": "swifter",
 
