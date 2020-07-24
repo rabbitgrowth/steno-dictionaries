@@ -134,6 +134,7 @@
     "TAOERT": "deteriorate",
     "TAOERGS": "deterioration",
     "SPHRORGS": "exploration",
+    "TPROUT": "figure out",
     "TPREFT": "forest",
     "TKPWARPB": "garden",
     "TKPWOEPL": "go home",
@@ -144,6 +145,7 @@
     "STPOER": "satisfactory", // "sfory", or the standard STPOEUR minus -U
     "SPOEFT": "supposed to",
     "SPOEFBT": "supposed to be",
+    "TAEUFR": "take care of",
     "TWHO": "those who", // TH + WHO
     "TWH-BGT": "when it comes to",
     "KWRAOEUS": "you guys",
