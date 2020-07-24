@@ -1822,12 +1822,12 @@
     // TPHURBGS "nursing" (extra B)
     "TPHURGS": "nursing",
     // TAEUPBD "tained"
-    // Since TAEUPB is "contain", one would expect TAEUPBD to be "contained".
-    // "tained" isn't even a word.
+    // Since TAEUPB is "contain", one would expect TAEUPBD to be
+    // "contained". "tained" isn't even a word.
     "TAEUPBD": "contained",
     // THA/AOUGS "that use"
-    // ("It was estimated that using contract workers could save the company
-    // thousands of dollars.")
+    // ("It was estimated that using contract workers could save the
+    //  company thousands of dollars.")
     "THA/AOUGS": "that using",
 
     // Error recovery
