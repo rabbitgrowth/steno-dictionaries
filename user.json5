@@ -1522,7 +1522,11 @@
     // S for negation
     "STPHOL": "abnormal",
     "SHRAOEL": "illegal",
+    "SP-F": "imperfect",
+    "SPOB": "impossible",
+    "SKPHRAOET": "incomplete",
     "SKREBGT": "incorrect",
+    "SABL": "unable",
 
     // Use -PBLT for "not" even when there's no -n't form
     // Precedent: KWR-PBLT "why not"
