@@ -39,11 +39,12 @@
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
     "SEURPB": "sinner",         // with TKEURPB "dinner", WEURPB "winner"
     "PRAERL": "temporarily",    // with PRAER "temporary"
-    "TREUG": "trying",          // with TREU "try"
-                                //   overrides "trig"
-    "TR*EUG": "trig",
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
+
+    "TREUG": "trying", // with TREU "try"
+                       // overrides "trig"
+    "TR*EUG": "trig",
 
     // Phonetic
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
