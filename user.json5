@@ -74,10 +74,6 @@
     "ORB": "orb", // misstroke for "or"
     "ORPB/TAEUGS": "orientation",
     "PAPL/TAEUT": "palpitate",
-    "PERL": "peril",      // overrides "pearl"
-    "PAERL": "pearl",     // overrides "parole"
-    "PROEL": "parole",    // overrides "proposal"
-    "PROELS": "proposal", // PROEFL is "profile"
     "RAFPL/KAEUGS": "ramification",
     "RAOEUGS": "rising", // use RAOEUFPS for "righteous"
     "RORPBLG": "Roger",
@@ -102,6 +98,11 @@
     "WAOERPBS": "weariness",
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELS for "sells"
+
+    "PERL": "peril",      // overrides "pearl"
+    "PAERL": "pearl",     // overrides "parole"
+    "PROEL": "parole",    // overrides "proposal"
+    "PROELS": "proposal", // PROEFL is "profile"
 
     // Don't alter vowel
     "PWERT": "better", // double for "Bert"; starred is "berth"
