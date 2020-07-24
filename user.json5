@@ -708,6 +708,7 @@
     "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
     "AUPL": "automatic",
     "AOEG": "ego",
+    "HOR": "horror", // drop the final schwa
     "SKWREP": "jeopardy",
     "SKWREP/AOEUZ": "jeopardize", // alternative to SKWREP/TKAOEUZ
                                   // when "d" is printed on screen,
@@ -1814,6 +1815,7 @@
     "T-PBS/H-F": "continues",    // from "continuous"
     "AOEUS/H-F": "eyes",         // from "ice"
     "TKPWROES/H-F": "grows",     // from "gross"
+    "HORS/H-F": "horrors",       // from "horse"
     "SKWROEUS/H-F": "joys",      // from "Joyce"
     "TPHOES/H-F": "knows",       // from "nose"
     "PHAPBGS/H-F": "manages",    // from "mansion"
