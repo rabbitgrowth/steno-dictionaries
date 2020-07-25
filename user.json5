@@ -502,6 +502,7 @@
     "TPRAOUFD": "refused",
     "TPRAOUFG": "refusing", // TPRAOUGS is "fruition"
     "TPRAOULS": "refusal",  // TPRAOUFL is "fruitful"
+    "SREUFT": "resist", // use SREUT for "visit"
 
     // REU for -ary, -ery, and -ory
     "EFGS/REU": "evolutionary",    // vs EFGS/AER
