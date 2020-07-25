@@ -1532,6 +1532,7 @@
     "HETD": "headed",
     "SPWEPBTD": "intended",
     "PROEFTD": "provided",
+    "SROUPBTD": "surrounded",
 
     // Drop -te- for superlatives of adjectives that end with -t
     // Precedents: HRAEUFT "latest", TKPWRAEFT "greatest"
