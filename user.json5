@@ -1663,12 +1663,17 @@
     "OEFR/OEFR/OEFR": "over and over and over",
 
     // Punctuation as shapes
+    // Open single quote, which precedes close single quote, is the one
+    // that's starred:
+    // A*E {~|'^} (open single quote)
+    // AE  {^~|'} (close single quote)
+    // This feels unnatural. Compare
+    // PREPB  {~|(^} (open bracket)
+    // PR*EPB {^~|)} (close bracket)
+    // Solution: move KW-GS and KR-GS (open and close double quotes)
+    // up one tile to get the corresponding single quotes.
     "TP-LT": "{~|'^}", // open single quote
-                       // KW-GS (open double quote) one tile up
-                       // alternative to A*E
     "TH-LT": "{^~|'}", // close single quote
-                       // KR-GS (close double quote) one tile up
-                       // alternative to AE
 
     // Commands
     "TPHAOP": "{#}", // JUJ/(no-op)/*MT -> judgement
