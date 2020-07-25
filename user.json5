@@ -774,7 +774,7 @@
     "HES": "he is", // overrides "Hess"
     "HETS": "he is the",
     // "he's"      HAOES already works
-    // "He's the"  HAOETS is "heats"
+    // "he's the"  HAOETS is "heats"
     // "she is"    SHES already works
     "SHETS": "she is the", // use SHAOETS for "sheets"
     // "she's"     SHAOES already works
