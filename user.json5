@@ -91,6 +91,7 @@
     "S*EUPL/TOPB": "simpleton",
     "SOEPB/AR": "sonar",
     "STRAOEUTD": "strident",
+    "SPRAOEUGS": "surprising", // instead of "surprisings"
     "SR*ERPBD": "surrender", // starless is "vendor"
     "T*ERS": "terrace", // starless is "terse"
     "TREFPS": "treacherous",
