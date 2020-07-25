@@ -738,6 +738,10 @@
                                   // when "d" is printed on screen,
                                   // TK feels necessary
     "SKWRAOUF": "juvenile",
+    "HREPL": "lemon",
+    "HREPL/AEUD": "lemonade", // alternative to HREPL/TPHAEUD
+                              // when "n" is printed on screen,
+                              // TPH feels unnecessary
     "RE/SKWRAOUF": "rejuvenate",
     "RE/SKWRAOUFGS": "rejuvenation",
     "TPHAR": "narrow",
