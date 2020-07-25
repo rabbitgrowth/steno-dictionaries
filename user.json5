@@ -896,6 +896,12 @@
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
 
+    "SH*ED": "she'd",
+    // "it'd"  T*D already works
+    "W*ED": "we'd",  // which frees up ...
+    "WAOED": "weed", // drop *
+    "TH*ED": "they'd",
+
     // Plover pretty consistently uses -L for "'ll". In accordance with
     // our "default to full form and add * for contraction" rule, change
     // them all to "will".
