@@ -143,6 +143,7 @@
     "TKPWARPB": "garden",
     "TKPWOEPL": "go home",
     "HEUPB": "hidden",
+    "PHELG": "medical", // "mecal"
     "PHAEUPLS": "my name is", // use -Z for "maims"
     "REFLGS": "reflection", // use REFGS for "revolution"
     "STPREU": "satisfactory", // "sfry", cf. STPAOEU "satisfy"
