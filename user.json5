@@ -803,11 +803,15 @@
     "KWR-FB": "I have been",
     // "I've"      AOEUF already works
     // "I've been" AOEUFB already works
+    "KWR-D": "I had",
+    "KWR-BD": "I had been",
     "SREU": "have I", // follow steno order
     "UF": "you have",
     "UFB": "you have been", // just fingerspell "USB"
     "*UF": "you've",
     "*UFB": "you've been",
+    "UD": "you had", // use *UD for "you'd"
+    "UBD": "you had been",
     // "have you" SRU already works
     // "he has"   use HEZ  (EZ is "easy")
     // "she has"  use SHEZ
@@ -823,6 +827,8 @@
     "THEFB": "they have been",
     "TH*EF": "they've",
     "TH*EFB": "they've been",
+    "THED": "they had", // use TH*ED for "they'd"
+    "THEBD": "they had been",
 
     // Pronoun + modal verb
     "KWR-BG": "I can", // misstroke for {,}
@@ -857,7 +863,7 @@
     "UL": "you will",
     "*UL": "you'll",
     // "you would"  ULD already works
-    // "you'd"      UD already works
+    // "you'd"      *UD already works
     // "will you"   HRU already works
     // "would you"  WOU already works
 
@@ -885,11 +891,16 @@
                      // EL/TPHEUPB/KWROE "El Nino"
     // "he'll"     *EL already works
     // "he would"  ELD already works
-    "ED": "he'd",    // add * for "Ed"
-                     // which frees up ...
+    "*ED": "he'd",   // which frees up ...
     "HAOED": "heed", // drop *
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
+
+    "SH*ED": "she'd",
+    // "it'd"  T*D already works
+    "W*ED": "we'd",  // which frees up ...
+    "WAOED": "weed", // drop *
+    "TH*ED": "they'd",
 
     // Plover pretty consistently uses -L for "'ll". In accordance with
     // our "default to full form and add * for contraction" rule, change
@@ -1190,27 +1201,31 @@
     "SKPEUFT": "and I have the",
     "SKP*EUF": "and I've",
     "SKP*EUFT": "and I've the",
+    "SKPEUD": "and I had",
+    "SKPEUTD": "and I had the",
     "SKPUF": "and you have", // already works
     "SKPUFT": "and you have the",
     "SKP*UF": "and you've",
     "SKP*UFT": "and you've the",
+    "SKPUD": "and you had",
+    "SKPUTD": "and you had the",
     "SKPEUBGD": "and I could",
     "SKPEUL": "and I will",
     "SKP*EUL": "and I'll",
     "SKPEULD": "and I would",
-    "SKPEUD": "and I'd",
+    "SKP*EUD": "and I'd",
     "SKPUBGD": "and you could",
     "SKPURBD": "and you should",
     "SKPUL": "and you will",
     "SKP*UL": "and you'll",
     "SKPULD": "and you would",
-    "SKPUD": "and you'd",
+    "SKP*UD": "and you'd",
     "SKPEBGD": "and he could",
     "SKPERBD": "and he should",
     "SKPEL": "and he will",
     "SKP*EL": "and he'll",
     "SKPELD": "and he would",
-    "SKPED": "and he'd",
+    "SKP*ED": "and he'd",
 
     "SKPAUFL": "and all of",
     "SKPAULT": "and all the",
@@ -1269,34 +1284,40 @@
     "THAEUFT": "that I have the",
     "THA*EUF": "that I've",
     "THA*EUFT": "that I've the",
+    "THAEUD": "that I had", // use TH*ED for "they'd"
+    "THAEUTD": "that I had the",
     "THAUF": "that you have",
     "THAUFT": "that you have the",
     "THA*UF": "that you've",
     "THA*UFT": "that you've the",
+    "THAUD": "that you had", // already works
+    "THAUTD": "that you had the",
     "THAF": "that have",
     "THAFT": "that have the",
     "THA*F": "that've", // already works
     "THA*FT": "that've the",
+    "THAD": "that had", // overrides {^ed that}
+    "THATD": "that had the", // use THA*D for "that'd"
     "THAEUBG": "that I can",
     "THAEUBGD": "that I could",
     "THAEURBD": "that I should",
     "THAEUL": "that I will", // use TH*EL for "they'll"
     "THA*EUL": "that I'll",  // use TH*EL for "they'll"
     "THAEULD": "that I would",
-    "THAEUD": "that I'd",    // use THED for "they'd"
+    "THA*EUD": "that I'd",   // use TH*ED for "they'd"
     "THAUBG": "that you can",
     "THAUBGD": "that you could",
     "THAURBD": "that you should",
     "THA*UL": "that you'll",
     "THAULD": "that you would",
-    "THAUD": "that you'd", // by default "that you had"
+    "THA*UD": "that you'd", // come back for -D for "thawed"
     "THAEBG": "that he can", // use THAEBGT for "that's correct"
     "THAEBGD": "that he could",
     "THAERBD": "that he should",
     "THAEL": "that he will",
     "THA*EL": "that he'll",
     "THAELD": "that he would",
-    "THAED": "that he'd",
+    "THA*ED": "that he'd",
     // Superimpose SHE for "she", cf. STHAE "that she" (THA + SHE)
     "STHAEFS": "that she was",
     "STHAEBG": "that she can",
@@ -1305,7 +1326,7 @@
     "STHAEL": "that she will",
     "STHA*EL": "that she'll",
     "STHAELD": "that she would",
-    // Special case: STHAED is more useful as "said that" than as "that she'd"
+    "STHA*ED": "that she'd",
 
     // "what" stacking
     "WHAEUPL": "what I am",
@@ -1319,8 +1340,10 @@
     "WHAEFS": "what he was",
     "WHAEUF": "what I have",
     "WHA*EUF": "what I've",
+    "WHAEUD": "what I had",
     "WHAUF": "what you have",
     "WHA*UF": "what you've",
+    "WHAUD": "what you had",
     "WHAEUBG": "what I can",
     "WHAEUBGD": "what I could",
     "WHAEURBD": "what I should",
@@ -1328,13 +1351,13 @@
     "WHAEL": "whale",        // instead of "what he will" (see below)
     "WHA*EUL": "what I'll",
     "WHAEULD": "what I would",
-    "WHAEUD": "what I'd",
+    "WHA*EUD": "what I'd",
     "WHAUBGD": "what you could",
     "WHAURBD": "what you should",
     "WHAUL": "what you will",
     "WHA*UL": "what you'll",
     "WHAULD": "what you would",
-    "WHAUD": "what you'd",
+    "WHA*UD": "what you'd",
     "WHAEBG": "what he can",
     "WHAEBGD": "what he could",
     "WHAERBD": "what he should",
@@ -1351,7 +1374,7 @@
     // (although "stale" is STAEUL, since STAEL is "steal")
     "WHA*EL": "what he'll",
     "WHAELD": "what he would",
-    "WHAED": "what he'd",
+    "WHA*ED": "what he'd",
 
     // "when" stacking
     "WHEUPL": "when I am",  // overrides "whim"
@@ -1389,10 +1412,14 @@
                             // "when have I ever"   WH/SREU/-FR
                             // "when have you been" WH/SRUB
     "WHEUF/-F": "whiff of", // safeguard for when I forget this mnemonic
+    "WHEUD": "when I had",
+    "WHEUTD": "when I had the",
     "WHUF": "when you have",
     "WHUFT": "when you have the",
     "WH*UF": "when you've",
     "WH*UFT": "when you've the",
+    "WHUD": "when you had",
+    "WHUTD": "when you had the",
 
     // "who" stacking
     "WHOEUPL": "who I am",
@@ -1742,11 +1769,12 @@
     "WHOEFLT": "whole lot of",
     "WHAOELT": "a whole lot",
     "WHAOEFLT": "a whole lot of",
+    "WH-G": "whole thing", // combined with my T-G "thing"
     "WHUFRPB": "whole bunch",
-    "WHEUD": "whole idea", // with my EUD "idea"
+    "WHAOEUD": "whole idea", // bizarre misstroke for "wide"
+                             // WHEUD (with my EUD "idea") is "when I had"
     "WHAOEUF": "whole life",
     "WHOEUPBT": "whole point",
-    "WH-G": "whole thing", // cf. my T-G "thing"
     "WHAOEUPL": "whole time",
 
     // mass-
@@ -1854,6 +1882,7 @@
     "RURPB/H-F": "runner",       // from "return"
     "RUPBG/H-F": "running",      // from "rung"
     "SAOEUD/H-F": "sighed",      // from "side"
+    "THA*UD/H-F": "thawed",      // from "that you'd" (custom)
     "TOEFRT/H-F": "toaster",     // from "effort to"
     "TOEFRTS/H-F": "toasters",
     "WHAEL/H-F": "what he will", // from "whale" (custom)
