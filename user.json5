@@ -1662,6 +1662,14 @@
     "OEFR/OEFR": "over and over",
     "OEFR/OEFR/OEFR": "over and over and over",
 
+    // Punctuation as shapes
+    "TP-LT": "{~|'^}", // open single quote
+                       // KW-GS (open double quote) one tile up
+                       // alternative to A*E
+    "TH-LT": "{^~|'}", // close single quote
+                       // KR-GS (close double quote) one tile up
+                       // alternative to AE
+
     // Commands
     "TPHAOP": "{#}", // JUJ/(no-op)/*MT -> judgement
     "WR-RB": "{^^}", // visually sticking together:
