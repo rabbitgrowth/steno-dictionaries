@@ -1762,7 +1762,8 @@
     "WHAOELT": "a whole lot",
     "WHAOEFLT": "a whole lot of",
     "WHUFRPB": "whole bunch",
-    "WHEUD": "whole idea", // with my EUD "idea"
+    "WHAOEUD": "whole idea", // bizarre misstroke for "wide"
+                             // WHEUD (with my EUD for "idea") is "when I had"
     "WHAOEUF": "whole life",
     "WHOEUPBT": "whole point",
     "WH-G": "whole thing", // cf. my T-G "thing"
