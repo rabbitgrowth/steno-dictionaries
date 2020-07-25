@@ -1853,6 +1853,7 @@
     "RURPB/H-F": "runner",       // from "return"
     "RUPBG/H-F": "running",      // from "rung"
     "SAOEUD/H-F": "sighed",      // from "side"
+    "THA*UD/H-F": "thawed",      // from "that you'd" (custom)
     "TOEFRT/H-F": "toaster",     // from "effort to"
     "TOEFRTS/H-F": "toasters",
     "WHAEL/H-F": "what he will", // from "whale" (custom)
