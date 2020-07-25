@@ -795,10 +795,8 @@
     "TH*ERT": "they're the",
 
     // Pronoun + have
-    // The standard strokes are inconsistent:
-    // KWROEU  "I don't"
-    // KWROEUF "I don't have"
-    // SREU    "I have" (?!)
+    // Since KWROEU is "I don't" and KWROEUF is "I don't have",
+    // one would expect "I have" to be KWR-F. But it's SREU (?!).
     "KWR-F": "I have",
     "KWR-FB": "I have been",
     // "I've"      AOEUF already works
