@@ -1346,7 +1346,6 @@
     "WHAEUBGD": "what I could",
     "WHAEURBD": "what I should",
     "WHAEUL": "what I will", // overrides "whale"
-    "WHAEL": "whale",        // instead of "what he will" (see below)
     "WHA*EUL": "what I'll",
     "WHAEULD": "what I would",
     "WHA*EUD": "what I'd",
@@ -1359,17 +1358,17 @@
     "WHAEBG": "what he can",
     "WHAEBGD": "what he could",
     "WHAERBD": "what he should",
-    // Special case: For "what he will", just use WHA/EL.
-    // WHAEL is perfect for "whale":
-    // PWAEL   "bale"
-    // TKAEL   "dale"
-    // TKPWAEL "gale"
-    // PHAEL   "male"
-    // PAEL    "pale"
-    // SAEL    "sale"
-    // TAEL    "tale"
-    // SKAEL   "scale"
-    // (although "stale" is STAEUL, since STAEL is "steal")
+    "WHAEL": "what he will", // overrides what ideally should be "whale":
+                             // PWAEL   "bale"
+                             // TKAEL   "dale"
+                             // TKPWAEL "gale"
+                             // PHAEL   "male"
+                             // PAEL    "pale"
+                             // SAEL    "sale"
+                             // TAEL    "tale"
+                             // SKAEL   "scale"
+                             // (although "stale" is STAEUL, since STAEL is "steal")
+    "WHEL": "whale",
     "WHA*EL": "what he'll",
     "WHAELD": "what he would",
     "WHA*ED": "what he'd",
@@ -1883,7 +1882,7 @@
     "THA*UD/H-F": "thawed",      // from "that you'd" (custom)
     "TOEFRT/H-F": "toaster",     // from "effort to"
     "TOEFRTS/H-F": "toasters",
-    "WHAEL/H-F": "what he will", // from "whale" (custom)
+    "WHAEL/H-F": "whale",        // from "what he will" (custom)
 
     // ... from using -S when I should have used -Z
     "T-PBS/H-F": "continues",    // from "continuous"
