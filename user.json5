@@ -58,6 +58,7 @@
     "KHRERPBD": "calendar",
     "KAUFT": "caste",
     "KHEUBG/EPB": "chicken",
+    "KHRARPL": "clamor",
     "KAUPB/TKPWRELGS": "congressional",
     "AOELG": "eagle",
     "ERPBT": "errant",
@@ -1897,6 +1898,7 @@
 
     // Use same stroke to change to British spelling
     "PWHAEUFR/H-F": "behaviour",
+    "KHRARPL/H-F": "clamour",
     "TKPWRAEU/H-F": "grey",
 
 }
