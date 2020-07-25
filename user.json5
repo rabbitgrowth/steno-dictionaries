@@ -803,11 +803,15 @@
     "KWR-FB": "I have been",
     // "I've"      AOEUF already works
     // "I've been" AOEUFB already works
+    "KWR-D": "I had",
+    "KWR-BD": "I had been",
     "SREU": "have I", // follow steno order
     "UF": "you have",
     "UFB": "you have been", // just fingerspell "USB"
     "*UF": "you've",
     "*UFB": "you've been",
+    "UD": "you had", // use *UD for "you'd"
+    "UBD": "you had been",
     // "have you" SRU already works
     // "he has"   use HEZ  (EZ is "easy")
     // "she has"  use SHEZ
