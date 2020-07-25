@@ -1193,10 +1193,14 @@
     "SKPEUFT": "and I have the",
     "SKP*EUF": "and I've",
     "SKP*EUFT": "and I've the",
+    "SKPEUD": "and I had",
+    "SKPEUTD": "and I had the",
     "SKPUF": "and you have", // already works
     "SKPUFT": "and you have the",
     "SKP*UF": "and you've",
     "SKP*UFT": "and you've the",
+    "SKPUD": "and you had",
+    "SKPUTD": "and you had the",
     "SKPEUBGD": "and I could",
     "SKPEUL": "and I will",
     "SKP*EUL": "and I'll",
@@ -1272,14 +1276,20 @@
     "THAEUFT": "that I have the",
     "THA*EUF": "that I've",
     "THA*EUFT": "that I've the",
+    "THAEUD": "that I had", // use TH*ED for "they'd"
+    "THAEUTD": "that I had the",
     "THAUF": "that you have",
     "THAUFT": "that you have the",
     "THA*UF": "that you've",
     "THA*UFT": "that you've the",
+    "THAUD": "that you had", // already works
+    "THAUTD": "that you had the",
     "THAF": "that have",
     "THAFT": "that have the",
     "THA*F": "that've", // already works
     "THA*FT": "that've the",
+    "THAD": "that had", // overrides {^ed that}
+    "THATD": "that had the", // use THA*D for "that'd"
     "THAEUBG": "that I can",
     "THAEUBGD": "that I could",
     "THAEURBD": "that I should",
@@ -1322,8 +1332,10 @@
     "WHAEFS": "what he was",
     "WHAEUF": "what I have",
     "WHA*EUF": "what I've",
+    "WHAEUD": "what I had",
     "WHAUF": "what you have",
     "WHA*UF": "what you've",
+    "WHAUD": "what you had",
     "WHAEUBG": "what I can",
     "WHAEUBGD": "what I could",
     "WHAEURBD": "what I should",
@@ -1392,10 +1404,14 @@
                             // "when have I ever"   WH/SREU/-FR
                             // "when have you been" WH/SRUB
     "WHEUF/-F": "whiff of", // safeguard for when I forget this mnemonic
+    "WHEUD": "when I had",
+    "WHEUTD": "when I had the",
     "WHUF": "when you have",
     "WHUFT": "when you have the",
     "WH*UF": "when you've",
     "WH*UFT": "when you've the",
+    "WHUD": "when you had",
+    "WHUTD": "when you had the",
 
     // "who" stacking
     "WHOEUPL": "who I am",
