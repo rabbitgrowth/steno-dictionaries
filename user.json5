@@ -582,6 +582,9 @@
     "PHOUT": "mouth",
     "TRUT": "truth", // from TR*UT; TRAOUT (from TRAO*UT) already works
     "UPBD/TPHAOET": "underneath",
+    "WELT": "wealth", // swap with "welt"
+    "W*ELT": "welt",
+    "KPHOPB/WELT": "commonwealth",
     "WORT": "worth", // swap with "wort"
     "WO*RT": "wort",
     "KWRAOUT": "youth",
