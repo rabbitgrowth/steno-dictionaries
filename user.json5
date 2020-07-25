@@ -1359,14 +1359,10 @@
     "WHAEBGD": "what he could",
     "WHAERBD": "what he should",
     "WHAEL": "what he will", // overrides what ideally should be "whale":
-                             // PWAEL   "bale"
-                             // TKAEL   "dale"
-                             // TKPWAEL "gale"
-                             // PHAEL   "male"
-                             // PAEL    "pale"
-                             // SAEL    "sale"
-                             // TAEL    "tale"
-                             // SKAEL   "scale"
+                             // PWAEL   "bale"   PAEL  "pale"
+                             // TKAEL   "dale"   SAEL  "sale"
+                             // TKPWAEL "gale"   TAEL  "tale"
+                             // PHAEL   "male"   SKAEL "scale"
                              // (although "stale" is STAEUL, since STAEL is "steal")
     "WHEL": "whale",
     "WHA*EL": "what he'll",
