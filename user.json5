@@ -1674,6 +1674,11 @@
     // up one tile to get the corresponding single quotes.
     "TP-LT": "{~|'^}", // open single quote
     "TH-LT": "{^~|'}", // close single quote
+    // This frees up AE for an unspaced apostrophe, useful for
+    // fingerspelling words like "Shin'ichi". AE feels natural because
+    // it's used in, for example, AES {^'s}, where there's no space
+    // before and after the apostrophe.
+    "AE": "{^'^}",
 
     // Commands
     "TPHAOP": "{#}", // JUJ/(no-op)/*MT -> judgement
