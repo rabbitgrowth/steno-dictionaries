@@ -827,6 +827,8 @@
     "THEFB": "they have been",
     "TH*EF": "they've",
     "TH*EFB": "they've been",
+    "THED": "they had", // use TH*ED for "they'd"
+    "THEBD": "they had been",
 
     // Pronoun + modal verb
     "KWR-BG": "I can", // misstroke for {,}
