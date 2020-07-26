@@ -256,9 +256,6 @@
     "HAED": "ahead",
     "HRAEUF": "alive",
     "HRAEPBLG": "allege",
-    "HRAOU": "allow", // or just use HROU
-                      // overrides "lieu", which is always preceded by "in"
-    "TPH/HRAOU": "in lieu", // TPH/HRAOUF "in lieu of" already works
     "PHAEPBD": "amend",
     "RAEFT": "arrest",
     "SAEPBD": "ascend", // "scened" is too rare
