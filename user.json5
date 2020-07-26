@@ -145,7 +145,6 @@
     "TAOERT": "deteriorate",
     "TAOERGS": "deterioration",
     "SPHRORGS": "exploration",
-    "TPROUT": "figure out",
     "TPREFT": "forest",
     "TKPWARPB": "garden",
     "TKPWOEPL": "go home",
@@ -157,7 +156,6 @@
     "STPOER": "satisfactory", // "sfory", or the standard STPOEUR minus -U
     "SPOEFT": "supposed to",
     "SPOEFBT": "supposed to be",
-    "TAEUFR": "take care of",
     "TWHO": "those who", // TH + WHO
     "TWH-BGT": "when it comes to",
     "KWRAOEUS": "you guys",
@@ -165,6 +163,17 @@
     "STORB": "astonish",
     "STORBG": "astonishing", // overrides "stork" (a bird)
     "STO*RBG": "stork",      // overrides "State of New York"
+
+    "TPROUT": "figure out",
+    "TPROUTS": "figures out",
+    "TPROUTD": "figured out",
+    "TPROUGT": "figuring out",
+
+    "TAEUFR": "take care of",
+    "TAEUFRS": "takes care of",
+    "TAEUFRD": "took care of",
+    "TAEUFRPB": "taken care of",
+    "TAEUFRG": "taking care of",
 
     // Drop final -y sound
     // For -D, -T, and -Z, I can think of it as "pronounce last letter".
