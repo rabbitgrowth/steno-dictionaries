@@ -183,9 +183,12 @@
 
     "TAEUFR": "take care of",
     "TAEUFRS": "takes care of",
+    "TAEUFR/-S": "takes care of",
     "TAEUFRD": "took care of",
+    "TAEUFR/-D": "took care of",
     "TAEUFRPB": "taken care of",
     "TAEUFRG": "taking care of",
+    "TAEUFR/-G": "taking care of",
 
     // Drop final -y sound
     // For -D, -T, and -Z, I can think of it as "pronounce last letter".
