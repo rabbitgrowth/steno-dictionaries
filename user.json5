@@ -166,28 +166,28 @@
 
     "TPROUT": "figure out",
     "TPROUTS": "figures out",
-    "TPROUT/-S": "figures out",
     "TPROUTD": "figured out",
-    "TPROUT/-D": "figured out",
     "TPROUGT": "figuring out",
+    "TPROUT/-S": "figures out",
+    "TPROUT/-D": "figured out",
     "TPROUT/-G": "figuring out",
     "TPROU": "figure out", // form for easier inflections
                            // use the orthographic TPRAU for "frau"
     "TPRAU": "Frau",       // ... which should be capitalized
     "TPROUS": "figures out",
-    "TPROU/-S": "figures out",
     "TPROUD": "figured out",
-    "TPROU/-D": "figured out",
     "TPROUG": "figuring out",
+    "TPROU/-S": "figures out",
+    "TPROU/-D": "figured out",
     "TPROU/-G": "figuring out",
 
     "TAEUFR": "take care of",
     "TAEUFRS": "takes care of",
-    "TAEUFR/-S": "takes care of",
     "TAEUFRD": "took care of",
-    "TAEUFR/-D": "took care of",
     "TAEUFRPB": "taken care of",
     "TAEUFRG": "taking care of",
+    "TAEUFR/-S": "takes care of",
+    "TAEUFR/-D": "took care of",
     "TAEUFR/-G": "taking care of",
 
     // Drop final -y sound
