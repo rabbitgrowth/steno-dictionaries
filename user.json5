@@ -1602,7 +1602,9 @@
     "HAPBTD": "handed",
     "HETD": "headed",
     "SPWEPBTD": "intended",
+    "PER/SWAEUTD": "persuaded",
     "PROEFTD": "provided",
+    "SKAOETD": "succeeded",
     "SROUPBTD": "surrounded",
 
     // Drop -te- for superlatives of adjectives that end with -t
