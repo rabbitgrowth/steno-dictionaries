@@ -1,6 +1,9 @@
 {
 
     // Skeletal briefs for common words
+    "TK-FS": "difference", // prevents awkward 2x2 block
+                           // (2x3 if counting EU) in TKEUFRPBS
+    "TK-FT": "different",
     "TP-D": "find",
     "-FD": "find", // make combining form work too
     "T-FD": "find it",
