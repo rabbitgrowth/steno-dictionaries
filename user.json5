@@ -606,7 +606,9 @@
     "ERT": "earth",
     "ERT/PWOUPBD": "earthbound",
     "ERT/KWAEUBG": "earthquake",
+    "ERT/KWAEUBGS": "earthquakes",
     "ERT/WORPL": "earthworm",
+    "ERT/WORPLS": "earthworms",
     "HELT": "health",
     "HAOELT": "healthy", // lengthen vowel for -y (see HAO*ELT)
     "PHETD": "method",    // by default "meted" by accident (met + -ed)
