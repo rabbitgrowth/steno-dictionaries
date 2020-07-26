@@ -292,6 +292,9 @@
     "ERLD": "elder", // overrides "elderly"
                      // compare OERLD "older"
     "HRERLD": "elderly", // HR for -ly since -L is used
+    "EPL/PWROEURD": "embroider",
+    "PWROEURD": "embroider", // like PROEFP, A/PROEFP "approach"
+                             // "broider" is an archaic form of "embroider"
     "TPAEURPBT": "fainter",
     "SKWRAEURT": "generator",
     "TPEUFRLS": "philosopher", // flouts steno order:
