@@ -970,6 +970,15 @@
     "T-RB": "it shall",
     "THERB": "they shall", // by default "they're"
 
+    // Indicate purpose
+    "STHAO": "so that",
+    "STHAOEUBG": "so that I can",
+    "STHAOEUBGD": "so that I could",
+    "STHAOUBG": "so that you can",
+    "STHAOUBGD": "so that you could",
+    "STHAOEBG": "so that he can",
+    "STHAOEBGD": "so that he could",
+
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
     "PH-B": "maybe",    // overrides "Mapbox", but who cares?
@@ -1496,7 +1505,6 @@
     "STPROFPBT": "in front of", // STPROPBT "in front" + TPROFPBT "front of"
     "T-T": "it the", // as in "making it the..."
     "TPHOBT": "not be",
-    "STHAO": "so that",
     "SAUFP": "such a",
     "WHAOER": "what other",
     "TWH": "when it",
