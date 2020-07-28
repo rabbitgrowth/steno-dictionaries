@@ -983,8 +983,21 @@
     "T-RB": "it shall",
     "T-L": "it will", // by default "it'll"
 
-    "W*ED": "we'd",  // which frees up ...
-    "WAOED": "weed", // drop *
+    "WEBG": "we can",   // just two-stroke "webbing"
+    "WERB": "we shall", // overrides "Welsh"
+    "WERBL": "Welsh",
+    "WEL": "we will",   // overrides "well" (!)
+    "W-L": "well",      // ... which is actually not that crazy;
+                        // many use skeletal briefs for common words
+    "WELD": "we would", // overrides "weld"
+    "W-LD": "weld",     // I could come up with some stupid mnemonic like
+                        // "the - welds the W and the LD", but at this point
+                        // this is really the only logical thing to do
+    "W*EL": "we'll",    // overrides {well-^}
+    "W*L": "{well-^}",  // nicely consistent with W-L
+    "W*ED": "we'd",     // which frees up ...
+    "WAOED": "weed",    // drop *
+
     "TH*ED": "they'd",
 
     // Plover pretty consistently uses -L for "'ll". In accordance with
