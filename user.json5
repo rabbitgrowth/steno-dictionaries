@@ -130,6 +130,8 @@
     "KRERPBT": "century", // use STR for "center"
     "TKEUFLT": "difficulty", // TKEUFL "difficult" + -T
     "ROR": "error", // use RAOR for "roar"
+    "RORS": "errors",
+    "ROR/-S": "errors",
     "HEF": "heavy", // HEFL "heavily" - -L
                     // it's also nice that HEF + -T = "heft"
     "HEFR": "heavier", // overrides "heifer"
