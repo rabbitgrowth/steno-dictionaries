@@ -999,6 +999,10 @@
     "WAOED": "weed",    // drop *
 
     "THERB": "they shall", // by default "they're"
+    "THEL": "they will", // by default "they'll"
+    "TH*EL": "they'll",
+    "TH*ED": "they'd",
+
     // Plover is so consistent with using -L for "'ll"
     // that TH-L gives "this'll", a pretty rare form:
     // THIS 'LL    1735
@@ -1006,10 +1010,6 @@
     // Compare
     // I 'LL   386926
     // I WILL  147058
-    "THEL": "they will", // by default "they'll"
-    "TH*EL": "they'll",
-    "TH*ED": "they'd",
-
     "TH-L": "this will", // by default "this'll"
     "THAL": "that will", // by default "that'll"
     "WHOL": "who will",
