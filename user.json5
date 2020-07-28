@@ -976,8 +976,8 @@
     // Do the same for the other pronouns.
     // (Strokes that already work are omitted for brevity.)
     "SHEL": "she will", // overrides "shell"
-    "SH-L": "shell", // mnemonic: a shell is empty in the middle
-    "SH*EL": "she'll", // overrides "Shel"
+    "SH-L": "shell",    // mnemonic: a shell is empty in the middle
+    "SH*EL": "she'll",  // overrides "Shel"
     "SH*ED": "she'd",
 
     "T-RB": "it shall",
