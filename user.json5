@@ -980,7 +980,9 @@
     "SH*EL": "she'll", // overrides "Shel"
     "SH*ED": "she'd",
 
-    // "it'd"  T*D already works
+    "T-RB": "it shall",
+    "T-L": "it will", // by default "it'll"
+
     "W*ED": "we'd",  // which frees up ...
     "WAOED": "weed", // drop *
     "TH*ED": "they'd",
@@ -995,7 +997,6 @@
     // Compare
     // I 'LL   386926
     // I WILL  147058
-    "T-L": "it will",    // by default "it'll"
     "THEL": "they will", // by default "they'll"
     "TH*EL": "they'll",
     "TH-L": "this will", // by default "this'll"
@@ -1003,7 +1004,6 @@
     "WHOL": "who will",
     "WHAL": "what will",
     "THABG": "that can", // misstroke for "thank"
-    "T-RB": "it shall",
     "THERB": "they shall", // by default "they're"
 
     // Indicate purpose
