@@ -944,14 +944,14 @@
     // "will you"   HRU already works
     // "would you"  WOU already works
 
-    // The standard strokes are inconsistent:
+    // The standard strokes feel inconsistent:
     //  ELD  "he would"  (E for "he")
     // HELD  "held"      (H in spelling included)
     //  ERBD "herbed"    (H in spelling omitted)
     // HERBD "he should" (HE for "he")
     // Of course, the "h" in "held" is pronounced while the "h" in "herb"
-    // can be silent. Still, it would be nice to be able to consistently use
-    // EU for "I", U for "you", and E for "he".
+    // can be silent. Still, it would be nice to be able to consistently
+    // use E for "he" as part of the EU/U/E trio.
     "EBG": "he can", // overrides "ebbing"
     "EBGD": "he could",
     "KE": "can he", // by default "he can"
