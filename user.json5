@@ -999,11 +999,8 @@
     "WAOED": "weed",    // drop *
 
     "THERB": "they shall", // by default "they're"
-    // Plover pretty consistently uses -L for "'ll". In accordance with
-    // our "default to full form and add * for contraction" rule, change
-    // them all to "will".
-    // Plover is so consistent with this that TH-L gives "this'll",
-    // a pretty rare form:
+    // Plover is so consistent with using -L for "'ll"
+    // that TH-L gives "this'll", a pretty rare form:
     // THIS 'LL    1735
     // THIS WILL  31337
     // Compare
