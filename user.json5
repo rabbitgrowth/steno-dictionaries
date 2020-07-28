@@ -998,8 +998,7 @@
     "W*ED": "we'd",     // which frees up ...
     "WAOED": "weed",    // drop *
 
-    "TH*ED": "they'd",
-
+    "THERB": "they shall", // by default "they're"
     // Plover pretty consistently uses -L for "'ll". In accordance with
     // our "default to full form and add * for contraction" rule, change
     // them all to "will".
@@ -1012,12 +1011,13 @@
     // I WILL  147058
     "THEL": "they will", // by default "they'll"
     "TH*EL": "they'll",
+    "TH*ED": "they'd",
+
     "TH-L": "this will", // by default "this'll"
     "THAL": "that will", // by default "that'll"
     "WHOL": "who will",
     "WHAL": "what will",
     "THABG": "that can", // misstroke for "thank"
-    "THERB": "they shall", // by default "they're"
 
     // Indicate purpose
     "STHAO": "so that",
