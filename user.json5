@@ -911,18 +911,17 @@
     // Pronoun + modal verb
     "KWR-BG": "I can", // misstroke for {,}
     "KWR-BGD": "I could",
+    "KWR-RB": "I shall",
+    "KWR-RBD": "I should",
+    "KWR-L": "I will",   // overrides "ideal" stroke #1
+    "KWR-LD": "I would", // overrides "ideal" stroke #2
+    // "I'll"     AOEUL already works
+    // "I'd"      AOEUD already works
     // "can I"    KEU already works
     // "could I"  KOEU is "coy"
-    "KWR-RB": "I shall", // Precedents for using -RB for "shall":
-                         // SHERB "she shall", WHORB "who shall"
-    "KWR-RBD": "I should",
     // "shall I"  just use SHAL/EU
     // "should I" SHOEU already works
-    "KWR-L": "I will",   // overrides "ideal" stroke #1
-    // "I'll"     AOEUL already works
     // "will I"   HREU {^ly} feels too canonical to override
-    "KWR-LD": "I would", // overrides "ideal" stroke #2
-    // "I'd"      AOEUD already works
     "WOEU": "would I", // by default "I would"
     "EUD": "idea", // "I-D"
                    // overrides "id" (psychoanalysis term)
@@ -932,74 +931,91 @@
 
     // "you can"    UBG already works
     // "you could"  UBGD already works
-    // "can you"    KU already works
-    // "could you"  KOU is "cow"
     "URB": "you shall", // by default "you're"
     // "you should" URBD already works
+    "UL": "you will",
+    // "you would"  ULD already works
+    "*UL": "you'll",
+    // "you'd"      *UD already works
+    // "can you"    KU already works
+    // "could you"  KOU is "cow"
     // "shall you"  too rare to care
     "SHOU": "should you", // misstroke for "somehow"
-    "UL": "you will",
-    "*UL": "you'll",
-    // "you would"  ULD already works
-    // "you'd"      *UD already works
     // "will you"   HRU already works
     // "would you"  WOU already works
 
-    // The standard strokes are inconsistent:
+    // The standard strokes feel inconsistent:
     //  ELD  "he would"  (E for "he")
     // HELD  "held"      (H in spelling included)
     //  ERBD "herbed"    (H in spelling omitted)
     // HERBD "he should" (HE for "he")
     // Of course, the "h" in "held" is pronounced while the "h" in "herb"
-    // can be silent. Still, it would be nice to be able to consistently use
-    // EU for "I", U for "you", and E for "he".
+    // can be silent. Still, it would be nice to be able to consistently
+    // use E for "he" as part of the EU/U/E trio.
     "EBG": "he can", // overrides "ebbing"
     "EBGD": "he could",
-    "KE": "can he", // by default "he can"
-    // "could he"  KOE is "co-"
     "ERB": "he shall",   // use HERB for "herb" (spell out silent H as in HOUR "hour")
     "ERBD": "he should", // and for "herbed" use ...
     "HERBD": "herbed",
-    // "shall he"  too rare to care
-    // "should he" SHOE is "show"
     "EL": "he will", // for "El", just keep on typing;
                      // chances are you'll get what you want:
                      // EL/PA/SOE        "El Paso"
                      // EL/SAL/SRA/TKOR  "El Salvador"
                      // EL/TPHEUPB/KWROE "El Nino"
-    // "he'll"     *EL already works
     // "he would"  ELD already works
+    // "he'll"     *EL already works
     "*ED": "he'd",   // which frees up ...
     "HAOED": "heed", // drop *
+    "KE": "can he", // by default "he can"
+    // "could he"  KOE is "co-"
+    // "shall he"  too rare to care
+    // "should he" SHOE is "show"
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
 
+    // Do the same for the other pronouns.
+    // (Strokes that already work are omitted for brevity.)
+    "SHEL": "she will", // overrides "shell"
+    "SH-L": "shell",    // mnemonic: a shell is empty in the middle
+    "SH*EL": "she'll",  // overrides "Shel"
     "SH*ED": "she'd",
-    // "it'd"  T*D already works
-    "W*ED": "we'd",  // which frees up ...
-    "WAOED": "weed", // drop *
+
+    "T-RB": "it shall",
+    "T-L": "it will", // by default "it'll"
+
+    "WEBG": "we can",   // just two-stroke "webbing"
+    "WERB": "we shall", // overrides "Welsh"
+    "WERBL": "Welsh",
+    "WEL": "we will",   // overrides "well" (!)
+    "W-L": "well",      // ... which is actually not that crazy;
+                        // many use skeletal briefs for common words
+    "WELD": "we would", // overrides "weld"
+    "W-LD": "weld",     // I could come up with some stupid mnemonic like
+                        // "the - welds the W and the LD", but at this point
+                        // this is really the only logical thing to do
+    "W*EL": "we'll",    // overrides {well-^}
+    "W*L": "{well-^}",  // nicely consistent with W-L
+    "W*ED": "we'd",     // which frees up ...
+    "WAOED": "weed",    // drop *
+
+    "THERB": "they shall", // by default "they're"
+    "THEL": "they will",   // by default "they'll"
+    "TH*EL": "they'll",
     "TH*ED": "they'd",
 
-    // Plover pretty consistently uses -L for "'ll". In accordance with
-    // our "default to full form and add * for contraction" rule, change
-    // them all to "will".
-    // Plover is so consistent with this that TH-L gives "this'll",
-    // a pretty rare form:
+    // Plover is so consistent with using -L for "'ll"
+    // that TH-L gives "this'll", a pretty rare form:
     // THIS 'LL    1735
     // THIS WILL  31337
     // Compare
     // I 'LL   386926
     // I WILL  147058
-    "T-L": "it will",    // by default "it'll"
-    "THEL": "they will", // by default "they'll"
-    "TH*EL": "they'll",
     "TH-L": "this will", // by default "this'll"
     "THAL": "that will", // by default "that'll"
     "WHOL": "who will",
     "WHAL": "what will",
+
     "THABG": "that can", // misstroke for "thank"
-    "T-RB": "it shall",
-    "THERB": "they shall", // by default "they're"
 
     // Indicate purpose
     "STHAO": "so that",
@@ -2008,10 +2024,14 @@
     "ROEPL/H-F": "Rome",         // from "roam"
     "RURPB/H-F": "runner",       // from "return"
     "RUPBG/H-F": "running",      // from "rung"
+    "SHEL/H-F": "shell",         // from "she will" (custom)
     "SAOEUD/H-F": "sighed",      // from "side"
     "THA*UD/H-F": "thawed",      // from "that you'd" (custom)
     "TOEFRT/H-F": "toaster",     // from "effort to"
     "TOEFRTS/H-F": "toasters",
+    "WEBG/H-F": "webbing",       // from "we can" (custom)
+    "WELD/H-F": "weld",          // from "we would" (custom)
+    "WEL/H-F": "well",           // from "we will" (custom)
     "WHAEL/H-F": "whale",        // from "what he will" (custom)
 
     // ... from using -S when I should have used -Z
