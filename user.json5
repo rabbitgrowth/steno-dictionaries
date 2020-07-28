@@ -166,6 +166,11 @@
     "STORBG": "astonishing", // overrides "stork" (a bird)
     "STO*RBG": "stork",      // overrides "State of New York"
 
+    "SKWRUFRPL": "journalism",  // phonetic     ("jursm")
+    "SKWRUFRT": "journalist",   //              ("jurst")
+    "SKWROUFRPL": "journalism", // orthographic ("joursm")
+    "SKWROUFRT": "journalist",  //              ("jourst")
+
     "TPROUT": "figure out",
     "TPROUTS": "figures out",
     "TPROUTD": "figured out",
