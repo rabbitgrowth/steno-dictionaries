@@ -911,8 +911,7 @@
     // Pronoun + modal verb
     "KWR-BG": "I can", // misstroke for {,}
     "KWR-BGD": "I could",
-    "KWR-RB": "I shall", // Precedents for using -RB for "shall":
-                         // SHERB "she shall", WHORB "who shall"
+    "KWR-RB": "I shall",
     "KWR-RBD": "I should",
     "KWR-L": "I will",   // overrides "ideal" stroke #1
     "KWR-LD": "I would", // overrides "ideal" stroke #2
