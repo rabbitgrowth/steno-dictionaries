@@ -21,6 +21,7 @@
     "T-G": "thing",
 
     // Consistency with existing strokes
+    "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
     "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
     "SW-L": "as well",          // with SW-LS "as well as"
