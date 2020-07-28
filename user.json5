@@ -973,6 +973,8 @@
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
 
+    // Do the same for the other pronouns.
+    // (Strokes that already work are omitted for brevity.)
     "SHEL": "she will", // overrides "shell"
     "SH-L": "shell", // mnemonic: a shell is empty in the middle
     "SH*EL": "she'll", // overrides "Shel"
