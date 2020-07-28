@@ -999,7 +999,7 @@
     "WAOED": "weed",    // drop *
 
     "THERB": "they shall", // by default "they're"
-    "THEL": "they will", // by default "they'll"
+    "THEL": "they will",   // by default "they'll"
     "TH*EL": "they'll",
     "TH*ED": "they'd",
 
