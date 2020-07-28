@@ -729,6 +729,7 @@
     "HARLD": "hardly",          // use HAEURLD or HAR/OLD for "Harold"
     "HERD": "herd",             // use HAERD for "heard", like HAER for "hear"
     "SPWREBGS": "intersection", // cf. SPWREBGT "intersect"
+    "SKWRELS": "jealous",       // use -Z for "gels"
     "SKWRUF": "justify",        // cf. SKWRUFGS "justification"
     "HRAED": "lady",            // use HRAOED for "lead" (even when pronounced /lɛd/)
     "PHOEUD": "media",          // use PHROEUD for "employed"
@@ -1965,6 +1966,7 @@
     "HROUD/H-F": "allowed",      // from "loud"
     "T-PBS/H-F": "continues",    // from "continuous"
     "AOEUS/H-F": "eyes",         // from "ice"
+    "SKWRELS/H-F": "gels",       // from "jealous" (custom)
     "TKPWROES/H-F": "grows",     // from "gross"
     "HORS/H-F": "horrors",       // from "horse"
     "SKWREUGS/H-F": "jigs",      // from "magician" (custom)
