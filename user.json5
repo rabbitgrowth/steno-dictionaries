@@ -608,6 +608,7 @@
     // -LGS for -tional
     // Precedents: TPUPBLGS "functional", STAOULGS "constitutional"
     "SPRAEULGS": "inspirational", // cf. SPRAEUGS "inspiration"
+    "STPHAOULGS": "institutional",
 
     // Drop * and use AEUPB for -aken
     // Precedent: Plover now allows SPHAEUPB in addition to SPHA*EUPB for "mistaken"
