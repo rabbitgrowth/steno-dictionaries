@@ -223,6 +223,9 @@
     // Lengthen vowel for -y
     // Precedent: TPUPB "fun", TPAOUPB "funny"
     "HAOURPBG": "hungry",
+    // See also:
+    // HAOELT "healthy"
+    // SKWRAOELS "jealousy"
 
     // Compound words
     "PWAR/TERPBD": "bartender",
