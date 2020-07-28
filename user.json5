@@ -222,7 +222,6 @@
 
     // Lengthen vowel for -y
     // Precedent: TPUPB "fun", TPAOUPB "funny"
-    "HAO*ELT": "healthy", // beats HOEUFLT imo
     "HAOURPBG": "hungry",
     "SKWRAOELS": "jealousy", // from my SKWRELS "jealous"
 
