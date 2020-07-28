@@ -606,6 +606,7 @@
     "OEPBLD": "olden",
 
     // -LGS for -tional
+    // Precedents: TPUPBLGS "functional", STAOULGS "constitutional"
     "SPRAEULGS": "inspirational", // cf. SPRAEUGS "inspiration"
 
     // Drop * and use AEUPB for -aken
