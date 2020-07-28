@@ -1631,6 +1631,9 @@
     // Inflections
     "ART/KHRAEUTD": "articulated",
     "ART/KHRAEUGT": "articulating", // otherwise gives "art calculating"
+    "A/SRAEULD": "availed",
+    "A/SRAEULG": "availing",
+    "A/SRAEULS": "avails",
     "KAUPB/SAOELG": "concealing",
     "KAUPB/SAOELS": "conceals",
     "EPB/HAFPBD": "enhanced",
