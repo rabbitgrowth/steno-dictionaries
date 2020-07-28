@@ -138,6 +138,7 @@
 
     // Mash sounds together
     "SKP-PB": "and then",
+    "SKP-PBT": "and then the",
     "THRAFT": "at last", // cf. THRAOEFT "at least"
     "KPRA*EUPBS": "contemporaneous", // starless is "extraneous"
                                      // the standard KPRA*EURPBS minus -R
