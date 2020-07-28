@@ -2029,6 +2029,9 @@
     "THA*UD/H-F": "thawed",      // from "that you'd" (custom)
     "TOEFRT/H-F": "toaster",     // from "effort to"
     "TOEFRTS/H-F": "toasters",
+    "WEBG/H-F": "webbing",       // from "we can" (custom)
+    "WELD/H-F": "weld",          // from "we would" (custom)
+    "WEL/H-F": "well",           // from "we will" (custom)
     "WHAEL/H-F": "whale",        // from "what he will" (custom)
 
     // ... from using -S when I should have used -Z
