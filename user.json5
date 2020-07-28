@@ -911,18 +911,18 @@
     // Pronoun + modal verb
     "KWR-BG": "I can", // misstroke for {,}
     "KWR-BGD": "I could",
-    // "can I"    KEU already works
-    // "could I"  KOEU is "coy"
     "KWR-RB": "I shall", // Precedents for using -RB for "shall":
                          // SHERB "she shall", WHORB "who shall"
     "KWR-RBD": "I should",
+    "KWR-L": "I will",   // overrides "ideal" stroke #1
+    "KWR-LD": "I would", // overrides "ideal" stroke #2
+    // "I'll"     AOEUL already works
+    // "I'd"      AOEUD already works
+    // "can I"    KEU already works
+    // "could I"  KOEU is "coy"
     // "shall I"  just use SHAL/EU
     // "should I" SHOEU already works
-    "KWR-L": "I will",   // overrides "ideal" stroke #1
-    // "I'll"     AOEUL already works
     // "will I"   HREU {^ly} feels too canonical to override
-    "KWR-LD": "I would", // overrides "ideal" stroke #2
-    // "I'd"      AOEUD already works
     "WOEU": "would I", // by default "I would"
     "EUD": "idea", // "I-D"
                    // overrides "id" (psychoanalysis term)
@@ -932,16 +932,16 @@
 
     // "you can"    UBG already works
     // "you could"  UBGD already works
-    // "can you"    KU already works
-    // "could you"  KOU is "cow"
     "URB": "you shall", // by default "you're"
     // "you should" URBD already works
+    "UL": "you will",
+    // "you would"  ULD already works
+    "*UL": "you'll",
+    // "you'd"      *UD already works
+    // "can you"    KU already works
+    // "could you"  KOU is "cow"
     // "shall you"  too rare to care
     "SHOU": "should you", // misstroke for "somehow"
-    "UL": "you will",
-    "*UL": "you'll",
-    // "you would"  ULD already works
-    // "you'd"      *UD already works
     // "will you"   HRU already works
     // "would you"  WOU already works
 
