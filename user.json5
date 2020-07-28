@@ -954,22 +954,22 @@
     // use E for "he" as part of the EU/U/E trio.
     "EBG": "he can", // overrides "ebbing"
     "EBGD": "he could",
-    "KE": "can he", // by default "he can"
-    // "could he"  KOE is "co-"
     "ERB": "he shall",   // use HERB for "herb" (spell out silent H as in HOUR "hour")
     "ERBD": "he should", // and for "herbed" use ...
     "HERBD": "herbed",
-    // "shall he"  too rare to care
-    // "should he" SHOE is "show"
     "EL": "he will", // for "El", just keep on typing;
                      // chances are you'll get what you want:
                      // EL/PA/SOE        "El Paso"
                      // EL/SAL/SRA/TKOR  "El Salvador"
                      // EL/TPHEUPB/KWROE "El Nino"
-    // "he'll"     *EL already works
     // "he would"  ELD already works
+    // "he'll"     *EL already works
     "*ED": "he'd",   // which frees up ...
     "HAOED": "heed", // drop *
+    "KE": "can he", // by default "he can"
+    // "could he"  KOE is "co-"
+    // "shall he"  too rare to care
+    // "should he" SHOE is "show"
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
 
