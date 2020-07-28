@@ -973,7 +973,11 @@
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
 
+    "SHEL": "she will", // overrides "shell"
+    "SH-L": "shell", // mnemonic: a shell is empty in the middle
+    "SH*EL": "she'll", // overrides "Shel"
     "SH*ED": "she'd",
+
     // "it'd"  T*D already works
     "W*ED": "we'd",  // which frees up ...
     "WAOED": "weed", // drop *
