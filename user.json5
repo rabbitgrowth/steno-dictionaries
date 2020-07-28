@@ -223,7 +223,6 @@
     // Lengthen vowel for -y
     // Precedent: TPUPB "fun", TPAOUPB "funny"
     "HAOURPBG": "hungry",
-    "SKWRAOELS": "jealousy", // from my SKWRELS "jealous"
 
     // Compound words
     "PWAR/TERPBD": "bartender",
@@ -741,6 +740,7 @@
     "HERD": "herd",             // use HAERD for "heard", like HAER for "hear"
     "SPWREBGS": "intersection", // cf. SPWREBGT "intersect"
     "SKWRELS": "jealous",       // use -Z for "gels"
+    "SKWRAOELS": "jealousy",    // lengthen vowel for -y
     "SKWRUF": "justify",        // cf. SKWRUFGS "justification"
     "HRAED": "lady",            // use HRAOED for "lead" (even when pronounced /lɛd/)
     "PHOEUD": "media",          // use PHROEUD for "employed"
