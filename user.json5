@@ -76,6 +76,7 @@
     "SKWRERPBS": "generous",
     "TKPWRAEUFLT": "grateful", // TKPWRA*EUFL - * + -T
     "TKPWUPBS": "guns", // "beguns" is not a word
+    "HA*RT": "hearth", // overrides "Hart"
     "SPWREFT": "interest", // for when my brain malfunctions and I forget about TR
     "SPWREUBGT": "intricate",
     "PHRAL": "morale", // use PHORL for "moral"
