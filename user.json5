@@ -2015,6 +2015,7 @@
     "THA*UD/H-F": "thawed",      // from "that you'd" (custom)
     "TOEFRT/H-F": "toaster",     // from "effort to"
     "TOEFRTS/H-F": "toasters",
+    "SHEL/H-F": "shell",         // from "she will" (custom)
     "WHAEL/H-F": "whale",        // from "what he will" (custom)
 
     // ... from using -S when I should have used -Z
