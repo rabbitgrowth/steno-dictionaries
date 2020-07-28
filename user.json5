@@ -33,6 +33,8 @@
     "KP-PGS": "expectation",    // with KP-PT "expect"
     "TPREBGS": "for example",   // with TPREUPBS "for instance"
                                 //   use -Z for "frequents"
+    "HAPBT": "hasn't",          // with HAPBLT "has not"
+                                //   HAPBT "hasn't" + -L as bridge = "has not"
     "STK*EPB": "incident",      // with STKEPB "accident"
     "TERPGS": "interpretation", // with TERP "interpret"
     "OPB/WARD": "onward",       // with PWABG/WARD "backward"
