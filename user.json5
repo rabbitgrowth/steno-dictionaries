@@ -644,6 +644,7 @@
     "KPHOPB/WELT": "commonwealth",
     "WORT": "worth", // swap with "wort"
     "WO*RT": "wort",
+    "TWORT": "worth it",
     "KWRAOUT": "youth",
 
     // Drop * and use -LT for -tle
