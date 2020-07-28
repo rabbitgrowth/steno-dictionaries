@@ -548,14 +548,6 @@
     "PHAURB": "marsh",
     // These are the only two English words that end with -rsh.
 
-    // -PBLD for -lden
-    "PWHOEPBLD": "beholden",
-    "EPL/PWOEPBLD": "embolden",
-    "TKPWOEPBLD": "golden", // the only one I really care about
-                            // TKPWOELD/*EPB is just too awkward for
-                            // such a common word
-    "OEPBLD": "olden",
-
     // -F for -s-
     "AOUFR": "user", // use AUFR for {over^}
     "WAOEUFR": "wiser",
@@ -604,6 +596,14 @@
     "SOFRD": "sourced",
     "TRA/SREFRD": "traversed",
     "SREFRD": "versed",
+
+    // -PBLD for -lden
+    "PWHOEPBLD": "beholden",
+    "EPL/PWOEPBLD": "embolden",
+    "TKPWOEPBLD": "golden", // the only one I really care about
+                            // TKPWOELD/*EPB is just too awkward for
+                            // such a common word
+    "OEPBLD": "olden",
 
     // Drop * and use AEUPB for -aken
     // Precedent: Plover now allows SPHAEUPB in addition to SPHA*EUPB for "mistaken"
