@@ -72,6 +72,7 @@
     "ERPBT": "errant",
     "TPAEURLS": "failures", // "fairlies" is not a word
     "TPEPBGS": "fencing", // misstroke for "infection"
+    "TPHRAPBT": "flatten",
     "TPRAOEPBLS": "freelance",
     "SKWRERPBS": "generous",
     "TKPWRAEUFLT": "grateful", // TKPWRA*EUFL - * + -T
@@ -119,7 +120,6 @@
     // Phonetic alternatives to briefs
     "KUFPB": "cousin",          // to KUZ
     "TKEUS/SPEURT": "dispirit", // to STKPEURT
-    "TPHRAPBT": "flatten",      // to TPHRAFPB and TPHRAEPB
     "TPAOURPBL": "funeral",     // to TPAOUPBL
     "EUPB/SEPBT": "innocent",   // to TPH-PBT
                                 // use EUPB/SEFPBT for "incessant"
