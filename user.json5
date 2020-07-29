@@ -1605,6 +1605,7 @@
     "WHAOER": "what other",
     "TWH": "when it",
     "WHOER": "when other",
+    "WEUR": "which are", // use WAOEUR for "wire"
     "HR-F": "will have",
 
     // Plurals
