@@ -1665,8 +1665,8 @@
     "THOUS": "thousand",
 
     // Inflections
-    "ART/KHRAEUTD": "articulated",
-    "ART/KHRAEUGT": "articulating", // otherwise gives "art calculating"
+    "ART/KHRAEUTD": "articulated", // otherwise gives "art calculated"
+    "ART/KHRAEUGT": "articulating",
     "A/SRAEULD": "availed",
     "A/SRAEULG": "availing",
     "A/SRAEULS": "avails",
