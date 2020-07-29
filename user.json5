@@ -1598,7 +1598,10 @@
     "TPAS": "as if",
     "SKHEUPL": "ask him",
     "SKHER": "ask her",
-    "STPROFPBT": "in front of", // STPROPBT "in front" + TPROFPBT "front of"
+    "STPROFPBT": "in front of", //   STPRO PBT "in front"
+                                // +  TPROFPBT "front of"
+                                // -----------
+                                //   STPROFPBT "in front of"
     "T-T": "it the", // as in "making it the..."
     "TPHOBT": "not be",
     "SAUFP": "such a",
