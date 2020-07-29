@@ -864,8 +864,8 @@
     "KWR-PL": "I am", // overrides "I mean"
     "KWR*PL": "I mean",
     "KWR-PLT": "I am the",
-    // "I'm"       AOEUPL already works
-    // "I'm the"   AOEUPLT is "item"
+    // "I'm"        AOEUPL already works
+    // "I'm the"    AOEUPLT is "item"
     "KWR-FS": "I was", // overrides "why was"
     "KWR-FTS": "I was the",
     "UR": "you are",
@@ -874,26 +874,26 @@
     "*URT": "you're the",
     // "you aren't" URPBT already works
     "URPBLT": "you are not",
-    // "you were"  URP already works
+    // "you were"   URP already works
     "URPT": "you were the",
     "HES": "he is", // overrides "Hess"
     "HETS": "he is the",
-    // "he's"      HAOES already works
-    // "he's the"  HAOETS is "heats"
-    // "she is"    SHES already works
+    // "he's"       HAOES already works
+    // "he's the"   HAOETS is "heats"
+    // "she is"     SHES already works
     "SHETS": "she is the", // use SHAOETS for "sheets"
-    // "she's"     SHAOES already works
-    // "she's the" SHAOETS is "sheets"
+    // "she's"      SHAOES already works
+    // "she's the"  SHAOETS is "sheets"
     "T-S": "it is", // nicely symmetrical with ST "is it"
     "T-TS": "it is the",
-    // "it's"      T*S already works
+    // "it's"       T*S already works
     "T*TS": "it's the",
-    // "it was"    T-FS already works
+    // "it was"     T-FS already works
     "T-FTS": "it was the",
-    // "we are"    WER already works
+    // "we are"     WER already works
     "WERT": "we are the", // use WET/ER for "wetter"
     "W*ER": "we're", // or use WAOER
-    // "we're the" W*ERT is "weather"
+    // "we're the"  W*ERT is "weather"
     "THER": "they are",
     "THERT": "they are the",
     "TH*ER": "they're",
