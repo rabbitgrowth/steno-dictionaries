@@ -1637,6 +1637,7 @@
     "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
     "TPAOEUR/TPHRAOEUS": "fireflies",
     "TPOEUBGS": "focuses",
+    "HEUFT/ORPBS": "historians",
     "HOL/HROES": "hollows",
     "HOL/OES": "hollows",
     "SKWRUFSZ": "justices", // otherwise gives "justifieses" (SKWRUFZ + -S)
