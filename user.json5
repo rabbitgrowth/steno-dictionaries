@@ -1769,10 +1769,6 @@
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "TPHAOEBG": "technique", // add * for "anemic"
 
-    // Assign nicer stroke to word that's more common
-    "STPHUR": "ensure", // merges TPH and SH
-    "STPH*UR": "insure",
-
     // Existing abbreviations
     "TK-L": "download",    // dl
     "SKWR-P": "Japan",     // JP
@@ -1820,6 +1816,9 @@
     "WAU": "away",           // arbitrary
     "SHREPBD": "endless",    // SL as mirror image of -LS
     "SHREPBLD": "endlessly",
+    "STPHUR": "ensure",      // "N-shur" (TPH + SH)
+                             // overrides "insure"
+    "STPH*UR": "insure",
     "HOELT": "hotel",        // reverse stress or HOELT->HOTEL
     "TAOU": "in order to",   // a stronger "to"
     "KW-T": "quiet",         // when you speak quietly the vowels become harder to hear
