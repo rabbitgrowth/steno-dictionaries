@@ -1105,6 +1105,9 @@
     "KWROEBL": "I don't believe",
     "KWR-FL": "I feel",    // [f]ee[l]
     "KWROEFL": "I don't feel",
+    "KWR-GT": "I get",     // [g]e[t]
+    "KWROEGT": "I don't get",
+    "TKWROEGT": "I don't get it",
     "KWR-LG": "I like",    // [l]i[k]e
     "KWROELG": "I don't like",
     "KWR*FL": "I love",    // [l]o[v]e (* for inversion)
