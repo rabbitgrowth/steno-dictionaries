@@ -894,10 +894,14 @@
     "WERT": "we are the", // use WET/ER for "wetter"
     "W*ER": "we're", // or use WAOER
     // "we're the"  W*ERT is "weather"
+    "WERPBT": "we aren't",
+    "WERPBLT": "we are not",
     "THER": "they are",
     "THERT": "they are the",
     "TH*ER": "they're",
     "TH*ERT": "they're the",
+    "THERPBT": "they aren't",
+    "THERPBLT": "they are not",
 
     // Pronoun + have
     // Since KWROEU is "I don't" and KWROEUF is "I don't have",
