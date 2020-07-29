@@ -1137,7 +1137,7 @@
     // WHEU "when I"
     // WHU  "when you"
     // WHE  "when" (?!)
-    "TPE": "if he", // overrides "fe", which isn't a word
+    "TPE": "if he", // overrides "fe", which is not a word
     "WHE": "when he", // use WH for "when"
 
     // Reflexive pronouns
