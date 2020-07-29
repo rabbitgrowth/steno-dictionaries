@@ -1145,21 +1145,21 @@
     "SRO": "have to",
     "SROB": "have to be",      // you can keep going
     "SROBT": "have to be the", // and going
-    "STROB": "have to be", // STRO for "have to" is standard
+    "STROB": "have to be", // with the standard STRO "have to"
     "STROBT": "have to be the",
-    "THO": "had to", // there's still THOE for "though"
+    "THO": "had to", // use THOE for "though"
     "THOB": "had to be",
     "THOBT": "had to be the",
     "SKPO": "and to",
     "SKPOB": "and to be",
     "SKPOT": "and to the",
     "SKPOBT": "and to be the",
-    "STKPO": "and to", // just for completeness; SKPO feels cleaner
+    "STKPO": "and to", // although SKPO feels cleaner
     "STKPOB": "and to be",
     "STKPOT": "and to the",
     "STKPOBT": "and to be the",
     "TKPWO": "go to", // use TKPW for "go"
-    "TKPWOG": "going to", // TKPWOS "goes to" and TWOEPBT "went to" already work
+    "TKPWOG": "going to", // TKPWOS "goes to", TWOEPBT "went to" already work
     "TKPWOBG": "going to be",
     "TKPWOBGT": "going to be the",
     "STKPWOG": "is going to",
@@ -1172,7 +1172,7 @@
     "TPWOB": "about to be", // needs T to avoid conflict with "bob"
     "TOFS": "was to",
     "TOFBS": "was to be",
-    "TOFBTS": "was to be the", // tricky to type, just for completeness
+    "TOFBTS": "was to be the", // requires finger twisting
     "STKWRO": "just to", // with my SKWR "just"
     "STKWROB": "just to be",
     "STKWROT": "just to the", // ("just to the right of the...")
@@ -1181,7 +1181,7 @@
     "TROEFR": "refer to",
     "TROEFRS": "refers to",
     "TOEFRTS": "efforts to", // pluralize the right word
-    "TWAOEU": "way to", // TWAOEUS already taken by "twice"
+    "TWAOEU": "way to", // TWAOEUS is "twice"
     "TAOUFBD": "used to be",
 
     // -F for "if" (instead of "of")
