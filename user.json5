@@ -1132,14 +1132,6 @@
     "UGT": "you get",
     "UZ": "you see",
 
-    // EU "I", U "you", E "he"
-    // The standard strokes are inconsistent:
-    // WHEU "when I"
-    // WHU  "when you"
-    // WHE  "when" (?!)
-    "TPE": "if he", // overrides "fe", which is not a word
-    "WHE": "when he", // use WH for "when"
-
     // Reflexive pronouns
     "O*URS": "ourselves", // "ourself" is too rare
     "OUR/SEFL": "ourself",
@@ -1606,6 +1598,7 @@
     "TPAS": "as if",
     "SKHEUPL": "ask him",
     "SKHER": "ask her",
+    "TPE": "if he", // overrides "fe", which is not a word
     "STPROFPBT": "in front of", //   STPRO PBT "in front"
                                 // +  TPROFPBT "front of"
                                 // -----------
@@ -1614,6 +1607,7 @@
     "TPHOBT": "not be",
     "SAUFP": "such a",
     "WHAOER": "what other",
+    "WHE": "when he", // use WH for "when"
     "TWH": "when it",
     "WHOER": "when other",
     "WEUR": "which are", // WEUS  "which is"
