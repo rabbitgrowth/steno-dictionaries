@@ -1898,6 +1898,14 @@
     "STHAED": "said that", // Plover has SED and SAEUD for "said"
                            // but only STHAEUD (SAEUD + THA) for "said that"
 
+    // Despite that
+    "RARLS": "regardless", // RARLD feels like "rarold" or "regardly"
+    "R-F": "regardless of",
+    "R-FT": "regardless of the", // RAFRLTS is too clumsy
+    "EUR/RARLS": "irregardless",
+    "EUR/R-F": "irregardless of",
+    "EUR/R-FT": "irregardless of the",
+
     // Comma + open quote + capitalization after reporting verb
     // Precedents: SAEU/SAEU   "say, \"{^}{-|}"
     //             SAEUD/SAEUD "said, \"{^}{-|}"
