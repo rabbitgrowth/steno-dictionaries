@@ -874,6 +874,9 @@
     "*URT": "you're the",
     // "you aren't" URPBT already works
     "URPBLT": "you are not",
+    "-RPBT": "aren't", // make stacking form work too
+                       // makes sense because both R and -R are "are"
+    "-RPBLT": "are not",
     // "you were"   URP already works
     "URPT": "you were the",
     "HES": "he is", // overrides "Hess"
