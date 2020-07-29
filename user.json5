@@ -1700,6 +1700,9 @@
     "RE/SEUFTD": "resisted",
     "RE/SEUFTS": "resists",
     "SHREUD/TPAOEUG": "solidifying",
+
+    "RAEUPLD": "remained", // overrides "Raymond"
+    "RA*EUPLD": "Raymond",
     "SKAOEGD": "succeeding", // otherwise gives "skiinged"
 
     // -G as a shortcut for -BG/-G
@@ -2081,6 +2084,7 @@
     "PAEURS/H-F": "Paris",       // from "pairs"
     "PAGS/H-F": "passing",       // from "passion"
     "PREGS/H-F": "pressing",     // from "oppression"
+    "RAEUPLD/H-F": "Raymond",    // from "remained" (custom)
     "REUPL/H-F": "ripple",       // from "rim"
     "REUPLS/H-F": "ripples",
     "RAOEUFL/H-F": "rival",      // from "rifle"
