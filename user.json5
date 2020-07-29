@@ -1899,8 +1899,8 @@
                            // but only STHAEUD (SAEUD + THA) for "said that"
 
     // Despite that
-    "RARLS": "regardless", // RARLD feels like "rarold" or "regardly"
-    "R-F": "regardless of",
+    "RARLS": "regardless",       // RARLD feels like "rarold" or "regardly"
+    "R-F": "regardless of",      // RAFRLS is not bad but
     "R-FT": "regardless of the", // RAFRLTS is too clumsy
     "EUR/RARLS": "irregardless",
     "EUR/R-F": "irregardless of",
