@@ -1812,7 +1812,7 @@
     // Special rules
     "SKW": "and",            // SKP with P one tile down
     "AR": "area",            // first two letters
-    "TAL": "at all",         // two outer letters stripped
+    "TAL": "at all",         // since TAUL is "tall"
     "WAU": "away",           // arbitrary
     "SHREPBD": "endless",    // SL as mirror image of -LS
     "SHREPBLD": "endlessly",
