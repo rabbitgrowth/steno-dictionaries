@@ -1718,8 +1718,8 @@
 
     // Use -PBLT for "not" even when there's no -n't form
     // Precedent: KWR-PBLT "why not"
-    "SKP-PBLT": "and not", // there's no "andn't"
-    "ORPBLT": "or not",    // there's no "orn't"
+    "SKP-PBLT": "and not",  // there's no "andn't"
+    "ORPBLT": "or not",     // there's no "orn't"
     "PHAEUPBLT": "may not", // there's no "mayn't"
 
     // Don't capitalize
