@@ -1688,6 +1688,7 @@
     "RE/SEUFTD": "resisted",
     "RE/SEUFTS": "resists",
     "SHREUD/TPAOEUG": "solidifying",
+    "SKAOEGD": "succeeding", // otherwise gives "skiinged"
 
     // -G as a shortcut for -BG/-G
     // You can't fold in -G when the verb already ends with -BG.
