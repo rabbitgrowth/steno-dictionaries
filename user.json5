@@ -872,6 +872,8 @@
     "URT": "you are the",
     "*UR": "you're",
     "*URT": "you're the",
+    // "you aren't" URPBT already works
+    "URPBLT": "you are not",
     // "you were"  URP already works
     "URPT": "you were the",
     "HES": "he is", // overrides "Hess"
