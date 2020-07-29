@@ -1166,6 +1166,8 @@
     "STKPWOBG": "is going to be",
     "STKPWOBGT": "is going to be the",
     "THOU": "how to", // overrides "how it"
+                      // HOW TO  183508
+                      // HOW IT   46993
     "THOUB": "how to be",
     "THOUBT": "how to be the",
     "TPWO": "about to",
