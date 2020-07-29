@@ -1720,6 +1720,7 @@
     // Precedent: KWR-PBLT "why not"
     "SKP-PBLT": "and not", // there's no "andn't"
     "ORPBLT": "or not",    // there's no "orn't"
+    "PHAEUPBLT": "may not", // there's no "mayn't"
 
     // Don't capitalize
     "TKAO*US": "dews",
