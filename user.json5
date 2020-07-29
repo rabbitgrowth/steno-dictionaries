@@ -1710,6 +1710,7 @@
     // Fold in -T for -ed if the verb already ends with -d
     // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
     "ATD": "added",
+    "TKEFTD": "defended",
     "EPBTD": "ended",
     "TKPWAOEUTD": "guided",
     "HAPBTD": "handed",
