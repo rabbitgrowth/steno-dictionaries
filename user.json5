@@ -1094,12 +1094,6 @@
                   // use SKWRA for {^a}
     // "I know"       KWR-PB  already works
     // "I don't know" KWROEPB already works
-    "KWR-PBG": "I think",  // thi[nk]
-    "KWROEPBG": "I don't think",
-    "KWR-PBT": "I want",   // wa[nt]
-    "KWROEPBT": "I don't want",
-    "KWR-LG": "I like",    // [l]i[k]e
-    "KWROELG": "I don't like",
     "KWR-FD": "I find",    // [f]in[d]
     "KWROEFD": "I don't find", // Plover uses KWROFPBD but that PB feels
                                // unnecessary; "find" is by far the most
@@ -1111,8 +1105,14 @@
     "KWROEBL": "I don't believe",
     "KWR-FL": "I feel",    // [f]ee[l]
     "KWROEFL": "I don't feel",
+    "KWR-LG": "I like",    // [l]i[k]e
+    "KWROELG": "I don't like",
     "KWR*FL": "I love",    // [l]o[v]e (* for inversion)
     "KWRO*EFL": "I don't love",
+    "KWR-PBG": "I think",  // thi[nk]
+    "KWROEPBG": "I don't think",
+    "KWR-PBT": "I want",   // wa[nt]
+    "KWROEPBT": "I don't want",
     "KWR-Z": "I see",      // Z /ziː/ ~= "see"
     "KWROEZ": "I don't see",
     // KWR-F  "I have" has been defined above
