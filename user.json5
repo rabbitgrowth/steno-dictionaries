@@ -1146,6 +1146,9 @@
     "STKPWOG": "is going to",
     "STKPWOBG": "is going to be",
     "STKPWOBGT": "is going to be the",
+    "THOU": "how to", // overrides "how it"
+    "THOUB": "how to be",
+    "THOUBT": "how to be the",
     "TPWO": "about to",
     "TPWOB": "about to be", // needs T to avoid conflict with "bob"
     "TOFS": "was to",
