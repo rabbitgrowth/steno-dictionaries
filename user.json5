@@ -4,7 +4,7 @@
     "TK-FS": "difference", // prevents awkward 2x2 block
                            // (2x3 if counting EU) in TKEUFRPBS
     "TK-FT": "different",
-    "-FD": "find", // make stacking form work too
+    "-FD": "find",
     "T-FD": "find it",
     "TP-D": "friend", // overrides "pharmacodynamic"
     "TP-DZ": "friends",
