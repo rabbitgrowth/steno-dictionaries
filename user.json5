@@ -1126,6 +1126,10 @@
     "KWR-BZ": "I say",
     "KWR-BS": "I said",
 
+    // Make the verbs work with other pronouns
+    "UGT": "you get",
+    "UZ": "you see",
+
     // EU "I", U "you", E "he"
     // The standard strokes are inconsistent:
     // WHEU "when I"
