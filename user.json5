@@ -1821,7 +1821,7 @@
     "STPH*UR": "insure",
     "HOELT": "hotel",        // reverse stress or HOELT->HOTEL
     "TAOU": "in order to",   // a stronger "to"
-    "KW-T": "quiet",         // when you speak quietly the vowels become harder to hear
+    "KW-T": "quiet",         // KWAOEUT ("quite") is too loud
 
     // Double to join with "and"
     "OEFR/OEFR": "over and over",
