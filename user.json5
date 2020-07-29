@@ -17,7 +17,8 @@
     "W-F": "one of",
     "W-FT": "one of the",
     "T-G": "thing",
-    "W-D": "window", // overrides {^ed with}
+    "W-D": "window",   // overrides {^ed with}
+    "W*DZ": "Windows", // just for consistency
 
     "-TS": "its",
     "*TS": "itself",
