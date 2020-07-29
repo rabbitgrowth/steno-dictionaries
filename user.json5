@@ -1142,7 +1142,6 @@
                     // noise when typing words like TPE/KUPBD "fecund":
                     // "if he" -> "fecund" instead of "fe" -> "fecund"
     "WHE": "when he", // use WH for "when"
-    "EBS": "he said", // use EBZ for "ebbs"
 
     // Reflexive pronouns
     "O*URS": "ourselves", // "ourself" is too rare
