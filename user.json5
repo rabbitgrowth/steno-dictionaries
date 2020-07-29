@@ -1138,9 +1138,6 @@
     // WHU  "when you"
     // WHE  "when" (?!)
     "TPE": "if he", // overrides "fe", which isn't a word
-                    // the only downside I can think of is that it causes
-                    // noise when typing words like TPE/KUPBD "fecund":
-                    // "if he" -> "fecund" instead of "fe" -> "fecund"
     "WHE": "when he", // use WH for "when"
 
     // Reflexive pronouns
