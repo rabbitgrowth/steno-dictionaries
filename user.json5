@@ -865,7 +865,8 @@
     "KWR*PL": "I mean",
     "KWR-PLT": "I am the",
     // "I'm"        AOEUPL already works
-    // "I'm the"    AOEUPLT is "item"
+    "AOEUPLT": "I'm the", // overrides "item"
+    "TEPL": "item",
     "KWR-FS": "I was", // overrides "why was"
     "KWR-FTS": "I was the",
     "UR": "you are",
@@ -2074,6 +2075,7 @@
     "TKPWUPB/H-F": "gun",        // from "begun"
     "HARBG/H-F": "hacker",       // from "hark"
     "HARBGS/H-F": "hackers",
+    "AOEUPLT/H-F": "item",       // from "I'm the" (custom)
     "PHAEPB/H-F": "mean",        // from "many"
     "PHEUGS/H-F": "missing",     // from "mission"
     "PAEURS/H-F": "Paris",       // from "pairs"
