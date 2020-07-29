@@ -1106,6 +1106,8 @@
                                // I DO N'T FIND  1199
                                // I DO N'T FEED    30
                                // I DO N'T FIELD    3
+    "KWR-BL": "I believe", // [b]e[l]ieve
+    "KWROEBL": "I don't believe",
     "KWR-FL": "I feel",   // [f]ee[l]
     "KWROEFL": "I don't feel",
     "KWR*FL": "I love",   // [l]o[v]e (* for inversion)
