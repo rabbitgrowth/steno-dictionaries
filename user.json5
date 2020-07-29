@@ -2075,7 +2075,6 @@
     "TKPWUPB/H-F": "gun",        // from "begun"
     "HARBG/H-F": "hacker",       // from "hark"
     "HARBGS/H-F": "hackers",
-    "AOEUPLT/H-F": "item",       // from "I'm the" (custom)
     "PHAEPB/H-F": "mean",        // from "many"
     "PHEUGS/H-F": "missing",     // from "mission"
     "PAEURS/H-F": "Paris",       // from "pairs"
@@ -2089,14 +2088,16 @@
     "ROEPL/H-F": "Rome",         // from "roam"
     "RURPB/H-F": "runner",       // from "return"
     "RUPBG/H-F": "running",      // from "rung"
-    "SHEL/H-F": "shell",         // from "she will" (custom)
     "SAOEUD/H-F": "sighed",      // from "side"
-    "THA*UD/H-F": "thawed",      // from "that you'd" (custom)
     "TOEFRT/H-F": "toaster",     // from "effort to"
     "TOEFRTS/H-F": "toasters",
-    "WEBG/H-F": "webbing",       // from "we can" (custom)
-    "WELD/H-F": "weld",          // from "we would" (custom)
-    "WEL/H-F": "well",           // from "we will" (custom)
+
+    "AOEUPLT/H-F": "item",       // from "I'm the"      (custom)
+    "SHEL/H-F": "shell",         // from "she will"     (custom)
+    "WEBG/H-F": "webbing",       // from "we can"       (custom)
+    "WEL/H-F": "well",           // from "we will"      (custom)
+    "WELD/H-F": "weld",          // from "we would"     (custom)
+    "THA*UD/H-F": "thawed",      // from "that you'd"   (custom)
     "WHAEL/H-F": "whale",        // from "what he will" (custom)
 
     // ... from using -S when I should have used -Z
