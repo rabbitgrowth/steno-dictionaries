@@ -1152,9 +1152,11 @@
     "THOBT": "had to be the",
     "SKPO": "and to",
     "SKPOB": "and to be",
+    "SKPOT": "and to the",
     "SKPOBT": "and to be the",
     "STKPO": "and to", // just for completeness; SKPO feels cleaner
     "STKPOB": "and to be",
+    "STKPOT": "and to the",
     "STKPOBT": "and to be the",
     "TKPWO": "go to", // use TKPW for "go"
     "TKPWOG": "going to", // TKPWOS "goes to" and TWOEPBT "went to" already work
@@ -1173,6 +1175,7 @@
     "TOFBTS": "was to be the", // tricky to type, just for completeness
     "STKWRO": "just to", // with my SKWR "just"
     "STKWROB": "just to be",
+    "STKWROT": "just to the", // ("just to the right of the...")
     "STKWROBT": "just to be the",
     "TOBT": "to be the",
     "TROEFR": "refer to",
