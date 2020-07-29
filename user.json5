@@ -1902,9 +1902,9 @@
     "RARLS": "regardless",       // RARLD feels like "rarold" or "regardly"
     "R-F": "regardless of",      // RAFRLS is not bad but
     "R-FT": "regardless of the", // RAFRLTS is too clumsy
-    "EUR/RARLS": "irregardless",
-    "EUR/R-F": "irregardless of",
-    "EUR/R-FT": "irregardless of the",
+    "RA*RLS": "irregardless",
+    "R*F": "irregardless of", // overrides "reticular formation"
+    "R*FT": "irregardless of the",
 
     // Comma + open quote + capitalization after reporting verb
     // Precedents: SAEU/SAEU   "say, \"{^}{-|}"
