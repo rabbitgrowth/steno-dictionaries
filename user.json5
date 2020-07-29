@@ -22,11 +22,11 @@
     "*TS": "itself",
     "PW-TS": "about its",
     "AULTS": "all its",
-    "SKP-TS": "and its",
+    "SKP-TS": "and its", // overrides {^s and the}
     "PWAUTS": "because its",
     "TP-RTS": "for its",
     "TPR-TS": "from its",
-    "SR-TS": "have its",
+    "SR-TS": "have its", // overrides "very truly yours,"
     "TP-TS": "if its",
     "TPHAOTS": "into its",
     "OPBTS": "on its",
