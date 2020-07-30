@@ -2137,6 +2137,7 @@
     "PREUPBS/H-F": "principles", // from "prince"
     "SPHRAOEUS/H-F": "supplies", // from "splice"
     "TERS/H-F": "terrors",       // from "terse"
+    "THEURS/H-F": "thinkers",    // from "thirst"
 
     // Make error recovery stroke do nothing on its own
     "H-F": "{#}",
