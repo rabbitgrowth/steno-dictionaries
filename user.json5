@@ -1668,13 +1668,13 @@
     // But always use -Z for -ze. For example:
     // SAOEUZ "size"
     // SAOEUS "sighs"
-    "ROES": "rose", // swap with "rows"
-    "ROEZ": "rows",
     "AOEUS": "ice",  // already works
     "AOEUZ": "eyes", // overrides {^ize}
     "EUZ": "{^ize}",
     "TPHREBGS": "flex",   // already works
     "TPHREBGZ": "flecks", // use TPHRETS for "reflects"
+    "ROES": "rose", // swap with "rows"
+    "ROEZ": "rows",
     // When there's no conflict, prefer -S over -Z because it's easier
     // to type.
     "STKPAOEUS": "despise",
