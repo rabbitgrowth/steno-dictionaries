@@ -371,6 +371,8 @@
     "PHEUFT/KWROULS": "mysteriously",
     "TPHAOELT": "neatly",
     "PRAOEUFLT": "privately",
+    "SALD": "sadly",  // overrides "salad"
+    "SAELD": "salad", // AE for /æ/
     "SREUFLD": "vividly",
 
     // ... or use HR if -L is already used
