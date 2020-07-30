@@ -423,7 +423,7 @@
     "SPWAOE": "indie",
     "SPWEUFRPBS": "indifference",
     "SPWEUFRPBT": "indifferent",
-    "SPWRET": "indirect",
+    "SPWRET": "indirect", // see also STKRET
     "SPWRELT": "indirectly",
     "SPWAORS": "indoors",
     "SPWAOUS": "induce",
@@ -1783,7 +1783,7 @@
     "SPOB": "impossible",
     "SKPHRAOET": "incomplete",
     "SKREBGT": "incorrect",
-    "STKRET": "indirect",
+    "STKRET": "indirect", // see also SPWRET
     "STKRELT": "indirectly",
     "SABL": "unable",
     "STPAEUR": "unfair",
