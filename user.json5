@@ -1659,10 +1659,9 @@
     // In general, fold in -S to minimize the number of strokes:
     // KATS  "cats" (as opposed to KAT/-S)
     // TKOGS "dogs" (as opposed to TKOG/-S)
-    // ...
-    // When there's a conflict, use -S for -ce or -se (which forms an
-    // integral part of the word) and -Z for -s (which is a removable
-    // suffix). Mnemonic: -Z is further away and feels more detachable.
+    // When there's a conflict, use -S when the sound it represents
+    // forms an integral part of the word, and -Z for the removable
+    // suffix -s. Mnemonic: -Z is further away and feels detachable.
     // For example:
     // TPHOES "nose"
     // TPHOEZ "knows"
