@@ -1779,14 +1779,18 @@
     "STPHOL": "abnormal",
     "SHRAOEL": "illegal",
     "SP-F": "imperfect",
+    "SP-FL": "imperfectly",
     "SP-FGS": "imperfection",
     "SPOB": "impossible",
+    "SPOBL": "impossibly",
     "SKPHRAOET": "incomplete",
     "SKREBGT": "incorrect",
     "STKRET": "indirect", // see also SPWRET
     "STKRELT": "indirectly",
     "SABL": "unable",
     "STPAEUR": "unfair",
+    "STPAEURL": "unfairly", // misstroke for "fairly"
+    "STPAEURPBS": "unfairness",
 
     // Use -PBLT for "not" even when there's no -n't form
     // Precedent: KWR-PBLT "why not"
