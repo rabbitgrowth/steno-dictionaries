@@ -6,8 +6,9 @@
     "TK-FT": "different",
     "-FD": "find",
     "T-FD": "find it",
-    "TP-D": "friend", // overrides "pharmacodynamic"
-    "TP-DZ": "friends",
+    "TP-D": "found", // overrides "pharmacodynamic"
+    "-FRD": "friend",
+    "-FRDZ": "friends",
     "-GT": "get",
     "-GD": "good",
     "-LG": "like", // make stacking form work too
