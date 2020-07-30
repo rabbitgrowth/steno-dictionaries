@@ -1605,6 +1605,7 @@
     // Miscellaneous phrasing strokes
     "PWHOU": "about how",
     "PWU": "about you", // use PWUT for "but"
+    "TPHEUFT": "any of the", // use EUFT for {^ist}
     "TPAS": "as if",
     "SKHEUPL": "ask him",
     "SKHER": "ask her",
