@@ -1675,8 +1675,8 @@
     "TPHREBGZ": "flecks", // use TPHRETS for "reflects"
     "ROES": "rose", // swap with "rows"
     "ROEZ": "rows",
-    // When there's no conflict, prefer -S over -Z because it's easier
-    // to type.
+    // When there's no conflict, prefer -S over -Z.
+    // It's just easier to type.
     "STKPAOEUS": "despise",
     "SKHRAUS": "Santa Claus",
     "THOUS": "thousand",
