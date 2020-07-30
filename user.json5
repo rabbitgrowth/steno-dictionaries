@@ -1670,9 +1670,11 @@
     // SAOEUS "sighs"
     "ROES": "rose", // swap with "rows"
     "ROEZ": "rows",
-    "AOEUZ": "eyes", // overrides {^ize}
+    "AOEUZ": "eyes", // vs AOEUS "ice"
+                     // overrides {^ize}
     "EUZ": "{^ize}",
-    "TPHREBGZ": "flecks", // use TPHRETS for "reflects"
+    "TPHREBGZ": "flecks", // vs TPHREBGS "flex"
+                          // use TPHRETS for "reflects"
     // When there's no conflict, prefer -S over -Z because it's easier
     // to type.
     "STKPAOEUS": "despise",
