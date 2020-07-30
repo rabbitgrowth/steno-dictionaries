@@ -1673,6 +1673,7 @@
     "ROEZ": "rows",
     "AOEUZ": "eyes", // overrides {^ize}
     "EUZ": "{^ize}",
+    "TPHREBGZ": "flecks", // use TPHRETS for "reflects"
     // When there's no conflict, prefer -S over -Z because it's easier
     // to type.
     "STKPAOEUS": "despise",
@@ -2112,6 +2113,7 @@
     "HROUD/H-F": "allowed",      // from "loud"
     "T-PBS/H-F": "continues",    // from "continuous"
     "AOEUS/H-F": "eyes",         // from "ice"
+    "TPHREBGS/H-F": "flecks",    // from "flex"
     "SKWRELS/H-F": "gels",       // from "jealous" (custom)
     "TKPWROES/H-F": "grows",     // from "gross"
     "HORS/H-F": "horrors",       // from "horse"
