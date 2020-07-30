@@ -666,6 +666,8 @@
     "PHETSDZ": "methods", // pinky training time
     "PHOUT": "mouth",
     "TRUT": "truth", // from TR*UT; TRAOUT (from TRAO*UT) already works
+    "TRU": "true",   // for consistency
+    "TRUL": "truly",
     "UPBD/TPHAOET": "underneath",
     "WELT": "wealth", // swap with "welt"
     "W*ELT": "welt",
@@ -1865,7 +1867,6 @@
     "HOELT": "hotel",        // reverse stress or HOELT->HOTEL
     "TAOU": "in order to",   // a stronger "to"
     "KW-T": "quiet",         // KWAOEUT ("quite") is too loud
-    "TRU": "true",           // simplify TRAOU
 
     // Double to join with "and"
     "OEFR/OEFR": "over and over",
