@@ -2123,6 +2123,9 @@
     "SPHRAOEUS/H-F": "supplies", // from "splice"
     "TERS/H-F": "terrors",       // from "terse"
 
+    // Make error recovery stroke do nothing on its own
+    "H-F": "{#}",
+
     // Use same stroke to change to British spelling
     "PWHAEUFR/H-F": "behaviour",
     "KHRARPL/H-F": "clamour",
