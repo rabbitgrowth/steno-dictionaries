@@ -59,6 +59,7 @@
     "TERPGS": "interpretation", // with TERP "interpret"
     "OPB/WARD": "onward",       // with PWABG/WARD "backward"
     "ORPB": "origin",           // with ORPBL "original"
+    "P-FGS": "perfection",      // with P-F "perfect"
     "PROEUFD": "processed",     // with PROEUS "process", PROEUFG "processing"
     "RAEUGSZ": "regulations",   // with RAEUGS "regulation"
     "R*URPB": "runner",         // with R*UPBG "running"
@@ -1765,6 +1766,7 @@
     "STPHOL": "abnormal",
     "SHRAOEL": "illegal",
     "SP-F": "imperfect",
+    "SP-FGS": "imperfection",
     "SPOB": "impossible",
     "SKPHRAOET": "incomplete",
     "SKREBGT": "incorrect",
