@@ -1142,9 +1142,17 @@
     "KWR-BZ": "I say",
     "KWR-BS": "I said",
 
-    // Make the verbs work with other pronouns
-    "UGT": "you get",
+    // Stack the verbs with other words
     "UZ": "you see",
+    "TOZ": "to see",
+    "KWR-BGZ": "I can see",
+    "UBGZ": "you can see",
+    "EBGZ": "he can see",
+    "SHEBGZ": "she can see",
+    "WEBGZ": "we can see",
+    "THEBGZ": "they can see",
+
+    "UGT": "you get",
 
     // Reflexive pronouns
     "O*URS": "ourselves", // "ourself" is too rare
