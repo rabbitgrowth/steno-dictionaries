@@ -1783,6 +1783,8 @@
     "SPOB": "impossible",
     "SKPHRAOET": "incomplete",
     "SKREBGT": "incorrect",
+    "STKRET": "indirect",
+    "STKRELT": "indirectly",
     "SABL": "unable",
     "STPAEUR": "unfair",
 
