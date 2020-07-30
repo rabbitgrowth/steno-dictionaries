@@ -1153,6 +1153,7 @@
     "THEBGZ": "they can see",
 
     "UGT": "you get",
+    "TOGT": "to get", // use T-GT for "together"
 
     // Reflexive pronouns
     "O*URS": "ourselves", // "ourself" is too rare
