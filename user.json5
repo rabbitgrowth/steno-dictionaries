@@ -7,8 +7,8 @@
     "-FD": "find",
     "T-FD": "find it",
     "TP-D": "found", // overrides "pharmacodynamic"
-    "-FRD": "friend",
-    "-FRDZ": "friends",
+    "TPR-D": "friend", // misstroke for "interested"
+    "TPR-DZ": "friends",
     "-GT": "get",
     "-GD": "good",
     "-LG": "like", // make stacking form work too
