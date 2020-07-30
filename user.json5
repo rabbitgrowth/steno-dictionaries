@@ -1822,6 +1822,7 @@
     "PHO": "month",        // mo
     "PH-FT": "movement",   // mvt
     "PREF": "previous",    // prev
+    "PREFL": "previously",
     "SEBG": "second",      // sec
     "S*EBG": "sec",
     "T-GT": "together",    // tgt
