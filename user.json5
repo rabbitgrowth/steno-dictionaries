@@ -1865,6 +1865,7 @@
     "HOELT": "hotel",        // reverse stress or HOELT->HOTEL
     "TAOU": "in order to",   // a stronger "to"
     "KW-T": "quiet",         // KWAOEUT ("quite") is too loud
+    "TRU": "true",           // simplify TRAOU
 
     // Double to join with "and"
     "OEFR/OEFR": "over and over",
