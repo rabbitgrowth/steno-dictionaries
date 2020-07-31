@@ -1649,6 +1649,9 @@
     "TPHOBT": "not be",
     "SAUFP": "such a",
     "THERZ": "these are",
+    "WHABG": "what can", // "what could/shall/should/will/would" all work
+                         // swap with "whack"
+    "WHA*BG": "whack",
     "WHAOER": "what other",
     "WHE": "when he", // use WH for "when"
     "TWH": "when it",
@@ -2137,6 +2140,7 @@
     "TAOEUD/H-F": "tied",        // from "tide"
     "TOEFRT/H-F": "toaster",     // from "effort to"
     "TOEFRTS/H-F": "toasters",
+    "WHABG/H-F": "whack",        // from "what can" (custom)
 
     "AOEUPLT/H-F": "item",       // from "I'm the"      (custom)
     "SHEL/H-F": "shell",         // from "she will"     (custom)
