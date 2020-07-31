@@ -1905,6 +1905,7 @@
     "TH-LT": "{^~|'}", // close single quote
 
     // Commands
+    "TK-LG": "{^^}", // TK-LS but vertically aligned
     "TPHAOP": "{#}", // JUJ/(no-op)/*MT -> judgement
     "SK-GS": "{*?}", // retroactively add space
                      // use S/SK-G for "is asking"
