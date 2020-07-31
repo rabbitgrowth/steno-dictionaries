@@ -808,6 +808,7 @@
     "SKWRUF": "justify",        // cf. SKWRUFGS "justification"
     "HRAED": "lady",            // use HRAOED for "lead" (even when pronounced /lɛd/)
     "PHOEUD": "media",          // use PHROEUD for "employed"
+    "TPOPB": "phenomenon",      // overrides "phon" (unit of loudness)
     "SKOLGS": "psychologist",   // "psychologies" is too rare
     "REUPBD": "remind",         // like HEUPBD "behind"
     "ROPBT": "rotten",
