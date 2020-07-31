@@ -2049,6 +2049,13 @@
     "TPO*EUR": "foyer",
     "TPOEURT": "inferiority",
 
+    // Godparenthood
+    "TKPWOD/PARPBT": "godparent",
+    "TKPWOD/KHAOEULD": "godchild",
+    "TKPWOD/KHEURPB": "godchildren",
+    "TKPWOD/SOPB": "godson",
+    "TKPWOD/TKAURT": "goddaughter", // TKPWOD/TKAUR already works
+
     // Fear
     "HOR": "horror", // drop the final schwa
     "TER": "terror",
