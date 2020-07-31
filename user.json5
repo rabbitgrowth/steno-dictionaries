@@ -1,6 +1,9 @@
 {
 
     // Skeletal briefs for common words
+    "PW-RT": "better", // since PWERT is "Bert" and PW*ERT is "berth"
+                       // and I don't want to alter the vowel (PWOERT),
+                       // so just omit the vowel
     "TK-FS": "difference", // prevents awkward 2x2 block
                            // (2x3 if counting EU) in TKEUFRPBS
     "TK-FT": "different",
@@ -156,7 +159,6 @@
     "SEUFRT": "sister",         // to ST-R
 
     // Don't alter vowel
-    "PWERT": "better", // double for "Bert"; starred is "berth"
     "KAERT": "carrot", // AE for /æ/ since KART is "cart"
                        // just fingerspell CART
     "KRERPBT": "century", // use STR for "center"
