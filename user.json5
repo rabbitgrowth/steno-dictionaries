@@ -1276,6 +1276,8 @@
     "TPHA": "in a",   // TPH-T "in the"
     "WA": "with a",   // W-T   "with the"
 
+    "RA": "are a",  // swap with "Ra"
+    "RA*": "Ra",
     "SA*": "as a",  // think "is + * = as" or "za"
     "S*T": "as the",
     "TA": "at a",   // forms a nice pair with TE "at the"
