@@ -620,7 +620,8 @@
     "THREPBD": "threatened",
 
     // URT for -utter
-    "PWURT": "butter", // give up "Burt"
+    "PWURT": "butter", // overrides "Burt"
+    "PW*URT": "Burt",
     "PWURT/TPHRAOEU": "butterfly",
     "KHRURT": "clutter",
     "TPHRURT": "flutter",
