@@ -9,7 +9,7 @@
     "TK-FT": "different",
     "-FD": "find",
     "T-FD": "find it",
-    "TP-D": "found", // overrides "pharmacodynamic"
+    "TP-D": "found", // give up "pharmacodynamic"
     "TPR-D": "friend", // misstroke for "interested"
     "TPR-DZ": "friends",
     "-GT": "get",
@@ -32,18 +32,18 @@
     "W-F": "one of",
     "W-FT": "one of the",
     "T-G": "thing",
-    "W-D": "window",   // overrides {^ed with}
+    "W-D": "window",   // give up {^ed with}
     "W*DZ": "Windows", // just for consistency
 
     "-TS": "its",
     "*TS": "itself",
     "PW-TS": "about its",
     "AULTS": "all its",
-    "SKP-TS": "and its", // overrides {^s and the}
+    "SKP-TS": "and its", // give up {^s and the}
     "PWAUTS": "because its",
     "TP-RTS": "for its",
     "TPR-TS": "from its",
-    "SR-TS": "have its", // overrides "very truly yours,"
+    "SR-TS": "have its", // give up "very truly yours,"
     "TP-TS": "if its",
     "TPHAOTS": "into its",
     "OPBTS": "on its",
@@ -110,7 +110,7 @@
     "SKWRERPBS": "generous",
     "TKPWRAEUFLT": "grateful", // TKPWRA*EUFL - * + -T
     "TKPWUPBS": "guns", // "beguns" is not a word
-    "HA*RT": "hearth", // overrides "Hart"
+    "HA*RT": "hearth", // give up "Hart"
     "SPWREFT": "interest", // for when my brain malfunctions and I forget about TR
     "SPWREUBGT": "intricate",
     "PHRAL": "morale", // use PHORL for "moral"
@@ -207,7 +207,7 @@
 
     "STORB": "astonish",
     "STORBG": "astonishing", // overrides "stork" (a bird)
-    "STO*RBG": "stork",      // overrides "State of New York"
+    "STO*RBG": "stork",      // give up "State of New York"
 
     "SKWRUFRPL": "journalism",  // phonetic     ("jursm")
     "SKWRUFRT": "journalist",   //              ("jurst")
@@ -528,7 +528,7 @@
     "STKWAEUD": "dissuade",
     "STKWAEUGS": "dissuasion",
     "STKORT": "distort", // for consistency with "distortion"
-                         // overrides "accident report"
+                         // give up "accident report"
 
     "STKEPBD": "descend", // now "condescending" is just KAUPB/STKEPBGD
     "STKEPBD/APBT": "descendant",
@@ -620,7 +620,7 @@
     "THREPBD": "threatened",
 
     // URT for -utter
-    "PWURT": "butter", // overrides "Burt"
+    "PWURT": "butter", // give up "Burt"
     "PWURT/TPHRAOEU": "butterfly",
     "KHRURT": "clutter",
     "TPHRURT": "flutter",
@@ -808,7 +808,7 @@
     "SKWRUF": "justify",        // cf. SKWRUFGS "justification"
     "HRAED": "lady",            // use HRAOED for "lead" (even when pronounced /lɛd/)
     "PHOEUD": "media",          // use PHROEUD for "employed"
-    "TPOPB": "phenomenon",      // overrides "phon" (unit of loudness)
+    "TPOPB": "phenomenon",      // give up "phon" (unit of loudness)
     "SKOLGS": "psychologist",   // "psychologies" is too rare
     "REUPBD": "remind",         // like HEUPBD "behind"
     "ROPBT": "rotten",
@@ -900,7 +900,7 @@
     // "I'm"        AOEUPL already works
     "AOEUPLT": "I'm the", // overrides "item"
     "TEPL": "item",
-    "KWR-FS": "I was", // overrides "why was"
+    "KWR-FS": "I was", // give up "why was"
     "KWR-FTS": "I was the",
     "UR": "you are",
     "URT": "you are the",
@@ -913,7 +913,7 @@
     "-RPBLT": "are not",
     // "you were"   URP already works
     "URPT": "you were the",
-    "HES": "he is", // overrides "Hess"
+    "HES": "he is", // give up "Hess"
     "HETS": "he is the",
     // "he's"       HAOES already works
     // "he's the"   HAOETS is "heats"
@@ -1043,7 +1043,7 @@
     // (Strokes that already work are omitted for brevity.)
     "SHEL": "she will", // overrides "shell"
     "SH-L": "shell",    // mnemonic: a shell is empty in the middle
-    "SH*EL": "she'll",  // overrides "Shel"
+    "SH*EL": "she'll",  // give up "Shel"
     "SH*ED": "she'd",
 
     "T-RB": "it shall",
@@ -1094,7 +1094,7 @@
 
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
-    "PH-B": "maybe",    // overrides "Mapbox", but who cares?
+    "PH-B": "maybe",    // give up "Mapbox"
     // PHAOEUB "might be" works already
     "PHUFB": "must be", // for consistency with PHAOEUB
     // A good reason not to just stack PHUFT and -B (PHUFBT)
@@ -1218,7 +1218,7 @@
     "STKPWOG": "is going to",
     "STKPWOBG": "is going to be",
     "STKPWOBGT": "is going to be the",
-    "THOU": "how to", // overrides "how it"
+    "THOU": "how to", // give up "how it"
                       // HOW TO  183508
                       // HOW IT   46993
     "THOUB": "how to be",
@@ -1447,7 +1447,7 @@
     "STPH-T": "is in the", // just two-stroke "isn't the"
     "SPHOR": "is more", // add * for "s'more"
     "STPHOU": "is now",
-    "SOEPBL": "is only", // overrides "only is"
+    "SOEPBL": "is only", // give up "only is"
                          // IS ONLY  36229
                          // ONLY IS   4945
     "STHRA": "is there a",
@@ -1493,7 +1493,7 @@
     "THAFT": "that have the",
     "THA*F": "that've", // already works
     "THA*FT": "that've the",
-    "THAD": "that had", // overrides {^ed that}
+    "THAD": "that had", // give up {^ed that}
     "THATD": "that had the", // use THA*D for "that'd"
     "THAEUBG": "that I can",
     "THAEUBGD": "that I could",
@@ -1600,7 +1600,7 @@
     "WH*EUF": "when I've",  // even the starred stroke is occupied
     "WH*EUFT": "when I've the",
     "WH-F": "whiff",        // mnemonic: a whiff, being insubstantial, is empty in the middle
-                            // overrides "when have", but there are often better break points:
+                            // give up "when have" since there are often better break points:
                             // "when have I ever"   WH/SREU/-FR
                             // "when have you been" WH/SRUB
     "WHEUF/-F": "whiff of", // safeguard for when I forget this mnemonic
@@ -1659,7 +1659,7 @@
     "TPAS": "as if",
     "SKHEUPL": "ask him",
     "SKHER": "ask her",
-    "TPE": "if he", // overrides "fe", which is not a word
+    "TPE": "if he", // give up "fe", which is not a word
     "STPROFPBT": "in front of", //   STPRO PBT "in front"
                                 // +  TPROFPBT "front of"
                                 // -----------
@@ -1768,8 +1768,10 @@
     // Precedents: PHAEUG "making", HRAOG "looking"
     "AEUG": "aching",
     "A/TAG": "attacking",
-    "PWAEUG": "baking", // overrides "baying" ("a jackal baying at the moon")
-                        // but "baking" is much more common
+    "PWAEUG": "baking", // come back for -G for "baying"
+                        // ("a jackal baying at the moon")
+                        // BAKING  16613
+                        // BAYING    242
     "KHOEG": "choking",
     "KHREUG": "clicking",
     "TPAEUG": "faking",
@@ -1777,7 +1779,9 @@
     "TP*UG": "fug",
     "KEUG": "kicking",
     "PAG": "packing",
-    "RAEUG": "raking", // overrides "raying", which is extremely rare
+    "RAEUG": "raking", // come back for -G for "raying"
+                       // RAKING  1302
+                       // RAYING     7 (basically a non-word)
     "SHOG": "shocking",
     "WORG": "working", // alternative to WOG
 
@@ -1845,7 +1849,7 @@
 
     // Pick more distinctive part of word
     "STRAEUGS": "administration",
-    "STEPBD": "extend",      // overrides "send it"
+    "STEPBD": "extend",      // give up "send it"
     "STEPBD/-D": "extended", // misstroke for "tended"?
     "TKAO*ED": "indeed",
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
@@ -1890,7 +1894,7 @@
     "PR*UPL": "President Trump",
 
     // Prevent word boundary errors
-    "PAS/SO": "pass so", // overrides "Paso"; use EL/PA/SOE for "El Paso"
+    "PAS/SO": "pass so", // give up "Paso"; there's EL/PA/SOE for "El Paso"
 
     // Special rules
     "SKW": "and",            // SKP with P one tile down
@@ -1972,7 +1976,7 @@
     // HROFT is much more suited to ...
     "HROFT": "lost",
     // Since we fixed HRO*S "lost", we might as well also fix HR*EUS "list":
-    "HREUS": "list", // overrides "Lys-", whatever that is
+    "HREUS": "list", // give up "Lys-", whatever that is
                      // think "drop *" or "ls"
     // HRAEUL "a little" already works
     "HRAEUFL": "a little of",
@@ -1991,7 +1995,7 @@
     "R-F": "regardless of",      // RAFRLS is not bad but
     "R-FT": "regardless of the", // RAFRLTS is too clumsy
     "RA*RLS": "irregardless",
-    "R*F": "irregardless of", // overrides "reticular formation"
+    "R*F": "irregardless of", // give up "reticular formation"
     "R*FT": "irregardless of the",
 
     // Comma + open quote + capitalization after reporting verb
