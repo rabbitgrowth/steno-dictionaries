@@ -270,6 +270,8 @@
     // SKWRELS "jealous" -> SKWRAOELS "jealousy"
 
     // Compound words
+    "PWAPBD/HRAOERD": "bandleader",
+    "PWAPBD/HRAOERDZ": "bandleaders",
     "PWAR/TERPBD": "bartender",
     "KHOEBG/HOELD": "chokehold",
     "KHOEBG/HOELDZ": "chokeholds",
