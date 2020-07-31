@@ -1894,6 +1894,8 @@
     // Double to join with "and"
     "OEFR/OEFR": "over and over",
     "OEFR/OEFR/OEFR": "over and over and over",
+    "PW-RT/PW-RT": "better and better",
+    "PW-RT/PW-RT/PW-RT": "better and better and better",
 
     // Punctuation as shapes
     // Open single quote, which precedes close single quote, is the one
