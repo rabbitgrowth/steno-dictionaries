@@ -11,6 +11,14 @@
     "TPR-DZ": "friends",
     "-GT": "get",
     "-GD": "good",
+    "K-D": "kind", // use A/KORD for "accord"; Plover even allows A/K-D
+                   // KIND   416980
+                   // ACCORD   6864
+    "K-FD": "kind of", // overrides "confidence"
+    "K-FS": "confidence", // cf. K-FT "confident",
+                          // following the -S vs -T pattern:
+                          // PREPBS "presence"
+                          // PREPBT "present"
     "-LG": "like", // make stacking form work too
                    // use HR-G or WEULG for "willing"
     "-LGT": "like the", // by default "thing" by accident:
