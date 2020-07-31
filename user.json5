@@ -1236,6 +1236,8 @@
     "AOEFPB": "even if", // TPAOEPB feels more like "if even"
     "AOEFPBT": "even if the",
     "AOEPBT": "even the",
+    "OEFPBL": "only if",  // which frees up ...
+    "TPOEPBL": "if only", // follow steno order
     "WHAF": "what if",
 
     // Common word + a
