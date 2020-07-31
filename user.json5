@@ -1428,6 +1428,9 @@
     "STPH-T": "is in the", // just two-stroke "isn't the"
     "SPHOR": "is more", // add * for "s'more"
     "STPHOU": "is now",
+    "SOEPBL": "is only", // overrides "only is"
+                         // IS ONLY  36229
+                         // ONLY IS   4945
     "STHRA": "is there a",
     "STOBT": "is to be the",
     "SW": "is with",
