@@ -901,7 +901,8 @@
     // "I'm"        AOEUPL already works
     "AOEUPLT": "I'm the", // overrides "item"
     "TEPL": "item",
-    "KWR-FS": "I was", // give up "why was"
+    "KWR-FS": "I was", // prefer KWR as "I", so give up "why was" here;
+                       // but KWR-S is "why is", since "I is" is impossible
     "KWR-FTS": "I was the",
     "UR": "you are",
     "URT": "you are the",
@@ -1313,8 +1314,7 @@
     "WHOTS": "who is the",
     "WHO*TS": "who's the",
     "WHOFTS": "who was the",
-    "KWR-S": "why is", // KWR for "why" because "I is" is impossible
-                       // compare KWR-FS which is redefined to "I was"
+    "KWR-S": "why is", // see note at KWR-FS
     "KWR-TS": "why is the",
     "KWR*TS": "why's the",
 
