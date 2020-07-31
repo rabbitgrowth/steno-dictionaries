@@ -149,6 +149,8 @@
 
     // Don't alter vowel
     "PWERT": "better", // double for "Bert"; starred is "berth"
+    "KAERT": "carrot", // AE for /æ/ since KART is "cart"
+                       // just fingerspell CART
     "KRERPBT": "century", // use STR for "center"
     "TKEUFLT": "difficulty", // TKEUFL "difficult" + -T
     "ROR": "error", // use RAOR for "roar", cf. AOR "oar", SAOR "soar"
