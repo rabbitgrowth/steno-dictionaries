@@ -1308,22 +1308,27 @@
     "THAFTS": "that was the",
     "WHATS": "what is the", // use WHA*S for "what's"
     "WHA*TS": "what's the",
+    "WHART": "what are the",
     "WHAFTS": "what was the",
     "WH-TS": "when is the",
     "WH*TS": "when's the",
+    "WH-RT": "when are the",
     "WH-FTS": "when was the",
     "W-RS": "where is",
     "W-RTS": "where is the",
     "WR-TS": "where is the",   // -R pushed to the left (unnecessarily)
     "W*RTS": "where's the",
     "WR*TS": "where's the",    // -R pushed to the left (unnecessarily)
+    "WR-RT": "where are the",  // -R pushed to the left
     "WR-FTS": "where was the", // -R pushed to the left
     "WHOTS": "who is the",
     "WHO*TS": "who's the",
+    "WHORT": "who are the",
     "WHOFTS": "who was the",
     "KWR-S": "why is", // see note at KWR-FS
     "KWR-TS": "why is the",
     "KWR*TS": "why's the",
+    "KWR-RT": "why are the",
 
     "KRAOTS": "across the",
     "AOLT": "along the",
