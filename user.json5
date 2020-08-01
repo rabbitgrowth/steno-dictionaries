@@ -74,8 +74,6 @@
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
 
-    "SKWREULG": "magical",  // with SKWREUBG "magic"
-
     "TREUG": "trying", // with TREU "try"
                        // overrides "trig"
     "TR*EUG": "trig",
@@ -2071,6 +2069,13 @@
     "PHASZ": "masses",   // by default misstroke (?) for "mass"
     "PHAFS": "massive",  // by default "masses"
     "PHEUFS": "missive", // by default "massive"
+
+    // "logic" vs "magic"
+    "SKWREUBG": "logic",   // overrides "magic"
+    "SKWREULG": "logical", // "gical"
+    "PHABG": "magic",      // overrides "Mac"
+    "PHA*BG": "Mac",       // give up "MAC"
+    "PHALG": "magical",    // "macal"
 
     // "superior" and "inferior"
     "SPOEURT": "superiority",
