@@ -192,6 +192,8 @@
     "TKPWARPB": "garden",
     "TKPWOEPL": "go home",
     "HEUPB": "hidden",
+    "HOLD": "holiday", // use HOELD for "hold"
+    "HOLDZ": "holidays",
     "PHELG": "medical", // "mecal"
     "PHAEUPLS": "my name is", // use -Z for "maims"
     "TPHRET": "reflect", // misstroke for "net"
