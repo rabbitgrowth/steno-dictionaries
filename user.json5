@@ -2110,6 +2110,9 @@
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
 
+    // Fictitious place names
+    "SREUL": "{*-|}{^ville}",
+
     // I hate O*ERBGS for "oh". I like the intuitiveness of O -> oh,
     // although it feels a bit wasteful to assign something as nice as O
     // to a word that's not super common. An alternative is "to".
