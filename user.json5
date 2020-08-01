@@ -665,7 +665,7 @@
     // -PBLD for -lden
     "PWHOEPBLD": "beholden",
     "PWHOEPB": "beholden", // simplify further:
-                           // PWE/HOELD/*EPB -> PWHOEPBLD -> PWHOEPB
+                           // ...OELD/*EPB -> ...OEPBLD -> ...OEPB
     "EPL/PWOEPBLD": "embolden",
     "EPL/PWOEPB": "embolden",
     "TKPWOEPBLD": "golden",
