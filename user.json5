@@ -2111,7 +2111,7 @@
     "SO*EUPB/AEUR": "zillionaire",
 
     // Fictitious place names
-    "SREUL": "{*-|}{^ville}",
+    "SREUL": "{*-|}{^ville}", // with retrospective capitalization
 
     // I hate O*ERBGS for "oh". I like the intuitiveness of O -> oh,
     // although it feels a bit wasteful to assign something as nice as O
