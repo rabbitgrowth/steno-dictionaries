@@ -5,8 +5,7 @@
                        // and I don't want to alter the vowel (PWOERT),
                        // so just omit the vowel
     "PW*T": "both",
-    "TK-FS": "difference", // prevents awkward 2x2 block
-                           // (2x3 if counting EU) in TKEUFRPBS
+    "TK-FS": "difference",
     "TK-FT": "different",
     "-FD": "find",
     "T-FD": "find it",
