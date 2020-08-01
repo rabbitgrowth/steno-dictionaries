@@ -2173,7 +2173,9 @@
     "KAEUGS/H-F": "casing",      // from {^ication}
     "KREUFPL/H-F": "crisply",    // from "criticism" (custom)
     "TKOT/H-F": "do the",        // from "dot"
+    "TPAEUTD/H-F": "faded",      // from "fated"
     "TPAEURL/H-F": "failure",    // from "fairly"
+    "TPHROUR/H-F": "flower",     // from "flour"
     "TKPWOT/H-F": "go to the",   // from "got"
     "TKPWUPB/H-F": "gun",        // from "begun"
     "HARBG/H-F": "hacker",       // from "hark"
