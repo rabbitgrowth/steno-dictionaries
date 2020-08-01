@@ -195,6 +195,8 @@
     "HOLDZ": "holidays",
     "PHELG": "medical", // "mecal"
     "PHAEUPLS": "my name is", // use -Z for "maims"
+    "PREFT": "protest", // give up "previous to"
+    "PREFRT": "protester",
     "TPHRET": "reflect", // misstroke for "net"
     "TPHREGS": "reflection",
     "STPREU": "satisfactory", // "sfry", cf. STPAOEU "satisfy"
