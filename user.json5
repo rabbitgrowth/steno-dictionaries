@@ -2160,6 +2160,7 @@
     "PHAEPB/H-F": "mean",        // from "many"
     "PHEUGS/H-F": "missing",     // from "mission"
     "PHORPB/H-F": "more than",   // from "morn"
+    "OERPB/H-F": "other than",   // from "owner"
     "PAEURS/H-F": "Paris",       // from "pairs"
     "PAGS/H-F": "passing",       // from "passion"
     "PREGS/H-F": "pressing",     // from "oppression"
