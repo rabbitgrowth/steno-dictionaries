@@ -98,7 +98,7 @@
     "ERPBT": "errant",
     "TPAEURLS": "failures", // "fairlies" is not a word
     "TPEPBGS": "fencing", // misstroke for "infection"
-    "TPHRAPBT": "flatten",
+    "TPHRAPBT": "flatten", // alternative to TPHRAFPB and TPHRAEPB
     "TPRAOEPBLS": "freelance",
     "SKWRERPBS": "generous",
     "TKPWRAEUFLT": "grateful", // TKPWRA*EUFL - * + -T
