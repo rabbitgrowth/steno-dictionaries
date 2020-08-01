@@ -75,7 +75,6 @@
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
 
     "SKWREULG": "magical",  // with SKWREUBG "magic"
-    "SKWREUGS": "magician", // use -Z for "jigs"
 
     "TREUG": "trying", // with TREU "try"
                        // overrides "trig"
@@ -2216,7 +2215,6 @@
     "SKWRELS/H-F": "gels",       // from "jealous" (custom)
     "TKPWROES/H-F": "grows",     // from "gross"
     "HORS/H-F": "horrors",       // from "horse"
-    "SKWREUGS/H-F": "jigs",      // from "magician" (custom)
     "SKWROEUS/H-F": "joys",      // from "Joyce"
     "TPHOES/H-F": "knows",       // from "nose"
     "PHAPBGS/H-F": "manages",    // from "mansion"
