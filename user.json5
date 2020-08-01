@@ -664,10 +664,13 @@
 
     // -PBLD for -lden
     "PWHOEPBLD": "beholden",
+    "PWHOEPB": "beholden", // simplify further:
+                           // PWE/HOELD/*EPB -> PWHOEPBLD -> PWHOEPB
     "EPL/PWOEPBLD": "embolden",
-    "TKPWOEPBLD": "golden", // TKPWOELD/*EPB is just too awkward
-                            // for such a common word
-    "OEPBLD": "olden",
+    "EPL/PWOEPB": "embolden",
+    "TKPWOEPBLD": "golden",
+    "TKPWOEPB": "golden",
+    "OEPBLD": "olden", // OEPB is "own"
 
     // -LGS for -tional
     // Precedents: TPUPBLGS "functional", STAOULGS "constitutional"
