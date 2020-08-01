@@ -12,8 +12,7 @@
     "TP-D": "found", // give up "pharmacodynamic"
     "TPR-D": "friend", // misstroke for "interested"
     "TPR-DZ": "friends",
-    "-GT": "get",
-    "-GD": "good",
+    "TKPW-D": "good",
     "K-D": "kind", // use A/KORD for "accord"; Plover even allows A/K-D
                    // KIND   416980
                    // ACCORD   6864
