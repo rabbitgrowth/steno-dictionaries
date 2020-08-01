@@ -665,9 +665,8 @@
     // -PBLD for -lden
     "PWHOEPBLD": "beholden",
     "EPL/PWOEPBLD": "embolden",
-    "TKPWOEPBLD": "golden", // the only one I really care about;
-                            // TKPWOELD/*EPB is just too awkward for
-                            // such a common word
+    "TKPWOEPBLD": "golden", // TKPWOELD/*EPB is just too awkward
+                            // for such a common word
     "OEPBLD": "olden",
 
     // -LGS for -tional
