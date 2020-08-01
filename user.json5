@@ -4,6 +4,7 @@
     "PW-RT": "better", // since PWERT is "Bert" and PW*ERT is "berth"
                        // and I don't want to alter the vowel (PWOERT),
                        // so just omit the vowel
+    "PW*T": "both",
     "TK-FS": "difference", // prevents awkward 2x2 block
                            // (2x3 if counting EU) in TKEUFRPBS
     "TK-FT": "different",
@@ -25,6 +26,8 @@
     "HR-BGT": "like the",
     "W-F": "one of",
     "W-FT": "one of the",
+    "PR-B": "problem",
+    "-RT": "right", // use R-T for "are the"
     "T-G": "thing",
     "W-D": "window",   // give up {^ed with}
     "W*DZ": "Windows", // just for consistency
