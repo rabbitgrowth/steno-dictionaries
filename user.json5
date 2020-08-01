@@ -305,6 +305,8 @@
     "HOEPL/PWOUPBD": "homebound",
     "PHAOEPB/TAOEUPL": "meantime",
     "SKART/SHOT": "scattershot",
+    "SWEUPL/SAOUT": "swimsuit",
+    "SWEUPL/SAOUTS": "swimsuits",
 
     // -maker
     // Precedent: PAEUS/PHAEURBG "pacemaker"
