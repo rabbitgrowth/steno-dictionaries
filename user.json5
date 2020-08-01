@@ -2217,4 +2217,7 @@
     "TKPWRAEU/H-F": "grey",
     "HO*RPB/H-F": "honour",
 
+    "TKPWRAEUS/H-F": "grays",     // correct from "grace"
+    "TKPWRAEUS/H-F/H-F": "greys", // then to British spelling
+
 }
