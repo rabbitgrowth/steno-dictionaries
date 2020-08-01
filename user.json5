@@ -2179,6 +2179,7 @@
     "TKPWUPB/H-F": "gun",        // from "begun"
     "HARBG/H-F": "hacker",       // from "hark"
     "HARBGS/H-F": "hackers",
+    "PHABG/H-F": "Mac",          // from "magic" (custom)
     "PHAEPB/H-F": "mean",        // from "many"
     "PHEUGS/H-F": "missing",     // from "mission"
     "PHORPB/H-F": "more than",   // from "morn"
