@@ -2164,6 +2164,7 @@
     // Phoenix uses R-R but that's newline in Plover already,
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
     "AUFL/H-F": "all of",        // from "awful"
+    "PWAEUG/H-F": "baying",      // from "baking" (custom)
     "PWEUT/H-F": "by the",       // from "bit"
     "KAEUGS/H-F": "casing",      // from {^ication}
     "KREUFPL/H-F": "crisply",    // from "criticism" (custom)
