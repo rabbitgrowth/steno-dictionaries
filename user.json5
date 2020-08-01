@@ -94,6 +94,8 @@
     "ARPB/KEUFPL": "anarchism",
     "PWHRAOEU": "belie",
     "PWHRAOEUD": "belied", // otherwise gives "belieed"
+    "PWEUS/TROE": "bistro", // /ˈbɪstrəʊ/
+                            // /ˈbiːs-/ already works: PWAOES/TROE
     "KHRERPBD": "calendar",
     "KAUFT": "caste",
     "SRAOERBL": "cerebral", // alternative to SRAOEBL (/səˈriːbrəl/)
