@@ -28,8 +28,8 @@
     "PR-B": "problem",
     "-RT": "right", // use R-T for "are the"
     "T-G": "thing",
-    "W-D": "window",   // give up {^ed with}
-    "W*DZ": "Windows", // just for consistency
+    "W-D": "window", // give up {^ed with}
+    "W*DZ": "Windows",
 
     "-TS": "its",
     "*TS": "itself",
