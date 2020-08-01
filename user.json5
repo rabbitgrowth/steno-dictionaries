@@ -1688,6 +1688,7 @@
                          // WEUR  "wire" (?!)
                          // use WAOEUR for "wire"
     "HR-F": "will have",
+    "HR-FB": "will have been",
 
     // Plurals
     "AL/PWAOEUS": "alibis",
