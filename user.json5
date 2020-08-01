@@ -462,6 +462,7 @@
     // Extend SPW to ant-, ont-, and unt-
     // Justification: "ent- or int-" isn't a mirror image of -nt; nt- is.
     // And nt- feels like it could be extended to mean [any vowel]nt-.
+    "SPWAOEBG": "antique",
     "SPWHRER": "antler",
     "SPWOLG": "ontology",
     "SPWAOEU": "untie",
