@@ -2217,6 +2217,7 @@
     "TOEFRT/H-F": "toaster",     // from "effort to"
     "TOEFRTS/H-F": "toasters",
     "WHABG/H-F": "whack",        // from "what can" (custom)
+    "WEUPBS/H-F": "wins",        // from "wince"
 
     "AOEUPLT/H-F": "item",       // from "I'm the"      (custom)
     "SHEL/H-F": "shell",         // from "she will"     (custom)
