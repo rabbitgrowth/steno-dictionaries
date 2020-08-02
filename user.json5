@@ -2090,17 +2090,17 @@
     "WHOEUPBT": "whole point",
     "WHAOEUPL": "whole time",
 
-    // "mass-"
-    "PHASZ": "masses",   // by default misstroke (?) for "mass"
-    "PHAFS": "massive",  // by default "masses"
-    "PHEUFS": "missive", // by default "massive"
-
     // "logic" vs "magic"
     "SKWREUBG": "logic",   // overrides "magic"
     "SKWREULG": "logical", // "gical"
     "PHABG": "magic",      // overrides "Mac"
     "PHA*BG": "Mac",       // give up "MAC"
     "PHALG": "magical",    // "macal"
+
+    // "mass-"
+    "PHASZ": "masses",   // by default misstroke (?) for "mass"
+    "PHAFS": "massive",  // by default "masses"
+    "PHEUFS": "missive", // by default "massive"
 
     // "superior" and "inferior"
     "SPOEURT": "superiority",
