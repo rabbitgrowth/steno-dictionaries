@@ -1792,6 +1792,7 @@
     "RE/SEUFTS": "resists",
     "SHREUD/TPAOEUG": "solidifying",
 
+    "TPUBGS": "fucks", // use TPUPBGS for "function"
     "RAEUPLD": "remained", // overrides "Raymond"
     "RA*EUPLD": "Raymond",
     "SKAOEGD": "succeeding", // otherwise gives "skiinged"
