@@ -1826,14 +1826,14 @@
     "SROUPBTD": "surrounded",
 
     // Superlatives
+    // You can often drop the final consonant in the adjective.
+    // Precedents: HRAEUFT "latest", TKPWRAEFT "greatest"
+    //                        ^ dropped             ^ dropped
     "PWEUFT": "biggest", // PWEUG, PWEURG, PWEUFT
                          // "big"  "bigr"  "bist"
     "KHROEFT": "closest",
     "WAOEUFT": "wisest",
 
-    // Drop -te- for superlatives of adjectives that end with -t
-    // Precedents: HRAEUFT "latest", TKPWRAEFT "greatest"
-    // Doesn't always work; for example, "fastest" minus -te- is still "fast".
     "PWRAOEUFT": "brightest",
     "TPAEUFPBT": "faintest",
     "HRAOEUFT": "lightest",
