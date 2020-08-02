@@ -481,6 +481,20 @@
     "SPWAOEU": "untie",
     "SPWO": "unto",
 
+    // KPW for imp-
+    // (borrowed from Magnum)
+    "KPWABGT": "impact",
+    "KPWHRAOEU": "imply", // the left-hand KPWHRAO cluster is a bit clumsy
+    "KPWHREU": "imply",   // ... so allow omitting AO to lighten the load
+    "KPWHREUBGS": "implication", // (useful!) misstroke for "complication"
+    "KPWOES": "impose",
+    "KPWOEFD": "imposed",
+    "KPWRES": "impress",
+    "KPWREFD": "impressed",
+    "KPWREF": "impressive", // cf. EUPL/PREF
+    "KPWROF": "improve",    // cf. EUPL/PROF
+    "KPWROFPLT": "improvement", // although Plover allows the simpler PROFPLT
+
     // STK for dis-
     // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
     "STKARPL": "disarm",
