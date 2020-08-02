@@ -262,7 +262,7 @@
     "PWODZ": "bodies", // overrides "bods"
     "PWO*D": "bod",
     "PWUR": "bury", // overrides "burr"
-                    // but folding in -G and -D don't work:
+                    // folding in -G and -D don't work though:
                     // PWURG is {^burg} and PWURD is "burden"
     "PW*UR": "burr",
     "TKEUZ": "dizzy", // use TKEUS for {dis^}
@@ -2213,6 +2213,8 @@
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
     "AUFL/H-F": "all of",        // from "awful"
     "PWAEUG/H-F": "baying",      // from "baking" (custom)
+    "PWURD/H-F": "buried",       // from "burden"
+    "PWURG/H-F": "burying",      // from {^burg}
     "PWEUT/H-F": "by the",       // from "bit"
     "KAEUGS/H-F": "casing",      // from {^ication}
     "KREUFPL/H-F": "crisply",    // from "criticism" (custom)
