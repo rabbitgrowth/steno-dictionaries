@@ -497,6 +497,9 @@
     "KPWROF": "improve",    // cf. EUPL/PROF
     "KPWROFPLT": "improvement", // although Plover allows the simpler PROFPLT
 
+    "KPWAOEUB": "imbibe",
+    "KPWAOU": "imbue",
+
     // STK for dis-
     // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
     "STKARPL": "disarm",
