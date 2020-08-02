@@ -1825,6 +1825,11 @@
     "SKAOETD": "succeeded",
     "SROUPBTD": "surrounded",
 
+    // Superlatives
+    "PWEUFT": "biggest",
+    "KHROEFT": "closest",
+    "WAOEUFT": "wisest",
+
     // Drop -te- for superlatives of adjectives that end with -t
     // Precedents: HRAEUFT "latest", TKPWRAEFT "greatest"
     // Doesn't always work; for example, "fastest" minus -te- is still "fast".
