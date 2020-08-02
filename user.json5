@@ -279,6 +279,8 @@
 
     // Lengthen vowel for -y
     // Precedent: TPUPB "fun" -> TPAOUPB "funny"
+    "PWAOUL": "bully", // overrides "boule"
+    "PWAO*UL": "boule",
     "HAOURPBG": "hungry",
     // See also:
     // HELT "health"     -> HAOELT "healthy"
