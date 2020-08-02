@@ -1848,6 +1848,7 @@
     "PWEUFT": "biggest", // PWEUG, PWEURG, PWEUFT
                          // "big"  "bigr"  "bist"
     "KHROEFT": "closest",
+    "WAOEFRT": "weirdest",
     "WAOEUFT": "wisest",
 
     "PWRAOEUFT": "brightest",
