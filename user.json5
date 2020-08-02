@@ -2090,7 +2090,7 @@
     "WHOEUPBT": "whole point",
     "WHAOEUPL": "whole time",
 
-    // mass-
+    // "mass-"
     "PHASZ": "masses",   // by default misstroke (?) for "mass"
     "PHAFS": "massive",  // by default "masses"
     "PHEUFS": "missive", // by default "massive"
