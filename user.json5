@@ -491,6 +491,7 @@
     "KPWOEFD": "imposed",
     "KPWRES": "impress",
     "KPWREFD": "impressed",
+    "KPWREFG": "impressing",
     "KPWREGS": "impression",
     "KPWREF": "impressive", // cf. EUPL/PREF
     "KPWROF": "improve",    // cf. EUPL/PROF
@@ -2243,6 +2244,7 @@
     "TPHROUR/H-F": "flower",     // from "flour"
     "TKPWOT/H-F": "go to the",   // from "got"
     "TKPWUPB/H-F": "gun",        // from "begun"
+    "KPWREGS/H-F": "impressing", // from "impression" (custom)
     "HARBG/H-F": "hacker",       // from "hark"
     "HARBGS/H-F": "hackers",
     "HAOEUFT/H-F": "heist",      // from "highest" (custom)
