@@ -582,7 +582,7 @@
     "STKORT": "distort", // for consistency with "distortion"
                          // give up "accident report"
 
-    "STKEPGS": "deception",
+    "STKEPGS": "deception", // what matters is the pronunciation: /dɪˈs-/
     "STKEPBD": "descend", // and get "condescending" KAUPB/STKEPBGD for free
     "STKEPBD/APBT": "descendant",
     "STKHREBGT": "deselect",
