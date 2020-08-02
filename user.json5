@@ -1842,6 +1842,9 @@
     "SPHAFRT": "smartest",
     "SWAOEFT": "sweetest",
 
+    "HAOEUFT": "highest", // overides "heist"
+    "HAO*EUFT": "heist",
+
     // Expand "n't" into "not" with -L as bridge
     "K-PBLT": "cannot",     // from K-PBT   "can't"
     "TKOEPBLT": "do not",   // from TKOEPBT "don't" (or just use the standard TKPHOT)
@@ -2204,6 +2207,7 @@
     "TKPWUPB/H-F": "gun",        // from "begun"
     "HARBG/H-F": "hacker",       // from "hark"
     "HARBGS/H-F": "hackers",
+    "HAOEUFT/H-F": "heist",      // from "highest" (custom)
     "PHABG/H-F": "Mac",          // from "magic" (custom)
     "PHAEPB/H-F": "mean",        // from "many"
     "PHEUGS/H-F": "missing",     // from "mission"
