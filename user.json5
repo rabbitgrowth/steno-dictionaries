@@ -2220,6 +2220,7 @@
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
     "AUFL/H-F": "all of",        // from "awful"
     "PWAEUG/H-F": "baying",      // from "baking" (custom)
+    "PWERT/H-F": "better",       // from "Bert"
     "PWURD/H-F": "buried",       // from "burden"
     "PWURG/H-F": "burying",      // from {^burg}
     "PWEUT/H-F": "by the",       // from "bit"
