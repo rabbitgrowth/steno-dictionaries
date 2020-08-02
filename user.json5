@@ -352,6 +352,9 @@
     "SWOUL": "avowal", // SRAOUL is "value"
 
     // Fold in -R for -er or -or
+    "KHEFR": "achiever", // overrides "chevre"
+    "KH*EFR": "chèvre",  // with proper diacritics
+    "SH*EFR": "chèvre",  // phonetic
     "KPHARPBD": "commander",
     "KPHORPB": "commoner",
     "TKERT": "debtor",
