@@ -199,6 +199,7 @@
     "HOLDZ": "holidays",
     "H-P": "hypothesis", // just fingerspell "HP"
     "H-PS": "hypotheses",
+    "H-P/-S": "hypotheses",
     "PHELG": "medical", // "mecal"
     "PHAEUPLS": "my name is", // use -Z for "maims"
     "WURPB": "one another",
