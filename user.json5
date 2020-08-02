@@ -489,6 +489,31 @@
     "SPWAOEU": "untie",
     "SPWO": "unto",
 
+    // KPW for imp-, imb-, emp-, and emb-
+    // (borrowed from Magnum)
+    "KPWABGT": "impact",
+    "KPWHRAOEU": "imply", // the left-hand KPWHRAO cluster is a bit clumsy
+    "KPWHREU": "imply",   // ... so allow omitting AO to lighten the load
+    "KPWHREUBGS": "implication", // (useful!) misstroke for "complication"
+    "KPWOES": "impose",
+    "KPWOEFD": "imposed",
+    "KPWRES": "impress",
+    "KPWREFD": "impressed",
+    "KPWREFG": "impressing",
+    "KPWREGS": "impression",
+    "KPWREF": "impressive", // cf. EUPL/PREF
+    "KPWROF": "improve",    // cf. EUPL/PROF
+    "KPWROFPLT": "improvement", // although Plover allows the simpler PROFPLT
+
+    "KPWAOEUB": "imbibe",
+    "KPWAOU": "imbue",
+    "KPWROR": "emperor",
+    "KPWARS": "embarrass", // cf. EPL/PWARS
+    "KPWAFRD": "embarrassed",
+    "KPWAES": "embassy", // with "many" rule, cf. EPL/PWAES
+    "KPWED": "embed",
+    "KPWRAEUS": "embrace",
+
     // STK for dis-
     // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
     "STKARPL": "disarm",
@@ -2241,6 +2266,7 @@
     "TPHROUR/H-F": "flower",     // from "flour"
     "TKPWOT/H-F": "go to the",   // from "got"
     "TKPWUPB/H-F": "gun",        // from "begun"
+    "KPWREGS/H-F": "impressing", // from "impression" (custom)
     "HARBG/H-F": "hacker",       // from "hark"
     "HARBGS/H-F": "hackers",
     "HAOEUFT/H-F": "heist",      // from "highest" (custom)
