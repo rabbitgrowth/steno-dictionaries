@@ -583,7 +583,7 @@
                          // give up "accident report"
 
     "STKEPGS": "deception",
-    "STKEPBD": "descend", // now "condescending" is just KAUPB/STKEPBGD
+    "STKEPBD": "descend", // and get "condescending" KAUPB/STKEPBGD for free
     "STKEPBD/APBT": "descendant",
     "STKHREBGT": "deselect",
     // A lot of des- words that sound like dis- are already STK-
