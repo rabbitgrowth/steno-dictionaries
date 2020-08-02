@@ -1826,7 +1826,8 @@
     "SROUPBTD": "surrounded",
 
     // Superlatives
-    "PWEUFT": "biggest",
+    "PWEUFT": "biggest", // PWEUG, PWEURG, PWEUFT
+                         // "big"  "bigr"  "bist"
     "KHROEFT": "closest",
     "WAOEUFT": "wisest",
 
