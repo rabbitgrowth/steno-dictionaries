@@ -188,6 +188,7 @@
     "KURPB": "curtain",
     "TAOERT": "deteriorate",
     "TAOERGS": "deterioration",
+    "AOEFRP": "each other",
     "SPHRORGS": "exploration",
     "TPREFT": "forest",
     "TKPWARPB": "garden",
@@ -197,6 +198,7 @@
     "HOLDZ": "holidays",
     "PHELG": "medical", // "mecal"
     "PHAEUPLS": "my name is", // use -Z for "maims"
+    "WURPB": "one another",
     "PREFT": "protest", // give up "previous to"
     "PREFRT": "protester",
     "TPHRET": "reflect", // misstroke for "net"
