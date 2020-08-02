@@ -1843,6 +1843,7 @@
     "SWAOEFT": "sweetest",
 
     "HAOEUFT": "highest", // overides "heist"
+                          // HROEFT "lowest" already works
     "HAO*EUFT": "heist",
 
     // Expand "n't" into "not" with -L as bridge
