@@ -2090,6 +2090,15 @@
     "WHOEUPBT": "whole point",
     "WHAOEUPL": "whole time",
 
+    // A more ergonomic "end"
+    "TPH-D": "end",     // pronounce the TPH: "N'd"
+                        // easier to hit than EPBD
+                        // give up {^ed in}
+    "TPH-GD": "ending", // *much* easier to hit than EPBGD
+    "TPH-DZ": "ends",   // overrides "inside"
+    "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
+    "OUFD": "outside",  // "ousd"; for consistency
+
     // "logic" vs "magic"
     "SKWREUBG": "logic",   // overrides "magic"
     "SKWREULG": "logical", // "gical"
