@@ -582,6 +582,7 @@
     "STKORT": "distort", // for consistency with "distortion"
                          // give up "accident report"
 
+    "STKEPGS": "deception",
     "STKEPBD": "descend", // now "condescending" is just KAUPB/STKEPBGD
     "STKEPBD/APBT": "descendant",
     "STKHREBGT": "deselect",
