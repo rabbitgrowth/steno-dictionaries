@@ -1361,6 +1361,7 @@
 
     // J for "just"
     "SKWR": "just",
+    "SKWR-B": "just been",
     "SKWR-T": "just the",
     "SKWR-LG": "just like",
     "SKWR-PBG": "just in case", // "junk" is SKWRUPBG; no * needed
