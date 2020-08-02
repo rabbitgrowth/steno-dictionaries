@@ -586,7 +586,7 @@
     "STKEPBD": "descend", // and get "condescending" KAUPB/STKEPBGD for free
     "STKEPBD/APBT": "descendant",
     "STKHREBGT": "deselect",
-    // A lot of des- words that sound like dis- are already STK-:
+    // A lot of des- words already use STK:
     // STKPAOEUT "despite"
     // STKAOEUPB "design"
     // STKAOEUR  "desire"
