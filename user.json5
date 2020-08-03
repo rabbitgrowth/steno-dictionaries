@@ -1224,6 +1224,7 @@
     "KWROEFL": "I don't feel",
     "KWR-GT": "I get",     // [g]e[t]
     "KWROEGT": "I don't get",
+    "TKWR-GT": "I get it",
     "TKWROEGT": "I don't get it",
     "KWR-LG": "I like",    // [l]i[k]e
     "KWROELG": "I don't like",
