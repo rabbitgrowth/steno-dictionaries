@@ -2186,7 +2186,7 @@
     // Make simply folding in -G work.
     "RAEUGS": "racing",     // overrides "regulation"
     "RAEUGZ": "raising",
-    "R*ELGS": "regulation", // RE+GL+GS; starless is "relation"
+    "R*ELGS": "regulation", // RE+GL+GS + * to disambiguate from "relation"
     // Make -S correspond to -F and -Z to *F.
     // (The voiced consonants are harder to reach;
     //  you have to either move your pinky or add *.)
