@@ -2188,6 +2188,7 @@
     //  you have to either move your pinky or add *)
     "RAEUFD": "raced",
     "RA*EUFD": "raised", // already works
+                         // RAEUDZ is "raids"
 
     // "superior" and "inferior"
     "SPOEURT": "superiority",
