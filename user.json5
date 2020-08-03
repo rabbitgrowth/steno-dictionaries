@@ -753,6 +753,7 @@
     "PHAOETD": "meted",   // whose * is droppable because "meeted" is not a word
     "PHETSDZ": "methods", // pinky training time
     "PHOUT": "mouth",
+    "REUPLT": "rhythm",
     "TRUT": "truth", // from TR*UT; TRAOUT (from TRAO*UT) already works
     "TRU": "true",   // for consistency
     "TRUL": "truly",
