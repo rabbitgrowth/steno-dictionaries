@@ -1912,6 +1912,7 @@
     "SP-FL": "imperfectly",
     "SPOB": "impossible",
     "SPOBL": "impossibly",
+    "S*BGS": "inaction", // use S*EUBGS for "sixth"
     "SKHAOERPBT": "incoherent",
     "SKPHRAOET": "incomplete",
     "SKREBGT": "incorrect",
