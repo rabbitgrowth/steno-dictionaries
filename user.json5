@@ -2186,7 +2186,8 @@
     // Make -S correspond to -F and -Z to *F
     // (the voiced consonants are harder to reach;
     //  you have to either move your pinky or add *)
-    "RAEUFD": "raced", // add * for "raised"
+    "RAEUFD": "raced",
+    "RA*EUFD": "raised", // already works
 
     // "superior" and "inferior"
     "SPOEURT": "superiority",
