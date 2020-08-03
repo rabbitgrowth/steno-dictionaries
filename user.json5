@@ -23,6 +23,7 @@
                           // PREPBT "present"
     "HR-BG": "like", // use WELG for "welcome"
     "HR-BGT": "like the",
+    "SHR-BG": "unlike", // S for negation
     "HR-LG": "likely", // overrides {^ological}
     "HR*LG": "{^ological}",
     "W-F": "one of",
