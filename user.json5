@@ -184,6 +184,7 @@
     "THAOERL": "theoretical", // cf. the standard THOEURL
 
     // Mash sounds together
+    "ALG": "algorithm", // use ALGS for "additional" (AGS "addition" + -L)
     "SKP-PB": "and then",
     "SKP-PBT": "and then the",
     "THRAFT": "at last", // cf. THRAOEFT "at least"
