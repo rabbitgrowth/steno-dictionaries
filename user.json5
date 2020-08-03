@@ -150,6 +150,7 @@
     "WAOPBD": "wooden",
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELS for "sells"
+    "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
 
     "PERL": "peril",      // overrides "pearl"
     "PAERL": "pearl",     // overrides "parole"
