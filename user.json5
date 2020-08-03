@@ -518,7 +518,9 @@
     "KPWAFRD": "embarrassed",
     "KPWAES": "embassy", // with "many" rule, cf. EPL/PWAES
     "KPWED": "embed",
+    "KPWETD": "embedded",
     "KPWRAEUS": "embrace",
+    "KPWRAEUFD": "embraced",
 
     // STK for dis- and des-
     // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
