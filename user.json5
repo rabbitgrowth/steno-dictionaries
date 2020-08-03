@@ -22,9 +22,9 @@
                           // PREPBS "presence"
                           // PREPBT "present"
     "HR-BG": "like", // use WELG for "welcome"
+    "HR-BGT": "like the",
     "HR-LG": "likely", // overrides {^ological}
     "HR*LG": "{^ological}",
-    "HR-BGT": "like the",
     "W-F": "one of",
     "W-FT": "one of the",
     "PR-B": "problem",
