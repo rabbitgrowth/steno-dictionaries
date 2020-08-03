@@ -1233,6 +1233,8 @@
     "KWROEPBG": "I don't think",
     "KWR-PT": "I want",    // wa[nt] but omit -B as in standard Plover
     "KWROEPT": "I don't want",
+    "TKWROPT": "I want to",
+    "TKWROEPT": "I don't want to",
     "KWR-Z": "I see",      // Z /ziː/ ~= "see"
     "KWROEZ": "I don't see",
     // KWR-F  "I have" has been defined above
