@@ -88,6 +88,8 @@
     "TR*EUG": "trig",
 
     // Phonetic
+    "ARBG/SEU": "accuracy", // alternative to ABG/RAES or ABG/SEU,
+                            // which feels like it's missing an -R
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "ARPB/KEU": "anarchy",
     "ARPB/KEUFT": "anarchist",
