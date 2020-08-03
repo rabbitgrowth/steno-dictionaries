@@ -1231,9 +1231,7 @@
     "KWRO*EFL": "I don't love",
     "KWR-PBG": "I think",  // thi[nk]
     "KWROEPBG": "I don't think",
-    "KWR-PBT": "I want",   // wa[nt]
-    "KWROEPBT": "I don't want",
-    "KWR-PT": "I want",    // allow omitting -B as in standard Plover
+    "KWR-PT": "I want",    // wa[nt] but omit -B as in standard Plover
     "KWROEPT": "I don't want",
     "KWR-Z": "I see",      // Z /ziː/ ~= "see"
     "KWROEZ": "I don't see",
