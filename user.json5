@@ -2319,6 +2319,7 @@
 
     // ... from using -S when I should have used -Z
     "AFBGS/H-F": "affects",      // from "affection"
+    "ALGS/H-F": "algorithms",    // from "additional"
     "HROUD/H-F": "allowed",      // from "loud"
     "T-PBS/H-F": "continues",    // from "continuous"
     "AOEUS/H-F": "eyes",         // from "ice"
