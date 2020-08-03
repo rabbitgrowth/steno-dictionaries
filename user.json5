@@ -2338,9 +2338,6 @@
     "TERS/H-F": "terrors",       // from "terse"
     "THEURS/H-F": "thinkers",    // from "thirst"
 
-    // Make error recovery stroke do nothing on its own
-    "H-F": "{#}",
-
     // Use same stroke to change to British spelling
     "PWHAEUFR/H-F": "behaviour",
     "KHRARPL/H-F": "clamour",
