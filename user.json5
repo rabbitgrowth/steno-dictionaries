@@ -1839,7 +1839,6 @@
     "SHREUD/TPAOEUG": "solidifying",
 
     "TPUBGS": "fucks", // use TPUPBGS for "function"
-    "RAEUGZ": "raising",
     "RAEUPLD": "remained", // overrides "Raymond"
     "RA*EUPLD": "Raymond",
     "SKAOEGD": "succeeding", // otherwise gives "skiinged"
@@ -2175,6 +2174,15 @@
     "PHAFS": "massive",  // by default "masses"
     "PHEUFS": "missive", // by default "massive"
 
+    // "racing" and "raising"
+    // The default strokes are hard to remember:
+    // RAEUS "race"  (makes sense) -> RAEFG   "racing"  (?!)
+    // RAEUZ "raise" (makes sense) -> RA*EUFG "raising" (?!)
+    // Make simply folding in -G work.
+    "RAEUGS": "racing",     // overrides "regulation"
+    "RAEUGZ": "raising",
+    "R*ELGS": "regulation", // RE+GL+GS; starless is "relation"
+
     // "superior" and "inferior"
     "SPOEURT": "superiority",
     "TPOEURPBT": "inferiority", // from TPOEURPB (mnemonic: "infor")
@@ -2298,7 +2306,6 @@
     "PAEURS/H-F": "Paris",        // from "pairs"
     "PAGS/H-F": "passing",        // from "passion"
     "PREGS/H-F": "pressing",      // from "oppression"
-    "RAEUGS/H-F": "racing",       // from "regulation"
     "RAEUPLD/H-F": "Raymond",     // from "remained" (custom)
     "RAOEURD/H-F": "rider",       // from "required"
     "REUPL/H-F": "ripple",        // from "rim"
