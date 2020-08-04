@@ -293,6 +293,12 @@
     "SRAEL": "valley", // overrides "vale"
     "SRA*EUL": "vale",
 
+    "HROEB": "lobby",     // overrides "lobe"
+    "HROEBG": "lobbying", // overrides "locate"
+    "HRO*EB": "lobe",
+    "KHRAEUT": "locate", // "lcate"
+                         // use KALG ("calc") for "calculate"
+
     // Lengthen vowel for -y
     // Precedent: TPUPB "fun" -> TPAOUPB "funny"
     "PWAOUL": "bully", // overrides "boule"
