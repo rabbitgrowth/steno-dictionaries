@@ -372,6 +372,7 @@
     // Fold in -R for -er or -or
     "KHEFR": "achiever", // overrides "chevre"
     "APBLG/TAEURT": "agitator",
+    "KHARLG": "challenger",
     "KH*EFR": "chèvre",  // with proper diacritics
     "SH*EFR": "chèvre",  // phonetic
     "KPHARPBD": "commander",
