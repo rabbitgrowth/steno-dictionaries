@@ -2358,13 +2358,17 @@
     "HROUD/H-F": "allowed",       // from "loud"
     "PWAOEUS/H-F": "buys",        // from "bias" (custom)
     "T-PBS/H-F": "continues",     // from "continuous"
+    "STKPHRAEUS/H-F": "displays", // from "displace" (custom)
     "AOEUS/H-F": "eyes",          // from "ice"
+    "TPHRAEUBGS/H-F": "flakes",   // from "affliction" (custom)
     "TPHREBGS/H-F": "flecks",     // from "flex"
+    "TPREBGS/H-F": "frequents",   // from "for example" (custom)
     "SKWRELS/H-F": "gels",        // from "jealous" (custom)
     "TKPWROES/H-F": "grows",      // from "gross"
     "HORS/H-F": "horrors",        // from "horse"
     "SKWROEUS/H-F": "joys",       // from "Joyce"
     "TPHOES/H-F": "knows",        // from "nose"
+    "PHAEUPLS/H-F": "maims",      // from "my name is" (custom)
     "PHAPBGS/H-F": "manages",     // from "mansion"
     "WUPBS/H-F": "ones",          // from "once"
     "PAOERS/H-F": "peers",        // from "pierce"
