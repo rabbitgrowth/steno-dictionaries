@@ -2356,28 +2356,29 @@
     "AFBGS/H-F": "affects",       // from "affection"
     "ALGS/H-F": "algorithms",     // from "additional"
     "HROUD/H-F": "allowed",       // from "loud"
-    "PWAOEUS/H-F": "buys",        // from "bias" (custom)
     "T-PBS/H-F": "continues",     // from "continuous"
-    "STKPHRAEUS/H-F": "displays", // from "displace" (custom)
     "AOEUS/H-F": "eyes",          // from "ice"
-    "TPHRAEUBGS/H-F": "flakes",   // from "affliction" (custom)
     "TPHREBGS/H-F": "flecks",     // from "flex"
-    "TPREBGS/H-F": "frequents",   // from "for example" (custom)
-    "SKWRELS/H-F": "gels",        // from "jealous" (custom)
     "TKPWROES/H-F": "grows",      // from "gross"
     "HORS/H-F": "horrors",        // from "horse"
     "SKWROEUS/H-F": "joys",       // from "Joyce"
     "TPHOES/H-F": "knows",        // from "nose"
-    "PHAEUPLS/H-F": "maims",      // from "my name is" (custom)
     "PHAPBGS/H-F": "manages",     // from "mansion"
     "WUPBS/H-F": "ones",          // from "once"
     "PAOERS/H-F": "peers",        // from "pierce"
     "PHRAEUS/H-F": "plays",       // from "place"
     "PREUPBS/H-F": "principles",  // from "prince"
-    "SAES/H-F": "seas",           // from "assess" (custom)
     "SPHRAOEUS/H-F": "supplies",  // from "splice"
     "TERS/H-F": "terrors",        // from "terse"
     "THEURS/H-F": "thinkers",     // from "thirst"
+
+    "PWAOEUS/H-F": "buys",        // from "bias"        (custom)
+    "STKPHRAEUS/H-F": "displays", // from "displace"    (custom)
+    "TPHRAEUBGS/H-F": "flakes",   // from "affliction"  (custom)
+    "TPREBGS/H-F": "frequents",   // from "for example" (custom)
+    "SKWRELS/H-F": "gels",        // from "jealous"     (custom)
+    "PHAEUPLS/H-F": "maims",      // from "my name is"  (custom)
+    "SAES/H-F": "seas",           // from "assess"      (custom)
 
     // Use same stroke to change to British spelling
     "PWHAEUFR/H-F": "behaviour",
