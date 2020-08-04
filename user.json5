@@ -666,6 +666,8 @@
     "TPRAOUFD": "refused",
     "TPRAOUFG": "refusing", // TPRAOUGS is "fruition"
     "TPRAOULS": "refusal",  // TPRAOUFL is "fruitful"
+    "SREPL/-BL": "resemble",
+    "SREPL/PWHRAPBS": "resemblance",
     "SREUFT": "resist", // use SREUT for "visit"
 
     // REU for -ary, -ery, and -ory
