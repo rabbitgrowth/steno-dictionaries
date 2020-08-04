@@ -871,6 +871,7 @@
 
     // Miscellaneous star-dropping
     "THRAOET": "athlete",       // bizarre misstroke for "throat"
+    "PWAOEUS": "bias",          // use -Z for "buys"
     "TP-RB": "efficiency",      // TP-RBT "efficient" - -T
     "AOEGS": "emotion",         // use SERBL for "essential"
     "AOELGS": "emotional",      // use SHRERBL for "essentially"
@@ -2355,6 +2356,7 @@
     "AFBGS/H-F": "affects",       // from "affection"
     "ALGS/H-F": "algorithms",     // from "additional"
     "HROUD/H-F": "allowed",       // from "loud"
+    "PWAOEUS/H-F": "buys",        // from "bias" (custom)
     "T-PBS/H-F": "continues",     // from "continuous"
     "AOEUS/H-F": "eyes",          // from "ice"
     "TPHREBGS/H-F": "flecks",     // from "flex"
