@@ -296,8 +296,11 @@
     "HROEB": "lobby",     // overrides "lobe"
     "HROEBG": "lobbying", // overrides "locate"
     "HRO*EB": "lobe",
-    "KHRAEUT": "locate", // "lcate"
-                         // use KALG ("calc") for "calculate"
+    "KHRAEUT": "locate",    // "lcate"
+                            // use KALG ("calc") for "calculate"
+    "KHRAEUGT": "locating", // come back for -G for "calculating"
+    "KHRAEUGS": "location", // overrides "calculation"
+    "KAGS": "calculation",  // KALG but with LG rotated 90°
 
     // Lengthen vowel for -y
     // Precedent: TPUPB "fun" -> TPAOUPB "funny"
