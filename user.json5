@@ -2249,6 +2249,21 @@
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
 
+    // US political parties
+    "RUP": "Republican",
+    "RUPS": "Republicans",        // misstroke for "run"
+    "RE/PUBL/KAPB": "republican", // "republican with a small r"
+                                  // is less common and doesn't need a brief
+    "TK*EPL": "Democrat",         // overrides {demi^}
+    "TKEPL": "democrat",          // overrides "dem"
+    "TKEPL/SEU": "democracy",     // change the on-screen -t to -cy
+                                  // alternative to TKEPL/KRAES
+    "TKEPL/EUBG": "democratic",   // add -ic to the on-screen -t
+    "TKPHEU": "{demi^}",          // consistent with SPHEU {semi^}
+    "TH*EPL": "dem",              // informal "them" ("dem big bucks")
+    // "Republicans and Democrats" RUPS/SKP/TK*EPLS
+    // "Republican and Democratic" RUP/SKP/TK*EPL/EUBG
+
     // Fictitious place names
     "SREUL": "{*-|}{^ville}", // with retrospective capitalization
 
