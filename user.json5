@@ -297,6 +297,7 @@
     "HROEBG": "lobbying", // overrides "locate"
     "HRO*EB": "lobe",
     "KHRAEUT": "locate",    // overrides "calculate"
+    "KHRAEUTD": "located",  // overrides "calculated"
     "KHRAEUGT": "locating", // overrides "calculating"
     "KHRAEUGS": "location", // overrides "calculation"
     "KAL": "calculate", // overrides "cal" (small calorie)
