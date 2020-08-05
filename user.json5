@@ -507,6 +507,17 @@
     "SPWUBGT": "induct",
     "SPWULG": "indulge",
 
+    "SPWEFR": "endeavor",
+    "SPWHRES": "endless",
+    "SPWHRELS": "endlessly",
+    "SPWORS": "endorse",
+    "SPWORPLT": "endorsement", // cf. EPB/TKORPLT
+    "SPWOU": "endow",
+    "SPWAOUR": "endure",       // cf. EPB/TKAOUR
+    "SPWUR": "endure",         // cf. EPB/TKUR
+    "SPWAOURPBS": "endurance", // cf. EPB/TKAOURPBS
+    "SPWURPBS": "endurance",   // cf. EPB/TKURPBS
+
     // Extend SPW to ant-, ont-, and unt-
     // Justification: "ent- or int-" isn't a mirror image of -nt; nt- is.
     // And nt- feels like it could be extended to mean [any vowel]nt-.
