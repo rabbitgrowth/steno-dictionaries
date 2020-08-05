@@ -483,8 +483,8 @@
     "SPAOEFPLS": "speechless",
     "SPAOEUPBLS": "spineless",
 
-    // Extend SPW to ind-
-    // This works great because int- and ind- tend not to overlap.
+    // Extend SPW to ind- and end-
+    // There is surprisingly little overlap.
     // "indebt" is a word; "intebt" is not.
     // "intern" is a word; "indern" is not.
     // Of course there are exceptions: "intent", "indent".
@@ -506,6 +506,18 @@
     "SPWAOUS": "induce",
     "SPWUBGT": "induct",
     "SPWULG": "indulge",
+
+    "SPWEFR": "endeavor",
+    "SPWHRES": "endless",
+    "SPWHRELS": "endlessly",
+    "SPWORS": "endorse",
+    "SPWOFRD": "endorsed",
+    "SPWORPLT": "endorsement", // cf. EPB/TKORPLT
+    "SPWOU": "endow",
+    "SPWAOUR": "endure",       // cf. EPB/TKAOUR
+    "SPWUR": "endure",         // cf. EPB/TKUR
+    "SPWAOURPBS": "endurance", // cf. EPB/TKAOURPBS
+    "SPWURPBS": "endurance",   // cf. EPB/TKURPBS
 
     // Extend SPW to ant-, ont-, and unt-
     // Justification: "ent- or int-" isn't a mirror image of -nt; nt- is.
@@ -736,7 +748,6 @@
     // Precedents: KUFRD "cursed", TPOFRD "forced", RAOEPB/TPOFRD "reinforced"
     // -RSD is possible but requires Philly shift.
     "TKWOFRD": "divorced",
-    "EPB/TKOFRD": "endorsed",
     "EPB/TPOFRD": "enforced",
     "EUPL/PHEFRD": "immersed",
     "PAFRD": "parsed",
@@ -2030,8 +2041,6 @@
     "AR": "area",            // first two letters
     "TAL": "at all",         // since TAUL is "tall"
     "WAU": "away",           // arbitrary
-    "SHREPBD": "endless",    // SL as mirror image of -LS
-    "SHREPBLD": "endlessly",
     "STPHUR": "ensure",      // "N-shur" (TPH + SH)
                              // overrides "insure"
     "STPH*UR": "insure",
