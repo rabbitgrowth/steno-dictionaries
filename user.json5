@@ -2041,8 +2041,6 @@
     "AR": "area",            // first two letters
     "TAL": "at all",         // since TAUL is "tall"
     "WAU": "away",           // arbitrary
-    "SHREPBD": "endless",    // SL as mirror image of -LS
-    "SHREPBLD": "endlessly",
     "STPHUR": "ensure",      // "N-shur" (TPH + SH)
                              // overrides "insure"
     "STPH*UR": "insure",
