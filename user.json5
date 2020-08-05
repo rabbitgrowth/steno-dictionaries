@@ -1971,6 +1971,7 @@
     "SKREBGT": "incorrect",
     "STKRET": "indirect", // see also SPWRET
     "STKRELT": "indirectly",
+    "SKWAELT": "inequality", // S+E+KWALT
     "SABL": "unable",
     "STPAEUR": "unfair",
     "STPAEURL": "unfairly", // misstroke for "fairly"
