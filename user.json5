@@ -66,6 +66,9 @@
                                 //   use KRET/-BL for "creditable"
     "STKPWRAE": "disagree",     // with TKPWRAE "agree"
     "KP-PGS": "expectation",    // with KP-PT "expect"
+    "STEPBD": "extend",         // with STEPBGS "extension"
+                                //   give up "send it"
+    "STEPBD/-D": "extended",    //   misstroke for "tended"
     "TPREBGS": "for example",   // with TPREUPBS "for instance"
                                 //   use -Z for "frequents"
     "HAPBT": "hasn't",          // with HAPBLT "has not"
@@ -1989,8 +1992,6 @@
 
     // Pick more distinctive part of word
     "STRAEUGS": "administration",
-    "STEPBD": "extend",      // give up "send it"
-    "STEPBD/-D": "extended", // misstroke for "tended"?
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "TPHAOEBG": "technique", // add * for "anemic"
 
