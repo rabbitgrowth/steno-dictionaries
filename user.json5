@@ -293,21 +293,21 @@
     "SRAEL": "valley", // overrides "vale"
     "SRA*EUL": "vale",
 
-    "HROEB": "lobby",     // overrides "lobe"
-    "HROEBG": "lobbying", // overrides "locate"
+    "HROEB": "lobby",        // overrides "lobe"
+    "HROEBG": "lobbying",    // overrides "locate"
     "HRO*EB": "lobe",
-    "KHRAEUT": "locate",    // overrides "calculate"
-    "KHRAEUTD": "located",  // overrides "calculated"
-    "KHRAEUGT": "locating", // overrides "calculating"
-    "KHRAEUGS": "location", // overrides "calculation"
-    "KAL": "calculate", // overrides "cal" (small calorie)
+    "KHRAEUT": "locate",     // overrides "calculate"
+    "KHRAEUTD": "located",   // overrides "calculated"
+    "KHRAEUGT": "locating",  // overrides "calculating"
+    "KHRAEUGS": "location",  // overrides "calculation"
+    "KAL": "calculate",      // overrides "cal" (small calorie)
     "KALS": "calculates",
     "KALG": "calculating",
     "KALGS": "calculation",
-    "KARLT": "calculator", // with -T because KARL is "Karl"
-                           // and feels like "callor" (if that was a word)
+    "KARLT": "calculator",   // with -T because KARL is "Karl"
+                             // and feels like "callor" (if that was a word)
     "KAL/TOR": "calculator",
-    "KA*L": "cal", // use KPAL for "capital"
+    "KA*L": "cal",           // use KPAL for "capital"
     "KA*LS": "cals",
 
     // Lengthen vowel for -y
