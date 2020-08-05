@@ -490,7 +490,7 @@
     // Of course there are exceptions: "intent", "indent".
     "SPWET": "indebt",
     "SPWAOEPBT": "indecent",  // cf. TKAOEPBT "decent"
-    "SPWAOEFPBT": "indecent", // fully phonetic stroke as alternative
+    "SPWAOEFPBT": "indecent", // phonetic
     "TKAOEFPBT": "decent",
     "SPWAOED": "indeed", // beats TPHAOEPBD imo
     "SPW*EPBT": "indent", // starless is "intent" (default to int-)
