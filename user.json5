@@ -296,11 +296,18 @@
     "HROEB": "lobby",     // overrides "lobe"
     "HROEBG": "lobbying", // overrides "locate"
     "HRO*EB": "lobe",
-    "KHRAEUT": "locate",    // "lcate"
-                            // use KALG ("calc") for "calculate"
-    "KHRAEUGT": "locating", // come back for -G for "calculating"
+    "KHRAEUT": "locate",    // overrides "calculate"
+    "KHRAEUGT": "locating", // overrides "calculating"
     "KHRAEUGS": "location", // overrides "calculation"
-    "KAGS": "calculation",  // KALG but with LG rotated 90°
+    "KAL": "calculate", // overrides "cal" (small calorie)
+    "KALS": "calculates",
+    "KALG": "calculating",
+    "KALGS": "calculation",
+    "KARLT": "calculator", // with -T because KARL is "Karl"
+                           // and feels like "callor" (if that was a word)
+    "KAL/TOR": "calculator",
+    "KA*L": "cal", // use KPAL for "capital"
+    "KA*LS": "cals",
 
     // Lengthen vowel for -y
     // Precedent: TPUPB "fun" -> TPAOUPB "funny"
