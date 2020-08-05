@@ -1803,6 +1803,8 @@
                          // use WAOEUR for "wire"
     "HR-F": "will have", // use HRUF for "love" (think "luv")
     "HR-FB": "will have been",
+    "WHOR": "who are", // overrides "whore"
+    "WHO*R": "whore",
 
     // Plurals
     "AL/PWAOEUS": "alibis",
@@ -2398,6 +2400,7 @@
     "TOEFRT/H-F": "toaster",      // from "effort to"
     "TOEFRTS/H-F": "toasters",
     "WHABG/H-F": "whack",         // from "what can" (custom)
+    "WHOR/H-F": "whore",          // from "who are" (custom)
     "WEUPBS/H-F": "wins",         // from "wince"
 
     "AOEUPLT/H-F": "item",        // from "I'm the"      (custom)
