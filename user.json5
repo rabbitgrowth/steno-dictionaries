@@ -300,7 +300,7 @@
     "KHRAEUTD": "located",   // overrides "calculated"
     "KHRAEUGT": "locating",  // overrides "calculating"
     "KHRAEUGS": "location",  // overrides "calculation"
-    "KAL": "calculate",      // overrides "cal" (small calorie)
+    "KAL": "calculate",      // overrides "cal" (calorie)
     "KALS": "calculates",
     "KALG": "calculating",
     "KALGS": "calculation",
