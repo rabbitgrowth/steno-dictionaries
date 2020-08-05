@@ -2215,6 +2215,23 @@
     "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
     "OUFD": "outside",  // "ousd"; for consistency
 
+    // "-r(e) than"
+    // These three feel like a family,
+    // since they all compress "-r(e) than" into -RPB:
+    // "more than"   PH-RPB  (omit vowel)
+    // "rather than" RARPB   (include vowel)
+    // "other than"  O*ERPB  (include vowel and add *)
+    // But since they sometimes include the vowel, sometimes not,
+    // it's easy to confuse them and misstroke. If you think
+    // "include vowel", you might stroke "more than" as PHORPB
+    // ("morn"). If you think "omit vowel", you might stroke
+    // "rather than" as R-RPB (undefined). Or you might forget
+    // the * in "other than" and stroke OERPB ("owner").
+    // Solution: always omit the vowel.
+    "PH-RPB": "more than", // already works
+    "R-RPB": "rather than",
+    "-RPB": "other than",
+
     // "logic" vs "magic"
     "SKWREUBG": "logic",   // overrides "magic"
     "SKWREULG": "logical", // "gical"
