@@ -1995,6 +1995,14 @@
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "TPHAOEBG": "technique", // add * for "anemic"
 
+    "SHU": "issue",
+    "SHUS": "issues", // overrides {^tious}
+    "SHOUS": "{^tious}", // not too useful compared to -RBS, which frees up
+                         // the left and bottom for consonants and vowels:
+                         // "ambitious"  APL/PWEURBS
+                         // "cautious"   KAURBS
+                         // "nutritious" TPHAO*URBS
+
     // Existing abbreviations
     "TK-L": "download",    // dl
     "SKWR-P": "Japan",     // JP
