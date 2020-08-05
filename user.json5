@@ -2399,8 +2399,6 @@
     "TAOEUD/H-F": "tied",         // from "tide"
     "TOEFRT/H-F": "toaster",      // from "effort to"
     "TOEFRTS/H-F": "toasters",
-    "WHABG/H-F": "whack",         // from "what can" (custom)
-    "WHOR/H-F": "whore",          // from "who are" (custom)
     "WEUPBS/H-F": "wins",         // from "wince"
 
     "AOEUPLT/H-F": "item",        // from "I'm the"      (custom)
@@ -2409,7 +2407,9 @@
     "WEL/H-F": "well",            // from "we will"      (custom)
     "WELD/H-F": "weld",           // from "we would"     (custom)
     "THA*UD/H-F": "thawed",       // from "that you'd"   (custom)
+    "WHABG/H-F": "whack",         // from "what can"     (custom)
     "WHAEL/H-F": "whale",         // from "what he will" (custom)
+    "WHOR/H-F": "whore",          // from "who are"      (custom)
 
     // ... from using -S when I should have used -Z
     "AFBGS/H-F": "affects",       // from "affection"
