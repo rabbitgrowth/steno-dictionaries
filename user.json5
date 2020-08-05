@@ -2263,6 +2263,7 @@
     "TH*EPL": "dem",              // informal "them" ("dem big bucks")
     // "Republicans and Democrats" RUPS/SKP/TK*EPLS
     // "Republican and Democratic" RUP/SKP/TK*EPL/EUBG
+    // For "Dem" as in "the Dems" or "a Dem voter", use the hacky KPA/TH*EPL.
 
     // Fictitious place names
     "SREUL": "{*-|}{^ville}", // with retrospective capitalization
