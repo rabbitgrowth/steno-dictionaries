@@ -483,8 +483,8 @@
     "SPAOEFPLS": "speechless",
     "SPAOEUPBLS": "spineless",
 
-    // Extend SPW to ind-
-    // This works great because int- and ind- tend not to overlap.
+    // Extend SPW to ind- and end-
+    // There is surprisingly little overlap.
     // "indebt" is a word; "intebt" is not.
     // "intern" is a word; "indern" is not.
     // Of course there are exceptions: "intent", "indent".
