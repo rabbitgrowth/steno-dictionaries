@@ -511,6 +511,7 @@
     "SPWHRES": "endless",
     "SPWHRELS": "endlessly",
     "SPWORS": "endorse",
+    "SPWOFRD": "endorsed",
     "SPWORPLT": "endorsement", // cf. EPB/TKORPLT
     "SPWOU": "endow",
     "SPWAOUR": "endure",       // cf. EPB/TKAOUR
@@ -747,7 +748,6 @@
     // Precedents: KUFRD "cursed", TPOFRD "forced", RAOEPB/TPOFRD "reinforced"
     // -RSD is possible but requires Philly shift.
     "TKWOFRD": "divorced",
-    "EPB/TKOFRD": "endorsed",
     "EPB/TPOFRD": "enforced",
     "EUPL/PHEFRD": "immersed",
     "PAFRD": "parsed",
