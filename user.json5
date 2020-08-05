@@ -27,6 +27,7 @@
     "SHR-BGT": "unlike the",
     "HR-LG": "likely", // overrides {^ological}
     "HR*LG": "{^ological}",
+    "HRAOLG": "likelihood", // HR-LG + "oo"
     "W-F": "one of",
     "W-FT": "one of the",
     "PR-B": "problem",
@@ -354,6 +355,9 @@
     "SHAOU/PHAEURBGS": "shoemakers",
     "TRUBL/PHAEURBG": "troublemaker",
     "TRUBL/PHAEURBGS": "troublemakers",
+
+    // Suffixes
+    "HRAO*D": "{^load}", // "truckload", "boatload", "shitload"...
 
     // Fold in A for a-
     // Precedents: SPAEBGT "aspect", TAEPBGS "attention"
