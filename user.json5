@@ -362,6 +362,8 @@
 
     // Suffixes
     "HRAO*D": "{^load}", // "truckload", "boatload", "shitload"...
+    "OR": "{^or}", // overrides "or" (!)
+    "-R": "or",    // actually nicer; avoids wasting both R and -R on "are"
 
     // Fold in A for a-
     // Precedents: SPAEBGT "aspect", TAEPBGS "attention"
