@@ -2178,6 +2178,18 @@
     "KW-BG/KW-BG": "{^}, \"{^}{-|}", // but for other words, instead of
                                      // doubling the word, double the comma
 
+    // A more ergonomic "end"
+    "TPH-D": "end",     // pronounce the TPH: "N'd"
+                        // easier to hit than EPBD
+                        // give up {^ed in}
+    "TPH-TD": "ended",  // overrides "noticed"
+    "TPH-GD": "ending", // *much* easier to hit than EPBGD
+    "TPH-DZ": "ends",   // overrides "inside"
+    "TPH-TSDZ": "noticed", // TPH-TS + -D + -Z because you can't
+                           // hit -TSD without hitting -Z too
+    "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
+    "OUFD": "outside",  // "ousd"; for consistency
+
     // Don't omit -T in -LT
     // -LT is just as easy, if not easier, to type as -L.
     "TPHARLT": "natural",
@@ -2225,18 +2237,6 @@
     "WHAOEUF": "whole life",
     "WHOEUPBT": "whole point",
     "WHAOEUPL": "whole time",
-
-    // A more ergonomic "end"
-    "TPH-D": "end",     // pronounce the TPH: "N'd"
-                        // easier to hit than EPBD
-                        // give up {^ed in}
-    "TPH-TD": "ended",  // overrides "noticed"
-    "TPH-GD": "ending", // *much* easier to hit than EPBGD
-    "TPH-DZ": "ends",   // overrides "inside"
-    "TPH-TSDZ": "noticed", // TPH-TS + -D + -Z because you can't
-                           // hit -TSD without hitting -Z too
-    "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
-    "OUFD": "outside",  // "ousd"; for consistency
 
     // "-r(e) than"
     // These three feel like a family,
