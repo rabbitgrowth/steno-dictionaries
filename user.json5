@@ -33,9 +33,6 @@
     "PR-B": "problem",
     "-RT": "right", // use R-T for "are the"
     "T-G": "thing",
-    "T-PL": "time",   // misstroke for {.}
-    "T-PLS": "times", // use T*PLS for "testimonies"
-    "ST-PLS": "sometimes",
     "W-D": "window", // give up {^ed with}
     "W*DZ": "Windows",
 
