@@ -2397,11 +2397,9 @@
     "PWURD/H-F": "buried",        // from "burden"
     "PWURG/H-F": "burying",       // from {^burg}
     "PWEUT/H-F": "by the",        // from "bit"
-    "KAEUGS/H-F": "casing",       // from {^ication}
     "KREUFPL/H-F": "crisply",     // from "criticism" (custom)
     "TKPWAEUT/H-F": "debate",     // from "gait"
     "TKWAOEUS/H-F": "devise",     // from "device"
-    "TKPHEUGS/H-F": "dismissing", // from "admission" (custom)
     "TKOT/H-F": "do the",         // from "dot"
     "TKOG/H-F": "doing",          // from "dog"
     "TPAEUTD/H-F": "faded",       // from "fated"
@@ -2413,16 +2411,12 @@
     "HARBG/H-F": "hacker",        // from "hark"
     "HARBGS/H-F": "hackers",
     "HAOEUFT/H-F": "heist",       // from "highest" (custom)
-    "KPWREGS/H-F": "impressing",  // from "impression" (custom)
     "PHABG/H-F": "Mac",           // from "magic" (custom)
     "PHAEPB/H-F": "mean",         // from "many"
-    "PHEUGS/H-F": "missing",      // from "mission"
     "PHORPB/H-F": "more than",    // from "morn"
     "ORPBG/H-F": "organ",         // from "orange"
     "OERPB/H-F": "other than",    // from "owner"
     "PAEURS/H-F": "Paris",        // from "pairs"
-    "PAGS/H-F": "passing",        // from "passion"
-    "PREGS/H-F": "pressing",      // from "oppression"
     "RAEUS/H-F": "raise",         // from "race"
     "RAEUPLD/H-F": "Raymond",     // from "remained" (custom)
     "RAOEURD/H-F": "rider",       // from "required"
@@ -2440,6 +2434,13 @@
     "TOEFRT/H-F": "toaster",      // from "effort to"
     "TOEFRTS/H-F": "toasters",
     "WEUPBS/H-F": "wins",         // from "wince"
+
+    "KAEUGS/H-F": "casing",       // from {^ication}
+    "TKPHEUGS/H-F": "dismissing", // from "admission" (custom)
+    "KPWREGS/H-F": "impressing",  // from "impression" (custom)
+    "PHEUGS/H-F": "missing",      // from "mission"
+    "PAGS/H-F": "passing",        // from "passion"
+    "PREGS/H-F": "pressing",      // from "oppression"
 
     "AOEUPLT/H-F": "item",        // from "I'm the"      (custom)
     "SHEL/H-F": "shell",          // from "she will"     (custom)
