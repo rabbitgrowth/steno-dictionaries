@@ -706,6 +706,8 @@
     "SREPL/-BL": "resemble",
     "SREPL/PWHRAPBS": "resemblance",
     "SREUFT": "resist", // use SREUT for "visit"
+    "SREUFPBS": "resistance", // or just use REUFPBS
+    "SREUFPBT": "resistant",  // or just use REUFPBT
 
     // REU for -ary, -ery, and -ory
     "EFGS/REU": "evolutionary",    // vs EFGS/AER
