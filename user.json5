@@ -2436,6 +2436,7 @@
     "WEUPBS/H-F": "wins",         // from "wince"
 
     "KAEUGS/H-F": "casing",       // from {^ication}
+    "KAUGS/H-F": "causing",       // from "caution"
     "TKPHEUGS/H-F": "dismissing", // from "admission" (custom)
     "KPWREGS/H-F": "impressing",  // from "impression" (custom)
     "PHEUGS/H-F": "missing",      // from "mission"
