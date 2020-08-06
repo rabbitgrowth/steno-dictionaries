@@ -2294,6 +2294,12 @@
     "TPO*EUR": "foyer",
     "TPOEURT": "inferiority",
 
+    // Fear
+    "HOR": "horror", // drop the final schwa
+    "TER": "terror",
+    // By the same logic "error" should be ER,
+    // but ER is more useful as {^er}.
+
     // Sign
     // I like the O-E symmetry.
     "POF": "positive",
@@ -2308,12 +2314,6 @@
     "TKPWOD/KHEURPB": "godchildren",
     "TKPWOD/SOPB": "godson",
     "TKPWOD/TKAURT": "goddaughter", // TKPWOD/TKAUR already works
-
-    // Fear
-    "HOR": "horror", // drop the final schwa
-    "TER": "terror",
-    // By the same logic "error" should be ER,
-    // but ER is more useful as {^er}.
 
     // The superrich
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
