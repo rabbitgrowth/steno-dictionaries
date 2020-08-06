@@ -1032,9 +1032,6 @@
     "*URT": "you're the",
     // "you aren't" URPBT already works
     "URPBLT": "you are not",
-    "-RPBT": "aren't", // make stacking form work too
-                       // makes sense because both R and -R are "are"
-    "-RPBLT": "are not",
     // "you were"   URP already works
     "URPT": "you were the",
     "HES": "he is", // give up "Hess"
@@ -1487,10 +1484,6 @@
     "PR": "people are",
     "PR-PBT": "people aren't",
     "PR-PBLT": "people are not",
-    "P-R": "people are", // push R to right
-                         // misstroke for "for"
-    "P-RPBT": "people aren't", // nice because RPBT feels like one unit
-    "P-RPBLT": "people are not",
     "P-RP": "people were",
     "PWR-PBT": "people weren't",
     "PWR-PBLT": "people were not",
