@@ -916,7 +916,6 @@
     // so HAPBLD makes more sense as "handled"
 
     // Miscellaneous star-dropping
-    "APB": "{^an}",             // use -PB for "an"
     "THRAOET": "athlete",       // bizarre misstroke for "throat"
     "PWAOEUS": "bias",          // use -Z for "buys"
     "TP-RB": "efficiency",      // TP-RBT "efficient" - -T
