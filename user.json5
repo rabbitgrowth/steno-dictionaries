@@ -1835,7 +1835,6 @@
     "SKWRUFSZ": "justices", // otherwise gives "justifieses" (SKWRUFZ + -S)
     "HRAUR/KWRATS": "laureates",
     "HRAUFS": "layoffs",
-    "HR-PBS": "licenses",
     "HRUL/PWAOEUS": "lullabies",
     "PHOD/RATS": "moderates",
     "PHOPB/SAOPBS": "monsoons",
@@ -2255,6 +2254,10 @@
     "PH-RPB": "more than", // already works
     "R-RPB": "rather than",
     "-RPB": "other than",
+    // While we're at it, we might as well brief the
+    // other comparison phrases using a similar pattern.
+    "PW-RPB": "better than",
+    "HR-PB": "less than", // use HR-PBS for "license"
 
     // "logic" vs "magic"
     "SKWREUBG": "logic",   // overrides "magic"
