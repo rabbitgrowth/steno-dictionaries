@@ -2295,9 +2295,7 @@
     "TPOEURT": "inferiority",
 
     // Sign
-    // The standard PEUF and TPH*EUF are not bad,
-    // but POF and TPHEF are even better.
-    // Look at that O-E symmetry!
+    // I like the O-E symmetry.
     "POF": "positive",
     "POFL": "positively",
     "TPHEF": "negative",
