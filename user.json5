@@ -2392,10 +2392,10 @@
     "TPHROUR/H-F": "flower",      // from "flour"
     "TKPWOT/H-F": "go to the",    // from "got"
     "TKPWUPB/H-F": "gun",         // from "begun"
-    "KPWREGS/H-F": "impressing",  // from "impression" (custom)
     "HARBG/H-F": "hacker",        // from "hark"
     "HARBGS/H-F": "hackers",
     "HAOEUFT/H-F": "heist",       // from "highest" (custom)
+    "KPWREGS/H-F": "impressing",  // from "impression" (custom)
     "PHABG/H-F": "Mac",           // from "magic" (custom)
     "PHAEPB/H-F": "mean",         // from "many"
     "PHEUGS/H-F": "missing",      // from "mission"
