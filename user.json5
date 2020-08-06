@@ -2299,7 +2299,10 @@
     // but POF and TPHEF are even better.
     // Look at that O-E symmetry!
     "POF": "positive",
+    "POFL": "positively",
     "TPHEF": "negative",
+    "TPHEFL": "negatively", // overrides "nestle"
+    "TPHEFLT": "nestle",    // cf. RUFLT "rustle"
 
     // Godparenthood
     "TKPWOD/PARPBT": "godparent",
