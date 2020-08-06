@@ -2185,7 +2185,7 @@
                                      // doubling the word, double the comma
 
     // "apple" family
-    "APL": "apple", // overrides "am"
+    "APL": "apple", // overrides "am" (!)
     "-PL": "am", // cf. EU/-PL "I am"
                  // use TP-PL for {.}
     "PAOEUPB/APL": "pineapple",
