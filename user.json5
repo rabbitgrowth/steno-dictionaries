@@ -608,7 +608,7 @@
     "STKPHRAOES": "displease",
     "STKPHRERB": "displeasure", // cf. PHRERB "pleasure"
     "STKPOEFBL": "disposable", // for consistency with "dispose", "disposal"
-                               // or just use the standard TKOEBL
+                               // or just use TKOEBL
     "STKPOEFD": "disposed",
     "STKPOEFG": "disposing",
     "STKPOGS": "disposition", // cf. POGS "position", -OE- is "disposing"
@@ -1959,11 +1959,11 @@
 
     // Expand "n't" into "not" with -L as bridge
     "K-PBLT": "cannot",     // from K-PBT   "can't"
-    "TKOEPBLT": "do not",   // from TKOEPBT "don't" (or just use the standard TKPHOT)
+    "TKOEPBLT": "do not",   // from TKOEPBT "don't" (or just use TKPHOT)
     "TKOPBLT": "does not",  // from TKOPBT  "doesn't"
     "PHUPBLT": "must not",  // from PHUPBT  "mustn't"
     "SHAPBLT": "shall not", // from SHAPBT  "shan't"
-    "WOEPBLT": "will not",  // from WOEPBT  "won't" (or just use the standard HR-PBT)
+    "WOEPBLT": "will not",  // from WOEPBT  "won't" (or just use HR-PBT)
 
     // S for negation
     "STPHOL": "abnormal",
