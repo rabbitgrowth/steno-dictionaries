@@ -1,6 +1,6 @@
 {
 
-    // Skeletal briefs for common words
+    // Skeletal briefs
     "PW-RT": "better", // since PWERT is "Bert" and PW*ERT is "berth"
                        // and I don't want to alter the vowel (PWOERT),
                        // so just omit the vowel
@@ -13,6 +13,9 @@
     "TPR-D": "friend", // misstroke for "interested"
     "TPR-DZ": "friends",
     "TKPW-D": "good",
+    "H-P": "hypothesis", // just fingerspell "HP"
+    "H-PS": "hypotheses",
+    "H-P/-S": "hypotheses",
     "K-D": "kind", // use A/KORD for "accord"; Plover even allows A/K-D
                    // KIND   416980
                    // ACCORD   6864
@@ -211,9 +214,6 @@
     "HEUPB": "hidden",
     "HOLD": "holiday", // use HOELD for "hold"
     "HOLDZ": "holidays",
-    "H-P": "hypothesis", // just fingerspell "HP"
-    "H-PS": "hypotheses",
-    "H-P/-S": "hypotheses",
     "PHELG": "medical", // "mecal"
     "PHAEUPLS": "my name is", // use -Z for "maims"
     "WURPB": "one another",
