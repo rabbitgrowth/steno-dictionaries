@@ -794,6 +794,10 @@
     "TPAUR/SAEUPB": "forsaken", // "forsane" is not a word
 
     // Drop * and use -T for -th (Indian accent?)
+    "PWRET": "breath",    // swap with "Brett"
+    "PWR*ET": "Brett",
+    "PWRAOET": "breathe", // swap with "burrito"
+    "PWRAO*ET": "burrito",
     "ERT": "earth",
     "ERT/PWOUPBD": "earthbound",
     "ERT/KWAEUBG": "earthquake",
