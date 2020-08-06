@@ -79,6 +79,8 @@
                                 //   HAPBT "hasn't" + -L as bridge = "has not"
     "STK*EPB": "incident",      // with STKEPB "accident"
     "TERPGS": "interpretation", // with TERP "interpret"
+    "OB": "object",             // with OBGS "objection"
+                                //   misstroke for "on"
     "OPB/WARD": "onward",       // with PWABG/WARD "backward"
     "ORPB": "origin",           // with ORPBL "original"
     "P-FGS": "perfection",      // with P-F "perfect"
