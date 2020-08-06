@@ -451,8 +451,6 @@
     // Fold in -L for -ly
     "K-RBLS": "consciously",
     "TKELD": "deadly",
-    "TKRELT": "directly", // as easy to type as TKREL (perhaps easier?)
-                          // TKRELG is also nice (/dɪˈrɛkli/)
     "ELZ": "easily",
     "TKPWAFLT": "ghastly",
     "HAEPL": "happily",
@@ -2179,6 +2177,11 @@
     "SAEUG/SAEUG": "saying, \"{^}{-|}", // make it work for all forms of "say"
     "KW-BG/KW-BG": "{^}, \"{^}{-|}", // but for other words, instead of
                                      // doubling the word, double the comma
+
+    // Don't omit -T in -LT
+    // -LT is just as easy, if not easier, to type as -L.
+    "TPHARLT": "natural",
+    "TKRELT": "directly", // TKRELG is also nice (/dɪˈrɛkli/)
 
     // "apple" family
     "APL": "apple", // overrides "am" (!)
