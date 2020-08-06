@@ -2294,6 +2294,13 @@
     "TPO*EUR": "foyer",
     "TPOEURT": "inferiority",
 
+    // Sign
+    // The standard PEUF and TPH*EUF are not bad,
+    // but POF and TPHEF are even better.
+    // Look at that O-E symmetry!
+    "POF": "positive",
+    "TPHEF": "negative",
+
     // Godparenthood
     "TKPWOD/PARPBT": "godparent",
     "TKPWOD/KHAOEULD": "godchild",
