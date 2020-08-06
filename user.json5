@@ -2397,6 +2397,7 @@
     "PWURD/H-F": "buried",        // from "burden"
     "PWURG/H-F": "burying",       // from {^burg}
     "PWEUT/H-F": "by the",        // from "bit"
+    "KAEUFG/H-F": "casing",       // from {^ication}
     "KREUFPL/H-F": "crisply",     // from "criticism" (custom)
     "TKPWAEUT/H-F": "debate",     // from "gait"
     "TKWAOEUS/H-F": "devise",     // from "device"
@@ -2434,14 +2435,6 @@
     "TOEFRT/H-F": "toaster",      // from "effort to"
     "TOEFRTS/H-F": "toasters",
     "WEUPBS/H-F": "wins",         // from "wince"
-
-    "KAEUGS/H-F": "casing",       // from {^ication}
-    "KAUGS/H-F": "causing",       // from "caution"
-    "TKPHEUGS/H-F": "dismissing", // from "admission" (custom)
-    "KPWREGS/H-F": "impressing",  // from "impression" (custom)
-    "PHEUGS/H-F": "missing",      // from "mission"
-    "PAGS/H-F": "passing",        // from "passion"
-    "PREGS/H-F": "pressing",      // from "oppression"
 
     "AOEUPLT/H-F": "item",        // from "I'm the"      (custom)
     "SHEL/H-F": "shell",          // from "she will"     (custom)
