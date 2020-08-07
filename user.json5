@@ -189,6 +189,7 @@
     "HEFR": "heavier", // overrides "heifer"
     "H*EFR": "heifer",
     "PHERPL": "memory",
+    "PHOEFGS": "motivation",
     "PARPLT": "parliament", // use ARPLT for "apartment"
     "POERT": "poetry",
     "THAOER": "theory",
