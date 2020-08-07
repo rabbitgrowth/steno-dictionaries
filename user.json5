@@ -10,7 +10,7 @@
     "-FD": "find",
     "T-FD": "find it",
     "TP-D": "found", // give up "pharmacodynamic"
-    "TP-RB": "finish",
+    "TP-RB": "finish", // cf. P-RB "punish"
     "TPR-D": "friend", // misstroke for "interested"
     "TPR-DZ": "friends",
     "SKWR-PL": "gentleman",
