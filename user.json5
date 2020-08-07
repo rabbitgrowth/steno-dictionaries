@@ -2303,8 +2303,8 @@
                          // RAEUDZ is "raids"
     
     // "subject" and "object"
-    "OFBT": "objective",   // OBT  "object"  + -F
     "SUFBT": "subjective", // SUBT "subject" + -F
+    "OFBT": "objective",   // OBT  "object"  + -F
     // SUBT/EUFT "subjectivity" is nice;
     // make that work for "objectivity" too.
     "OBT/EUFT": "objectivity", // "objectist" is very rare
