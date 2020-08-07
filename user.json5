@@ -2308,6 +2308,7 @@
     // SUBT/EUFT "subjectivity" is nice;
     // make that work for "objectivity" too.
     "OBT/EUFT": "objectivity", // "objectist" is very rare
+    // SUFBT/-TEU and OFBT/-TEU work too.
 
     // "superior" and "inferior"
     "SPOEURT": "superiority",
