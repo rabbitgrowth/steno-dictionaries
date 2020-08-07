@@ -1319,8 +1319,13 @@
     "WEFD": "we find",
     "THEFD": "they find",
 
-    "UGT": "you get",
     "TOGT": "to get", // use T-GT for "together"
+    "UGT": "you get",
+    "EGTS": "he gets", // use ETS for "et cetera"
+    "SHEGTS": "she gets",
+    "T-GTS": "it gets",
+    "WEGT": "we get", // come back for -G for "wetting"
+    "THEGT": "they get",
 
     "UZ": "you see",
     "TOZ": "to see",
@@ -2497,6 +2502,7 @@
     "WHABG/H-F": "whack",         // from "what can"     (custom)
     "WHAEL/H-F": "whale",         // from "what he will" (custom)
     "WHOR/H-F": "whore",          // from "who are"      (custom)
+    "WEGT/H-F": "wetting",        // from "we get"       (custom)
 
     // ... from using -S when I should have used -Z
     "AFBGS/H-F": "affects",       // from "affection"
