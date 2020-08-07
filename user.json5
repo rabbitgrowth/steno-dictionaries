@@ -10,6 +10,7 @@
     "-FD": "find",
     "T-FD": "find it",
     "TP-D": "found", // give up "pharmacodynamic"
+    "TP-RB": "finish",
     "TPR-D": "friend", // misstroke for "interested"
     "TPR-DZ": "friends",
     "SKWR-PL": "gentleman",
@@ -921,7 +922,6 @@
     // Miscellaneous star-dropping
     "THRAOET": "athlete",       // bizarre misstroke for "throat"
     "PWAOEUS": "bias",          // use -Z for "buys"
-    "TP-RB": "efficiency",      // TP-RBT "efficient" - -T
     "AOEGS": "emotion",         // use SERBL for "essential"
     "AOELGS": "emotional",      // use SHRERBL for "essentially"
     "HRAOELGS": "emotionally",
@@ -2106,6 +2106,7 @@
     "AR": "area",            // first two letters
     "TAL": "at all",         // since TAUL is "tall"
     "WAU": "away",           // arbitrary
+    "TP-RBZ": "efficiency",  // TP-RBT "efficient" - -T + -Z for "-cy"
     "STPHUR": "ensure",      // "N-shur" (TPH + SH)
                              // overrides "insure"
     "STPH*UR": "insure",
