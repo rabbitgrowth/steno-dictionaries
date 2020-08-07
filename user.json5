@@ -1320,6 +1320,13 @@
     "WEBGZ": "we can see",
     "THEBGZ": "they can see",
 
+    "UFD": "you find",
+    "EFDZ": "he finds",
+    "SHEFDZ": "she finds",
+    "T-FDZ": "it finds",
+    "WEFD": "we find",
+    "THEFD": "they find",
+
     "UGT": "you get",
     "TOGT": "to get", // use T-GT for "together"
 
