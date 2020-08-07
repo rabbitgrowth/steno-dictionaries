@@ -968,6 +968,13 @@
     "KPRAOEL": "extremely", // sort of like PHAEUBG "make", PHAEUG "making"
                             // where -G swallows -BG; here -L swallows -PL
 
+    "TREUPBG": "intrinsic", // the * is probably for the -nk sound,
+                            // but I think briefs don't have to be
+                            // so phonetically strict
+    "TREUPBLG": "intrinsically",
+    "KPREUPBG": "extrinsic",
+    "KPREUPBLG": "extrinsically",
+
     "PAEUT": "participate", // partici[pate] or [p]articip[ate]
     "PA*EUT": "pate",
     "PAEUGS": "participation",
