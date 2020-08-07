@@ -79,8 +79,6 @@
                                 //   HAPBT "hasn't" + -L as bridge = "has not"
     "STK*EPB": "incident",      // with STKEPB "accident"
     "TERPGS": "interpretation", // with TERP "interpret"
-    "OB": "object",             // with OBGS "objection"
-                                //   misstroke for "on"
     "OPB/WARD": "onward",       // with PWABG/WARD "backward"
     "ORPB": "origin",           // with ORPBL "original"
     "P-FGS": "perfection",      // with P-F "perfect"
@@ -2303,6 +2301,13 @@
     "RAEUFD": "raced",
     "RA*EUFD": "raised", // already works
                          // RAEUDZ is "raids"
+    
+    // "subject" and "object"
+    "OFBT": "objective",   // OBT  "object"  + -F
+    "SUFBT": "subjective", // SUBT "subject" + -F
+    // SUBT/EUFT "subjectivity" is nice;
+    // make that work for "objectivity" too.
+    "OBT/EUFT": "objectivity", // "objectist" is very rare
 
     // "superior" and "inferior"
     "SPOEURT": "superiority",
