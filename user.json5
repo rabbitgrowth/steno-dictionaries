@@ -2308,7 +2308,9 @@
     // SUBT/EUFT "subjectivity" is nice;
     // make that work for "objectivity" too.
     "OBT/EUFT": "objectivity", // "objectist" is very rare
-    // SUFBT/-TEU and OFBT/-TEU work too.
+    // SUFBT/-TEU ("subjective" + {^ity})
+    // OFBT/-TEU  ("objective"  + {^ity})
+    // work too thanks to Plover's orthography rules.
 
     // "superior" and "inferior"
     "SPOEURT": "superiority",
