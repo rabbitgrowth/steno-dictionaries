@@ -1274,6 +1274,10 @@
                   // use SKWRA for {^a}
     // "I know"       KWR-PB  already works
     // "I don't know" KWROEPB already works
+    "KWR-BL": "I believe", // [b]e[l]ieve
+    "KWROEBL": "I don't believe",
+    "KWR-FL": "I feel",    // [f]ee[l]
+    "KWROEFL": "I don't feel",
     "KWR-FD": "I find",    // [f]in[d]
     "KWROEFD": "I don't find", // Plover uses KWROFPBD but that PB feels
                                // unnecessary; "find" is by far the most
@@ -1281,10 +1285,6 @@
                                // I DO N'T FIND  1199
                                // I DO N'T FEED    30
                                // I DO N'T FIELD    3
-    "KWR-BL": "I believe", // [b]e[l]ieve
-    "KWROEBL": "I don't believe",
-    "KWR-FL": "I feel",    // [f]ee[l]
-    "KWROEFL": "I don't feel",
     "KWR-GT": "I get",     // [g]e[t]
     "KWROEGT": "I don't get",
     "TKWR-GT": "I get it",
@@ -1311,15 +1311,6 @@
     "KWR-BS": "I said",
 
     // Stack the verbs with other words
-    "UZ": "you see",
-    "TOZ": "to see",
-    "KWR-BGZ": "I can see",
-    "UBGZ": "you can see",
-    "EBGZ": "he can see",
-    "SHEBGZ": "she can see",
-    "WEBGZ": "we can see",
-    "THEBGZ": "they can see",
-
     "UFD": "you find",
     "EFDZ": "he finds",
     "SHEFDZ": "she finds",
@@ -1329,6 +1320,15 @@
 
     "UGT": "you get",
     "TOGT": "to get", // use T-GT for "together"
+
+    "UZ": "you see",
+    "TOZ": "to see",
+    "KWR-BGZ": "I can see",
+    "UBGZ": "you can see",
+    "EBGZ": "he can see",
+    "SHEBGZ": "she can see",
+    "WEBGZ": "we can see",
+    "THEBGZ": "they can see",
 
     // Reflexive pronouns
     "O*URS": "ourselves", // "ourself" is too rare
