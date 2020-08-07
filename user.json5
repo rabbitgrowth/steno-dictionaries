@@ -938,6 +938,7 @@
     "PREUPBL": "provisional",   // use PREUPB for "principle"
     "SKOLGS": "psychologist",   // "psychologies" is too rare
     "REUPBD": "remind",         // like HEUPBD "behind"
+    "REURPBD": "reminder",
     "ROPBT": "rotten",
     "STOEPBL": "stolen",
     "T-FGS": "television",      // "it wasing" doesn't make any sense
