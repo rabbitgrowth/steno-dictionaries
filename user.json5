@@ -2066,6 +2066,7 @@
     "KAOEB": "keyboard",   // keeb
     "PHO": "month",        // mo
     "PH-FT": "movement",   // mvt
+    "P-BGS": "pixel",      // px
     "PREF": "previous",    // prev
     "PREFL": "previously",
     "SEBG": "second",      // sec
