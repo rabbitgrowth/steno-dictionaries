@@ -804,6 +804,7 @@
     "ERT/KWAEUBGS": "earthquakes",
     "ERT/WORPL": "earthworm",
     "ERT/WORPLS": "earthworms",
+    "TKPWROET": "growth",
     "HELT": "health",
     "HAOELT": "healthy", // lengthen vowel for -y
     "PHETD": "method",    // by default "meted" by accident (met + -ed)
