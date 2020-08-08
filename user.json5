@@ -1,9 +1,9 @@
 {
 
     // Skeletal briefs
-    "PW-RT": "better", // since PWERT is "Bert" and PW*ERT is "berth"
-                       // and I don't want to alter the vowel (PWOERT),
-                       // so just omit the vowel
+    "PW-RT": "better", // PWERT is "Bert" and PW*ERT is "berth"
+                       // and I don't want to alter the vowel
+                       // (PWOERT), so just omit the vowel
     "PW*T": "both",
     "TK-FS": "difference",
     "TK-FT": "different",
