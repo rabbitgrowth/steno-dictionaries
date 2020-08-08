@@ -1455,7 +1455,8 @@
     "RA*": "Ra",
     "SA*": "as a",  // think "is + * = as" or "za"
     "S*T": "as the",
-    "TA": "at a",   // forms a nice pair with TE "at the"
+    "TA": "at a",
+    "T-T": "at the",
     "AOPB": "on a", // use AUPB for {on^}
     "TAEU": "to a", // misstroke for "day"
 
@@ -1846,7 +1847,6 @@
                                 // +  TPROFPBT "front of"
                                 // -----------
                                 //   STPROFPBT "in front of"
-    "T-T": "it the", // as in "making it the..."
     "TPHOBT": "not be",
     "SAUFP": "such a",
     "THERZ": "these are",
