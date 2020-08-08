@@ -198,6 +198,8 @@
     "THAOERL": "theoretical", // cf. the standard THOEURL
 
     // Use simpler vowel
+    "PHEUPBD": "mind", // vs PHAOEUPBD
+    "STRET": "street", // vs STRAOET
     "SWER": "swear",   // vs SWAER
     "THOT": "thought", // vs THAUT
 
