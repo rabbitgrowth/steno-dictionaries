@@ -2330,7 +2330,7 @@
     "RAEUFD": "raced",
     "RA*EUFD": "raised", // already works
                          // RAEUDZ is "raids"
-    
+
     // "subject" and "object"
     "SUFBT": "subjective", // SUBT "subject" + -F
     "OFBT": "objective",   // OBT  "object"  + -F
