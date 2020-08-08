@@ -1066,10 +1066,15 @@
     "-RPBLT": "are not",
     // "you were"   URP already works
     "URPT": "you were the",
-    "HES": "he is", // give up "Hess"
-    "HETS": "he is the",
-    "H*ES": "he's",
-    "H*ETS": "he's the",
+    "ES": "he is",      // give up {^es}, which seems useless
+    "ETS": "he is the", // overrides "et cetera"
+    "*ES": "he's",      // overrides {^ess}
+    "*ETS": "he's the", // overrides "etc."
+    "ESZ": "{^ess}",    // can't think of a better stroke;
+                        // both ES and *ES are used
+                        // mnemonic: -Z to extend the s
+    "STRA": "et cetera",
+    "STRA*": "etc.",
     // "she is"     SHES already works
     "SHETS": "she is the", // use SHAOETS for "sheets"
     "SH*ES": "she's",
