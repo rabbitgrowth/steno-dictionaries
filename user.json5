@@ -1334,6 +1334,17 @@
     "KWR-BS": "I said",
 
     // Stack the verbs with other words
+    "STPEUPB": "if I know",
+    "STPUPB": "if you know",
+    "THAEUPB": "that I know", // give up "Thane" (place name)
+    "THAUPB": "that you know",
+    "WHAEUPB": "what I know",
+    "WHAUPB": "what you know",
+    "WHEUPB": "when I know",
+    "WHUPB": "when you know",
+    "WHOEUPB": "who I know",
+    "WHOUPB": "who you know",
+
     "TOFD": "to find",
     "UFD": "you find",
     "EFDZ": "he finds",
