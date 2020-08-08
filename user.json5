@@ -198,6 +198,7 @@
     "THAOERL": "theoretical", // cf. the standard THOEURL
 
     // Use simpler vowel
+    // Precedents: TREU "try", THRE "three"
     "PHEUPBD": "mind", // vs PHAOEUPBD
     "STRET": "street", // vs STRAOET
     "STR*ET": "{*-|}Street",
