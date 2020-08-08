@@ -1056,12 +1056,12 @@
     "URPT": "you were the",
     "HES": "he is", // give up "Hess"
     "HETS": "he is the",
-    // "he's"       HAOES already works
-    // "he's the"   HAOETS is "heats"
+    "H*ES": "he's",
+    "H*ETS": "he's the",
     // "she is"     SHES already works
     "SHETS": "she is the", // use SHAOETS for "sheets"
-    // "she's"      SHAOES already works
-    // "she's the"  SHAOETS is "sheets"
+    "SH*ES": "she's",
+    "SH*ETS": "she's the",
     "T-S": "it is", // nicely symmetrical with ST "is it"
     "T-TS": "it is the",
     // "it's"       T*S already works
