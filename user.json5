@@ -1457,6 +1457,8 @@
     "S*T": "as the",
     "TA": "at a",
     "T-T": "at the",
+    "PRA": "for a", // TPAR is "far" and TPAEUR is "fair",
+                    // so borrow from French "pour"
     "AOPB": "on a", // use AUPB for {on^}
     "TAEU": "to a", // misstroke for "day"
 
