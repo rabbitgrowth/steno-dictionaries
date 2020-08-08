@@ -2193,8 +2193,10 @@
                      // think "drop *" or "ls"
     // HRAEUL "a little" already works
     "HRAEUFL": "a little of",
-    "HRAEUBT": "a little bit",    // drop -L; "alibit"
-    "HRAEUFB": "a little bit of", // drop -T; like OUF "out of"
+    "HRAEUBT": "a little bit", // "alibit"
+    "HRAEUFBT": "a little bit of",
+    "AEUBT": "a bit",
+    "AEUFBT": "a bit of",
 
     // Reporting speech
     "STHAEU": "say that",
