@@ -924,6 +924,18 @@
     // As a special case, "handle" is HAPBL,
     // so HAPBLD makes more sense as "handled"
 
+    // Swap base words to simplify inflections
+    // STK*ERT  "desert"  -> STK*ERTD  "deserted"
+    // STKERT   "dessert" -> STKERTD   "desserted" (not a word)
+    // TPHRO*UR "flower"  -> TPHRO*URS "flowers"
+    // TPHROUR  "flour"   -> TPHROURS  "flours"    (not a word)
+    // The nicer starless strokes STKERTD and TPHROURS are wasted on
+    // non-existent words. Fix this by swapping the base words:
+    "STKERT": "desert",
+    "STK*ERT": "dessert", // mnemonic: add * for an extra s
+    "TPHROUR": "flower",
+    "TPHRO*UR":  "flour",
+
     // Miscellaneous star-dropping
     "THRAOET": "athlete",       // bizarre misstroke for "throat"
     "PWAOEUS": "bias",          // use -Z for "buys"
@@ -2411,17 +2423,6 @@
     "KR-G": "occurring",
     "KR-D": "occurred",
 
-    // STKERTD feels like "deserted" but gives the non-word "desserted"
-    // since STKERT is "dessert". I could just remap STKERTD to "deserted",
-    // but that would lead to inconsistency within the "desert" word family:
-    // STKERT  "dessert"
-    // STK*ERT "desert"
-    // STKERTD "deserted"
-    // The solution is to swap "desert" and "dessert". It's also nice to have
-    // the lengths of the strokes match up with the lengths of the words.
-    "STKERT": "desert", // I then get STKERTD "deserted" for free
-    "STK*ERT": "dessert",
-
     // STREUS feels more like "industries" (STREU + -S for plural) than
     // "industrious". Of course I can remember to use -Z to pluralize
     // "industry", but that's one more thing to remember.
@@ -2475,7 +2476,7 @@
     "TPAEUTD/H-F": "faded",       // from "fated"
     "TPAEURL/H-F": "failure",     // from "fairly"
     "TPAOEUPBL/H-F": "finely",    // from "final"
-    "TPHROUR/H-F": "flower",      // from "flour"
+    "TPHROUR/H-F": "flour",       // from "flower" (custom)
     "TKPWOT/H-F": "go to the",    // from "got"
     "TKPWUPB/H-F": "gun",         // from "begun"
     "HARBG/H-F": "hacker",        // from "hark"
