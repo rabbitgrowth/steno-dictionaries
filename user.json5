@@ -200,6 +200,7 @@
     // Use simpler vowel
     "PHEUPBD": "mind", // vs PHAOEUPBD
     "STRET": "street", // vs STRAOET
+    "STR*ET": "{*-|}Street",
     "SWER": "swear",   // vs SWAER
     "THOT": "thought", // vs THAUT
 
