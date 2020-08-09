@@ -211,6 +211,7 @@
 
     // Mash sounds together
     "TKPHEUGS": "admission", // use TKPHEUFG for "dismissing"
+    "HRARPL": "alarm",
     "ALG": "algorithm", // use ALGS for "additional" (AGS "addition" + -L)
     "SKP-PB": "and then",
     "SKP-PBT": "and then the",
