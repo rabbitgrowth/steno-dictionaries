@@ -1975,6 +1975,7 @@
     "PASZ": "passes",        // misstroke for "pass"
     "RAEUPLD": "remained",   // overrides "Raymond"
     "RA*EUPLD": "Raymond",
+    "SOERBG": "sobering",    // give up "social work"
     "SKAOEGD": "succeeding", // otherwise gives "skiinged"
 
     // -G as shortcut for -BG/-G
