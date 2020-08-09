@@ -1883,6 +1883,9 @@
     "WHE": "when he", // use WH for "when"
     "TWH": "when it",
     "WHOER": "when other",
+    "KH-F": "which have", // give up "CHF" (congestive heart failure?)
+                          // KH as stacking form of "which",
+                          // cf. KH-S "which is", KH-FS "which was", etc.
     "WHOU": "who you", // bizarre misstroke for "how"
     "HR-F": "will have", // use HRUF for "love" (think "luv")
     "HR-FB": "will have been",
