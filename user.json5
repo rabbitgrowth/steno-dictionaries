@@ -1817,6 +1817,20 @@
     "WHUD": "when you had",
     "WHUTD": "when you had the",
 
+    // "which" stacking
+    // Plover uses KH as the stacking form of "which":
+    // KH-S  "which is"
+    // KH-FS "which was"
+    // KH-R  "which are"
+    // WEU works some of the time:
+    // WEUS  "which is"
+    // WEUFS "which was"
+    // WEUR  "wire" (?!)
+    // Prefer WEU for simplicity.
+    "WEUR": "which are", // use WAOEUR for "wire"
+    "WEUZ": "which has", // use WHEUZ for "whiz"
+    "WEUF": "which have",
+
     // "who" stacking
     "WHOEUPL": "who I am",
     "WHO*EUPL": "who I'm",
@@ -1878,10 +1892,6 @@
     "WHE": "when he", // use WH for "when"
     "TWH": "when it",
     "WHOER": "when other",
-    "WEUR": "which are", // WEUS  "which is"
-                         // WEUFS "which was"
-                         // WEUR  "wire" (?!)
-                         // use WAOEUR for "wire"
     "WHOU": "who you", // bizarre misstroke for "how"
     "HR-F": "will have", // use HRUF for "love" (think "luv")
     "HR-FB": "will have been",
