@@ -1886,6 +1886,7 @@
                                 // +  TPROFPBT "front of"
                                 // -----------
                                 //   STPROFPBT "in front of"
+    "TPHURPB": "in turn", // instead of "turn in"; follow steno order
     "TPHOBT": "not be",
     "SAUFP": "such a",
     "THERZ": "these are",
