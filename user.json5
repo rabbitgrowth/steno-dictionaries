@@ -82,6 +82,7 @@
     "TERPGS": "interpretation", // with TERP "interpret"
     "TPHORBG": "New York",      // with TPHORBG/TAOEUPLS "New York Times"
                                 //   misstroke for "no{,}"
+    "TPEUFR": "officer",        // with TPEURBL "official"
     "OPB/WARD": "onward",       // with PWABG/WARD "backward"
     "ORPB": "origin",           // with ORPBL "original"
     "P-FGS": "perfection",      // with P-F "perfect"
