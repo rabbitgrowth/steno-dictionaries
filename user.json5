@@ -821,8 +821,8 @@
                           // to type "meted" properly, use PHAO*ETD
     "PHAOETD": "meted",   // ... whose * is droppable,
                           // because "meeted" is not a word
-    "PHETSDZ": "methods", // PHETD + -S + -Z because you can't
-                          // hit -TSD without hitting -Z too
+    "PHETSDZ": "methods", // (PHETD + -S) + -Z
+                          // can't hit -TSD without hitting -Z too
     "PHOUT": "mouth",
     "REUPLT": "rhythm",
     "TRUT": "truth", // from TR*UT; TRAOUT (from TRAO*UT) already works
@@ -1969,7 +1969,7 @@
     "RE/SEUFTS": "resists",
     "SHREUD/TPAOEUG": "solidifying",
 
-    "ETSDZ": "edits",        // see note at PHETSDZ
+    "ETSDZ": "edits",        // (ETD + -S) + -Z
     "TPUBGS": "fucks",       // use TPUPBGS for "function"
     "PASZ": "passes",        // misstroke for "pass"
     "RAEUPLD": "remained",   // overrides "Raymond"
@@ -2271,7 +2271,7 @@
     "TPH-TD": "ended",  // overrides "noticed"
     "TPH-GD": "ending", // *much* easier to hit than EPBGD
     "TPH-DZ": "ends",   // overrides "inside"
-    "TPH-TSDZ": "noticed", // see note at PHETSDZ
+    "TPH-TSDZ": "noticed", // (TPH-TS + -D) + -Z
     "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
     "OUFD": "outside",  // "ousd"; for consistency
 
