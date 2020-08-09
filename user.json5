@@ -173,13 +173,13 @@
     "PROELS": "proposal", // PROEFL is "profile"
 
     // Phonetic alternatives to briefs
-    "KUFPB": "cousin",          // to KUZ
+    "KUFPB": "cousin",            // to KUZ
     "TKEUPL/TPHEURB": "diminish", // to TKPHEURB
-    "TKEUS/SPEURT": "dispirit", // to STKPEURT
-    "TPAOURPBL": "funeral",     // to TPAOUPBL
-    "EUPB/SEPBT": "innocent",   // to TPH-PBT
-                                // use EUPB/SEFPBT for "incessant"
-    "SEUFRT": "sister",         // to ST-R
+    "TKEUS/SPEURT": "dispirit",   // to STKPEURT
+    "TPAOURPBL": "funeral",       // to TPAOUPBL
+    "EUPB/SEPBT": "innocent",     // to TPH-PBT
+                                  // use EUPB/SEFPBT for "incessant"
+    "SEUFRT": "sister",           // to ST-R
 
     // Don't alter vowel
     "KAERT": "carrot", // AE for /æ/ since KART is "cart"
