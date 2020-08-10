@@ -105,6 +105,8 @@
     "ARPB/KEU": "anarchy",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEUFPL": "anarchism",
+    "AUT/TPHOEPL": "autonomy", // cf. AUT/KRAES "autocracy"
+    "AUT/TPHOPLS": "autonomous",
     "PWHRAOEU": "belie",
     "PWHRAOEUD": "belied", // otherwise gives "belieed"
     "PWEUS/TROE": "bistro", // /ˈbɪstrəʊ/
