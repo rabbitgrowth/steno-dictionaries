@@ -232,6 +232,7 @@
     "HEUPB": "hidden",
     "HOLD": "holiday", // use HOELD for "hold"
     "HOLDZ": "holidays",
+    "TPHREPBZ": "influenza",
     "PHELG": "medical", // "mecal"
     "PHAEUPLS": "my name is", // use -Z for "maims"
     "WURPB": "one another",
