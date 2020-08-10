@@ -80,6 +80,8 @@
                                 //   HAPBT "hasn't" + -L as bridge = "has not"
     "STK*EPB": "incident",      // with STKEPB "accident"
     "TERPGS": "interpretation", // with TERP "interpret"
+    "TWAOEPB": "intervene",     // with TWEPBGS "intervention"
+                                //   use TWEPB for "between"
     "TPHORBG": "New York",      // with TPHORBG/TAOEUPLS "New York Times"
                                 //   misstroke for "no{,}"
     "TPEUFR": "officer",        // with TPEURBL "official"
@@ -1049,7 +1051,7 @@
     "SPWR/TPAOERG": "interfering",
     "SPWR/TPAOERD": "interfered",
     "SPWR/TPAOERPBS": "interference",
-    "SPWR/SRAOEPB": "intervene",
+    "SPWR/SRAOEPB": "intervene",    // alternative to TWAOEPB (custom)
     "SPWR/SREPBGS": "intervention", // alternative to TWEPBGS
     "SPR/STEUGS": "superstition", // prefer SPR to SAOUP
     "SPR/STEURBS": "superstitious",
