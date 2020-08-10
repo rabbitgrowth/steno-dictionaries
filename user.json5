@@ -1049,6 +1049,8 @@
     "SPWR/TPAOERG": "interfering",
     "SPWR/TPAOERD": "interfered",
     "SPWR/TPAOERPBS": "interference",
+    "SPWR/SRAOEPB": "intervene",
+    "SPWR/SREPBGS": "intervention", // alternative to TWEPBGS
     "SPR/STEUGS": "superstition", // prefer SPR to SAOUP
     "SPR/STEURBS": "superstitious",
     // There's something ugly about using {inter^} for "interfere",
