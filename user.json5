@@ -2535,6 +2535,8 @@
     "ORPBG/H-F": "organ",         // from "orange"
     "OERPB/H-F": "other than",    // from "owner"
     "PAEURS/H-F": "Paris",        // from "pairs"
+    "POEL/H-F": "poll",           // from "pole"
+    "POELS/H-F": "polls",
     "RAEUS/H-F": "raise",         // from "race"
     "RAEUPLD/H-F": "Raymond",     // from "remained" (custom)
     "WRAOU/H-F": "review",        // from "withdrew"
