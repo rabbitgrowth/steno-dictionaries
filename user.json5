@@ -74,6 +74,7 @@
     "STKPWRAE": "disagree",     // with TKPWRAE "agree"
     "KP-PGS": "expectation",    // with KP-PT "expect"
     "KPR*ES": "express",        // with KPR*EGS "expression"
+    "KPR*EFG": "expressing",
     "STEPBD": "extend",         // with STEPBGS "extension"
                                 //   give up "send it"
     "STEPBD/-D": "extended",    //   misstroke for "tended"
