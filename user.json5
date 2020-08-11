@@ -2095,6 +2095,7 @@
     "STPAEURL": "unfairly", // misstroke for "fairly"
     "STPAEURPBS": "unfairness",
     "STPHOEPB": "unknown",
+    "STPEURBL": "unofficial",
 
     // Use -PBLT for "not" even when there's no -n't form
     // Precedent: KWR-PBLT "why not"
