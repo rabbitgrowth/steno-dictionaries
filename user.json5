@@ -80,6 +80,8 @@
     "STEPBD/-D": "extended",    //   misstroke for "tended"
     "TPREBGS": "for example",   // with TPREUPBS "for instance"
                                 //   use -Z for "frequents"
+    "H-B": "had been",          // with SR-B "have been"
+                                //   misstroke for {^-^}
     "HAPBT": "hasn't",          // with HAPBLT "has not"
                                 //   HAPBT "hasn't" + -L as bridge = "has not"
     "STK*EPB": "incident",      // with STKEPB "accident"
