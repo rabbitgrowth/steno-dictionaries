@@ -76,8 +76,7 @@
     "KPR*ES": "express",        // with KPR*EGS "expression"
     "KPR*EFG": "expressing",
     "STEPBD": "extend",         // with STEPBGS "extension"
-                                //   give up "send it"
-    "STEPBD/-D": "extended",    //   misstroke for "tended"
+    "STEPBD/-D": "extended",
     "TPREBGS": "for example",   // with TPREUPBS "for instance"
                                 //   use -Z for "frequents"
     "H-B": "had been",          // with SR-B "have been"
