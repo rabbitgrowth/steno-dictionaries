@@ -2542,6 +2542,8 @@
     "HARBG/H-F": "hacker",        // from "hark"
     "HARBGS/H-F": "hackers",
     "HAOEUFT/H-F": "heist",       // from "highest" (custom)
+    "HREUFT/H-F": "list",         // from "lift"
+    "HREUFTS/H-F": "lists",
     "PHABG/H-F": "Mac",           // from "magic" (custom)
     "PHAEPB/H-F": "mean",         // from "many"
     "PHORPB/H-F": "more than",    // from "morn"
