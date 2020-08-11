@@ -102,10 +102,6 @@
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
 
-    "TREUG": "trying", // with TREU "try"
-                       // overrides "trig"
-    "TR*EUG": "trig",
-
     // Phonetic
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES or ABG/SEU,
                             // which feels like it's missing an -R
@@ -2006,6 +2002,8 @@
     "RA*EUPLD": "Raymond",
     "SOERBG": "sobering",    // give up "social work"
     "SKAOEGD": "succeeding", // otherwise gives "skiinged"
+    "TREUG": "trying",       // overrides "trig"
+    "TR*EUG": "trig",
 
     // -G as shortcut for -BG/-G
     // You can't fold in -G when the verb already ends with -BG.
