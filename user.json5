@@ -1963,6 +1963,7 @@
     "THOUS": "thousand",
 
     // Inflections
+    "AFD/KAEUGT": "advocating",
     "ART/KHRAEUTD": "articulated",  // otherwise gives "art calculated"
     "ART/KHRAEUGT": "articulating", // otherwise gives "art calculating"
     "A/SRAEULD": "availed",
