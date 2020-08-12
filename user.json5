@@ -417,6 +417,8 @@
     "SRAEPBG": "avenge",
 
     // When folding in A leads to conflict, extend S to a-
+    "SHROEPB": "alone", // overrides "Sloan"
+    "SHRO*EPB": "Sloan",
     "SWEPBG": "avenge", // mostly for symmetry with WREPBG "revenge";
                         // folding in A (SRAEPBG) works
     "SWOEUD": "avoid", // SRAOEUD is "vied"
