@@ -2038,7 +2038,6 @@
     "KROUTD": "crowded",
     "TKEFTD": "defended",
     "TKPHAPBTD": "demanded", // misstroke for "demand"
-    "EPBTD": "ended",        // misstroke for "end"
     "TPOUPBTD": "founded",
     "TKPWAOEUTD": "guided",
     "HAPBTD": "handed",
