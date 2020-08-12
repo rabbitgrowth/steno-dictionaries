@@ -20,7 +20,9 @@
     "SKWR-PLS": "gentlemen",
     "SKWR-PL/-S": "gentlemen",
     "TKPW-D": "good",
-    "TKPW-P": "group",
+    "TKPW-T": "great", // use TKPWET for "get"
+    "TKPW-P": "group", // together with "great", two of the "gr*t"
+                       // words with orthographic two-letter vowels
     "TKPW-PS": "groups", // just fingerspell "GPS"
     "H-P": "hypothesis", // just fingerspell "HP"
     "H-PS": "hypotheses",
