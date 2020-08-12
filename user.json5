@@ -20,6 +20,8 @@
     "SKWR-PLS": "gentlemen",
     "SKWR-PL/-S": "gentlemen",
     "TKPW-D": "good",
+    "TKPW-P": "group",
+    "TKPW-PS": "groups", // just fingerspell "GPS"
     "H-P": "hypothesis", // just fingerspell "HP"
     "H-PS": "hypotheses",
     "H-P/-S": "hypotheses",
