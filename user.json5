@@ -2180,23 +2180,23 @@
     "PAS/SO": "pass so", // give up "Paso"; there's EL/PA/SOE for "El Paso"
 
     // Special rules
-    "SKW": "and",            // SKP with P one tile down
-    "AR": "area",            // first two letters
-    "TAL": "at all",         // since TAUL is "tall"
-    "WAU": "away",           // arbitrary
-    "TP-RBZ": "efficiency",  // TP-RBT "efficient" - -T + -Z for "-cy"
-                             // or use AOERB
-    "STPHUR": "ensure",      // "N-shur" (TPH + SH)
-                             // overrides "insure"
+    "SKW": "and",           // SKP with P one tile down
+    "AR": "area",           // first two letters
+    "TAL": "at all",        // since TAUL is "tall"
+    "WAU": "away",          // arbitrary
+    "TP-RBZ": "efficiency", // TP-RBT "efficient" - -T + -Z for "-cy"
+                            // or use AOERB
+    "STPHUR": "ensure",     // "N-shur" (TPH + SH)
+                            // overrides "insure"
     "STPH*UR": "insure",
-    "TU": "guy",             // first and last letters
-                             // (or top-left and bottom-right keys)
-                             // of TKPWAOEU
-    "HA*RPL": "harmony",     // mnemonic: Jacob Collier's #IHarmYou
-    "HOELT": "hotel",        // reverse stress or HOELT->HOTEL
-    "TAOU": "in order to",   // a stronger "to"
-    "O": "oh",               // informal version of "O"
-    "KW-T": "quiet",         // KWAOEUT ("quite") is too loud
+    "TU": "guy",            // first and last letters
+                            // (or top-left and bottom-right keys)
+                            // of TKPWAOEU
+    "HA*RPL": "harmony",    // mnemonic: Jacob Collier's #IHarmYou
+    "HOELT": "hotel",       // reverse stress or HOELT->HOTEL
+    "TAOU": "in order to",  // a stronger "to"
+    "O": "oh",              // informal version of "O"
+    "KW-T": "quiet",        // KWAOEUT ("quite") is too loud
 
     // Double to join with "and"
     "OEFR/OEFR": "over and over",
