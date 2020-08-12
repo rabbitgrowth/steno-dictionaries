@@ -2034,11 +2034,11 @@
 
     // Fold in -T for -ed if the verb already ends with -d
     // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
-    "ATD": "added",
+    "ATD": "added",          // misstroke for "at"
     "KROUTD": "crowded",
     "TKEFTD": "defended",
-    "TKPHAPBTD": "demanded",
-    "EPBTD": "ended",
+    "TKPHAPBTD": "demanded", // misstroke for "demand"
+    "EPBTD": "ended",        // misstroke for "end"
     "TPOUPBTD": "founded",
     "TKPWAOEUTD": "guided",
     "HAPBTD": "handed",
