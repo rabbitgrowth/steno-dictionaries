@@ -417,6 +417,7 @@
     "SRAEPBG": "avenge",
 
     // When folding in A leads to conflict, extend S to a-
+    "SPWROD": "abroad",
     "SHROEPB": "alone", // overrides "Sloan"
     "SHRO*EPB": "Sloan",
     "SWOEUD": "avoid", // SRAOEUD is "vied"
