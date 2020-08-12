@@ -2127,6 +2127,7 @@
 
     "SHU": "issue",
     "SHUS": "issues", // overrides {^tious}
+    "SHUD": "issued", // use SHO for "should"
     "-RBS": "{^tious}", // cf. "ambitious"  APL/PWEURBS
                         //     "cautious"   KAURBS
                         //     "nutritious" TPHAO*URBS
