@@ -482,6 +482,8 @@
     "SPWEPBLS": "intensely",
     "PHEUFT/KWROULS": "mysteriously",
     "TPHAOELT": "neatly",
+    "OEPL": "openly", // overrides "ohm"
+    "O*PL": "ohm",    // kind of fits because O is "oh"
     "PRAOEUFLT": "privately",
     "SKHROL": "psychologically",
     "SALD": "sadly",  // overrides "salad"
