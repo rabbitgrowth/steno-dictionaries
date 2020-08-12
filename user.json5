@@ -244,6 +244,7 @@
     "HOLD": "holiday", // use HOELD for "hold"
     "HOLDZ": "holidays",
     "TPHREPBZ": "influenza",
+    "HREPL": "let me",
     "PHELG": "medical", // "mecal"
     "PHAEUPLS": "my name is", // use -Z for "maims"
     "WURPB": "one another",
@@ -1046,10 +1047,6 @@
                                   // when "d" is printed on screen,
                                   // TK feels unnecessary
     "SKWRAOUF": "juvenile",
-    "HREPL": "lemon",
-    "HREPL/AEUD": "lemonade", // alternative to HREPL/TPHAEUD
-                              // when "n" is printed on screen,
-                              // TPH feels unnecessary
     "RE/SKWRAOUF": "rejuvenate",
     "RE/SKWRAOUFGS": "rejuvenation",
     "TPHAR": "narrow",
