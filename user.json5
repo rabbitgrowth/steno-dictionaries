@@ -464,7 +464,8 @@
     "WRAOERD": "weirder",
 
     // -L for -ly
-    // EPBD/-D "ended" feels nice. Why not TPRAL/-L for "federally"?
+    // TPHAOED/-D "needed" feels nice (although TPHAOETD is nicer I guess).
+    // Why not HRAOEL/-L for "legally"?
     "-L": "{^ly}",   // overrides {^'ll}
     "AEL": "{^'ll}", // overrides "ale"
     "AEUL": "ale",   // overrides "ail"
