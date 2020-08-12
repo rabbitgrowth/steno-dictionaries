@@ -2133,7 +2133,7 @@
                         //     "nutritious" TPHAO*URBS
                         // although {^tious} on its own doesn't seem too
                         // useful, as the parts preceding -tious tend to
-                        // be non-words ("cau", "nutri"). When it works
+                        // be non-words ("cau", "nutri"). When it works,
                         // it's usually by accident:
                         // "contentious"  KAUPB/TEPB/-RBS
                         // ("ten" happens to be a word, but the number
