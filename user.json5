@@ -2195,6 +2195,7 @@
     "HA*RPL": "harmony",     // mnemonic: Jacob Collier's #IHarmYou
     "HOELT": "hotel",        // reverse stress or HOELT->HOTEL
     "TAOU": "in order to",   // a stronger "to"
+    "O": "oh",               // informal version of "O"
     "KW-T": "quiet",         // KWAOEUT ("quite") is too loud
 
     // Double to join with "and"
@@ -2467,11 +2468,6 @@
 
     // Fictitious place names
     "SREUL": "{*-|}{^ville}", // with retrospective capitalization
-
-    // I hate O*ERBGS for "oh". I like the intuitiveness of O -> oh,
-    // although it feels a bit wasteful to assign something as nice as O
-    // to a word that's not super common. An alternative is "to".
-    "O": "oh",
 
     // I hate KROEUR for "occur". Had to choose between KR and K-R,
     // which were both "consider". Settled with KR so that the visual
