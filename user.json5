@@ -1018,14 +1018,14 @@
     "KPREUPBG": "extrinsic",
     "KPREUPBLG": "extrinsically",
 
+    "-PLT": "{^ment}", // use TP-PL for {.}
+    "PRE/TKEUBG/-PLT": "predicament",
+
     "PAEUT": "participate", // partici[pate] or [p]articip[ate]
     "PA*EUT": "pate",
     "PAEUGS": "participation",
     // The * in PA*PBT "participant" is okay because "pant" is a common word.
     // PARPT makes sense too.
-
-    "-PLT": "{^ment}", // use TP-PL for {.}
-    "PRE/TKEUBG/-PLT": "predicament",
 
     // Autocomplete effect
     // Precedents: TPEUS "physical", PED "pedestrian"
