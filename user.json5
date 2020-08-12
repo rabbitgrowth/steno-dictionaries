@@ -1027,6 +1027,9 @@
     // The * in PA*PBT "participant" is okay because "pant" is a common word.
     // PARPT makes sense too.
 
+    "SOEFT": "Soviet", // unphonetic stroke for "soft"
+    "SOEFT/TPHAOUPB": "Soviet Union",
+
     // Autocomplete effect
     // Precedents: TPEUS "physical", PED "pedestrian"
     "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
