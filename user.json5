@@ -2184,6 +2184,8 @@
     "AR": "area",           // first two letters
     "TAL": "at all",        // since TAUL is "tall"
     "WAU": "away",          // arbitrary
+    "KOURPB": "counter",    // flap T in American accent
+                            // full phonetic (KOURPBT) is {counter^}
     "TP-RBZ": "efficiency", // TP-RBT "efficient" - -T + -Z for "-cy"
                             // or use AOERB
     "STPHUR": "ensure",     // "N-shur" (TPH + SH)
