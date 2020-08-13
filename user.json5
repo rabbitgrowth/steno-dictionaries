@@ -76,7 +76,6 @@
     "KRAOEFT": "creativity",    // with KRAOEF "creative"
     "KREBL": "credible",        // with EUPB/KREBL, TPHEBL "incredible"
                                 //   use KRET/-BL for "creditable"
-    "STKPWRAE": "disagree",     // with TKPWRAE "agree"
     "KP-PGS": "expectation",    // with KP-PT "expect"
     "KPR*ES": "express",        // with KPR*EGS "expression"
     "KPR*EFG": "expressing",
@@ -2351,6 +2350,15 @@
     "TPHARLT": "natural",
     "TKRELT": "directly", // TKRELG is also nice (/dɪˈrɛkli/)
 
+    // "agree" family
+    // The A in TKPWRAE is just begging to be dropped.
+    "TKPWRE": "agree",
+    "TKPWREG": "agreeing", // overides "Greg"
+    "TKPWR*EG": "Greg",    // give up "Gregg"
+    "TKPWREPLT": "agreement",
+    "STKPWRE": "disagree",
+    "STKPWREPLT": "disagreement",
+
     // "apple" family
     "APL": "apple", // overrides "am" (!)
     "-PL": "am", // cf. EU/-PL "I am"
@@ -2577,6 +2585,7 @@
     "TPAOEUPBL/H-F": "finely",    // from "final"
     "TPHROUR/H-F": "flour",       // from "flower" (custom)
     "TKPWOT/H-F": "go to the",    // from "got"
+    "TKPWREG/H-F": "Greg",        // from "agreeing" (custom)
     "TKPWUPB/H-F": "gun",         // from "begun"
     "HARBG/H-F": "hacker",        // from "hark"
     "HARBGS/H-F": "hackers",
