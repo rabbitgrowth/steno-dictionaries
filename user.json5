@@ -421,14 +421,15 @@
     "TAEPBD": "attend",
     "SRAEPBG": "avenge",
 
-    // When folding in A leads to conflict, extend S to a-
-    "SPWROD": "abroad",
-    "SHROEPB": "alone", // overrides "Sloan"
+    // ... or use S when folding in A leads to conflict or is confusing
+    "SPWROD": "abroad",  // PWRAOD is a good stroke for "broad",
+                         // although PWROD is probably better
+    "SHROEPB": "alone",  // HRAOEPB is "lean"; overrides "Sloan"
     "SHRO*EPB": "Sloan",
-    "SPART": "apart",
-    "SWOEUD": "avoid", // SRAOEUD is "vied"
-    "SWOU": "avow",    // SRAOU is "view"
-    "SWOUL": "avowal", // SRAOUL is "value"
+    "SPART": "apart",    // can't fold in A when there's already an A
+    "SWOEUD": "avoid",   // SRAOEUD is "vied"
+    "SWOU": "avow",      // SRAOU is "view"
+    "SWOUL": "avowal",   // SRAOUL is "value"
 
     // Fold in -R for -er or -or
     "KHEFR": "achiever", // overrides "chevre"
