@@ -396,8 +396,6 @@
 
     // Fold in A for a-
     // Precedents: SPAEBGT "aspect", TAEPBGS "attention"
-    "TKAOPT": "adopt",     // or just use TKOPT
-    "TKAOPGS": "adoption", // or just use TKOPGS
     "TPHRAEUBGT": "afflict",
     "TPHRAEUBGS": "affliction", // use -Z for "flakes"
     "HAED": "ahead",
