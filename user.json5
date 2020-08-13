@@ -1910,6 +1910,7 @@
     "TPHURPB": "in turn", // instead of "turn in"; follow steno order
     "T-D": "it had", // give up {^ed it}
     "TPHOBT": "not be",
+    "PAFRT": "part of", // by default "part of the"
     "SAUFP": "such a",
     "THERZ": "these are",
     "WHABG": "what can", // "what could/shall/should/will/would" all work
