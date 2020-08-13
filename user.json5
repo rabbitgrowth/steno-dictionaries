@@ -1395,6 +1395,16 @@
 
     "TOZ": "to see",
     "UZ": "you see",
+    "STPEUZ": "if I see",
+    "STPUZ": "if you see",
+    "THAEUZ": "that I see",
+    "THAUZ": "that you see",
+    "WHAEUZ": "what I see",
+    "WHAUZ": "what you see",
+    "WHEUZ": "when I see", // use WEUZ for "whiz"
+    "WHUZ": "when you see",
+    "WHOEUZ": "who I see",
+    "WHOUZ": "who you see",
     "KWR-BGZ": "I can see",
     "UBGZ": "you can see",
     "EBGZ": "he can see",
