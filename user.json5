@@ -2139,6 +2139,9 @@
     "TW*EURT": "Twitter",
     "AUP/STAEUT": "upstate",
 
+    // Don't hyphenate
+    "ROUPBD/TREUP": "round trip",
+
     // Pick more distinctive part of word
     "STRAEUGS": "administration",
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
