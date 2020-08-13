@@ -1444,9 +1444,11 @@
     "TKPWO": "go to", // use TKPW for "go"
     "TKPWOG": "going to", // TKPWOS "goes to", TWOEPBT "went to" already work
     "TKPWOBG": "going to be",
+    "TKPWOGT": "going to the",
     "TKPWOBGT": "going to be the",
     "STKPWOG": "is going to",
     "STKPWOBG": "is going to be",
+    "STKPWOGT": "is going to the",
     "STKPWOBGT": "is going to be the",
     "THOU": "how to", // give up "how it"
                       // HOW TO  183508
