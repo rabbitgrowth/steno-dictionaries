@@ -92,6 +92,8 @@
     "TERPGS": "interpretation", // with TERP "interpret"
     "TWAOEPB": "intervene",     // with TWEPBGS "intervention"
                                 //   use TWEPB for "between"
+    "TPHAOERB": "nearby",       // with TPHAOER "near"
+                                //   instead of TPHAERB; use TPHEURB for "niche"
     "TPHORBG": "New York",      // with TPHORBG/TAOEUPLS "New York Times"
                                 //   misstroke for "no{,}"
     "TPEUFR": "officer",        // with TPEURBL "official"
