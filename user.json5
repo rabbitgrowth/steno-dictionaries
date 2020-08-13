@@ -426,6 +426,7 @@
     "SPWROD": "abroad",
     "SHROEPB": "alone", // overrides "Sloan"
     "SHRO*EPB": "Sloan",
+    "SPART": "apart",
     "SWOEUD": "avoid", // SRAOEUD is "vied"
     "SWOU": "avow",    // SRAOU is "view"
     "SWOUL": "avowal", // SRAOUL is "value"
