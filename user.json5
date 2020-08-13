@@ -249,8 +249,6 @@
     "TPHREPBZ": "influenza",
     "HREPL": "let me",
     "PHELG": "medical", // "mecal"
-    "PHAEUPLS": "my name is", // use -Z for "maims"
-    "TPHUGS": "no such thing as", // "nugs"
     "WURPB": "one another",
     "PREFT": "protest", // give up "previous to"
     "PREFRT": "protester",
@@ -262,12 +260,15 @@
     "SPOEFBT": "supposed to be",
     "STOPL": "symptom",
     "TWHO": "those who", // TH + WHO
-    "TRUF": "true love", // use TRUFT for "trust"
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // from "vibe" as in "good vibes"
     "SRULG": "vulgar",
-    "WHOFPLT": "when it comes to", // "whomst"
     "KWRAOEUS": "you guys",
+
+    "PHAEUPLS": "my name is",      // use -Z for "maims"
+    "TPHUGS": "no such thing as",  // "nugs"
+    "TRUF": "true love",           // use TRUFT for "trust"
+    "WHOFPLT": "when it comes to", // "whomst"
 
     "STORB": "astonish",
     "STORBG": "astonishing", // overrides "stork" (a bird)
