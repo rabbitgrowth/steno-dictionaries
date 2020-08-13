@@ -424,6 +424,7 @@
     // ... or use S when folding in A leads to conflict or is confusing
     "SPWROD": "abroad",  // PWRAOD is a good stroke for "broad",
                          // although PWROD is probably better
+    "SKROS": "across",   // KRAOS feels more like "croos"
     "SHROEPB": "alone",  // HRAOEPB is "lean"; overrides "Sloan"
     "SHRO*EPB": "Sloan",
     "SPART": "apart",    // can't fold in A when there's already an A
