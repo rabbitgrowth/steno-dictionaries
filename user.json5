@@ -396,7 +396,7 @@
     // "areawide", "regionwide", "planetwide"...)
     "HRAO*D": "{^load}", // "truckload", "boatload", "shitload"...
     "PHA*EURBG": "{^maker}",     // already works
-    "HRAU/PHAEURBG": "lawmaker", // like PAEUS/PHAEURBG "pacemaker"
+    "HRAU/PHAEURBG": "lawmaker", // like TPEUPL/PHAEURBG "filmmaker"
     "HRAU/PHAEURBGS": "lawmakers",
     "SHAOU/PHAEURBG": "shoemaker",
     "SHAOU/PHAEURBGS": "shoemakers",
