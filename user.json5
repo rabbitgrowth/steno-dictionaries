@@ -746,20 +746,20 @@
     "WROELT": "revolt",
     "WROLT": "revolt",
     // "review" would be WRAOU, but that's "withdrew" already.
-    // WRAU  "withdraw"
-    // WRAOU "withdrew"
+    //   WRAU  "withdraw"
+    //   WRAOU "withdrew"
     // This pair is too nice to override.
     "WRAOE": "review", // cf. RE/SRAOE "review"
                        // feels ugly though, so maybe just use RE/SRAOU
     // "revolve" would be WROF, but that's "whereof" already.
     // So include the /l/ in "revolve", even though adding -L
     // is usually optional in other -olve words:
-    // SROF     or SROFL     "involve"
-    // AOE/SROF or AOE/SROFL "evolve"
-    // SOF      or SOFL      "solve"
+    //   SROF     or SROFL     "involve"
+    //   AOE/SROF or AOE/SROFL "evolve"
+    //   SOF      or SOFL      "solve"
     // There are precedents for requiring the -L:
-    // ROF       "resolve" (ROFL is "Rolf"; "ROFL" is undefined)
-    // TKE/SROFL "devolve" (TKE/SROF is undefined)
+    //   ROF       "resolve" (ROFL is "Rolf"; "ROFL" is undefined)
+    //   TKE/SROFL "devolve" (TKE/SROF is undefined)
     "WROFL": "revolve",
 
     // R for re- with inversion
@@ -2008,17 +2008,17 @@
 
     // -S vs -Z
     // In general, fold in -S to minimize the number of strokes:
-    // KATS  "cats" (as opposed to KAT/-S)
-    // TKOGS "dogs" (as opposed to TKOG/-S)
+    //   KATS  "cats" (as opposed to KAT/-S)
+    //   TKOGS "dogs" (as opposed to TKOG/-S)
     // When there's a conflict, use -S when the sound it represents
     // forms an integral part of the word, and -Z for the removable
     // suffix -s. Mnemonic: -Z is further away and feels detachable.
     // For example:
-    // TPHOES "nose"
-    // TPHOEZ "knows"
+    //   TPHOES "nose"
+    //   TPHOEZ "knows"
     // But always use -Z for -ze. For example:
-    // SAOEUZ "size"
-    // SAOEUS "sighs"
+    //   SAOEUZ "size"
+    //   SAOEUS "sighs"
     "AOEUS": "ice",  // already works
     "AOEUZ": "eyes", // overrides {^ize}
     "EUZ": "{^ize}",
@@ -2308,11 +2308,11 @@
     // Punctuation as shapes
     // Open single quote, which precedes close single quote, is the one
     // that's starred:
-    // A*E {~|'^} (open single quote)
-    // AE  {^~|'} (close single quote)
+    //   A*E {~|'^} (open single quote)
+    //   AE  {^~|'} (close single quote)
     // This feels unnatural. Compare
-    // PREPB  {~|(^} (open bracket)
-    // PR*EPB {^~|)} (close bracket)
+    //   PREPB  {~|(^} (open bracket)
+    //   PR*EPB {^~|)} (close bracket)
     // Solution: move KW-GS and KR-GS (open and close double quotes)
     // up one tile to get the corresponding single quotes.
     "TP-LT": "{~|'^}", // open single quote
