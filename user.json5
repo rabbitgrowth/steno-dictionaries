@@ -112,7 +112,6 @@
     // Phonetic
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES or ABG/SEU,
                             // which feels like it's missing an -R
-    "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "ARPB/KEU": "anarchy",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEUFPL": "anarchism",
@@ -241,6 +240,7 @@
     "THOT": "thought", // vs THAUT
 
     // Mash sounds together
+    "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "TKPHEUGS": "admission", // use TKPHEUFG for "dismissing"
     "HRARPL": "alarm",
     "ALG": "algorithm", // use ALGS for "additional" (AGS "addition" + -L)
