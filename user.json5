@@ -388,15 +388,6 @@
     "SWEUPL/SAOUT": "swimsuit",
     "SWEUPL/SAOUTS": "swimsuits",
 
-    // -maker
-    // Precedent: PAEUS/PHAEURBG "pacemaker"
-    "HRAU/PHAEURBG": "lawmaker",
-    "HRAU/PHAEURBGS": "lawmakers",
-    "SHAOU/PHAEURBG": "shoemaker",
-    "SHAOU/PHAEURBGS": "shoemakers",
-    "TRUBL/PHAEURBG": "troublemaker",
-    "TRUBL/PHAEURBGS": "troublemakers",
-
     // Suffixes
     // Define the most common words ("worldwide", "countrywide")
     // so that I can be lazy and drop the * in the suffix,
@@ -404,6 +395,13 @@
     // are potentially infinite ("schoolwide", "systemwide",
     // "areawide", "regionwide", "planetwide"...)
     "HRAO*D": "{^load}", // "truckload", "boatload", "shitload"...
+    "PHA*EURBG": "{^maker}",     // already works
+    "HRAU/PHAEURBG": "lawmaker", // like PAEUS/PHAEURBG "pacemaker"
+    "HRAU/PHAEURBGS": "lawmakers",
+    "SHAOU/PHAEURBG": "shoemaker",
+    "SHAOU/PHAEURBGS": "shoemakers",
+    "TRUBL/PHAEURBG": "troublemaker",
+    "TRUBL/PHAEURBGS": "troublemakers",
     "WAO*EUD": "{^wide}", // instead of {^-wide}
     "KREU/WAOEUD": "countrywide",
     "TPH-GS/WAOEUD": "nationwide",
