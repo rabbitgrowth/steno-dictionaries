@@ -124,7 +124,6 @@
                             // /ˈbiːs-/ already works: PWAOES/TROE
     "KHRERPBD": "calendar",
     "KAUFT": "caste",
-    "SRAOERBL": "cerebral", // alternative to SRAOEBL (/səˈriːbrəl/)
     "KHEUBG/EPB": "chicken",
     "KHRARPL": "clamor",
     "KAUPB/TKAOUFS": "conducive",
@@ -193,11 +192,14 @@
     "KUFPB": "cousin",            // to KUZ
     "TKEUPL/TPHEURB": "diminish", // to TKPHEURB
     "TKEUS/SPEURT": "dispirit",   // to STKPEURT
-    "TPAOURPBL": "funeral",       // to TPAOUPBL
     "EUPB/SEPBT": "innocent",     // to TPH-PBT
                                   // use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",        // to TR
     "SEUFRT": "sister",           // to ST-R
+
+    // Allow not omitting -R in -ral and -rate
+    "SRAOERBL": "cerebral",
+    "TPAOURPBL": "funeral",
 
     // Don't alter vowel
     "KAERT": "carrot", // AE for /æ/ since KART is "cart"
