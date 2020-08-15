@@ -972,6 +972,9 @@
     "STK*ERT": "dessert", // mnemonic: add * for an extra s
     "TPHROUR": "flower",
     "TPHRO*UR":  "flour",
+    // A nice side effect:
+    "STKERGS": "desertion",       // which frees up ...
+    "TKE/SERGS": "desegregation", // consistent with SERGS "segregation"
 
     // Miscellaneous star-dropping
     "THRAOET": "athlete",       // bizarre misstroke for "throat"
