@@ -2431,6 +2431,16 @@
     "PW-RPB": "better than",
     "HR-PB": "less than", // use HR-PBS for "license"
 
+    // "aggregate" and "integrate"
+    // TKPWRAT     "aggregate"
+    // TKPWRAGS    "grassing"    (?!)
+    // TKPWRA*EUT  "integrate"
+    // TKPWRA*EUGS "aggregation" (?!)
+    // And there isn't even a way to one-stroke "integration".
+    "TKPWRAGS": "aggregation",
+    "TKPWRA*EUGS": "integration",
+    "TKPWRAL": "integral", // allow dropping *
+
     // "contemplate" vs "conflate"
     // The default strokes are a bit of a mess:
     // KAUPB/TPHRAEUT    "contemplate"      (use this for "conflate")
