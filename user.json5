@@ -986,6 +986,7 @@
     "AOELGS": "emotional",      // use SHRERBL for "essentially"
     "HRAOELGS": "emotionally",
     "TERPBL": "eternal",
+    "TPREUP": "friendship",     // feels more natural than TPREP
     "HARLD": "hardly",          // use HAEURLD or HAR/OLD for "Harold"
     "HERD": "herd",             // use HAERD for "heard", like HAER for "hear"
     "SPWREBGS": "intersection", // cf. SPWREBGT "intersect"
