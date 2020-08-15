@@ -2215,6 +2215,7 @@
     "TP*EFT": "festival",  // fest
     "HRA*B": "laboratory", // lab
     "PO*P": "popular",     // pop
+    "PR*EP": "prepare",    // prep
     "P*UB": "publish",     // pub
     "P*URB": "publisher",
     "SR*ET": "veteran",    // vet
