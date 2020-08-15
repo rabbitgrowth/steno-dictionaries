@@ -2010,6 +2010,11 @@
     "A/SRAEULD": "availed",
     "A/SRAEULG": "availing",
     "A/SRAEULS": "avails",
+    "KHA*PL/KWROPBD": "championed",
+    "KHA*PL/KWROPBG": "championing",
+    "KHAPL/KWROPBD": "championed", // Plover allows dropping *:
+                                   // KHAPL/KWROPB "champion"
+    "KHAPL/KWROPBG": "championing",
     "KAUPB/SAOELG": "concealing",
     "KAUPB/SAOELS": "conceals",
     "EPB/HAFPBD": "enhanced",
