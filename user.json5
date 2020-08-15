@@ -241,7 +241,7 @@
 
     // Mash sounds together
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
-    "TKPHEUGS": "admission", // use TKPHEUFG for "dismissing"
+    "TKPHEUGS": "admission",
     "HRARPL": "alarm",
     "ALG": "algorithm", // use ALGS for "additional" (AGS "addition" + -L)
     "SKP-PB": "and then",
