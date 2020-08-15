@@ -1677,6 +1677,8 @@
     "SKP*UFT": "and you've the",
     "SKPUD": "and you had",
     "SKPUTD": "and you had the",
+    "SKPEZ": "and he has",
+    "SKPED": "and he had",
     "SKPEUBGD": "and I could",
     "SKPEUL": "and I will",
     "SKP*EUL": "and I'll",
@@ -1767,6 +1769,8 @@
     "THA*UFT": "that you've the",
     "THAUD": "that you had", // already works
     "THAUTD": "that you had the",
+    "THAEZ": "that he has",
+    "THAED": "that he had",
     "THAF": "that have",
     "THAFT": "that have the",
     "THA*F": "that've", // already works
@@ -1819,6 +1823,8 @@
     "WHAUF": "what you have",
     "WHA*UF": "what you've",
     "WHAUD": "what you had",
+    "WHAEZ": "what he has",
+    "WHAED": "what he had",
     "WHAEUBG": "what I can",
     "WHAEUBGD": "what I could",
     "WHAEURBD": "what I should",
