@@ -2306,8 +2306,7 @@
     "PW-RT/PW-RT/PW-RT": "better and better and better",
 
     // Punctuation as shapes
-    // Open single quote, which precedes close single quote, is the one
-    // that's starred:
+    // Open single quote, which comes first, is the one that's starred:
     //   A*E {~|'^} (open single quote)
     //   AE  {^~|'} (close single quote)
     // This feels unnatural. Compare
