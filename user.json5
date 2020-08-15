@@ -199,7 +199,12 @@
 
     // Allow not omitting -R in -ral and -rate
     "SRAOERBL": "cerebral",
+    "TKHREURBT": "deliberate",
+    "TKHREURBLT": "deliberately",
     "TPAOURPBL": "funeral",
+    "SKWRERPBL": "general",
+    "HREURBL": "liberal",
+    "PHEURPBL": "mineral",
 
     // Don't alter vowel
     "KAERT": "carrot", // AE for /æ/ since KART is "cart"
