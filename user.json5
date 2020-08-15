@@ -820,7 +820,7 @@
     "SPHO*RT": "smother",
 
     // -FRD for -rsed
-    // Precedents: KUFRD "cursed", TPOFRD "forced", RAOEPB/TPOFRD "reinforced"
+    // Precedents: KUFRD "cursed", TPOFRD "forced"
     // -RSD is possible but requires Philly shift.
     "TKWOFRD": "divorced",
     "EPB/TPOFRD": "enforced",
