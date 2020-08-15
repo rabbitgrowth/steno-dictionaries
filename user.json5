@@ -140,7 +140,6 @@
     "TKPWRAEUFLT": "grateful", // TKPWRA*EUFL - * + -T
     "TKPWUPBS": "guns", // "beguns" is not a word
     "HA*RT": "hearth", // give up "Hart"
-    "SPWREFT": "interest", // for when my brain malfunctions and I forget about TR
     "SPWREUBGT": "intricate",
     "HR*EURBG": "liquor", // starless is "lyric"
     "PHRAL": "morale", // use PHORL for "moral"
@@ -197,6 +196,7 @@
     "TPAOURPBL": "funeral",       // to TPAOUPBL
     "EUPB/SEPBT": "innocent",     // to TPH-PBT
                                   // use EUPB/SEFPBT for "incessant"
+    "SPWREFT": "interest",        // to TR
     "SEUFRT": "sister",           // to ST-R
 
     // Don't alter vowel
