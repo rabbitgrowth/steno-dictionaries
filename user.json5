@@ -180,11 +180,6 @@
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELS for "sells"
 
-    "PERL": "peril",      // overrides "pearl"
-    "PAERL": "pearl",     // overrides "parole"
-    "PROEL": "parole",    // overrides "proposal"
-    "PROELS": "proposal", // PROEFL is "profile"
-
     // Phonetic alternatives to briefs
     "KUFPB": "cousin",            // to KUZ
     "TKEUPL/TPHEURB": "diminish", // to TKPHEURB
@@ -2517,10 +2512,16 @@
     "PHA*BG": "Mac",       // give up "MAC"
     "PHALG": "magical",    // "macal"
 
-    // "mass-"
+    // "masses" chain reaction
     "PHASZ": "masses",   // by default misstroke (?) for "mass"
     "PHAFS": "massive",  // by default "masses"
     "PHEUFS": "missive", // by default "massive"
+
+    // "peril" chain reaction
+    "PERL": "peril",      // overrides "pearl"
+    "PAERL": "pearl",     // overrides "parole"
+    "PROEL": "parole",    // overrides "proposal"
+    "PROELS": "proposal", // PROEFL is "profile"
 
     // "race" vs "raise"
     // The default strokes for the -ing forms are hard to remember:
