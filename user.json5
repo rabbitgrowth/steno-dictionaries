@@ -1024,7 +1024,6 @@
     "REUPBD": "remind",         // like HEUPBD "behind"
     "REURPBD": "reminder",
     "ROPBT": "rotten",
-    "SKEUBG": "skeptic",
     "STOEPBL": "stolen",
     "T-FGS": "television",
     "WHOUS": "White House",     // just two-stroke "us who"
@@ -1088,6 +1087,15 @@
     "RE/SKWRAOUFGS": "rejuvenation",
     "TPHAR": "narrow",
     "POEPB": "pony",
+    "SKEP": "skeptic",
+    "SKEP/K-L": "skeptical", // like the default SKEPT/K-L but avoids SKEPT
+                             // "concept" as a jarring intermediate step
+    "SKEFPL": "skepticism",  // default stroke SK*EUFPL - * = "schism",
+                             // so use E instead of EU, which gives the
+                             // nice impression of SKEP being the base:
+                             //      +P+
+                             // SK
+                             //      E
     "SAOUF": "souvenir",
     "SREUG": "vigor", // I don't want "have Iing" flashing past every time
                       // I type "vigorous" (standard is "I having")
