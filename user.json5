@@ -1026,7 +1026,7 @@
     "ROPBT": "rotten",
     "SKEUBG": "skeptic",
     "STOEPBL": "stolen",
-    "T-FGS": "television",      // "it wasing" doesn't make any sense
+    "T-FGS": "television",
     "WHOUS": "White House",     // just two-stroke "us who"
     "KWRUP": "yup",             // use AUP for {up^}
     "THOEUPB": "{^,000}",       // also avoids 3/2/1/THO*EUPB outputting "32 1,000"
