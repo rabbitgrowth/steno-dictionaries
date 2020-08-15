@@ -765,8 +765,8 @@
 
     // AURB for -arsh
     "HAURB": "harsh",
+    "HAURBL": "harshly",
     "PHAURB": "marsh",
-    // These are the only two English words that end with -rsh.
 
     // -F for -s-
     "AOUFR": "user", // use AUFR for {over^}
