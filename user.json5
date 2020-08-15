@@ -2045,6 +2045,7 @@
     "HRAEUFG": "lacing",
     "PHOLGD": "modeling",    // otherwise gives "methodologied"
     "PASZ": "passes",        // misstroke for "pass"
+    "PHREUFG": "policing",
     "RAEUPLD": "remained",   // overrides "Raymond"
     "RA*EUPLD": "Raymond",
     "SOERBG": "sobering",    // give up "social work"
