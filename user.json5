@@ -399,6 +399,7 @@
 
     // Suffixes
     "HRAO*D": "{^load}", // "truckload", "boatload", "shitload"...
+    "WAO*EUD": "{^wide}", // instead of {^-wide}
 
     // Fold in A for a-
     // Precedents: SPAEBGT "aspect", TAEPBGS "attention"
