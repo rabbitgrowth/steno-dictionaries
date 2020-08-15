@@ -2425,6 +2425,24 @@
     "PW-RPB": "better than",
     "HR-PB": "less than", // use HR-PBS for "license"
 
+    // "contemplate" vs "conflate"
+    // The default strokes are a bit of a mess:
+    // KAUPB/TPHRAEUT    "contemplate"      (use this for "conflate")
+    // KAUPB/TPHRAEUTD   also "contemplate"
+    // KAUPB/TPHRAEUGS   "conflation"
+    // KAUPB/TPHRA*EUT   "conflate"
+    // KAUPB/TPHRA*EUGS  undefined
+    // KAUPBT/PHRAEUT    "contemplate"      (use this)
+    // KAUPBT/PHRAEUTD   "contemplated"
+    // KAUPBT/PHRAEUGS   "content population"
+    // Why not KOPBT/PHRAEUT? Because KOPBT is "couldn't",
+    // which looks jarring as an intermediate step.
+    // KAUPBT "content" is much more visually similar
+    // to the first part of "contemplate".
+    "KAUPBT/PHRAEUGS": "contemplation",
+    "KAUPB/TPHRAEUT": "conflate",
+    "KAUPB/TPHRAEUTD": "conflated",
+
     // "logic" vs "magic"
     "SKWREUBG": "logic",   // overrides "magic"
     "SKWREULG": "logical", // "gical"
