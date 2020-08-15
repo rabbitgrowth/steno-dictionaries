@@ -757,7 +757,7 @@
     //   SROF     or SROFL     "involve"
     //   AOE/SROF or AOE/SROFL "evolve"
     //   SOF      or SOFL      "solve"
-    // There are precedents for requiring the -L:
+    // There are precedents for not allowing this flexibility:
     //   ROF       "resolve" (ROFL is "Rolf"; "ROFL" is undefined)
     //   TKE/SROFL "devolve" (TKE/SROF is undefined)
     "WROFL": "revolve",
