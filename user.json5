@@ -2145,6 +2145,7 @@
     "PHAEUPBLT": "may not", // there's no "mayn't"
 
     // Proper nouns
+    "PWAO*EUPBD": "Biden", // starless is "bind"
     "KAPL/HRA": "Kamala", // give up "Kamilah"
     "POPL/PAEU/OE": "Pompeo",
 
