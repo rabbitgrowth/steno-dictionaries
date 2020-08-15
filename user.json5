@@ -152,7 +152,6 @@
     "TPRAEUFL": "phrasal",
     "SPES": "possess", // invert S and P
                        // allows one-stroking "possesses" unlike the standard PESZ
-    "RAFPL/KAEUGS": "ramification",
     "RAOEUGS": "rising", // use RAOEUFPS for "righteous"
     "STHRAOEUT": "satellite",
     "SKAPBLD": "scandal",
