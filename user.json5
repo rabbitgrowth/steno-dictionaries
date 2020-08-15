@@ -398,8 +398,16 @@
     "TRUBL/PHAEURBGS": "troublemakers",
 
     // Suffixes
+    // Define the most common words ("worldwide", "countrywide")
+    // so that I can be lazy and drop the * in the suffix,
+    // but stop at the most common words, since combinations
+    // are potentially infinite ("schoolwide", "systemwide",
+    // "areawide", "regionwide", "planetwide"...)
     "HRAO*D": "{^load}", // "truckload", "boatload", "shitload"...
     "WAO*EUD": "{^wide}", // instead of {^-wide}
+    "KREU/WAOEUD": "countrywide",
+    "TPH-GS/WAOEUD": "nationwide",
+    "WORL/WAOEUD": "worldwide",
 
     // Fold in A for a-
     // Precedents: SPAEBGT "aspect", TAEPBGS "attention"
