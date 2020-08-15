@@ -2144,6 +2144,7 @@
     "PHAEUPBLT": "may not", // there's no "mayn't"
 
     // Proper nouns
+    "KAPL/HRA": "Kamala", // give up "Kamilah"
     "POPL/PAEU/OE": "Pompeo",
 
     // Don't capitalize
