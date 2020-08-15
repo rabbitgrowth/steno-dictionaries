@@ -727,8 +727,8 @@
     "PWHAOF": "behoove", // American English
 
     // WR for rev-
-    // Precedents for using W for /v/:
-    // TKWAOEUS "device", TKWOET "devote"
+    // Precedents for using W for /v/: TKWAOEUS "device"
+    //                                 TKWOET   "devote"
     // (mnemonic: Hong Kong accent)
     "WRA*PL": "revamp",
     "WRAOEL": "reveal",
