@@ -154,7 +154,6 @@
                        // allows one-stroking "possesses" unlike the standard PESZ
     "RAFPL/KAEUGS": "ramification",
     "RAOEUGS": "rising", // use RAOEUFPS for "righteous"
-    "RORPBLG": "Roger",
     "STHRAOEUT": "satellite",
     "SKAPBLD": "scandal",
     "SKREURPT": "scripture",
@@ -180,7 +179,6 @@
     "WAOPBD": "wooden",
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELS for "sells"
-    "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
 
     "PERL": "peril",      // overrides "pearl"
     "PAERL": "pearl",     // overrides "parole"
@@ -194,6 +192,7 @@
     "EUPB/SEPBT": "innocent",     // to TPH-PBT
                                   // use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",        // to TR
+    "RORPBLG": "Roger",           // to RORG
     "SEUFRT": "sister",           // to ST-R
 
     // Allow not omitting -R in -ral and -rate
@@ -2194,6 +2193,7 @@
     "PWAO*EUPBD": "Biden", // starless is "bind"
     "KAPL/HRA": "Kamala", // give up "Kamilah"
     "POPL/PAEU/OE": "Pompeo",
+    "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
 
     // Don't capitalize
     "TKAO*US": "dews",
