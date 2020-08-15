@@ -198,13 +198,14 @@
     "SEUFRT": "sister",           // to ST-R
 
     // Allow not omitting -R in -ral and -rate
-    "SRAOERBL": "cerebral",
-    "TKHREURBT": "deliberate",
+                                  // Plover consistently omits -R:
+    "SRAOERBL": "cerebral",       // SRAOEBL
+    "TKHREURBT": "deliberate",    // TKHREUBT
     "TKHREURBLT": "deliberately",
-    "TPAOURPBL": "funeral",
-    "SKWRERPBL": "general",
-    "HREURBL": "liberal",
-    "PHEURPBL": "mineral",
+    "TPAOURPBL": "funeral",       // TPAOUPBL
+    "SKWRERPBL": "general",       // SKWREPBL
+    "HREURBL": "liberal",         // HREUBL
+    "PHEURPBL": "mineral",        // PHEUPBL
 
     // Don't alter vowel
     "KAERT": "carrot", // AE for /æ/ since KART is "cart"
