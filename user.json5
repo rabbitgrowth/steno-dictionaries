@@ -407,7 +407,7 @@
     "WAO*EUD": "{^wide}", // instead of {^-wide}
     "KREU/WAOEUD": "countrywide",
     "TPH-GS/WAOEUD": "nationwide",
-    "WORL/WAOEUD": "worldwide",
+    "WORL/WAOEUD": "worldwide", // WORLD/WAOEUD already works
 
     // Fold in A for a-
     // Precedents: SPAEBGT "aspect", TAEPBGS "attention"
