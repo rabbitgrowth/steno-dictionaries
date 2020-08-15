@@ -206,6 +206,11 @@
     "SKWRERPBL": "general",       // SKWREPBL
     "HREURBL": "liberal",         // HREUBL
     "PHEURPBL": "mineral",        // PHEUPBL
+    // SKWRERPBL overrides "generally", for which I can use
+    // SKWHRERPBL. The superimposition of HR on SKWR feels
+    // a bit weird, but not as weird as the default
+    // SKWREPBL  "general"
+    // SKWRERPBL "generally" (add -R for -ly??)
 
     // Don't alter vowel
     "KAERT": "carrot", // AE for /æ/ since KART is "cart"
