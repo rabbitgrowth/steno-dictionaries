@@ -1124,6 +1124,7 @@
     "SREUG": "vigor", // I don't want "have Iing" flashing past every time
                       // I type "vigorous" (standard is "I having")
                       // SREUG/OUR giving "vigor"->"vigour" also feels nice
+    "SROD": "vodka",
 
     // Use nicer prefixes for multistroke words
     "SPWR/TPAOER": "interfere",   // prefer SPWR to EUPBT
