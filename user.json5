@@ -70,6 +70,7 @@
     "W-TS": "with its",
 
     // Consistency with existing strokes
+    "A/KUFPL": "accustom",      // with A/KUFPLD "accustomed"
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
     "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
@@ -421,6 +422,7 @@
 
     // Fold in A for a-
     // Precedents: SPAEBGT "aspect", TAEPBGS "attention"
+    "KAUFPL": "accustom",
     "TPHRAEUBGT": "afflict",
     "TPHRAEUBGS": "affliction", // use -Z for "flakes"
     "HAED": "ahead",
