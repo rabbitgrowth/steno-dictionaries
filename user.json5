@@ -719,6 +719,34 @@
     "TPHEPT": "inept",
     "TPHAOUR": "inure",
 
+    // TPEU for -fy
+    // This is standard in Plover (KHRAR/TPEU "clarify",
+    // KHRAS/TPEU "classify", TKE/TPEU "defy", etc.);
+    // it's the inflections that don't work.
+                                   // might cause word boundary error with
+    "KHRAR/TPEUS": "clarifies",    // "collar physical" ("a blue-~ job")
+    "KHRAR/TPEUG": "clarifying",   // "collar figure"
+    "KHRAS/TPEUS": "classifies",   // "class physical"  ("in-~ activity")
+    "KHRAS/TPEUG": "classifying",  // "class figure"
+    "TKE/TPEUS": "defies",
+    "TKE/TPEUG": "defying",
+    "PHOD/TPEUS": "modifies",
+    "PHOD/TPEUG": "modifying",
+    "PHEUFT/TPEU": "mystify",
+    "PHEUFT/TPEUS": "mystifies",   // "mist physical"
+    "PHEUFT/TPEUG": "mystifying",  // "mist figure"
+    "KWAPBT/TPEUS": "quantifies",  // "quantity physical"
+    "KWAPBT/TPEUG": "quantifying", // "quantity figure"
+    "SHREUD/TPEUS": "solidifies",  // "slid physical"
+    "SHREUD/TPEUG": "solidifying", // "slid figure"
+    "SRER/TPEUS": "verifies",
+    "SRER/TPEUG": "verifying",
+    // ... although these are all pretty unlikely combinations:
+    // CLARIFIES        962   CLASSIFIES      510
+    // COLLAR PHYSICAL    1   CLASS PHYSICAL    3
+    // CLARIFYING      1706   CLASSIFYING    1042
+    // COLLAR FIGURE      0   CLASS FIGURE      0
+
     // PWH for beh-
     "PWHED": "behead",
     "PWHAO*EPLT": "behemoth",
@@ -2073,7 +2101,6 @@
     "RE/HRAEUD": "relayed",
     "RE/SEUFTD": "resisted",
     "RE/SEUFTS": "resists",
-    "SHREUD/TPAOEUG": "solidifying",
 
     "ETSDZ": "edits",        // (ETD + -S) + -Z
     "TPUBGS": "fucks",       // use TPUPBGS for "function"
