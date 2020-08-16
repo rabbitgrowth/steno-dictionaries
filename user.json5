@@ -1016,14 +1016,17 @@
     // TKWEUPBLS "dwindles"  (vs TKWEUPBLDZ)
     // The downside is that I can forget about this special rule
     // and try to stroke TKWEUPBLD for "dwindle".
-    "PWUPBL": "bundle",   // already works
-    "PWUPBLD": "bundled", // by default also "bundle"
+    "PWUPBL": "bundle",      // already works
+    "PWUPBLD": "bundled",    // by default also "bundle"
+    "PW*UPBLG": "bundling",  // starless is "budge"
     "TKWEUPBL": "dwindle",
-    "TPOPBL": "fondle", // use TPA*L or TPO*PBL for "phenomenal"
-                        // for consistency with TPO*PB "phenomenon"
+    "TPOPBL": "fondle",      // use TPA*L or TPO*PBL for "phenomenal"
+                             // for consistency with TPO*PB "phenomenon"
+    "TPOPBLG": "fondling",   // by default "okay{.}"
     "KEUPBL": "kindle",
     "SWEUPBL": "swindle",
     "TRUPBL": "trundle",
+    "TR*UPBLG": "trundling", // starless is "trudge"
     // An exception to this exception: KAPBLD "candle". Why not KAPBL?
     // 1) KAPBL is by default the only way to stroke "canal",
     //    although it's not very phonetic I guess.
@@ -2721,6 +2724,7 @@
     "PWAEUG/H-F": "baying",       // from "baking" (custom)
     "PWERT/H-F": "better",        // from "Bert"
     "PWHREFD/H-F": "blessed",     // from "believed"
+    "PWUPBLG/H-F": "bundling",    // from "budge"
     "PWURD/H-F": "buried",        // from "burden"
     "PWURG/H-F": "burying",       // from {^burg}
     "PWEUT/H-F": "by the",        // from "bit"
@@ -2775,6 +2779,7 @@
     "TAOEUD/H-F": "tied",         // from "tide"
     "TOEFRT/H-F": "toaster",      // from "effort to"
     "TOEFRTS/H-F": "toasters",
+    "TRUPBLG/H-F": "trundling",   // from "trudge"
     "WEUPBS/H-F": "wins",         // from "wince"
 
     "AOEUPLT/H-F": "item",        // from "I'm the"      (custom)
