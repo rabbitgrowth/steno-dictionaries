@@ -991,7 +991,8 @@
     "KRAEULD": "cradle",
     "KRA*EULD": "cradle",
     "K*URLD": "curdle",  // KURLD is "curled"
-    "TKA*ULD": "dawdle", // TKAULD is "called it"
+    "TKAULD": "dawdle", // give up "called it"
+    "TKA*ULD": "dawdle",
     "TKAOLD": "doodle",
     "TKAO*LD": "doodle",
     "TKPWEURLD": "girdle",
