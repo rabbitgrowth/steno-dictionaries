@@ -2689,6 +2689,9 @@
     //   the company millions of dollars.")
     "THA/AOUGS": "that using",
 
+    // Misstrokes
+    "KW-BGS": "{,}", // otherwise gives ",s"
+
     // Error recovery
     // Phoenix uses R-R but that's newline in Plover already,
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
