@@ -453,6 +453,7 @@
     // Fold in -R for -er or -or
     "KHEFR": "achiever", // overrides "chevre"
     "APBLG/TAEURT": "agitator",
+    "APB/PHAEURT": "animator",
     "PWHRAOERBG": "bleaker", // cf. PWAOERBG "beaker"
     "KHARLG": "challenger",
     "KH*EFR": "chèvre",  // with proper diacritics
