@@ -990,7 +990,6 @@
     "KA*PBLD": "candle",
     "KRAEULD": "cradle",
     "KRA*EULD": "cradle",
-    "K*URLD": "curdle",  // KURLD is "curled"
     "TKAULD": "dawdle", // give up "called it"
     "TKA*ULD": "dawdle",
     "TKAOLD": "doodle",
@@ -1005,8 +1004,11 @@
     "HRA*EULD": "ladle",
     "HRAOEUPBLD": "Long Island",
     "TPHAOLD": "noodle",
+    "TPHAO*LD": "noodle", // already works
     "SAOEULD": "sidle",
     "SAO*EULD": "sidle",
+
+    "K*URLD": "curdle",    // KURLD is "curled"
     "WHAO*ELD": "wheedle", // WHAOELD is "wheeled"
 
     // For -ndle, omit the -D and use -PBL following the lead of
