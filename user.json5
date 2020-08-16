@@ -2690,6 +2690,8 @@
     "HARBG/H-F": "hacker",        // from "hark"
     "HARBGS/H-F": "hackers",
     "HAOEUFT/H-F": "heist",       // from "highest" (custom)
+    "TPHAOEUT/H-F": "knight",     // from "night"
+    "TPHAOEUTS/H-F": "knights",
     "HREUFT/H-F": "list",         // from "lift"
     "HREUFTS/H-F": "lists",
     "PHABG/H-F": "Mac",           // from "magic" (custom)
