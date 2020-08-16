@@ -1016,6 +1016,8 @@
     // TKWEUPBLS "dwindles"  (vs TKWEUPBLDZ)
     // The downside is that I can forget about this special rule
     // and try to stroke TKWEUPBLD for "dwindle".
+    "PWUPBL": "bundle",   // already works
+    "PWUPBLD": "bundled", // by default also "bundle"
     "TKWEUPBL": "dwindle",
     "TPOPBL": "fondle", // use TPA*L or TPO*PBL for "phenomenal"
                         // for consistency with TPO*PB "phenomenon"
