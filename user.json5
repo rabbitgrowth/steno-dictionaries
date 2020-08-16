@@ -1371,6 +1371,7 @@
     "KWR-BL": "I believe", // [b]e[l]ieve
     "KWROEBL": "I don't believe",
     "KWR-FL": "I feel",    // [f]ee[l]
+    "KWR-FLT": "I felt",
     "KWROEFL": "I don't feel",
     "KWR-FD": "I find",    // [f]in[d]
     "KWROEFD": "I don't find", // Plover uses KWROFPBD but that PB feels
