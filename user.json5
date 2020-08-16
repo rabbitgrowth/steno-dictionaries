@@ -38,10 +38,11 @@
                           // PREPBT "present"
     "HR-BG": "like", // use WELG for "welcome"
     "HR-BGT": "like the",
-    "SHR-BG": "unlike", // S for negation
-    "SHR-BGT": "unlike the",
     "HR-LG": "likely", // overrides {^ological}
     "HR*LG": "{^ological}",
+    "SHR-BG": "unlike", // S for negation
+    "SHR-BGT": "unlike the",
+    "SHR-LG": "unlikely",
     "HRAOLG": "likelihood", // HR-LG + "oo"
     "W-F": "one of",
     "W-FT": "one of the",
