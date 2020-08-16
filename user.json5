@@ -1121,10 +1121,8 @@
                              // SK
                              //      E
     "SAOUF": "souvenir",
-    "SREUG": "vigor", // I don't want "have Iing" flashing past every time
-                      // I type "vigorous" (standard is "I having")
-                      // SREUG/OUR giving "vigor"->"vigour" also feels nice
-    "SROD": "vodka",
+    "SREUG": "vigor", // prevents "have Iing" from flashing past
+    "SROD": "vodka",  // prevents "have toed" from flashing past
 
     // Use nicer prefixes for multistroke words
     "SPWR/TPAOER": "interfere",   // prefer SPWR to EUPBT
