@@ -2003,6 +2003,7 @@
     "POP/HREUFTS": "populists",
     "RAEU/SEUPBS": "raisins",
     "TEL/SKOEPS": "telescopes",
+    "THEURS": "thinkers", // use THEUFRT for "thirst"
     "WEUPBD/TPAULS": "windfalls",
     "WEUPBD/PHEULS": "windmills",
 
@@ -2751,7 +2752,6 @@
     "SUGS/H-F": "suggests",       // from "suggestion"
     "SPHRAOEUS/H-F": "supplies",  // from "splice"
     "TERS/H-F": "terrors",        // from "terse"
-    "THEURS/H-F": "thinkers",     // from "thirst"
 
     "PWAOEUS/H-F": "buys",        // from "bias"        (custom)
     "STKPHRAEUS/H-F": "displays", // from "displace"    (custom)
