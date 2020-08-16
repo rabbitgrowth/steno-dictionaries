@@ -2739,6 +2739,7 @@
     "POELS/H-F": "polls",
     "RAEUS/H-F": "raise",         // from "race"
     "RAEUPLD/H-F": "Raymond",     // from "remained" (custom)
+    "RAEUPB/H-F": "rein",         // from "rain"
     "WRAOU/H-F": "review",        // from "withdrew"
     "RAOEURD/H-F": "rider",       // from "required"
     "REUPL/H-F": "ripple",        // from "rim"
