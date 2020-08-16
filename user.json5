@@ -126,7 +126,6 @@
     "KHEUBG/EPB": "chicken",
     "KHRARPL": "clamor",
     "KAUPB/TKAOUFS": "conducive",
-    "KAUPB/TKPWRELGS": "congressional",
     "KAUPB/SKWRERBGT": "conjecture",
     "AOELG": "eagle",
     "ERPBT": "errant",
@@ -248,7 +247,6 @@
     "AOEFRP": "each other",
     "SPHRORGS": "exploration",
     "TPREFT": "forest",
-    "TPOUPBLGS": "foundational", // from TPOUPBGS "foundation"
     "TKPWARPB": "garden",
     "TKPWOEPL": "go home",
     "HEUPB": "hidden",
@@ -845,8 +843,10 @@
 
     // -LGS for -tional
     // Precedents: TPUPBLGS "functional", STAOULGS "constitutional"
-    "SPRAEULGS": "inspirational", // cf. SPRAEUGS "inspiration"
-    "STPHAOULGS": "institutional",
+    "KAUPB/TKPWRELGS": "congressional",
+    "TPOUPBLGS": "foundational",   // from TPOUPBGS "foundation"
+    "SPRAEULGS": "inspirational",  // from SPRAEUGS "inspiration"
+    "STPHAOULGS": "institutional", // from STPHAOUGS "institution"
 
     // Drop * and use AEUPB for -aken
     // Precedent: Plover now allows SPHAEUPB in addition to SPHA*EUPB for "mistaken"
