@@ -176,6 +176,8 @@
     "SRAOEPBG": "vegan",
     "SREURBGT": "victor",
     "SR*EURBGT": "Victor",
+    "SREUBG/TORS": "victorious", // use SREURBGTS or SREUBG/TORZ for "victors"
+                                 // SREURBGT/KWROUS also works for "victorious"
     "WAOERPBS": "weariness",
     "WAOPBD": "wooden",
     "S*ELT": "zealot",  // use SELT for "settle"
@@ -2794,6 +2796,7 @@
     "SUGS/H-F": "suggests",       // from "suggestion"
     "SPHRAOEUS/H-F": "supplies",  // from "splice"
     "TERS/H-F": "terrors",        // from "terse"
+    "SREUBG/TORS/H-F": "victors", // from "victorious" (custom)
 
     "PWAOEUS/H-F": "buys",        // from "bias"        (custom)
     "STKPHRAEUS/H-F": "displays", // from "displace"    (custom)
