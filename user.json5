@@ -994,31 +994,38 @@
     "TKA*ULD": "dawdle", // TKAULD is "called it"
     "TKAOLD": "doodle",
     "TKAO*LD": "doodle",
-    "TKWEUPBLD": "dwindle",
-    "TKW*EUPBLD": "dwindle",
-    "TPOPBLD": "fondle",
-    "TPO*PBLD": "fondle",
     "TKPWEURLD": "girdle",
     "TKPW*EURLD": "girdle",
     "AOEULD": "idle", // overrides "island"
     "AO*EULD": "idle",
     "AOEUPBLD": "island", // use SKPAOEUPL for "and I'm"
     "AO*EUPBLD": "Island",
-    "KEUPBLD": "kindle",
-    "K*EUPBLD": "kindle",
     "HRAEULD": "ladle", // overrides "Long Island"
     "HRA*EULD": "ladle",
     "HRAOEUPBLD": "Long Island",
     "TPHAOLD": "noodle",
     "SAOEULD": "sidle",
     "SAO*EULD": "sidle",
-    "SWEUPBLD": "swindle",
-    "SW*EUPBLD": "swindle",
-    "TRUPBLD": "trundle",
-    "TR*UPBLD": "trundle",
     "WHAO*ELD": "wheedle", // WHAOELD is "wheeled"
-    // As a special case, "handle" is HAPBL,
-    // so HAPBLD makes more sense as "handled"
+
+    // For -ndle, omit the -D and use -PBL following the lead of
+    // HAPBL "handle" (flapped /d/?). This makes inflections easier:
+    // TKWEUPBL  "dwindle"   (vs TKWEUPBLD)
+    // TKWEUPBLD "dwindled"  (vs TKWEUPBLD/-D)
+    // TKWEUPBLG "dwindling" (vs TKWEUPBLGD)
+    // TKWEUPBLS "dwindles"  (vs TKWEUPBLDZ)
+    // The downside is that I can forget about this special rule
+    // and try to stroke TKWEUPBLD for "dwindle".
+    "TKWEUPBL": "dwindle",
+    "TPOPBL": "fondle", // use TPA*L or TPO*PBL for "phenomenal"
+                        // for consistency with TPO*PB "phenomenon"
+    "KEUPBL": "kindle",
+    "SWEUPBL": "swindle",
+    "TRUPBL": "trundle",
+    // An exception to this exception: KAPBLD "candle". Why not KAPBL?
+    // 1) KAPBL is by default the only way to stroke "canal",
+    //    although it's not very phonetic I guess.
+    // 2) "candled" and "candling" are pretty rare.
 
     // Swap base words to simplify inflections
     // STK*ERT  "desert"  -> STK*ERTD  "deserted"
