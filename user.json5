@@ -998,7 +998,7 @@
     "TKPW*EURLD": "girdle",
     "AOEULD": "idle", // overrides "island"
     "AO*EULD": "idle",
-    "AOEUPBLD": "island", // use SKPAOEUPL for "and I'm"
+    "AOEUPBLD": "island", // use SKP*EUPL for "and I'm"
     "AO*EUPBLD": "Island",
     "HRAEULD": "ladle", // overrides "Long Island"
     "HRA*EULD": "ladle",
