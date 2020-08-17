@@ -160,8 +160,6 @@
     "SKREURPT": "scripture",
     "SKR*EURPT": "Scripture",
     "SERBG/TREU": "secretary",
-    "SERBG": "secretary", // autocomplete effect
-                          // cf. SERBG/TAEUR/KWRAT "secretariat"
     "SRAOES": "series",
     "SRAOEZ": "series",
     "SHEUPBLG": "shingle",
@@ -1144,6 +1142,7 @@
     "RE/SKWRAOUFGS": "rejuvenation",
     "TPHAR": "narrow",
     "POEPB": "pony",
+    "SERBG": "secretary", // from my SERBG/TREU
     "SKEP": "skeptic",
     "SKEP/K-L": "skeptical", // like the default SKEPT/K-L but avoids SKEPT
                              // "concept" as a jarring intermediate step
