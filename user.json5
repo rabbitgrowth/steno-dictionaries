@@ -816,8 +816,8 @@
     // It's probably more "correct" to use prefixes like AER {^ary} and
     // TOER {^tory}, but -ary, -ery, and -ory all sound the same (REU),
     // and it's a bit annoying to have to remember which spelling to use
-    // when your mind is in phonetic mode. Even Plover allows using REU
-    // for the most common words:
+    // when your mind is in phonetic mode. REU also follows steno order.
+    // Precedents:
     // TKEUBGS/AER or TKEUBGS/REU "dictionary"
     // PHAPBD/TOER or PHAPBD/TREU "mandatory"
     "EFGS/REU": "evolutionary",    // vs EFGS/AER
