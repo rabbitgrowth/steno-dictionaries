@@ -813,6 +813,13 @@
     "SREUFPBT": "resistant",  // or just use REUFPBT
 
     // REU for -ary, -ery, and -ory
+    // It's probably more "correct" to use prefixes like AER {^ary} and
+    // TOER {^tory}, but -ary, -ery, and -ory all sound the same (REU),
+    // and it's a bit annoying to have to remember which spelling to use
+    // when your mind is in phonetic mode. Even Plover allows using REU
+    // for the most common words:
+    // TKEUBGS/AER or TKEUBGS/REU "dictionary"
+    // PHAPBD/TOER or PHAPBD/TREU "mandatory"
     "EFGS/REU": "evolutionary",    // vs EFGS/AER
     "REFGS/REU": "revolutionary",
     "SPHRAPB/TREU": "explanatory", // vs SPHRAPB/TOER
