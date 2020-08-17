@@ -153,7 +153,6 @@
     "TPRAEUFL": "phrasal",
     "SPES": "possess", // invert S and P
                        // allows one-stroking "possesses" unlike the standard PESZ
-    "PROEL/TAEURT": "proletariat",
     "RAOEUGS": "rising", // use RAOEUFPS for "righteous"
     "STHRAOEUT": "satellite",
     "SKAPBLD": "scandal",
@@ -822,6 +821,14 @@
     "EFGS/REU": "evolutionary",    // vs EFGS/AER
     "REFGS/REU": "revolutionary",  // vs REFGS/AER
     "SPHRAPB/TREU": "explanatory", // vs SPHRAPB/TOER
+
+    // AEURT for -ariat
+    "KPHEPB/TAEURT": "commentariat",
+    "KPHEPBT/AEURT": "commentariat",
+    "KPHEUS/AEURT": "commissariat",
+    "PROEL/TAEURT": "proletariat",
+    "SHRAEURT": "salariat",
+    "SERBG/TAEURT": "secretariat",
 
     // AURB for -arsh
     "HAURB": "harsh",
