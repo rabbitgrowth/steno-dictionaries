@@ -990,35 +990,50 @@
     "KA*PBLD": "candle",
     "KRAEULD": "cradle",
     "KRA*EULD": "cradle",
-    "K*URLD": "curdle",  // KURLD is "curled"
-    "TKA*ULD": "dawdle", // TKAULD is "called it"
+    "TKAULD": "dawdle", // give up "called it"
+    "TKA*ULD": "dawdle",
     "TKAOLD": "doodle",
     "TKAO*LD": "doodle",
-    "TKWEUPBLD": "dwindle",
-    "TKW*EUPBLD": "dwindle",
-    "TPOPBLD": "fondle",
-    "TPO*PBLD": "fondle",
     "TKPWEURLD": "girdle",
     "TKPW*EURLD": "girdle",
     "AOEULD": "idle", // overrides "island"
     "AO*EULD": "idle",
-    "AOEUPBLD": "island", // use SKPAOEUPL for "and I'm"
+    "AOEUPBLD": "island", // use SKP*EUPL for "and I'm"
     "AO*EUPBLD": "Island",
-    "KEUPBLD": "kindle",
-    "K*EUPBLD": "kindle",
     "HRAEULD": "ladle", // overrides "Long Island"
     "HRA*EULD": "ladle",
     "HRAOEUPBLD": "Long Island",
     "TPHAOLD": "noodle",
+    "TPHAO*LD": "noodle", // already works
     "SAOEULD": "sidle",
     "SAO*EULD": "sidle",
-    "SWEUPBLD": "swindle",
-    "SW*EUPBLD": "swindle",
-    "TRUPBLD": "trundle",
-    "TR*UPBLD": "trundle",
+
+    "K*URLD": "curdle",    // KURLD is "curled"
     "WHAO*ELD": "wheedle", // WHAOELD is "wheeled"
-    // As a special case, "handle" is HAPBL,
-    // so HAPBLD makes more sense as "handled"
+
+    // For -ndle, omit the -D and use -PBL following the lead of
+    // HAPBL "handle" (flapped /d/?). This makes inflections easier:
+    // TKWEUPBL  "dwindle"   (vs TKWEUPBLD)
+    // TKWEUPBLD "dwindled"  (vs TKWEUPBLD/-D)
+    // TKWEUPBLG "dwindling" (vs TKWEUPBLGD)
+    // TKWEUPBLS "dwindles"  (vs TKWEUPBLDZ)
+    // The downside is that I can forget about this special rule
+    // and try to stroke TKWEUPBLD for "dwindle".
+    "PWUPBL": "bundle",      // already works
+    "PWUPBLD": "bundled",    // by default also "bundle"
+    "PW*UPBLG": "bundling",  // starless is "budge"
+    "TKWEUPBL": "dwindle",
+    "TPOPBL": "fondle",      // use TPA*L or TPO*PBL for "phenomenal"
+                             // for consistency with TPO*PB "phenomenon"
+    "TPOPBLG": "fondling",   // by default "okay{.}"
+    "KEUPBL": "kindle",
+    "SWEUPBL": "swindle",
+    "TRUPBL": "trundle",
+    "TR*UPBLG": "trundling", // starless is "trudge"
+    // An exception to this exception: KAPBLD "candle". Why not KAPBL?
+    // 1) KAPBL is by default the only way to stroke "canal",
+    //    although it's not very phonetic I guess.
+    // 2) "candled" and "candling" are pretty rare.
 
     // Swap base words to simplify inflections
     // STK*ERT  "desert"  -> STK*ERTD  "deserted"
@@ -2712,6 +2727,7 @@
     "PWAEUG/H-F": "baying",       // from "baking" (custom)
     "PWERT/H-F": "better",        // from "Bert"
     "PWHREFD/H-F": "blessed",     // from "believed"
+    "PWUPBLG/H-F": "bundling",    // from "budge"
     "PWURD/H-F": "buried",        // from "burden"
     "PWURG/H-F": "burying",       // from {^burg}
     "PWEUT/H-F": "by the",        // from "bit"
@@ -2766,6 +2782,7 @@
     "TAOEUD/H-F": "tied",         // from "tide"
     "TOEFRT/H-F": "toaster",      // from "effort to"
     "TOEFRTS/H-F": "toasters",
+    "TRUPBLG/H-F": "trundling",   // from "trudge"
     "WEUPBS/H-F": "wins",         // from "wince"
 
     "AOEUPLT/H-F": "item",        // from "I'm the"      (custom)
