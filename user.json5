@@ -821,7 +821,7 @@
     // TKEUBGS/AER or TKEUBGS/REU "dictionary"
     // PHAPBD/TOER or PHAPBD/TREU "mandatory"
     "EFGS/REU": "evolutionary",    // vs EFGS/AER
-    "REFGS/REU": "revolutionary",
+    "REFGS/REU": "revolutionary",  // vs REFGS/AER
     "SPHRAPB/TREU": "explanatory", // vs SPHRAPB/TOER
 
     // AURB for -arsh
