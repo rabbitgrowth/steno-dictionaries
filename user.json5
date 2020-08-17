@@ -2042,6 +2042,7 @@
     "AL/PWAOEUS": "alibis",
     "APB/HREUFTS": "analysts",
     "PWEPB/TPEURBS": "beneficiaries", // just add -S instead of KWRAERS
+    "KPHAS": "commas", // use KP/PHAS for "Xmas"
     "KAUPB/SKWREBG/TAOURS": "conjectures",
     "TKEUPL/PHATS": "diplomats",
     "TKOPL/TPHOES": "dominoes",
