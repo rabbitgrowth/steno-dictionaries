@@ -2382,6 +2382,7 @@
     // Solution: move KW-GS and KR-GS (open and close double quotes)
     // up one tile to get the corresponding single quotes.
     "TP-LT": "{~|'^}", // open single quote
+                       // (one of the 32 strokes for {.})
     "TH-LT": "{^~|'}", // close single quote
     // The closest thing that looks like an open bracket,
     // KPA, is already used for capitalizing the next word,
