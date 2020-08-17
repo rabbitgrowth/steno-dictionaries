@@ -2339,7 +2339,8 @@
 
     // Prevent word boundary errors
     "PAS/SO": "pass so", // give up "Paso"; there's EL/PA/SOE for "El Paso"
-    "PERPB/TPHA": "person in a", // use PERPB/SKWRA for "persona"
+    "PERPB/TPHA": "person in a", // overrides "persona"
+    "PER/SOEPB": "persona",      // or use {^a}: PERPB/SKWRA
 
     // Special rules
     "SKW": "and",           // SKP with P one tile down
