@@ -2383,6 +2383,15 @@
     // up one tile to get the corresponding single quotes.
     "TP-LT": "{~|'^}", // open single quote
     "TH-LT": "{^~|'}", // close single quote
+    // The closest thing that looks like an open bracket,
+    // KPA, is already used for capitalizing the next word,
+    // so use the next closest thing:
+    //   P               T     L
+    //  K   is used so  S       S
+    //   A                A   U
+    "STA": "{~|(^}", // open bracket
+                     // (one of the 19 strokes for "and")
+    "ULS": "{^~|)}", // close bracket
 
     // Commands
     "TK-LG": "{^^}", // TK-LS but vertically aligned
