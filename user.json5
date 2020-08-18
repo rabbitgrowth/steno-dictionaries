@@ -2426,8 +2426,8 @@
     // TH-RS "there is" (mnemonic: spread out a bit to expand 's)
     // to avoid *, but that's an added layer of complexity. It's better to
     // stick to the "default to full form and add * for contraction" rule.
-    "THR-S": "there is",
-    "TH-RS": "there is",
+    "THR-S": "there is", // advantage: neatly partitioned
+    "TH-RS": "there is", // advantage: easier to press
     // "there's"   THR*S  already works
     "TH*RS": "there's",
     // "there are" THR-R  already works
