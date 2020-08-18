@@ -2755,6 +2755,7 @@
     "THA/AOUGS": "that using",
 
     // Misstrokes
+    "KW-RBG": "{,}", // otherwise gives "--ing"
     "KW-BGS": "{,}", // otherwise gives ",s"
 
     // Error recovery
