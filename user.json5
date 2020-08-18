@@ -1410,7 +1410,7 @@
     // I'm pretty much settled with TP-PL for {.} for life,
     // so this one should be safe to override. -FPLT = -FMT = MST,
     // and four keys in a row feels emphatic ("you MUST...").
-    "EUFPLT": "I must",
+    "KWR-FPLT": "I must",
     "UFPLT": "you must",
     "EFPLT": "he must",
     "SHEFPLT": "she must",
