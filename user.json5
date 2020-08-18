@@ -2258,10 +2258,12 @@
     "ORPBLT": "or not",     // there's no "orn't"
     "PHAEUPBLT": "may not", // there's no "mayn't"
 
-    // Proper nouns
+    // Names
     "PWAO*EUPBD": "Biden", // starless is "bind"
+    "TPRAOED/REUFP": "Friedrich",
     "KAPL/HRA": "Kamala", // give up "Kamilah"
     "POPL/PAEU/OE": "Pompeo",
+    "WEUL/HEPL": "Wilhelm",
     "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
 
     // Don't capitalize
