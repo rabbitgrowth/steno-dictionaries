@@ -2428,15 +2428,23 @@
     // stick to the "default to full form and add * for contraction" rule.
     "THR-S": "there is", // advantage: neatly partitioned
     "TH-RS": "there is", // advantage: easier to press
-    // "there's"   THR*S  already works
+    "THR*S": "there's",    // already works
     "TH*RS": "there's",
-    // "there are" THR-R  already works
+    "THR-TS": "there is the",
+    "TH-RTS": "there is the",
+    "THR*TS": "there's the",
+    "TH*RTS": "there's the",
+    "THR-R": "there are",  // already works
     "THR*R": "there're",
-    // "there was" THR-FS already works
+    "THR-FS": "there was", // already works
     "THR-L": "there will",
-    // "there'll"  THR*L  already works
+    "THR*L": "there'll",   // already works
     "THR-BL": "there will be",
     "THR*BL": "there'll be",
+    "HAOERS": "here is",
+    "HAO*ERS": "here's",   // already works
+    "HAOERTS": "here is the",
+    "HAO*ERTS": "here's the",
 
     // Amounts
     "AEULT": "a lot", // The -L in HROELT doesn't seem to be doing anything
