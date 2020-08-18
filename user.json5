@@ -2365,8 +2365,7 @@
                             // full phonetic (KOURPBT) is {counter^}
     "TP-RBZ": "efficiency", // TP-RBT "efficient" - -T + -Z for "-cy"
                             // or use AOERB
-    "STPHUR": "ensure",     // "N-shur" (TPH + SH)
-                            // overrides "insure"
+    "STPHUR": "ensure",     // "N-shur" (TPH + SH); overrides "insure"
     "STPH*UR": "insure",
     "TU": "guy",            // first and last letters
                             // (or top-left and bottom-right keys)
