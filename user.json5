@@ -1409,9 +1409,9 @@
     // -FPLT for "must"
     // It's phonetic with an inversion (FMT -> MST),
     // and four keys in a row feels emphatic ("you MUST...").
-    "KWR-FPLT": "I must",
-    "UFPLT": "you must",
-    "EFPLT": "he must",
+    "KWR-FPLT": "I must", // give up "why{.}"
+    "UFPLT": "you must",  // give up "{.}you" (why not "you{.}"?)
+    "EFPLT": "he must",   // give up {&E.}
     "SHEFPLT": "she must",
     "WEFPLT": "we must",
     "THEFPLT": "they must",
