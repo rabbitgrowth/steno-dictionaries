@@ -2664,6 +2664,17 @@
     "TPO*EUR": "foyer",
     "TPOEURT": "inferiority",
 
+    // "toe" vs "tow"
+    // TOE should be "toe". I mean, it literally says "toe"!
+    "TOE": "toe",
+    "TOES": "toes",
+    "TOEG": "toeing",
+    "TOED": "toed", // overrides "today" (!)
+    "TOD": "today", // give up {^ed to}
+    "TO*E": "tow",
+    "TO*ES": "tows",
+    "TO*ED": "towed",
+
     // Fear
     "HOR": "horror", // drop the final schwa
     "TER": "terror",
