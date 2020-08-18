@@ -1407,8 +1407,7 @@
     // WOBT  "would be the" works already
 
     // -FPLT for "must"
-    // I'm pretty much settled with TP-PL for {.} for life,
-    // so this one should be safe to override. -FPLT = -FMT = MST,
+    // It's phonetic with an inversion (FMT -> MST),
     // and four keys in a row feels emphatic ("you MUST...").
     "KWR-FPLT": "I must",
     "UFPLT": "you must",
