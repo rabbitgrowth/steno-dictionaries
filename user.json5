@@ -399,6 +399,9 @@
     "SWEUPL/SAOUT": "swimsuit",
     "SWEUPL/SAOUTS": "swimsuits",
 
+    // Don't glue together
+    "SPH/TAOEUPL": "some time", // use STAOEUPL for "sometime"
+
     // Suffixes
     // Define the most common words ("worldwide", "countrywide")
     // so that I can be lazy and drop the * in the suffix,
