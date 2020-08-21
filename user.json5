@@ -842,6 +842,16 @@
     "HAURBL": "harshly",
     "PHAURB": "marsh",
 
+    // EZ for -eeze
+    // Like THEZ "these", although "these" is spelled with an "s".
+    // It's a nice coincidence that EZ "easy" sans -y rhymes.
+    "PWREZ": "breeze",
+    "TPREZ": "freeze",
+    "STPHEZ": "sneeze",
+    "SKWEZ": "squeeze",
+    "TWEZ": "tweeze",
+    "WHEZ": "wheeze",
+
     // -F for -s-
     "AOUFR": "user", // use AUFR for {over^}
     "WAOEUFR": "wiser",
