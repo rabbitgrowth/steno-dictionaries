@@ -1232,7 +1232,8 @@
     "SOEFT": "Soviet", // unphonetic stroke for "soft"
     "SOEFT/TPHAOUPB": "Soviet Union",
 
-    // Autocomplete effect
+    // -- Autocomplete effect ------------------------------------------
+
     // Precedents: TPEUS "physical", PED "pedestrian"
     "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
     "AUPL": "automatic",
