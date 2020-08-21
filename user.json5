@@ -116,6 +116,7 @@
 
     // -- Phonetic -----------------------------------------------------
 
+    // Full phonetic
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES or ABG/SEU,
                             // which feels like it's missing an -R
     "A*PLS": "Alps", // starless is "apples"
