@@ -347,6 +347,7 @@
     // Precedent: TPUPB "fun" -> TPAOUPB "funny"
     "PWAOUL": "bully", // overrides "boule"
     "PWAO*UL": "boule",
+    "PWAOUPB": "bunny",
     "HAOURPBG": "hungry",
     // See also:
     // HELT "health"     -> HAOELT "healthy"
