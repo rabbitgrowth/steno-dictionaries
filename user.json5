@@ -1217,6 +1217,8 @@
     "SREUG": "vigor", // prevents "have Iing" from flashing past
     "SROD": "vodka",  // prevents "have toed" from flashing past
 
+    // -- Phrasing -----------------------------------------------------
+
     // Pronoun + be
     // Default to full form and add * or use phonetics for contraction
     "KWR-PL": "I am", // overrides "I mean"
@@ -2041,7 +2043,7 @@
     // AS FAST AS    7145  STPAFTS
     "SPHALS": "as small as",
 
-    // Miscellaneous phrasing strokes
+    // Miscellaneous phrasing
     "PWHOU": "about how",
     "PWU": "about you", // use PWUT for "but"
     "TPHEUFT": "any of the", // use EUFT for {^ist}
@@ -2075,6 +2077,8 @@
     "HR-FB": "will have been",
     "WHOR": "who are", // overrides "whore"
     "WHO*R": "whore",
+
+    // -- Grammar ------------------------------------------------------
 
     // Plurals
     "ABGT/SREUFTS": "activists",
@@ -2251,6 +2255,8 @@
                           // HROEFT "lowest" already works
     "HAO*EUFT": "heist",
 
+    // -- Negation -----------------------------------------------------
+
     // Expand "n't" into "not" with -L as bridge
     "K-PBLT": "cannot",     // from K-PBT   "can't"
     "TKOEPBLT": "do not",   // from TKOEPBT "don't" (or just use TKPHOT)
@@ -2287,6 +2293,8 @@
     "SKP-PBLT": "and not",  // there's no "andn't"
     "ORPBLT": "or not",     // there's no "orn't"
     "PHAEUPBLT": "may not", // there's no "mayn't"
+
+    // -- Proper nouns -------------------------------------------------
 
     // Names
     "PWAO*EUPBD": "Biden", // starless is "bind"
