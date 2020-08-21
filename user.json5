@@ -1146,21 +1146,6 @@
     //    although it's not very phonetic I guess.
     // 2) "candled" and "candling" are pretty rare.
 
-    // Swap base words to simplify inflections
-    // STK*ERT  "desert"  -> STK*ERTD  "deserted"
-    // STKERT   "dessert" -> STKERTD   "desserted" (not a word)
-    // TPHRO*UR "flower"  -> TPHRO*URS "flowers"
-    // TPHROUR  "flour"   -> TPHROURS  "flours"    (not a word)
-    // The nicer starless strokes STKERTD and TPHROURS are wasted on
-    // non-existent words. Fix this by swapping the base words:
-    "STKERT": "desert",
-    "STK*ERT": "dessert", // mnemonic: add * for an extra s
-    "TPHROUR": "flower",
-    "TPHRO*UR":  "flour",
-    // A nice side effect:
-    "STKERGS": "desertion",       // which frees up ...
-    "TKE/SERGS": "desegregation", // consistent with SERGS "segregation"
-
     // Miscellaneous star-dropping
     "THRAOET": "athlete",       // bizarre misstroke for "throat"
     "PWAOEUS": "bias",          // use -Z for "buys"
@@ -1231,6 +1216,21 @@
 
     "SOEFT": "Soviet", // unphonetic stroke for "soft"
     "SOEFT/TPHAOUPB": "Soviet Union",
+
+    // Swap base words to simplify inflections
+    // STK*ERT  "desert"  -> STK*ERTD  "deserted"
+    // STKERT   "dessert" -> STKERTD   "desserted" (not a word)
+    // TPHRO*UR "flower"  -> TPHRO*URS "flowers"
+    // TPHROUR  "flour"   -> TPHROURS  "flours"    (not a word)
+    // The nicer starless strokes STKERTD and TPHROURS are wasted on
+    // non-existent words. Fix this by swapping the base words:
+    "STKERT": "desert",
+    "STK*ERT": "dessert", // mnemonic: add * for an extra s
+    "TPHROUR": "flower",
+    "TPHRO*UR":  "flour",
+    // A nice side effect:
+    "STKERGS": "desertion",       // which frees up ...
+    "TKE/SERGS": "desegregation", // consistent with SERGS "segregation"
 
     // -- Autocomplete effect ------------------------------------------
 
