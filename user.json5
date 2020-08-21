@@ -1,6 +1,6 @@
 {
 
-    // -- Skeletal briefs ----------------------------------------------
+    // -- Skeletal briefs ------------------------------------------------------
 
     "PW-RT": "better", // PWERT is "Bert" and PW*ERT is "berth"
                        // and I don't want to alter the vowel
@@ -71,7 +71,7 @@
     "TOTS": "to its",
     "W-TS": "with its",
 
-    // -- Consistency with existing strokes ----------------------------
+    // -- Consistency with existing strokes ------------------------------------
 
     "A/KUFPL": "accustom",      // with A/KUFPLD "accustomed"
     "AFBG": "affect",           // with EFBG "effect"
@@ -114,7 +114,7 @@
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
 
-    // -- Phonetic -----------------------------------------------------
+    // -- Phonetic -------------------------------------------------------------
 
     // Full phonetic
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES or ABG/SEU,
@@ -368,7 +368,7 @@
                         //  from "bump", but not many words are like that,
                         //  and Plover already defines PWUPL/-RBS)
 
-    // -- Final -y sound -----------------------------------------------
+    // -- Final -y sound -------------------------------------------------------
 
     // Extend "many" rule
     // We have PHAEPB "many"   = MAEN = MANE = man-E.
@@ -421,7 +421,7 @@
     "HRAURPBD": "laundry",
     "STURD": "sturdy",
 
-    // -- Joining and splitting ----------------------------------------
+    // -- Joining and splitting ------------------------------------------------
 
     // Compound words
     "PWAPBD/HRAOERD": "bandleader",
@@ -455,7 +455,7 @@
     "PERPB/TPHA": "person in a", // overrides "persona"
     "PER/SOEPB": "persona",      // or use {^a}: PERPB/SKWRA
 
-    // -- Affixes ------------------------------------------------------
+    // -- Affixes --------------------------------------------------------------
 
     // Suffixes
     // Define the most common words ("worldwide", "countrywide")
@@ -496,7 +496,7 @@
     // natural because "con-" is so common KAUPB becomes muscle memory
     // pretty quickly.
 
-    // -- Folding in ---------------------------------------------------
+    // -- Folding in -----------------------------------------------------------
 
     // Fold in A for a-
     // Precedents: SPAEBGT "aspect", TAEPBGS "attention"
@@ -643,7 +643,7 @@
     "SPAOEFPLS": "speechless",
     "SPAOEUPBLS": "spineless",
 
-    // -- Extensions ---------------------------------------------------
+    // -- Extensions -----------------------------------------------------------
 
     // SPW for ind- and end-
     // There is surprisingly little overlap.
@@ -718,7 +718,7 @@
     "KPWRAEUS": "embrace",
     "KPWRAEUFD": "embraced",
 
-    // -- Sound patterns -----------------------------------------------
+    // -- Sound patterns -------------------------------------------------------
 
     // STK for dis- and des-
     // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
@@ -996,7 +996,7 @@
     "SPRAEULGS": "inspirational",  // from SPRAEUGS "inspiration"
     "STPHAOULGS": "institutional", // from STPHAOUGS "institution"
 
-    // -- Star-dropping ------------------------------------------------
+    // -- Star-dropping --------------------------------------------------------
 
     // AEUPB for -aken
     // Precedent: Plover now allows SPHAEUPB in addition to SPHA*EUPB for "mistaken"
@@ -1232,7 +1232,7 @@
     "STKERGS": "desertion",       // which frees up ...
     "TKE/SERGS": "desegregation", // consistent with SERGS "segregation"
 
-    // -- Autocomplete effect ------------------------------------------
+    // -- Autocomplete effect --------------------------------------------------
 
     // Precedents: TPEUS "physical", PED "pedestrian"
     "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
@@ -1261,7 +1261,7 @@
     "SREUG": "vigor", // prevents "have Iing" from flashing past
     "SROD": "vodka",  // prevents "have toed" from flashing past
 
-    // -- Phrasing -----------------------------------------------------
+    // -- Phrasing -------------------------------------------------------------
 
     // Pronoun + be
     // Default to full form and add * or use phonetics for contraction
@@ -2087,7 +2087,7 @@
     "TPE": "if he", // give up "fe", which is not a word
     "STPROFPBT": "in front of", //   STPRO PBT "in front"
                                 // +  TPROFPBT "front of"
-                                // -----------
+                                // -------------------
                                 //   STPROFPBT "in front of"
     "TPHURPB": "in turn", // instead of "turn in"; follow steno order
     "T-D": "it had", // give up {^ed it}
@@ -2112,7 +2112,7 @@
     "WHOR": "who are", // overrides "whore"
     "WHO*R": "whore",
 
-    // -- Grammar ------------------------------------------------------
+    // -- Grammar --------------------------------------------------------------
 
     // Plurals
     "ABGT/SREUFTS": "activists",
@@ -2289,7 +2289,7 @@
                           // HROEFT "lowest" already works
     "HAO*EUFT": "heist",
 
-    // -- Negation -----------------------------------------------------
+    // -- Negation -------------------------------------------------------------
 
     // Expand "n't" into "not" with -L as bridge
     "K-PBLT": "cannot",     // from K-PBT   "can't"
@@ -2328,7 +2328,7 @@
     "ORPBLT": "or not",     // there's no "orn't"
     "PHAEUPBLT": "may not", // there's no "mayn't"
 
-    // -- Proper nouns -------------------------------------------------
+    // -- Proper nouns ---------------------------------------------------------
 
     // Names
     "PWAO*EUPBD": "Biden", // starless is "bind"
@@ -2358,7 +2358,7 @@
     //   HAPL/HRET "Hamlet"        HA*PL/HRET "Hamlet"
     "PA*ERT": "Party",
 
-    // -- Abbreviations ------------------------------------------------
+    // -- Abbreviations --------------------------------------------------------
 
     // Non-steno abbreviations
     "TK-L": "download",    // dl
@@ -2386,7 +2386,7 @@
     "P*URB": "publisher",
     "SR*ET": "veteran",    // vet
 
-    // -- Vocabulary ---------------------------------------------------
+    // -- Vocabulary -----------------------------------------------------------
 
     // Missing words
     "ART/SEU/TPART/SEU": "artsy-fartsy",
@@ -2398,7 +2398,7 @@
     "KOEFD/1-9": "Covid-19",
     "PR*UPL": "President Trump",
 
-    // -- Special rules ------------------------------------------------
+    // -- Special rules --------------------------------------------------------
 
     "SKW": "and",           // SKP with P one tile down
     "AR": "area",           // first two letters
@@ -2421,7 +2421,7 @@
     "TUPLT": "tumult",      // TU+PL+L+T
                             // TUPLT/WOUS "tumultuous"
 
-    // -- Punctuation as shapes ----------------------------------------
+    // -- Punctuation as shapes ------------------------------------------------
 
     // Open single quote, which comes first, is the one that's starred:
     //   A*E {~|'^} (open single quote)
@@ -2444,7 +2444,7 @@
                      // (one of the 19 strokes for "and")
     "ULS": "{^~|)}", // close bracket
 
-    // -- Commands -----------------------------------------------------
+    // -- Commands -------------------------------------------------------------
 
     "TK-LG": "{^^}", // TK-LS but vertically aligned
     "TPHAOP": "{#}", // JUJ/(no-op)/*MT -> judgement
@@ -2456,7 +2456,7 @@
                      // -> WR RB <- (visually sticking together)
     "HRAL": "{#command(a)}", // lal -> all
 
-    // -- Basics -------------------------------------------------------
+    // -- Basics ---------------------------------------------------------------
 
     // Reflexive pronouns
     "O*URS": "ourselves", // "ourself" is too rare
@@ -2544,7 +2544,7 @@
     "R*F": "irregardless of", // give up "reticular formation"
     "R*FT": "irregardless of the",
 
-    // -- Ergonomics ---------------------------------------------------
+    // -- Ergonomics -----------------------------------------------------------
 
     // A more ergonomic "end"
     "TPH-D": "end",     // pronounce the TPH: "N'd"
@@ -2562,7 +2562,7 @@
     "TPHARLT": "natural",
     "TKRELT": "directly", // TKRELG is also nice (/dɪˈrɛkli/)
 
-    // -- Word families ------------------------------------------------
+    // -- Word families --------------------------------------------------------
 
     // "agree" family
     // The A in TKPWRAE is just begging to be dropped.
@@ -2717,7 +2717,7 @@
     "TO*ES": "tows",
     "TO*ED": "towed",
 
-    // -- Topics -------------------------------------------------------
+    // -- Topics ---------------------------------------------------------------
 
     // Fear
     "HOR": "horror", // drop the final schwa
@@ -2763,7 +2763,7 @@
     // Fictitious place names
     "SREUL": "{*-|}{^ville}", // with retrospective capitalization
 
-    // -- Miscellaneous ------------------------------------------------
+    // -- Miscellaneous --------------------------------------------------------
 
     // Don't hyphenate
     "ROUPBD/TREUP": "round trip",
@@ -2774,7 +2774,7 @@
     "PW-RT/PW-RT": "better and better",
     "PW-RT/PW-RT/PW-RT": "better and better and better",
 
-    // -- Special considerations ---------------------------------------
+    // -- Special considerations -----------------------------------------------
 
     // I hate KROEUR for "occur". Had to choose between KR and K-R,
     // which were both "consider". Settled with KR so that the visual
@@ -2798,7 +2798,7 @@
     // for "sacrifice".
     "SKREUF": "sacrifice",
 
-    // -- Fix Plover's oddities ----------------------------------------
+    // -- Fix Plover's oddities ------------------------------------------------
 
     // KULD "culd"
     // "culd" is not a word (at least not in modern English --
@@ -2823,12 +2823,12 @@
     //   the company millions of dollars.")
     "THA/AOUGS": "that using",
 
-    // -- Misstrokes ---------------------------------------------------
+    // -- Misstrokes -----------------------------------------------------------
 
     "KW-RBG": "{,}", // otherwise gives "--ing"
     "KW-BGS": "{,}", // otherwise gives ",s"
 
-    // -- Error recovery -----------------------------------------------
+    // -- Error recovery -------------------------------------------------------
 
     // Phoenix uses R-R but that's newline in Plover already,
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
