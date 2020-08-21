@@ -437,6 +437,11 @@
     // Not compound words
     "SPH/TAOEUPL": "some time", // use STAOEUPL for "sometime"
 
+    // Prevent word boundary errors
+    "PAS/SO": "pass so", // give up "Paso"; there's EL/PA/SOE for "El Paso"
+    "PERPB/TPHA": "person in a", // overrides "persona"
+    "PER/SOEPB": "persona",      // or use {^a}: PERPB/SKWRA
+
     // -- Prefixes and suffixes ----------------------------------------
 
     // Suffixes
@@ -2391,11 +2396,6 @@
     "KROEPB/SRAOEURS": "coronavirus",
     "KOEFD/1-9": "Covid-19",
     "PR*UPL": "President Trump",
-
-    // Prevent word boundary errors
-    "PAS/SO": "pass so", // give up "Paso"; there's EL/PA/SOE for "El Paso"
-    "PERPB/TPHA": "person in a", // overrides "persona"
-    "PER/SOEPB": "persona",      // or use {^a}: PERPB/SKWRA
 
     // Special rules
     "SKW": "and",           // SKP with P one tile down
