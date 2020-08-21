@@ -2397,7 +2397,8 @@
     "KOEFD/1-9": "Covid-19",
     "PR*UPL": "President Trump",
 
-    // Special rules
+    // -- Special rules ------------------------------------------------
+
     "SKW": "and",           // SKP with P one tile down
     "AR": "area",           // first two letters
     "TAL": "at all",        // since TAUL is "tall"
@@ -2425,7 +2426,8 @@
     "PW-RT/PW-RT": "better and better",
     "PW-RT/PW-RT/PW-RT": "better and better and better",
 
-    // Punctuation as shapes
+    // -- Punctuation as shapes ----------------------------------------
+
     // Open single quote, which comes first, is the one that's starred:
     //   A*E {~|'^} (open single quote)
     //   AE  {^~|'} (close single quote)
@@ -2447,7 +2449,8 @@
                      // (one of the 19 strokes for "and")
     "ULS": "{^~|)}", // close bracket
 
-    // Commands
+    // -- Commands -----------------------------------------------------
+
     "TK-LG": "{^^}", // TK-LS but vertically aligned
     "TPHAOP": "{#}", // JUJ/(no-op)/*MT -> judgement
     "SK-GS": "{*?}", // retrospectively add space
@@ -2457,6 +2460,8 @@
                      // use W-RB for "whereby"
                      // -> WR RB <- (visually sticking together)
     "HRAL": "{#command(a)}", // lal -> all
+
+    // -- Basics -------------------------------------------------------
 
     // Affirmation
     "KWRE": "yeah", // by default "yes"
@@ -2534,6 +2539,8 @@
     "KW-BG/KW-BG": "{^}, \"{^}{-|}", // but for other words, instead of
                                      // doubling the word, double the comma
 
+    // -- Ergonomics ---------------------------------------------------
+
     // A more ergonomic "end"
     "TPH-D": "end",     // pronounce the TPH: "N'd"
                         // easier to hit than EPBD
@@ -2549,6 +2556,8 @@
     // -LT is just as easy, if not easier, to type as -L.
     "TPHARLT": "natural",
     "TKRELT": "directly", // TKRELG is also nice (/dɪˈrɛkli/)
+
+    // -- Word families ------------------------------------------------
 
     // "agree" family
     // The A in TKPWRAE is just begging to be dropped.
