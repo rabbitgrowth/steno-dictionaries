@@ -343,6 +343,15 @@
     "HRAURPBD": "laundry",
     "STURD": "sturdy",
 
+    // Lengthen vowel for -y
+    // Precedent: TPUPB "fun" -> TPAOUPB "funny"
+    "PWAOUL": "bully", // overrides "boule"
+    "PWAO*UL": "boule",
+    "HAOURPBG": "hungry",
+    // See also:
+    // HELT "health"     -> HAOELT "healthy"
+    // SKWRELS "jealous" -> SKWRAOELS "jealousy"
+
     // Extend "many" rule
     // We have PHAEPB "many"   = MAEN = MANE = man-E.
     // Why not SRAEL  "valley" = VAEL = VALE = val-E?
@@ -367,15 +376,6 @@
     "KAL/TOR": "calculator",
     "KA*L": "cal",           // use KPAL for "capital"
     "KA*LS": "cals",
-
-    // Lengthen vowel for -y
-    // Precedent: TPUPB "fun" -> TPAOUPB "funny"
-    "PWAOUL": "bully", // overrides "boule"
-    "PWAO*UL": "boule",
-    "HAOURPBG": "hungry",
-    // See also:
-    // HELT "health"     -> HAOELT "healthy"
-    // SKWRELS "jealous" -> SKWRAOELS "jealousy"
 
     // Compound words
     "PWAPBD/HRAOERD": "bandleader",
