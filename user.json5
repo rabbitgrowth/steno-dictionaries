@@ -2588,6 +2588,29 @@
                                 // ("My dad's a real stick in the mud...")
     "UPB/RAEL/STEUBG": "unrealistic",
 
+    // "subject" and "object"
+    "SUFBT": "subjective", // SUBT "subject" + -F
+    "OFBT": "objective",   // OBT  "object"  + -F
+    // SUBT/EUFT "subjectivity" is nice;
+    // make that work for "objectivity" too.
+    "OBT/EUFT": "objectivity", // "objectist" is very rare
+    // SUFBT/-TEU ("subjective" + {^ity})
+    // OFBT/-TEU  ("objective"  + {^ity})
+    // work too thanks to Plover's orthography rules.
+
+    // "superior" and "inferior"
+    "SPOEURT": "superiority",
+    "TPOEURPBT": "inferiority", // from TPOEURPB (mnemonic: "infor")
+                                //  FF   N
+                                //      RN
+                                //    O II
+    "TPOEUR": "inferior", // nicely symmetrical with SPOEUR "superior"
+                          // but overrides "foyer"
+    "TPO*EUR": "foyer",
+    "TPOEURT": "inferiority",
+
+    // -- Easily confused words ------------------------------------------------
+
     // "aggregate" and "integrate"
     // TKPWRAT     "aggregate"
     // TKPWRAGS    "grassing"    (?!)
@@ -2648,27 +2671,6 @@
     "RAEUFD": "raced",
     "RA*EUFD": "raised", // already works
                          // RAEUDZ is "raids"
-
-    // "subject" and "object"
-    "SUFBT": "subjective", // SUBT "subject" + -F
-    "OFBT": "objective",   // OBT  "object"  + -F
-    // SUBT/EUFT "subjectivity" is nice;
-    // make that work for "objectivity" too.
-    "OBT/EUFT": "objectivity", // "objectist" is very rare
-    // SUFBT/-TEU ("subjective" + {^ity})
-    // OFBT/-TEU  ("objective"  + {^ity})
-    // work too thanks to Plover's orthography rules.
-
-    // "superior" and "inferior"
-    "SPOEURT": "superiority",
-    "TPOEURPBT": "inferiority", // from TPOEURPB (mnemonic: "infor")
-                                //  FF   N
-                                //      RN
-                                //    O II
-    "TPOEUR": "inferior", // nicely symmetrical with SPOEUR "superior"
-                          // but overrides "foyer"
-    "TPO*EUR": "foyer",
-    "TPOEURT": "inferiority",
 
     // "toe" vs "tow"
     // TOE should be "toe". I mean, it literally says "toe"!
