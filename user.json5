@@ -2358,9 +2358,6 @@
     //   HAPL/HRET "Hamlet"        HA*PL/HRET "Hamlet"
     "PA*ERT": "Party",
 
-    // Don't hyphenate
-    "ROUPBD/TREUP": "round trip",
-
     // -- Abbreviations ------------------------------------------------
 
     // Non-steno abbreviations
@@ -2423,6 +2420,11 @@
     "KW-T": "quiet",        // KWAOEUT ("quite") is too loud
     "TUPLT": "tumult",      // TU+PL+L+T
                             // TUPLT/WOUS "tumultuous"
+
+    // -- Miscellaneous ------------------------------------------------
+
+    // Don't hyphenate
+    "ROUPBD/TREUP": "round trip",
 
     // Double to join with "and"
     "OEFR/OEFR": "over and over",
