@@ -2724,6 +2724,8 @@
     "TO*ES": "tows",
     "TO*ED": "towed",
 
+    // -- Topics -------------------------------------------------------
+
     // Fear
     "HOR": "horror", // drop the final schwa
     "TER": "terror",
@@ -2768,6 +2770,8 @@
     // Fictitious place names
     "SREUL": "{*-|}{^ville}", // with retrospective capitalization
 
+    // -- Special considerations ---------------------------------------
+
     // I hate KROEUR for "occur". Had to choose between KR and K-R,
     // which were both "consider". Settled with KR so that the visual
     // lengths of the strokes matched up with the lengths of the words:
@@ -2790,7 +2794,8 @@
     // for "sacrifice".
     "SKREUF": "sacrifice",
 
-    // Fix oddities in Plover dictionary
+    // -- Fix Plover's oddities ----------------------------------------
+
     // KULD "culd"
     // "culd" is not a word (at least not in modern English --
     // apparently it's an obsolete form of "could").
@@ -2814,11 +2819,13 @@
     //   the company millions of dollars.")
     "THA/AOUGS": "that using",
 
-    // Misstrokes
+    // -- Misstrokes ---------------------------------------------------
+
     "KW-RBG": "{,}", // otherwise gives "--ing"
     "KW-BGS": "{,}", // otherwise gives ",s"
 
-    // Error recovery
+    // -- Error recovery -----------------------------------------------
+
     // Phoenix uses R-R but that's newline in Plover already,
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
     "AD/H-F": "ad",               // from "add"
