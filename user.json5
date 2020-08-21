@@ -2352,7 +2352,9 @@
     // Don't hyphenate
     "ROUPBD/TREUP": "round trip",
 
-    // Existing abbreviations
+    // -- Abbreviations ------------------------------------------------
+
+    // Non-steno abbreviations
     "TK-L": "download",    // dl
     "SKWR-P": "Japan",     // JP
     "SKWR-PS": "Japanese",
@@ -2377,6 +2379,8 @@
     "P*UB": "publish",     // pub
     "P*URB": "publisher",
     "SR*ET": "veteran",    // vet
+
+    // -- Vocabulary ---------------------------------------------------
 
     // Missing words
     "ART/SEU/TPART/SEU": "artsy-fartsy",
