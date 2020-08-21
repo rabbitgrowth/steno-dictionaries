@@ -455,7 +455,7 @@
     "PERPB/TPHA": "person in a", // overrides "persona"
     "PER/SOEPB": "persona",      // or use {^a}: PERPB/SKWRA
 
-    // -- Prefixes and suffixes ----------------------------------------
+    // -- Affixes ------------------------------------------------------
 
     // Suffixes
     // Define the most common words ("worldwide", "countrywide")
