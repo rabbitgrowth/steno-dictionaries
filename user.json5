@@ -327,7 +327,7 @@
     "TAUBT/-D": "talked about",
     "TAUBT/-G": "talking about",
 
-    // Drop final -y sound
+    // Drop -y
     // For -D, -T, and -Z, I can think of it as "pronounce last letter".
     // For example, STURD = stur-D = "sturdy". A possibly accidental
     // precedent is THORT = thor-T ~= "authority".
