@@ -345,6 +345,7 @@
 
     // Lengthen vowel for -y
     // Precedent: TPUPB "fun" -> TPAOUPB "funny"
+    "AEURPBG": "angry", // use A/RAEUPB for "arraign"
     "PWAOUL": "bully", // overrides "boule"
     "PWAO*UL": "boule",
     "PWAOUPB": "bunny",
@@ -356,7 +357,6 @@
     // Extend "many" rule
     // We have PHAEPB "many"   = MAEN = MANE = man-E.
     // Why not SRAEL  "valley" = VAEL = VALE = val-E?
-    "AERPBG": "angry",
     "HOEB": "hobby",
     "SRAEL": "valley", // overrides "vale"
     "SRA*EUL": "vale",
