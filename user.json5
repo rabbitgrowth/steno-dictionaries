@@ -2421,17 +2421,6 @@
     "TUPLT": "tumult",      // TU+PL+L+T
                             // TUPLT/WOUS "tumultuous"
 
-    // -- Miscellaneous ------------------------------------------------
-
-    // Don't hyphenate
-    "ROUPBD/TREUP": "round trip",
-
-    // Double to join with "and"
-    "OEFR/OEFR": "over and over",
-    "OEFR/OEFR/OEFR": "over and over and over",
-    "PW-RT/PW-RT": "better and better",
-    "PW-RT/PW-RT/PW-RT": "better and better and better",
-
     // -- Punctuation as shapes ----------------------------------------
 
     // Open single quote, which comes first, is the one that's starred:
@@ -2773,6 +2762,17 @@
 
     // Fictitious place names
     "SREUL": "{*-|}{^ville}", // with retrospective capitalization
+
+    // -- Miscellaneous ------------------------------------------------
+
+    // Don't hyphenate
+    "ROUPBD/TREUP": "round trip",
+
+    // Double to join with "and"
+    "OEFR/OEFR": "over and over",
+    "OEFR/OEFR/OEFR": "over and over and over",
+    "PW-RT/PW-RT": "better and better",
+    "PW-RT/PW-RT/PW-RT": "better and better and better",
 
     // -- Special considerations ---------------------------------------
 
