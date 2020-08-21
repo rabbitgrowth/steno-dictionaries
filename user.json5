@@ -1,6 +1,7 @@
 {
 
-    // Skeletal briefs
+    // -- Skeletal briefs ----------------------------------------------
+
     "PW-RT": "better", // PWERT is "Bert" and PW*ERT is "berth"
                        // and I don't want to alter the vowel
                        // (PWOERT), so just omit the vowel
@@ -70,7 +71,8 @@
     "TOTS": "to its",
     "W-TS": "with its",
 
-    // Consistency with existing strokes
+    // -- Consistency with existing strokes ----------------------------
+
     "A/KUFPL": "accustom",      // with A/KUFPLD "accustomed"
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
@@ -112,7 +114,8 @@
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
 
-    // Phonetic
+    // -- Phonetic -----------------------------------------------------
+
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES or ABG/SEU,
                             // which feels like it's missing an -R
     "A*PLS": "Alps", // starless is "apples"
@@ -327,7 +330,9 @@
     "TAUBT/-D": "talked about",
     "TAUBT/-G": "talking about",
 
-    // Drop -y
+    // -- Final -y sound -----------------------------------------------
+
+    // Drop it
     // -D, -T, and -Z produce a "pronounce last letter" effect.
     // For example, STURD = stur-D = "sturdy". A possibly accidental
     // precedent is THORT = thor-T ~= "authority".
@@ -343,7 +348,7 @@
     "HRAURPBD": "laundry",
     "STURD": "sturdy",
 
-    // Lengthen vowel for -y
+    // Lengthen vowel
     // Precedent: TPUPB "fun" -> TPAOUPB "funny"
     "AEURPBG": "angry", // use A/RAEUPB for "arraign"
     "PWAOUL": "bully", // overrides "boule"
@@ -378,6 +383,8 @@
     "KA*L": "cal",           // use KPAL for "capital"
     "KA*LS": "cals",
 
+    // -- Joining and splitting ----------------------------------------
+
     // Compound words
     "PWAPBD/HRAOERD": "bandleader",
     "PWAPBD/HRAOERDZ": "bandleaders",
@@ -402,7 +409,7 @@
     "SWEUPL/SAOUT": "swimsuit",
     "SWEUPL/SAOUTS": "swimsuits",
 
-    // Don't glue together
+    // Not compound words
     "SPH/TAOEUPL": "some time", // use STAOEUPL for "sometime"
 
     // Suffixes
@@ -423,6 +430,8 @@
     "KREU/WAOEUD": "countrywide",
     "TPH-GS/WAOEUD": "nationwide",
     "WORL/WAOEUD": "worldwide", // WORLD/WAOEUD already works
+
+    // -- Folding in ---------------------------------------------------
 
     // Fold in A for a-
     // Precedents: SPAEBGT "aspect", TAEPBGS "attention"
@@ -569,6 +578,8 @@
     "SPAOEFPLS": "speechless",
     "SPAOEUPBLS": "spineless",
 
+    // -- Extensions ---------------------------------------------------
+
     // Extend SPW to ind- and end-
     // There is surprisingly little overlap.
     // "indebt" is a word; "intebt" is not.
@@ -641,6 +652,8 @@
     "KPWETD": "embedded",
     "KPWRAEUS": "embrace",
     "KPWRAEUFD": "embraced",
+
+    // -- Sound patterns -----------------------------------------------
 
     // STK for dis- and des-
     // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
@@ -918,12 +931,14 @@
     "SPRAEULGS": "inspirational",  // from SPRAEUGS "inspiration"
     "STPHAOULGS": "institutional", // from STPHAOUGS "institution"
 
-    // Drop * and use AEUPB for -aken
+    // -- Star-dropping ------------------------------------------------
+
+    // AEUPB for -aken
     // Precedent: Plover now allows SPHAEUPB in addition to SPHA*EUPB for "mistaken"
     "A/WAEUPB": "awaken",       // "aWayne"  is not a word
     "TPAUR/SAEUPB": "forsaken", // "forsane" is not a word
 
-    // Drop * and use -T for -th (Indian accent?)
+    // -T for -th (Indian accent?)
     "PWRET": "breath",    // swap with "Brett"
     "PWR*ET": "Brett",
     "PWRAOET": "breathe", // swap with "burrito"
@@ -958,7 +973,7 @@
     "TWORT": "worth it",
     "KWRAOUT": "youth",
 
-    // Drop * and use -LT for -tle
+    // -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
     "PWALT": "battle",
     "PWAELT": "ballot",
@@ -993,7 +1008,7 @@
     "STKPHAPBLT": "dismantle",
     "PHEURLT": "myrtle",
 
-    // Drop * and use -LD for -dle (sometimes)
+    // -LD for -dle (sometimes)
     // The * in *LD is less droppable than the * in *LT. For example,
     // TPEULD and PULD are perfect strokes for "filled" and "pulled",
     // and there's no way I'm going to give them up for "fiddle" and
