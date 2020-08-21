@@ -645,7 +645,7 @@
 
     // -- Extensions ---------------------------------------------------
 
-    // Extend SPW to ind- and end-
+    // SPW for ind- and end-
     // There is surprisingly little overlap.
     // "indebt" is a word; "intebt" is not.
     // "intern" is a word; "indern" is not.
@@ -682,7 +682,7 @@
     "SPWAOURPBS": "endurance", // cf. EPB/TKAOURPBS
     "SPWURPBS": "endurance",   // cf. EPB/TKURPBS
 
-    // Extend SPW to ant-, ont-, and unt-
+    // SPW for ant-, ont-, and unt-
     // Justification: "ent- or int-" isn't a mirror image of -nt; nt- is.
     // And nt- feels like it could be extended to mean [any vowel]nt-.
     "SPWAOEBG": "antique",
