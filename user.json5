@@ -370,33 +370,6 @@
 
     // -- Final -y sound -----------------------------------------------
 
-    // Drop it
-    // -D, -T, and -Z produce a "pronounce last letter" effect.
-    // For example, STURD = stur-D = "sturdy". A possibly accidental
-    // precedent is THORT = thor-T ~= "authority".
-    "PWOD": "body",    // overrides "bod"
-    "PWODZ": "bodies", // overrides "bods"
-    "PWO*D": "bod",
-    "PWUR": "bury", // overrides "burr"
-                    // folding in -G and -D don't work though:
-                    // PWURG is {^burg} and PWURD is "burden"
-    "PW*UR": "burr",
-    "TKEUZ": "dizzy", // use TKEUS for {dis^}
-    "HUR": "hurry",
-    "HRAURPBD": "laundry",
-    "STURD": "sturdy",
-
-    // Lengthen vowel
-    // Precedent: TPUPB "fun" -> TPAOUPB "funny"
-    "AEURPBG": "angry", // use A/RAEUPB for "arraign"
-    "PWAOUL": "bully", // overrides "boule"
-    "PWAO*UL": "boule",
-    "PWAOUPB": "bunny",
-    "HAOURPBG": "hungry",
-    // See also:
-    // HELT "health"     -> HAOELT "healthy"
-    // SKWRELS "jealous" -> SKWRAOELS "jealousy"
-
     // Extend "many" rule
     // We have PHAEPB "many"   = MAEN = MANE = man-E.
     // Why not SRAEL  "valley" = VAEL = VALE = val-E?
@@ -420,6 +393,33 @@
     "KAL/TOR": "calculator",
     "KA*L": "cal",           // use KPAL for "capital"
     "KA*LS": "cals",
+
+    // Lengthen vowel
+    // Precedent: TPUPB "fun" -> TPAOUPB "funny"
+    "AEURPBG": "angry", // use A/RAEUPB for "arraign"
+    "PWAOUL": "bully", // overrides "boule"
+    "PWAO*UL": "boule",
+    "PWAOUPB": "bunny",
+    "HAOURPBG": "hungry",
+    // See also:
+    // HELT "health"     -> HAOELT "healthy"
+    // SKWRELS "jealous" -> SKWRAOELS "jealousy"
+
+    // Drop it
+    // -D, -T, and -Z produce a "pronounce last letter" effect.
+    // For example, STURD = stur-D = "sturdy". A possibly accidental
+    // precedent is THORT = thor-T ~= "authority".
+    "PWOD": "body",    // overrides "bod"
+    "PWODZ": "bodies", // overrides "bods"
+    "PWO*D": "bod",
+    "PWUR": "bury", // overrides "burr"
+                    // folding in -G and -D don't work though:
+                    // PWURG is {^burg} and PWURD is "burden"
+    "PW*UR": "burr",
+    "TKEUZ": "dizzy", // use TKEUS for {dis^}
+    "HUR": "hurry",
+    "HRAURPBD": "laundry",
+    "STURD": "sturdy",
 
     // -- Joining and splitting ----------------------------------------
 
