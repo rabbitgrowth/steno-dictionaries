@@ -116,7 +116,6 @@
 
     // -- Phonetic -------------------------------------------------------------
 
-    // Full phonetic
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES or ABG/SEU,
                             // which feels like it's missing an -R
     "A*PLS": "Alps", // starless is "apples"
@@ -213,6 +212,8 @@
     // SKWREPBL  "general"
     // SKWRERPBL "generally" (add -R for -ly??)
 
+    // -- Vowels ---------------------------------------------------------------
+
     // Don't alter vowel
     "KAERT": "carrot", // AE for /æ/ since KART is "cart"
                        // just fingerspell "CART"
@@ -241,7 +242,8 @@
     "SWER": "swear",   // vs SWAER
     "THOT": "thought", // vs THAUT
 
-    // Mash sounds together
+    // -- Sound mashing --------------------------------------------------------
+
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "TKPHEUGS": "admission",
     "HRARPL": "alarm",
