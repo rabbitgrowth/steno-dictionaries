@@ -250,6 +250,9 @@
     "ALG": "algorithm", // use ALGS for "additional" (AGS "addition" + -L)
     "SKP-PB": "and then",
     "SKP-PBT": "and then the",
+    "STORB": "astonish",
+    "STORBG": "astonishing", // overrides "stork" (a bird)
+    "STO*RBG": "stork",      // give up "State of New York"
     "THRAFT": "at last", // cf. THRAOEFT "at least"
     "KPRA*EUPBS": "contemporaneous", // starless is "extraneous"
                                      // the standard KPRA*EURPBS minus -R
@@ -301,10 +304,6 @@
     "WHAOEUF": "whole life",
     "WHOEUPBT": "whole point",
     "WHAOEUPL": "whole time",
-
-    "STORB": "astonish",
-    "STORBG": "astonishing", // overrides "stork" (a bird)
-    "STO*RBG": "stork",      // give up "State of New York"
 
     "SKWRUFRPL": "journalism",  // phonetic     ("jursm")
     "SKWRUFRT": "journalist",   //              ("jurst")
