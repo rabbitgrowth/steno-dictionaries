@@ -310,6 +310,7 @@
     "SKWROUFRPL": "journalism", // orthographic ("joursm")
     "SKWROUFRT": "journalist",  //              ("jourst")
 
+    // Phrasal verbs
     "TPROUT": "figure out",
     "TPROUTS": "figures out",
     "TPROUTD": "figured out",
