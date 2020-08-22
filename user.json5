@@ -293,6 +293,11 @@
     "TRUF": "true love",           // use TRUFT for "trust"
     "WHOFPLT": "when it comes to", // "whomst"
 
+    "SKWRUFRPL": "journalism",  // phonetic     ("jursm")
+    "SKWRUFRT": "journalist",   //              ("jurst")
+    "SKWROUFRPL": "journalism", // orthographic ("joursm")
+    "SKWROUFRT": "journalist",  //              ("jourst")
+
     "WHOELT": "whole lot",
     "WHOEFLT": "whole lot of",
     "WHAOELT": "a whole lot",
@@ -304,11 +309,6 @@
     "WHAOEUF": "whole life",
     "WHOEUPBT": "whole point",
     "WHAOEUPL": "whole time",
-
-    "SKWRUFRPL": "journalism",  // phonetic     ("jursm")
-    "SKWRUFRT": "journalist",   //              ("jurst")
-    "SKWROUFRPL": "journalism", // orthographic ("joursm")
-    "SKWROUFRT": "journalist",  //              ("jourst")
 
     // Phrasal verbs
     "TPROUT": "figure out",
