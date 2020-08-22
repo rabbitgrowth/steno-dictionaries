@@ -248,55 +248,54 @@
     "TKPHEUGS": "admission",
     "HRARPL": "alarm",
     "ALG": "algorithm", // use ALGS for "additional" (AGS "addition" + -L)
-    "SKP-PB": "and then",
-    "SKP-PBT": "and then the",
     "STORB": "astonish",
     "STORBG": "astonishing", // overrides "stork" (a bird)
     "STO*RBG": "stork",      // give up "State of New York"
-    "THRAFT": "at last", // cf. THRAOEFT "at least"
     "KPRA*EUPBS": "contemporaneous", // starless is "extraneous"
                                      // the standard KPRA*EURPBS minus -R
     "KURPB": "curtain",
     "TAOERT": "deteriorate",
     "TAOERGS": "deterioration",
-    "AOEFRP": "each other",
     "SKHAOU": "eschew",
     "SKHAOUL": "eschewal",
     "SPHRORGS": "exploration",
     "TPREFT": "forest",
     "TKPWARPB": "garden",
-    "TKPWOEPL": "go home",
     "HEUPB": "hidden",
     "HOLD": "holiday", // use HOELD for "hold"
     "HOLDZ": "holidays",
     "TPHREPBZ": "influenza",
-    "HREPL": "let me",
     "PHELG": "medical", // "mecal"
-    "WURPB": "one another",
     "PREFT": "protest", // give up "previous to"
     "PREFRT": "protester",
     "TPHRET": "reflect", // misstroke for "net"
     "TPHREGS": "reflection",
     "STPREU": "satisfactory", // "sfry", cf. STPAOEU "satisfy"
     "STPOER": "satisfactory", // "sfory", or the standard STPOEUR minus -U
-    "SPOEFT": "supposed to",
-    "SPOEFBT": "supposed to be",
     "STOPL": "symptom",
-    "TWHO": "those who", // TH + WHO
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // from "vibe" as in "good vibes"
     "SRULG": "vulgar",
-    "KWRAOEUS": "you guys",
-
-    "PHAEUPLS": "my name is",      // use -Z for "maims"
-    "TPHUGS": "no such thing as",  // with my T-G "thing" superimposed on TPH
-    "TRUF": "true love",           // use TRUFT for "trust"
-    "WHOFPLT": "when it comes to", // "whomst"
 
     "SKWRUFRPL": "journalism",  // phonetic     ("jursm")
     "SKWRUFRT": "journalist",   //              ("jurst")
     "SKWROUFRPL": "journalism", // orthographic ("joursm")
     "SKWROUFRT": "journalist",  //              ("jourst")
+
+    "SKP-PB": "and then",
+    "SKP-PBT": "and then the",
+    "THRAFT": "at last", // cf. THRAOEFT "at least"
+    "AOEFRP": "each other",
+    "TKPWOEPL": "go home",
+    "HREPL": "let me",
+    "PHAEUPLS": "my name is", // use -Z for "maims"
+    "TPHUGS": "no such thing as", // with my T-G "thing" superimposed on TPH
+    "WURPB": "one another",
+    "SPOEFT": "supposed to",
+    "SPOEFBT": "supposed to be",
+    "TRUF": "true love", // use TRUFT for "trust"
+    "WHOFPLT": "when it comes to", // "whomst"
+    "KWRAOEUS": "you guys",
 
     "WHOELT": "whole lot",
     "WHOEFLT": "whole lot of",
@@ -2083,6 +2082,7 @@
     "PAFRT": "part of", // by default "part of the"
     "SAUFP": "such a",
     "THERZ": "these are",
+    "TWHO": "those who",
     "WHABG": "what can", // "what could/shall/should/will/would" all work
                          // swap with "whack"
     "WHA*BG": "whack",
