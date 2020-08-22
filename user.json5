@@ -290,6 +290,18 @@
     "TRUF": "true love",           // use TRUFT for "trust"
     "WHOFPLT": "when it comes to", // "whomst"
 
+    "WHOELT": "whole lot",
+    "WHOEFLT": "whole lot of",
+    "WHAOELT": "a whole lot",
+    "WHAOEFLT": "a whole lot of",
+    "WH-G": "whole thing", // combined with my T-G "thing"
+    "WHUFRPB": "whole bunch",
+    "WHAOEUD": "whole idea", // bizarre misstroke for "wide"
+                             // WHEUD (with my EUD "idea") is "when I had"
+    "WHAOEUF": "whole life",
+    "WHOEUPBT": "whole point",
+    "WHAOEUPL": "whole time",
+
     "STORB": "astonish",
     "STORBG": "astonishing", // overrides "stork" (a bird)
     "STO*RBG": "stork",      // give up "State of New York"
@@ -332,18 +344,6 @@
     "TAUBT/-S": "talks about",
     "TAUBT/-D": "talked about",
     "TAUBT/-G": "talking about",
-
-    "WHOELT": "whole lot",
-    "WHOEFLT": "whole lot of",
-    "WHAOELT": "a whole lot",
-    "WHAOEFLT": "a whole lot of",
-    "WH-G": "whole thing", // combined with my T-G "thing"
-    "WHUFRPB": "whole bunch",
-    "WHAOEUD": "whole idea", // bizarre misstroke for "wide"
-                             // WHEUD (with my EUD "idea") is "when I had"
-    "WHAOEUF": "whole life",
-    "WHOEUPBT": "whole point",
-    "WHAOEUPL": "whole time",
 
     // Pick more distinctive part of word
     "STRAEUGS": "administration",
