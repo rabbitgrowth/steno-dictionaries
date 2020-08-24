@@ -1,6 +1,7 @@
 {
 
-    // Skeletal briefs
+    // -- Skeletal briefs ------------------------------------------------------
+
     "PW-RT": "better", // PWERT is "Bert" and PW*ERT is "berth"
                        // and I don't want to alter the vowel
                        // (PWOERT), so just omit the vowel
@@ -70,7 +71,8 @@
     "TOTS": "to its",
     "W-TS": "with its",
 
-    // Consistency with existing strokes
+    // -- Consistency with existing strokes ------------------------------------
+
     "A/KUFPL": "accustom",      // with A/KUFPLD "accustomed"
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
@@ -112,7 +114,8 @@
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
 
-    // Phonetic
+    // -- Phonetic -------------------------------------------------------------
+
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES or ABG/SEU,
                             // which feels like it's missing an -R
     "A*PLS": "Alps", // starless is "apples"
@@ -209,6 +212,8 @@
     // SKWREPBL  "general"
     // SKWRERPBL "generally" (add -R for -ly??)
 
+    // -- Vowels ---------------------------------------------------------------
+
     // Don't alter vowel
     "KAERT": "carrot", // AE for /æ/ since KART is "cart"
                        // just fingerspell "CART"
@@ -237,62 +242,74 @@
     "SWER": "swear",   // vs SWAER
     "THOT": "thought", // vs THAUT
 
-    // Mash sounds together
+    // -- Sound mashing --------------------------------------------------------
+
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "TKPHEUGS": "admission",
     "HRARPL": "alarm",
     "ALG": "algorithm", // use ALGS for "additional" (AGS "addition" + -L)
-    "SKP-PB": "and then",
-    "SKP-PBT": "and then the",
-    "THRAFT": "at last", // cf. THRAOEFT "at least"
+    "STORB": "astonish",
+    "STORBG": "astonishing", // overrides "stork" (a bird)
+    "STO*RBG": "stork",      // give up "State of New York"
     "KPRA*EUPBS": "contemporaneous", // starless is "extraneous"
                                      // the standard KPRA*EURPBS minus -R
     "KURPB": "curtain",
     "TAOERT": "deteriorate",
     "TAOERGS": "deterioration",
-    "AOEFRP": "each other",
     "SKHAOU": "eschew",
     "SKHAOUL": "eschewal",
     "SPHRORGS": "exploration",
     "TPREFT": "forest",
     "TKPWARPB": "garden",
-    "TKPWOEPL": "go home",
     "HEUPB": "hidden",
     "HOLD": "holiday", // use HOELD for "hold"
     "HOLDZ": "holidays",
     "TPHREPBZ": "influenza",
-    "HREPL": "let me",
     "PHELG": "medical", // "mecal"
-    "WURPB": "one another",
     "PREFT": "protest", // give up "previous to"
     "PREFRT": "protester",
     "TPHRET": "reflect", // misstroke for "net"
     "TPHREGS": "reflection",
     "STPREU": "satisfactory", // "sfry", cf. STPAOEU "satisfy"
     "STPOER": "satisfactory", // "sfory", or the standard STPOEUR minus -U
-    "SPOEFT": "supposed to",
-    "SPOEFBT": "supposed to be",
     "STOPL": "symptom",
-    "TWHO": "those who", // TH + WHO
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // from "vibe" as in "good vibes"
     "SRULG": "vulgar",
-    "KWRAOEUS": "you guys",
-
-    "PHAEUPLS": "my name is",      // use -Z for "maims"
-    "TPHUGS": "no such thing as",  // with my T-G "thing" superimposed on TPH
-    "TRUF": "true love",           // use TRUFT for "trust"
-    "WHOFPLT": "when it comes to", // "whomst"
-
-    "STORB": "astonish",
-    "STORBG": "astonishing", // overrides "stork" (a bird)
-    "STO*RBG": "stork",      // give up "State of New York"
 
     "SKWRUFRPL": "journalism",  // phonetic     ("jursm")
     "SKWRUFRT": "journalist",   //              ("jurst")
     "SKWROUFRPL": "journalism", // orthographic ("joursm")
     "SKWROUFRT": "journalist",  //              ("jourst")
 
+    "SKP-PB": "and then",
+    "SKP-PBT": "and then the",
+    "THRAFT": "at last", // cf. THRAOEFT "at least"
+    "AOEFRP": "each other",
+    "TKPWOEPL": "go home",
+    "HREPL": "let me",
+    "PHAEUPLS": "my name is", // use -Z for "maims"
+    "TPHUGS": "no such thing as", // with my T-G "thing" superimposed on TPH
+    "WURPB": "one another",
+    "SPOEFT": "supposed to",
+    "SPOEFBT": "supposed to be",
+    "TRUF": "true love", // use TRUFT for "trust"
+    "WHOFPLT": "when it comes to", // "whomst"
+    "KWRAOEUS": "you guys",
+
+    "WHOELT": "whole lot",
+    "WHOEFLT": "whole lot of",
+    "WHAOELT": "a whole lot",
+    "WHAOEFLT": "a whole lot of",
+    "WH-G": "whole thing", // combined with my T-G "thing"
+    "WHUFRPB": "whole bunch",
+    "WHAOEUD": "whole idea", // bizarre misstroke for "wide"
+                             // WHEUD (with my EUD "idea") is "when I had"
+    "WHAOEUF": "whole life",
+    "WHOEUPBT": "whole point",
+    "WHAOEUPL": "whole time",
+
+    // Phrasal verbs
     "TPROUT": "figure out",
     "TPROUTS": "figures out",
     "TPROUTD": "figured out",
@@ -327,32 +344,32 @@
     "TAUBT/-D": "talked about",
     "TAUBT/-G": "talking about",
 
-    // Drop -y
-    // -D, -T, and -Z produce a "pronounce last letter" effect.
-    // For example, STURD = stur-D = "sturdy". A possibly accidental
-    // precedent is THORT = thor-T ~= "authority".
-    "PWOD": "body",    // overrides "bod"
-    "PWODZ": "bodies", // overrides "bods"
-    "PWO*D": "bod",
-    "PWUR": "bury", // overrides "burr"
-                    // folding in -G and -D don't work though:
-                    // PWURG is {^burg} and PWURD is "burden"
-    "PW*UR": "burr",
-    "TKEUZ": "dizzy", // use TKEUS for {dis^}
-    "HUR": "hurry",
-    "HRAURPBD": "laundry",
-    "STURD": "sturdy",
+    // Pick more distinctive part of word
+    "STRAEUGS": "administration",
+    "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
+    "TPHAOEBG": "technique", // add * for "anemic"
 
-    // Lengthen vowel for -y
-    // Precedent: TPUPB "fun" -> TPAOUPB "funny"
-    "AEURPBG": "angry", // use A/RAEUPB for "arraign"
-    "PWAOUL": "bully", // overrides "boule"
-    "PWAO*UL": "boule",
-    "PWAOUPB": "bunny",
-    "HAOURPBG": "hungry",
-    // See also:
-    // HELT "health"     -> HAOELT "healthy"
-    // SKWRELS "jealous" -> SKWRAOELS "jealousy"
+    "SHU": "issue",
+    "SHUS": "issues", // overrides {^tious}
+    "SHUD": "issued", // use SHO for "should"
+    "-RBS": "{^tious}", // cf. "ambitious"  APL/PWEURBS
+                        //     "cautious"   KAURBS
+                        //     "nutritious" TPHAO*URBS
+                        // although {^tious} on its own doesn't seem too
+                        // useful, as the parts preceding -tious tend to
+                        // be non-words ("cau", "nutri"). When it works,
+                        // it's usually by accident:
+                        // "contentious"  KAUPB/TEPB/-RBS
+                        // ("ten" happens to be a word, but the number
+                        //  10 has nothing to do with contentiousness)
+                        // "facetious"    TPAEUS/-RBS
+                        // (unphonetic hack; TPA/SAOERBS is much better)
+                        // "bumptious"    PW*UPL/-RBS
+                        // (this one is nice since "bumptious" does come
+                        //  from "bump", but not many words are like that,
+                        //  and Plover already defines PWUPL/-RBS)
+
+    // -- Final -y sound -------------------------------------------------------
 
     // Extend "many" rule
     // We have PHAEPB "many"   = MAEN = MANE = man-E.
@@ -378,6 +395,35 @@
     "KA*L": "cal",           // use KPAL for "capital"
     "KA*LS": "cals",
 
+    // Lengthen vowel
+    // Precedent: TPUPB "fun" -> TPAOUPB "funny"
+    "AEURPBG": "angry", // use A/RAEUPB for "arraign"
+    "PWAOUL": "bully", // overrides "boule"
+    "PWAO*UL": "boule",
+    "PWAOUPB": "bunny",
+    "HAOURPBG": "hungry",
+    // See also:
+    // HELT "health"     -> HAOELT "healthy"
+    // SKWRELS "jealous" -> SKWRAOELS "jealousy"
+
+    // Drop it
+    // -D, -T, and -Z produce a "pronounce last letter" effect.
+    // For example, STURD = stur-D = "sturdy". A possibly accidental
+    // precedent is THORT = thor-T ~= "authority".
+    "PWOD": "body",    // overrides "bod"
+    "PWODZ": "bodies", // overrides "bods"
+    "PWO*D": "bod",
+    "PWUR": "bury", // overrides "burr"
+                    // folding in -G and -D don't work though:
+                    // PWURG is {^burg} and PWURD is "burden"
+    "PW*UR": "burr",
+    "TKEUZ": "dizzy", // use TKEUS for {dis^}
+    "HUR": "hurry",
+    "HRAURPBD": "laundry",
+    "STURD": "sturdy",
+
+    // -- Joining and splitting ------------------------------------------------
+
     // Compound words
     "PWAPBD/HRAOERD": "bandleader",
     "PWAPBD/HRAOERDZ": "bandleaders",
@@ -402,8 +448,15 @@
     "SWEUPL/SAOUT": "swimsuit",
     "SWEUPL/SAOUTS": "swimsuits",
 
-    // Don't glue together
+    // Not compound words
     "SPH/TAOEUPL": "some time", // use STAOEUPL for "sometime"
+
+    // Prevent word boundary errors
+    "PAS/SO": "pass so", // give up "Paso"; there's EL/PA/SOE for "El Paso"
+    "PERPB/TPHA": "person in a", // overrides "persona"
+    "PER/SOEPB": "persona",      // or use {^a}: PERPB/SKWRA
+
+    // -- Affixes --------------------------------------------------------------
 
     // Suffixes
     // Define the most common words ("worldwide", "countrywide")
@@ -423,6 +476,28 @@
     "KREU/WAOEUD": "countrywide",
     "TPH-GS/WAOEUD": "nationwide",
     "WORL/WAOEUD": "worldwide", // WORLD/WAOEUD already works
+
+    // Use nicer prefixes for multistroke words
+    "SPWR/TPAOER": "interfere",   // prefer SPWR to EUPBT
+    "SPWR/TPAOERS": "interferes",
+    "SPWR/TPAOERG": "interfering",
+    "SPWR/TPAOERD": "interfered",
+    "SPWR/TPAOERPBS": "interference",
+    "SPWR/SRAOEPB": "intervene",    // alternative to TWAOEPB (custom)
+    "SPWR/SREPBGS": "intervention", // alternative to TWEPBGS
+    "SPR/STEUGS": "superstition", // prefer SPR to SAOUP
+    "SPR/STEURBS": "superstitious",
+    // There's something ugly about using {inter^} for "interfere",
+    // because "fere" isn't a word -- you aren't tacking "inter-" onto
+    // "fere". In fact, TPAOER is "fear", so SPWR/TPAOER feels a bit
+    // like it should be "interfear". However, Plover often allows
+    // using prefixes even when the part after the prefix isn't a word.
+    // For example, although "ceal" isn't a word, for "conceal" Plover
+    // allows (in addition to KOPB/SAOEL) KAUPB/SAOEL, which feels
+    // natural because "con-" is so common KAUPB becomes muscle memory
+    // pretty quickly.
+
+    // -- Folding in -----------------------------------------------------------
 
     // Fold in A for a-
     // Precedents: SPAEBGT "aspect", TAEPBGS "attention"
@@ -569,7 +644,9 @@
     "SPAOEFPLS": "speechless",
     "SPAOEUPBLS": "spineless",
 
-    // Extend SPW to ind- and end-
+    // -- Extensions -----------------------------------------------------------
+
+    // SPW for ind- and end-
     // There is surprisingly little overlap.
     // "indebt" is a word; "intebt" is not.
     // "intern" is a word; "indern" is not.
@@ -606,7 +683,7 @@
     "SPWAOURPBS": "endurance", // cf. EPB/TKAOURPBS
     "SPWURPBS": "endurance",   // cf. EPB/TKURPBS
 
-    // Extend SPW to ant-, ont-, and unt-
+    // SPW for ant-, ont-, and unt-
     // Justification: "ent- or int-" isn't a mirror image of -nt; nt- is.
     // And nt- feels like it could be extended to mean [any vowel]nt-.
     "SPWAOEBG": "antique",
@@ -641,6 +718,8 @@
     "KPWETD": "embedded",
     "KPWRAEUS": "embrace",
     "KPWRAEUFD": "embraced",
+
+    // -- Sound patterns -------------------------------------------------------
 
     // STK for dis- and des-
     // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
@@ -918,12 +997,14 @@
     "SPRAEULGS": "inspirational",  // from SPRAEUGS "inspiration"
     "STPHAOULGS": "institutional", // from STPHAOUGS "institution"
 
-    // Drop * and use AEUPB for -aken
+    // -- Star-dropping --------------------------------------------------------
+
+    // AEUPB for -aken
     // Precedent: Plover now allows SPHAEUPB in addition to SPHA*EUPB for "mistaken"
     "A/WAEUPB": "awaken",       // "aWayne"  is not a word
     "TPAUR/SAEUPB": "forsaken", // "forsane" is not a word
 
-    // Drop * and use -T for -th (Indian accent?)
+    // -T for -th (Indian accent?)
     "PWRET": "breath",    // swap with "Brett"
     "PWR*ET": "Brett",
     "PWRAOET": "breathe", // swap with "burrito"
@@ -958,7 +1039,7 @@
     "TWORT": "worth it",
     "KWRAOUT": "youth",
 
-    // Drop * and use -LT for -tle
+    // -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
     "PWALT": "battle",
     "PWAELT": "ballot",
@@ -993,7 +1074,7 @@
     "STKPHAPBLT": "dismantle",
     "PHEURLT": "myrtle",
 
-    // Drop * and use -LD for -dle (sometimes)
+    // -LD for -dle (sometimes)
     // The * in *LD is less droppable than the * in *LT. For example,
     // TPEULD and PULD are perfect strokes for "filled" and "pulled",
     // and there's no way I'm going to give them up for "fiddle" and
@@ -1066,21 +1147,6 @@
     //    although it's not very phonetic I guess.
     // 2) "candled" and "candling" are pretty rare.
 
-    // Swap base words to simplify inflections
-    // STK*ERT  "desert"  -> STK*ERTD  "deserted"
-    // STKERT   "dessert" -> STKERTD   "desserted" (not a word)
-    // TPHRO*UR "flower"  -> TPHRO*URS "flowers"
-    // TPHROUR  "flour"   -> TPHROURS  "flours"    (not a word)
-    // The nicer starless strokes STKERTD and TPHROURS are wasted on
-    // non-existent words. Fix this by swapping the base words:
-    "STKERT": "desert",
-    "STK*ERT": "dessert", // mnemonic: add * for an extra s
-    "TPHROUR": "flower",
-    "TPHRO*UR":  "flour",
-    // A nice side effect:
-    "STKERGS": "desertion",       // which frees up ...
-    "TKE/SERGS": "desegregation", // consistent with SERGS "segregation"
-
     // Miscellaneous star-dropping
     "THRAOET": "athlete",       // bizarre misstroke for "throat"
     "PWAOEUS": "bias",          // use -Z for "buys"
@@ -1152,7 +1218,8 @@
     "SOEFT": "Soviet", // unphonetic stroke for "soft"
     "SOEFT/TPHAOUPB": "Soviet Union",
 
-    // Autocomplete effect
+    // -- Autocomplete effect --------------------------------------------------
+
     // Precedents: TPEUS "physical", PED "pedestrian"
     "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
     "AUPL": "automatic",
@@ -1180,25 +1247,7 @@
     "SREUG": "vigor", // prevents "have Iing" from flashing past
     "SROD": "vodka",  // prevents "have toed" from flashing past
 
-    // Use nicer prefixes for multistroke words
-    "SPWR/TPAOER": "interfere",   // prefer SPWR to EUPBT
-    "SPWR/TPAOERS": "interferes",
-    "SPWR/TPAOERG": "interfering",
-    "SPWR/TPAOERD": "interfered",
-    "SPWR/TPAOERPBS": "interference",
-    "SPWR/SRAOEPB": "intervene",    // alternative to TWAOEPB (custom)
-    "SPWR/SREPBGS": "intervention", // alternative to TWEPBGS
-    "SPR/STEUGS": "superstition", // prefer SPR to SAOUP
-    "SPR/STEURBS": "superstitious",
-    // There's something ugly about using {inter^} for "interfere",
-    // because "fere" isn't a word -- you aren't tacking "inter-" onto
-    // "fere". In fact, TPAOER is "fear", so SPWR/TPAOER feels a bit
-    // like it should be "interfear". However, Plover often allows
-    // using prefixes even when the part after the prefix isn't a word.
-    // For example, although "ceal" isn't a word, for "conceal" Plover
-    // allows (in addition to KOPB/SAOEL) KAUPB/SAOEL, which feels
-    // natural because "con-" is so common KAUPB becomes muscle memory
-    // pretty quickly.
+    // -- Phrasing -------------------------------------------------------------
 
     // Pronoun + be
     // Default to full form and add * or use phonetics for contraction
@@ -1535,16 +1584,6 @@
     "SHEBGZ": "she can see",
     "WEBGZ": "we can see",
     "THEBGZ": "they can see",
-
-    // Reflexive pronouns
-    "O*URS": "ourselves", // "ourself" is too rare
-    "OUR/SEFL": "ourself",
-    "WUPB/SEFL": "oneself", // WUPBS is "once", W*UPBS is "one's"
-    "THAO*EUS": "thyself", // following the "add *S for reflexive pronoun" pattern
-    "TH*EPLS": "themself", // add * for special usage
-    "SEFL": "self", // since all possibilities have been exhausted
-                    // ("myself", "yourself", ... and even "thyself"),
-                    // -self as a suffix becomes useless
 
     // Stack "to" as TO or O
     "SRO": "have to",
@@ -2024,7 +2063,7 @@
     // AS FAST AS    7145  STPAFTS
     "SPHALS": "as small as",
 
-    // Miscellaneous phrasing strokes
+    // Miscellaneous phrases
     "PWHOU": "about how",
     "PWU": "about you", // use PWUT for "but"
     "TPHEUFT": "any of the", // use EUFT for {^ist}
@@ -2034,7 +2073,7 @@
     "TPE": "if he", // give up "fe", which is not a word
     "STPROFPBT": "in front of", //   STPRO PBT "in front"
                                 // +  TPROFPBT "front of"
-                                // -----------
+                                // -------------------
                                 //   STPROFPBT "in front of"
     "TPHURPB": "in turn", // instead of "turn in"; follow steno order
     "T-D": "it had", // give up {^ed it}
@@ -2043,6 +2082,7 @@
     "PAFRT": "part of", // by default "part of the"
     "SAUFP": "such a",
     "THERZ": "these are",
+    "TWHO": "those who",
     "WHABG": "what can", // "what could/shall/should/will/would" all work
                          // swap with "whack"
     "WHA*BG": "whack",
@@ -2058,6 +2098,8 @@
     "HR-FB": "will have been",
     "WHOR": "who are", // overrides "whore"
     "WHO*R": "whore",
+
+    // -- Grammar --------------------------------------------------------------
 
     // Plurals
     "ABGT/SREUFTS": "activists",
@@ -2234,6 +2276,8 @@
                           // HROEFT "lowest" already works
     "HAO*EUFT": "heist",
 
+    // -- Negation -------------------------------------------------------------
+
     // Expand "n't" into "not" with -L as bridge
     "K-PBLT": "cannot",     // from K-PBT   "can't"
     "TKOEPBLT": "do not",   // from TKOEPBT "don't" (or just use TKPHOT)
@@ -2271,6 +2315,8 @@
     "ORPBLT": "or not",     // there's no "orn't"
     "PHAEUPBLT": "may not", // there's no "mayn't"
 
+    // -- Proper nouns ---------------------------------------------------------
+
     // Names
     "PWAO*EUPBD": "Biden", // starless is "bind"
     "TPRAOED/REUFP": "Friedrich",
@@ -2299,35 +2345,9 @@
     //   HAPL/HRET "Hamlet"        HA*PL/HRET "Hamlet"
     "PA*ERT": "Party",
 
-    // Don't hyphenate
-    "ROUPBD/TREUP": "round trip",
+    // -- Abbreviations --------------------------------------------------------
 
-    // Pick more distinctive part of word
-    "STRAEUGS": "administration",
-    "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
-    "TPHAOEBG": "technique", // add * for "anemic"
-
-    "SHU": "issue",
-    "SHUS": "issues", // overrides {^tious}
-    "SHUD": "issued", // use SHO for "should"
-    "-RBS": "{^tious}", // cf. "ambitious"  APL/PWEURBS
-                        //     "cautious"   KAURBS
-                        //     "nutritious" TPHAO*URBS
-                        // although {^tious} on its own doesn't seem too
-                        // useful, as the parts preceding -tious tend to
-                        // be non-words ("cau", "nutri"). When it works,
-                        // it's usually by accident:
-                        // "contentious"  KAUPB/TEPB/-RBS
-                        // ("ten" happens to be a word, but the number
-                        //  10 has nothing to do with contentiousness)
-                        // "facetious"    TPAEUS/-RBS
-                        // (unphonetic hack; TPA/SAOERBS is much better)
-                        // "bumptious"    PW*UPL/-RBS
-                        // (this one is nice since "bumptious" does come
-                        //  from "bump", but not many words are like that,
-                        //  and Plover already defines PWUPL/-RBS)
-
-    // Existing abbreviations
+    // Non-steno abbreviations
     "TK-L": "download",    // dl
     "SKWR-P": "Japan",     // JP
     "SKWR-PS": "Japanese",
@@ -2353,6 +2373,8 @@
     "P*URB": "publisher",
     "SR*ET": "veteran",    // vet
 
+    // -- Vocabulary -----------------------------------------------------------
+
     // Missing words
     "ART/SEU/TPART/SEU": "artsy-fartsy",
     "KAUPB/SAOERL": "concealer",
@@ -2363,12 +2385,8 @@
     "KOEFD/1-9": "Covid-19",
     "PR*UPL": "President Trump",
 
-    // Prevent word boundary errors
-    "PAS/SO": "pass so", // give up "Paso"; there's EL/PA/SOE for "El Paso"
-    "PERPB/TPHA": "person in a", // overrides "persona"
-    "PER/SOEPB": "persona",      // or use {^a}: PERPB/SKWRA
+    // -- Special rules --------------------------------------------------------
 
-    // Special rules
     "SKW": "and",           // SKP with P one tile down
     "AR": "area",           // first two letters
     "TAL": "at all",        // since TAUL is "tall"
@@ -2390,13 +2408,8 @@
     "TUPLT": "tumult",      // TU+PL+L+T
                             // TUPLT/WOUS "tumultuous"
 
-    // Double to join with "and"
-    "OEFR/OEFR": "over and over",
-    "OEFR/OEFR/OEFR": "over and over and over",
-    "PW-RT/PW-RT": "better and better",
-    "PW-RT/PW-RT/PW-RT": "better and better and better",
+    // -- Punctuation as shapes ------------------------------------------------
 
-    // Punctuation as shapes
     // Open single quote, which comes first, is the one that's starred:
     //   A*E {~|'^} (open single quote)
     //   AE  {^~|'} (close single quote)
@@ -2418,7 +2431,8 @@
                      // (one of the 19 strokes for "and")
     "ULS": "{^~|)}", // close bracket
 
-    // Commands
+    // -- Commands -------------------------------------------------------------
+
     "TK-LG": "{^^}", // TK-LS but vertically aligned
     "TPHAOP": "{#}", // JUJ/(no-op)/*MT -> judgement
     "SK-GS": "{*?}", // retrospectively add space
@@ -2428,6 +2442,18 @@
                      // use W-RB for "whereby"
                      // -> WR RB <- (visually sticking together)
     "HRAL": "{#command(a)}", // lal -> all
+
+    // -- Basics ---------------------------------------------------------------
+
+    // Reflexive pronouns
+    "O*URS": "ourselves", // "ourself" is too rare
+    "OUR/SEFL": "ourself",
+    "WUPB/SEFL": "oneself", // WUPBS is "once", W*UPBS is "one's"
+    "THAO*EUS": "thyself", // following the "add *S for reflexive pronoun" pattern
+    "TH*EPLS": "themself", // add * for special usage
+    "SEFL": "self", // since all possibilities have been exhausted
+                    // ("myself", "yourself", ... and even "thyself"),
+                    // -self as a suffix becomes useless
 
     // Affirmation
     "KWRE": "yeah", // by default "yes"
@@ -2488,14 +2514,6 @@
     "STHAED": "said that", // Plover has SED and SAEUD for "said"
                            // but only STHAEUD (SAEUD + THA) for "said that"
 
-    // Despite that
-    "RARLS": "regardless",       // RARLD feels like "rarold" or "regardly"
-    "R-F": "regardless of",      // RAFRLS is not bad but
-    "R-FT": "regardless of the", // RAFRLTS is too clumsy
-    "RA*RLS": "irregardless",
-    "R*F": "irregardless of", // give up "reticular formation"
-    "R*FT": "irregardless of the",
-
     // Comma + open quote + capitalization after reporting verb
     // Precedents: SAEU/SAEU   "say, \"{^}{-|}"
     //             SAEUD/SAEUD "said, \"{^}{-|}"
@@ -2504,6 +2522,16 @@
     "SAEUG/SAEUG": "saying, \"{^}{-|}", // make it work for all forms of "say"
     "KW-BG/KW-BG": "{^}, \"{^}{-|}", // but for other words, instead of
                                      // doubling the word, double the comma
+
+    // Despite that
+    "RARLS": "regardless",       // RARLD feels like "rarold" or "regardly"
+    "R-F": "regardless of",      // RAFRLS is not bad but
+    "R-FT": "regardless of the", // RAFRLTS is too clumsy
+    "RA*RLS": "irregardless",
+    "R*F": "irregardless of", // give up "reticular formation"
+    "R*FT": "irregardless of the",
+
+    // -- Ergonomics -----------------------------------------------------------
 
     // A more ergonomic "end"
     "TPH-D": "end",     // pronounce the TPH: "N'd"
@@ -2520,6 +2548,8 @@
     // -LT is just as easy, if not easier, to type as -L.
     "TPHARLT": "natural",
     "TKRELT": "directly", // TKRELG is also nice (/dɪˈrɛkli/)
+
+    // -- Word families --------------------------------------------------------
 
     // "agree" family
     // The A in TKPWRAE is just begging to be dropped.
@@ -2560,39 +2590,28 @@
                                 // ("My dad's a real stick in the mud...")
     "UPB/RAEL/STEUBG": "unrealistic",
 
-    // Sound mashing with "whole"
-    "WHOELT": "whole lot",
-    "WHOEFLT": "whole lot of",
-    "WHAOELT": "a whole lot",
-    "WHAOEFLT": "a whole lot of",
-    "WH-G": "whole thing", // combined with my T-G "thing"
-    "WHUFRPB": "whole bunch",
-    "WHAOEUD": "whole idea", // bizarre misstroke for "wide"
-                             // WHEUD (with my EUD "idea") is "when I had"
-    "WHAOEUF": "whole life",
-    "WHOEUPBT": "whole point",
-    "WHAOEUPL": "whole time",
+    // "subject" and "object"
+    "SUFBT": "subjective", // SUBT "subject" + -F
+    "OFBT": "objective",   // OBT  "object"  + -F
+    // SUBT/EUFT "subjectivity" is nice;
+    // make that work for "objectivity" too.
+    "OBT/EUFT": "objectivity", // "objectist" is very rare
+    // SUFBT/-TEU ("subjective" + {^ity})
+    // OFBT/-TEU  ("objective"  + {^ity})
+    // work too thanks to Plover's orthography rules.
 
-    // "-r(e) than"
-    // These three feel like a family,
-    // since they all compress "-r(e) than" into -RPB:
-    // "more than"   PH-RPB  (omit vowel)
-    // "rather than" RARPB   (include vowel)
-    // "other than"  O*ERPB  (include vowel and add *)
-    // But since they sometimes include the vowel, sometimes not,
-    // it's easy to confuse them and misstroke. If you think
-    // "include vowel", you might stroke "more than" as PHORPB
-    // ("morn"). If you think "omit vowel", you might stroke
-    // "rather than" as R-RPB (undefined). Or you might forget
-    // the * in "other than" and stroke OERPB ("owner").
-    // Solution: always omit the vowel.
-    "PH-RPB": "more than", // already works
-    "R-RPB": "rather than",
-    "-RPB": "other than",
-    // While we're at it, we might as well brief the
-    // other comparison phrases using a similar pattern.
-    "PW-RPB": "better than",
-    "HR-PB": "less than", // use HR-PBS for "license"
+    // "superior" and "inferior"
+    "SPOEURT": "superiority",
+    "TPOEURPBT": "inferiority", // from TPOEURPB (mnemonic: "infor")
+                                //  FF   N
+                                //      RN
+                                //    O II
+    "TPOEUR": "inferior", // nicely symmetrical with SPOEUR "superior"
+                          // but overrides "foyer"
+    "TPO*EUR": "foyer",
+    "TPOEURT": "inferiority",
+
+    // -- Easily confused words ------------------------------------------------
 
     // "aggregate" and "integrate"
     // TKPWRAT     "aggregate"
@@ -2629,17 +2648,6 @@
     "PHA*BG": "Mac",       // give up "MAC"
     "PHALG": "magical",    // "macal"
 
-    // "masses" chain reaction
-    "PHASZ": "masses",   // by default misstroke (?) for "mass"
-    "PHAFS": "massive",  // by default "masses"
-    "PHEUFS": "missive", // by default "massive"
-
-    // "peril" chain reaction
-    "PERL": "peril",      // overrides "pearl"
-    "PAERL": "pearl",     // overrides "parole"
-    "PROEL": "parole",    // overrides "proposal"
-    "PROELS": "proposal", // PROEFL is "profile"
-
     // "race" vs "raise"
     // The default strokes for the -ing forms are hard to remember:
     // RAEUS "race"  (makes sense) -> RAEFG   "racing"  (?!)
@@ -2655,27 +2663,6 @@
     "RA*EUFD": "raised", // already works
                          // RAEUDZ is "raids"
 
-    // "subject" and "object"
-    "SUFBT": "subjective", // SUBT "subject" + -F
-    "OFBT": "objective",   // OBT  "object"  + -F
-    // SUBT/EUFT "subjectivity" is nice;
-    // make that work for "objectivity" too.
-    "OBT/EUFT": "objectivity", // "objectist" is very rare
-    // SUFBT/-TEU ("subjective" + {^ity})
-    // OFBT/-TEU  ("objective"  + {^ity})
-    // work too thanks to Plover's orthography rules.
-
-    // "superior" and "inferior"
-    "SPOEURT": "superiority",
-    "TPOEURPBT": "inferiority", // from TPOEURPB (mnemonic: "infor")
-                                //  FF   N
-                                //      RN
-                                //    O II
-    "TPOEUR": "inferior", // nicely symmetrical with SPOEUR "superior"
-                          // but overrides "foyer"
-    "TPO*EUR": "foyer",
-    "TPOEURT": "inferiority",
-
     // "toe" vs "tow"
     // TOE should be "toe". I mean, it literally says "toe"!
     "TOE": "toe",
@@ -2686,6 +2673,19 @@
     "TO*E": "tow",
     "TO*ES": "tows",
     "TO*ED": "towed",
+
+    // "masses" chain reaction
+    "PHASZ": "masses",   // by default misstroke (?) for "mass"
+    "PHAFS": "massive",  // by default "masses"
+    "PHEUFS": "missive", // by default "massive"
+
+    // "peril" chain reaction
+    "PERL": "peril",      // overrides "pearl"
+    "PAERL": "pearl",     // overrides "parole"
+    "PROEL": "parole",    // overrides "proposal"
+    "PROELS": "proposal", // PROEFL is "profile"
+
+    // -- Topics ---------------------------------------------------------------
 
     // Fear
     "HOR": "horror", // drop the final schwa
@@ -2728,8 +2728,57 @@
     // "Republican and Democratic" RUP/SKP/TK*EPL/EUBG
     // For "Dem" as in "the Dems" or "a Dem voter", use the hacky KPA/TH*EPL.
 
+    // -- Miscellaneous --------------------------------------------------------
+
+    // Don't hyphenate
+    "ROUPBD/TREUP": "round trip",
+
+    // Double to join with "and"
+    "OEFR/OEFR": "over and over",
+    "OEFR/OEFR/OEFR": "over and over and over",
+    "PW-RT/PW-RT": "better and better",
+    "PW-RT/PW-RT/PW-RT": "better and better and better",
+
     // Fictitious place names
     "SREUL": "{*-|}{^ville}", // with retrospective capitalization
+
+    // "-r(e) than"
+    // These three feel like a family,
+    // since they all compress "-r(e) than" into -RPB:
+    // "more than"   PH-RPB  (omit vowel)
+    // "rather than" RARPB   (include vowel)
+    // "other than"  O*ERPB  (include vowel and add *)
+    // But since they sometimes include the vowel, sometimes not,
+    // it's easy to confuse them and misstroke. If you think
+    // "include vowel", you might stroke "more than" as PHORPB
+    // ("morn"). If you think "omit vowel", you might stroke
+    // "rather than" as R-RPB (undefined). Or you might forget
+    // the * in "other than" and stroke OERPB ("owner").
+    // Solution: always omit the vowel.
+    "PH-RPB": "more than", // already works
+    "R-RPB": "rather than",
+    "-RPB": "other than",
+    // While we're at it, we might as well brief the
+    // other comparison phrases using a similar pattern.
+    "PW-RPB": "better than",
+    "HR-PB": "less than", // use HR-PBS for "license"
+
+    // Swap base words to simplify inflections
+    // STK*ERT  "desert"  -> STK*ERTD  "deserted"
+    // STKERT   "dessert" -> STKERTD   "desserted" (not a word)
+    // TPHRO*UR "flower"  -> TPHRO*URS "flowers"
+    // TPHROUR  "flour"   -> TPHROURS  "flours"    (not a word)
+    // The nicer starless strokes STKERTD and TPHROURS are wasted on
+    // non-existent words. Fix this by swapping the base words:
+    "STKERT": "desert",
+    "STK*ERT": "dessert", // mnemonic: add * for an extra s
+    "TPHROUR": "flower",
+    "TPHRO*UR":  "flour",
+    // A nice side effect:
+    "STKERGS": "desertion",       // which frees up ...
+    "TKE/SERGS": "desegregation", // consistent with SERGS "segregation"
+
+    // -- Special considerations -----------------------------------------------
 
     // I hate KROEUR for "occur". Had to choose between KR and K-R,
     // which were both "consider". Settled with KR so that the visual
@@ -2753,7 +2802,8 @@
     // for "sacrifice".
     "SKREUF": "sacrifice",
 
-    // Fix oddities in Plover dictionary
+    // -- Fix Plover's oddities ------------------------------------------------
+
     // KULD "culd"
     // "culd" is not a word (at least not in modern English --
     // apparently it's an obsolete form of "could").
@@ -2777,11 +2827,13 @@
     //   the company millions of dollars.")
     "THA/AOUGS": "that using",
 
-    // Misstrokes
+    // -- Misstrokes -----------------------------------------------------------
+
     "KW-RBG": "{,}", // otherwise gives "--ing"
     "KW-BGS": "{,}", // otherwise gives ",s"
 
-    // Error recovery
+    // -- Error recovery -------------------------------------------------------
+
     // Phoenix uses R-R but that's newline in Plover already,
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
     "AD/H-F": "ad",               // from "add"
