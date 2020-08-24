@@ -695,6 +695,7 @@
     // KPW for imp-, imb-, emp-, and emb-
     // (borrowed from Magnum)
     "KPWABGT": "impact",
+    "KPWEPBD": "impend",
     "KPWHRAOEU": "imply", // the left-hand KPWHRAO cluster is a bit clumsy
     "KPWHREU": "imply",   // ... so allow omitting AO to lighten the load
     "KPWHREUBGS": "implication", // (useful!) misstroke for "complication"
