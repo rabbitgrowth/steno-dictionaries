@@ -2345,6 +2345,7 @@
     // For multistroke words, the first syllable is starred:
     //   PEPBT/TKPWOPB "Pentagon"  P*EPBT/TKPWOPB "Pentagon"
     //   HAPL/HRET "Hamlet"        HA*PL/HRET "Hamlet"
+    "TKPWRO*FRPB": "Governor",
     "PA*ERT": "Party",
 
     // -- Abbreviations --------------------------------------------------------
