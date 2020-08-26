@@ -2287,6 +2287,12 @@
     "SHAPBLT": "shall not", // from SHAPBT  "shan't"
     "WOEPBLT": "will not",  // from WOEPBT  "won't" (or just use HR-PBT)
 
+    // Use -PBLT for "not" even when there's no -n't form
+    // Precedent: KWR-PBLT "why not"
+    "SKP-PBLT": "and not",  // there's no "andn't"
+    "ORPBLT": "or not",     // there's no "orn't"
+    "PHAEUPBLT": "may not", // there's no "mayn't"
+
     // S for negation
     "STPHOL": "abnormal",
     "SHRAOEL": "illegal",
@@ -2309,12 +2315,6 @@
     "STPAPL": "unfamiliar",
     "STPHOEPB": "unknown",
     "STPEURBL": "unofficial",
-
-    // Use -PBLT for "not" even when there's no -n't form
-    // Precedent: KWR-PBLT "why not"
-    "SKP-PBLT": "and not",  // there's no "andn't"
-    "ORPBLT": "or not",     // there's no "orn't"
-    "PHAEUPBLT": "may not", // there's no "mayn't"
 
     // -- Proper nouns ---------------------------------------------------------
 
