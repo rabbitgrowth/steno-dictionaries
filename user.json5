@@ -2941,7 +2941,6 @@
     "SUGS/H-F": "suggests",       // from "suggestion"
     "SPHRAOEUS/H-F": "supplies",  // from "splice"
     "TERS/H-F": "terrors",        // from "terse"
-    "SREUBG/TORS/H-F": "victors", // from "victorious" (custom)
     "WEUPBS/H-F": "wins",         // from "wince"
 
     "PWAOEUS/H-F": "buys",        // from "bias"        (custom)
@@ -2951,6 +2950,7 @@
     "SKWRELS/H-F": "gels",        // from "jealous"     (custom)
     "PHAEUPLS/H-F": "maims",      // from "my name is"  (custom)
     "SAES/H-F": "seas",           // from "assess"      (custom)
+    "SREUBG/TORS/H-F": "victors", // from "victorious"  (custom)
 
     // Use same stroke to change to British spelling
     "PWHAEUFR/H-F": "behaviour",
