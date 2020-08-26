@@ -2309,6 +2309,7 @@
     "STKRELT": "indirectly",
     "SKWAELT": "inequality", // S+E+KWALT
     "SABL": "unable",
+    "SKP-PTD": "unexpected",
     "STPAEUR": "unfair",
     "STPAEURL": "unfairly", // misstroke for "fairly"
     "STPAEURPBS": "unfairness",
