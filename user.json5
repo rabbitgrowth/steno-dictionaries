@@ -2856,6 +2856,7 @@
     "TKWAOEUS/H-F": "devise",     // from "device"
     "TKOT/H-F": "do the",         // from "dot"
     "TKOG/H-F": "doing",          // from "dog"
+    "AOEUD/H-F": "eyed",          // from "I'd"
     "TPAEUTD/H-F": "faded",       // from "fated"
     "TPAEURL/H-F": "failure",     // from "fairly"
     "TPAOERS/H-F": "fears",       // from "fierce"
@@ -2868,6 +2869,7 @@
     "HARBGS/H-F": "hackers",
     "HAOEUFT/H-F": "heist",       // from "highest" (custom)
     "HOEPLS/H-F": "hopeless",     // from "homes"
+    "SKWREUPL/H-F": "Jim",        // from "gym"
     "TPHAOEUT/H-F": "knight",     // from "night"
     "TPHAOEUTS/H-F": "knights",
     "HREUFT/H-F": "list",         // from "lift"
