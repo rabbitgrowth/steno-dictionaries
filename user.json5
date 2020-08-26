@@ -2854,13 +2854,11 @@
     "KAEUFG/H-F": "casing",       // from {^ication}
     "KREUFPL/H-F": "crisply",     // from "criticism" (custom)
     "TKPWAEUT/H-F": "debate",     // from "gait"
-    "TKWAOEUS/H-F": "devise",     // from "device"
     "TKOT/H-F": "do the",         // from "dot"
     "TKOG/H-F": "doing",          // from "dog"
     "AOEUD/H-F": "eyed",          // from "I'd"
     "TPAEUTD/H-F": "faded",       // from "fated"
     "TPAEURL/H-F": "failure",     // from "fairly"
-    "TPAOERS/H-F": "fears",       // from "fierce"
     "TPAOEUPBL/H-F": "finely",    // from "final"
     "TPHROUR/H-F": "flour",       // from "flower" (custom)
     "TKPWOT/H-F": "go to the",    // from "got"
@@ -2885,7 +2883,6 @@
     "PAEURS/H-F": "Paris",        // from "pairs"
     "POEL/H-F": "poll",           // from "pole"
     "POELS/H-F": "polls",
-    "RAEUS/H-F": "raise",         // from "race"
     "RAEUPLD/H-F": "Raymond",     // from "remained" (custom)
     "RAEUPB/H-F": "rein",         // from "rain"
     "WRAOU/H-F": "review",        // from "withdrew"
@@ -2906,7 +2903,6 @@
     "TOEFRT/H-F": "toaster",      // from "effort to"
     "TOEFRTS/H-F": "toasters",
     "TRUPBLG/H-F": "trundling",   // from "trudge"
-    "WEUPBS/H-F": "wins",         // from "wince"
 
     "AOEUPLT/H-F": "item",        // from "I'm the"      (custom)
     "SHEL/H-F": "shell",          // from "she will"     (custom)
@@ -2925,7 +2921,9 @@
     "A/HRAOEUPBS/H-F": "aligns",  // from "alliance"
     "HROUD/H-F": "allowed",       // from "loud"
     "T-PBS/H-F": "continues",     // from "continuous"
+    "TKWAOEUS/H-F": "devise",     // from "device"
     "AOEUS/H-F": "eyes",          // from "ice"
+    "TPAOERS/H-F": "fears",       // from "fierce"
     "TPHREBGS/H-F": "flecks",     // from "flex"
     "SKWRAOEPBS/H-F": "genes",    // from "genius"
     "TKPWROES/H-F": "grows",      // from "gross"
@@ -2937,10 +2935,12 @@
     "PAOERS/H-F": "peers",        // from "pierce"
     "PHRAEUS/H-F": "plays",       // from "place"
     "PREUPBS/H-F": "principles",  // from "prince"
+    "RAEUS/H-F": "raise",         // from "race"
     "SUGS/H-F": "suggests",       // from "suggestion"
     "SPHRAOEUS/H-F": "supplies",  // from "splice"
     "TERS/H-F": "terrors",        // from "terse"
     "SREUBG/TORS/H-F": "victors", // from "victorious" (custom)
+    "WEUPBS/H-F": "wins",         // from "wince"
 
     "PWAOEUS/H-F": "buys",        // from "bias"        (custom)
     "STKPHRAEUS/H-F": "displays", // from "displace"    (custom)
