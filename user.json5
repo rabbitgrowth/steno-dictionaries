@@ -2839,11 +2839,8 @@
 
     // Phoenix uses R-R but that's newline in Plover already,
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
-    "AD/H-F": "ad",               // from "add"
-    "ADZ/H-F": "ads",
     "AUFL/H-F": "all of",         // from "awful"
     "PHAEUD/H-F": "amid",         // from "maid"
-    "PWARD/H-F": "barred",        // from "bard"
     "PWAEUG/H-F": "baying",       // from "baking" (custom)
     "PWERT/H-F": "better",        // from "Bert"
     "PWHREFD/H-F": "blessed",     // from "believed"
@@ -2856,50 +2853,33 @@
     "TKPWAEUT/H-F": "debate",     // from "gait"
     "TKOT/H-F": "do the",         // from "dot"
     "TKOG/H-F": "doing",          // from "dog"
-    "AOEUD/H-F": "eyed",          // from "I'd"
     "TPAEUTD/H-F": "faded",       // from "fated"
     "TPAEURL/H-F": "failure",     // from "fairly"
     "TPAOEUPBL/H-F": "finely",    // from "final"
-    "TPHROUR/H-F": "flour",       // from "flower" (custom)
     "TKPWOT/H-F": "go to the",    // from "got"
     "TKPWREG/H-F": "Greg",        // from "agreeing" (custom)
     "TKPWUPB/H-F": "gun",         // from "begun"
     "HARBG/H-F": "hacker",        // from "hark"
     "HARBGS/H-F": "hackers",
-    "HAOEUFT/H-F": "heist",       // from "highest" (custom)
     "HOEPLS/H-F": "hopeless",     // from "homes"
-    "SKWREUPL/H-F": "Jim",        // from "gym"
-    "TPHAOEUT/H-F": "knight",     // from "night"
-    "TPHAOEUTS/H-F": "knights",
     "HREUFT/H-F": "list",         // from "lift"
     "HREUFTS/H-F": "lists",
     "PHABG/H-F": "Mac",           // from "magic" (custom)
-    "PHARBGS/H-F": "Marx",        // from "marks"
-    "PHAER/H-F": "Mary",          // from "marry"
     "PHAEPB/H-F": "mean",         // from "many"
     "PHORPB/H-F": "more than",    // from "morn"
     "ORPBG/H-F": "organ",         // from "orange"
     "OERPB/H-F": "other than",    // from "owner"
-    "PAEURS/H-F": "Paris",        // from "pairs"
-    "POEL/H-F": "poll",           // from "pole"
-    "POELS/H-F": "polls",
     "RAEUPLD/H-F": "Raymond",     // from "remained" (custom)
-    "RAEUPB/H-F": "rein",         // from "rain"
     "WRAOU/H-F": "review",        // from "withdrew"
     "RAOEURD/H-F": "rider",       // from "required"
     "REUPL/H-F": "ripple",        // from "rim"
     "REUPLS/H-F": "ripples",
-    "RAOEUFL/H-F": "rival",       // from "rifle"
-    "RAOEUFLS/H-F": "rivals",
     "ROBG/H-F": "robbing",        // from "rock"
-    "ROEPL/H-F": "Rome",          // from "roam"
     "RURPB/H-F": "runner",        // from "return"
     "RURPBS/H-F": "runners",
     "RUPBG/H-F": "running",       // from "rung"
     "SAOEG/H-F": "seeking",       // from "seeing"
     "SAOEUTD/H-F": "sided",       // from "sighted"
-    "SAOEUD/H-F": "sighed",       // from "side"
-    "TAOEUD/H-F": "tied",         // from "tide"
     "TOEFRT/H-F": "toaster",      // from "effort to"
     "TOEFRTS/H-F": "toasters",
     "TRUPBLG/H-F": "trundling",   // from "trudge"
@@ -2914,6 +2894,28 @@
     "WHAEL/H-F": "whale",         // from "what he will" (custom)
     "WHOR/H-F": "whore",          // from "who are"      (custom)
     "WEGT/H-F": "wetting",        // from "we get"       (custom)
+
+    // ... from homophones or near-homophones
+    "AD/H-F": "ad",               // from "add"
+    "ADZ/H-F": "ads",
+    "PWARD/H-F": "barred",        // from "bard"
+    "AOEUD/H-F": "eyed",          // from "I'd"
+    "TPHROUR/H-F": "flour",       // from "flower" (custom)
+    "HAOEUFT/H-F": "heist",       // from "highest" (custom)
+    "SKWREUPL/H-F": "Jim",        // from "gym"
+    "TPHAOEUT/H-F": "knight",     // from "night"
+    "TPHAOEUTS/H-F": "knights",
+    "PHARBGS/H-F": "Marx",        // from "marks"
+    "PHAER/H-F": "Mary",          // from "marry"
+    "PAEURS/H-F": "Paris",        // from "pairs"
+    "POEL/H-F": "poll",           // from "pole"
+    "POELS/H-F": "polls",
+    "RAEUPB/H-F": "rein",         // from "rain"
+    "RAOEUFL/H-F": "rival",       // from "rifle"
+    "RAOEUFLS/H-F": "rivals",
+    "ROEPL/H-F": "Rome",          // from "roam"
+    "SAOEUD/H-F": "sighed",       // from "side"
+    "TAOEUD/H-F": "tied",         // from "tide"
 
     // ... from using -S when I should have used -Z
     "AFBGS/H-F": "affects",       // from "affection"
