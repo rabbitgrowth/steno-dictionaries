@@ -2907,6 +2907,7 @@
     "AD/H-F": "ad",               // from "add"
     "ADZ/H-F": "ads",
     "PWARD/H-F": "barred",        // from "bard"
+    "PWRAOEFP/H-F": "breach",     // from "breech"
     "AOEUD/H-F": "eyed",          // from "I'd"
     "TPHROUR/H-F": "flour",       // from "flower" (custom)
     "HAOEUFT/H-F": "heist",       // from "highest" (custom)
