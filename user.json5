@@ -277,11 +277,6 @@
     "SRAOEUBGS": "vibration", // from "vibe" as in "good vibes"
     "SRULG": "vulgar",
 
-    "SKWRUFRPL": "journalism",  // phonetic     ("jursm")
-    "SKWRUFRT": "journalist",   //              ("jurst")
-    "SKWROUFRPL": "journalism", // orthographic ("joursm")
-    "SKWROUFRT": "journalist",  //              ("jourst")
-
     "SKP-PB": "and then",
     "SKP-PBT": "and then the",
     "THRAFT": "at last", // cf. THRAOEFT "at least"
@@ -967,6 +962,12 @@
     "W*EURT": "wither",
     "S*EURT": "zither", // double *: one for "z", one for "th"
     "SPHO*RT": "smother",
+
+    // -FRPL and -FRT for -ism and -ist
+    "SKWRUFRPL": "journalism",  // phonetic     ("jursm")
+    "SKWRUFRT": "journalist",   //              ("jurst")
+    "SKWROUFRPL": "journalism", // orthographic ("joursm")
+    "SKWROUFRT": "journalist",  //              ("jourst")
 
     // -FRD for -rsed
     // Precedents: KUFRD "cursed", TPOFRD "forced"
