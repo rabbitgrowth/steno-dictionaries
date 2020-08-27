@@ -968,6 +968,12 @@
     "SKWRUFRT": "journalist",   //              ("jurst")
     "SKWROUFRPL": "journalism", // orthographic ("joursm")
     "SKWROUFRT": "journalist",  //              ("jourst")
+    "TAOUFRPL": "tourism",
+    "TAOUFRT": "tourist", // it's a bit strange that Plover allows
+                          // TUFRT (unphonetic) and TOUFRT (orthographic)
+                          // but not TAOUFRT (phonetic)
+    "TOFRPL": "tourism",  // for consistency with TOR "tour"
+    "TOFRT": "tourist",
 
     // -FRD for -rsed
     // Precedents: KUFRD "cursed", TPOFRD "forced"
