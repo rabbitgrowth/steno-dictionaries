@@ -2892,6 +2892,7 @@
     "TOEFRTS/H-F": "toasters",
     "TRUPBLG/H-F": "trundling",   // from "trudge"
 
+    // Forced evictions to make way for phrasing strokes
     "AOEUPLT/H-F": "item",        // from "I'm the"      (custom)
     "SHEL/H-F": "shell",          // from "she will"     (custom)
     "WEBG/H-F": "webbing",        // from "we can"       (custom)
@@ -2903,7 +2904,7 @@
     "WHOR/H-F": "whore",          // from "who are"      (custom)
     "WEGT/H-F": "wetting",        // from "we get"       (custom)
 
-    // ... from homophones or near-homophones
+    // Homophones or near-homophones
     "AD/H-F": "ad",               // from "add"
     "ADZ/H-F": "ads",
     "PWARD/H-F": "barred",        // from "bard"
@@ -2926,7 +2927,7 @@
     "SAOEUD/H-F": "sighed",       // from "side"
     "TAOEUD/H-F": "tied",         // from "tide"
 
-    // ... from using -S when I should have used -Z
+    // Forgetting to use -Z instead of -S
     "AFBGS/H-F": "affects",       // from "affection"
     "ALGS/H-F": "algorithms",     // from "additional"
     "A/HRAOEUPBS/H-F": "aligns",  // from "alliance"
