@@ -2340,7 +2340,7 @@
     "STPHOEPB": "unknown",
     "STPEURBL": "unofficial",
 
-    // -- Proper nouns ---------------------------------------------------------
+    // -- Capitalization -------------------------------------------------------
 
     // Names
     "PWAO*EUPBD": "Biden", // starless is "bind"
@@ -2351,7 +2351,11 @@
     "WEUL/HEPL": "Wilhelm",
     "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
 
-    // Don't capitalize
+    // Don't capitalize by default
+    "KORPBG": "congress",
+    "KO*RPBG": "Congress",
+    "KAUPB/TKPWRES": "congress",
+    "KA*UPB/TKPWRES": "Congress",
     "TKAO*US": "dews",
     "HURPBT": "hunter",
     "PHOR/ROE": "morrow",
