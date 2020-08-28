@@ -196,6 +196,7 @@
     "EUPB/SEPBT": "innocent",     // to TPH-PBT
                                   // use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",        // to TR
+    "TPHAEURB": "neighbor",       // to TPHAEUB
     "RORPBLG": "Roger",           // to RORG
     "SEUFRT": "sister",           // to ST-R
 
@@ -229,6 +230,8 @@
     "HEFR": "heavier", // overrides "heifer"
     "H*EFR": "heifer",
     "PHERPL": "memory",
+    "PHORLT": "mortal", // use PHRALT for "morality" /məˈralɪti/
+                        // PHORLT feels more like /ˈmɒrəlti/
     "PHOEFGS": "motivation",
     "PARPLT": "parliament", // use ARPLT for "apartment"
     "POERT": "poetry",
@@ -341,8 +344,10 @@
     "TAUBT/-D": "talked about",
     "TAUBT/-G": "talking about",
 
-    // Pick more distinctive part of word
+    // Pick distinctive part of word
     "STRAEUGS": "administration",
+    "TKPWREU": "category",    // KOERG is just weird
+    "TKPWREUS": "categories", // give up "gris", whatever that means
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "TPHAOEBG": "technique", // add * for "anemic"
 
@@ -371,6 +376,8 @@
     // Extend "many" rule
     // We have PHAEPB "many"   = MAEN = MANE = man-E.
     // Why not SRAEL  "valley" = VAEL = VALE = val-E?
+    "TKPWOER": "gory", // compare TKPWHROER "glory"
+                       // use TKPWOR for "gore"
     "HOEB": "hobby",
     "SRAEL": "valley", // overrides "vale"
     "SRA*EUL": "vale",
@@ -2141,6 +2148,7 @@
     "HRAUFS": "layoffs",
     "HRUL/PWAOEUS": "lullabies",
     "PHOD/RATS": "moderates",
+    "PHOPB/KAOES": "monkeys",
     "PHOPB/SAOPBS": "monsoons",
     "TPHARS/SEUFTS": "narcissists",
     "OR/K-LS": "oracles",
@@ -2334,17 +2342,22 @@
     "STPHOEPB": "unknown",
     "STPEURBL": "unofficial",
 
-    // -- Proper nouns ---------------------------------------------------------
+    // -- Capitalization -------------------------------------------------------
 
     // Names
     "PWAO*EUPBD": "Biden", // starless is "bind"
     "TPRAOED/REUFP": "Friedrich",
+    "TKPWO*R": "Gore",
     "KAPL/HRA": "Kamala", // give up "Kamilah"
     "POPL/PAEU/OE": "Pompeo",
     "WEUL/HEPL": "Wilhelm",
     "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
 
-    // Don't capitalize
+    // Don't capitalize by default
+    "KORPBG": "congress",
+    "KO*RPBG": "Congress",
+    "KAUPB/TKPWRES": "congress",
+    "KA*UPB/TKPWRES": "Congress",
     "TKAO*US": "dews",
     "HURPBT": "hunter",
     "PHOR/ROE": "morrow",
@@ -2631,7 +2644,7 @@
 
     // -- Easily confused words ------------------------------------------------
 
-    // "aggregate" and "integrate"
+    // "aggregate" vs "integrate"
     // TKPWRAT     "aggregate"
     // TKPWRAGS    "grassing"    (?!)
     // TKPWRA*EUT  "integrate"
@@ -2976,6 +2989,8 @@
     "KHRARPL/H-F": "clamour",
     "TKPWRAEU/H-F": "grey",
     "HO*RPB/H-F": "honour",
+    "TPHAEURB/H-F": "neighbour",
+    "TPHAOD/H-F": "neighbourhood",
 
     "TKPWRAEUS/H-F": "grays",     // correct from "grace"
     "TKPWRAEUS/H-F/H-F": "greys", // then to British spelling
