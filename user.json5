@@ -230,7 +230,7 @@
     "HEFR": "heavier", // overrides "heifer"
     "H*EFR": "heifer",
     "PHERPL": "memory",
-    "PHORLT": "mortal", // use PHRALT for "morality" (/məˈralɪti/)
+    "PHORLT": "mortal", // use PHRALT for "morality" /məˈralɪti/
                         // PHORLT feels more like /ˈmɒrəlti/
     "PHOEFGS": "motivation",
     "PARPLT": "parliament", // use ARPLT for "apartment"
