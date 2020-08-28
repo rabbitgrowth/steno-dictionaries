@@ -600,7 +600,6 @@
     "OEPL": "openly", // overrides "ohm"
     "O*PL": "ohm",    // kind of fits because O is "oh"
     "PRAOEUFLT": "privately",
-    "SKHROL": "psychologically",
     "R-LD": "readily",
     "RAOUPBLT": "routinely", // phonetic
     "ROEUPBL": "routinely",  // brief
@@ -618,6 +617,7 @@
                        // use TP*UL for "fundamental"
     "TPHR*UL": "fundamentally",
     "PHRERPL": "permanently",
+    "SKHROL": "psychologically",
     "SHRAOEPLG": "seemingly",
     "HRUPLT": "ultimately",
     "HRAOURBL": "usually", // which frees up ...
