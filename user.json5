@@ -1391,24 +1391,18 @@
     // HELD  "held"      (H in spelling included)
     //  ERBD "herbed"    (H in spelling omitted)
     // HERBD "he should" (HE for "he")
-    // Of course, the "h" in "held" is pronounced while the "h" in "herb"
-    // can be silent. Still, it would be nice to be able to consistently
-    // use E for "he" as part of the EU/U/E trio.
-    "EBG": "he can", // overrides "ebbing"
-    "EBGD": "he could",
-    "ERB": "he shall",   // use HERB for "herb" (spell out silent H as in HOUR "hour")
-    "ERBD": "he should", // and for "herbed" use ...
-    "HERBD": "herbed",
-    "EL": "he will", // for "El", just keep on typing;
-                     // chances are you'll get what you want:
-                     // EL/PA/SOE        "El Paso"
-                     // EL/SAL/SRA/TKOR  "El Salvador"
-                     // EL/TPHEUPB/KWROE "El Nino"
-    // "he would"  ELD already works
-    // "he'll"     *EL already works
-    "*ED": "he'd",   // which frees up ...
-    "HAOED": "heed", // drop *
-    "KE": "can he", // by default "he can"
+    // Although to be fair, the "h" in "held" is pronounced
+    // while the "h" in "herb" can be silent.
+    "H-BG": "he can",   // give up "health care"
+    "H-BGD": "he could",
+    "H-RBD": "he should",
+    "H-L": "he will",   // overrides "hello"
+    "HOL": "hello",
+    "H-LD": "he would", // give up "HDL" (obscure biochemistry term)
+    "H*L": "he'll",     // give up "Hodgkin's lymphoma"
+    "H*D": "he'd",      // give up "Hodgkin's disease" and free up ...
+    "HAOED": "heed",    // drop *
+    "KE": "can he",     // by default "he can"
     // "could he"  KOE is "co-"
     // "shall he"  too rare to care
     // "should he" SHOE is "show"
