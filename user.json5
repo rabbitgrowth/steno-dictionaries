@@ -1417,7 +1417,7 @@
     "SH*D": "she'd",
     "SH*L": "she'll",
 
-    // Do the same for the other pronouns.
+    // Other pronouns
     // (Strokes that already work are omitted for brevity.)
     "T-RB": "it shall",
     "T-L": "it will", // by default "it'll"
