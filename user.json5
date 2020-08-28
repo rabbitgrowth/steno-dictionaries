@@ -82,6 +82,7 @@
     "KRAOEFT": "creativity",    // with KRAOEF "creative"
     "KREBL": "credible",        // with EUPB/KREBL, TPHEBL "incredible"
                                 //   use KRET/-BL for "creditable"
+    "TPEURBS": "efficiency",    // with TPEURBT "efficient"
     "KP-PGS": "expectation",    // with KP-PT "expect"
     "KPR*ES": "express",        // with KPR*EGS "expression"
     "KPR*EFG": "expressing",
@@ -589,7 +590,7 @@
     "TKELD": "deadly",
     "SKREUPL/TPHALT": "discriminately", // mostly for "indiscriminately"
     "ELZ": "easily",
-    "TP-RBLT": "efficiently",
+    "TPEURBLT": "efficiently",
     "TKPWAFLT": "ghastly",
     "TKPWHREUBL": "glibly",
     "HAEPL": "happily",
@@ -2406,8 +2407,6 @@
     "WAU": "away",          // arbitrary
     "KOURPB": "counter",    // flap /t/ in American accent
                             // full phonetic (KOURPBT) is {counter^}
-    "TP-RBZ": "efficiency", // TP-RBT "efficient" - -T + -Z for "-cy"
-                            // or use AOERB
     "STPHUR": "ensure",     // "N-shur" (TPH + SH); overrides "insure"
     "STPH*UR": "insure",
     "TU": "guy",            // first and last letters
