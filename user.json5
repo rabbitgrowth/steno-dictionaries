@@ -374,6 +374,8 @@
     // Extend "many" rule
     // We have PHAEPB "many"   = MAEN = MANE = man-E.
     // Why not SRAEL  "valley" = VAEL = VALE = val-E?
+    "TKPWOER": "gory", // compare TKPWHROER "glory"
+                       // use TKPWOR for "gore"
     "HOEB": "hobby",
     "SRAEL": "valley", // overrides "vale"
     "SRA*EUL": "vale",
@@ -2341,6 +2343,7 @@
     // Names
     "PWAO*EUPBD": "Biden", // starless is "bind"
     "TPRAOED/REUFP": "Friedrich",
+    "TKPWO*R": "Gore",
     "KAPL/HRA": "Kamala", // give up "Kamilah"
     "POPL/PAEU/OE": "Pompeo",
     "WEUL/HEPL": "Wilhelm",
