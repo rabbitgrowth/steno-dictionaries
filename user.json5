@@ -1487,8 +1487,8 @@
     // and four keys in a row feels emphatic ("you MUST...").
     "KWR-FPLT": "I must", // give up "why{.}"
     "UFPLT": "you must",  // give up "{.}you" (why not "you{.}"?)
-    "EFPLT": "he must",   // give up {&E.}
-    "SHEFPLT": "she must",
+    "H-FPLT": "he must",
+    "SH-FPLT": "she must",
     "WEFPLT": "we must",
     "THEFPLT": "they must",
 
