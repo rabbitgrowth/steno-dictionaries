@@ -83,6 +83,7 @@
     "KREBL": "credible",        // with EUPB/KREBL, TPHEBL "incredible"
                                 //   use KRET/-BL for "creditable"
     "TPEURBS": "efficiency",    // with TPEURBT "efficient"
+                                //   use -Z for "fishes", which is rare anyway
     "KP-PGS": "expectation",    // with KP-PT "expect"
     "KPR*ES": "express",        // with KPR*EGS "expression"
     "KPR*EFG": "expressing",
@@ -2958,6 +2959,7 @@
 
     "PWAOEUS/H-F": "buys",        // from "bias"        (custom)
     "STKPHRAEUS/H-F": "displays", // from "displace"    (custom)
+    "TPEURBS/H-F": "fishes",      // from "efficiency"  (custom)
     "TPHRAEUBGS/H-F": "flakes",   // from "affliction"  (custom)
     "TPREBGS/H-F": "frequents",   // from "for example" (custom)
     "SKWRELS/H-F": "gels",        // from "jealous"     (custom)
