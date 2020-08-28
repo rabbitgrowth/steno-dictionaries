@@ -1287,10 +1287,14 @@
     "H-TS": "he is the",
     "H*S": "he's",
     "H*TS": "he's the",
+    "H-FS": "he was", // interesting there's no KW-PLS for {^s}{?}
+    "H-FTS": "he was the",
     "SH-S": "she is", // overrides "ssh"
     "SH-TS": "she is the",
     "SH*S": "she's",
     "SH*TS": "she's the",
+    "SH-FS": "she was",
+    "SH-FTS": "she was the",
     "T-S": "it is", // nicely symmetrical with ST "is it"
     "T-TS": "it is the",
     // "it's"       T*S already works
