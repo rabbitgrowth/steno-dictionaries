@@ -2317,6 +2317,8 @@
     "S*BGS": "inaction", // use S*EUBGS for "sixth"
     "SKHAOERPBT": "incoherent",
     "SKPHRAOET": "incomplete",
+    "SKAOPBS": "inconsistency",
+    "SKAOPBT": "inconsistent",
     "SKREBGT": "incorrect",
     "STKRET": "indirect", // see also SPWRET
     "STKRELT": "indirectly",
