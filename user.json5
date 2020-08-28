@@ -1283,19 +1283,14 @@
     "-RPBLT": "are not",
     // "you were"   URP already works
     "URPT": "you were the",
-    "ES": "he is",      // give up {^es}, which seems useless
-    "ETS": "he is the", // overrides "et cetera"
-    "*ES": "he's",      // overrides {^ess}
-    "*ETS": "he's the", // overrides "etc."
-    "ESZ": "{^ess}",    // can't think of a better stroke;
-                        // both ES and *ES are used
-                        // mnemonic: -Z to extend the s
-    "STRA": "et cetera",
-    "STRA*": "etc.",
-    // "she is"     SHES already works
-    "SHETS": "she is the", // use SHAOETS for "sheets"
-    "SH*ES": "she's",
-    "SH*ETS": "she's the",
+    "H-S": "he is",
+    "H-TS": "he is the",
+    "H*S": "he's",
+    "H*TS": "he's the",
+    "SH-S": "she is", // overrides "ssh"
+    "SH-TS": "she is the",
+    "SH*S": "she's",
+    "SH*TS": "she's the",
     "T-S": "it is", // nicely symmetrical with ST "is it"
     "T-TS": "it is the",
     // "it's"       T*S already works
