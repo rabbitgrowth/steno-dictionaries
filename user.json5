@@ -1562,16 +1562,16 @@
 
     "TOFD": "to find",
     "UFD": "you find",
-    "EFDZ": "he finds",
-    "SHEFDZ": "she finds",
+    "H-FDZ": "he finds",
+    "SH-FDZ": "she finds",
     "T-FDZ": "it finds",
     "WEFD": "we find",
     "THEFD": "they find",
 
     "TOGT": "to get", // use T-GT for "together"
     "UGT": "you get",
-    "EGTS": "he gets", // use ETS for "et cetera"
-    "SHEGTS": "she gets",
+    "H-GTS": "he gets",
+    "SH-GTS": "she gets",
     "T-GTS": "it gets",
     "WEGT": "we get", // come back for -G for "wetting"
     "THEGT": "they get",
@@ -1590,8 +1590,8 @@
     "WHOUZ": "who you see",
     "KWR-BGZ": "I can see",
     "UBGZ": "you can see",
-    "EBGZ": "he can see",
-    "SHEBGZ": "she can see",
+    "H-BGZ": "he can see",
+    "SH-BGZ": "she can see",
     "WEBGZ": "we can see",
     "THEBGZ": "they can see",
 
