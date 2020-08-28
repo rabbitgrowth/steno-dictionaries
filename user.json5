@@ -1409,13 +1409,16 @@
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
 
+    "SH-BG": "she can",
+    "SH-BGD": "she could",
+    "SH-RBD": "she should",
+    "SH-L": "she will",
+    "SH-LD": "she would",
+    "SH*D": "she'd",
+    "SH*L": "she'll",
+
     // Do the same for the other pronouns.
     // (Strokes that already work are omitted for brevity.)
-    "SHEL": "she will", // overrides "shell"
-    "SH-L": "shell",    // mnemonic: a shell is empty in the middle
-    "SH*EL": "she'll",  // give up "Shel"
-    "SH*ED": "she'd",
-
     "T-RB": "it shall",
     "T-L": "it will", // by default "it'll"
 
@@ -2892,7 +2895,6 @@
 
     // Forced evictions to make way for phrasing strokes
     "AOEUPLT/H-F": "item",        // from "I'm the"      (custom)
-    "SHEL/H-F": "shell",          // from "she will"     (custom)
     "WEBG/H-F": "webbing",        // from "we can"       (custom)
     "WEL/H-F": "well",            // from "we will"      (custom)
     "WELD/H-F": "weld",           // from "we would"     (custom)
