@@ -344,6 +344,8 @@
 
     // Pick more distinctive part of word
     "STRAEUGS": "administration",
+    "TKPWREU": "category",    // KOERG is just weird
+    "TKPWREUS": "categories", // give up "gris", whatever that means
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "TPHAOEBG": "technique", // add * for "anemic"
 
