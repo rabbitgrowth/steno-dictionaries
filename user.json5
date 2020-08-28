@@ -1327,8 +1327,14 @@
     "UD": "you had", // use *UD for "you'd"
     "UBD": "you had been",
     // "have you"  SRU already works
-    // "he has"    use HEZ  (EZ is "easy")
-    // "she has"   use SHEZ
+    "H-Z": "he has",
+    "H-BZ": "he has been",
+    "H-D": "he had", // use H/H for "had had"; doubling is easy
+    "H-BD": "he had been",
+    "SH-Z": "she has",
+    "SH-BZ": "she has been",
+    "SH-D": "she had",
+    "SH-BD": "she had been",
     "WEF": "we have", // overrides "weave"
     "WAOEF": "weave", // use W*EF for "we've"
                       // cf. HAOEF "heave", KHRAOEF "cleave"
