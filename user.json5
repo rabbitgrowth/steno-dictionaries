@@ -1571,6 +1571,7 @@
     "WHOEUPB": "who I know",
     "WHOUPB": "who you know",
 
+    "THAFD": "that find",
     "TOFD": "to find",
     "UFD": "you find",
     "EFDZ": "he finds",
@@ -1579,6 +1580,7 @@
     "WEFD": "we find",
     "THEFD": "they find",
 
+    "THAGT": "that get",
     "TOGT": "to get", // use T-GT for "together"
     "UGT": "you get",
     "EGTS": "he gets", // use ETS for "et cetera"
