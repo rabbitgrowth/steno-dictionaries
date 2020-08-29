@@ -1738,13 +1738,10 @@
     "WH*TS": "when's the",
     "WH-RT": "when are the",
     "WH-FTS": "when was the",
-    "W-RS": "where is",
-    "W-RTS": "where is the",
-    "WR-TS": "where is the",   // -R pushed to the left (unnecessarily)
-    "W*RTS": "where's the",
-    "WR*TS": "where's the",    // -R pushed to the left (unnecessarily)
-    "WR-RT": "where are the",  // -R pushed to the left
-    "WR-FTS": "where was the", // -R pushed to the left
+    "WR-TS": "where is the",
+    "WR*TS": "where's the",
+    "WR-RT": "where are the",
+    "WR-FTS": "where was the",
     "WHOTS": "who is the",
     "WHO*TS": "who's the",
     "WHORT": "who are the",
