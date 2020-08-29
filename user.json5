@@ -595,6 +595,7 @@
 
     // Fold in -L for -ly
     "K-RBLS": "consciously",
+    "KRAOEFL": "creatively",
     "TKELD": "deadly",
     "SKREUPL/TPHALT": "discriminately", // mostly for "indiscriminately"
     "ELZ": "easily",
@@ -1572,6 +1573,7 @@
     "WHOEUPB": "who I know",
     "WHOUPB": "who you know",
 
+    "THAFD": "that find",
     "TOFD": "to find",
     "UFD": "you find",
     "H-FDZ": "he finds",
@@ -1580,6 +1582,7 @@
     "WEFD": "we find",
     "THEFD": "they find",
 
+    "THAGT": "that get",
     "TOGT": "to get", // use T-GT for "together"
     "UGT": "you get",
     "H-GTS": "he gets",
@@ -2074,6 +2077,24 @@
     "STP*UF": "if you've",
     "STPUBG": "if you can",
 
+    // KH as stacking form of "which"
+    // This already works for the most basic words:
+    // KH-S  "which is"
+    // KH-FS "which was"
+    // KH-R  "which are"
+    // WEU works too, but less reliably:
+    // WEUS  "which is"
+    // WEUFS "which was"
+    // WEUR  "wire" (?!)
+    "KH-TS": "which is the",
+    "KH-FTS": "which was the",
+    "KH-F": "which have", // give up "CHF" (congestive heart failure)
+    "KH-FB": "which have been",
+    "KH-FT": "which have the",
+    "KH-FBT": "which have been the",
+    "KH-BZ": "which has been",
+    "KH-BD": "which had been",
+
     // as + adjective + as
     // The most common ones already work beautifully:
     // AS WELL AS  155949  SW-LS / SW*ELS  (SWELS)
@@ -2096,7 +2117,7 @@
     "TPE": "if he", // give up "fe", which is not a word
     "STPROFPBT": "in front of", //   STPRO PBT "in front"
                                 // +  TPROFPBT "front of"
-                                // -------------------
+                                // -----------
                                 //   STPROFPBT "in front of"
     "TPHURPB": "in turn", // instead of "turn in"; follow steno order
     "T-D": "it had", // give up {^ed it}
@@ -2113,9 +2134,6 @@
     "WHE": "when he", // use WH for "when"
     "TWH": "when it",
     "WHOER": "when other",
-    "KH-F": "which have", // give up "CHF" (congestive heart failure?)
-                          // KH as stacking form of "which",
-                          // cf. KH-S "which is", KH-FS "which was", etc.
     "WHOU": "who you", // bizarre misstroke for "how"
     "HR-F": "will have", // use HRUF for "love" (think "luv")
     "HR-FB": "will have been",
@@ -2434,7 +2452,6 @@
     "HA*RPL": "harmony",    // mnemonic: Jacob Collier's #IHarmYou
     "HOELT": "hotel",       // reverse stress or HOELT->HOTEL
     "TAOU": "in order to",  // a stronger "to"
-    "O": "oh",              // informal version of "O"
     "KW-T": "quiet",        // KWAOEUT ("quite") is too loud
     "TUPLT": "tumult",      // TU+PL+L+T
                             // TUPLT/WOUS "tumultuous"
@@ -2476,15 +2493,16 @@
 
     // -- Basics ---------------------------------------------------------------
 
-    // Reflexive pronouns
-    "O*URS": "ourselves", // "ourself" is too rare
-    "OUR/SEFL": "ourself",
-    "WUPB/SEFL": "oneself", // WUPBS is "once", W*UPBS is "one's"
-    "THAO*EUS": "thyself", // following the "add *S for reflexive pronoun" pattern
-    "TH*EPLS": "themself", // add * for special usage
-    "SEFL": "self", // since all possibilities have been exhausted
-                    // ("myself", "yourself", ... and even "thyself"),
-                    // -self as a suffix becomes useless
+    // Exclamation
+    "O": "oh",           // O/PHAPB "oh man" clashes with "Oman"
+    "O/PHAUPB": "Oman",  // with AU for /ɑː/
+    "OE/PHAUPB": "Oman", // fully phonetic with a nice OE-AU symmetry
+    // For the poetic "O" ("O say can you see..."),
+    // just use the fingerspelling O*P.
+    "AO": "ooh", // swap with "oo" (alternative spelling? Hawaiian bird?)
+    "AO*": "oo",
+    "AO/AO": "oooh",
+    "AO/AO/AO": "ooooh",
 
     // Affirmation
     "KWRE": "yeah", // by default "yes"
@@ -2553,6 +2571,16 @@
     "SAEUG/SAEUG": "saying, \"{^}{-|}", // make it work for all forms of "say"
     "KW-BG/KW-BG": "{^}, \"{^}{-|}", // but for other words, instead of
                                      // doubling the word, double the comma
+
+    // Reflexive pronouns
+    "O*URS": "ourselves", // "ourself" is too rare
+    "OUR/SEFL": "ourself",
+    "WUPB/SEFL": "oneself", // WUPBS is "once", W*UPBS is "one's"
+    "THAO*EUS": "thyself", // following the "add *S for reflexive pronoun" pattern
+    "TH*EPLS": "themself", // add * for special usage
+    "SEFL": "self", // since all possibilities have been exhausted
+                    // ("myself", "yourself", ... and even "thyself"),
+                    // -self as a suffix becomes useless
 
     // Despite that
     "RARLS": "regardless",       // RARLD feels like "rarold" or "regardly"
@@ -2939,6 +2967,8 @@
     "PHARBGS/H-F": "Marx",        // from "marks"
     "PHAER/H-F": "Mary",          // from "marry"
     "PAEURS/H-F": "Paris",        // from "pairs"
+    "PHRAEUPB/H-F": "plane",      // from "plain"
+    "PHRAEUPBS/H-F": "planes",
     "POEL/H-F": "poll",           // from "pole"
     "POELS/H-F": "polls",
     "RAEUPB/H-F": "rein",         // from "rain"
