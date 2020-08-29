@@ -1765,7 +1765,7 @@
     "SKWR-B": "just been",
     "SKWR-T": "just the",
     "SKWR-LG": "just like",
-    "SKWR-PBG": "just in case", // "junk" is SKWRUPBG; no * needed
+    "SKWR-PBG": "just in case", // cf. the starless "junk" SKWRUPBG
 
     // SPH for "some"
                              // Default strokes are inconsistent:
