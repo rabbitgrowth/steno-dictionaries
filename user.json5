@@ -51,8 +51,6 @@
     "PR-B": "problem",
     "-RT": "right", // use R-T for "are the"
     "T-G": "thing",
-    "W-D": "window", // give up {^ed with}
-    "W*DZ": "Windows",
 
     "-TS": "its",
     "*TS": "itself",
@@ -1360,14 +1358,15 @@
     "SH-BZ": "she has been",
     "SH-D": "she had",
     "SH-BD": "she had been",
-    "WEF": "we have", // overrides "weave"
-    "WAOEF": "weave", // use W*EF for "we've"
-                      // cf. HAOEF "heave", KHRAOEF "cleave"
+    "W-F": "we have", // bizarre misstroke for "where"
+    "W-FB": "we have been",
+    "W*F": "we've",   // give up "West Virginia" and free up ...
+    "WAOEF": "weave", // cf. HAOEF "heave", KHRAOEF "cleave"
                       // ("leave" gets HREF because it's very common
                       //  and to disambiguate from "leaf")
-    "WEFB": "we have been",
-    // "we've"     W*EF already works
-    "W*EFB": "we've been",
+    "W*FB": "we've been",
+    "W-D": "we had", // give up {^ed with}
+    "W-BD": "we had been",
     "THEF": "they have",
     "THEFB": "they have been",
     "TH*EF": "they've",
