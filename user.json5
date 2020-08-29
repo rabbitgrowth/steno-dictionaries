@@ -2094,7 +2094,7 @@
     "TPE": "if he", // give up "fe", which is not a word
     "STPROFPBT": "in front of", //   STPRO PBT "in front"
                                 // +  TPROFPBT "front of"
-                                // -------------------
+                                // -----------
                                 //   STPROFPBT "in front of"
     "TPHURPB": "in turn", // instead of "turn in"; follow steno order
     "T-D": "it had", // give up {^ed it}
