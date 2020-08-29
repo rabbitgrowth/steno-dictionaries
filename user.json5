@@ -1314,12 +1314,20 @@
     "T*TS": "it's the",
     // "it was"     T-FS already works
     "T-FTS": "it was the",
-    // "we are"     WER already works
-    "WERT": "we are the", // use WET/ER for "wetter"
-    "W*ER": "we're", // or use WAOER
-    // "we're the"  W*ERT is "weather"
-    "WERPBT": "we aren't",
-    "WERPBLT": "we are not",
+    "W-R": "we are", // overrides "where" (!)
+    "WR": "where",   // use -RP for "were"
+    "W-RT": "we are the",
+    "W*R": "we're",
+    "W*RT": "we're the",         // overrides "with respect to"
+    "TWROPT": "with respect to", // cf. WR-PT "with respect"
+    "TWORPT": "with respect to", //     W-RPT "with respect"
+    "W-RPBT": "we aren't", // overrides "weren't"
+    "W-RPBLT": "we are not",
+    "-RPBT": "weren't", // -RP + -PBT
+                        // "isn't"  S-PBT
+                        // "aren't" R-PBT
+                        // "weren't -RPBT is a nice progression
+    "-RPBLT": "were not",
     "THER": "they are",
     "THERT": "they are the",
     "TH*ER": "they're",
