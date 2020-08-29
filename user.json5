@@ -2494,7 +2494,8 @@
     // -- Basics ---------------------------------------------------------------
 
     // Exclamation
-    "O": "oh",           // O/PHAPB "oh man" clashes with "Oman"
+    "O": "oh",           // the default O*ERBGS is just madness
+    "O/PHAPB": "oh man", // clashes with "Oman"
     "O/PHAUPB": "Oman",  // with AU for /ɑː/
     "OE/PHAUPB": "Oman", // fully phonetic with a nice OE-AU symmetry
     // For the poetic "O" ("O say can you see..."),
