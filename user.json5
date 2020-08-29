@@ -1446,20 +1446,15 @@
     "T-RB": "it shall",
     "T-L": "it will", // by default "it'll"
 
-    "WEBG": "we can",   // just two-stroke "webbing"
-    "WERB": "we shall", // overrides "Welsh"
-    "WERBL": "Welsh",
-    "WEL": "we will",   // overrides "well" (!)
-    "W-L": "well",      // ... which is actually not that crazy;
-                        // many use skeletal briefs for common words
-    "WELD": "we would", // overrides "weld"
-    "W-LD": "weld",     // I could come up with some stupid mnemonic like
-                        // "the - welds the W and the LD", but at this point
-                        // this is really the only logical thing to do
-    "W*EL": "we'll",    // overrides {well-^}
-    "W*L": "{well-^}",  // nicely consistent with W-L
-    "W*ED": "we'd",     // which frees up ...
-    "WAOED": "weed",    // drop *
+    "W-BG": "we can",    // misstroke for {,}
+    "W-BGD": "we could", // use WELGD for "welcomed"
+    "W-RB": "we shall",  // use WR-B for "whereby"
+    "W-RBD": "we should",
+    "W-L": "we will",
+    "W-LD": "we would",
+    "W*L": "we'll",
+    "W*D": "we'd",   // which frees up ...
+    "WAOED": "weed", // drop *
 
     "THERB": "they shall", // by default "they're"
     "THEL": "they will",   // by default "they'll"
@@ -2952,9 +2947,6 @@
 
     // Forced evictions to make way for phrasing strokes
     "AOEUPLT/H-F": "item",        // from "I'm the"      (custom)
-    "WEBG/H-F": "webbing",        // from "we can"       (custom)
-    "WEL/H-F": "well",            // from "we will"      (custom)
-    "WELD/H-F": "weld",           // from "we would"     (custom)
     "THA*UD/H-F": "thawed",       // from "that you'd"   (custom)
     "WHABG/H-F": "whack",         // from "what can"     (custom)
     "WHAEL/H-F": "whale",         // from "what he will" (custom)
