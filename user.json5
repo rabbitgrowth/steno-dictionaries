@@ -600,6 +600,9 @@
     "SKREUPL/TPHALT": "discriminately", // mostly for "indiscriminately"
     "ELZ": "easily",
     "TPEURBLT": "efficiently",
+    "TPRAPBLG": "frankly", // from TPRAPBG "frank"
+                           // (no * because * is reserved for "Frank")
+                           // use TPRALG for "fragile"
     "TKPWAFLT": "ghastly",
     "TKPWHREUBL": "glibly",
     "HAEPL": "happily",
