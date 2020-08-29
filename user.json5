@@ -2495,6 +2495,8 @@
     "O": "oh",           // O/PHAPB "oh man" clashes with "Oman"
     "O/PHAUPB": "Oman",  // with AU for /ɑː/
     "OE/PHAUPB": "Oman", // fully phonetic with a nice OE-AU symmetry
+    // For the poetic "O" ("O say can you see..."),
+    // just use the fingerspelling O*P.
     "AO": "ooh", // swap with "oo" (alternative spelling? Hawaiian bird?)
     "AO*": "oo",
     "AO/AO": "oooh",
