@@ -600,6 +600,9 @@
     "SKREUPL/TPHALT": "discriminately", // mostly for "indiscriminately"
     "ELZ": "easily",
     "TPEURBLT": "efficiently",
+    "TPRAPBLG": "frankly", // from TPRAPBG "frank"
+                           // (no * because * is reserved for "Frank")
+                           // use TPRALG for "fragile"
     "TKPWAFLT": "ghastly",
     "TKPWHREUBL": "glibly",
     "HAEPL": "happily",
@@ -1182,6 +1185,7 @@
     "SKWRAOELS": "jealousy",    // lengthen vowel for -y
     "SKWRUF": "justify",        // cf. SKWRUFGS "justification"
     "HRAED": "lady",            // use HRAOED for "lead" (even when pronounced /lɛd/)
+    "HRAEDZ": "ladies",
     "PHOEUD": "media",          // use PHROEUD for "employed"
     "TPOPB": "phenomenon",      // give up "phon" (unit of loudness)
     "PREUPBL": "provisional",   // use PREUPB for "principle"
@@ -1763,7 +1767,7 @@
     "SKWR-B": "just been",
     "SKWR-T": "just the",
     "SKWR-LG": "just like",
-    "SKWR-PBG": "just in case", // "junk" is SKWRUPBG; no * needed
+    "SKWR-PBG": "just in case", // cf. the starless "junk" SKWRUPBG
 
     // SPH for "some"
                              // Default strokes are inconsistent:
