@@ -2495,6 +2495,10 @@
     "O": "oh",           // O/PHAPB "oh man" clashes with "Oman"
     "O/PHAUPB": "Oman",  // with AU for /ɑː/
     "OE/PHAUPB": "Oman", // fully phonetic with a nice OE-AU symmetry
+    "AO": "ooh", // swap with "oo" (alternative spelling? Hawaiian bird?)
+    "AO*": "oo",
+    "AO/AO": "oooh",
+    "AO/AO/AO": "ooooh",
 
     // Affirmation
     "KWRE": "yeah", // by default "yes"
