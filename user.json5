@@ -2450,7 +2450,6 @@
     "HA*RPL": "harmony",    // mnemonic: Jacob Collier's #IHarmYou
     "HOELT": "hotel",       // reverse stress or HOELT->HOTEL
     "TAOU": "in order to",  // a stronger "to"
-    "O": "oh",              // informal version of "O"
     "KW-T": "quiet",        // KWAOEUT ("quite") is too loud
     "TUPLT": "tumult",      // TU+PL+L+T
                             // TUPLT/WOUS "tumultuous"
@@ -2501,6 +2500,11 @@
     "SEFL": "self", // since all possibilities have been exhausted
                     // ("myself", "yourself", ... and even "thyself"),
                     // -self as a suffix becomes useless
+
+    // Exclamation
+    "O": "oh",           // O/PHAPB "oh man" clashes with "Oman"
+    "O/PHAUPB": "Oman",  // with AU for /ɑː/
+    "OE/PHAUPB": "Oman", // fully phonetic with a nice OE-AU symmetry
 
     // Affirmation
     "KWRE": "yeah", // by default "yes"
