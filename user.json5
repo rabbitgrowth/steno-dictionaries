@@ -2125,6 +2125,7 @@
                                 // +  TPROFPBT "front of"
                                 // -----------
                                 //   STPROFPBT "in front of"
+    "TPHEUS": "in this",
     "TPHURPB": "in turn", // instead of "turn in"; follow steno order
     "T-D": "it had", // give up {^ed it}
     "TPHOBT": "not be",
@@ -2133,6 +2134,7 @@
     "SAUFP": "such a",
     "THERZ": "these are",
     "TWHO": "those who",
+    "TKO*": "to do",
     "WHABG": "what can", // "what could/shall/should/will/would" all work
                          // swap with "whack"
     "WHA*BG": "whack",
