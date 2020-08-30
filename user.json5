@@ -2137,6 +2137,7 @@
     "THERZ": "these are",
     "TWHO": "those who",
     "TKO*": "to do",
+    "STKO*": "to do so",
     "WHABG": "what can", // "what could/shall/should/will/would" all work
                          // swap with "whack"
     "WHA*BG": "whack",
