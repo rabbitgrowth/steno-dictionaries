@@ -1312,9 +1312,10 @@
     "T*TS": "it's the",
     // "it was"     T-FS already works
     "T-FTS": "it was the",
-    "W-R": "we are", // overrides "where" (!)
-    "WR": "where",   // use -RP for "were"
+    "W-R": "we are",     // overrides "where" (!)
     "W-RT": "we are the",
+    "WR": "where",       // use -RP  for "were"
+    "WR-T": "where the", // use -RPT for "were the"
     "W*R": "we're",
     "W*RT": "we're the",         // overrides "with respect to"
     "TWROPT": "with respect to", // cf. WR-PT "with respect"
