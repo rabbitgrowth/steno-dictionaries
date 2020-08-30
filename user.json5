@@ -2529,27 +2529,27 @@
     // stick to the "default to full form and add * for contraction" rule.
     "THR-S": "there is", // advantage: neatly partitioned
     "TH-RS": "there is", // advantage: easier to press
-    "THR*S": "there's",    // already works
-    "TH*RS": "there's",
     "THR-TS": "there is the",
     "TH-RTS": "there is the",
+    "THR*S": "there's",    // already works
+    "TH*RS": "there's",
     "THR*TS": "there's the",
     "TH*RTS": "there's the",
     "THR-R": "there are",  // already works
-    "THR*R": "there're",
     "THR-RT": "there are the",
+    "THR*R": "there're",
     "THR*RT": "there're the",
     "THR-FS": "there was", // already works
     "THR-FTS": "there was the",
     "THR-L": "there will",
-    "THR*L": "there'll",   // already works
     "THR-BL": "there will be",
-    "THR*BL": "there'll be",
     "THR-BLT": "there will be the",
+    "THR*L": "there'll",   // already works
+    "THR*BL": "there'll be",
     "THR*BLT": "there'll be the",
     "HAOERS": "here is",
-    "HAO*ERS": "here's",   // already works
     "HAOERTS": "here is the",
+    "HAO*ERS": "here's",   // already works
     "HAO*ERTS": "here's the",
 
     // Amounts
