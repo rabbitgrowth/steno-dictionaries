@@ -2537,11 +2537,16 @@
     "TH*RTS": "there's the",
     "THR-R": "there are",  // already works
     "THR*R": "there're",
+    "THR-RT": "there are the",
+    "THR*RT": "there're the",
     "THR-FS": "there was", // already works
+    "THR-FTS": "there was the",
     "THR-L": "there will",
     "THR*L": "there'll",   // already works
     "THR-BL": "there will be",
     "THR*BL": "there'll be",
+    "THR-BLT": "there will be the",
+    "THR*BLT": "there'll be the",
     "HAOERS": "here is",
     "HAO*ERS": "here's",   // already works
     "HAOERTS": "here is the",
