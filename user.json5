@@ -458,10 +458,10 @@
     "SPH/TAOEUPL": "some time", // use STAOEUPL for "sometime"
 
     // Fix word boundary errors
-    "PHAEUBG/T-GS": "make things", // otherwise gives "makes iting" (makes it + -ing)
-    "PAS/SO": "pass so", // give up "Paso"; there's EL/PA/SOE for "El Paso"
-    "PERPB/TPHA": "person in a", // overrides "persona"
-    "PER/SOEPB": "persona",      // or use {^a}: PERPB/SKWRA
+    "PHAEUBG/T-GS": "make things", // otherwise gives "makes iting"
+    "PAS/SO": "pass so",           // give up "Paso"; there's EL/PA/SOE for "El Paso"
+    "PERPB/TPHA": "person in a",   // overrides "persona"
+    "PER/SOEPB": "persona",        // or use {^a}: PERPB/SKWRA
 
     // -- Affixes --------------------------------------------------------------
 
