@@ -1589,7 +1589,7 @@
     "H-FDZ": "he finds",
     "SH-FDZ": "she finds",
     "T-FDZ": "it finds",
-    "WEFD": "we find",
+    "W-FD": "we find",
     "THEFD": "they find",
 
     "THAGT": "that get",
@@ -1598,7 +1598,7 @@
     "H-GTS": "he gets",
     "SH-GTS": "she gets",
     "T-GTS": "it gets",
-    "WEGT": "we get", // come back for -G for "wetting"
+    "W-GT": "we get",
     "THEGT": "they get",
 
     "TOZ": "to see",
@@ -1617,7 +1617,7 @@
     "UBGZ": "you can see",
     "H-BGZ": "he can see",
     "SH-BGZ": "she can see",
-    "WEBGZ": "we can see",
+    "W-BGZ": "we can see",
     "THEBGZ": "they can see",
 
     // Stack "to" as TO or O
@@ -2955,7 +2955,6 @@
     "WHABG/H-F": "whack",         // from "what can"     (custom)
     "WHAEL/H-F": "whale",         // from "what he will" (custom)
     "WHOR/H-F": "whore",          // from "who are"      (custom)
-    "WEGT/H-F": "wetting",        // from "we get"       (custom)
 
     // Homophones or near-homophones
     "AD/H-F": "ad",               // from "add"
