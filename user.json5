@@ -1508,8 +1508,12 @@
     "UFPLT": "you must",  // give up "{.}you" (why not "you{.}"?)
     "H-FPLT": "he must",
     "SH-FPLT": "she must",
-    "WEFPLT": "we must",
+    "W-FPLT": "we must",  // overrides "www."
     "THEFPLT": "they must",
+    "W-S": "{>}www.{^}",  // give up {^s with}
+                          // nicely symmetric with KROPL {^.com}
+                          // in the absence of . in the stroke
+                          // (mnemonic: "(three) Ws")
 
     // I (+ don't) + common verb
     // The standard strokes are inconsistent:
