@@ -133,6 +133,8 @@
     "KHEUBG/EPB": "chicken",
     "KHRARPL": "clamor",
     "KAUPB/TKAOUFS": "conducive",
+    "KOFPB/TKAPBT": "confidant",
+    "KOFPB/TKA*PBT": "confidante",
     "KAUPB/SKWRERBGT": "conjecture",
     "AOELG": "eagle",
     "ERPBT": "errant",
@@ -453,10 +455,11 @@
     // Not compound words
     "SPH/TAOEUPL": "some time", // use STAOEUPL for "sometime"
 
-    // Prevent word boundary errors
-    "PAS/SO": "pass so", // give up "Paso"; there's EL/PA/SOE for "El Paso"
-    "PERPB/TPHA": "person in a", // overrides "persona"
-    "PER/SOEPB": "persona",      // or use {^a}: PERPB/SKWRA
+    // Fix word boundary errors
+    "PHAEUBG/T-GS": "make things", // otherwise gives "makes iting"
+    "PAS/SO": "pass so",           // give up "Paso"; there's EL/PA/SOE for "El Paso"
+    "PERPB/TPHA": "person in a",   // overrides "persona"
+    "PER/SOEPB": "persona",        // or use {^a}: PERPB/SKWRA
 
     // -- Affixes --------------------------------------------------------------
 
@@ -610,6 +613,7 @@
     "TPHAOELT": "neatly",
     "OEPL": "openly", // overrides "ohm"
     "O*PL": "ohm",    // kind of fits because O is "oh"
+    "PHRAOEULT": "politely",
     "PRAOEUFLT": "privately",
     "R-LD": "readily",
     "RAOUPBLT": "routinely", // phonetic
@@ -630,6 +634,7 @@
     "PHRERPL": "permanently",
     "SKHROL": "psychologically",
     "SHRAOEPLG": "seemingly",
+    "SHREUFRPL": "simply", // alternative to SPHREU
     "HRUPLT": "ultimately",
     "HRAOURBL": "usually", // which frees up ...
     "AOURBL": "usual",     // more strokes than AOURB but satisfyingly complete
@@ -2127,14 +2132,18 @@
                                 // +  TPROFPBT "front of"
                                 // -----------
                                 //   STPROFPBT "in front of"
+    "TPHEUS": "in this",
     "TPHURPB": "in turn", // instead of "turn in"; follow steno order
     "T-D": "it had", // give up {^ed it}
     "TPHOBT": "not be",
+    "WUPBD": "one day",
     "TWOR": "or two",
     "PAFRT": "part of", // by default "part of the"
     "SAUFP": "such a",
     "THERZ": "these are",
     "TWHO": "those who",
+    "TKO*": "to do",
+    "STKO*": "to do so",
     "WHABG": "what can", // "what could/shall/should/will/would" all work
                          // swap with "whack"
     "WHA*BG": "whack",
@@ -2461,6 +2470,7 @@
     "HOELT": "hotel",       // reverse stress or HOELT->HOTEL
     "TAOU": "in order to",  // a stronger "to"
     "KW-T": "quiet",        // KWAOEUT ("quite") is too loud
+    "KW-LT": "quietly",
     "TUPLT": "tumult",      // TU+PL+L+T
                             // TUPLT/WOUS "tumultuous"
 
@@ -2527,22 +2537,27 @@
     // stick to the "default to full form and add * for contraction" rule.
     "THR-S": "there is", // advantage: neatly partitioned
     "TH-RS": "there is", // advantage: easier to press
-    "THR*S": "there's",    // already works
-    "TH*RS": "there's",
     "THR-TS": "there is the",
     "TH-RTS": "there is the",
+    "THR*S": "there's",    // already works
+    "TH*RS": "there's",
     "THR*TS": "there's the",
     "TH*RTS": "there's the",
     "THR-R": "there are",  // already works
+    "THR-RT": "there are the",
     "THR*R": "there're",
+    "THR*RT": "there're the",
     "THR-FS": "there was", // already works
+    "THR-FTS": "there was the",
     "THR-L": "there will",
-    "THR*L": "there'll",   // already works
     "THR-BL": "there will be",
+    "THR-BLT": "there will be the",
+    "THR*L": "there'll",   // already works
     "THR*BL": "there'll be",
+    "THR*BLT": "there'll be the",
     "HAOERS": "here is",
-    "HAO*ERS": "here's",   // already works
     "HAOERTS": "here is the",
+    "HAO*ERS": "here's",   // already works
     "HAO*ERTS": "here's the",
 
     // Amounts
@@ -2917,6 +2932,7 @@
     "KAEUFG/H-F": "casing",       // from {^ication}
     "KREUFPL/H-F": "crisply",     // from "criticism" (custom)
     "TKPWAEUT/H-F": "debate",     // from "gait"
+    "TKAOEPL/H-F": "deeply",      // from "deem"
     "TKOT/H-F": "do the",         // from "dot"
     "TKOG/H-F": "doing",          // from "dog"
     "TPAEUTD/H-F": "faded",       // from "fated"
