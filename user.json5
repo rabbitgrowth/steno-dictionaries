@@ -453,8 +453,10 @@
     "SWEUPL/SAOUT": "swimsuit",
     "SWEUPL/SAOUTS": "swimsuits",
 
-    // Not compound words
+    // Don't glue together
     "SPH/TAOEUPL": "some time", // use STAOEUPL for "sometime"
+    "STEPG/STOEPB": "stepping stone",
+    "STEPG/STOEPBS": "stepping stones",
 
     // Fix word boundary errors
     "PHAEUBG/T-GS": "make things", // otherwise gives "makes iting"
