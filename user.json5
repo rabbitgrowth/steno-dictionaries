@@ -1630,6 +1630,10 @@
     "W-BGZ": "we can see",
     "THEBGZ": "they can see",
 
+    "H-BS": "he said",
+    "SH-BS": "she said",
+    "W-BS": "we said",
+
     // Stack "to" as TO or O
     "SRO": "have to",
     "SROB": "have to be",      // you can keep going
