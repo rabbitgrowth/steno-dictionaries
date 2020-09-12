@@ -2371,6 +2371,7 @@
     "SKREBGT": "incorrect",
     "STKRET": "indirect", // see also SPWRET
     "STKRELT": "indirectly",
+    "STPEF": "ineffective",
     "SKWAELT": "inequality", // S+E+KWALT
     "SABL": "unable",
     "SKP-PTD": "unexpected",
