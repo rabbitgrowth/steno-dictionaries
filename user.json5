@@ -51,8 +51,6 @@
     "PR-B": "problem",
     "-RT": "right", // use R-T for "are the"
     "T-G": "thing",
-    "W-D": "window", // give up {^ed with}
-    "W*DZ": "Windows",
 
     "-TS": "its",
     "*TS": "itself",
@@ -1301,31 +1299,39 @@
     "-RPBLT": "are not",
     // "you were"   URP already works
     "URPT": "you were the",
-    "ES": "he is",      // give up {^es}, which seems useless
-    "ETS": "he is the", // overrides "et cetera"
-    "*ES": "he's",      // overrides {^ess}
-    "*ETS": "he's the", // overrides "etc."
-    "ESZ": "{^ess}",    // can't think of a better stroke;
-                        // both ES and *ES are used
-                        // mnemonic: -Z to extend the s
-    "STRA": "et cetera",
-    "STRA*": "etc.",
-    // "she is"     SHES already works
-    "SHETS": "she is the", // use SHAOETS for "sheets"
-    "SH*ES": "she's",
-    "SH*ETS": "she's the",
+    "H-S": "he is",
+    "H-TS": "he is the",
+    "H*S": "he's",
+    "H*TS": "he's the",
+    "H-FS": "he was", // interesting there's no KW-PLS for {^s}{?}
+    "H-FTS": "he was the",
+    "SH-S": "she is", // overrides "ssh"
+    "SH-TS": "she is the",
+    "SH*S": "she's",
+    "SH*TS": "she's the",
+    "SH-FS": "she was",
+    "SH-FTS": "she was the",
     "T-S": "it is", // nicely symmetrical with ST "is it"
     "T-TS": "it is the",
     // "it's"       T*S already works
     "T*TS": "it's the",
     // "it was"     T-FS already works
     "T-FTS": "it was the",
-    // "we are"     WER already works
-    "WERT": "we are the", // use WET/ER for "wetter"
-    "W*ER": "we're", // or use WAOER
-    // "we're the"  W*ERT is "weather"
-    "WERPBT": "we aren't",
-    "WERPBLT": "we are not",
+    "W-R": "we are",     // overrides "where" (!)
+    "W-RT": "we are the",
+    "WR": "where",       // use -RP  for "were"
+    "WR-T": "where the", // use -RPT for "were the"
+    "W*R": "we're",
+    "W*RT": "we're the",         // overrides "with respect to"
+    "TWROPT": "with respect to", // cf. WR-PT "with respect"
+    "TWORPT": "with respect to", //     W-RPT "with respect"
+    "W-RPBT": "we aren't", // overrides "weren't"
+    "W-RPBLT": "we are not",
+    "-RPBT": "weren't", // -RP + -PBT
+                        // "isn't"  S-PBT
+                        // "aren't" R-PBT
+                        // "weren't -RPBT is a nice progression
+    "-RPBLT": "were not",
     "THER": "they are",
     "THERT": "they are the",
     "TH*ER": "they're",
@@ -1350,16 +1356,23 @@
     "UD": "you had", // use *UD for "you'd"
     "UBD": "you had been",
     // "have you"  SRU already works
-    // "he has"    use HEZ  (EZ is "easy")
-    // "she has"   use SHEZ
-    "WEF": "we have", // overrides "weave"
-    "WAOEF": "weave", // use W*EF for "we've"
-                      // cf. HAOEF "heave", KHRAOEF "cleave"
+    "H-Z": "he has",
+    "H-BZ": "he has been",
+    "H-D": "he had", // use H/H for "had had"; doubling is easy
+    "H-BD": "he had been",
+    "SH-Z": "she has",
+    "SH-BZ": "she has been",
+    "SH-D": "she had",
+    "SH-BD": "she had been",
+    "W-F": "we have", // bizarre misstroke for "where"
+    "W-FB": "we have been",
+    "W*F": "we've",   // give up "West Virginia" and free up ...
+    "WAOEF": "weave", // cf. HAOEF "heave", KHRAOEF "cleave"
                       // ("leave" gets HREF because it's very common
                       //  and to disambiguate from "leaf")
-    "WEFB": "we have been",
-    // "we've"     W*EF already works
-    "W*EFB": "we've been",
+    "W*FB": "we've been",
+    "W-D": "we had", // give up {^ed with}
+    "W-BD": "we had been",
     "THEF": "they have",
     "THEFB": "they have been",
     "TH*EF": "they've",
@@ -1408,54 +1421,46 @@
     // HELD  "held"      (H in spelling included)
     //  ERBD "herbed"    (H in spelling omitted)
     // HERBD "he should" (HE for "he")
-    // Of course, the "h" in "held" is pronounced while the "h" in "herb"
-    // can be silent. Still, it would be nice to be able to consistently
-    // use E for "he" as part of the EU/U/E trio.
-    "EBG": "he can", // overrides "ebbing"
-    "EBGD": "he could",
-    "ERB": "he shall",   // use HERB for "herb" (spell out silent H as in HOUR "hour")
-    "ERBD": "he should", // and for "herbed" use ...
-    "HERBD": "herbed",
-    "EL": "he will", // for "El", just keep on typing;
-                     // chances are you'll get what you want:
-                     // EL/PA/SOE        "El Paso"
-                     // EL/SAL/SRA/TKOR  "El Salvador"
-                     // EL/TPHEUPB/KWROE "El Nino"
-    // "he would"  ELD already works
-    // "he'll"     *EL already works
-    "*ED": "he'd",   // which frees up ...
-    "HAOED": "heed", // drop *
-    "KE": "can he", // by default "he can"
+    // Although to be fair, the "h" in "held" is pronounced
+    // while the "h" in "herb" can be silent.
+    "H-BG": "he can",   // give up "health care"
+    "H-BGD": "he could",
+    "H-RBD": "he should",
+    "H-L": "he will",   // overrides "hello"
+    "HOL": "hello",
+    "H-LD": "he would", // give up "HDL" (obscure biochemistry term)
+    "H*L": "he'll",     // give up "Hodgkin's lymphoma"
+    "H*D": "he'd",      // give up "Hodgkin's disease" and free up ...
+    "HAOED": "heed",    // drop *
+    "KE": "can he",     // by default "he can"
     // "could he"  KOE is "co-"
     // "shall he"  too rare to care
     // "should he" SHOE is "show"
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
 
-    // Do the same for the other pronouns.
-    // (Strokes that already work are omitted for brevity.)
-    "SHEL": "she will", // overrides "shell"
-    "SH-L": "shell",    // mnemonic: a shell is empty in the middle
-    "SH*EL": "she'll",  // give up "Shel"
-    "SH*ED": "she'd",
+    "SH-BG": "she can",
+    "SH-BGD": "she could",
+    "SH-RBD": "she should",
+    "SH-L": "she will",
+    "SH-LD": "she would",
+    "SH*D": "she'd",
+    "SH*L": "she'll",
 
+    // Other pronouns
+    // (Strokes that already work are omitted for brevity.)
     "T-RB": "it shall",
     "T-L": "it will", // by default "it'll"
 
-    "WEBG": "we can",   // just two-stroke "webbing"
-    "WERB": "we shall", // overrides "Welsh"
-    "WERBL": "Welsh",
-    "WEL": "we will",   // overrides "well" (!)
-    "W-L": "well",      // ... which is actually not that crazy;
-                        // many use skeletal briefs for common words
-    "WELD": "we would", // overrides "weld"
-    "W-LD": "weld",     // I could come up with some stupid mnemonic like
-                        // "the - welds the W and the LD", but at this point
-                        // this is really the only logical thing to do
-    "W*EL": "we'll",    // overrides {well-^}
-    "W*L": "{well-^}",  // nicely consistent with W-L
-    "W*ED": "we'd",     // which frees up ...
-    "WAOED": "weed",    // drop *
+    "W-BG": "we can",    // misstroke for {,}
+    "W-BGD": "we could", // use WELGD for "welcomed"
+    "W-RB": "we shall",  // use WR-B for "whereby"
+    "W-RBD": "we should",
+    "W-L": "we will",
+    "W-LD": "we would",
+    "W*L": "we'll",
+    "W*D": "we'd",   // which frees up ...
+    "WAOED": "weed", // drop *
 
     "THERB": "they shall", // by default "they're"
     "THEL": "they will",   // by default "they'll"
@@ -1507,10 +1512,14 @@
     // and four keys in a row feels emphatic ("you MUST...").
     "KWR-FPLT": "I must", // give up "why{.}"
     "UFPLT": "you must",  // give up "{.}you" (why not "you{.}"?)
-    "EFPLT": "he must",   // give up {&E.}
-    "SHEFPLT": "she must",
-    "WEFPLT": "we must",
+    "H-FPLT": "he must",
+    "SH-FPLT": "she must",
+    "W-FPLT": "we must",  // overrides "www."
     "THEFPLT": "they must",
+    "W-S": "{>}www.{^}",  // give up {^s with}
+                          // nicely symmetric with KROPL {^.com}
+                          // in the absence of . in the stroke
+                          // (mnemonic: "(three) Ws")
 
     // I (+ don't) + common verb
     // The standard strokes are inconsistent:
@@ -1583,19 +1592,19 @@
     "THAFD": "that find",
     "TOFD": "to find",
     "UFD": "you find",
-    "EFDZ": "he finds",
-    "SHEFDZ": "she finds",
+    "H-FDZ": "he finds",
+    "SH-FDZ": "she finds",
     "T-FDZ": "it finds",
-    "WEFD": "we find",
+    "W-FD": "we find",
     "THEFD": "they find",
 
     "THAGT": "that get",
     "TOGT": "to get", // use T-GT for "together"
     "UGT": "you get",
-    "EGTS": "he gets", // use ETS for "et cetera"
-    "SHEGTS": "she gets",
+    "H-GTS": "he gets",
+    "SH-GTS": "she gets",
     "T-GTS": "it gets",
-    "WEGT": "we get", // come back for -G for "wetting"
+    "W-GT": "we get",
     "THEGT": "they get",
 
     "TOZ": "to see",
@@ -1612,9 +1621,9 @@
     "WHOUZ": "who you see",
     "KWR-BGZ": "I can see",
     "UBGZ": "you can see",
-    "EBGZ": "he can see",
-    "SHEBGZ": "she can see",
-    "WEBGZ": "we can see",
+    "H-BGZ": "he can see",
+    "SH-BGZ": "she can see",
+    "W-BGZ": "we can see",
     "THEBGZ": "they can see",
 
     // Stack "to" as TO or O
@@ -1733,13 +1742,10 @@
     "WH*TS": "when's the",
     "WH-RT": "when are the",
     "WH-FTS": "when was the",
-    "W-RS": "where is",
-    "W-RTS": "where is the",
-    "WR-TS": "where is the",   // -R pushed to the left (unnecessarily)
-    "W*RTS": "where's the",
-    "WR*TS": "where's the",    // -R pushed to the left (unnecessarily)
-    "WR-RT": "where are the",  // -R pushed to the left
-    "WR-FTS": "where was the", // -R pushed to the left
+    "WR-TS": "where is the",
+    "WR*TS": "where's the",
+    "WR-RT": "where are the",
+    "WR-FTS": "where was the",
     "WHOTS": "who is the",
     "WHO*TS": "who's the",
     "WHORT": "who are the",
@@ -2962,15 +2968,10 @@
 
     // Forced evictions to make way for phrasing strokes
     "AOEUPLT/H-F": "item",        // from "I'm the"      (custom)
-    "SHEL/H-F": "shell",          // from "she will"     (custom)
-    "WEBG/H-F": "webbing",        // from "we can"       (custom)
-    "WEL/H-F": "well",            // from "we will"      (custom)
-    "WELD/H-F": "weld",           // from "we would"     (custom)
     "THA*UD/H-F": "thawed",       // from "that you'd"   (custom)
     "WHABG/H-F": "whack",         // from "what can"     (custom)
     "WHAEL/H-F": "whale",         // from "what he will" (custom)
     "WHOR/H-F": "whore",          // from "who are"      (custom)
-    "WEGT/H-F": "wetting",        // from "we get"       (custom)
 
     // Homophones or near-homophones
     "AD/H-F": "ad",               // from "add"
