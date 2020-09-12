@@ -2754,6 +2754,7 @@
     "TOEG": "toeing",
     "TOED": "toed", // overrides "today" (!)
     "TOD": "today", // give up {^ed to}
+    "AOUS/TOD": "use today", // by default "used to"
     "TO*E": "tow",
     "TO*ES": "tows",
     "TO*ED": "towed",
