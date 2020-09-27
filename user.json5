@@ -599,6 +599,8 @@
     "AED": "{^'d}",  // to complete the set: AES AEL AED
 
     // Fold in -L for -ly
+    "PROELT": "appropriately", // for "protocol" use PRO*ELT or ...
+    "PRO*ELG": "protocol",     // "procol"
     "K-RBLS": "consciously",
     "KRAOEFL": "creatively",
     "TKELD": "deadly",
