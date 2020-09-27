@@ -242,11 +242,13 @@
 
     // Use simpler vowel
     // Precedents: TREU "try", THRE "three"
-    "PHEUPBD": "mind", // vs PHAOEUPBD
-    "STRET": "street", // vs STRAOET
+    "TPRE": "free",      // vs TPRAOE
+    "TKPWREPB": "green", // vs TKPWRAOEPB
+    "PHEUPBD": "mind",   // vs PHAOEUPBD
+    "STRET": "street",   // vs STRAOET
     "STR*ET": "{*-|}Street",
-    "SWER": "swear",   // vs SWAER
-    "THOT": "thought", // vs THAUT
+    "SWER": "swear",     // vs SWAER
+    "THOT": "thought",   // vs THAUT
 
     // -- Sound mashing --------------------------------------------------------
 
