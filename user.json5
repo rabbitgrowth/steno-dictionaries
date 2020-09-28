@@ -134,7 +134,6 @@
     "KAUPB/TKAOUFS": "conducive",
     "KOFPB/TKAPBT": "confidant",
     "KOFPB/TKA*PBT": "confidante",
-    "KAUPB/SKWRERBGT": "conjecture",
     "AOELG": "eagle",
     "AOEFR": "easier", // like AO*ERS but even more Plover-y
     "ERPBT": "errant",
@@ -163,8 +162,6 @@
     "RAOEUGS": "rising", // use RAOEUFPS for "righteous"
     "STHRAOEUT": "satellite",
     "SKAPBLD": "scandal",
-    "SKREURPT": "scripture",
-    "SKR*EURPT": "Scripture",
     "SERBG/TREU": "secretary",
     "SRAOES": "series",
     "SRAOEZ": "series",
@@ -193,7 +190,6 @@
     "KUFPB": "cousin",            // to KUZ
     "TKEUPL/TPHEURB": "diminish", // to TKPHEURB
     "TKEUS/SPEURT": "dispirit",   // to STKPEURT
-    "TPAOERT": "feature",         // to TPAOEFP
     "EUPB/SEPBT": "innocent",     // to TPH-PBT
                                   // use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",        // to TR
@@ -1000,6 +996,12 @@
     "PHURT": "mutter",
     // It's a bit tempting to assign URT to "utter",
     // but "you're the" is too useful to give up.
+
+    // -RT for -ture
+    "KAUPB/SKWRERBGT": "conjecture",
+    "TPAOERT": "feature", // alternative to TPAOEFP
+    "SKREURPT": "scripture",
+    "SKR*EURPT": "Scripture",
 
     // *RT for -ther
     // Precedents: H*EURT "hither", TH*EURT "thither"
