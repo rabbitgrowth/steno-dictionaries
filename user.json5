@@ -1026,6 +1026,16 @@
     "TKPWOEPB": "golden",
     "OEPBLD": "olden", // OEPB is "own"
 
+    // -LG for -ctly
+    // Precedents: TKRELG "directly"  (/dɪˈrɛkli/)
+    //             KRELG  "correctly" (/kəˈrɛkli/)
+    // The -LG seems to stand for the -kl sound. There's no official rule
+    // that says -LG = -kl, but maybe I can think of it like this:
+    // -LG  -lch/-lge
+    // -LG* -lk  (add * to modify ch/j to k)
+    // -LG  -kl  (further invert l and k, cancelling the *)
+    "STREULG": "strictly",
+
     // -LGS for -tional
     // Precedents: TPUPBLGS "functional", STAOULGS "constitutional"
     "KAUPB/TKPWRELGS": "congressional",
