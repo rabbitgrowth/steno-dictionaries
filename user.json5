@@ -2952,123 +2952,123 @@
 
     // Phoenix uses R-R but that's newline in Plover already,
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
-    "AUFL/H-F": "all of",         // from "awful"
-    "HROUD/H-F": "allowed",       // from "loud"
-    "PHAEUD/H-F": "amid",         // from "maid"
-    "PWAEUG/H-F": "baying",       // from "baking" (custom)
-    "PWERT/H-F": "better",        // from "Bert"
-    "PWHREFD/H-F": "blessed",     // from "believed"
-    "PWUPBLG/H-F": "bundling",    // from "budge"
-    "PWURD/H-F": "buried",        // from "burden"
-    "PWURG/H-F": "burying",       // from {^burg}
-    "PWEUT/H-F": "by the",        // from "bit"
-    "KAEUFG/H-F": "casing",       // from {^ication}
-    "KREUFPL/H-F": "crisply",     // from "criticism" (custom)
-    "TKPWAEUT/H-F": "debate",     // from "gait"
-    "TKAOEPL/H-F": "deeply",      // from "deem"
-    "TKOT/H-F": "do the",         // from "dot"
-    "TKOG/H-F": "doing",          // from "dog"
-    "TPAEUTD/H-F": "faded",       // from "fated"
-    "TPAEURL/H-F": "failure",     // from "fairly"
-    "TPAOEUPBL/H-F": "finely",    // from "final"
-    "TKPWOT/H-F": "go to the",    // from "got"
-    "TKPWREG/H-F": "Greg",        // from "agreeing" (custom)
-    "TKPWUPB/H-F": "gun",         // from "begun"
-    "HARBG/H-F": "hacker",        // from "hark"
+    "AUFL/H-F": "all of",           // from "awful"
+    "HROUD/H-F": "allowed",         // from "loud"
+    "PHAEUD/H-F": "amid",           // from "maid"
+    "PWAEUG/H-F": "baying",         // from "baking" (custom)
+    "PWERT/H-F": "better",          // from "Bert"
+    "PWHREFD/H-F": "blessed",       // from "believed"
+    "PWUPBLG/H-F": "bundling",      // from "budge"
+    "PWURD/H-F": "buried",          // from "burden"
+    "PWURG/H-F": "burying",         // from {^burg}
+    "PWEUT/H-F": "by the",          // from "bit"
+    "KAEUFG/H-F": "casing",         // from {^ication}
+    "KREUFPL/H-F": "crisply",       // from "criticism" (custom)
+    "TKPWAEUT/H-F": "debate",       // from "gait"
+    "TKAOEPL/H-F": "deeply",        // from "deem"
+    "TKOT/H-F": "do the",           // from "dot"
+    "TKOG/H-F": "doing",            // from "dog"
+    "TPAEUTD/H-F": "faded",         // from "fated"
+    "TPAEURL/H-F": "failure",       // from "fairly"
+    "TPAOEUPBL/H-F": "finely",      // from "final"
+    "TKPWOT/H-F": "go to the",      // from "got"
+    "TKPWREG/H-F": "Greg",          // from "agreeing" (custom)
+    "TKPWUPB/H-F": "gun",           // from "begun"
+    "HARBG/H-F": "hacker",          // from "hark"
     "HARBGS/H-F": "hackers",
-    "HOEPLS/H-F": "hopeless",     // from "homes"
-    "HREUFT/H-F": "list",         // from "lift"
+    "HOEPLS/H-F": "hopeless",       // from "homes"
+    "HREUFT/H-F": "list",           // from "lift"
     "HREUFTS/H-F": "lists",
-    "PHABG/H-F": "Mac",           // from "magic" (custom)
-    "PHAEPB/H-F": "mean",         // from "many"
-    "PHORPB/H-F": "more than",    // from "morn"
-    "ORPBG/H-F": "organ",         // from "orange"
-    "OERPB/H-F": "other than",    // from "owner"
-    "RAEUPLD/H-F": "Raymond",     // from "remained" (custom)
-    "WRAOU/H-F": "review",        // from "withdrew"
-    "RAOEURD/H-F": "rider",       // from "required"
-    "REUPL/H-F": "ripple",        // from "rim"
+    "PHABG/H-F": "Mac",             // from "magic" (custom)
+    "PHAEPB/H-F": "mean",           // from "many"
+    "PHORPB/H-F": "more than",      // from "morn"
+    "ORPBG/H-F": "organ",           // from "orange"
+    "OERPB/H-F": "other than",      // from "owner"
+    "RAEUPLD/H-F": "Raymond",       // from "remained" (custom)
+    "WRAOU/H-F": "review",          // from "withdrew"
+    "RAOEURD/H-F": "rider",         // from "required"
+    "REUPL/H-F": "ripple",          // from "rim"
     "REUPLS/H-F": "ripples",
-    "ROBG/H-F": "robbing",        // from "rock"
-    "RURPB/H-F": "runner",        // from "return"
+    "ROBG/H-F": "robbing",          // from "rock"
+    "RURPB/H-F": "runner",          // from "return"
     "RURPBS/H-F": "runners",
-    "RUPBG/H-F": "running",       // from "rung"
-    "SAOEG/H-F": "seeking",       // from "seeing"
-    "SAOEUTD/H-F": "sided",       // from "sighted"
-    "TOEFRT/H-F": "toaster",      // from "effort to"
+    "RUPBG/H-F": "running",         // from "rung"
+    "SAOEG/H-F": "seeking",         // from "seeing"
+    "SAOEUTD/H-F": "sided",         // from "sighted"
+    "TOEFRT/H-F": "toaster",        // from "effort to"
     "TOEFRTS/H-F": "toasters",
-    "TRUPBLG/H-F": "trundling",   // from "trudge"
+    "TRUPBLG/H-F": "trundling",     // from "trudge"
 
     // Forced evictions to make way for phrasing strokes
-    "AOEUPLT/H-F": "item",        // from "I'm the"      (custom)
-    "THA*UD/H-F": "thawed",       // from "that you'd"   (custom)
-    "WHABG/H-F": "whack",         // from "what can"     (custom)
-    "WHAEL/H-F": "whale",         // from "what he will" (custom)
-    "WHOR/H-F": "whore",          // from "who are"      (custom)
+    "AOEUPLT/H-F": "item",          // from "I'm the"      (custom)
+    "THA*UD/H-F": "thawed",         // from "that you'd"   (custom)
+    "WHABG/H-F": "whack",           // from "what can"     (custom)
+    "WHAEL/H-F": "whale",           // from "what he will" (custom)
+    "WHOR/H-F": "whore",            // from "who are"      (custom)
 
     // Homophones or near-homophones
-    "AD/H-F": "ad",               // from "add"
+    "AD/H-F": "ad",                 // from "add"
     "ADZ/H-F": "ads",
-    "PWAPBD/H-F": "banned",       // from "band"
-    "PWARD/H-F": "barred",        // from "bard"
-    "PWRAOEFP/H-F": "breach",     // from "breech"
-    "AOEUD/H-F": "eyed",          // from "I'd"
-    "TPHROUR/H-F": "flour",       // from "flower" (custom)
-    "HAOEUFT/H-F": "heist",       // from "highest" (custom)
-    "SKWREUPL/H-F": "Jim",        // from "gym"
-    "TPHAOEUT/H-F": "knight",     // from "night"
+    "PWAPBD/H-F": "banned",         // from "band"
+    "PWARD/H-F": "barred",          // from "bard"
+    "PWRAOEFP/H-F": "breach",       // from "breech"
+    "AOEUD/H-F": "eyed",            // from "I'd"
+    "TPHROUR/H-F": "flour",         // from "flower" (custom)
+    "HAOEUFT/H-F": "heist",         // from "highest" (custom)
+    "SKWREUPL/H-F": "Jim",          // from "gym"
+    "TPHAOEUT/H-F": "knight",       // from "night"
     "TPHAOEUTS/H-F": "knights",
-    "PHARBGS/H-F": "Marx",        // from "marks"
-    "PHAER/H-F": "Mary",          // from "marry"
-    "PAEURS/H-F": "Paris",        // from "pairs"
-    "TPEUL/H-F": "Phil",          // from "fill"
-    "PHRAEUPB/H-F": "plane",      // from "plain"
+    "PHARBGS/H-F": "Marx",          // from "marks"
+    "PHAER/H-F": "Mary",            // from "marry"
+    "PAEURS/H-F": "Paris",          // from "pairs"
+    "TPEUL/H-F": "Phil",            // from "fill"
+    "PHRAEUPB/H-F": "plane",        // from "plain"
     "PHRAEUPBS/H-F": "planes",
-    "POEL/H-F": "poll",           // from "pole"
+    "POEL/H-F": "poll",             // from "pole"
     "POELS/H-F": "polls",
-    "RAEUPB/H-F": "rein",         // from "rain"
-    "RAOEUFL/H-F": "rival",       // from "rifle"
+    "RAEUPB/H-F": "rein",           // from "rain"
+    "RAOEUFL/H-F": "rival",         // from "rifle"
     "RAOEUFLS/H-F": "rivals",
-    "ROEPL/H-F": "Rome",          // from "roam"
-    "SAOEUD/H-F": "sighed",       // from "side"
-    "TAOEUD/H-F": "tied",         // from "tide"
+    "ROEPL/H-F": "Rome",            // from "roam"
+    "SAOEUD/H-F": "sighed",         // from "side"
+    "TAOEUD/H-F": "tied",           // from "tide"
 
     // Forgetting to use -Z instead of -S
-    "AFBGS/H-F": "affects",       // from "affection"
-    "ALGS/H-F": "algorithms",     // from "additional"
-    "A/HRAOEUPBS/H-F": "aligns",  // from "alliance"
+    "AFBGS/H-F": "affects",         // from "affection"
+    "ALGS/H-F": "algorithms",       // from "additional"
+    "A/HRAOEUPBS/H-F": "aligns",    // from "alliance"
     "SEURBGS/H-F": "circumstances", // from "circus"
-    "T-PBS/H-F": "continues",     // from "continuous"
-    "KREUS/H-F": "countries",     // from "Chris"
-    "TKWAOEUS/H-F": "devise",     // from "device"
-    "AOEUS/H-F": "eyes",          // from "ice"
-    "TPAOERS/H-F": "fears",       // from "fierce"
-    "TPHREBGS/H-F": "flecks",     // from "flex"
-    "SKWRAOEPBS/H-F": "genes",    // from "genius"
-    "TKPWROES/H-F": "grows",      // from "gross"
-    "HORS/H-F": "horrors",        // from "horse"
-    "SKWROEUS/H-F": "joys",       // from "Joyce"
-    "TPHOES/H-F": "knows",        // from "nose"
-    "PHAPBGS/H-F": "manages",     // from "mansion"
-    "WUPBS/H-F": "ones",          // from "once"
-    "PAOERS/H-F": "peers",        // from "pierce"
-    "PHRAEUS/H-F": "plays",       // from "place"
-    "PREUPBS/H-F": "principles",  // from "prince"
-    "RAEUS/H-F": "raise",         // from "race"
-    "SUGS/H-F": "suggests",       // from "suggestion"
-    "SPHRAOEUS/H-F": "supplies",  // from "splice"
-    "TERS/H-F": "terrors",        // from "terse"
-    "WEUPBS/H-F": "wins",         // from "wince"
+    "T-PBS/H-F": "continues",       // from "continuous"
+    "KREUS/H-F": "countries",       // from "Chris"
+    "TKWAOEUS/H-F": "devise",       // from "device"
+    "AOEUS/H-F": "eyes",            // from "ice"
+    "TPAOERS/H-F": "fears",         // from "fierce"
+    "TPHREBGS/H-F": "flecks",       // from "flex"
+    "SKWRAOEPBS/H-F": "genes",      // from "genius"
+    "TKPWROES/H-F": "grows",        // from "gross"
+    "HORS/H-F": "horrors",          // from "horse"
+    "SKWROEUS/H-F": "joys",         // from "Joyce"
+    "TPHOES/H-F": "knows",          // from "nose"
+    "PHAPBGS/H-F": "manages",       // from "mansion"
+    "WUPBS/H-F": "ones",            // from "once"
+    "PAOERS/H-F": "peers",          // from "pierce"
+    "PHRAEUS/H-F": "plays",         // from "place"
+    "PREUPBS/H-F": "principles",    // from "prince"
+    "RAEUS/H-F": "raise",           // from "race"
+    "SUGS/H-F": "suggests",         // from "suggestion"
+    "SPHRAOEUS/H-F": "supplies",    // from "splice"
+    "TERS/H-F": "terrors",          // from "terse"
+    "WEUPBS/H-F": "wins",           // from "wince"
 
-    "PWAOEUS/H-F": "buys",        // from "bias"        (custom)
-    "STKPHRAEUS/H-F": "displays", // from "displace"    (custom)
-    "TPEURBS/H-F": "fishes",      // from "efficiency"  (custom)
-    "TPHRAEUBGS/H-F": "flakes",   // from "affliction"  (custom)
-    "TPREBGS/H-F": "frequents",   // from "for example" (custom)
-    "SKWRELS/H-F": "gels",        // from "jealous"     (custom)
-    "PHAEUPLS/H-F": "maims",      // from "my name is"  (custom)
-    "SAES/H-F": "seas",           // from "assess"      (custom)
-    "SREUBG/TORS/H-F": "victors", // from "victorious"  (custom)
+    "PWAOEUS/H-F": "buys",          // from "bias"        (custom)
+    "STKPHRAEUS/H-F": "displays",   // from "displace"    (custom)
+    "TPEURBS/H-F": "fishes",        // from "efficiency"  (custom)
+    "TPHRAEUBGS/H-F": "flakes",     // from "affliction"  (custom)
+    "TPREBGS/H-F": "frequents",     // from "for example" (custom)
+    "SKWRELS/H-F": "gels",          // from "jealous"     (custom)
+    "PHAEUPLS/H-F": "maims",        // from "my name is"  (custom)
+    "SAES/H-F": "seas",             // from "assess"      (custom)
+    "SREUBG/TORS/H-F": "victors",   // from "victorious"  (custom)
 
     // Use same stroke to change to British spelling
     "PWHAEUFR/H-F": "behaviour",
@@ -3078,7 +3078,7 @@
     "TPHAEURB/H-F": "neighbour",
     "TPHAOD/H-F": "neighbourhood",
 
-    "TKPWRAEUS/H-F": "grays",     // correct from "grace"
-    "TKPWRAEUS/H-F/H-F": "greys", // then to British spelling
+    "TKPWRAEUS/H-F": "grays",       // correct from "grace"
+    "TKPWRAEUS/H-F/H-F": "greys",   // then to British spelling
 
 }
