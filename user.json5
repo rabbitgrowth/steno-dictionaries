@@ -129,6 +129,7 @@
     "KHRERPBD": "calendar",
     "KAUFT": "caste",
     "KHEUBG/EPB": "chicken",
+    "SEURBGS": "circus", // use -Z for "circumstances"
     "KHRARPL": "clamor",
     "KAUPB/TKAOUFS": "conducive",
     "KOFPB/TKAPBT": "confidant",
@@ -3036,6 +3037,7 @@
     "AFBGS/H-F": "affects",       // from "affection"
     "ALGS/H-F": "algorithms",     // from "additional"
     "A/HRAOEUPBS/H-F": "aligns",  // from "alliance"
+    "SEURBGS/H-F": "circumstances", // from "circus"
     "T-PBS/H-F": "continues",     // from "continuous"
     "KREUS/H-F": "countries",     // from "Chris"
     "TKWAOEUS/H-F": "devise",     // from "device"
