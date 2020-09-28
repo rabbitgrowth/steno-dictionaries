@@ -1652,6 +1652,17 @@
     "W-GT": "we get",
     "THEGT": "they get",
 
+    "STPEUPT": "if I want",
+    "STPUPT": "if you want",
+    "THAEUPT": "that I want",
+    "THAUPT": "that you want",
+    "WHAEUPT": "what I want",
+    "WHAUPT": "what you want",
+    "WHEUPT": "when I want",
+    "WHUPT": "when you want",
+    "WHOEUPT": "who I want",
+    "WHOUPT": "who you want",
+
     "TOZ": "to see",
     "UZ": "you see",
     "STPEUZ": "if I see",
