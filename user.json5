@@ -829,6 +829,28 @@
     "STKERPBT": "dissenter",
     "STK*EPBT": "descent", // dis- feels more default-y than des-
 
+    // SKP- for exp-
+    "SKPAPBD": "expand",
+    "SKPAPBGS": "expansion",
+    "SKPEPBD": "expend", // give up "end and" (use TPH-D for "end")
+    "SKPEPBS": "expense",
+    "SKPOES": "expose",  // a nice trio:
+                         // SPOES  "suppose"
+                         // KPOES  "compose"
+                         // SKPOES "expose"
+    "SKPOEFD": "exposed",
+    "SKPOEFR": "exposure", // give up "over and"
+                           // (which could just as validly be "and over":
+                           //  OVER AND  41192
+                           //  AND OVER  29031)
+    "SKPOERB": "exposure", // cf. SPOERB
+    "SKPRES": "express", // another nice trio:
+                         // SPRES  "suppress"
+                         // KPRES  "compress"
+                         // SKPRES "express"
+    "SKPREFG": "expressing",
+    "SKPREGS": "expression",
+
     // TPH for in-
     // Precedents: TPHERT "inert", TPHEURBL "initial"
     "TPHAEUPB": "inane", // overrides "ninja"
