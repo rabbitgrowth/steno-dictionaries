@@ -688,6 +688,7 @@
     "SPWEUFRPBT": "indifferent",
     "SPWRET": "indirect", // see also STKRET
     "SPWRELT": "indirectly",
+    "SPWRELG": "indirectly",
     "SPWAOR": "indoor",
     "SPWAORS": "indoors",
     "SPWAOUS": "induce",
@@ -2394,6 +2395,7 @@
     "SKREBGT": "incorrect",
     "STKRET": "indirect", // see also SPWRET
     "STKRELT": "indirectly",
+    "STKRELG": "indirectly",
     "STPEF": "ineffective",
     "SKWAELT": "inequality", // S+E+KWALT
     "SABL": "unable",
@@ -2659,7 +2661,7 @@
     // Don't omit -T in -LT
     // -LT is just as easy, if not easier, to type as -L.
     "TPHARLT": "natural",
-    "TKRELT": "directly", // TKRELG is also nice (/dɪˈrɛkli/)
+    "TKRELT": "directly", // or use TKRELG
 
     // -- Word families --------------------------------------------------------
 
