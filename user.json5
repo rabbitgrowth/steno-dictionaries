@@ -2427,6 +2427,7 @@
     //   PEPBT/TKPWOPB "Pentagon"  P*EPBT/TKPWOPB "Pentagon"
     //   HAPL/HRET "Hamlet"        HA*PL/HRET "Hamlet"
     "TKPWRO*FRPB": "Governor",
+    "SKWR*UFS": "Justice",
     "PA*ERT": "Party",
 
     // -- Abbreviations --------------------------------------------------------
