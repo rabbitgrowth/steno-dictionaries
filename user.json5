@@ -986,6 +986,9 @@
     "TWEZ": "tweeze",
     "WHEZ": "wheeze",
 
+    "KREZ": "increase",
+    "SKREZ": "decrease",
+
     // -F for -s-
     "AOUFR": "user", // use AUFR for {over^}
     "WAOEUFR": "wiser",
