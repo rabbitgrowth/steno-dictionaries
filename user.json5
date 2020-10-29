@@ -571,6 +571,8 @@
     "TPAEURPBT": "fainter",
     "SKWRAEURT": "generator",
     "PHAOERG": "meager",
+    "PAEURPBT": "painter", // use PARPBT for "parent"
+    "PAEURPBTS": "painters",
     "TPEUFRLS": "philosopher", // flouts steno order:
                                //  11  5 3
                                //      6  4
