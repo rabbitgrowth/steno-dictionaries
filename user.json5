@@ -165,6 +165,7 @@
     "TPRAEUFL": "phrasal",
     "SPES": "possess", // invert S and P
                        // allows one-stroking "possesses" unlike the standard PESZ
+    "PUB/HREUFT": "publicity", // not sure what's going on in PHREURBGT
     "RAOEUGS": "rising", // use RAOEUFPS for "righteous"
     "STHRAOEUT": "satellite",
     "SKAPBLD": "scandal",
