@@ -1654,6 +1654,17 @@
     "W-GT": "we get",
     "THEGT": "they get",
 
+    "STPEUPBG": "if I think",
+    "STPUPBG": "if you think",
+    "THAEUPBG": "that I think",  // misstroke for "thing"
+    "THAUPBG": "that you think", // use THAUG for "thank you"
+    "WHAEUPBG": "what I think",
+    "WHAUPBG": "what you think",
+    "WHEUPBG": "when I think",
+    "WHUPBG": "when you think",
+    "WHOEUPBG": "who I think",
+    "WHOUPBG": "who you think",
+
     "STPEUPT": "if I want",
     "STPUPT": "if you want",
     "THAEUPT": "that I want",
