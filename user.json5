@@ -2464,6 +2464,7 @@
     "STKRELG": "indirectly",
     "STPEF": "ineffective",
     "SKWAELT": "inequality", // S+E+KWALT
+    "STPORL": "informal",
     "SABL": "unable",
     "SKP-PTD": "unexpected",
     "STPAEUR": "unfair",
@@ -2472,6 +2473,7 @@
     "STPAPL": "unfamiliar",
     "STPHOEPB": "unknown",
     "STPEURBL": "unofficial",
+    "SPHREFPBT": "unpleasant",
 
     // -- Capitalization -------------------------------------------------------
 
