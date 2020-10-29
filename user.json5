@@ -120,6 +120,8 @@
 
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES or ABG/SEU,
                             // which feels like it's missing an -R
+    "APBLG/TEUF": "adjective",
+    "APBLG/TAOEUFL": "adjectival",
     "A*PLS": "Alps", // starless is "apples"
     "ARPB/KEU": "anarchy",
     "ARPB/KEUFT": "anarchist",
