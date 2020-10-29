@@ -130,6 +130,8 @@
     "AUT/TPHOPLS": "autonomous",
     "PWHRAOEU": "belie",
     "PWHRAOEUD": "belied", // otherwise gives "belieed"
+    "PWHREUPBG/WAL": "bilingual",
+    "PWHREUPBLG": "bilingual", // PWHREUPBL + -G; "blingle"
     "PWEUS/TROE": "bistro", // /ˈbɪstrəʊ/
                             // /ˈbiːs-/ already works: PWAOES/TROE
     "KHRERPBD": "calendar",
