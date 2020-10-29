@@ -111,6 +111,7 @@
     "PROEUFD": "processed",     // with PROEUS "process", PROEUFG "processing"
     "RAEUGSZ": "regulations",   // with RAEUGS "regulation"
     "R*URPB": "runner",         // with R*UPBG "running"
+    "STEUFBG": "scientific",    // with STEUFT "scientist"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
     "SEURPB": "sinner",         // with TKEURPB "dinner", WEURPB "winner"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
