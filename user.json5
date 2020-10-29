@@ -96,6 +96,10 @@
     "TERPGS": "interpretation", // with TERP "interpret"
     "TWAOEPB": "intervene",     // with TWEPBGS "intervention"
                                 //   use TWEPB for "between"
+    "HR-PB": "listen",          // with HR-PBG "listening"
+                                //   use HR-PBS for "license"
+    "HR-PBD": "listened",
+    "HR-RPB": "listener",
     "TPHAOERB": "nearby",       // with TPHAOER "near"
                                 //   instead of TPHAERB; use TPHEURB for "niche"
     "TPHORBG": "New York",      // with TPHORBG/TAOEUPLS "New York Times"
@@ -2922,10 +2926,7 @@
     "PH-RPB": "more than", // already works
     "R-RPB": "rather than",
     "-RPB": "other than",
-    // While we're at it, we might as well brief the
-    // other comparison phrases using a similar pattern.
-    "PW-RPB": "better than",
-    "HR-PB": "less than", // use HR-PBS for "license"
+    "PW-RPB": "better than", // nice coincidence: "better" is PW-RT
 
     // Swap base words to simplify inflections
     // STK*ERT  "desert"  -> STK*ERTD  "deserted"
