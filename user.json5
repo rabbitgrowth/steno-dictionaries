@@ -1000,6 +1000,7 @@
     // -RT for -ture
     "KAUPB/SKWRERBGT": "conjecture",
     "TPAOERT": "feature", // alternative to TPAOEFP
+    "PEURBGT": "picture", // alternative to P*EUFP
     "SKREURPT": "scripture",
     "SKR*EURPT": "Scripture",
 
