@@ -718,6 +718,7 @@
     // (borrowed from Magnum)
     "KPWABGT": "impact",
     "KPWEPBD": "impend",
+    "KPWHREUFT": "implicit",
     "KPWHRAOEU": "imply", // the left-hand KPWHRAO cluster is a bit clumsy
     "KPWHREU": "imply",   // ... so allow omitting AO to lighten the load
     "KPWHREUBGS": "implication", // (useful!) misstroke for "complication"
@@ -831,6 +832,7 @@
     "SKPAPBGS": "expansion",
     "SKPEPBD": "expend", // give up "end and" (use TPH-D for "end")
     "SKPEPBS": "expense",
+    "SKPHREUFT": "explicit",
     "SKPOES": "expose",  // a nice trio:
                          // SPOES  "suppose"
                          // KPOES  "compose"
