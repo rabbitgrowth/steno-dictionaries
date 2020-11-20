@@ -96,6 +96,10 @@
     "TERPGS": "interpretation", // with TERP "interpret"
     "TWAOEPB": "intervene",     // with TWEPBGS "intervention"
                                 //   use TWEPB for "between"
+    "HR-PB": "listen",          // with HR-PBG "listening"
+                                //   use HR-PBS for "license"
+    "HR-PBD": "listened",
+    "HR-RPB": "listener",
     "TPHAOERB": "nearby",       // with TPHAOER "near"
                                 //   instead of TPHAERB; use TPHEURB for "niche"
     "TPHORBG": "New York",      // with TPHORBG/TAOEUPLS "New York Times"
@@ -107,6 +111,7 @@
     "PROEUFD": "processed",     // with PROEUS "process", PROEUFG "processing"
     "RAEUGSZ": "regulations",   // with RAEUGS "regulation"
     "R*URPB": "runner",         // with R*UPBG "running"
+    "STEUFBG": "scientific",    // with STEUFT "scientist"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
     "SEURPB": "sinner",         // with TKEURPB "dinner", WEURPB "winner"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
@@ -116,6 +121,8 @@
 
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES or ABG/SEU,
                             // which feels like it's missing an -R
+    "APBLG/TEUF": "adjective",
+    "APBLG/TAOEUFL": "adjectival",
     "A*PLS": "Alps", // starless is "apples"
     "ARPB/KEU": "anarchy",
     "ARPB/KEUFT": "anarchist",
@@ -124,6 +131,8 @@
     "AUT/TPHOPLS": "autonomous",
     "PWHRAOEU": "belie",
     "PWHRAOEUD": "belied", // otherwise gives "belieed"
+    "PWHREUPBG/WAL": "bilingual",
+    "PWHREUPBLG": "bilingual", // PWHREUPBL + -G; "blingle"
     "PWEUS/TROE": "bistro", // /ˈbɪstrəʊ/
                             // /ˈbiːs-/ already works: PWAOES/TROE
     "KHRERPBD": "calendar",
@@ -160,6 +169,7 @@
     "TPRAEUFL": "phrasal",
     "SPES": "possess", // invert S and P
                        // allows one-stroking "possesses" unlike the standard PESZ
+    "PUB/HREUFT": "publicity", // not sure what's going on in PHREURBGT
     "RAOEUGS": "rising", // use RAOEUFPS for "righteous"
     "STHRAOEUT": "satellite",
     "SKAPBLD": "scandal",
@@ -572,6 +582,8 @@
     "TPAEURPBT": "fainter",
     "SKWRAEURT": "generator",
     "PHAOERG": "meager",
+    "PAEURPBT": "painter", // use PARPBT for "parent"
+    "PAEURPBTS": "painters",
     "TPEUFRLS": "philosopher", // flouts steno order:
                                //  11  5 3
                                //      6  4
@@ -717,6 +729,9 @@
     // KPW for imp-, imb-, emp-, and emb-
     // (borrowed from Magnum)
     "KPWABGT": "impact",
+    "KPWAOED": "impede",
+    "KPWAOETD": "impeded",
+    "KPWED/-PLT": "impediment",
     "KPWEPBD": "impend",
     "KPWHREUFT": "implicit",
     "KPWHRAOEU": "imply", // the left-hand KPWHRAO cluster is a bit clumsy
@@ -977,6 +992,9 @@
     "SKWEZ": "squeeze",
     "TWEZ": "tweeze",
     "WHEZ": "wheeze",
+
+    "KREZ": "increase",
+    "SKREZ": "decrease",
 
     // -F for -s-
     "AOUFR": "user", // use AUFR for {over^}
@@ -1658,6 +1676,17 @@
     "W-GT": "we get",
     "THEGT": "they get",
 
+    "STPEUPBG": "if I think",
+    "STPUPBG": "if you think",
+    "THAEUPBG": "that I think",  // misstroke for "thing"
+    "THAUPBG": "that you think", // use THAUG for "thank you"
+    "WHAEUPBG": "what I think",
+    "WHAUPBG": "what you think",
+    "WHEUPBG": "when I think",
+    "WHUPBG": "when you think",
+    "WHOEUPBG": "who I think",
+    "WHOUPBG": "who you think",
+
     "STPEUPT": "if I want",
     "STPUPT": "if you want",
     "THAEUPT": "that I want",
@@ -2304,6 +2333,8 @@
     "KHAPL/KWROPBG": "championing",
     "KAUPB/SAOELG": "concealing",
     "KAUPB/SAOELS": "conceals",
+    "KAUPB/TPEFD": "confessed",
+    "KAUPB/TPEFG": "confessing",
     "EPB/HAFPBD": "enhanced",
     "EPB/HAPBGS": "enhancing",
     "ES/KHRAEUTD": "escalated",
@@ -2438,6 +2469,7 @@
     "STKRELG": "indirectly",
     "STPEF": "ineffective",
     "SKWAELT": "inequality", // S+E+KWALT
+    "STPORL": "informal",
     "SABL": "unable",
     "SKP-PTD": "unexpected",
     "STPAEUR": "unfair",
@@ -2446,6 +2478,7 @@
     "STPAPL": "unfamiliar",
     "STPHOEPB": "unknown",
     "STPEURBL": "unofficial",
+    "SPHREFPBT": "unpleasant",
 
     // -- Capitalization -------------------------------------------------------
 
@@ -2913,10 +2946,7 @@
     "PH-RPB": "more than", // already works
     "R-RPB": "rather than",
     "-RPB": "other than",
-    // While we're at it, we might as well brief the
-    // other comparison phrases using a similar pattern.
-    "PW-RPB": "better than",
-    "HR-PB": "less than", // use HR-PBS for "license"
+    "PW-RPB": "better than", // nice coincidence: "better" is PW-RT
 
     // Swap base words to simplify inflections
     // STK*ERT  "desert"  -> STK*ERTD  "deserted"
