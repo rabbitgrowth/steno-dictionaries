@@ -734,6 +734,10 @@
     "KPWED/-PLT": "impediment",
     "KPWEPBD": "impend",
     "KPWHREUFT": "implicit",
+    "KPWHROED": "implode",
+    "KPWHROETD": "imploded",
+    "KPWHROEGS": "implosion",
+    "KPWHROES/EUF": "implosive", // cf. SPHROES/EUF "explosive"
     "KPWHRAOEU": "imply", // the left-hand KPWHRAO cluster is a bit clumsy
     "KPWHREU": "imply",   // ... so allow omitting AO to lighten the load
     "KPWHREUBGS": "implication", // (useful!) misstroke for "complication"
@@ -848,6 +852,10 @@
     "SKPEPBD": "expend", // give up "end and" (use TPH-D for "end")
     "SKPEPBS": "expense",
     "SKPHREUFT": "explicit",
+    "SKPHROED": "explode",
+    "SKPHROETD": "exploded",
+    "SKPHROEGS": "explosion",
+    "SKPHROES/EUF": "explosive", // cf. SPHROES/EUF
     "SKPOES": "expose",  // a nice trio:
                          // SPOES  "suppose"
                          // KPOES  "compose"
