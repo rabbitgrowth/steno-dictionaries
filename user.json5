@@ -1264,6 +1264,7 @@
     "SKOLGS": "psychologist",   // "psychologies" is too rare
     "REUPBD": "remind",         // like HEUPBD "behind"
     "REURPBD": "reminder",
+    "ROEUT": "riot",            // use RAOEUT or -RT for "right"
     "ROPBT": "rotten",
     "STOEPBL": "stolen",
     "T-FGS": "television",
