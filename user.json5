@@ -115,6 +115,7 @@
     "STEUFBG": "scientific",    // with STEUFT "scientist"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
     "SEURPB": "sinner",         // with TKEURPB "dinner", WEURPB "winner"
+    "UFT": "unfortunate",       // with UFL "unfortunately"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
 
