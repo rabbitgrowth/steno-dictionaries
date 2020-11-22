@@ -1348,6 +1348,7 @@
     "RE/SKWRAOUF": "rejuvenate",
     "RE/SKWRAOUFGS": "rejuvenation",
     "TPHAR": "narrow",
+    "TPHARL": "narrowly", // use TPHARLT for "natural"
     "POEPB": "pony",
     "KWARPB": "quarantine",
     "SERBG": "secretary", // from my SERBG/TREU
