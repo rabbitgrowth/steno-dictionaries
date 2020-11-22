@@ -2276,7 +2276,9 @@
     "AGT/SEUS": "agencies",
     "AL/PWAOEUS": "alibis",
     "APB/HREUFTS": "analysts",
+    "PWEL/HROES": "bellows",
     "PWEPB/TPEURBS": "beneficiaries", // just add -S instead of KWRAERS
+    "PWEUL/HROES": "billows",
     "KPHAS": "commas", // use KP/PHAS for "Xmas"
     "KAUPB/SKWREBG/TAOURS": "conjectures",
     "TKEUPL/PHATS": "diplomats",
