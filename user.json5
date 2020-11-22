@@ -2342,6 +2342,8 @@
     "A/SRAEULD": "availed",
     "A/SRAEULG": "availing",
     "A/SRAEULS": "avails",
+    "PW*PBD": "buttoned",  // use PWA*PBD/AEUD for "Band-Aid"
+    "PW*PBG": "buttoning", // give up "!!Con" (tech conference Mirabai captions for)
     "KHA*PL/KWROPBD": "championed",
     "KHA*PL/KWROPBG": "championing",
     "KHAPL/KWROPBD": "championed", // Plover allows dropping *:
@@ -2508,6 +2510,7 @@
     "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
 
     // Don't capitalize by default
+    "PWAPBD/AEUD": "band-aid",
     "KORPBG": "congress",
     "KO*RPBG": "Congress",
     "KAUPB/TKPWRES": "congress",
