@@ -2937,6 +2937,12 @@
     // "Republican and Democratic" RUP/SKP/TK*EPL/EUBG
     // For "Dem" as in "the Dems" or "a Dem voter", use the hacky KPA/TH*EPL.
 
+    // -- Fiction --------------------------------------------------------------
+
+    // Harry Potter
+    "TKUFRBL/TKOR": "Dumbledore", // with O instead of OE
+    "HOG/WARTS": "Hogwarts",
+
     // -- Miscellaneous --------------------------------------------------------
 
     // Don't hyphenate
