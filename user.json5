@@ -2562,6 +2562,7 @@
     // Missing words
     "ART/SEU/TPART/SEU": "artsy-fartsy",
     "KAUPB/SAOERL": "concealer",
+    "TKO*PB": "don", // prepend KPA* for "Don"
     "TRAORP": "trooper",
 
     // Current words
