@@ -187,6 +187,8 @@
     "SR*ERPBD": "surrender", // starless is "vendor"
     "T*ERS": "terrace", // starless is "terse"
     "TREFPS": "treacherous",
+    "TROEL": "troll", // use PROL for "patrol"
+    "TROELS": "trolls",
     "UPB/TPERTD": "unfettered",
     "SRAPBL/TAOEUPB": "valentine",
     "SRAOEPBG": "vegan",
