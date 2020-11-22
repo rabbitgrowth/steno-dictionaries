@@ -865,10 +865,10 @@
     "SKPHROETD": "exploded",
     "SKPHROEGS": "explosion",
     "SKPHROES/EUF": "explosive", // cf. SPHROES/EUF
-    "SKPOES": "expose",  // a nice trio:
-                         // SPOES  "suppose"
-                         // KPOES  "compose"
-                         // SKPOES "expose"
+    "SKPOES": "expose", // a nice trio:
+                        // SPOES  "suppose"
+                        // KPOES  "compose"
+                        // SKPOES "expose"
     "SKPOEFD": "exposed",
     "SKPOEFR": "exposure", // give up "over and"
                            // (which could just as validly be "and over":
