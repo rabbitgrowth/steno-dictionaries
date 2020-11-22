@@ -2577,6 +2577,7 @@
     "KAUPB/SAOERL": "concealer",
     "TKO*PB": "don", // prepend KPA* for "Don"
     "TRAORP": "trooper",
+    "SR*EUZ": "viz.", // starless is "advise"
 
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
