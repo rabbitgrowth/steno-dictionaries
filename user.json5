@@ -81,6 +81,7 @@
                                 //   use KRET/-BL for "creditable"
     "TPEURBS": "efficiency",    // with TPEURBT "efficient"
                                 //   use -Z for "fishes", which is rare anyway
+    "KPES/EUF": "excessive",    // with KPES/EUFL "excessively"
     "KP-PGS": "expectation",    // with KP-PT "expect"
     "KPR*ES": "express",        // with KPR*EGS "expression"
     "KPR*EFG": "expressing",
