@@ -256,14 +256,14 @@
 
     // Use simpler vowel
     // Precedents: TREU "try", THRE "three"
-    "PWHREUPBD": "blind", // vs PWHRAOEUPBD
-    "TPRE": "free",       // vs TPRAOE
-    "TKPWREPB": "green",  // vs TKPWRAOEPB
-    "PHEUPBD": "mind",    // vs PHAOEUPBD
-    "STRET": "street",    // vs STRAOET
+    "PWHREUPBD": "blind", // add TKA for "Belinda"
+    "TPRE": "free",
+    "TKPWREPB": "green",
+    "PHEUPBD": "mind",
+    "STRET": "street",
     "STR*ET": "{*-|}Street",
-    "SWER": "swear",      // vs SWAER
-    "THOT": "thought",    // vs THAUT
+    "SWER": "swear",
+    "THOT": "thought",
 
     // -- Sound mashing --------------------------------------------------------
 
