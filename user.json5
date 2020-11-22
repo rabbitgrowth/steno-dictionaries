@@ -2361,6 +2361,7 @@
     "KAUPB/SAOELS": "conceals",
     "KAUPB/TPEFD": "confessed",
     "KAUPB/TPEFG": "confessing",
+    "TKRETD": "directed", // give up "indirect credit"
     "EPB/HAFPBD": "enhanced",
     "EPB/HAPBGS": "enhancing",
     "ES/KHRAEUTD": "escalated",
