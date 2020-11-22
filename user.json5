@@ -860,6 +860,8 @@
     "SKPAPBGS": "expansion",
     "SKPEPBD": "expend", // give up "end and" (use TPH-D for "end")
     "SKPEPBS": "expense",
+    "SKPAOERPBS": "experience",
+    "SKPAOERPBD": "experienced", // cf. SPAOERPBD
     "SKPHREUFT": "explicit",
     "SKPHROED": "explode",
     "SKPHROETD": "exploded",
