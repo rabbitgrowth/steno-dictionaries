@@ -2286,6 +2286,8 @@
     "PWEUL/HROES": "billows",
     "KPHAS": "commas", // use KP/PHAS for "Xmas"
     "KAUPB/SKWREBG/TAOURS": "conjectures",
+    "KRABGS": "cracks", // use KR*BGS for "contraction",
+                        // which feels consistent with KR-T "contract"
     "TKEUPL/PHATS": "diplomats",
     "TKOPL/TPHOES": "dominoes",
     "TKROP/HRETS": "droplets",
