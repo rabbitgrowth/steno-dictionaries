@@ -2381,6 +2381,7 @@
     "PUPBGT/WAEUTD": "punctuated",
     "PUPBGT/WAEUGT": "punctuating",
     "REBG/KOPBG": "reckoning",
+    "RE/TPERD": "referred", // alternative to REFRD
     "RE/HRAEUD": "relayed",
     "RE/SEUFTD": "resisted",
     "RE/SEUFTS": "resists",
