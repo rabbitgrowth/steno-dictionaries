@@ -257,7 +257,9 @@
 
     // Use simpler vowel
     // Precedents: TREU "try", THRE "three"
-    "PWHREUPBD": "blind", // add TKA for "Belinda"
+    "PWHREUPBD": "blind",        // add TKA for "Belinda", or use ...
+    "PWHREUPB/TKA": "Belinda",   // cf. SPHREPB/TKA   "Splenda"
+    "PWHREUPBD/KWRA": "Belinda", //     SPHREPBD/KWRA
     "TPRE": "free",
     "TKPWREPB": "green",
     "PHEUPBD": "mind",
