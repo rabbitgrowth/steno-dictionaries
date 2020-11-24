@@ -265,6 +265,11 @@
     "STR*ET": "{*-|}Street",
     "SWER": "swear",
     "THOT": "thought",
+    "TRE": "tree", // TRES rightfully belongs to "tress", so I'd have to use
+                   // -Z for "trees", which happens to be nicely consistent
+                   // with the "EZ for -eeze" pattern:
+                   // TPRE  "free"    TRE  "tree"
+                   // TPREZ "freeze"  TREZ "trees"
 
     // -- Sound mashing --------------------------------------------------------
 
