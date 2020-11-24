@@ -447,6 +447,20 @@
     "HRAURPBD": "laundry",
     "STURD": "sturdy",
 
+    // -- Drop final schwa -----------------------------------------------------
+
+    "HOR": "horror",
+    "TER": "terror",
+    // By the same logic "error" should be ER,
+    // but ER is more useful as {^er}.
+
+    "KRAOE": "Korea", // consistent with KRAOEPB "Korean"
+                      // overrides "CEO"
+    "SOUT/KRAOE": "South Korea", // allow dropping *
+    "TPHORT/KRAOE": "North Korea",
+    "SAOE/OE": "CEO", // also used by Plover-Trillo
+    "SAOE/OES": "CEOs",
+
     // -- Joining and splitting ------------------------------------------------
 
     // Compound words
@@ -2908,12 +2922,6 @@
     "PROELS": "proposal", // PROEFL is "profile"
 
     // -- Topics ---------------------------------------------------------------
-
-    // Fear
-    "HOR": "horror", // drop the final schwa
-    "TER": "terror",
-    // By the same logic "error" should be ER,
-    // but ER is more useful as {^er}.
 
     // Sign
     // I like the O-E symmetry.
