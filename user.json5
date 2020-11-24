@@ -1622,7 +1622,7 @@
     "W-FPLT": "we must",  // overrides "www."
     "THEFPLT": "they must",
     "W-S": "{>}www.{^}",  // give up {^s with}
-                          // nicely symmetric with KROPL {^.com}
+                          // nicely symmetrical with KROPL {^.com}
                           // in the absence of . in the stroke
                           // (mnemonic: "(three) Ws")
 
