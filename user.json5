@@ -460,6 +460,7 @@
 
     "HOR": "horror",
     "TER": "terror",
+    "PHEUR": "mirror",
     // By the same logic "error" should be ER,
     // but ER is more useful as {^er}.
 
