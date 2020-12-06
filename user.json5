@@ -291,6 +291,9 @@
     "TAOERGS": "deterioration",
     "SKHAOU": "eschew",
     "SKHAOUL": "eschewal",
+    "AOEFPL": "eventual", // ERBL doesn't make phonetic sense and
+                          // EFPBL is a bit awkward to press
+    "HRAOEFPL": "eventually",
     "SPHRORGS": "exploration",
     "TPREFT": "forest",
     "TKPWARPB": "garden",
@@ -682,7 +685,6 @@
     // ... or use HR if -L is already used
     "KHR-RBL": "considerably",
     "SHRERBL": "essentially",
-    "HRERBL": "eventually",
     "TPHRUL": "fully", // for consistency with TPUL "full"
                        // use TP*UL for "fundamental"
     "TPHR*UL": "fundamentally",
