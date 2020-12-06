@@ -1349,6 +1349,7 @@
 
     "-PLT": "{^ment}", // use TP-PL for {.}
     "PRE/TKEUBG/-PLT": "predicament",
+    "SEPBT/-PLT": "sentiment",
 
     "PAEUT": "participate", // partici[pate] or [p]articip[ate]
     "PA*EUT": "pate",
