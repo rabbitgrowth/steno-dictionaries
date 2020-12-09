@@ -1403,6 +1403,8 @@
     // "I'm"        AOEUPL already works
     "AOEUPLT": "I'm the", // overrides "item"
     "TEPL": "item",
+    "TEPLS": "items", // add * for "Thames"
+    "TEPL/-S": "items",
     "KWR-FS": "I was", // prefer KWR as "I", so give up "why was" here;
                        // but KWR-S is "why is", since "I is" is impossible
     "KWR-FTS": "I was the",
