@@ -1043,7 +1043,9 @@
     "KREZ": "increase",
     "SKREZ": "decrease",
 
-    // -F for -s-
+    // -F for -s- or -z-
+    "AP/TAOEUFR": "appetizer",
+    "RA*EUFR": "razor", // starless is "racer" (-s- is default)
     "AOUFR": "user", // use AUFR for {over^}
     "WAOEUFR": "wiser",
 
