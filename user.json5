@@ -172,7 +172,6 @@
     "ORPB/TAEUGS": "orientation",
     "PAPL/TAEUT": "palpitate",
     "PEFRT": "pester", // use P-F for "perfect"
-    "TPRAEUFL": "phrasal",
     "SPES": "possess", // invert S and P
                        // allows one-stroking "possesses" unlike the standard PESZ
     "PROP/TKPWAPB/TKEUFT": "propagandist", // alternative to PROP/TKPWAPBD/EUFT
@@ -2616,6 +2615,7 @@
     "ART/SEU/TPART/SEU": "artsy-fartsy",
     "KAUPB/SAOERL": "concealer",
     "TKO*PB": "don", // prepend KPA* for "Don"
+    "TPRAEUFL": "phrasal",
     "TRAORP": "trooper",
     "SR*EUZ": "viz.", // starless is "advise"
 
