@@ -889,6 +889,7 @@
     "SKPEPBS": "expense",
     "SKPAOERPBS": "experience",
     "SKPAOERPBD": "experienced", // cf. SPAOERPBD
+    "SKPAOEUR": "expire",
     "SKPHREUFT": "explicit",
     "SKPHROED": "explode",
     "SKPHROETD": "exploded",
