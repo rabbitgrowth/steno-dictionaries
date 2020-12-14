@@ -2803,6 +2803,12 @@
 
     // -- Ergonomics -----------------------------------------------------------
 
+    // Avoid -PBT at all costs
+    "TKOEPT": "don't",
+    "TKOPT": "doesn't", // overrides "adopt"
+    "TKAOPT": "adopt",
+    "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
+
     // A more ergonomic "end"
     "TPH-D": "end",     // pronounce the TPH: "N'd"
                         // easier to hit than EPBD
