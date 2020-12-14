@@ -474,6 +474,12 @@
     "SAOE/OE": "CEO", // also used by Plover-Trillo
     "SAOE/OES": "CEOs",
 
+    // -- Homophones -----------------------------------------------------------
+
+                        // Frequency on COCA:
+    "SWAEUD": "swayed", // 3003
+    "SWA*EUD": "suede", // 1312
+
     // -- Joining and splitting ------------------------------------------------
 
     // Compound words
@@ -3175,6 +3181,7 @@
     "RAOEUFLS/H-F": "rivals",
     "ROEPL/H-F": "Rome",            // from "roam"
     "SAOEUD/H-F": "sighed",         // from "side"
+    "SWAEUD/H-F": "suede",          // from "swayed"
     "TAOEUD/H-F": "tied",           // from "tide"
 
     // Forgetting to use -Z instead of -S
