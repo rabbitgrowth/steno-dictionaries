@@ -39,8 +39,9 @@
                           // PREPBS "presence"
                           // PREPBT "present"
     "HR-BG": "like", // use WELG for "welcome"
-    "HR-BGT": "like the",
+    "HR-BGS": "likes",
     "HR-BGD": "liked",
+    "HR-BGT": "like the",
     "HR-LG": "likely", // overrides {^ological}
     "HR*LG": "{^ological}",
     "SHR-BG": "unlike", // S for negation
