@@ -2804,6 +2804,9 @@
     // -- Ergonomics -----------------------------------------------------------
 
     // Avoid -PBT at all costs
+    // Precedents: "isn't" S-PT, "want" WAPT
+    // (although these are probably just misstrokes,
+    //  not deliberate attempts to avoid -PBT)
     "TKOEPT": "don't",
     "TKOPT": "doesn't", // overrides "adopt"
     "TKAOPT": "adopt",
