@@ -306,6 +306,8 @@
     "HOLDZ": "holidays",
     "TPHREPBZ": "influenza",
     "PHELG": "medical", // "mecal"
+    "POERBL": "potential",
+    "PHROERBL": "potentially",
     "PREFT": "protest", // give up "previous to"
     "PREFRT": "protester",
     "TPHRET": "reflect", // misstroke for "net"
