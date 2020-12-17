@@ -2636,6 +2636,7 @@
     "TKO*PB": "don", // prepend KPA* for "Don"
     "TPRAEUFL": "phrasal",
     "TRAORP": "trooper",
+    "WAOERG": "Uighur", // use W*R for "we're"
     "SR*EUZ": "viz.", // starless is "advise"
 
     // Current words
