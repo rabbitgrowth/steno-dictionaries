@@ -286,6 +286,8 @@
     "STORB": "astonish",
     "STORBG": "astonishing", // overrides "stork" (a bird)
     "STO*RBG": "stork",      // give up "State of New York"
+    "AUBG": "automatic", // overrides "awk" (informal "awkward")
+    "A*UBG": "awk",      // give up "AUC"
     "KPRA*EUPBS": "contemporaneous", // starless is "extraneous"
                                      // the standard KPRA*EURPBS minus -R
     "KURPB": "curtain",
@@ -711,6 +713,7 @@
 
     // -LG for -kly
     // Precedent: KWEULG "quickly"
+    "AULG": "automatically",  // auk  -> aukl  (see AUBG "automatic")
     "TKRALG": "dramatically", // drak -> drakl
     "PHREULG": "publicly",    // plik -> plikl
 
@@ -1381,7 +1384,6 @@
 
     // Precedents: TPEUS "physical", PED "pedestrian"
     "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
-    "AUPL": "automatic",
     "AOEG": "ego",
     "SKWREP": "jeopardy",
     "SKWREP/AOEUZ": "jeopardize", // alternative to SKWREP/TKAOEUZ
