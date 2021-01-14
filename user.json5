@@ -269,6 +269,7 @@
     "TKPWREPB": "green",
     "PHEUPBD": "mind",
     "SHREP": "sleep",
+    "SHRAEP": "asleep",
     "STRET": "street",
     "STR*ET": "{*-|}Street",
     "SWER": "swear",
