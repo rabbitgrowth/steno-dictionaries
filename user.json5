@@ -789,6 +789,8 @@
     // KPW for imp-, imb-, emp-, and emb-
     // (borrowed from Magnum)
     "KPWABGT": "impact",
+    "KPWAOEFP": "impeach",
+    "KPWAOEFPLT": "impeachment", // cf. EUPL/PAOEFPLT
     "KPWAOED": "impede",
     "KPWAOETD": "impeded",
     "KPWED/-PLT": "impediment",
