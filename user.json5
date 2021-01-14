@@ -3247,6 +3247,7 @@
     "SUGS/H-F": "suggests",         // from "suggestion"
     "SPHRAOEUS/H-F": "supplies",    // from "splice"
     "TERS/H-F": "terrors",          // from "terse"
+    "TRABGS/H-F": "tracks",         // from "traction"
     "WEUPBS/H-F": "wins",           // from "wince"
 
     "PWAOEUS/H-F": "buys",          // from "bias"        (custom)
