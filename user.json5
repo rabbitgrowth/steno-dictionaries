@@ -1550,7 +1550,7 @@
     // "could I"  KOEU is "coy"
     // "shall I"  just use SHAL/EU
     // "should I" SHOEU already works
-    // "will I"   HREU {^ly} feels too canonical to override
+    "HREU": "will I",  // use -L for {^ly}
     "WOEU": "would I", // by default "I would"
     "EUD": "idea", // "I-D"
                    // overrides "id" (psychoanalysis term)
