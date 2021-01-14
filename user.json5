@@ -1087,6 +1087,10 @@
     // It's a bit tempting to assign URT to "utter",
     // but "you're the" is too useful to give up.
 
+    // -FR for -sure
+    "PHEFR": "measure",
+    "PHREFR": "pleasure",
+
     // -RT for -ture
     "KAUPB/SKWRERBGT": "conjecture",
     "TPAOERT": "feature", // alternative to TPAOEFP
@@ -1327,6 +1331,7 @@
     "SKWRUF": "justify",        // cf. SKWRUFGS "justification"
     "HRAED": "lady",            // use HRAOED for "lead" (even when pronounced /lɛd/)
     "HRAEDZ": "ladies",
+    "HRERB": "leisure",
     "PHOEUD": "media",          // use PHROEUD for "employed"
     "PHAOUPLT": "municipality",
     "TPOPB": "phenomenon",      // give up "phon" (unit of loudness)
