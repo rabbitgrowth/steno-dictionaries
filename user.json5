@@ -210,6 +210,7 @@
     "S*ELS": "zealous", // use SELS for "sells"
 
     // Phonetic alternatives to briefs
+    "KAUPB/TKURBGT": "conductor", // to KURBGT
     "KUFPB": "cousin",            // to KUZ
     "TKEUPL/TPHEURB": "diminish", // to TKPHEURB
     "TKEUS/SPEURT": "dispirit",   // to STKPEURT
