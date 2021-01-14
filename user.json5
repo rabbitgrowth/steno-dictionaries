@@ -834,7 +834,7 @@
     "STKPHREURPB": "disciplinary", // fold in -R for -ry
     "STKHROES": "disclose",
     "STKHROEFD": "disclosed",
-    "STKHROERS": "disclosure", // too much going on?
+    "STKHROEFR": "disclosure",
     "STKEBGT": "disconnect",    // cf. KEBGT "connect"
     "STKEBGS": "disconnection", // cf. KEBGS "connection"
     "STKORPBLG": "discourage",
@@ -864,7 +864,7 @@
     "STKPHRAEUPLT": "displacement",  // cf. PHRAEUPLT  "placement"
     "STKPHRAEUFPLT": "displacement", // cf. PHRAEUFPLT "placement"
     "STKPHRAOES": "displease",
-    "STKPHRERB": "displeasure", // cf. PHRERB "pleasure"
+    "STKPHREFR": "displeasure",
     "STKPOEFBL": "disposable", // for consistency with "dispose", "disposal"
                                // or just use TKOEBL
     "STKPOEFD": "disposed",
@@ -925,7 +925,6 @@
                            // (which could just as validly be "and over":
                            //  OVER AND  41192
                            //  AND OVER  29031)
-    "SKPOERB": "exposure", // cf. SPOERB
     "SKPRES": "express", // another nice trio:
                          // SPRES  "suppress"
                          // KPRES  "compress"
