@@ -1095,6 +1095,10 @@
     "THREPBG": "threatening",
     "THREPBD": "threatened",
 
+    // -FR for -m-
+    "PWRAFRBL": "bramble",
+    "KHRUFRB/KWRA": "Columbia",
+
     // -FR for -sure
     "PHEFR": "measure",
     "PHREFR": "pleasure",
