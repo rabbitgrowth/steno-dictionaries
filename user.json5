@@ -1071,6 +1071,17 @@
     "KREZ": "increase",
     "SKREZ": "decrease",
 
+    // URT for -utter
+    "PWURT": "butter", // overrides "Burt"
+    "PW*URT": "Burt",
+    "PWURT/TPHRAOEU": "butterfly",
+    "KHRURT": "clutter",
+    "TPHRURT": "flutter",
+    "TKPWURT": "gutter",
+    "PHURT": "mutter",
+    // It's a bit tempting to assign URT to "utter",
+    // but "you're the" is too useful to give up.
+
     // -F for -s- or -z-
     "AP/TAOEUFR": "appetizer",
     "RA*EUFR": "razor", // starless is "racer" (-s- is default)
@@ -1083,17 +1094,6 @@
     "THREPB": "threaten", // threa(glottal stop)en
     "THREPBG": "threatening",
     "THREPBD": "threatened",
-
-    // URT for -utter
-    "PWURT": "butter", // overrides "Burt"
-    "PW*URT": "Burt",
-    "PWURT/TPHRAOEU": "butterfly",
-    "KHRURT": "clutter",
-    "TPHRURT": "flutter",
-    "TKPWURT": "gutter",
-    "PHURT": "mutter",
-    // It's a bit tempting to assign URT to "utter",
-    // but "you're the" is too useful to give up.
 
     // -FR for -sure
     "PHEFR": "measure",
