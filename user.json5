@@ -2841,6 +2841,20 @@
     "TKAOPT": "adopt",
     "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
 
+    "AUPT": "aunt",
+    "KOUPT": "count", // "could want" could be KOPT
+    "KURPT": "current",
+    "EFPT": "event",
+    "SKWRAOEUPT": "giant",
+    "HUPT": "hunt",
+    "SKWROEUPT": "joint",
+    "PHRAPT": "plant",
+    "PREUPT": "print",
+    "RAOEPT": "recent", // use PRAOET for "repeat"
+    "SPEPT": "spent",
+    "W-PT": "went", // WEPT is "wept";
+                    // vowel-dropping nicely consistent with TKPW "go"
+
     // A more ergonomic "end"
     "TPH-D": "end",     // pronounce the TPH: "N'd"
                         // easier to hit than EPBD
