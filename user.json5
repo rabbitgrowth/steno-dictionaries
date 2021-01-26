@@ -107,6 +107,8 @@
     "HR-PBD": "listened",
     "HR-RPB": "listener",
     "PHEL/TKROEUPL": "melodrama", // with TKROEUPL "drama"
+    "TPH-LGS": "national",        // with TPH-GS "nation"
+                                  //   or just use TPHAT
     "TPHAOERB": "nearby",         // with TPHAOER "near"
                                   //   instead of TPHAERB; use TPHEURB for "niche"
     "TPHORBG": "New York",        // with TPHORBG/TAOEUPLS "New York Times"
