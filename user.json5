@@ -914,6 +914,7 @@
 
     // SKP- for exp-
     "SKPAPBD": "expand",
+    "SKPAPBS": "expanse", // and get "expansive" SKPAPBS/EUF for free
     "SKPAPBGS": "expansion",
     "SKPEPBD": "expend", // give up "end and" (use TPH-D for "end")
     "SKPEPBS": "expense",
