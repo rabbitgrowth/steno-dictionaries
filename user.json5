@@ -1995,6 +1995,13 @@
     "PWHOR": "people who are",
     "TPO": "people to",
 
+    "TWOP": "two people",
+    "THRAOEP": "three people",
+    "THREP": "three people",
+    "TPOURP": "four people",
+    "TPAOEUFP": "five people",
+    "TPEUFP": "five people",
+
     // "and" stacking
     // SKP is just begging to be stacked.
     // Look at this sea of possibilities:
