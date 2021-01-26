@@ -2460,6 +2460,8 @@
     "EPB/HAPBGS": "enhancing",
     "ES/KHRAEUTD": "escalated",
     "ES/KHRAEUGT": "escalating",
+    "TPRABG/TAOURD": "fractured",  // or use TPRAFPD
+    "TPRABG/TAOURG": "fracturing", //        TPRAFPG
     "SPWOBGS/KAEUGT": "intoxicating",
     "HREUB/RAEUGT": "liberating",
     "OP/PREFD": "oppressed",
@@ -2504,6 +2506,7 @@
     "KHOEG": "choking",
     "KHREUG": "clicking",
     "TPAEUG": "faking",
+    "TPRAG": "fracking",
     "TPUG": "fucking",
     "TP*UG": "fug",
     "KEUG": "kicking",
