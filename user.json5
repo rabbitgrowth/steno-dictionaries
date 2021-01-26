@@ -1160,6 +1160,15 @@
     "TKPWOEPB": "golden",
     "OEPBLD": "olden", // OEPB is "own"
 
+    // -LG for -lic
+    // Precedents: KHOLG "alcoholic", PHET/PWOLG "metabolic"
+    "APB/SKWRELG": "angelic",
+    "HAOEU/TKRAULG": "hydraulic",
+    "HAOEURP/PWOLG": "hyperbolic",
+    "AOEU/TKEULG": "idyllic",
+    "SAOEUBG/TKELG": "psychedelic",
+    "WORBG/HOLG": "workaholic",
+
     // -LG for -ctly
     // Precedents: TKRELG "directly"  (/dɪˈrɛkli/)
     //             KRELG  "correctly" (/kəˈrɛkli/)
