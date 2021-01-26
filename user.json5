@@ -2875,6 +2875,11 @@
     "W-PT": "went", // WEPT is "wept";
                     // vowel-dropping nicely consistent with TKPW "go"
 
+    // Drop -B in -PBD for -nd
+    "ROUPD": "round",
+    "SOUPD": "sound",
+    "WEUPD": "wind",
+
     // A more ergonomic "end"
     "TPH-D": "end",     // pronounce the TPH: "N'd"
                         // easier to hit than EPBD
