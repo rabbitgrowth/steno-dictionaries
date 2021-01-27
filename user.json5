@@ -588,6 +588,7 @@
     "PHAEPBD": "amend",
     "RAEFT": "arrest",
     "SAEPBD": "ascend", // "scened" is too rare
+    "SAEFRBL": "assemble", // with -FR for -m-
     "SAEPL/-BL": "assemble",
     "SAEPL/PWHRER": "assembler",
     "SAEPL/PWHREU": "assembly",
