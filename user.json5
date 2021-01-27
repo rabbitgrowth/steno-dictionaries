@@ -642,6 +642,9 @@
                              // "broider" is an archaic form of "embroider"
     "TPAEURPBT": "fainter",
     "SKWRAEURT": "generator",
+    "TKPWOFRPB": "governor",  // use TKPWOFPB for "govern";
+                              // the "r" is not pronounced anyway
+    "TKPWO*FRPB": "Governor", // add * to capitalize
     "PHAOERG": "meager",
     "PAEURPBT": "painter", // use PARPBT for "parent"
     "PAEURPBTS": "painters",
@@ -656,7 +659,6 @@
 
     // ... or use R if -R is already used
     // Precedents: TPRORPL "former", RERL "earlier"
-    "TKPWROFRPB": "governor",
     "PHROURPB": "mourner",
     "PHRURD": "murderer",
     "RORP": "reporter",   // embrace ORP
@@ -2651,7 +2653,6 @@
     // For multistroke words, the first syllable is starred:
     //   PEPBT/TKPWOPB "Pentagon"  P*EPBT/TKPWOPB "Pentagon"
     //   HAPL/HRET "Hamlet"        HA*PL/HRET "Hamlet"
-    "TKPWRO*FRPB": "Governor",
     "SKWR*UFS": "Justice",
     "PA*ERT": "Party",
 
