@@ -588,7 +588,7 @@
     "PHAEPBD": "amend",
     "RAEFT": "arrest",
     "SAEPBD": "ascend", // "scened" is too rare
-    "SAEFRBL": "assemble", // with -FR for -m-
+    "SAEFRBL": "assemble",
     "SAEPL/-BL": "assemble",
     "SAEPL/PWHRER": "assembler",
     "SAEPL/PWHREU": "assembly",
@@ -1031,6 +1031,7 @@
     "TPRAOUFD": "refused",
     "TPRAOUFG": "refusing", // TPRAOUGS is "fruition"
     "TPRAOULS": "refusal",  // TPRAOUFL is "fruitful"
+    "SREFRBL": "resemble",
     "SREPL/-BL": "resemble",
     "SREPL/PWHRAPBS": "resemblance",
     "SREUFT": "resist", // use SREUT for "visit"
