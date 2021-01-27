@@ -3261,6 +3261,7 @@
     "ADZ/H-F": "ads",
     "PWAPBD/H-F": "banned",         // from "band"
     "PWARD/H-F": "barred",          // from "bard"
+    "PWORD/H-F": "board",           // from "bored"
     "PWRAOEFP/H-F": "breach",       // from "breech"
     "AOEUD/H-F": "eyed",            // from "I'd"
     "TPHROUR/H-F": "flour",         // from "flower" (custom)
