@@ -336,7 +336,7 @@
     "TPHOEPBS": "known as",
     "HREPL": "let me",
     "PHAEUPLS": "my name is", // use -Z for "maims"
-    "TPHUGS": "no such thing as", // with my T-G "thing" superimposed on TPH
+    "TPHUGS": "no such thing as", // TPHU + T-G "thing" (custom) + S
     "WURPB": "one another",
     "WUF": "one of", // like OUF "out of"
     "WUFT": "one of the",
@@ -350,10 +350,10 @@
     "WHOEFLT": "whole lot of",
     "WHAOELT": "a whole lot",
     "WHAOEFLT": "a whole lot of",
-    "WH-G": "whole thing", // combined with my T-G "thing"
+    "WH-G": "whole thing", // like T-G "thing" (custom)
     "WHUFRPB": "whole bunch",
     "WHAOEUD": "whole idea", // bizarre misstroke for "wide"
-                             // WHEUD (with my EUD "idea") is "when I had"
+                             // WHEUD (with the custom EUD "idea") is "when I had"
     "WHAOEUF": "whole life",
     "WHOEUPBT": "whole point",
     "WHAOEUPL": "whole time",
@@ -502,7 +502,7 @@
     "PWAPBD/HRAOERD": "bandleader",
     "PWAPBD/HRAOERDZ": "bandleaders",
     "PWAR/TERPBD": "bartender",
-    "PW-Z/PWOD": "busybody", // with my PWOD "body" ("B-Z-bo-D")
+    "PW-Z/PWOD": "busybody", // with PWOD "body" (custom); "B-Z-bo-D"
     "KHOEBG/HOELD": "chokehold",
     "KHOEBG/HOELDZ": "chokeholds",
     "KROS/WORD": "crossword",
@@ -1874,7 +1874,7 @@
     "TOFS": "was to",
     "TOFBS": "was to be",
     "TOFBTS": "was to be the", // requires finger twisting
-    "STKWRO": "just to", // with my SKWR "just"
+    "STKWRO": "just to", // from SKWR "just" (custom)
     "STKWROB": "just to be",
     "STKWROT": "just to the", // ("just to the right of the...")
     "STKWROBT": "just to be the",
