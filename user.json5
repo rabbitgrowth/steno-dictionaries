@@ -1103,6 +1103,10 @@
 
     // -FR for -m-
     "PWRAFRBL": "bramble",
+    "TKPWAFRBL": "gamble",
+    "SKRAFRBL": "scramble",
+    "STUFRBL": "stumble",
+
     "KHRUFRB/KWRA": "Columbia",
 
     // -FR for -sure
