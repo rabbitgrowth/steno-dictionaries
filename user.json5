@@ -1042,6 +1042,7 @@
     "SREUFT": "resist", // use SREUT for "visit"
     "SREUFPBS": "resistance", // or just use REUFPBS
     "SREUFPBT": "resistant",  //             REUFPBT
+    "SREUFTD": "resisted",
 
     // REU for -ary, -ery, and -ory
     // It's probably more "correct" to use prefixes like AER {^ary} and
