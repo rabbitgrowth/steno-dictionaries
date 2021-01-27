@@ -738,6 +738,7 @@
     // Fold in -LS for -less
     "PWOEPBLS": "boneless",
     "KARBLS": "cashless",
+    "HEPLS": "helpless",
     "SKWROBLS": "jobless",
     "HRAOEUFLS": "lifeless",
     "SHRAOEPLS": "sleepless",
@@ -3317,6 +3318,7 @@
     "TPHRAEUBGS/H-F": "flakes",     // from "affliction"  (custom)
     "TPREBGS/H-F": "frequents",     // from "for example" (custom)
     "SKWRELS/H-F": "gels",          // from "jealous"     (custom)
+    "HEPLS/H-F": "hems",            // from "helpless"    (custom)
     "TPHOEPBS/H-F": "knowns",       // from "known as"    (custom)
     "PHAEUPLS/H-F": "maims",        // from "my name is"  (custom)
     "SAES/H-F": "seas",             // from "assess"      (custom)
