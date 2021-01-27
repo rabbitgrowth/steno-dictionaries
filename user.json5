@@ -2658,6 +2658,11 @@
     "SKWR*UFS": "Justice",
     "PA*ERT": "Party",
 
+    // -- Honorifics -----------------------------------------------------------
+
+    "TK-R": "Dr.{-|}",    // misstroke for dash (--)
+    "TKPWOF": "Gov.{-|}", // give up "gov"
+
     // -- Abbreviations --------------------------------------------------------
 
     // Non-steno abbreviations
