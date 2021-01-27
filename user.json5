@@ -333,6 +333,7 @@
     "THRAFT": "at last", // cf. THRAOEFT "at least"
     "AOEFRP": "each other",
     "TKPWOEPL": "go home",
+    "TPHOEPBS": "known as",
     "HREPL": "let me",
     "PHAEUPLS": "my name is", // use -Z for "maims"
     "TPHUGS": "no such thing as", // with my T-G "thing" superimposed on TPH
@@ -3313,6 +3314,7 @@
     "TPHRAEUBGS/H-F": "flakes",     // from "affliction"  (custom)
     "TPREBGS/H-F": "frequents",     // from "for example" (custom)
     "SKWRELS/H-F": "gels",          // from "jealous"     (custom)
+    "TPHOEPBS/H-F": "knowns",       // from "known as"    (custom)
     "PHAEUPLS/H-F": "maims",        // from "my name is"  (custom)
     "SAES/H-F": "seas",             // from "assess"      (custom)
     "SREUBG/TORS/H-F": "victors",   // from "victorious"  (custom)
