@@ -13,11 +13,10 @@
     "TK-FT": "different",
     "-FD": "find",
     "T-FD": "find it",
-    "TP-D": "found", // give up "pharmacodynamic"
     "TP-RB": "finish", // cf. P-RB "punish"
-    "TPR-D": "friend", // misstroke for "interested"
-    "TPR-DZ": "friends",
-    "TPR-LD": "friendly",
+    "TP-D": "friend", // give up "pharmacodynamic"
+    "TP-DZ": "friends",
+    "TP-LD": "friendly",
     "SKWR-PL": "gentleman",
     "SKWR-PLS": "gentlemen",
     "SKWR-PL/-S": "gentlemen",
@@ -2898,6 +2897,7 @@
                     // vowel-dropping nicely consistent with TKPW "go"
 
     // Drop -B in -PBD for -nd
+    "TPOUPD": "found",
     "ROUPD": "round",
     "SOUPD": "sound",
     "WEUPD": "wind",
