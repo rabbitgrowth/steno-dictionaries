@@ -2899,6 +2899,7 @@
 
     // Drop -B in -PBD for -nd
     "TPOUPD": "found",
+    "TPUPD": "fund",
     "ROUPD": "round",
     "SOUPD": "sound",
     "WEUPD": "wind",
