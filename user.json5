@@ -193,6 +193,8 @@
     "STRAOEUTD": "strident",
     "SPRAOEUGS": "surprising", // instead of "surprisings"
     "SR*ERPBD": "surrender", // starless is "vendor"
+    "T*EPBT": "tenth",   // overrides "entity"
+    "EPBT/-T": "entity", // or use the more normal EPBT/TEU
     "T*ERS": "terrace", // starless is "terse"
     "TREFPS": "treacherous",
     "TROEL": "troll", // use PROL for "patrol"
