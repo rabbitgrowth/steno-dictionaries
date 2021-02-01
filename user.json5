@@ -428,10 +428,11 @@
     // Extend "many" rule
     // We have PHAEPB "many"   = MAEN = MANE = man-E.
     // Why not SRAEL  "valley" = VAEL = VALE = val-E?
-    "TKPWOER": "gory", // compare TKPWHROER "glory"
-                       // use TKPWOR for "gore"
+    "TKPWOER": "gory",  // compare TKPWHROER "glory"
+                        // use TKPWOR for "gore"
     "HOEB": "hobby",
-    "SRAEL": "valley", // overrides "vale"
+    "PROEBGS": "proxy", // use PREBGS for "protection"
+    "SRAEL": "valley",  // overrides "vale"
     "SRA*EUL": "vale",
 
     "HROEB": "lobby",        // overrides "lobe"
