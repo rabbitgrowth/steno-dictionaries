@@ -2463,8 +2463,6 @@
     "A/SRAEULD": "availed",
     "A/SRAEULG": "availing",
     "A/SRAEULS": "avails",
-    "PW*PBD": "buttoned",  // use PWA*PBD/AEUD for "Band-Aid"
-    "PW*PBG": "buttoning", // give up "!!Con" (tech conference Mirabai captions for)
     "KHA*PL/KWROPBD": "championed",
     "KHA*PL/KWROPBG": "championing",
     "KHAPL/KWROPBD": "championed", // Plover allows dropping *:
@@ -2500,6 +2498,8 @@
     "RE/SEUFTD": "resisted",
     "RE/SEUFTS": "resists",
 
+    "PW*PBD": "buttoned",    // use PWA*PBD/AEUD for "Band-Aid"
+    "PW*PBG": "buttoning",   // give up "!!Con" (tech conference Mirabai captions for)
     "ETSDZ": "edits",        // (ETD + -S) + -Z
     "TPUBGS": "fucks",       // use TPUPBGS for "function"
     "HRAEUFG": "lacing",
