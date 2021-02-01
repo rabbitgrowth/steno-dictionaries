@@ -1240,6 +1240,7 @@
                           // can't hit -TSD without hitting -Z too
     "PHOUT": "mouth",
     "REUPLT": "rhythm",
+    "SPHAOT": "smooth",
     "TRUT": "truth", // from TR*UT; TRAOUT (from TRAO*UT) already works
     "TRU": "true",   // for consistency
     "TRUL": "truly",
