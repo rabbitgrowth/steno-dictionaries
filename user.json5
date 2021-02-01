@@ -76,6 +76,8 @@
     "TPHOEU": "annoy",            // with TPHOEUG "annoying", TPHOEUD "annoyed"
     "SW-L": "as well",            // with SW-LS "as well as"
     "PWRAOEUFPB": "brighten",     // with TPRAOEUFPB "frighten"
+    "PWROD/PWAPBD": "broadband",  // with PWROD "broad"
+    "PWROD/KAFT": "broadcast",
     "KHOEUPBS": "Chinese",        // with KHOEUPB "China"
     "TAOULGS": "constitutional",  // with TAOUGS "constitution"
     "KRAOEFT": "creativity",      // with KRAOEF "creative"
