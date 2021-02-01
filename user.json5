@@ -23,8 +23,7 @@
     "TKPW-D": "good",
     "TKPW-T": "great", // use TKPWET for "get"; it's easy enough to hit
                        // and nicely symmetrical with TKPWOT "got"
-    "TKPW-P": "group", // together with "great", two of the "gr*t"
-                       // words with orthographic two-letter vowels
+    "TKPW-P": "group",
     "TKPW-PS": "groups", // just fingerspell "GPS"
     "H-P": "hypothesis", // just fingerspell "HP"
     "H-PS": "hypotheses",
