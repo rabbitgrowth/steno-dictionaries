@@ -102,7 +102,7 @@
     "STK*EPB": "incident",        // with STKEPB "accident"
     "TERPGS": "interpretation",   // with TERP "interpret"
     "TWAOEPB": "intervene",       // with TWEPBGS "intervention"
-                                  //   use TWEPB for "between"
+                                  //   use TW for "between"
     "HR-PB": "listen",            // with HR-PBG "listening"
                                   //   use HR-PBS for "license"
     "HR-PBD": "listened",
