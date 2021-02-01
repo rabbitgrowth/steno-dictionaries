@@ -2765,7 +2765,6 @@
     "WR-RB": "{*!}", // retrospectively delete space
                      // use W-RB for "whereby"
                      // -> WR RB <- (visually sticking together)
-    "HRAL": "{#command(a)}", // lal -> all
 
     // -- Basics ---------------------------------------------------------------
 
