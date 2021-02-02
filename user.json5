@@ -2890,6 +2890,7 @@
     // Precedents: "isn't" S-PT, "want" WAPT
     // (although these are probably just misstrokes,
     //  not deliberate attempts to avoid -PBT)
+    "AEUPT": "ain't",
     "TKOEPT": "don't",
     "TKOPT": "doesn't", // overrides "adopt"
     "TKAOPT": "adopt",
