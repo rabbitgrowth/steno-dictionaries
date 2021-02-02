@@ -179,6 +179,7 @@
     "PEFRT": "pester", // use P-F for "perfect"
     "SPES": "possess", // invert S and P
                        // allows one-stroking "possesses" unlike the standard PESZ
+    "SPEGS": "possession",
     "PROP/TKPWAPB/TKEUFT": "propagandist", // alternative to PROP/TKPWAPBD/EUFT
     "PUB/HREUFT": "publicity", // not sure what's going on in PHREURBGT
     "STHRAOEUT": "satellite",
