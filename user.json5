@@ -2890,7 +2890,9 @@
     // Precedents: "isn't" S-PT, "want" WAPT
     // (although these are probably just misstrokes,
     //  not deliberate attempts to avoid -PBT)
-    "K-PT": "can't",
+    "K-PT": "can't", // KAPT is "captain"
+                     // cf. K-PBT "can't"
+                     // give up "can want"
     "KOPT": "couldn't",
     "SHOPT": "shouldn't",
     "WOEPT": "won't",
