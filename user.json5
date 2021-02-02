@@ -2245,6 +2245,7 @@
                              // PHAEL   "male"   SKAEL "scale"
                              // (although "stale" is STAEUL, since STAEL is "steal")
     "WHEL": "whale",
+    "WHELS": "whales", // use WHAELS for "what else"
     "WHA*EL": "what he'll",
     "WHAELD": "what he would",
     "WHA*ED": "what he'd",
