@@ -2890,11 +2890,16 @@
     // Precedents: "isn't" S-PT, "want" WAPT
     // (although these are probably just misstrokes,
     //  not deliberate attempts to avoid -PBT)
-    "AEUPT": "ain't",
+    "K-PT": "can't",
+    "KOPT": "couldn't",
+    "SHOPT": "shouldn't",
+    "WOEPT": "won't",
+    "WOPT": "wouldn't",
     "TKOEPT": "don't",
     "TKOPT": "doesn't", // overrides "adopt"
-    "TKAOPT": "adopt",
     "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
+    "TKAOPT": "adopt",
+    "AEUPT": "ain't",
 
     "AUPT": "aunt",
     "KOUPT": "count", // "could want" could be KOPT
