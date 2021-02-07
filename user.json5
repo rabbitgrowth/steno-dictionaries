@@ -3124,6 +3124,7 @@
     // -- Miscellaneous --------------------------------------------------------
 
     // Don't hyphenate
+    "KAFT/AOEURPB": "cast iron",
     "ROUPBD/TREUP": "round trip",
 
     // Double to join with "and"
