@@ -260,6 +260,8 @@
     "PARPLT": "parliament", // use ARPLT for "apartment"
     "POERT": "poetry",
     "THAOER": "theory",
+    "THAOERS": "theories", // overrides "these are"
+    "THERZ": "these are",
     "THAOEFRT": "theorist",
     "THAOERL": "theoretical", // cf. the standard THOEURL
 
@@ -2372,7 +2374,6 @@
     "TWOR": "or two",
     "PAFRT": "part of", // by default "part of the"
     "SAUFP": "such a",
-    "THERZ": "these are",
     "TWHO": "those who",
     "TKO*": "to do",
     "STKO*": "to do so",
