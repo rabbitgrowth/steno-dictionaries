@@ -1795,6 +1795,7 @@
     "WHUPB": "when you know",
     "WHOEUPB": "who I know",
     "WHOUPB": "who you know",
+    "*UPB": "you know", // alternative to KWRAOUPB
 
     "THAFD": "that find",
     "TOFD": "to find",
