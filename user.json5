@@ -1740,7 +1740,7 @@
     // 2) the vowel in "don't";
     // 3) a nice symmetrical shape.
     "KWROE": "I don't", // overrides "yo"
-    "KWRO": "yo", // use SKWRO for {^o}
+    "KWRO": "yo",       // use SKWRO for {^o}
     // Mirabai also uses SKWR for suffixes (and SKWR* for infixes),
     // so I'm in good company. The nice thing here is that I can
     // follow the pattern and add ...
