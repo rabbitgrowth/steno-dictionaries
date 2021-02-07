@@ -1365,7 +1365,7 @@
     // 2) "candled" and "candling" are pretty rare.
 
     // Miscellaneous star-dropping
-    "THRAOET": "athlete",       // bizarre misstroke for "throat"
+    "THRAOET": "athlete",
     "PWAOEUS": "bias",          // use -Z for "buys"
     "AOEGS": "emotion",         // use SERBL for "essential"
     "AOELGS": "emotional",      // use SHRERBL for "essentially"
