@@ -3143,10 +3143,12 @@
     "ROUPBD/TREUP": "round trip",
 
     // Double to join with "and"
-    "OEFR/OEFR": "over and over",
-    "OEFR/OEFR/OEFR": "over and over and over",
     "PW-RT/PW-RT": "better and better",
     "PW-RT/PW-RT/PW-RT": "better and better and better",
+    "OPB/OPB": "on and on",
+    "OPB/OPB/OPB": "on and on and on",
+    "OEFR/OEFR": "over and over",
+    "OEFR/OEFR/OEFR": "over and over and over",
 
     // Fictitious place names
     "SREUL": "{*-|}{^ville}", // with retrospective capitalization
