@@ -1734,7 +1734,7 @@
     // KWROEU  "I don't"
     // KWROEPB "I don't know"
     // KWROFT  "I don't have the"
-    // These seem to use OEU, OE, and O for "don't" respectively.
+    // These use OEU, OE, and O for "don't" respectively.
     // For consistency, always use OE, which is
     // 1) the "average" of the three;
     // 2) the vowel in "don't";
