@@ -1089,12 +1089,13 @@
     "PHAURB": "marsh",
 
     // OEUD for -dio or -dia
-    // Precedents: O*EUD   "audio"
-    //             SRO*EUD "video"
+    // Precedents: O*EUD   "audio" (starless is {^oid})
+    //             SRO*EUD "video" (starless is "void")
     //             ROEUD   "radio" (starred is {radio^})
-    //             PHO*EUD "media"
+    //             PHO*EUD "media" (star is droppable)
     // OEU is just a general wildcard, but these words feel oddly
     // connected, probably because they all have to do with media.
+    "PHOEUD": "media",  // misstroke for "employed"
     "STOEUD": "studio", // overrides "studied"
     "STKEU": "study",
 
@@ -1399,7 +1400,6 @@
     "HRAED": "lady",            // use HRAOED for "lead" (even when pronounced /lɛd/)
     "HRAEDZ": "ladies",
     "HRERB": "leisure",
-    "PHOEUD": "media",          // use PHROEUD for "employed"
     "PHAOUPLT": "municipality",
     "TPOPB": "phenomenon",      // give up "phon" (unit of loudness)
     "PREUPBL": "provisional",   // use PREUPB for "principle"
