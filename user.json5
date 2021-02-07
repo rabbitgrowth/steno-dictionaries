@@ -544,6 +544,13 @@
 
     // -- Affixes --------------------------------------------------------------
 
+    // Prefixes
+    "SPWEU": "{anti^}",       // give up "is by" (grudgingly)
+    "SPWEUBT": "antibiotic",  // cf. the standard AEBT
+    "SPWEUBD": "antibody",
+    "SPWEUFPT": "anticipate", // "antispt"
+    "SPWEUTD": "antidote",
+
     // Suffixes
     // Define the most common words ("worldwide", "countrywide")
     // so that I can be lazy and drop the * in the suffix,
