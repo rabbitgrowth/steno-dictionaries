@@ -1088,6 +1088,16 @@
     "HAURBL": "harshly",
     "PHAURB": "marsh",
 
+    // OEUD for -dio or -dia
+    // Precedents: O*EUD   "audio"
+    //             SRO*EUD "video"
+    //             ROEUD   "radio" (starred is {radio^})
+    //             PHO*EUD "media"
+    // OEU is just a general wildcard, but these words feel oddly
+    // connected, probably because they all have to do with media.
+    "STOEUD": "studio", // overrides "studied"
+    "STKEU": "study",
+
     // EZ for -eeze
     // Like THEZ "these", although "these" is spelled with an "s".
     // It's a nice coincidence that EZ "easy" sans -y rhymes.
