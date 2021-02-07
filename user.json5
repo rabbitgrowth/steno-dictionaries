@@ -1444,6 +1444,7 @@
 
     // Precedents: TPEUS "physical", PED "pedestrian"
     "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
+    "KHEUPL": "chimney",
     "AOEG": "ego",
     "SKWREP": "jeopardy",
     "SKWREP/AOEUZ": "jeopardize", // alternative to SKWREP/TKAOEUZ
