@@ -13,7 +13,6 @@
     "TK-FT": "different",
     "-FD": "find",
     "T-FD": "find it",
-    "TP-RB": "finish", // cf. P-RB "punish"
     "TP-D": "friend", // give up "pharmacodynamic"
     "TP-DZ": "friends",
     "TP-LD": "friendly",
@@ -3152,6 +3151,11 @@
 
     // Fictitious place names
     "SREUL": "{*-|}{^ville}", // with retrospective capitalization
+
+    // Consonant + no vowel + -RB for -nish
+    // cf. P-RB "punish"
+    "TP-RB": "finish",
+    "SR-RB": "vanish",
 
     // "-r(e) than"
     // These three feel like a family,
