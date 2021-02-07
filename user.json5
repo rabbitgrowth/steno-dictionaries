@@ -2702,13 +2702,14 @@
     // Precedent: TPREUPBLG  "fridge"
     //            TPR*EUPBLG "refrigerator"
     // "Not an accident" -- Mirabai
-    "TP*EFT": "festival",  // fest
-    "HRA*B": "laboratory", // lab
-    "PO*P": "popular",     // pop
-    "PR*EP": "prepare",    // prep
-    "P*UB": "publish",     // pub
+    "KH*EUFRP": "chimpanzee", // chimp
+    "TP*EFT": "festival",     // fest
+    "HRA*B": "laboratory",    // lab
+    "PO*P": "popular",        // pop
+    "PR*EP": "prepare",       // prep
+    "P*UB": "publish",        // pub
     "P*URB": "publisher",
-    "SR*ET": "veteran",    // vet
+    "SR*ET": "veteran",       // vet
 
     // -- Vocabulary -----------------------------------------------------------
 
