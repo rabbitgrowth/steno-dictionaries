@@ -933,6 +933,8 @@
     "STKEPBD": "descend", // and get "condescending" KAUPB/STKEPBGD for free
     "STKEPBD/APBT": "descendant",
     "STKHREBGT": "deselect",
+    "STKPRAT": "desperate",
+    "STKPRALT": "desperately",
     // A lot of des- words already use STK:
     // STKPAOEUT "despite"
     // STKAOEUPB "design"
