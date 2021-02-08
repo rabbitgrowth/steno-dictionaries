@@ -2557,6 +2557,7 @@
     "PW*PBD": "buttoned",    // use PWA*PBD/AEUD for "Band-Aid"
     "PW*PBG": "buttoning",   // give up "!!Con" (tech conference Mirabai captions for)
     "ETSDZ": "edits",        // (ETD + -S) + -Z
+    "TPAEUGD": "fading",
     "TPUBGS": "fucks",       // use TPUPBGS for "function"
     "HRAEUFG": "lacing",
     "PHOLGD": "modeling",    // otherwise gives "methodologied"
