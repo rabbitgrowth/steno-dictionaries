@@ -75,7 +75,6 @@
     "SW-L": "as well",            // with SW-LS "as well as"
     "PWRAOEUFPB": "brighten",     // with TPRAOEUFPB "frighten"
     "KHOEUPBS": "Chinese",        // with KHOEUPB "China"
-    "TAOULGS": "constitutional",  // with TAOUGS "constitution"
     "KRAOEFT": "creativity",      // with KRAOEF "creative"
     "KREBL": "credible",          // with EUPB/KREBL, TPHEBL "incredible"
                                   //   use KRET/-BL for "creditable"
@@ -109,8 +108,6 @@
     "HR-PBD": "listened",
     "HR-RPB": "listener",
     "PHEL/TKROEUPL": "melodrama", // with TKROEUPL "drama"
-    "TPH-LGS": "national",        // with TPH-GS "nation"
-                                  //   or just use TPHAT
     "TPHAOERB": "nearby",         // with TPHAOER "near"
                                   //   instead of TPHAERB; use TPHEURB for "niche"
     "TPHORBG": "New York",        // with TPHORBG/TAOEUPLS "New York Times"
@@ -1242,9 +1239,11 @@
     // -LGS for -tional
     // Precedents: TPUPBLGS "functional", STAOULGS "constitutional"
     "KAUPB/TKPWRELGS": "congressional",
-    "TPOUPBLGS": "foundational",   // from TPOUPBGS "foundation"
-    "SPRAEULGS": "inspirational",  // from SPRAEUGS "inspiration"
-    "STPHAOULGS": "institutional", // from STPHAOUGS "institution"
+    "TAOULGS": "constitutional",
+    "TPOUPBLGS": "foundational",
+    "SPRAEULGS": "inspirational",
+    "STPHAOULGS": "institutional",
+    "TPH-LGS": "national", // or just use TPHAT
 
     // -- Star-dropping --------------------------------------------------------
 
