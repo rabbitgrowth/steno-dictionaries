@@ -74,8 +74,6 @@
     "TPHOEU": "annoy",            // with TPHOEUG "annoying", TPHOEUD "annoyed"
     "SW-L": "as well",            // with SW-LS "as well as"
     "PWRAOEUFPB": "brighten",     // with TPRAOEUFPB "frighten"
-    "PWROD/PWAPBD": "broadband",  // with PWROD "broad"
-    "PWROD/KAFT": "broadcast",
     "KHOEUPBS": "Chinese",        // with KHOEUPB "China"
     "TAOULGS": "constitutional",  // with TAOUGS "constitution"
     "KRAOEFT": "creativity",      // with KRAOEF "creative"
@@ -512,6 +510,8 @@
     "PWAPBD/HRAOERD": "bandleader",
     "PWAPBD/HRAOERDZ": "bandleaders",
     "PWAR/TERPBD": "bartender",
+    "PWROD/PWAPBD": "broadband", // PWRAOD/PWAPBD already works
+    "PWROD/KAFT": "broadcast",   // PWRAOD/KAFT   already works
     "PW-Z/PWOD": "busybody", // with PWOD "body" (custom); "B-Z-bo-D"
     "KHOEBG/HOELD": "chokehold",
     "KHOEBG/HOELDZ": "chokeholds",
