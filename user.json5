@@ -1797,8 +1797,8 @@
     "KWROERPL": "I don't remember",
     "KWR-PBG": "I think",  // thi[nk]
     "KWROEPBG": "I don't think",
-    "KWR-PT": "I want",    // wa[nt] but omit -B as in standard Plover:
-                           // EUPT "I want", UPT "you want"
+    "KWR-PT": "I want",    // wa[nt] but omit -B as in standard Plover,
+                           // cf. EUPT "I want", UPT "you want"
     "KWROEPT": "I don't want",
     "TKWROPT": "I want to",
     "TKWROEPT": "I don't want to",
