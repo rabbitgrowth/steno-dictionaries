@@ -2560,14 +2560,14 @@
     "TPAEUGD": "fading",
     "TPUBGS": "fucks",       // use TPUPBGS for "function"
     "HRAEUFG": "lacing",
-    "PHOLGD": "modeling",    // otherwise gives "methodologied"
+    "PHOLGD": "modeling",
     "PASZ": "passes",        // misstroke for "pass"
     "PHREUFG": "policing",
     "RAEUPLD": "remained",   // overrides "Raymond"
     "RA*EUPLD": "Raymond",
     "SAOEGZ": "seizing",
     "SOERBG": "sobering",    // give up "social work"
-    "SKAOEGD": "succeeding", // otherwise gives "skiinged"
+    "SKAOEGD": "succeeding",
     "TREUG": "trying",       // overrides "trig"
     "TR*EUG": "trig",
 
