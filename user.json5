@@ -3278,6 +3278,9 @@
     "KW-RBG": "{,}", // otherwise gives "--ing"
     "KW-BGS": "{,}", // otherwise gives ",s"
 
+    "HAOEURS": "hires",  // "highers"    is not a word
+    "HAOEURG": "hiring", // "higherring" is not a word
+
     // -- Error recovery -------------------------------------------------------
 
     // Phoenix uses R-R but that's newline in Plover already,
@@ -3350,6 +3353,8 @@
     "AOEUD/H-F": "eyed",            // from "I'd"
     "TPHROUR/H-F": "flour",         // from "flower" (custom)
     "HAOEUFT/H-F": "heist",         // from "highest" (custom)
+    "HAOEUR/H-F": "hire",           // from "higher"
+    "HAOEURD/H-F": "hired",         // from {hydro^}
     "SKWREUPL/H-F": "Jim",          // from "gym"
     "TPHAOEUT/H-F": "knight",       // from "night"
     "TPHAOEUTS/H-F": "knights",
