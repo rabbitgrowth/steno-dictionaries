@@ -2698,12 +2698,14 @@
     "WEUL/HEPL": "Wilhelm",
     "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
 
-    // Don't capitalize by default
+    // Don't capitalize
     "PWAPBD/AEUD": "band-aid",
     "KORPBG": "congress",
     "KO*RPBG": "Congress",
     "KAUPB/TKPWRES": "congress",
     "KA*UPB/TKPWRES": "Congress",
+    "TKAR/PHA": "dharma",
+    "TKARPL/KWRA": "dharma",
     "TKAO*US": "dews",
     "HURPBT": "hunter",
     "PHOR/ROE": "morrow",
