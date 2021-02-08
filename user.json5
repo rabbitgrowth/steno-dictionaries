@@ -1981,7 +1981,8 @@
     "PRA": "for a", // TPAR is "far" and TPAEUR is "fair",
                     // so borrow from French "pour"
     "AOPB": "on a", // use AUPB for {on^}
-    "TAEU": "to a", // misstroke for "day"
+    "TAO": "to a",  // overrides "too" (!)
+    "TU": "too",
 
     "AEUFS": "was a", // use AEU instead of A when the order is inverted,
                       // like AEUF "of a"; AF feels much more natural as
@@ -2783,9 +2784,6 @@
                             // full phonetic (KOURPBT) is {counter^}
     "STPHUR": "ensure",     // "N-shur" (TPH + SH); overrides "insure"
     "STPH*UR": "insure",
-    "TU": "guy",            // first and last letters
-                            // (or top-left and bottom-right keys)
-                            // of TKPWAOEU
     "HA*RPL": "harmony",    // mnemonic: Jacob Collier's #IHarmYou
     "HOELT": "hotel",       // reverse stress or HOELT->HOTEL
     "TAOU": "in order to",  // a stronger "to"
