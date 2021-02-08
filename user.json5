@@ -1793,6 +1793,8 @@
     "KWROELG": "I don't like",
     "KWR*FL": "I love",    // [l]o[v]e (* for inversion)
     "KWRO*EFL": "I don't love",
+    "KWR-RPL": "I remember", // [r]e[m]ember (standard, cf. EURPL)
+    "KWROERPL": "I don't remember",
     "KWR-PBG": "I think",  // thi[nk]
     "KWROEPBG": "I don't think",
     "KWR-PT": "I want",    // wa[nt] but omit -B as in standard Plover:
