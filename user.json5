@@ -1241,6 +1241,7 @@
     "KAUPB/TKPWRELGS": "congressional",
     "TAOULGS": "constitutional",
     "TPOUPBLGS": "foundational",
+    "SKWRAEULGS": "generational", // use -Z for "jailings"
     "SPRAEULGS": "inspirational",
     "STPHAOULGS": "institutional",
     "TPH-LGS": "national", // or just use TPHAT
@@ -3409,17 +3410,18 @@
     "TRABGS/H-F": "tracks",         // from "traction"
     "WEUPBS/H-F": "wins",           // from "wince"
 
-    "PWAOEUS/H-F": "buys",          // from "bias"        (custom)
-    "STKPHRAEUS/H-F": "displays",   // from "displace"    (custom)
-    "TPEURBS/H-F": "fishes",        // from "efficiency"  (custom)
-    "TPHRAEUBGS/H-F": "flakes",     // from "affliction"  (custom)
-    "TPREBGS/H-F": "frequents",     // from "for example" (custom)
-    "SKWRELS/H-F": "gels",          // from "jealous"     (custom)
-    "HEPLS/H-F": "hems",            // from "helpless"    (custom)
-    "TPHOEPBS/H-F": "knowns",       // from "known as"    (custom)
-    "PHAEUPLS/H-F": "maims",        // from "my name is"  (custom)
-    "SAES/H-F": "seas",             // from "assess"      (custom)
-    "SREUBG/TORS/H-F": "victors",   // from "victorious"  (custom)
+    "PWAOEUS/H-F": "buys",          // from "bias"         (custom)
+    "STKPHRAEUS/H-F": "displays",   // from "displace"     (custom)
+    "TPEURBS/H-F": "fishes",        // from "efficiency"   (custom)
+    "TPHRAEUBGS/H-F": "flakes",     // from "affliction"   (custom)
+    "TPREBGS/H-F": "frequents",     // from "for example"  (custom)
+    "SKWRELS/H-F": "gels",          // from "jealous"      (custom)
+    "HEPLS/H-F": "hems",            // from "helpless"     (custom)
+    "SKWRAEULGS/H-F": "jailings",   // from "generational" (custom)
+    "TPHOEPBS/H-F": "knowns",       // from "known as"     (custom)
+    "PHAEUPLS/H-F": "maims",        // from "my name is"   (custom)
+    "SAES/H-F": "seas",             // from "assess"       (custom)
+    "SREUBG/TORS/H-F": "victors",   // from "victorious"   (custom)
 
     // Use same stroke to change to British spelling
     "PWHAEUFR/H-F": "behaviour",
