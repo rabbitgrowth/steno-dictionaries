@@ -337,7 +337,7 @@
     "THRAFT": "at last", // cf. THRAOEFT "at least"
     "AOEFRP": "each other",
     "TKPWOEPL": "go home",
-    "TPHOEPBS": "known as",
+    "TPHOEPBS": "known as", // use -Z for "knowns"
     "HREPL": "let me",
     "PHAEUPLS": "my name is", // use -Z for "maims"
     "TPHUGS": "no such thing as", // TPHU + T-G "thing" (custom) + S
@@ -616,7 +616,7 @@
     "SAEPL/PWHRAPBLG": "assemblage",
     "SAERT": "assert",
     "SAERGS": "assertion",
-    "SAES": "assess",
+    "SAES": "assess",        // use -Z for "seas"
     "SAEFPLT": "assessment", // or just use SEFPLT
     "SAET": "asset",
     "SHAUR": "assure",
@@ -757,7 +757,7 @@
     // Fold in -LS for -less
     "PWOEPBLS": "boneless",
     "KARBLS": "cashless",
-    "HEPLS": "helpless",
+    "HEPLS": "helpless", // use -Z for "hems"
     "SKWROBLS": "jobless",
     "HRAOEUFLS": "lifeless",
     "SHRAOEPLS": "sleepless",
