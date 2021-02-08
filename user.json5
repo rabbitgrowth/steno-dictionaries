@@ -1244,7 +1244,8 @@
     "SKWRAEULGS": "generational", // use -Z for "jailings"
     "SPRAEULGS": "inspirational",
     "STPHAOULGS": "institutional",
-    "TPH-LGS": "national", // or just use TPHAT
+    "TPH-LGS": "national",        // or use TPHAT
+    "PRO/SREULGS": "provisional", // or use PREUPBL (custom)
 
     // -- Star-dropping --------------------------------------------------------
 
