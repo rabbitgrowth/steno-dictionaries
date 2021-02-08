@@ -2570,6 +2570,18 @@
     "SKAOEGD": "succeeding",
     "TREUG": "trying",       // overrides "trig"
     "TR*EUG": "trig",
+    // The automatic suffix-appending mechanism for -S -Z -G -D
+    // don't work for these words because of a variety of reasons.
+    // 1) The stroke with the -S -Z -G -D is defined for a completely
+    //    different word. For example, TREUG feels like it should be
+    //    "trying" (TREU + -G), but is actually defined as "trig".
+    // 2) The stroke *without* the -S -Z -G -D is defined for a completely
+    //    different word, and the mechanism kicks in for *that* word.
+    //    For instance, SKAOEGD feels like it should be "succeeding"
+    //    (SKAOED + -G), but SKAOEG (SKAOEGD without the -D) is "skiing",
+    //    so SKAOEGD gives the nonsensical "skiinged" instead.
+    // 3) -F is used instead of -S, and as one might reasonably expect,
+    //    the system isn't smart enough to figure that out.
 
     // -G as shortcut for -BG/-G
     // You can't fold in -G when the verb already ends with -BG.
