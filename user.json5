@@ -996,6 +996,14 @@
     "KWAPBT/TPEUG": "quantifying", // "quantity figure"
     "SHREUD/TPEUS": "solidifies",  // "slid physical"
     "SHREUD/TPEUG": "solidifying", // "slid figure"
+    "AOUPB/TPEU": "unify", // mashup of AOUPB/TPAOEU and KWRAOUPB/TPEU
+                           // Plover seems to prefer ignoring the initial
+                           // /j/ sound and dropping the KWR; for example,
+                           // "unity" is AO*UPBT, and KWRAO*UPBT doesn't work
+    "AOUPB/TPEUS": "unifies",
+    "AOUPB/TPEUG": "unifying",
+    "KWRAOUPB/TPEUS": "unifies", // allow being explicit with the /j/
+    "KWRAOUPB/TPEUG": "unifying",
     "SRER/TPEUS": "verifies",
     "SRER/TPEUG": "verifying",
     // ... although these are all pretty unlikely combinations:
