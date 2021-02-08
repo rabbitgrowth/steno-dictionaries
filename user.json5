@@ -594,6 +594,9 @@
     // Fold in A for a-
     // Precedents: SPAEBGT "aspect", TAEPBGS "attention"
     "KAUFPL": "accustom",
+    "TKRAES": "address", // use R-DZ for "readies"
+    "TKRAEFD": "addressed",
+    "TKRAEFG": "addressing",
     "TPHRAEUBGT": "afflict",
     "TPHRAEUBGS": "affliction", // use -Z for "flakes"
     "HAED": "ahead",
