@@ -2449,6 +2449,7 @@
     "AGT/SEUS": "agencies",
     "AL/PWAOEUS": "alibis",
     "APB/HREUFTS": "analysts",
+    "ARPL/TKEUL/HROES": "armadillos", // with doubled "l"
     "PWEL/HROES": "bellows",
     "PWEPB/TPEURBS": "beneficiaries", // just add -S instead of KWRAERS
     "PWEUL/HROES": "billows",
