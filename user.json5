@@ -36,6 +36,8 @@
                           // PREPBS "presence"
                           // PREPBT "present"
     "HR-BG": "like", // use WELG for "welcome"
+    "HR*BG": "{^like}", // use HR*PBG for "low income", maybe;
+                        // don't really care
     "HR-BGS": "likes",
     "HR-BGD": "liked",
     "HR-BGT": "like the",
