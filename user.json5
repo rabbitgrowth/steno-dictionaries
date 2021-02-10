@@ -2534,7 +2534,6 @@
     "KAUPB/SAOELS": "conceals",
     "KAUPB/TPEFD": "confessed",
     "KAUPB/TPEFG": "confessing",
-    "TKRETD": "directed", // give up "indirect credit"
     "EPB/HAFPBD": "enhanced",
     "EPB/HAPBGS": "enhancing",
     "ES/KHRAEUTD": "escalated",
@@ -2562,6 +2561,7 @@
 
     "PW*PBD": "buttoned",    // use PWA*PBD/AEUD for "Band-Aid"
     "PW*PBG": "buttoning",   // give up "!!Con" (tech conference Mirabai captions for)
+    "TKRETD": "directed",    // give up "indirect credit"
     "ETSDZ": "edits",        // (ETD + -S) + -Z
     "TPAEUGD": "fading",
     "TPUBGS": "fucks",       // use TPUPBGS for "function"
