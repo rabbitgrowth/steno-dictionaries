@@ -671,6 +671,7 @@
     "TKPWOFRPB": "governor",  // use TKPWOFPB for "govern";
                               // the "r" is not pronounced anyway
     "TKPWO*FRPB": "Governor", // add * to capitalize
+    "EUPB/KRAOEURT": "inciter",
     "PHAOERG": "meager",
     "PAEURPBT": "painter", // use PARPBT for "parent"
     "PAEURPBTS": "painters",
