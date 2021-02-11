@@ -2525,6 +2525,9 @@
     "AOEUS": "ice",  // already works
     "AOEUZ": "eyes", // overrides {^ize}
     "EUZ": "{^ize}",
+    "EUFD": "{^ized}",  // cf. AO*EUFD
+    "EUSZ": "{^izes}",
+    "EUFG": "{^izing}", // cf. AO*EUFG
     "TPHREBGS": "flex",   // already works
     "TPHREBGZ": "flecks", // use TPHRETS for "reflects"
     "ROES": "rose", // swap with "rows"
