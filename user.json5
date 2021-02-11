@@ -1492,6 +1492,7 @@
     "KPREUPBLG": "extrinsically",
 
     "-PLT": "{^ment}", // use TP-PL for {.}
+    "ORPB/-PLT": "ornament",
     "PRE/TKEUBG/-PLT": "predicament",
     "SEPBT/-PLT": "sentiment",
 
