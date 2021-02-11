@@ -2767,7 +2767,8 @@
     //  begins a sentence) and not italicized." (8.168)
     "-T/TKAEUL/PHAEUL": "the Daily Mail",
     "-T/HRORD/AES/PRAEUR": "the Lord's Prayer",
-    "-T/STPHA*T": "the Senate",
+    "-T/STPHA*T": "the Senate", // I can be lazy and drop the *, because
+                                // -T/STPHAT is defined by default as "the Senate"
 
     // -- Honorifics -----------------------------------------------------------
 
