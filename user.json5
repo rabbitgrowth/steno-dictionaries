@@ -2898,6 +2898,8 @@
                      // use W-RB for "whereby"
                      // -> WR RB <- (visually sticking together)
 
+    "SR-RS": "{#command(a)}", // select all on Mac
+
     // -- Basics ---------------------------------------------------------------
 
     // Exclamation
