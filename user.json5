@@ -2755,6 +2755,20 @@
     "SKWR*UFS": "Justice",
     "PA*ERT": "Party",
 
+    // Don't capitalize "the"
+    // For the following expressions, forcing "the" to uppercase
+    // (e.g., "The Senate") is never useful, since the "the" should only be
+    // capitalized when it begins a sentence, and when it begins a sentence,
+    // Plover automatically capitalizes it anyway.
+    // "A *the* preceding a name, even when part of the official title,
+    //  is lowercased in running text." (Chicago Manual of Style 16/e, 8.67)
+    // "When newspapers and periodicals are mentioned in text, an initial
+    //  *the*, even if part of the official title, is lowercased (unless it
+    //  begins a sentence) and not italicized." (8.168)
+    "-T/TKAEUL/PHAEUL": "the Daily Mail",
+    "-T/HRORD/AES/PRAEUR": "the Lord's Prayer",
+    "-T/STPHA*T": "the Senate",
+
     // -- Honorifics -----------------------------------------------------------
 
     "TK-R": "Dr.{-|}",    // misstroke for dash (--)
