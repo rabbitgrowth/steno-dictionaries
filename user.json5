@@ -2771,6 +2771,7 @@
     //   HAPL/HRET "Hamlet"        HA*PL/HRET "Hamlet"
     "SKWR*UFS": "Justice",
     "PA*ERT": "Party",
+    "SRAO*EUS": "Vice", // as in SRAO*EUS/PR*EZ "Vice President"
 
     // Don't capitalize "the"
     // For the following expressions, forcing "the" to uppercase
@@ -3239,6 +3240,7 @@
     // Don't hyphenate
     "KAFT/AOEURPB": "cast iron",
     "ROUPBD/TREUP": "round trip",
+    "SRAOEUS/PREZ": "vice president",
 
     // Double to join with "and"
     "PW-RT/PW-RT": "better and better",
