@@ -1161,6 +1161,10 @@
     "THREPBG": "threatening",
     "THREPBD": "threatened",
 
+    // -FR for -sure
+    "PHEFR": "measure",
+    "PHREFR": "pleasure",
+
     // -FR for -m-
     "PWRAFRBL": "bramble",
     "TKPWAFRBL": "gamble",
@@ -1169,9 +1173,18 @@
 
     "KHRUFRB/KWRA": "Columbia",
 
-    // -FR for -sure
-    "PHEFR": "measure",
-    "PHREFR": "pleasure",
+    // -FRB for -mber
+    "AFRB": "amber",
+    "KHAEUFRB": "chamber", // instead of KHAEURPL
+    "HRUFRB": "lumber",
+    "SHRUFRB": "slumber",
+    "SOFRB": "somber",
+    "TEUFRB": "timber",
+    // ... but use -RPL when the "b" is silent
+    "PWORPL": "bomber", // give up "bodily harm"
+    "KHRAOEURPL": "climber",
+    "TKURPL": "dumber",
+    "PHRURPL": "plumber",
 
     // -RT for -ture
     "KAUPB/SKWRERBGT": "conjecture",
