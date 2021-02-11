@@ -49,6 +49,9 @@
     "HRAOLG": "likelihood", // HR-LG + "oo"
     "PR-B": "problem",
     "-RT": "right", // use R-T for "are the"
+                    // which frees up ...
+    "RAOEUT": "riot",
+    "RAOEURT": "rioter", // much nicer than RAOEU/OT/*ER
     "T-G": "thing",
 
     "-TS": "its",
@@ -887,7 +890,7 @@
     "STKRAET": "discrete",  // follows vowel in TKEUS/KRAET  "discrete"
     "STKPWRAEUS": "disgrace", // cf. STKPWAOEUS "disguise"
     "STKPWRAEUFD": "disgraced",
-    "STKHARPBT": "dishearten", // three strokes (TKEUS/HART/*EPB) to one!
+    "STKHARPBT": "dishearten", // much nicer than TKEUS/HART/*EPB
     "STKPHAL": "dismal",
     "STKPHAEU": "dismay",
     "STKPHEB": "dismember",  // cf. PHEB  "member"
