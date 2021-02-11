@@ -1842,6 +1842,8 @@
     "KWR-BS": "I said",
 
     // Stack the verbs with other words
+    "SKPEUPB": "and I know",
+    "SKPUPB": "and you know",
     "STPEUPB": "if I know",
     "STPUPB": "if you know",
     "THAEUPB": "that I know", // give up "Thane" (place name)
@@ -1872,6 +1874,8 @@
     "W-GT": "we get",
     "THEGT": "they get",
 
+    "SKPEUPBG": "and I think",
+    "SKPUPBG": "and you think",
     "STPEUPBG": "if I think",
     "STPUPBG": "if you think",
     "THAEUPBG": "that I think",  // misstroke for "thing"
@@ -1883,6 +1887,8 @@
     "WHOEUPBG": "who I think",
     "WHOUPBG": "who you think",
 
+    "SKPEUPT": "and I want",
+    "SKPUPT": "and you want",
     "STPEUPT": "if I want",
     "STPOEUPT": "if I want to",
     "STPUPT": "if you want",
@@ -1898,6 +1904,8 @@
 
     "TOZ": "to see",
     "UZ": "you see",
+    "SKPEUZ": "and I see",
+    "SKPUZ": "and you see",
     "STPEUZ": "if I see",
     "STPUZ": "if you see",
     "THAEUZ": "that I see",
