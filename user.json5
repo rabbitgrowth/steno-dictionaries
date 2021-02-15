@@ -2855,6 +2855,7 @@
     "PR*EP": "prepare",       // prep
     "P*UB": "publish",        // pub
     "P*URB": "publisher",
+    "R*EP": "representative", // rep
     "SR*ET": "veteran",       // vet
 
     // -- Vocabulary -----------------------------------------------------------
