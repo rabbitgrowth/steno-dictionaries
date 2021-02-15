@@ -284,6 +284,7 @@
     "SHRAEP": "asleep",
     "STRET": "street",
     "STR*ET": "{*-|}Street",
+    "WAUL/STRET": "Wall Street",
     "SWER": "swear",
     "THOT": "thought",
     "TRE": "tree", // TRES rightfully belongs to "tress", so I'd have to use
