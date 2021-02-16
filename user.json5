@@ -164,6 +164,8 @@
     "AOEFR": "easier", // like AO*ERS but even more Plover-y
     "ERPBT": "errant",
     "TPAEURLS": "failures", // "fairlies" is not a word
+    "TPHREUFT": "felicity", // give up {^philicity} (obscure chemistry stuff)
+    "TPHREUFT/OUS": "felicitous",
     "TPEPBGS": "fencing", // misstroke for "infection"
     "TPHRAPBT": "flatten", // alternative to TPHRAFPB and TPHRAEPB
     "TPRAOEPBLS": "freelance",
