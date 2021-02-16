@@ -80,6 +80,8 @@
     "SW-L": "as well",            // with SW-LS "as well as"
     "PWRAOEUFPB": "brighten",     // with TPRAOEUFPB "frighten"
     "KHOEUPBS": "Chinese",        // with KHOEUPB "China"
+    "KPHRET": "complete",         // with KPHRELT "completely"
+    "KPHREGS": "completion",
     "KRAOEFT": "creativity",      // with KRAOEF "creative"
     "KREBL": "credible",          // with EUPB/KREBL, TPHEBL "incredible"
                                   //   use KRET/-BL for "creditable"
