@@ -2870,6 +2870,7 @@
     "ART/SEU/TPART/SEU": "artsy-fartsy",
     "KAUPB/SAOERL": "concealer",
     "TKO*PB": "don", // prepend KPA* for "Don"
+    "TKO*U": "Dow", // starless is "do you"
     "AOEF": "eve",  // overrides "Eve"
     "AO*EF": "Eve", // use A*EF for "eave"
     "TPRAEUFL": "phrasal",
