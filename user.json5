@@ -2811,6 +2811,8 @@
     // For multistroke words, the first syllable is starred:
     //   PEPBT/TKPWOPB "Pentagon"  P*EPBT/TKPWOPB "Pentagon"
     //   HAPL/HRET "Hamlet"        HA*PL/HRET "Hamlet"
+    // This feels right because the first syllable is the part
+    // where the lowercase-to-uppercase change happens.
     "SKWR*UFS": "Justice",
     "PA*ERT": "Party",
     "SRAO*EUS": "Vice", // as in SRAO*EUS/PR*EZ "Vice President"
