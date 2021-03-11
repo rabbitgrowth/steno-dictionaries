@@ -981,6 +981,7 @@
     "SKPHREUFT": "explicit",
     "SKPHROED": "explode",
     "SKPHROETD": "exploded",
+    "SKPHROEUT": "exploit",
     "SKPHROEGS": "explosion",
     "SKPHROES/EUF": "explosive", // cf. SPHROES/EUF
     "SKPOES": "expose", // a nice trio:
