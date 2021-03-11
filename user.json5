@@ -671,6 +671,7 @@
     "TKRAOERPL": "dreamer",
     "TKREFR": "dresser",
     "TKRERS": "dresser",
+    "TKREUR": "drinker",
     "ERLD": "elder", // overrides "elderly"
                      // compare OERLD "older"
     "HRERLD": "elderly", // HR for -ly since -L is used
