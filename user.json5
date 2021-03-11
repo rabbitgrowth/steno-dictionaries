@@ -2809,8 +2809,8 @@
     //   SOET    "society"  SO*ET    "Society"
     //   TPHEUBG "nick"     TPH*EUBG "Nick"
     // For multistroke words, the first syllable is starred:
-    //   PEPBT/TKPWOPB "Pentagon"  P*EPBT/TKPWOPB "Pentagon"
-    //   HAPL/HRET "Hamlet"        HA*PL/HRET "Hamlet"
+    //   PEPBT/TKPWOPB "pentagon"  P*EPBT/TKPWOPB "Pentagon"
+    //   HAPL/HRET "hamlet"        HA*PL/HRET "Hamlet"
     // This feels right because the first syllable is the part
     // where the lowercase-to-uppercase change happens.
     "SKWR*UFS": "Justice",
