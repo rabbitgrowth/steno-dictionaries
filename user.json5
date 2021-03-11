@@ -1302,7 +1302,8 @@
     "PWRAOET": "breathe", // swap with "burrito"
     "PWRAO*ET": "burrito",
     "KHROET": "clothe", // and get "clothes" and "clothing" for free
-    "ERT": "earth",
+    "ERT": "earth",  // which frees up ...
+    "*ERT": "Earth", // the * for capitalization
     "ERT/PWOUPBD": "earthbound",
     "ERT/KWAEUBG": "earthquake",
     "ERT/KWAEUBGS": "earthquakes",
