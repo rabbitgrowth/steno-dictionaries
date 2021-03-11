@@ -2817,6 +2817,9 @@
     "PA*ERT": "Party",
     "SRAO*EUS": "Vice", // as in SRAO*EUS/PR*EZ "Vice President"
 
+    // Add * to *not* capitalize
+    "KHO*EUPB": "china",
+
     // Don't capitalize "the"
     // For the following expressions, forcing "the" to uppercase
     // (e.g., "The Senate") is never useful, since the "the" should only be
