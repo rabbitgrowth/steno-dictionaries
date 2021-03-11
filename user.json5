@@ -299,7 +299,7 @@
                    // with the "EZ for -eeze" pattern:
                    // TPRE  "free"    TRE  "tree"
                    // TPREZ "freeze"  TREZ "trees"
-    "WEBG": "week",
+    "WEBG": "week", // use WEB/-G for "webbing"
 
     // -- Sound mashing --------------------------------------------------------
 
@@ -3469,6 +3469,7 @@
     "TOEFRT/H-F": "toaster",        // from "effort to"
     "TOEFRTS/H-F": "toasters",
     "TRUPBLG/H-F": "trundling",     // from "trudge"
+    "WEBG/H-F": "webbing",          // from "week" (custom)
 
     // Forced evictions to make way for phrasing strokes
     "AOEUPLT/H-F": "item",          // from "I'm the"      (custom)
