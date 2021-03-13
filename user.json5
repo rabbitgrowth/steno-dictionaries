@@ -3168,9 +3168,10 @@
     // "forget" family
     // The starless standard strokes are a bit awkward:
     //   TPORGT  "forget"
-    //   TPAURGT "forgot"    (why AU?)
-    //   TPORGTD "forgotten" (tricky to hit)
-    // A better trio might be
+    //   TPAURGT "forgot"
+    //   TPORGTD "forgotten"
+    // The O-AU distinction feels arbitrary, and TPORGTD is too tricky
+    // to hit for such a common word. A better trio might be
     "TPERGT": "forget",    // "FRGET" (works already)
     "TPORGT": "forgot",    // "FRGOT"
     "TPORGD": "forgotten", // drop -T, like A/TKEUBGD "addicted"
