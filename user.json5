@@ -1768,15 +1768,6 @@
 
     "THABG": "that can", // misstroke for "thank"
 
-    // Indicate purpose
-    "STHAO": "so that",
-    "STHAOEUBG": "so that I can",
-    "STHAOEUBGD": "so that I could",
-    "STHAOUBG": "so that you can",
-    "STHAOUBGD": "so that you could",
-    "STHAOEBG": "so that he can",
-    "STHAOEBGD": "so that he could",
-
     // Modal verb + be
     "PHAEUB": "may be", // overrides "maybe"
     "PH-B": "maybe",    // give up "Mapbox"
@@ -2480,6 +2471,15 @@
     // AS MANY AS   10931  SPHAEPBS
     // AS FAST AS    7145  STPAFTS
     "SPHALS": "as small as",
+
+    // "so that ..."
+    "STHAO": "so that",
+    "STHAOEUBG": "so that I can",
+    "STHAOEUBGD": "so that I could",
+    "STHAOUBG": "so that you can",
+    "STHAOUBGD": "so that you could",
+    "STHAOEBG": "so that he can",
+    "STHAOEBGD": "so that he could",
 
     // Miscellaneous phrases
     "PWHOU": "about how",
