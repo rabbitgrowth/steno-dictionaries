@@ -3076,7 +3076,7 @@
 
     // -- Ergonomics -----------------------------------------------------------
 
-    // Drop -B in -PBT for -nt
+    // Drop -B in -PBT
     // Precedents: "isn't" S-PT, "want" WAPT
     // (although these are probably just misstrokes,
     //  not deliberate attempts to avoid -PBT)
@@ -3107,12 +3107,27 @@
     "W-PT": "went", // WEPT is "wept";
                     // vowel-dropping nicely consistent with TKPW "go"
 
-    // Drop -B in -PBD for -nd
+    // Drop -B in -PBD
     "TPOUPD": "found",
     "TPUPD": "fund",
     "ROUPD": "round",
     "SOUPD": "sound",
     "WEUPD": "wind",
+
+    // Drop -T in -GTD
+    // Precedents: A/TKEUBGD "addicted", A/TPEBGD "affected"
+    "TPORGD": "forgotten",
+    // This means the full progression is
+    //  TPORGT  "forget"
+    //  TPAURGT "forgot"    (why AU?)
+    //  TPORGD  "forgotten" (not TPAURGD, which is "forgiven",
+    //                       since TPAURG is "forgive")
+    // which feels a bit weird. A better trio might be
+    //  TPERGT  "forget"    (FRGET)
+    //  TPORGT  "forgot"    (FRGOT)
+    //  TPORGD  "forgotten" (change -T to -D for -ten)
+    // TPERGT works already, so just redefine TPORGT.
+    "TPORGT": "forgot",
 
     // A more ergonomic "end"
     "TPH-D": "end",     // pronounce the TPH: "N'd"
