@@ -3114,21 +3114,6 @@
     "SOUPD": "sound",
     "WEUPD": "wind",
 
-    // Drop -T in -GTD
-    // Precedents: A/TKEUBGD "addicted", A/TPEBGD "affected"
-    "TPORGD": "forgotten",
-    // This means the full progression is
-    //  TPORGT  "forget"
-    //  TPAURGT "forgot"    (why AU?)
-    //  TPORGD  "forgotten" (not TPAURGD, which is "forgiven",
-    //                       since TPAURG is "forgive")
-    // which feels a bit weird. A better trio might be
-    //  TPERGT  "forget"    (FRGET)
-    //  TPORGT  "forgot"    (FRGOT)
-    //  TPORGD  "forgotten" (change -T to -D for -ten)
-    // TPERGT works already, so just redefine TPORGT.
-    "TPORGT": "forgot",
-
     // A more ergonomic "end"
     "TPH-D": "end",     // pronounce the TPH: "N'd"
                         // easier to hit than EPBD
@@ -3174,6 +3159,16 @@
     "TKPHEUFG": "dismissing",
     "TKPHEUFL": "dismissal",
     "TKPHEUFS": "dismissive",
+
+    // "forget" family
+    // The starless standard strokes are a bit awkward:
+    // TPORGT  "forget"
+    // TPAURGT "forgot"    (why AU?)
+    // TPORGTD "forgotten" (tricky to hit)
+    "TPERGT": "forget",    // "FRGET" (works already)
+    "TPORGT": "forgot",    // "FRGOT"
+    "TPORGD": "forgotten", // drop -T, like A/TKEUBGD "addicted"
+    // It's a nice coincidence that TP-R is "for".
 
     // "real" family
     "RAELT": "reality",
