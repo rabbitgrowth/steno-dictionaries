@@ -2465,7 +2465,11 @@
     "KH-BZ": "which has been",
     "KH-BD": "which had been",
 
-    // as + adjective + as
+    // "all ..."
+    "AUBT": "all about",
+    "AURT": "all right",
+
+    // "as ... as"
     // The most common ones already work beautifully:
     // AS WELL AS  155949  SW-LS / SW*ELS  (SWELS)
     // AS LONG AS   57042  SHROPBGS        (SLONGS)
