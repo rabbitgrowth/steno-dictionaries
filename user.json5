@@ -1556,6 +1556,7 @@
                              //      E
     "SAOUF": "souvenir",
     "TRUFRPB": "truncheon", // alternative to TRUPBGS
+    "STPHAPL": "tsunami",
     "SREUG": "vigor", // prevents "have Iing" from flashing past
     "SROD": "vodka",  // prevents "have toed" from flashing past
 
