@@ -182,6 +182,7 @@
     "PHES/PHRAOEUFG": "mesmerizing",
     "PHRAL": "morale", // use PHORL for "moral"
     "PHAOUFPL": "mutual",
+    "TPHARLT": "natural", // allow not omitting the -T
     "TPHEBLS": "nebulous",
     "TPHEUPL/ROD": "nimrod",
     "OB/HREUF/KWROUS": "oblivious",
@@ -3115,10 +3116,6 @@
     "TPH-TSDZ": "noticed", // (TPH-TS + -D) + -Z
     "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
     "OUFD": "outside",  // "ousd"; for consistency
-
-    // Don't omit -T in -LT
-    // -LT is just as easy, if not easier, to type as -L.
-    "TPHARLT": "natural",
 
     // -- Word families --------------------------------------------------------
 
