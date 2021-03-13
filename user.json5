@@ -726,6 +726,7 @@
     "K-RBLS": "consciously",
     "KRAOEFL": "creatively",
     "TKELD": "deadly",
+    "TKRELT": "directly", // or use TKRELG
     "SKREUPL/TPHALT": "discriminately", // mostly for "indiscriminately"
     "ELZ": "easily",
     "TPEURBLT": "efficiently",
@@ -3118,7 +3119,6 @@
     // Don't omit -T in -LT
     // -LT is just as easy, if not easier, to type as -L.
     "TPHARLT": "natural",
-    "TKRELT": "directly", // or use TKRELG
 
     // -- Word families --------------------------------------------------------
 
