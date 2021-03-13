@@ -1891,6 +1891,11 @@
     "W-GT": "we get",
     "THEGT": "they get",
 
+    "-GT": "get",
+    // It's probably a better idea to use TKPWET for "get" on its own,
+    // but by default -GT is quite useless (it's "thing", but by accident:
+    // -T "the" + -G {^ing}), so I might as well remap it
+
     "SKPEUPBG": "and I think",
     "SKPUPBG": "and you think",
     "STPEUPBG": "if I think",
@@ -3162,13 +3167,17 @@
 
     // "forget" family
     // The starless standard strokes are a bit awkward:
-    // TPORGT  "forget"
-    // TPAURGT "forgot"    (why AU?)
-    // TPORGTD "forgotten" (tricky to hit)
+    //   TPORGT  "forget"
+    //   TPAURGT "forgot"    (why AU?)
+    //   TPORGTD "forgotten" (tricky to hit)
+    // A better trio might be
     "TPERGT": "forget",    // "FRGET" (works already)
     "TPORGT": "forgot",    // "FRGOT"
     "TPORGD": "forgotten", // drop -T, like A/TKEUBGD "addicted"
-    // It's a nice coincidence that TP-R is "for".
+                           // not to be confused with TPAURGD "forgiven"
+    // TPERGT and TPORGT are nicely symmetrical, but TPERGT on its own
+    // might feel a little weird. So allow dropping the E:
+    "TP-RGT": "forget",    // TP-R "for" + -GT "get" (stacking form)
 
     // "real" family
     "RAELT": "reality",
