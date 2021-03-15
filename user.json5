@@ -323,7 +323,7 @@
     "SKHAOU": "eschew",
     "SKHAOUL": "eschewal",
     "AOEFPL": "eventual", // ERBL doesn't make phonetic sense and
-                          // EFPBL is a bit awkward to press
+                          // EFPBL is a bit awkward to hit
     "HRAOEFPL": "eventually",
     "KPELT": "excellent",
     "SPHRORGS": "exploration",
@@ -3016,7 +3016,7 @@
     // to avoid *, but that's an added layer of complexity. It's better to
     // stick to the "default to full form and add * for contraction" rule.
     "THR-S": "there is", // advantage: neatly partitioned
-    "TH-RS": "there is", // advantage: easier to press
+    "TH-RS": "there is", // advantage: easier to hit
     "THR-TS": "there is the",
     "TH-RTS": "there is the",
     "THR*S": "there's",    // already works
