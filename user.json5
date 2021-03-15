@@ -580,6 +580,7 @@
     // but stop at the most common words, since combinations
     // are potentially infinite ("schoolwide", "systemwide",
     // "areawide", "regionwide", "planetwide"...)
+    "HRELS": "{^lessly}",
     "HRAO*D": "{^load}", // "truckload", "boatload", "shitload"...
     "PHA*EURBG": "{^maker}",     // already works
     "HRAU/PHAEURBG": "lawmaker", // like TPEUPL/PHAEURBG "filmmaker"
