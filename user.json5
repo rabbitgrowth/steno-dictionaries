@@ -588,6 +588,7 @@
     "SHAOU/PHAEURBGS": "shoemakers",
     "TRUBL/PHAEURBG": "troublemaker",
     "TRUBL/PHAEURBGS": "troublemakers",
+    "WA*EU": "{^way}", // use WAU for "away"
     "WAO*EUD": "{^wide}", // instead of {^-wide}
     "KREU/WAOEUD": "countrywide",
     "TPH-GS/WAOEUD": "nationwide",
