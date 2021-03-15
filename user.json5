@@ -311,6 +311,7 @@
     "TKPHEUGS": "admission",
     "HRARPL": "alarm",
     "ALG": "algorithm", // use ALGS for "additional" (AGS "addition" + -L)
+    "ARD": "around",
     "STORB": "astonish",
     "STORBG": "astonishing", // overrides "stork" (a bird)
     "STO*RBG": "stork",      // give up "State of New York"
