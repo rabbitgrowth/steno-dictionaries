@@ -282,6 +282,7 @@
     "PWHREUPBD": "blind",        // add TKA for "Belinda", or use ...
     "PWHREUPB/TKA": "Belinda",   // cf. SPHREPB/TKA   "Splenda"
     "PWHREUPBD/KWRA": "Belinda", //     SPHREPBD/KWRA
+    "TKOR": "door",
     "TPHROR": "floor",
     "TPRE": "free",
     "TKPWREPB": "green",
