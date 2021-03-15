@@ -3101,6 +3101,10 @@
     // Precedents: "isn't" S-PT, "want" WAPT
     // (although these are probably just misstrokes,
     //  not deliberate attempts to avoid -PBT)
+    "SR-PT": "haven't",        // overrides "vice president"
+    "SREZ": "vice president",  // cf. PREZ  "president"
+    "SR*EZ": "Vice President", // cf. PR*EZ "President"
+    "H-PT": "hadn't",
     "K-PT": "can't", // KAPT is "captain"
                      // cf. K-PBT "can't"
                      // give up "can want"
