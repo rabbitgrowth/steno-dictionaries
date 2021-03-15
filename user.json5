@@ -1306,6 +1306,20 @@
     "TPH-LGS": "national",        // or use TPHAT
     "PRO/SREULGS": "provisional", // or use PREUPBL (custom)
 
+    // -LZ for -lize
+    // Precedents: RAELZ "realize", STAEUBLZ "stabilize"
+    "KPALZ": "capitalize",
+    "SKWREPBLZ": "generalize",
+    "HRAOELZ": "legalize",
+    "STABLZ": "stabilize", // cf. STAEUBLZ "stabilize", STABL "stable"
+    "SPWOLZ": "symbolize",
+    "AOULZ": "utilize", // compared with THRAOEUZ,
+                        // feels more consistent with AOUS "use"
+    "SREURBLDZ": "visualize", // although the standard SREUFLZ is easier to hit
+    // More exotically:
+    "SKWREPDZ": "jeopardize",
+    "SURPLZ": "summarize",
+
     // -- Star-dropping --------------------------------------------------------
 
     // AEUPB for -aken
