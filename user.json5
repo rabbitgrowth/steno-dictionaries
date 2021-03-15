@@ -1542,9 +1542,6 @@
     "KHEUPL": "chimney",
     "AOEG": "ego",
     "SKWREP": "jeopardy",
-    "SKWREP/AOEUZ": "jeopardize", // alternative to SKWREP/TKAOEUZ
-                                  // when "d" is printed on screen,
-                                  // TK feels unnecessary
     "SKWRAOUF": "juvenile",
     "RE/SKWRAOUF": "rejuvenate",
     "RE/SKWRAOUFGS": "rejuvenation",
