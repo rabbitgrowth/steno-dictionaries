@@ -2807,9 +2807,9 @@
     "WOEPT": "won't",
     "WOPT": "wouldn't",
     "TKOEPT": "don't",
-    "TKOPT": "doesn't", // overrides "adopt"
-    "TKAOPT": "adopt",
-    "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
+    "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION}
+    "TKUP": "{PLOVER:ADD_TRANSLATION}",
+    "TK-PT": "didn't", // use TKEPT for "department" (think "Dept")
     "AEUPT": "ain't",
 
     // Add -L as "bridge" to expand to full form
@@ -2820,6 +2820,7 @@
     //   KAPBLT  "cannot"
     "K-PLT": "cannot",   // give up {&k-}
     "TKOEPLT": "do not",
+    "TKUPLT": "does not",
     "TK-PLT": "did not", // give up {&d-}
 
     // Use -PLT for "not" even when there's no -n't form
