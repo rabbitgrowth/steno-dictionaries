@@ -773,8 +773,7 @@
     "PWHROELD": "boldly",
     "KHR-RBL": "considerably",
     "SHRERBL": "essentially",
-    "TPHRUL": "fully", // for consistency with TPUL "full"
-                       // use TP*UL for "fundamental"
+    "TPHRUL": "fully", // use TP*UL for "fundamental"
     "TPHR*UL": "fundamentally",
     "PHRERPL": "permanently",
     "SKHROL": "psychologically",
