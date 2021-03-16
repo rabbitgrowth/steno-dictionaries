@@ -2785,19 +2785,50 @@
 
     // -- Negation -------------------------------------------------------------
 
-    // Expand "n't" into "not" with -L as bridge
-    "K-PBLT": "cannot",     // from K-PBT   "can't"
-    "TKOEPBLT": "do not",   // from TKOEPBT "don't" (or just use TKPHOT)
-    "TKOPBLT": "does not",  // from TKOPBT  "doesn't"
-    "PHUPBLT": "must not",  // from PHUPBT  "mustn't"
-    "SHAPBLT": "shall not", // from SHAPBT  "shan't"
-    "WOEPBLT": "will not",  // from WOEPBT  "won't" (or just use HR-PBT)
+    // Instead of -PBT ...
+    //   SR-PBT "haven't"
+    //   H-PBT  "hadn't"
+    //   KAPBT  "can't"
+    //   KOPBT  "couldn't"
+    // ... use -PT which is easier to hit. (See "Ergonomics".)
+    // This is not completely without precedent, since standard Plover
+    // also uses -PT instead of -PBT as the stacking form of "want":
+    //   UPBT "you want"
+    //   UPT  "you want"
+    "SR-PT": "haven't",        // overrides "vice president"
+    "SREZ": "vice president",  // cf. PREZ  "president"
+    "SR*EZ": "Vice President", // cf. PR*EZ "President"
+    "H-PT": "hadn't",
+    "K-PT": "can't", // KAPT is "captain"
+                     // cf. K-PBT "can't"
+                     // give up "can want"
+    "KOPT": "couldn't",
+    "SHOPT": "shouldn't",
+    "WOEPT": "won't",
+    "WOPT": "wouldn't",
+    "TKOEPT": "don't",
+    "TKOPT": "doesn't", // overrides "adopt"
+    "TKAOPT": "adopt",
+    "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
+    "AEUPT": "ain't",
 
-    // Use -PBLT for "not" even when there's no -n't form
-    // Precedent: KWR-PBLT "why not"
-    "SKP-PBLT": "and not",  // there's no "andn't"
-    "ORPBLT": "or not",     // there's no "orn't"
-    "PHAEUPBLT": "may not", // there's no "mayn't"
+    // Add -L as "bridge" to expand to full form
+    // Standard Plover also does this, but without dropping the -B:
+    //   SR-PBT  "haven't"
+    //   SR-PBLT "have not"
+    //   KAPBT   "can't"
+    //   KAPBLT  "cannot"
+    "K-PLT": "cannot",   // give up {&k-}
+    "TKOEPLT": "do not",
+    "TK-PLT": "did not", // give up {&d-}
+
+    // Use -PLT for "not" even when there's no -n't form
+    // Again, this is not unprecedented:
+    //   TP-PBLT  "if not"   (there's no "ifn't"
+    //   KWR-PBLT "why not"              "whyn't")
+    "SKP-PLT": "and not",  // there's no "andn't"
+    "ORPLT": "or not",     //            "orn't"
+    "PHAEUPLT": "may not", //            "mayn't"
 
     // S for negation
     "STPHOL": "abnormal",
@@ -3113,23 +3144,6 @@
     // Precedents: "isn't" S-PT, "want" WAPT
     // (although these are probably just misstrokes,
     //  not deliberate attempts to avoid -PBT)
-    "SR-PT": "haven't",        // overrides "vice president"
-    "SREZ": "vice president",  // cf. PREZ  "president"
-    "SR*EZ": "Vice President", // cf. PR*EZ "President"
-    "H-PT": "hadn't",
-    "K-PT": "can't", // KAPT is "captain"
-                     // cf. K-PBT "can't"
-                     // give up "can want"
-    "KOPT": "couldn't",
-    "SHOPT": "shouldn't",
-    "WOEPT": "won't",
-    "WOPT": "wouldn't",
-    "TKOEPT": "don't",
-    "TKOPT": "doesn't", // overrides "adopt"
-    "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
-    "TKAOPT": "adopt",
-    "AEUPT": "ain't",
-
     "AUPT": "aunt",
     "KOUPT": "count", // "could want" could be KOPT
     "KURPT": "current",
