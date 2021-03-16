@@ -3550,6 +3550,7 @@
     "PHARPB/H-F": "manner",         // from "margin"
     "PHAEPB/H-F": "mean",           // from "many"
     "PHORPB/H-F": "more than",      // from "morn"
+    "ORGD/H-F": "ordering",         // from "organized"
     "ORPBG/H-F": "organ",           // from "orange"
     "OERPB/H-F": "other than",      // from "owner"
     "OEFRT/H-F": "over the",        // from "overt"
