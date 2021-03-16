@@ -2165,6 +2165,7 @@
     "TPO": "people to",
 
     // The P-P symmetry makes it feel natural to use -P for "people" too.
+    // (See "Counting" for "two people", "three people", etc.)
     "PHAEP": "many people", // mashup of PHAEPB and -P
     "OERP": "other people", // overrides "ownership"
     "O*ERP": "ownership",   // Plover uses -P for -ship very nicely:
@@ -2176,13 +2177,6 @@
                             // maybe I can think of "relationship" and "ownership"
                             // as a pair, both requiring *.
     "SPH-P": "some people", // compare with the standard SPAOEPL
-
-    "TWOP": "two people",
-    "THRAOEP": "three people",
-    "THREP": "three people",
-    "TPOURP": "four people",
-    "TPAOEUFP": "five people",
-    "TPEUFP": "five people",
 
     // "and" stacking
     // SKP is just begging to be stacked.
@@ -2553,6 +2547,25 @@
     "HR-FB": "will have been",
     "WHOR": "who are", // overrides "whore"
     "WHO*R": "whore",
+
+    // -- Counting -------------------------------------------------------------
+
+    // P "people" (reflected along the vertical axis)
+    "TWOP": "two people",
+    "THRAOEP": "three people", // phonetic
+    "THREP": "three people",   // simpler vowel
+    "TPOURP": "four people",
+    "TPAOEUFP": "five people", // phonetic
+    "TPEUFP": "five people",   // simpler vowel
+
+    // T-G "thing"
+    "WUPBG": "one thing",
+    "TWOGS": "two things",
+    "THRAOEGS": "three things",
+    "THREGS": "three things",
+    "TPOURGS": "four things",
+    "TPAOEUFGS": "five things",
+    "TPEUFGS": "five things",
 
     // -- Grammar --------------------------------------------------------------
 
