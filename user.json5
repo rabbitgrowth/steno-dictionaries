@@ -770,6 +770,7 @@
     "SREUFLD": "vividly",
 
     // ... or use HR if -L is already used
+    "PWHROELD": "boldly",
     "KHR-RBL": "considerably",
     "SHRERBL": "essentially",
     "TPHRUL": "fully", // for consistency with TPUL "full"
