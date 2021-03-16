@@ -196,7 +196,6 @@
     "SRAOES": "series",
     "SRAOEZ": "series",
     "SHEUPBLG": "shingle",
-    "SEUFRPL/TOPB": "simpleton",
     "SOEPB/AR": "sonar",
     "SPHRART": "splatter",
     "STRAOEUTD": "strident",
@@ -547,6 +546,7 @@
     "HOEPL/PWOUPBD": "homebound",
     "PHAOEPB/TAOEUPL": "meantime",
     "SKART/SHOT": "scattershot",
+    "SEUFRP/TOPB": "simpleton",
     "STOER/TERL": "storyteller",
     "SWEUPL/SAOUT": "swimsuit",
     "SWEUPL/SAOUTS": "swimsuits",
@@ -764,6 +764,7 @@
     "ROEUPBL": "routinely",  // brief
     "SALD": "sadly",  // overrides "salad"
     "SAELD": "salad", // AE for /æ/
+    "SEUFRPL": "simply", // use SEUFRP for "simple"
     "STAOUPLD": "stupidly",
     "SWEUFLT": "swiftly",
     "PRAERL": "temporarily",
@@ -778,7 +779,6 @@
     "PHRERPL": "permanently",
     "SKHROL": "psychologically",
     "SHRAOEPLG": "seemingly",
-    "SHREUFRPL": "simply", // alternative to SPHREU
     "HRUPLT": "ultimately",
     "HRAOURBL": "usually", // which frees up ...
     "AOURBL": "usual",     // more strokes than AOURB but satisfyingly complete
