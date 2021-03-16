@@ -324,7 +324,6 @@
                           // EFPBL is a bit awkward to hit
     "HRAOEFPL": "eventually",
     "KPELT": "excellent",
-    "SPHRORGS": "exploration",
     "TPAOPBLG": "footage", // like TPHOPBLG "knowledge"
     "TPREFT": "forest",
     "TKPWARPB": "garden",
@@ -1000,6 +999,8 @@
     "SKPHROED": "explode",
     "SKPHROETD": "exploded",
     "SKPHROEUT": "exploit",
+    "SKPHROR": "explore",
+    "SKPHRORGS": "exploration",
     "SKPHROEGS": "explosion",
     "SKPHROES/EUF": "explosive", // cf. SPHROES/EUF
     "SKPOES": "expose", // a nice trio:
