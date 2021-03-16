@@ -1630,7 +1630,7 @@
     "T*TS": "it's the",
     // "it was"     T-FS already works
     "T-FTS": "it was the",
-    "W-R": "we are",     // overrides "where" (!)
+    "W-R": "we are",     // overrides "where"
     "W-RT": "we are the",
     "WR": "where",       // use -RP  for "were"
     "WR-T": "where the", // use -RPT for "were the"
@@ -2057,7 +2057,7 @@
     "TPHA": "in a",   // TPH-T "in the"
     "SA": "is a",     // S-T   "is the"
     "AOPB": "on a",   // OPBT  "on the"    (use AUPB for {on^})
-    "TAO": "to a",    // TOT   "to the"    (overrides "too" (!))
+    "TAO": "to a",    // TOT   "to the"    (overrides "too")
     "HRA": "will a",  // HR-T  "will the"
     "WA": "with a",   // W-T   "with the"
 
@@ -3190,7 +3190,7 @@
     "STKPWREPLT": "disagreement",
 
     // "apple" family
-    "APL": "apple", // overrides "am" (!)
+    "APL": "apple", // overrides "am"
     "-PL": "am", // cf. EU/-PL "I am"
                  // use TP-PL for {.}
     "PAOEUPB/APL": "pineapple",
@@ -3312,7 +3312,7 @@
     "TOE": "toe",
     "TOES": "toes",
     "TOEG": "toeing",
-    "TOED": "toed", // overrides "today" (!)
+    "TOED": "toed", // overrides "today"
     "TOD": "today", // give up {^ed to}
     "AOUS/TOD": "use today", // by default "used to"
     "TO*E": "tow",
