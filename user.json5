@@ -881,7 +881,9 @@
     "KPWREFG": "impressing",
     "KPWREGS": "impression",
     "KPWREF": "impressive", // cf. EUPL/PREF
-    "KPWROF": "improve",    // cf. EUPL/PROF
+    "KPWREUPBT": "imprint",
+    "KPWREUPT": "imprint",
+    "KPWROF": "improve", // cf. EUPL/PROF
     "KPWROFPLT": "improvement", // although Plover allows the simpler PROFPLT
 
     "KPWAOEUB": "imbibe",
