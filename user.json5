@@ -2882,6 +2882,9 @@
     // -- Capitalization -------------------------------------------------------
 
     // Names
+    "SPHOF": "Asimov", // AS/PHOF is "as move"
+                       // ("he couldn't so much as move a finger")
+                       // use SPH-F for "some of"
     "PWAO*EUPBD": "Biden", // starless is "bind"
     "TPRAOED/REUFP": "Friedrich",
     "TKPWO*R": "Gore",
