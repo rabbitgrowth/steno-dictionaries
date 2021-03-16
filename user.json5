@@ -177,7 +177,8 @@
     "PHES/PHRAOEUFG": "mesmerizing",
     "PHRAL": "morale", // use PHORL for "moral"
     "PHAOUFPL": "mutual",
-    "TPHARLT": "natural", // allow not omitting the -T
+    "TPHARLT": "natural",    // allow not omitting the -T
+    "TPHRARLT": "naturally", // superimpose HR on top for -ly
     "TPHEBLS": "nebulous",
     "TPHEUPL/ROD": "nimrod",
     "OB/HREUF/KWROUS": "oblivious",
