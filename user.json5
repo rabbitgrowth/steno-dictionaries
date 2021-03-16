@@ -177,8 +177,6 @@
     "PHES/PHRAOEUFG": "mesmerizing",
     "PHRAL": "morale", // use PHORL for "moral"
     "PHAOUFPL": "mutual",
-    "TPHARLT": "natural",    // allow not omitting the -T
-    "TPHRARLT": "naturally", // superimpose HR on top for -ly
     "TPHEBLS": "nebulous",
     "TPHEUPL/ROD": "nimrod",
     "OB/HREUF/KWROUS": "oblivious",
@@ -1571,7 +1569,9 @@
     "RE/SKWRAOUF": "rejuvenate",
     "RE/SKWRAOUFGS": "rejuvenation",
     "TPHAR": "narrow",
-    "TPHARL": "narrowly", // use TPHARLT for "natural"
+    "TPHARL": "narrowly",    // overrides "natural"
+    "TPHARLT": "natural",    // fully phonetic
+    "TPHRARLT": "naturally", // superimpose HR for -ly
     "POEPB": "pony",
     "KWARPB": "quarantine",
     "SERBG": "secretary", // from my SERBG/TREU
