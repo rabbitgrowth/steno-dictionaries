@@ -711,6 +711,7 @@
 
     // ... or use R if -R is already used
     // Precedents: TPRORPL "former", RERL "earlier"
+    "TPRARPL": "farmer",
     "PHROURPB": "mourner",
     "PHRURD": "murderer",
     "RORP": "reporter",   // embrace ORP
