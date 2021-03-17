@@ -2461,14 +2461,47 @@
     // "if he will" TPEL   "fell"
     // So add an arbitrary S when stacking. It's a bit of a stretch,
     // but I can think of the S as standing for the French "si".
+    "STPEUPL": "if I am",
+    "STP*EUPL": "if I'm",
+    "STPEUFS": "if I was",
     "STPEURP": "if I were",  // TP works too
+    "STPEUF": "if I have",
+    "STP*EUF": "if I've",
     "STPEUD": "if I had",
+    "STPEUBG": "if I can", // overrides "fantastic"
+    "TPAFBG": "fantastic",
+    "STPEUBGD": "if I could",
+    "STPEURBD": "if I should",
+    "STPEUL": "if I will", // misstroke for "still"
+    "STP*EUL": "if I'll",
+    "STPEULD": "if I would",
+    "STP*EUD": "if I'd",
     "STPUR": "if you are",
     "STP*UR": "if you're",
     "STPURP": "if you were", // TP works too
     "STPUF": "if you have",  // TP works too
     "STP*UF": "if you've",
+    "STPUD": "if you had",
     "STPUBG": "if you can",
+    "STPUBGD": "if you could",
+    "STPURBD": "if you should",
+    "STPUL": "if you will",
+    "STP*UL": "if you'll",
+    "STPULD": "if you would",
+    "STP*UD": "if you'd",
+    "STPES": "if he is",
+    "STP*ES": "if he's",
+    "STPEFS": "if he was",
+    "STPERP": "if he were",
+    "STPEZ": "if he has",
+    "STPED": "if he had",
+    "STPEBG": "if he can",
+    "STPEBGD": "if he could",
+    "STPERBD": "if he should",
+    "STPEL": "if he will",
+    "STP*EL": "if he'll",
+    "STPELD": "if he would",
+    "STP*ED": "if he'd",
 
     // KH as stacking form of "which"
     // This already works for the most basic words:
