@@ -686,6 +686,7 @@
     "SH*EFR": "chèvre",  // phonetic
     "KPHARPBD": "commander",
     "KPHORPB": "commoner",
+    "KAUPB/SAOERL": "concealer",
     "TKERT": "debtor",
     "STKRAEURT": "demonstrator",
     "TKRAOERPL": "dreamer",
@@ -3031,7 +3032,6 @@
 
     // Missing words
     "ART/SEU/TPART/SEU": "artsy-fartsy",
-    "KAUPB/SAOERL": "concealer",
     "TKO*PB": "don", // starless is "done"; prepend KPA* for "Don"
     "TKO*U": "Dow", // starless is "do you"
     "AOEF": "eve",  // overrides "Eve"
