@@ -3215,6 +3215,7 @@
     "KURPT": "current",
     "EFPT": "event",
     "SKWRAOEUPT": "giant",
+    "TKPWROUPD": "ground", // use TKPW-PD for "grouped"
     "HUPT": "hunt",
     "SKWROEUPT": "joint",
     "PHRAPT": "plant",
