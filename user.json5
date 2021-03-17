@@ -3618,6 +3618,7 @@
 
     // Stacking
     "AUFL/H-F": "all of",           // from "awful"
+    "PWAUT/H-F": "because the",     // from "bought"
     "PWEUT/H-F": "by the",          // from "bit"
     "TKOT/H-F": "do the",           // from "dot"
     "TKPWOT/H-F": "go to the",      // from "got"
