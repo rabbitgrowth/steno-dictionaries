@@ -890,6 +890,7 @@
     "KPWREUPT": "imprint",
     "KPWROF": "improve", // cf. EUPL/PROF
     "KPWROFPLT": "improvement", // although Plover allows the simpler PROFPLT
+    "KPWULS": "impulse",
 
     "KPWAOEUB": "imbibe",
     "KPWAOU": "imbue",
