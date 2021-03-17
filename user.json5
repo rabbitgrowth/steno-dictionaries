@@ -3557,7 +3557,6 @@
 
     // Phoenix uses R-R but that's newline in Plover already,
     // so move that up one tile and use H-F. (Use KW-PL for {?}.)
-    "AUFL/H-F": "all of",           // from "awful"
     "HROUD/H-F": "allowed",         // from "loud"
     "PHAEUD/H-F": "amid",           // from "maid"
     "PWALD/H-F": "badly",           // from "balanced"
@@ -3567,7 +3566,6 @@
     "PWUPBLG/H-F": "bundling",      // from "budge"
     "PWURD/H-F": "buried",          // from "burden"
     "PWURG/H-F": "burying",         // from {^burg}
-    "PWEUT/H-F": "by the",          // from "bit"
     "KAEUFG/H-F": "casing",         // from {^ication}
     "KOEP/H-F": "copy",             // from "cope"
     "KREUFPL/H-F": "crisply",       // from "criticism" (custom)
@@ -3575,12 +3573,10 @@
     "TKAOEPL/H-F": "deeply",        // from "deem"
     "STKERT/H-F": "dessert",        // from "desert"
     "STKERTS/H-F": "desserts",
-    "TKOT/H-F": "do the",           // from "dot"
     "TKOG/H-F": "doing",            // from "dog"
     "TPAEUTD/H-F": "faded",         // from "fated"
     "TPAEURL/H-F": "failure",       // from "fairly"
     "TPAOEUPBL/H-F": "finely",      // from "final"
-    "TKPWOT/H-F": "go to the",      // from "got"
     "TKPWREG/H-F": "Greg",          // from "agreeing" (custom)
     "TKPWUPB/H-F": "gun",           // from "begun"
     "HARBG/H-F": "hacker",          // from "hark"
@@ -3596,7 +3592,6 @@
     "ORGD/H-F": "ordering",         // from "organized"
     "ORPBG/H-F": "organ",           // from "orange"
     "OERPB/H-F": "other than",      // from "owner"
-    "OEFRT/H-F": "over the",        // from "overt"
     "RAEUPLD/H-F": "Raymond",       // from "remained" (custom)
     "WRAOU/H-F": "review",          // from "withdrew"
     "RAOEURD/H-F": "rider",         // from "required"
@@ -3620,6 +3615,13 @@
     "WHABG/H-F": "whack",           // from "what can"     (custom)
     "WHAEL/H-F": "whale",           // from "what he will" (custom)
     "WHOR/H-F": "whore",            // from "who are"      (custom)
+
+    // Stacking
+    "AUFL/H-F": "all of",           // from "awful"
+    "PWEUT/H-F": "by the",          // from "bit"
+    "TKOT/H-F": "do the",           // from "dot"
+    "TKPWOT/H-F": "go to the",      // from "got"
+    "OEFRT/H-F": "over the",        // from "overt"
 
     // Homophones or near-homophones
     "AD/H-F": "ad",                 // from "add"
