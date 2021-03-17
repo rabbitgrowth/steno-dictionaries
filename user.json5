@@ -134,6 +134,7 @@
     "PAUFT": "{post^}",           // with KAUPB "con-", AUFR "over-"
 
     // Words with other words in them
+    "ARG/KURLT": "agriculture", // or just use AG/KULT
     "PHEL/TKROEUPL": "melodrama",
     "SEUFRP/TOPB": "simpleton",
 
