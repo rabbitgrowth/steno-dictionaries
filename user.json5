@@ -1008,6 +1008,8 @@
     "SKPEPBS": "expense",
     "SKPAOERPBS": "experience",
     "SKPAOERPBD": "experienced", // cf. SPAOERPBD
+    "SKPERT": "expert",
+    "SKPERT/AOES": "expertise",
     "SKPAOEUR": "expire",
     "SKPHREUFT": "explicit",
     "SKPHROED": "explode",
