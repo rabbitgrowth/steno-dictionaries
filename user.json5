@@ -877,7 +877,7 @@
     "KPWHROR": "implore",
     "KPWHRAOEU": "imply", // the left-hand KPWHRAO cluster is a bit clumsy
     "KPWHREU": "imply",   // ... so allow omitting AO to lighten the load
-    "KPWHREUBGS": "implication", // (useful!) misstroke for "complication"
+    "KPWHREUBGS": "implication", // misstroke for "complication"
     "KPWOES": "impose",
     "KPWOEFD": "imposed",
     "KPWOEFG": "imposing",
