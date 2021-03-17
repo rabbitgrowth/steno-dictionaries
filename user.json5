@@ -1325,7 +1325,9 @@
     "SKWRAEULGS": "generational", // use -Z for "jailings"
     "SPRAEULGS": "inspirational",
     "STPHAOULGS": "institutional",
-    "TPH-LGS": "national",        // or use TPHAT
+    "TPH-LGS": "national", // or use TPHAT
+    "KOEULGS": "occasional",
+    "KHROEULGS": "occasionally",
     "PRO/SREULGS": "provisional", // or use PREUPBL (custom)
 
     // -LZ for -lize
