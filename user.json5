@@ -40,9 +40,9 @@
     "HR-BGT": "like the",
     "HR-LG": "likely", // overrides {^ological}
     "HR*LG": "{^ological}",
-    "SHR-BG": "unlike", // S for negation
-    "SHR-BGT": "unlike the",
-    "SHR-LG": "unlikely",
+    "SHR-BG": "is like",
+    "SHR-BGT": "is like the",
+    "SHR-LG": "is likely",
     "HRAOLG": "likelihood", // HR-LG + "oo"
     "PR-B": "problem",
     "-RT": "right", // use R-T for "are the"
