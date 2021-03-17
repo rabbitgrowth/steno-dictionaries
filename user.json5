@@ -280,6 +280,8 @@
 
     // Use simpler vowel
     // Precedents: TREU "try", THRE "three"
+    "TUL": "actual",
+    "THRUL": "actually",
     "PWHREUPBD": "blind",        // add TKA for "Belinda", or use ...
     "PWHREUPB/TKA": "Belinda",   // cf. SPHREPB/TKA   "Splenda"
     "PWHREUPBD/KWRA": "Belinda", //     SPHREPBD/KWRA
