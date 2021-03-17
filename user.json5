@@ -2674,10 +2674,10 @@
     "EUFD": "{^ized}",  // cf. AO*EUFD
     "EUSZ": "{^izes}",
     "EUFG": "{^izing}", // cf. AO*EUFG
-    "TPHREBGS": "flex",   // already works
-    "TPHREBGZ": "flecks", // use TPHRETS for "reflects"
     "ROES": "rose", // swap with "rows"
     "ROEZ": "rows",
+    "TPHREBGZ": "flecks", // vs TPHREBGS "flex"
+    "PAUZ": "paws",       // vs PAUS "pause"
     // When there's no conflict, prefer -S over -Z.
     // It's just easier to type.
     "KPROPLS": "compromise",
@@ -3670,6 +3670,7 @@
     "TPHOES/H-F": "knows",          // from "nose"
     "PHAPBGS/H-F": "manages",       // from "mansion"
     "WUPBS/H-F": "ones",            // from "once"
+    "PAUS/H-F": "paws",             // from "pause"
     "PAOERS/H-F": "peers",          // from "pierce"
     "PHRAEUS/H-F": "plays",         // from "place"
     "PREUPBS/H-F": "principles",    // from "prince"
