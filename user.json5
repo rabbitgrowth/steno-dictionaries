@@ -68,7 +68,7 @@
     "TOTS": "to its",
     "W-TS": "with its",
 
-    // -- Consistency with existing strokes ------------------------------------
+    // -- Consistency ----------------------------------------------------------
 
     "A/KUFPL": "accustom",        // with A/KUFPLD "accustomed"
     "AFBG": "affect",             // with EFBG "effect"
@@ -115,7 +115,6 @@
                                   //   use HR-PBS for "license"
     "HR-PBD": "listened",
     "HR-RPB": "listener",
-    "PHEL/TKROEUPL": "melodrama", // with TKROEUPL "drama"
     "TPHAOERB": "nearby",         // with TPHAOER "near"
                                   //   instead of TPHAERB; use TPHEURB for "niche"
     "TPHORBG": "New York",        // with TPHORBG/TAOEUPLS "New York Times"
@@ -133,6 +132,10 @@
     "UFT": "unfortunate",         // with UFL "unfortunately"
     "WOEPB": "woken",             // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",           // with KAUPB "con-", AUFR "over-"
+
+    // Words with other words in them
+    "PHEL/TKROEUPL": "melodrama",
+    "SEUFRP/TOPB": "simpleton",
 
     // -- Phonetic -------------------------------------------------------------
 
@@ -554,7 +557,6 @@
     "HOEPL/PWOUPBD": "homebound",
     "PHAOEPB/TAOEUPL": "meantime",
     "SKART/SHOT": "scattershot",
-    "SEUFRP/TOPB": "simpleton",
     "STOER/TERL": "storyteller",
     "SWEUPL/SAOUT": "swimsuit",
     "SWEUPL/SAOUTS": "swimsuits",
