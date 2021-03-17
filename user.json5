@@ -2464,7 +2464,7 @@
     "STPEUPL": "if I am",
     "STP*EUPL": "if I'm",
     "STPEUFS": "if I was",
-    "STPEURP": "if I were",  // TP works too
+    "STPEURP": "if I were",
     "STPEUF": "if I have",
     "STP*EUF": "if I've",
     "STPEUD": "if I had",
@@ -2478,8 +2478,8 @@
     "STP*EUD": "if I'd",
     "STPUR": "if you are",
     "STP*UR": "if you're",
-    "STPURP": "if you were", // TP works too
-    "STPUF": "if you have",  // TP works too
+    "STPURP": "if you were",
+    "STPUF": "if you have",
     "STP*UF": "if you've",
     "STPUD": "if you had",
     "STPUBG": "if you can",
