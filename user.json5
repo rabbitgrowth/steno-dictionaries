@@ -106,6 +106,7 @@
     "HAPBT": "hasn't",          // with HAPBLT "has not"
                                 //   HAPBT "hasn't" + -L as bridge = "has not"
     "STK*EPB": "incident",      // with STKEPB "accident"
+    "TPH-FBGT": "infect",       // with TPH-FRPL "inform", TPH-FPBT "infinite", etc.
     "TERPGS": "interpretation", // with TERP "interpret"
     "TWAOEPB": "intervene",     // with TWEPBGS "intervention"; use TW for "between"
     "HR-PB": "listen",          // with HR-PBG "listening"; use HR-PBS for "license"
