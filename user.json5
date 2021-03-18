@@ -1632,7 +1632,7 @@
     "H*TS": "he's the",
     "H-FS": "he was", // interesting there's no KW-PLS for {^s}{?}
     "H-FTS": "he was the",
-    "SH-S": "she is", // overrides "ssh"
+    "SH-S": "she is", // give up "ssh"
     "SH-TS": "she is the",
     "SH*S": "she's",
     "SH*TS": "she's the",
