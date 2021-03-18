@@ -524,11 +524,9 @@
     // but ER is more useful as {^er}.
 
     "KRAOE": "Korea", // consistent with KRAOEPB "Korean"
-                      // overrides "CEO" [1]
+                      // use SAOE/OE (custom) for "CEO"
     "SOUT/KRAOE": "South Korea", // allow dropping *
     "TPHORT/KRAOE": "North Korea",
-    /*1*/ "SAOE/OE": "CEO", // also used by Plover-Trillo
-          "SAOE/OES": "CEOs",
 
     // -- Homophones -----------------------------------------------------------
 
@@ -3012,6 +3010,13 @@
     "-T/HRORD/AES/PRAEUR": "the Lord's Prayer",
     "-T/STPHA*T": "the Senate", // I can be lazy and drop the *, because
                                 // -T/STPHAT is defined by default as "the Senate"
+
+    // -- Acronyms and initialisms ---------------------------------------------
+
+    // Pronounce acronyms like normal words
+    "SAOE/OE": "CEO",
+    "SAOE/OES": "CEOs",
+    "EPL/AOEUT": "MIT", // PHEUT is "mitt" and PH*EUT is "myth"
 
     // -- Honorifics -----------------------------------------------------------
 
