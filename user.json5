@@ -204,7 +204,6 @@
     "SPHRART": "splatter",
     "STRAOEUTD": "strident",
     "SR*ERPBD": "surrender", // starless is "vendor"
-    "T*EPBT": "tenth", // overrides "entity" [1]
     "T*ERS": "terrace", // starless is "terse"
     "TREFPS": "treacherous",
     "TROEL": "troll", // use PROL for "patrol"
@@ -222,11 +221,13 @@
     "WAOPBD": "wooden",
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELS for "sells"
-    /*1*/ "EPBT/-T": "entity", // or use the more normal EPBT/TEU
 
     "APL": "apple", // overrides "am"
     "-PL": "am",    // cf. EU/-PL "I am"
                     // use TP-PL for {.}
+
+    "T*EPBT": "tenth",   // overrides "entity"
+    "EPBT/-T": "entity", // or use the more normal EPBT/TEU
 
     // Phonetic alternatives to briefs
     "KAUPB/TKURBGT": "conductor", // to KURBGT
