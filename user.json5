@@ -361,6 +361,7 @@
     /*1*/ "STO*RBG": "stork", // give up "State of New York"
     /*2*/ "A*UBG": "awk",     // give up "AUC"
 
+    "TPRAEFD": "afraid of", // misstroke for "afraid"
     "SKPAOPB": "and so on", // SKP + SO + OPB with AO for the doubled "o"
     "SKP-PB": "and then",
     "SKP-PBT": "and then the",
