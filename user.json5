@@ -3631,6 +3631,7 @@
     "TOEFRTS/H-F": "toasters",
     "TRUPBLG/H-F": "trundling",     // from "trudge"
     "WEBG/H-F": "webbing",          // from "week" (custom)
+    "WAOEULD/H-F": "widely",        // from "wild"
 
     // Forced evictions to make way for phrasing strokes
     "AOEUPLT/H-F": "item",          // from "I'm the"      (custom)
