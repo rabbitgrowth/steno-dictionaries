@@ -1190,7 +1190,7 @@
     "TKPWURT": "gutter",
     "PHURT": "mutter",
     // It's a bit tempting to assign URT to "utter",
-    // but "you're the" is too useful to give up.
+    // but "you are the" is too useful to give up.
 
     // -F for -s- or -z-
     "AP/TAOEUFR": "appetizer",
