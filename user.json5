@@ -132,6 +132,7 @@
     // Words with other words in them
     "ARG/KURLT": "agriculture", // or just use AG/KULT
     "PHEL/TKROEUPL": "melodrama",
+    "PAOEUPB/APL": "pineapple", // with APL "apple" (custom)
     "SEUFRP/TOPB": "simpleton",
 
     // -- Phonetic -------------------------------------------------------------
@@ -222,6 +223,10 @@
     "WAOPBD": "wooden",
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELS for "sells"
+
+    "APL": "apple", // overrides "am"
+    "-PL": "am",    // cf. EU/-PL "I am"
+                    // use TP-PL for {.}
 
     // Phonetic alternatives to briefs
     "KAUPB/TKURBGT": "conductor", // to KURBGT
@@ -3254,12 +3259,6 @@
     "TKPWREPLT": "agreement",
     "STKPWRE": "disagree",
     "STKPWREPLT": "disagreement",
-
-    // "apple" family
-    "APL": "apple", // overrides "am"
-    "-PL": "am", // cf. EU/-PL "I am"
-                 // use TP-PL for {.}
-    "PAOEUPB/APL": "pineapple",
 
     // "criticism" family
     "KREUFPL": "criticism", // "critsim" already truncates the "ci". Why not go further?
