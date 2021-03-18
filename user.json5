@@ -2879,6 +2879,7 @@
     "H-PT": "hadn't",
     "SR-PT": "haven't", // overrides "vice president" [2]
     "SHOPT": "shouldn't",
+    "WUPT": "wasn't",
     "WOEPT": "won't",
     "WOPT": "wouldn't",
     /*1*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
