@@ -3555,6 +3555,8 @@
 
     // -- Misstrokes -----------------------------------------------------------
 
+    "WOEUD": "wide",
+
     "KW-RBG": "{,}", // otherwise gives "--ing"
     "KW-BGS": "{,}", // otherwise gives ",s"
 
