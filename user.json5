@@ -2868,22 +2868,22 @@
     // also uses -PT instead of -PBT as the stacking form of "want":
     //   UPBT "you want"
     //   UPT  "you want"
-    "SR-PT": "haven't", // overrides "vice president" [1]
-    "H-PT": "hadn't",
+    "AEUPT": "ain't",
     "K-PT": "can't", // KAPT is "captain"
                      // cf. K-PBT "can't"
                      // give up "can want"
     "KOPT": "couldn't",
+    "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
+    "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION} [1]
+    "TKOEPT": "don't",
+    "H-PT": "hadn't",
+    "SR-PT": "haven't", // overrides "vice president" [2]
     "SHOPT": "shouldn't",
     "WOEPT": "won't",
     "WOPT": "wouldn't",
-    "TKOEPT": "don't",
-    "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION} [2]
-    "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
-    "AEUPT": "ain't",
-    /*1*/ "SREZ": "vice president",  // cf. PREZ  "president"
+    /*1*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
+    /*2*/ "SREZ": "vice president",  // cf. PREZ  "president"
           "SR*EZ": "Vice President", // cf. PR*EZ "President"
-    /*2*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
 
     // Add -L as "bridge" to expand to full form
     // Standard Plover also does this, but without dropping the -B:
