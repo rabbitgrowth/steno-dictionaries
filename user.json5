@@ -27,19 +27,14 @@
     "K-D": "kind", // use A/KORD for "accord"; Plover even allows A/K-D
                    // KIND   416980
                    // ACCORD   6864
-    "K-FD": "kind of", // overrides "confidence"
-    "K-FS": "confidence", // cf. K-FT "confident",
-                          // following the -S vs -T pattern:
-                          // PREPBS "presence"
-                          // PREPBT "present"
+    "K-FD": "kind of", // overrides "confidence" [1]
     "HR-BG": "like", // use WELG for "welcome"
     "HR*BG": "{^like}", // use HR*PBG for "[l]ow i[nc]ome", maybe;
                         // don't really care
     "HR-BGS": "likes",
     "HR-BGD": "liked",
     "HR-BGT": "like the",
-    "HR-LG": "likely", // overrides {^ological}
-    "HR*LG": "{^ological}",
+    "HR-LG": "likely", // overrides {^ological} [2]
     "SHR-BG": "is like",
     "SHR-BGT": "is like the",
     "SHR-LG": "is likely",
@@ -50,6 +45,11 @@
     "RAOEUT": "riot",
     "RAOEURT": "rioter", // much nicer than RAOEU/OT/*ER
     "T-G": "thing",
+    /*1*/ "K-FS": "confidence", // cf. K-FT "confident",
+                                // following the -S vs -T pattern:
+                                // PREPBS "presence"
+                                // PREPBT "present"
+    /*2*/ "HR*LG": "{^ological}",
 
     "-TS": "its",
     "*TS": "itself",
@@ -207,8 +207,7 @@
     "SPHRART": "splatter",
     "STRAOEUTD": "strident",
     "SR*ERPBD": "surrender", // starless is "vendor"
-    "T*EPBT": "tenth",   // overrides "entity"
-    "EPBT/-T": "entity", // or use the more normal EPBT/TEU
+    "T*EPBT": "tenth", // overrides "entity" [1]
     "T*ERS": "terrace", // starless is "terse"
     "TREFPS": "treacherous",
     "TROEL": "troll", // use PROL for "patrol"
@@ -226,6 +225,7 @@
     "WAOPBD": "wooden",
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELS for "sells"
+    /*1*/ "EPBT/-T": "entity", // or use the more normal EPBT/TEU
 
     // Phonetic alternatives to briefs
     "KAUPB/TKURBGT": "conductor", // to KURBGT
@@ -268,8 +268,7 @@
     "ROR/-S": "errors",
     "HEF": "heavy", // HEFL "heavily" - -L
                     // it's also nice that HEF + -T = "heft"
-    "HEFR": "heavier", // overrides "heifer"
-    "H*EFR": "heifer",
+    "HEFR": "heavier", // overrides "heifer" [1]
     "PHERPL": "memory",
     "PHORLT": "mortal", // use PHRALT for "morality" /məˈralɪti/
                         // PHORLT feels more like /ˈmɒrəlti/
@@ -277,10 +276,11 @@
     "PARPLT": "parliament", // use ARPLT for "apartment"
     "POERT": "poetry",
     "THAOER": "theory",
-    "THAOERS": "theories", // overrides "these are"
-    "THERZ": "these are",
+    "THAOERS": "theories", // overrides "these are" [2]
     "THAOEFRT": "theorist",
     "THAOERL": "theoretical", // cf. the standard THOEURL
+    /*1*/ "H*EFR": "heifer",
+    /*2*/ "THERZ": "these are",
 
     // Use simpler vowel
     // Precedents: TREU "try", THRE "three"
@@ -318,10 +318,8 @@
     "ALG": "algorithm", // use ALGS for "additional" (AGS "addition" + -L)
     "ARD": "around",
     "STORB": "astonish",
-    "STORBG": "astonishing", // overrides "stork" (a bird)
-    "STO*RBG": "stork",      // give up "State of New York"
-    "AUBG": "automatic", // overrides "awk" (informal "awkward")
-    "A*UBG": "awk",      // give up "AUC"
+    "STORBG": "astonishing", // overrides "stork" (a bird) [1]
+    "AUBG": "automatic",     // overrides "awk" (awkward)  [2]
     "KPRA*EUPBS": "contemporaneous", // starless is "extraneous"
                                      // the standard KPRA*EURPBS minus -R
     "KURPB": "curtain",
@@ -358,6 +356,8 @@
     "SRAOEUBGS": "vibration", // from "vibe" as in "good vibes"
     "SRULG": "vulgar",
     "WORP": "worship", // give up "WordPress"
+    /*1*/ "STO*RBG": "stork", // give up "State of New York"
+    /*2*/ "A*UBG": "awk",     // give up "AUC"
 
     "SKPAOPB": "and so on", // SKP + SO + OPB with AO for the doubled "o"
     "SKP-PB": "and then",
@@ -487,30 +487,30 @@
 
     // Lengthen vowel
     // Precedent: TPUPB "fun" -> TPAOUPB "funny"
-    "AEURPBG": "angry", // use A/RAEUPB for "arraign"
-    "PWAOUL": "bully", // overrides "boule"
-    "PWAO*UL": "boule",
-    "PWAOUPB": "bunny",
-    "HAOURPBG": "hungry",
     // See also:
     // HELT "health"     -> HAOELT "healthy"
     // SKWRELS "jealous" -> SKWRAOELS "jealousy"
+    "AEURPBG": "angry", // use A/RAEUPB for "arraign"
+    "PWAOUL": "bully",  // overrides "boule" [1]
+    "PWAOUPB": "bunny",
+    "HAOURPBG": "hungry",
+    /*1*/ "PWAO*UL": "boule",
 
     // Drop it
     // -D, -T, and -Z produce a "pronounce last letter" effect.
     // For example, STURD = stur-D = "sturdy". A possibly accidental
     // precedent is THORT = thor-T ~= "authority".
-    "PWOD": "body",    // overrides "bod"
-    "PWODZ": "bodies", // overrides "bods"
-    "PWO*D": "bod",
-    "PWUR": "bury", // overrides "burr"
+    "PWOD": "body",    // overrides "bod"  [1]
+    "PWODZ": "bodies", // overrides "bods" [1]
+    "PWUR": "bury", // overrides "burr" [2]
                     // folding in -G and -D don't work though:
                     // PWURG is {^burg} and PWURD is "burden"
-    "PW*UR": "burr",
     "TKEUZ": "dizzy", // use TKEUS for {dis^}
     "HUR": "hurry",
     "HRAURPBD": "laundry",
     "STURD": "sturdy",
+    /*1*/ "PWO*D": "bod",
+    /*2*/ "PW*UR": "burr",
 
     // -- Drop final schwa -----------------------------------------------------
 
@@ -521,11 +521,11 @@
     // but ER is more useful as {^er}.
 
     "KRAOE": "Korea", // consistent with KRAOEPB "Korean"
-                      // overrides "CEO"
+                      // overrides "CEO" [1]
     "SOUT/KRAOE": "South Korea", // allow dropping *
     "TPHORT/KRAOE": "North Korea",
-    "SAOE/OE": "CEO", // also used by Plover-Trillo
-    "SAOE/OES": "CEOs",
+    /*1*/ "SAOE/OE": "CEO", // also used by Plover-Trillo
+          "SAOE/OES": "CEOs",
 
     // -- Homophones -----------------------------------------------------------
 
@@ -668,15 +668,15 @@
     "SRAEPBG": "avenge",
 
     // ... or use S when folding in A leads to conflict or is confusing
-    "SPWROD": "abroad",  // PWRAOD is a good stroke for "broad",
-                         // although PWROD is probably better
-    "SKROS": "across",   // KRAOS feels more like "croos"
-    "SHROEPB": "alone",  // HRAOEPB is "lean"; overrides "Sloan"
-    "SHRO*EPB": "Sloan",
-    "SPART": "apart",    // can't fold in A when there's already an A
-    "SWOEUD": "avoid",   // SRAOEUD is "vied"
-    "SWOU": "avow",      // SRAOU is "view"
-    "SWOUL": "avowal",   // SRAOUL is "value"
+    "SPWROD": "abroad", // PWRAOD is a good stroke for "broad",
+                        // although PWROD is probably better
+    "SKROS": "across",  // KRAOS feels more like "croos"
+    "SHROEPB": "alone", // HRAOEPB is "lean"; overrides "Sloan" [1]
+    "SPART": "apart",   // can't fold in A when there's already an A
+    "SWOEUD": "avoid",  // SRAOEUD is "vied"
+    "SWOU": "avow",     // SRAOU is "view"
+    "SWOUL": "avowal",  // SRAOUL is "value"
+    /*1*/ "SHRO*EPB": "Sloan",
 
     // Fold in -R for -er or -or
     "KHEFR": "achiever", // overrides "chevre"
@@ -764,8 +764,7 @@
     "PHEUFT/KWROULS": "mysteriously",
     "TPHAOELT": "neatly",
     "TPHO/TORLS": "notoriously",
-    "OEPL": "openly", // overrides "ohm"
-    "O*PL": "ohm",    // kind of fits because O is "oh"
+    "OEPL": "openly", // overrides "ohm" [1]
     "PAEURBLT": "patiently",
     "PHRAOEULT": "politely",
     "PRO*PBLT": "predominantly",
@@ -774,13 +773,14 @@
     "RES/HRAOULT": "resolutely",
     "RAOUPBLT": "routinely", // phonetic
     "ROEUPBL": "routinely",  // brief
-    "SALD": "sadly",  // overrides "salad"
-    "SAELD": "salad", // AE for /æ/
+    "SALD": "sadly", // overrides "salad" [2]
     "SEUFRPL": "simply", // use SEUFRP for "simple"
     "STAOUPLD": "stupidly",
     "SWEUFLT": "swiftly",
     "PRAERL": "temporarily",
     "SREUFLD": "vividly",
+    /*1*/ "O*PL": "ohm",    // kind of fits because O is "oh"
+    /*2*/ "SAELD": "salad", // AE for /æ/
 
     // ... or use HR if -L is already used
     "PWHROELD": "boldly",
@@ -1037,11 +1037,11 @@
 
     // TPH for in-
     // Precedents: TPHERT "inert", TPHEURBL "initial"
-    "TPHAEUPB": "inane", // overrides "ninja"
-    "TPH*EUPBG": "ninja", // starless is {^ening} as in "sickening"
-                          // mnemonic: * looks like a shuriken
+    "TPHAEUPB": "inane", // overrides "ninja" [1]
     "TPHEPT": "inept",
     "TPHAOUR": "inure",
+    /*1*/ "TPH*EUPBG": "ninja", // starless is {^ening} as in "sickening"
+                                // mnemonic: * looks like a shuriken
 
     // TPEU for -fy
     // This is standard in Plover (KHRAR/TPEU "clarify",
@@ -1189,8 +1189,7 @@
     "SKREZ": "decrease",
 
     // URT for -utter
-    "PWURT": "butter", // overrides "Burt"
-    "PW*URT": "Burt",
+    "PWURT": "butter", // overrides "Burt" [1]
     "PWURT/TPHRAOEU": "butterfly",
     "KHRURT": "clutter",
     "TPHRURT": "flutter",
@@ -1198,6 +1197,7 @@
     "PHURT": "mutter",
     // It's a bit tempting to assign URT to "utter",
     // but "you're the" is too useful to give up.
+    /*1*/ "PW*URT": "Burt",
 
     // -F for -s- or -z-
     "AP/TAOEUFR": "appetizer",
@@ -1410,14 +1410,14 @@
     "PWHREUL": "belittle", // cf. HREUL "little"
     "PWREUL": "brittle", // conflicts with "brilliant" with -T
     "WHEUL": "whittle",
-    "PWOLT": "bottle",   // overrides "bolt"
-    "PWOLTS": "bottles", // hard-coded as "bolts"
-    "PWOELT": "bolt",    // cf. THUPBD/*ER/PWOELT "thunderbolt"
+    "PWOLT": "bottle",   // overrides "bolt"  [1]
+    "PWOLTS": "bottles", // overrides "bolts" [1]
     "THROLT": "throttle",
-    "SKULT": "scuttle", // overrides "consult"
-    "SULT": "consult",  // "sult" is a more distinctive part of "consult" anyway
-    "KULT": "cult",     // ... which frees up KULT for "cult"
+    "SKULT": "scuttle", // overrides "consult" [2]
     "SHULT": "shuttle",
+    /*1*/ "PWOELT": "bolt",  // cf. THUPBD/*ER/PWOELT "thunderbolt"
+    /*2*/ "SULT": "consult", // "sult" is a more distinctive part of "consult" anyway
+          "KULT": "cult",    // ... which frees up KULT for "cult"
 
     "PWAOELT": "beetle",
     "KHORLT": "chortle",
@@ -1464,17 +1464,17 @@
     "TKAO*LD": "doodle",
     "TKPWEURLD": "girdle",
     "TKPW*EURLD": "girdle",
-    "AOEULD": "idle", // overrides "island"
+    "AOEULD": "idle", // overrides "island" [1]
     "AO*EULD": "idle",
-    "AOEUPBLD": "island", // use SKP*EUPL for "and I'm"
-    "AO*EUPBLD": "Island",
-    "HRAEULD": "ladle", // overrides "Long Island"
+    "HRAEULD": "ladle", // overrides "Long Island" [2]
     "HRA*EULD": "ladle",
-    "HRAOEUPBLD": "Long Island",
     "TPHAOLD": "noodle",
     "TPHAO*LD": "noodle", // already works
     "SAOEULD": "sidle",
     "SAO*EULD": "sidle",
+    /*1*/ "AOEUPBLD": "island", // use SKP*EUPL for "and I'm"
+          "AO*EUPBLD": "Island",
+    /*2*/ "HRAOEUPBLD": "Long Island",
 
     "K*URLD": "curdle",    // KURLD is "curled"
     "WHAO*ELD": "wheedle", // WHAOELD is "wheeled"
@@ -1591,9 +1591,7 @@
     "RE/SKWRAOUF": "rejuvenate",
     "RE/SKWRAOUFGS": "rejuvenation",
     "TPHAR": "narrow",
-    "TPHARL": "narrowly",    // overrides "natural"
-    "TPHARLT": "natural",    // fully phonetic
-    "TPHRARLT": "naturally", // superimpose HR for -ly
+    "TPHARL": "narrowly", // overrides "natural" [1]
     "POEPB": "pony",
     "KWARPB": "quarantine",
     "SERBG": "secretary", // from my SERBG/TREU
@@ -1606,19 +1604,17 @@
     "STPHAPL": "tsunami",
     "SREUG": "vigor", // prevents "have Iing" from flashing past
     "SROD": "vodka",  // prevents "have toed" from flashing past
+    /*1*/ "TPHARLT": "natural",    // fully phonetic
+          "TPHRARLT": "naturally", // superimpose HR for -ly
 
     // -- Phrasing -------------------------------------------------------------
 
     // Pronoun + be
     // Default to full form and add * or use phonetics for contraction
-    "KWR-PL": "I am", // overrides "I mean"
-    "KWR*PL": "I mean",
+    "KWR-PL": "I am", // overrides "I mean" [1]
     "KWR-PLT": "I am the",
     // "I'm"        AOEUPL already works
-    "AOEUPLT": "I'm the", // overrides "item"
-    "TEPL": "item",
-    "TEPLS": "items", // add * for "Thames"
-    "TEPL/-S": "items",
+    "AOEUPLT": "I'm the", // overrides "item" [2]
     "KWR-FS": "I was", // prefer KWR as "I", so give up "why was" here;
                        // but KWR-S is "why is", since "I is" is impossible
     "KWR-FTS": "I was the",
@@ -1651,28 +1647,32 @@
     "T*TS": "it's the",
     // "it was"     T-FS already works
     "T-FTS": "it was the",
-    "W-R": "we are",     // overrides "where"
+    "W-R": "we are", // overrides "where" [3]
     "W-RT": "we are the",
-    "WR": "where",       // use -RP  for "were"
-    "WR-T": "where the", // use -RPT for "were the"
-    "WRU": "where you",  // use URP  for "you were"
     "W*R": "we're",
-    "W*RT": "we're the",         // overrides "with respect to"
-    "TWROPT": "with respect to", // cf. WR-PT "with respect"
-    "TWORPT": "with respect to", //     W-RPT "with respect"
-    "W-RPBT": "we aren't", // overrides "weren't"
+    "W*RT": "we're the", // overrides "with respect to" [4]
+    "W-RPBT": "we aren't", // overrides "weren't" [5]
     "W-RPBLT": "we are not",
-    "-RPBT": "weren't", // -RP + -PBT
-                        // "isn't"  S-PBT
-                        // "aren't" R-PBT
-                        // "weren't -RPBT is a nice progression
-    "-RPBLT": "were not",
     "THER": "they are",
     "THERT": "they are the",
     "TH*ER": "they're",
     "TH*ERT": "they're the",
     "THERPBT": "they aren't",
     "THERPBLT": "they are not",
+    /*1*/ "KWR*PL": "I mean",
+    /*2*/ "TEPL": "item",
+          "TEPLS": "items", // add * for "Thames"
+          "TEPL/-S": "items",
+    /*3*/ "WR": "where",       // use -RP  for "were"
+          "WR-T": "where the", // use -RPT for "were the"
+          "WRU": "where you",  // use URP  for "you were"
+    /*4*/ "TWROPT": "with respect to", // cf. WR-PT "with respect"
+          "TWORPT": "with respect to", //     W-RPT "with respect"
+    /*5*/ "-RPBT": "weren't", // -RP + -PBT
+                              // "isn't"  S-PBT
+                              // "aren't" R-PBT
+                              // "weren't -RPBT is a nice progression
+          "-RPBLT": "were not",
 
     // Pronoun + have
     // Since KWROEU is "I don't" and KWROEUF is "I don't have",
@@ -1720,8 +1720,8 @@
     "KWR-BGD": "I could",
     "KWR-RB": "I shall",
     "KWR-RBD": "I should",
-    "KWR-L": "I will",   // overrides "ideal" stroke #1
-    "KWR-LD": "I would", // overrides "ideal" stroke #2
+    "KWR-L": "I will",   // overrides "ideal" stroke #1 [1]
+    "KWR-LD": "I would", // overrides "ideal" stroke #2 [1]
     // "I'll"     AOEUL already works
     // "I'd"      AOEUD already works
     // "can I"    KEU already works
@@ -1730,11 +1730,10 @@
     // "should I" SHOEU already works
     "HREU": "will I",  // use -L for {^ly}
     "WOEU": "would I", // by default "I would"
-    "EUD": "idea", // "I-D"
-                   // overrides "id" (psychoanalysis term)
-    "*EUD": "id",
-    "EULD": "ideal", // overrides "I would", for which I now have KWR-LD
-    "HREULD": "ideally",
+    /*1*/ "EUD": "idea", // "I-D"; overrides "id" (psychoanalysis term) [2]
+          "EULD": "ideal", // overrides "I would", for which I now have KWR-LD
+          "HREULD": "ideally",
+    /*2*/ "*EUD": "id",
 
     // "you can"    UBG already works
     // "you could"  UBGD already works
@@ -1761,8 +1760,7 @@
     "H-BG": "he can",   // give up "health care"
     "H-BGD": "he could",
     "H-RBD": "he should",
-    "H-L": "he will",   // overrides "hello"
-    "HOL": "hello",
+    "H-L": "he will",   // overrides "hello" [1]
     "H-LD": "he would", // give up "HDL" (obscure biochemistry term)
     "H*L": "he'll",     // give up "Hodgkin's lymphoma"
     "H*D": "he'd",      // give up "Hodgkin's disease" and free up ...
@@ -1773,6 +1771,7 @@
     // "should he" SHOE is "show"
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
+    /*1*/ "HOL": "hello",
 
     "SH-BG": "she can",
     "SH-BGD": "she could",
@@ -1840,12 +1839,12 @@
     "UFPLT": "you must",  // give up "{.}you" (why not "you{.}"?)
     "H-FPLT": "he must",
     "SH-FPLT": "she must",
-    "W-FPLT": "we must",  // overrides "www."
+    "W-FPLT": "we must",  // overrides "www." [1]
     "THEFPLT": "they must",
-    "W-S": "{>}www.{^}",  // give up {^s with}
-                          // nicely symmetrical with KROPL {^.com}
-                          // in the absence of . in the stroke
-                          // (mnemonic: "(three) Ws")
+    /*1*/ "W-S": "{>}www.{^}", // give up {^s with}
+                               // nicely symmetrical with KROPL {^.com}
+                               // in the absence of . in the stroke
+                               // (mnemonic: "(three) Ws")
 
     // I (+ don't) + common verb
     // The standard strokes are inconsistent:
@@ -2072,19 +2071,18 @@
     // and "Fra" (Italian monk title), but "sa", "fa", "da", etc.
     // aren't even real words.
     "PWA": "about a", // PW-T  "about the"
-    "RA": "are a",    // R-T   "are the"   (swap with "Ra" (sun god))
+    "RA": "are a",    // R-T   "are the"  (swap with "Ra", sun god [1])
     "TKA": "did a",   // TK-T  "did the"
     "TPRA": "from a", // TPR-T "from the"
     "TPA": "if a",    // TP-T  "if the"
     "TPHA": "in a",   // TPH-T "in the"
     "SA": "is a",     // S-T   "is the"
-    "AOPB": "on a",   // OPBT  "on the"    (use AUPB for {on^})
-    "TAO": "to a",    // TOT   "to the"    (overrides "too")
+    "AOPB": "on a",   // OPBT  "on the"   (use AUPB for {on^})
+    "TAO": "to a",    // TOT   "to the"   (overrides "too" [2])
     "HRA": "will a",  // HR-T  "will the"
     "WA": "with a",   // W-T   "with the"
-
-    "RA*": "Ra",
-    "TU": "too",
+    /*1*/ "RA*": "Ra",
+    /*2*/ "TU": "too",
 
     "SA*": "as a",    // think "is + * = as" or "za"
     "S*T": "as the",
@@ -2188,16 +2186,16 @@
     // The P-P symmetry makes it feel natural to use -P for "people" too.
     // (See "Counting" for "two people", "three people", etc.)
     "PHAEP": "many people", // mashup of PHAEPB and -P
-    "OERP": "other people", // overrides "ownership"
-    "O*ERP": "ownership",   // Plover uses -P for -ship very nicely:
-                            //   R*EUP   "relationship"
-                            //   TPREUP  "friendship"
-                            //   HRAOERP "leadership"
-                            // So I wouldn't want to just give up "ownership".
-                            // Adding * seems like a reasonable compromise;
-                            // maybe I can think of "relationship" and "ownership"
-                            // as a pair, both requiring *.
+    "OERP": "other people", // overrides "ownership" [1]
     "SPH-P": "some people", // compare with the standard SPAOEPL
+    /*1*/ "O*ERP": "ownership", // Plover uses -P for -ship very nicely:
+                                // R*EUP   "relationship"
+                                // TPREUP  "friendship"
+                                // HRAOERP "leadership"
+                                // So I wouldn't want to just give up "ownership".
+                                // Adding * seems like a reasonable compromise;
+                                // maybe I can think of "relationship" and "ownership"
+                                // as a pair, both requiring *.
 
     // "and" stacking
     // SKP is just begging to be stacked.
@@ -2310,8 +2308,7 @@
     "THA*URT": "that you're the",
     "THAURP": "that you were", // already works
     "THAURPT": "that you were the",
-    "THAES": "that he is",  // overrides "thesis"
-    "THAOES/EUS": "thesis", // cf. THAOES/AOES "theses"
+    "THAES": "that he is", // overrides "thesis" [1]
     "THAETS": "that he is the",
     "THA*ES": "that he's",
     "THA*ETS": "that he's the",
@@ -2366,6 +2363,7 @@
     "STHA*EL": "that she'll",
     "STHAELD": "that she would",
     "STHA*ED": "that she'd",
+    /*1*/ "THAOES/EUS": "thesis", // cf. THAOES/AOES "theses"
 
     // "what" stacking
     "WHAEUPL": "what I am",
@@ -2388,7 +2386,7 @@
     "WHAEUBG": "what I can",
     "WHAEUBGD": "what I could",
     "WHAEURBD": "what I should",
-    "WHAEUL": "what I will", // overrides "whale"
+    "WHAEUL": "what I will", // overrides "whale" [1]
     "WHA*EUL": "what I'll",
     "WHAEULD": "what I would",
     "WHA*EUD": "what I'd",
@@ -2407,25 +2405,17 @@
                              // TKPWAEL "gale"   TAEL  "tale"
                              // PHAEL   "male"   SKAEL "scale"
                              // (although "stale" is STAEUL, since STAEL is "steal")
-    "WHEL": "whale",
-    "WHELS": "whales", // use WHAELS for "what else"
     "WHA*EL": "what he'll",
     "WHAELD": "what he would",
     "WHA*ED": "what he'd",
+    /*1*/ "WHEL": "whale",
+          "WHELS": "whales", // use WHAELS for "what else"
 
     // "when" stacking
-    "WHEUPL": "when I am",  // overrides "whim"
+    "WHEUPL": "when I am", // overrides "whim" [1]
     "WHEUPLT": "when I am the",
-    "WH*EUPL": "when I'm",  // even the starred stroke is occupied
+    "WH*EUPL": "when I'm", // even the starred stroke is occupied
     "WH*EUPLT": "when I'm the",
-    "WH-PL": "whim",        // mnemonic: a whim, being insubstantial, is empty in the middle
-    "AEU/WHEUPL": "a whim", // safeguards for when I forget this mnemonic
-    "-T/WHEUPL": "the whim",
-    "TOT/WHEUPL": "to the whim",
-    "TA/WHEUPL": "at a whim",
-    "TE/WHEUPL": "at the whim",
-    "AOPB/WHEUPL": "on a whim",
-    "OPBT/WHEUPL": "on the whim",
     "WHEUFS": "when I was",
     "WHEUFTS": "when I was the",
     "WHUR": "when you are",
@@ -2440,15 +2430,10 @@
     "WH*ETS": "when he's the",
     "WHEFS": "when he was",
     "WHEFTS": "when he was the",
-    "WHEUF": "when I have", // overrides "whiff"
+    "WHEUF": "when I have", // overrides "whiff" [2]
     "WHEUFT": "when I have the",
     "WH*EUF": "when I've",  // even the starred stroke is occupied
     "WH*EUFT": "when I've the",
-    "WH-F": "whiff",        // mnemonic: a whiff, being insubstantial, is empty in the middle
-                            // give up "when have" since there are often better break points:
-                            // "when have I ever"   WH/SREU/-FR
-                            // "when have you been" WH/SRUB
-    "WHEUF/-F": "whiff of", // safeguard for when I forget this mnemonic
     "WHEUD": "when I had",
     "WHEUTD": "when I had the",
     "WHUF": "when you have",
@@ -2457,6 +2442,19 @@
     "WH*UFT": "when you've the",
     "WHUD": "when you had",
     "WHUTD": "when you had the",
+    /*1*/ "WH-PL": "whim", // mnemonic: a whim, being insubstantial, is empty in the middle
+          "AEU/WHEUPL": "a whim", // safeguards for when I forget this mnemonic
+          "-T/WHEUPL": "the whim",
+          "TOT/WHEUPL": "to the whim",
+          "TA/WHEUPL": "at a whim",
+          "TE/WHEUPL": "at the whim",
+          "AOPB/WHEUPL": "on a whim",
+          "OPBT/WHEUPL": "on the whim",
+    /*2*/ "WH-F": "whiff", // mnemonic: a whiff, being insubstantial, is empty in the middle
+                           // give up "when have" since there are often better break points:
+                           // "when have I ever"   WH/SREU/-FR
+                           // "when have you been" WH/SRUB
+          "WHEUF/-F": "whiff of", // safeguard for when I forget this mnemonic
 
     // "who" stacking
     "WHOEUPL": "who I am",
@@ -2483,8 +2481,7 @@
     "STPEUF": "if I have",
     "STP*EUF": "if I've",
     "STPEUD": "if I had",
-    "STPEUBG": "if I can", // overrides "fantastic"
-    "TPAFBG": "fantastic",
+    "STPEUBG": "if I can", // overrides "fantastic" [1]
     "STPEUBGD": "if I could",
     "STPEURBD": "if I should",
     "STPEUL": "if I will", // misstroke for "still"
@@ -2517,6 +2514,7 @@
     "STP*EL": "if he'll",
     "STPELD": "if he would",
     "STP*ED": "if he'd",
+    /*1*/ "TPAFBG": "fantastic",
 
     // KH as stacking form of "which"
     // This already works for the most basic words:
@@ -2600,8 +2598,8 @@
     "WHOU": "who you", // bizarre misstroke for "how"
     "HR-F": "will have", // use HRUF for "love" (think "luv")
     "HR-FB": "will have been",
-    "WHOR": "who are", // overrides "whore"
-    "WHO*R": "whore",
+    "WHOR": "who are", // overrides "whore" [1]
+    /*1*/ "WHO*R": "whore",
 
     // -- Counting -------------------------------------------------------------
 
@@ -2685,11 +2683,7 @@
     //   SAOEUZ "size"
     //   SAOEUS "sighs"
     "AOEUS": "ice",  // already works
-    "AOEUZ": "eyes", // overrides {^ize}
-    "EUZ": "{^ize}",
-    "EUFD": "{^ized}",  // cf. AO*EUFD
-    "EUSZ": "{^izes}",
-    "EUFG": "{^izing}", // cf. AO*EUFG
+    "AOEUZ": "eyes", // overrides {^ize} [1]
     "ROES": "rose", // swap with "rows"
     "ROEZ": "rows",
     "TPHREBGZ": "flecks", // vs TPHREBGS "flex"
@@ -2700,6 +2694,10 @@
     "STKPAOEUS": "despise",
     "SKHRAUS": "Santa Claus",
     "THOUS": "thousand",
+    /*1*/ "EUZ": "{^ize}",
+          "EUFD": "{^ized}",  // cf. AO*EUFD
+          "EUSZ": "{^izes}",
+          "EUFG": "{^izing}", // cf. AO*EUFG
 
     // Inflections
     "AFD/KAEUGT": "advocating",     // otherwise gives "avid indicating"
@@ -2758,13 +2756,11 @@
     "PHOLGD": "modeling",
     "PASZ": "passes",        // misstroke for "pass"
     "PHREUFG": "policing",
-    "RAEUPLD": "remained",   // overrides "Raymond"
-    "RA*EUPLD": "Raymond",
+    "RAEUPLD": "remained",   // overrides "Raymond" [1]
     "SAOEGZ": "seizing",
     "SOERBG": "sobering",    // give up "social work"
     "SKAOEGD": "succeeding",
-    "TREUG": "trying",       // overrides "trig"
-    "TR*EUG": "trig",
+    "TREUG": "trying",       // overrides "trig" [2]
     // The automatic suffix-appending mechanism for -S -Z -G -D
     // don't work for these words because of a variety of reasons.
     // 1) The stroke with the -S -Z -G -D is defined for a completely
@@ -2777,6 +2773,8 @@
     //    so SKAOEGD gives the nonsensical "skiinged" instead.
     // 3) -F is used instead of -S, and as one might reasonably expect,
     //    the system isn't smart enough to figure that out.
+    /*1*/ "RA*EUPLD": "Raymond",
+    /*2*/ "TR*EUG": "trig",
 
     // -G as shortcut for -BG/-G
     // You can't fold in -G when the verb already ends with -BG.
@@ -3244,12 +3242,12 @@
     "TPH-D": "end",     // pronounce the TPH: "N'd"
                         // easier to hit than EPBD
                         // give up {^ed in}
-    "TPH-TD": "ended",  // overrides "noticed"
+    "TPH-DZ": "ends",   // overrides "inside" [1]
     "TPH-GD": "ending", // *much* easier to hit than EPBGD
-    "TPH-DZ": "ends",   // overrides "inside"
-    "TPH-TSDZ": "noticed", // (TPH-TS + -D) + -Z
-    "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
-    "OUFD": "outside",  // "ousd"; for consistency
+    "TPH-TD": "ended",  // overrides "noticed" [2]
+    /*1*/ "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
+          "OUFD": "outside",  // "ousd"; for consistency
+    /*2*/ "TPH-TSDZ": "noticed", // (TPH-TS + -D) + -Z
 
     // -- Word families --------------------------------------------------------
 
@@ -3319,14 +3317,14 @@
 
     // "superior" and "inferior"
     "SPOEURT": "superiority",
+    "TPOEUR": "inferior", // nicely symmetrical with SPOEUR "superior"
+                          // but overrides "foyer" [1]
+    "TPOEURT": "inferiority",
     "TPOEURPBT": "inferiority", // from TPOEURPB (mnemonic: "infor")
                                 //  FF   N
                                 //      RN
                                 //    O II
-    "TPOEUR": "inferior", // nicely symmetrical with SPOEUR "superior"
-                          // but overrides "foyer"
-    "TPO*EUR": "foyer",
-    "TPOEURT": "inferiority",
+    /*1*/ "TPO*EUR": "foyer",
 
     // -- Easily confused words ------------------------------------------------
 
@@ -3362,35 +3360,35 @@
     "SKWREUBG": "logic",   // overrides "magic"
     "SKWREULG": "logical", // "gical"
     "PHABG": "magic",      // overrides "Mac"
-    "PHA*BG": "Mac",       // give up "MAC"
     "PHALG": "magical",    // "macal"
+    "PHA*BG": "Mac",       // give up "MAC"
 
     // "race" vs "raise"
     // The default strokes for the -ing forms are hard to remember:
     // RAEUS "race"  (makes sense) -> RAEFG   "racing"  (?!)
     // RAEUZ "raise" (makes sense) -> RA*EUFG "raising" (?!)
     // Make simply folding in -G work.
-    "RAEUGS": "racing",     // overrides "regulation"
+    "RAEUGS": "racing", // overrides "regulation" [1]
     "RAEUGZ": "raising",
-    "R*ELGS": "regulation", // RE+GL+GS + * to disambiguate from "relation"
     // Make -S correspond to -F and -Z to *F.
     // (The voiced consonants are harder to reach;
     //  you have to either move your pinky or add *.)
     "RAEUFD": "raced",
     "RA*EUFD": "raised", // already works
                          // RAEUDZ is "raids"
+    /*1*/ "R*ELGS": "regulation", // RE+GL+GS + * to disambiguate from "relation"
 
     // "toe" vs "tow"
     // TOE should be "toe". I mean, it literally says "toe"!
     "TOE": "toe",
     "TOES": "toes",
     "TOEG": "toeing",
-    "TOED": "toed", // overrides "today"
-    "TOD": "today", // give up {^ed to}
-    "AOUS/TOD": "use today", // by default "used to"
+    "TOED": "toed", // overrides "today" [1]
     "TO*E": "tow",
     "TO*ES": "tows",
     "TO*ED": "towed",
+    /*1*/ "TOD": "today",          // give up {^ed to}
+          "AOUS/TOD": "use today", // by default "used to"
 
     // "masses" chain reaction
     "PHASZ": "masses",   // by default misstroke (?) for "mass"
@@ -3410,8 +3408,8 @@
     "POF": "positive",
     "POFL": "positively",
     "TPHEF": "negative",
-    "TPHEFL": "negatively", // overrides "nestle"
-    "TPHEFLT": "nestle",    // cf. RUFLT "rustle"
+    "TPHEFL": "negatively", // overrides "nestle" [1]
+    /*1*/ "TPHEFLT": "nestle", // cf. RUFLT "rustle"
 
     // Godparenthood
     "TKPWOD/PARPBT": "godparent",
@@ -3429,16 +3427,16 @@
     "RUPS": "Republicans",        // misstroke for "run"
     "RE/PUBL/KAPB": "republican", // "republican with a small r"
                                   // is less common and doesn't need a brief
-    "TK*EPL": "Democrat",         // overrides {demi^}
-    "TKEPL": "democrat",          // overrides "dem"
+    "TK*EPL": "Democrat",         // overrides {demi^} [1]
+    "TKEPL": "democrat",          // overrides "dem"   [2]
     "TKEPL/SEU": "democracy",     // change the on-screen -t to -cy
                                   // alternative to TKEPL/KRAES
     "TKEPL/EUBG": "democratic",   // add -ic to the on-screen -t
-    "TKPHEU": "{demi^}",          // consistent with SPHEU {semi^}
-    "TH*EPL": "dem",              // informal "them" ("dem big bucks")
     // "Republicans and Democrats" RUPS/SKP/TK*EPLS
     // "Republican and Democratic" RUP/SKP/TK*EPL/EUBG
     // For "Dem" as in "the Dems" or "a Dem voter", use the hacky KPA/TH*EPL.
+    /*1*/ "TKPHEU": "{demi^}", // consistent with SPHEU {semi^}
+    /*2*/ "TH*EPL": "dem",     // informal "them" ("dem big bucks")
 
     // -- Fiction --------------------------------------------------------------
 
