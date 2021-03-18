@@ -583,7 +583,6 @@
     "SPWEU": "{anti^}",       // give up "is by" (grudgingly)
     "SPWEUBT": "antibiotic",  // cf. the standard AEBT
     "SPWEUBD": "antibody",
-    "SPWEUFPT": "anticipate", // "antispt"
     "SPWEUTD": "antidote",
     "EBGS": "{ex-^}", // with hyphen
 
@@ -859,6 +858,7 @@
     // Justification: "ent- or int-" isn't a mirror image of -nt; nt- is.
     // And nt- feels like it could be extended to mean [any vowel]nt-.
     "SPWEUBG": "antic", // and get "antics" for free
+    "SPWEUFPT": "anticipate",
     "SPWAOEBG": "antique",
     "SPWHRER": "antler",
     "SPWOLG": "ontology",
