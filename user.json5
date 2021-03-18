@@ -913,6 +913,11 @@
     "KPWRAEUS": "embrace",
     "KPWRAEUFD": "embraced",
 
+    // Why not use KPW for inp- too?
+    // These are the only two English words that begin with inp-:
+    "KPWUT": "input", // misstroke for "gut"
+    "KPWAEURBT": "inpatient",
+
     // -- Sound patterns -------------------------------------------------------
 
     // STK for dis- and des-
