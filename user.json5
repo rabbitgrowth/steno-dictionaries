@@ -1353,7 +1353,7 @@
     // -- Star-dropping --------------------------------------------------------
 
     // AEUPB for -aken
-    // Precedent: Plover now allows SPHAEUPB in addition to SPHA*EUPB for "mistaken"
+    // Precedent: SPHAEUPB "mistaken" (Plover used to require *)
     "A/WAEUPB": "awaken",       // "aWayne"  is not a word
     "TPAUR/SAEUPB": "forsaken", // "forsane" is not a word
 
