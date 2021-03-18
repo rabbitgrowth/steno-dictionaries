@@ -3013,7 +3013,7 @@
 
     // -- Acronyms and initialisms ---------------------------------------------
 
-    // Pronounce acronyms like normal words
+    // Pronounce it like a normal word
     "SAOE/OE": "CEO",
     "SAOE/OES": "CEOs",
     "EPL/AOEUT": "MIT", // PHEUT is "mitt" and PH*EUT is "myth"
