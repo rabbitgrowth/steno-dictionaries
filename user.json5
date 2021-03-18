@@ -1151,7 +1151,7 @@
 
     // AERT for -atter
     // Precedents: PHAERT "matter", HRAERT "latter"
-    "KHRAERT": "clatter",
+    "KHRAERT": "clatter", // use KARLT or KAL/TOR (both custom) for "calculator"
     "PHRAERT": "platter",
     "SPHRAERT": "splatter",
 
