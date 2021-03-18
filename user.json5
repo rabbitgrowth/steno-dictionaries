@@ -1401,10 +1401,10 @@
     "KALT": "cattle",
     "PRALT": "prattle",
     "RALT": "rattle",
-    // There's also "tattle" but TALT is already used by "totality".
+    // There's also "tattle" but TALT is "totality" already.
     "KELT": "kettle", // overrides "Celt" [2]
-    // "Fettle", "mettle", and "nettle" clash with "felt", "melt", and "knelt"
-    // but are too rare for me to care about.
+    // "Fettle", "mettle", "nettle" conflict with "felt", "melt", "knelt"
+    // but are too rare to be worth worrying about.
     "PWHREUL": "belittle", // cf. HREUL "little"
     "PWREUL": "brittle", // conflicts with "brilliant" with -T
     "WHEUL": "whittle",
