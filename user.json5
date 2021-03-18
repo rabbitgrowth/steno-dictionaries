@@ -3555,13 +3555,12 @@
 
     // -- Misstrokes -----------------------------------------------------------
 
-    "WOEUD": "wide",
-
-    "KW-RBG": "{,}", // otherwise gives "--ing"
-    "KW-BGS": "{,}", // otherwise gives ",s"
-
-    "HAOEURS": "hires",  // "highers"    is not a word
-    "HAOEURG": "hiring", // "higherring" is not a word
+    // Nonsensical translations
+    "HAOEURS": "hires",  // "highers"
+    "HAOEURG": "hiring", // "higherring"
+    "WOEUD": "wide",     // "would Ied"
+    "KW-BGS": "{,}",     // ",s"
+    "KW-RBG": "{,}",     // "--ing"
 
     // -- Error recovery -------------------------------------------------------
 
