@@ -350,6 +350,7 @@
     "STPOER": "satisfactory", // "sfory", or the standard STPOEUR minus -U
     "SWAEUPBLS": "surveillance",
     "STOPL": "symptom",
+    "STPHAPL": "tsunami",
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // from "vibe" as in "good vibes"
     "SRULG": "vulgar",
@@ -1596,7 +1597,6 @@
     "SKEFPL": "skepticism",
     "SAOUF": "souvenir",
     "TRUFRPB": "truncheon", // alternative to TRUPBGS
-    "STPHAPL": "tsunami",
     "SREUG": "vigor", // prevents "have Iing" from flashing past
     "SROD": "vodka",  // prevents "have toed" from flashing past
 
