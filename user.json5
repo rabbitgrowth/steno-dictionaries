@@ -1358,13 +1358,11 @@
     "TPAUR/SAEUPB": "forsaken", // "forsane" is not a word
 
     // -T for -th (Indian accent?)
-    "PWRET": "breath",    // swap with "Brett"
-    "PWR*ET": "Brett",
-    "PWRAOET": "breathe", // swap with "burrito"
-    "PWRAO*ET": "burrito",
+    "PWRET": "breath",    // swap with "Brett"   [1]
+    "PWRAOET": "breathe", // swap with "burrito" [2]
     "KHROET": "clothe", // and get "clothes" and "clothing" for free
-    "ERT": "earth",  // which frees up ...
-    "*ERT": "Earth", // the * for capitalization
+    "ERT": "earth", // which frees up ...
+    "*ERT": "Earth",
     "ERT/PWOUPBD": "earthbound",
     "ERT/KWAEUBG": "earthquake",
     "ERT/KWAEUBGS": "earthquakes",
@@ -1387,13 +1385,15 @@
     "TRU": "true",   // for consistency
     "TRUL": "truly",
     "UPBD/TPHAOET": "underneath",
-    "WELT": "wealth", // swap with "welt"
-    "W*ELT": "welt",
+    "WELT": "wealth", // swap with "welt" [3]
     "KPHOPB/WELT": "commonwealth",
-    "WORT": "worth", // swap with "wort"
-    "WO*RT": "wort",
+    "WORT": "worth",  // swap with "wort" [4]
     "TWORT": "worth it",
     "KWRAOUT": "youth",
+    /*1*/ "PWR*ET": "Brett",
+    /*2*/ "PWRAO*ET": "burrito",
+    /*3*/ "W*ELT": "welt",
+    /*4*/ "WO*RT": "wort",
 
     // -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
