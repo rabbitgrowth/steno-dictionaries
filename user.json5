@@ -92,6 +92,8 @@
                                   //   (TKR-BT and TKR-BGS are nice briefy alternatives)
     "TPEURBS": "efficiency",      // with TPEURBT "efficient"
                                   //   use -Z for "fishes", which is rare anyway
+    "ERLD": "elder",              // with OERLD "older"; overrides "elderly"
+    "HRERLD": "elderly",
     "THUFBG": "enthusiastic",     // with THUFPL "enthusiasm"
     "THUFT": "enthusiast",
     "KPES/EUF": "excessive",      // with KPES/EUFL "excessively"
@@ -696,9 +698,6 @@
     "TKREFR": "dresser",
     "TKRERS": "dresser",
     "TKREUR": "drinker",
-    "ERLD": "elder", // overrides "elderly"
-                     // compare OERLD "older"
-    "HRERLD": "elderly", // HR for -ly since -L is used
     "EPL/PWROEURD": "embroider",
     "PWROEURD": "embroider", // like PROEFP, A/PROEFP "approach"
                              // "broider" is an archaic form of "embroider"
