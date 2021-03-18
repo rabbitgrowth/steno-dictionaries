@@ -537,6 +537,8 @@
     // -- Joining and splitting ------------------------------------------------
 
     // Compound words
+    "PWAUL/PHRAEUR": "ballplayer",
+    "PWAUL/PHRAEURS": "ballplayers",
     "PWAPBD/HRAOERD": "bandleader",
     "PWAPBD/HRAOERDZ": "bandleaders",
     "PWAR/TERPBD": "bartender",
