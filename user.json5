@@ -200,7 +200,6 @@
     "SRAOEZ": "series",
     "SHEUPBLG": "shingle",
     "SOEPB/AR": "sonar",
-    "SPHRART": "splatter",
     "STRAOEUTD": "strident",
     "SR*ERPBD": "surrender", // starless is "vendor"
     "T*ERS": "terrace", // starless is "terse"
@@ -646,7 +645,6 @@
     "TPHRAEUBGT": "afflict",
     "TPHRAEUBGS": "affliction", // use -Z for "flakes"
     "HAED": "ahead",
-    "HRAERT": "alert", // use HRART for "latter"
     "HRAEUF": "alive",
     "HRAEPBLG": "allege",
     "PHAEPBD": "amend",
@@ -1150,6 +1148,12 @@
     "EFGS/REU": "evolutionary",    // vs EFGS/AER
     "REFGS/REU": "revolutionary",  // vs REFGS/AER
     "SPHRAPB/TREU": "explanatory", // vs SPHRAPB/TOER
+
+    // AERT for -atter
+    // Precedents: PHAERT "matter", HRAERT "latter"
+    "KHRAERT": "clatter",
+    "PHRAERT": "platter",
+    "SPHRAERT": "splatter",
 
     // AEURT for -ariat
     "KPHEPB/TAEURT": "commentariat",
