@@ -90,8 +90,7 @@
                                   //   REUBGT  "restrict"   -> REUBGS   "restriction"
                                   //   STREUBT "distribute" -> STREUBGS "distribution"
                                   //   (TKR-BT and TKR-BGS are nice briefy alternatives)
-    "TPEURBS": "efficiency",      // with TPEURBT "efficient"
-                                  //   use -Z for "fishes", which is rare anyway
+    "TPEURBS": "efficiency",      // with TPEURBT "efficient"; use -Z for "fishes"
     "ERLD": "elder",              // with OERLD "older"; overrides "elderly"
     "HRERLD": "elderly",
     "THUFBG": "enthusiastic",     // with THUFPL "enthusiasm"
@@ -102,23 +101,18 @@
     "KPR*EFG": "expressing",
     "STEPBD": "extend",           // with STEPBGS "extension"
     "STEPBD/-D": "extended",
-    "TPREBGS": "for example",     // with TPREUPBS "for instance"
-                                  //   use -Z for "frequents"
+    "TPREBGS": "for example",     // with TPREUPBS "for instance"; use -Z for "frequents"
     "TKPWAEUFD": "gazed",         // with TKPWAEUFG "gazing"
-    "H-B": "had been",            // with SR-B "have been"
-                                  //   misstroke for {^-^}
+    "H-B": "had been",            // with SR-B "have been"; misstroke for {^-^}
     "HAPBT": "hasn't",            // with HAPBLT "has not"
                                   //   HAPBT "hasn't" + -L as bridge = "has not"
     "STK*EPB": "incident",        // with STKEPB "accident"
     "TERPGS": "interpretation",   // with TERP "interpret"
-    "TWAOEPB": "intervene",       // with TWEPBGS "intervention"
-                                  //   use TW for "between"
-    "HR-PB": "listen",            // with HR-PBG "listening"
-                                  //   use HR-PBS for "license"
+    "TWAOEPB": "intervene",       // with TWEPBGS "intervention"; use TW for "between"
+    "HR-PB": "listen",            // with HR-PBG "listening"; use HR-PBS for "license"
     "HR-PBD": "listened",
     "HR-RPB": "listener",
-    "TPHAOERB": "nearby",         // with TPHAOER "near"
-                                  //   instead of TPHAERB; use TPHEURB for "niche"
+    "TPHAOERB": "nearby",         // with TPHAOER "near"; use TPHEURB for "niche"
     "TPHORBG": "New York",        // with TPHORBG/TAOEUPLS "New York Times"
                                   //   misstroke for "no{,}"
     "TPEUFR": "officer",          // with TPEURBL "official"
