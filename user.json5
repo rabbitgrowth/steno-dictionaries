@@ -1416,8 +1416,8 @@
     /*1*/ "PWAELT": "ballot",
     /*2*/ "K*ELT": "Celt",
     /*3*/ "PWOELT": "bolt",  // cf. THUPBD/*ER/PWOELT "thunderbolt"
-    /*4*/ "SULT": "consult", // "sult" is a more distinctive part of "consult" anyway
-          "KULT": "cult",    // ... which frees up KULT for "cult"
+    /*4*/ "SULT": "consult", // which frees up ...
+          "KULT": "cult",
 
     "PWAOELT": "beetle",
     "KHORLT": "chortle",
