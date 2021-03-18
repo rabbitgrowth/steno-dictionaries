@@ -1371,13 +1371,6 @@
     "TKPWROET": "growth",
     "HELT": "health",
     "HAOELT": "healthy", // lengthen vowel for -y
-    "PHETD": "method",    // by default "meted" by accident
-                          // ("met" + {^ed})
-                          // to type "meted" properly, use PHAO*ETD
-    "PHAOETD": "meted",   // ... whose * is droppable,
-                          // because "meeted" is not a word
-    "PHETSDZ": "methods", // (PHETD + -S) + -Z
-                          // can't hit -TSD without hitting -Z too
     "PHOUT": "mouth",
     "REUPLT": "rhythm",
     "SPHAOT": "smooth",
@@ -1394,6 +1387,13 @@
     /*2*/ "PWRAO*ET": "burrito",
     /*3*/ "W*ELT": "welt",
     /*4*/ "WO*RT": "wort",
+
+    "PHETD": "method",    // by default "meted" by accident ("met" + {^ed})
+                          // to type "meted" properly, use PHAO*ETD
+    "PHAOETD": "meted",   // ... whose * is droppable,
+                          // because "meeted" is not a word
+    "PHETSDZ": "methods", // (PHETD + -S) + -Z
+                          // can't hit -TSD without hitting -Z too
 
     // -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
