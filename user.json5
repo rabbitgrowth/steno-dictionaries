@@ -1397,26 +1397,26 @@
 
     // -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
-    "PWALT": "battle",
-    "PWAELT": "ballot",
+    "PWALT": "battle", // overrides "ballot" [1]
     "KALT": "cattle",
     "PRALT": "prattle",
     "RALT": "rattle",
     // There's also "tattle" but TALT is already used by "totality".
-    "KELT": "kettle",
-    "K*ELT": "Celt",
+    "KELT": "kettle", // overrides "Celt" [2]
     // "Fettle", "mettle", and "nettle" clash with "felt", "melt", and "knelt"
     // but are too rare for me to care about.
     "PWHREUL": "belittle", // cf. HREUL "little"
     "PWREUL": "brittle", // conflicts with "brilliant" with -T
     "WHEUL": "whittle",
-    "PWOLT": "bottle",   // overrides "bolt"  [1]
-    "PWOLTS": "bottles", // overrides "bolts" [1]
+    "PWOLT": "bottle",   // overrides "bolt"  [3]
+    "PWOLTS": "bottles", // overrides "bolts" [3]
     "THROLT": "throttle",
-    "SKULT": "scuttle", // overrides "consult" [2]
+    "SKULT": "scuttle", // overrides "consult" [4]
     "SHULT": "shuttle",
-    /*1*/ "PWOELT": "bolt",  // cf. THUPBD/*ER/PWOELT "thunderbolt"
-    /*2*/ "SULT": "consult", // "sult" is a more distinctive part of "consult" anyway
+    /*1*/ "PWAELT": "ballot",
+    /*2*/ "K*ELT": "Celt",
+    /*3*/ "PWOELT": "bolt",  // cf. THUPBD/*ER/PWOELT "thunderbolt"
+    /*4*/ "SULT": "consult", // "sult" is a more distinctive part of "consult" anyway
           "KULT": "cult",    // ... which frees up KULT for "cult"
 
     "PWAOELT": "beetle",
