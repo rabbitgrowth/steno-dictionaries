@@ -585,6 +585,7 @@
     "SPWEUBD": "antibody",
     "SPWEUFPT": "anticipate", // "antispt"
     "SPWEUTD": "antidote",
+    "EBGS": "{ex-^}", // with hyphen
 
     // Suffixes
     // Define the most common words ("worldwide", "countrywide")
