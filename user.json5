@@ -188,6 +188,8 @@
     "ORPB/TAEUGS": "orientation",
     "PAPL/TAEUT": "palpitate",
     "PEFRT": "pester", // use P-F for "perfect"
+    "POEUL/EFRT": "polyester", // EFRT is normally "effort"
+                               // but "polyeffort" isn't a word
     "SPES": "possess", // invert S and P
                        // allows one-stroking "possesses" unlike the standard PESZ
     "SPEGS": "possession",
