@@ -1020,6 +1020,7 @@
     "SKPAPBGS": "expansion",
     "SKPEPBD": "expend", // give up "end and" (use TPH-D for "end")
     "SKPEPBS": "expense",
+    "SKPEF": "expensive", // cf. SP*EF
     "SKPAOERPBS": "experience",
     "SKPAOERPBD": "experienced", // cf. SPAOERPBD
     "SKPERT": "expert",
