@@ -202,6 +202,11 @@
     "SOEPB/AR": "sonar",
     "STRAOEUTD": "strident",
     "SR*ERPBD": "surrender", // starless is "vendor"
+    "TAOEPL": "teem", // use TAEPL for "team"
+    "TAOEPLS": "teems",
+    "TAOEPL/-S": "teems",
+    "TAOEPL/-G": "teeming",
+    "TAOEPLD": "teemed",
     "T*ERS": "terrace", // starless is "terse"
     "TREFPS": "treacherous",
     "TROEL": "troll", // use PROL for "patrol"
