@@ -1648,12 +1648,16 @@
     "H*TS": "he's the",
     "H-FS": "he was", // interesting there's no KW-PLS for {^s}{?}
     "H-FTS": "he was the",
+    "H-RP": "he were",
+    "H-RPT": "he were the",
     "SH-S": "she is", // give up "ssh"
     "SH-TS": "she is the",
     "SH*S": "she's",
     "SH*TS": "she's the",
     "SH-FS": "she was",
     "SH-FTS": "she was the",
+    "SH-RP": "she were",
+    "SH-RPT": "she were the",
     "T-S": "it is", // nicely symmetrical with ST "is it"
     "T-TS": "it is the",
     // "it's"       T*S already works
