@@ -2794,6 +2794,7 @@
     "PW*PBD": "buttoned",    // use PWA*PBD/AEUD for "Band-Aid"
     "PW*PBG": "buttoning",   // give up "!!Con" (tech conference Mirabai captions for)
     "TKRETD": "directed",    // give up "indirect credit"
+    "AOEFD": "eased",
     "ETSDZ": "edits",        // (ETD + -S) + -Z
     "TPAEUGD": "fading",
     "TPUBGS": "fucks",       // use TPUPBGS for "function"
