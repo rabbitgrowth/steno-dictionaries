@@ -1225,6 +1225,7 @@
     /*1*/ "PW*URT": "Burt",
 
     // -FR for -ser, -zer, or even -zor
+    // Precedents: HRAEUFR "laser", S*EUPBT/SAOEUFR "synthesizer"
     "AP/TAOEUFR": "appetizer",
     "TPERT/HRAOEUFR": "fertilizer",
     "RA*EUFR": "razor", // starless is "racer" (-s- is default)
