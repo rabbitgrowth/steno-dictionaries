@@ -157,7 +157,6 @@
     "KAUFT": "caste",
     "KHEUBG/EPB": "chicken",
     "SEURBGS": "circus", // use -Z for "circumstances"
-    "KHRARPL": "clamor",
     "KHRAEURPBT": "clarinet",
     "KAUPB/TKAOUFS": "conducive",
     "KOFPB/TKAPBT": "confidant",
@@ -179,7 +178,6 @@
     "TKPWUPBS": "guns", // "beguns" is not a word
     "HA*RT": "hearth", // give up "Hart"
     "SPWREUBGT": "intricate",
-    "HR*EURBG": "liquor", // starless is "lyric"
     "PHES/PHRAOEUZ": "mesmerize",
     "PHES/PHRAOEUFD": "mesmerized",
     "PHES/PHRAOEUFG": "mesmerizing",
@@ -192,9 +190,6 @@
     "ORB": "orb", // misstroke for "or"
     "ORPB/TAEUGS": "orientation",
     "PAPL/TAEUT": "palpitate",
-    "PEFRT": "pester", // use P-F for "perfect"
-    "POEUL/EFRT": "polyester", // EFRT is normally "effort"
-                               // but "polyeffort" isn't a word
     "SPES": "possess", // invert S and P
                        // allows one-stroking "possesses" unlike the standard PESZ
     "SPEGS": "possession",
@@ -208,7 +203,6 @@
     "SHEUPBLG": "shingle",
     "SOEPB/AR": "sonar",
     "STRAOEUTD": "strident",
-    "SR*ERPBD": "surrender", // starless is "vendor"
     "TAOEPL": "teem", // use TAEPL for "team"
     "TAOEPLS": "teems",
     "TAOEPL/-S": "teems",
@@ -218,11 +212,8 @@
     "TREFPS": "treacherous",
     "TROEL": "troll", // use PROL for "patrol"
     "TROELS": "trolls",
-    "UPB/TPERT": "unfetter",
     "SRAPBL/TAOEUPB": "valentine",
     "SRAOEPBG": "vegan",
-    "SREURBGT": "victor", // cf. SRERBGT "vector"
-    "SR*EURBGT": "Victor",
     "SREUBG/TORS": "victorious", // use SREURBGTS or SREUBG/TORZ for "victors"
                                  // SREURBGT/KWROUS also works for "victorious"
     "SRAO*EUPBL": "violin", // starless is "vinyl"
@@ -701,6 +692,7 @@
     "A/TARBG": "attacker",
     "PWHRAOERBG": "bleaker", // cf. PWAOERBG "beaker"
     "KHARLG": "challenger",
+    "KHRARPL": "clamor",
     "KPHARPBD": "commander",
     "KPHORPB": "commoner",
     "KAUPB/SAOERL": "concealer",
@@ -720,9 +712,12 @@
                               // the "r" is not pronounced anyway
     "TKPWO*FRPB": "Governor", // add * to capitalize
     "EUPB/KRAOEURT": "inciter",
+    "HR*EURBG": "liquor", // starless is "lyric"
     "PHAOERG": "meager",
     "PAEURPBT": "painter", // use PARPBT for "parent"
     "PAEURPBTS": "painters",
+    "POEUL/EFRT": "polyester", // EFRT is normally "effort"
+                               // but "polyeffort" isn't a word
     "TPEUFRLS": "philosopher", // flouts steno order:
                                //  11  5 3
                                //      6  4
@@ -731,7 +726,11 @@
     "PREUFRPB": "prisoner",
     "SPHURLG": "smuggler",
     "SKEFR": "successor", // misstroke for "cancer"
+    "SR*ERPBD": "surrender", // starless is "vendor"
     "SWEUFRT": "swifter",
+    "UPB/TPERT": "unfetter",
+    "SREURBGT": "victor", // cf. SRERBGT "vector"
+    "SR*EURBGT": "Victor",
     /*1*/ "KH*EFR": "chèvre", // with proper diacritics
           "SH*EFR": "chèvre", // phonetic
 
@@ -1553,6 +1552,7 @@
     "HRAEDZ": "ladies",
     "HRERB": "leisure",
     "PHAOUPLT": "municipality",
+    "PEFRT": "pester",          // use P-F for "perfect"
     "TPOPB": "phenomenon",      // give up "phon" (unit of loudness)
     "PREUPBL": "provisional",   // use PREUPB for "principle"
     "SKOLGS": "psychologist",   // "psychologies" is too rare
