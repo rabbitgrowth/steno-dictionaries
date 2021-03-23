@@ -3612,6 +3612,7 @@
     "HAOEURS": "hires",  // "highers"
     "HAOEURG": "hiring", // "higherring"
     "WOEUD": "wide",     // "would Ied"
+    "K-BG": "{,}",       // "can being"
     "KW-BGS": "{,}",     // ",s"
     "KW-RBG": "{,}",     // "--ing"
 
