@@ -170,6 +170,10 @@
     "TPHREUFT/OUS": "felicitous",
     "TPEPBGS": "fencing", // misstroke for "infection"
     "TPRAOEPBLS": "freelance",
+    "TPREUFL": "frivol",
+    "TPREUFLT": "frivolity",
+    "TPREU/SROLT": "frivolity",
+    "TPREUFLS": "frivolous", // TPREUF/HROUS already works
     "SKWRERPBS": "generous",
     "TKPWRAEUFLT": "grateful", // TKPWRA*EUFL - * + -T
     "TKPWUPBS": "guns", // "beguns" is not a word
