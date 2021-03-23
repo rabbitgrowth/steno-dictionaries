@@ -5,6 +5,8 @@
     "TW": "between",
     "TWA": "between a",
     "TW-T": "between the",
+    "PW-D": "birthday", // give up "pwd"
+    "PW-RD": "birthday",
     "PW*T": "both",
     "TK-FS": "difference",
     "TK-FT": "different",
