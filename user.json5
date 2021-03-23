@@ -726,7 +726,7 @@
     "PREUFRPB": "prisoner",
     "SPHURLG": "smuggler",
     "SKEFR": "successor", // misstroke for "cancer"
-    "SR*ERPBD": "surrender", // starless is "vendor"
+    "SRERPBD": "surrender", // use SREPB/TKOR for "vendor"
     "SWEUFRT": "swifter",
     "UPB/TPERT": "unfetter",
     "SREURBGT": "victor", // cf. SRERBGT "vector"
