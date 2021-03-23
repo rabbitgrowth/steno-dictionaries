@@ -540,6 +540,15 @@
     "SWAEUD": "swayed", // 3003
     "SWA*EUD": "suede", // 1312
 
+    // -- Orthography ----------------------------------------------------------
+
+    // Use AE for -ea- as an orthographic alternative
+    // Precedents: KRAOET, KRAET "create"; SPAOEBG, SPAEBG "speak"
+    "KHRAEPB": "clean",
+    "KHRAER": "clear",
+    "HRAEFT": "least", // cf. THRAES "at least"
+    "SWAET": "sweat",  // use SWAT for "swat"
+
     // -- Joining and splitting ------------------------------------------------
 
     // Compound words
