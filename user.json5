@@ -444,7 +444,7 @@
     "TKPWREU": "category",    // KOERG is just weird
     "TKPWREUS": "categories", // give up "gris"
     "RAUPBT": "restaurant",   // restau[rant] or [r]estaur[ant]
-    "TPHAOEBG": "technique",  // add * for "anemic"
+    "TPHAOEBG": "technique",
 
     "SHU": "issue",
     "SHUS": "issues", // overrides {^tious}
