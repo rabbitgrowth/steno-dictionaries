@@ -1987,6 +1987,18 @@
     "T-GTS": "it gets",
     "W-GT": "we get",
     "THEGT": "they get",
+    "SKPEUGT": "and I get",
+    "SKPUGT": "and you get",
+    "STPEUGT": "if I get",
+    "STPUGT": "if you get",
+    "THAEUGT": "that I get",
+    "THAUGT": "that you get", // misstroke for "thought"
+    "WHAEUGT": "what I get",
+    "WHAUGT": "what you get",
+    "WHEUGT": "when I get",
+    "WHUGT": "when you get",
+    "WHOEUGT": "who I get",
+    "WHOUGT": "who you get",
 
     "-GT": "get",
     // It's probably a better idea to use TKPWET for "get" on its own,
