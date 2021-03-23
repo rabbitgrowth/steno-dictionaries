@@ -248,6 +248,7 @@
     "EUPB/SEPBT": "innocent",     // to TPH-PBT
                                   // use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",        // to TR
+    "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
     "TPHAEURB": "neighbor",       // to TPHAEUB
     "RORPBLG": "Roger",           // to RORG
     "SEUFRT": "sister",           // to ST-R
