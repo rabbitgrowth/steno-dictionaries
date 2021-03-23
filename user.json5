@@ -473,8 +473,7 @@
     // We have PHAEPB "many"   = MAEN = MANE = man-E.
     // Why not SRAEL  "valley" = VAEL = VALE = val-E?
     "AERPBG": "angry",
-    "TKPWOER": "gory",  // compare TKPWHROER "glory"
-                        // use TKPWOR for "gore"
+    "TKPWOER": "gory",  // compare TKPWHROER "glory"; use TKPWOR for "gore"
     "HOEB": "hobby",
     "PROEBGS": "proxy", // use PREBGS for "protection"
     "SRAEL": "valley",  // overrides "vale"
