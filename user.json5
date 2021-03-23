@@ -472,6 +472,7 @@
     // Extend "many" rule
     // We have PHAEPB "many"   = MAEN = MANE = man-E.
     // Why not SRAEL  "valley" = VAEL = VALE = val-E?
+    "AERPBG": "angry",
     "TKPWOER": "gory",  // compare TKPWHROER "glory"
                         // use TKPWOR for "gore"
     "HOEB": "hobby",
@@ -501,7 +502,6 @@
     // See also:
     // HELT "health"     -> HAOELT "healthy"
     // SKWRELS "jealous" -> SKWRAOELS "jealousy"
-    "AEURPBG": "angry", // use A/RAEUPB for "arraign"
     "PWAOUL": "bully",  // overrides "boule" [1]
     "PWAOUPB": "bunny",
     "HAOURPBG": "hungry",
