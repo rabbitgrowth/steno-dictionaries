@@ -1966,6 +1966,18 @@
     "T-FDZ": "it finds",
     "W-FD": "we find",
     "THEFD": "they find",
+    "SKPEUFD": "and I find",
+    "SKPUFD": "and you find",
+    "STPEUFD": "if I find",
+    "STPUFD": "if you find",
+    "THAEUFD": "that I find",
+    "THAUFD": "that you find",
+    "WHAEUFD": "what I find",
+    "WHAUFD": "what you find",
+    "WHEUFD": "when I find",
+    "WHUFD": "when you find",
+    "WHOEUFD": "who I find",
+    "WHOUFD": "who you find",
 
     "THAGT": "that get",
     "TOGT": "to get", // use T-GT for "together"
