@@ -1224,8 +1224,9 @@
     // but "you are the" is too useful to give up.
     /*1*/ "PW*URT": "Burt",
 
-    // -F for -s- or -z-
+    // -FR for -ser, -zer, or even -zor
     "AP/TAOEUFR": "appetizer",
+    "TPERT/HRAOEUFR": "fertilizer",
     "RA*EUFR": "razor", // starless is "racer" (-s- is default)
     "AOUFR": "user", // use AUFR for {over^}
     "WAOEUFR": "wiser",
