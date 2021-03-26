@@ -3717,6 +3717,7 @@
     "SPAEBGS/H-F": "speaks",        // from "aspects"
     "TOEFRT/H-F": "toaster",        // from "effort to"
     "TOEFRTS/H-F": "toasters",
+    "TRAET/H-F": "treat",           // from "treaty"
     "TRUPBLG/H-F": "trundling",     // from "trudge"
     "WEBG/H-F": "webbing",          // from "week" (custom)
     "WAOEULD/H-F": "widely",        // from "wild"
