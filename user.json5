@@ -3466,19 +3466,14 @@
     "PHA*BG": "Mac",       // give up "MAC"
 
     // "race" vs "raise"
-    // The default strokes for the -ing forms are hard to remember:
-    // RAEUS "race"  (makes sense) -> RAEFG   "racing"  (?!)
-    // RAEUZ "raise" (makes sense) -> RA*EUFG "raising" (?!)
-    // Make simply folding in -G work.
-    "RAEUGS": "racing", // overrides "regulation" [1]
+    // RAF  "rave"*   RAEUS  "race"    RAEUZ   "raise"   
+    // RAFS "raves"   RAEUSZ "races"   RA*EUFS "raises"  
+    // RAFG "raving"  RAEUFG "racing"  RA*EUFG "raising" 
+    // RAFD "raved"   RAEUFD "raced"   RA*EUFD "raised"  
+    // * like WAF "wave"
+    "RAEUFG": "racing", // use RAFG    for "raving"
+    "RAEUFD": "raced",  // use RA*EUFD for "raised"
     "RAEUGZ": "raising",
-    // Make -S correspond to -F and -Z to *F.
-    // (The voiced consonants are harder to reach;
-    //  you have to either move your pinky or add *.)
-    "RAEUFD": "raced",
-    "RA*EUFD": "raised", // already works
-                         // RAEUDZ is "raids"
-    /*1*/ "R*ELGS": "regulation", // RE+GL+GS + * to disambiguate from "relation"
 
     // "toe" vs "tow"
     // TOE should be "toe". I mean, it literally says "toe"!
