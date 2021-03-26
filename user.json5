@@ -745,8 +745,10 @@
     "UPB/TPERT": "unfetter",
     "SREURBGT": "victor", // cf. SRERBGT "vector"
     "SR*EURBGT": "Victor",
+    "WAURBG": "walker", // overrides "Washington, D.C."
     /*1*/ "KH*EFR": "chèvre", // with proper diacritics
           "SH*EFR": "chèvre", // phonetic
+    /*2*/ "WA*/WA*": "Washington, D.C.",
 
     // ... or use R if -R is already used
     // Precedents: TPRORPL "former", RERL "earlier"
