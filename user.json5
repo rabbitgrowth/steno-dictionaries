@@ -2943,53 +2943,6 @@
 
     // -- Negation -------------------------------------------------------------
 
-    // Instead of -PBT ...
-    //   SR-PBT "haven't"
-    //   H-PBT  "hadn't"
-    //   KAPBT  "can't"
-    //   KOPBT  "couldn't"
-    // ... use -PT which is easier to hit. (See "Ergonomics".)
-    // This is not completely without precedent, since standard Plover
-    // also uses -PT instead of -PBT as the stacking form of "want":
-    //   UPBT "you want"
-    //   UPT  "you want"
-    "AEUPT": "ain't",
-    "K-PT": "can't", // KAPT is "captain"
-                     // cf. K-PBT "can't"
-                     // give up "can want"
-    "KOPT": "couldn't",
-    "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
-    "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION} [1]
-    "TKOEPT": "don't",
-    "H-PT": "hadn't",
-    "SR-PT": "haven't", // overrides "vice president" [2]
-    "SHOPT": "shouldn't",
-    "WUPT": "wasn't",
-    "WOEPT": "won't",
-    "WOPT": "wouldn't",
-    /*1*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
-    /*2*/ "SREZ": "vice president",  // cf. PREZ  "president"
-          "SR*EZ": "Vice President", // cf. PR*EZ "President"
-
-    // Add -L as "bridge" to expand to full form
-    // Standard Plover also does this, but without dropping the -B:
-    //   SR-PBT  "haven't"
-    //   SR-PBLT "have not"
-    //   KAPBT   "can't"
-    //   KAPBLT  "cannot"
-    "K-PLT": "cannot",   // give up {&k-}
-    "TKOEPLT": "do not",
-    "TKUPLT": "does not",
-    "TK-PLT": "did not", // give up {&d-}
-
-    // Use -PLT for "not" even when there's no -n't form
-    // Again, this is not unprecedented:
-    //   TP-PBLT  "if not"   (there's no "ifn't"
-    //   KWR-PBLT "why not"              "whyn't")
-    "SKP-PLT": "and not",  // there's no "andn't"
-    "ORPLT": "or not",     //            "orn't"
-    "PHAEUPLT": "may not", //            "mayn't"
-
     // S for negation
     "STPHOL": "abnormal",
     "SHRAOEL": "illegal",
@@ -3087,6 +3040,55 @@
     "-T/HRORD/AES/PRAEUR": "the Lord's Prayer",
     "-T/STPHA*T": "the Senate", // I can be lazy and drop the *, because
                                 // -T/STPHAT is defined by default as "the Senate"
+
+    // -- Contractions ---------------------------------------------------------
+
+    // Instead of -PBT ...
+    //   SR-PBT "haven't"
+    //   H-PBT  "hadn't"
+    //   KAPBT  "can't"
+    //   KOPBT  "couldn't"
+    // ... use -PT which is easier to hit. (See "Ergonomics".)
+    // This is not completely without precedent, since standard Plover
+    // also uses -PT instead of -PBT as the stacking form of "want":
+    //   UPBT "you want"
+    //   UPT  "you want"
+    "AEUPT": "ain't",
+    "K-PT": "can't", // KAPT is "captain"
+                     // cf. K-PBT "can't"
+                     // give up "can want"
+    "KOPT": "couldn't",
+    "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
+    "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION} [1]
+    "TKOEPT": "don't",
+    "H-PT": "hadn't",
+    "SR-PT": "haven't", // overrides "vice president" [2]
+    "SHOPT": "shouldn't",
+    "WUPT": "wasn't",
+    "WOEPT": "won't",
+    "WOPT": "wouldn't",
+    /*1*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
+    /*2*/ "SREZ": "vice president",  // cf. PREZ  "president"
+          "SR*EZ": "Vice President", // cf. PR*EZ "President"
+
+    // Add -L as "bridge" to expand to full form
+    // Standard Plover also does this, but without dropping the -B:
+    //   SR-PBT  "haven't"
+    //   SR-PBLT "have not"
+    //   KAPBT   "can't"
+    //   KAPBLT  "cannot"
+    "K-PLT": "cannot",   // give up {&k-}
+    "TKOEPLT": "do not",
+    "TKUPLT": "does not",
+    "TK-PLT": "did not", // give up {&d-}
+
+    // Use -PLT for "not" even when there's no -n't form
+    // Again, this is not unprecedented:
+    //   TP-PBLT  "if not"   (there's no "ifn't"
+    //   KWR-PBLT "why not"              "whyn't")
+    "SKP-PLT": "and not",  // there's no "andn't"
+    "ORPLT": "or not",     //            "orn't"
+    "PHAEUPLT": "may not", //            "mayn't"
 
     // -- Acronyms and initialisms ---------------------------------------------
 
