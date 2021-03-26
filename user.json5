@@ -3090,6 +3090,12 @@
     "ORPLT": "or not",     //            "orn't"
     "PHAEUPLT": "may not", //            "mayn't"
 
+    // Informal contractions
+    // Following the pattern of TKPW*T "gotta"
+    "K*D": "kinda",
+    "TKPW*PB": "gonna", // use TKPWOPBT for "gotten"
+    "W*PB": "wanna",
+
     // -- Acronyms and initialisms ---------------------------------------------
 
     // Pronounce it like a normal word
