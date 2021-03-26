@@ -3537,6 +3537,10 @@
     "TKUFRBL/TKOR": "Dumbledore", // with O instead of OE
     "HOG/WARTS": "Hogwarts",
 
+    // Star Wars
+    "TKA*RT/SRAEURD": "Darth Vader",
+    "HRAOUBG/SKAOEU/WAURBG": "Luke Skywalker",
+
     // -- Miscellaneous --------------------------------------------------------
 
     // Don't hyphenate
