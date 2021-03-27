@@ -3705,6 +3705,7 @@
     "ORGD/H-F": "ordering",         // from "organized"
     "ORPBG/H-F": "organ",           // from "orange"
     "OERPB/H-F": "other than",      // from "owner"
+    "PEUG/H-F": "picking",          // from "pig"
     "RAEUPLD/H-F": "Raymond",       // from "remained" (custom)
     "WRAOU/H-F": "review",          // from "withdrew"
     "RAOEURD/H-F": "rider",         // from "required"
