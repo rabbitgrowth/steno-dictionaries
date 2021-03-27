@@ -631,6 +631,7 @@
     "KO*EP/WREUR": "copywriter",
     "KOEP/WREUR": "copywriter", // in ascending order of laziness:
                                 // KO*EP/WR*EUR KO*EP/WREUR KOEP/WREUR
+    "KWREFRT": "{yester^}",
 
     // Use nicer prefixes for multistroke words
     "SPWR/TPAOER": "interfere",   // prefer SPWR to EUPBT
