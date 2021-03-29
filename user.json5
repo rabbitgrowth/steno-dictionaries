@@ -3193,6 +3193,7 @@
     "AR": "area",           // first two letters
     "TAL": "at all",        // since TAUL is "tall"
     "WAU": "away",          // arbitrary
+    "KR-RG": "category",    // 1) "cgr"; 2) "krgr"; 3) symmetry :-)
     "KOURPB": "counter",    // flap /t/ in American accent
                             // full phonetic (KOURPBT) is {counter^}
     "STPHUR": "ensure",     // "N-shur" (TPH + SH); overrides "insure"
