@@ -3231,13 +3231,14 @@
     // -- Commands -------------------------------------------------------------
 
     "TK-LG": "{^^}", // TK-LS but vertically aligned
-    "TPHAOP": "{#}", // JUJ/(no-op)/*MT -> judgement
     "SK-GS": "{*?}", // retrospectively add space
                      // use S/SK-G for "is asking"
                      // SK <- -> GS (visually torn apart)
     "WR-RB": "{*!}", // retrospectively delete space
                      // use W-RB for "whereby"
                      // -> WR RB <- (visually sticking together)
+
+    "WUZ": "{#}", // JUJ/(no-op)/*MT -> judgement
 
     "SR-RS": "{#command(a)}", // select all on Mac
 
