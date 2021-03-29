@@ -846,6 +846,7 @@
 
     // Fold in -LS for -less
     "PWOEPBLS": "boneless",
+    "PWRAEUPBLS": "brainless",
     "KARBLS": "cashless",
     "HEPLS": "helpless", // use -Z for "hems"
     "SKWROBLS": "jobless",
