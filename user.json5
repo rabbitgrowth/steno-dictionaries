@@ -764,8 +764,7 @@
     "WRAOERD": "weirder",
 
     // -L for -ly
-    // TPHAOED/-D "needed" feels nice (although TPHAOETD is nicer I guess).
-    // Why not HRAOEL/-L for "legally"?
+    // TPHAOED/-D "needed" feels nice. Why not HRAOEL/-L for "legally"?
     "-L": "{^ly}",   // overrides {^'ll}
     "AEL": "{^'ll}", // overrides "ale"
     "AEUL": "ale",   // overrides "ail"
