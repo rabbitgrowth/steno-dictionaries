@@ -442,8 +442,6 @@
 
     // Pick distinctive part of word
     "STRAEUGS": "administration",
-    "TKPWREU": "category",    // KOERG is just weird
-    "TKPWREUS": "categories", // give up "gris"
     "RAUPBT": "restaurant",   // restau[rant] or [r]estaur[ant]
     "TPHAOEBG": "technique",
 
