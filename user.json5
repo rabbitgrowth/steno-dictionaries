@@ -2536,6 +2536,39 @@
                            // "when have you been" WH/SRUB
           "WHEUF/-F": "whiff of", // safeguard for when I forget this mnemonic
 
+    // "where" stacking
+    "WREUPL": "where I am",
+    "WR*EUPL": "where I'm",
+    "WREUFS": "where I was",
+    "WRUR": "where you are",
+    "WR*UR": "where you're",
+    "WRURP": "where you were",
+    "WRES": "where he is",
+    "WR*ES": "where he's", // use WREFT for "wrest"
+    "WREFS": "where he was",
+    "WREUF": "where I have",
+    "WR*EUF": "where I've",
+    "WREUD": "where I had",
+    "WRUF": "where you have",
+    "WR*UF": "where you've",
+    "WRUD": "where you had",
+    "WREZ": "where he has",
+    "WRED": "where he had",
+    "WREUBG": "where I can",
+    "WREUBGD": "where I could",
+    "WREURBD": "where I should",
+    "WREUL": "where I will",
+    "WR*EUL": "where I'll",
+    "WREULD": "where I would",
+    "WR*EUD": "where I'd",
+    "WRUBG": "where you can",
+    "WRUBGD": "where you could",
+    "WRURBD": "where you should",
+    "WRUL": "where you will",
+    "WR*UL": "where you'll",
+    "WRULD": "where you would",
+    "WR*UD": "where you'd",
+
     // "who" stacking
     "WHOEUPL": "who I am",
     "WHO*EUPL": "who I'm",
