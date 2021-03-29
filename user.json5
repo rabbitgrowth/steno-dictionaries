@@ -467,6 +467,20 @@
                         //  from "bump", but not many words are like that,
                         //  and Plover already defines PWUPL/-RBS)
 
+    // -isms and -ists
+    "KPHAOUFPL": "communism",
+    "KPHAO*UFPL": "Communism",
+    "KPHAOUFT": "communist",
+    "KPHAO*UFT": "Communist",
+    "SKWRUFRPL": "journalism",  // phonetic     ("jursm")
+    "SKWRUFRT": "journalist",   //              ("jurst")
+    "SKWROUFRPL": "journalism", // orthographic ("joursm")
+    "SKWROUFRT": "journalist",  //              ("jourst")
+    "TAOUFRPL": "tourism",
+    "TAOUFRT": "tourist", // strangely, Plover allows TUFRT and TOUFRT but not TAOUFRT
+    "TOFRPL": "tourism",  // for consistency with TOR "tour"
+    "TOFRT": "tourist",
+
     // -- Final -y -------------------------------------------------------------
 
     // Extend "many" rule
@@ -1303,18 +1317,6 @@
     "W*EURT": "wither",
     "S*EURT": "zither", // double *: one for "z", one for "th"
     "SPHO*RT": "smother",
-
-    // -FRPL and -FRT for -ism and -ist
-    "SKWRUFRPL": "journalism",  // phonetic     ("jursm")
-    "SKWRUFRT": "journalist",   //              ("jurst")
-    "SKWROUFRPL": "journalism", // orthographic ("joursm")
-    "SKWROUFRT": "journalist",  //              ("jourst")
-    "TAOUFRPL": "tourism",
-    "TAOUFRT": "tourist", // it's a bit strange that Plover allows
-                          // TUFRT (unphonetic) and TOUFRT (orthographic)
-                          // but not TAOUFRT (phonetic)
-    "TOFRPL": "tourism",  // for consistency with TOR "tour"
-    "TOFRT": "tourist",
 
     // -FRD for -rsed
     // Precedents: KUFRD "cursed", TPOFRD "forced"
