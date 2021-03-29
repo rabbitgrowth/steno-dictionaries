@@ -3700,6 +3700,9 @@
     "KW-BGS": "{,}",     // ",s"
     "KW-RBG": "{,}",     // "--ing"
 
+    // Untranslates
+    "PRUBT": "product",
+
     // -- Error recovery -------------------------------------------------------
 
     // Phoenix uses R-R but that's newline in Plover already,
