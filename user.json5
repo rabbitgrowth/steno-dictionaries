@@ -3218,7 +3218,6 @@
     //  K   is used so  S       S
     //   A                A   U
     "STA": "{~|(^}", // open bracket
-                     // (one of the 19 strokes for "and")
     "ULS": "{^~|)}", // close bracket
 
     // Single quotes
