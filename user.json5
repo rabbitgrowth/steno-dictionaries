@@ -320,6 +320,7 @@
 
     // -- Sound mashing --------------------------------------------------------
 
+    "STRAEUGS": "administration",
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "TKPHEUGS": "admission",
     "HRARPL": "alarm",
@@ -355,12 +356,14 @@
     "PREFRT": "protester",
     "TPHRET": "reflect", // misstroke for "net"
     "TPHREGS": "reflection",
+    "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "ROPLS": "romance",
     "ROPLT": "romantic", // can be thought of as autocompleting ROPLT/EUBG
     "STPREU": "satisfactory", // "sfry", cf. STPAOEU "satisfy"
     "STPOER": "satisfactory", // "sfory", or the standard STPOEUR minus -U
     "SWAEUPBLS": "surveillance",
     "STOPL": "symptom",
+    "TPHAOEBG": "technique",
     "STPHAPL": "tsunami",
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // from "vibe" as in "good vibes"
@@ -368,6 +371,26 @@
     "WORP": "worship", // give up "WordPress"
     /*1*/ "STO*RBG": "stork", // give up "State of New York"
     /*2*/ "A*UBG": "awk",     // give up "AUC"
+
+    "SHU": "issue",
+    "SHUS": "issues", // overrides {^tious}
+    "SHUD": "issued", // use SHO for "should"
+    "-RBS": "{^tious}", // cf. "ambitious"  APL/PWEURBS
+                        //     "cautious"   KAURBS
+                        //     "nutritious" TPHAO*URBS
+                        // although {^tious} on its own doesn't seem too
+                        // useful, as the parts preceding -tious tend to
+                        // be non-words ("cau", "nutri"). When it works,
+                        // it's usually by accident:
+                        // "contentious"  KAUPB/TEPB/-RBS
+                        // ("ten" happens to be a word, but the number
+                        //  10 has nothing to do with contentiousness)
+                        // "facetious"    TPAEUS/-RBS
+                        // (unphonetic hack; TPA/SAOERBS is much better)
+                        // "bumptious"    PW*UPL/-RBS
+                        // (this one is nice since "bumptious" does come
+                        //  from "bump", but not many words are like that,
+                        //  and Plover already defines PWUPL/-RBS)
 
     "TPRAEFD": "afraid of", // misstroke for "afraid"
     "SKPAOPB": "and so on", // SKP + SO + OPB with AO for the doubled "o"
@@ -439,31 +462,6 @@
     "TAUBT/-S": "talks about",
     "TAUBT/-D": "talked about",
     "TAUBT/-G": "talking about",
-
-    // Pick distinctive part of word
-    "STRAEUGS": "administration",
-    "RAUPBT": "restaurant",   // restau[rant] or [r]estaur[ant]
-    "TPHAOEBG": "technique",
-
-    "SHU": "issue",
-    "SHUS": "issues", // overrides {^tious}
-    "SHUD": "issued", // use SHO for "should"
-    "-RBS": "{^tious}", // cf. "ambitious"  APL/PWEURBS
-                        //     "cautious"   KAURBS
-                        //     "nutritious" TPHAO*URBS
-                        // although {^tious} on its own doesn't seem too
-                        // useful, as the parts preceding -tious tend to
-                        // be non-words ("cau", "nutri"). When it works,
-                        // it's usually by accident:
-                        // "contentious"  KAUPB/TEPB/-RBS
-                        // ("ten" happens to be a word, but the number
-                        //  10 has nothing to do with contentiousness)
-                        // "facetious"    TPAEUS/-RBS
-                        // (unphonetic hack; TPA/SAOERBS is much better)
-                        // "bumptious"    PW*UPL/-RBS
-                        // (this one is nice since "bumptious" does come
-                        //  from "bump", but not many words are like that,
-                        //  and Plover already defines PWUPL/-RBS)
 
     // -isms and -ists
     "KPHAOUFPL": "communism",
