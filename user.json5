@@ -359,6 +359,7 @@
     "ROPLT": "romantic", // can be thought of as autocompleting ROPLT/EUBG
     "STPOER": "satisfactory", // "sfory"
     "STPREU": "satisfactory", // "sfry"
+    "STPEURBL": "superficial", // "sficial", instead of STPEUFL "sfifal"
     "SWAEUPBLS": "surveillance",
     "STOPL": "symptom",
     "TPHAOEBG": "technique",
@@ -2999,7 +3000,6 @@
     "STPAEURPBS": "unfairness",
     "STPAPL": "unfamiliar",
     "STPHOEPB": "unknown",
-    "STPEURBL": "unofficial",
     "SPHREFPBT": "unpleasant",
 
     // -- Capitalization -------------------------------------------------------
