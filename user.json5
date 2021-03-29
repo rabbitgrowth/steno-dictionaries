@@ -2918,8 +2918,7 @@
     "WAOUPBTD": "wounded",
 
     "PWHRAOTD": "blooded",
-    "KOELD/PWHRAOTD": "cold-blooded", // or use the standard KOELD/PWHRAOD/-D
-                                      // since your pinky is already on -D at "cold"
+    "KOELD/PWHRAOTD": "cold-blooded", // or use KOELD/PWHRAOD/-D
     "WARPL/PWHRAOTD": "warm-blooded",
 
     // Superlatives
