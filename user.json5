@@ -771,6 +771,7 @@
     "AEUL": "ale",   // overrides "ail"
     "A*EUL": "ail",
     "AED": "{^'d}",  // to complete the set: AES AEL AED
+    "AE": "{^'^}",   // no space after, for fingerspelling words like "warn't"
 
     // Fold in -L for -ly
     "PROELT": "appropriately", // for "protocol" use PRO*ELT or ...
