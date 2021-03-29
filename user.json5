@@ -2923,25 +2923,22 @@
     "WARPL/PWHRAOTD": "warm-blooded",
 
     // Superlatives
-    // You can often drop the final consonant in the adjective.
+    // You can often drop the final consonant (typically /t/)
+    // in the base adjective.
     // Precedents: HRAEUFT "latest", TKPWRAEFT "greatest"
     //                        ^ dropped             ^ dropped
-    "PWEUFT": "biggest", // PWEUG, PWEURG, PWEUFT
-                         // "big"  "bigr"  "bist"
-    "KHROEFT": "closest",
-    "WAOEFRT": "weirdest",
-    "WAOEUFT": "wisest",
-
+    "PWEUFT": "biggest", // PWEUG, PWEURG, PWEUFT ("big, bigr, bist")
     "PWRAOEUFT": "brightest",
+    "KHROEFT": "closest",
+    "HAOEUFT": "highest", // cf. HROEFT "lowest"; overides "heist" [1]
     "HRAOEUFT": "lightest",
     "SHOFRT": "shortest",
     "SHRAOEUFT": "slightest",
     "SPHAFRT": "smartest",
     "SWAOEFT": "sweetest",
-
-    "HAOEUFT": "highest", // overides "heist"
-                          // HROEFT "lowest" already works
-    "HAO*EUFT": "heist",
+    "WAOEFRT": "weirdest",
+    "WAOEUFT": "wisest",
+    /*1*/ "HAO*EUFT": "heist",
 
     // -- Negation -------------------------------------------------------------
 
