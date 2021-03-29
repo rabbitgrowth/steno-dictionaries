@@ -3245,7 +3245,7 @@
 
     "WUZ": "{#}", // JUJ/(no-op)/*MT -> judgement
 
-    "SR-RS": "{#command(a)}", // select all on Mac
+    "SKWR-RBGS": "{#command(a)}", // select all on Mac
 
     // -- Basics ---------------------------------------------------------------
 
