@@ -329,15 +329,13 @@
     "STORB": "astonish",
     "STORBG": "astonishing", // overrides "stork" (a bird) [1]
     "AUBG": "automatic",     // overrides "awk" (awkward)  [2]
-    "KPRA*EUPBS": "contemporaneous", // starless is "extraneous"
-                                     // the standard KPRA*EURPBS minus -R
+    "KPRA*EUPBS": "contemporaneous", // KPRA*EURPBS - -R; starless is "extraneous"
     "KURPB": "curtain",
     "TAOERT": "deteriorate",
     "TAOERGS": "deterioration",
     "SKHAOU": "eschew",
     "SKHAOUL": "eschewal",
-    "AOEFPL": "eventual", // ERBL doesn't make phonetic sense and
-                          // EFPBL is a bit awkward to hit
+    "AOEFPL": "eventual", // ERBL is unphonetic and EFPBL is awkward to hit
     "HRAOEFPL": "eventually",
     "KPELT": "excellent",
     "TPAOPBLG": "footage", // like TPHOPBLG "knowledge"
