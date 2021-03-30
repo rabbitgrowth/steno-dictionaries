@@ -3791,6 +3791,7 @@
     "PWRAOEFP/H-F": "breach",       // from "breech"
     "AOEUD/H-F": "eyed",            // from "I'd"
     "TPHROUR/H-F": "flour",         // from "flower" (custom)
+    "HAEU/H-F": "hay",              // from "hey"
     "HAOEUFT/H-F": "heist",         // from "highest" (custom)
     "HAOEUR/H-F": "hire",           // from "higher"
     "HAOEURD/H-F": "hired",         // from {hydro^}
