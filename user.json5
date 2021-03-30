@@ -3022,6 +3022,9 @@
     "WEUL/HEPL": "Wilhelm",
     "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
 
+    // Places
+    "HROS/APBLGS": "Los Angeles", // invert L and G ("los anjls")
+
     // -- Capitalization -------------------------------------------------------
 
     // Don't capitalize
