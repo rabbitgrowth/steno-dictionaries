@@ -3004,7 +3004,7 @@
     "STPHOEPB": "unknown",
     "SPHREFPBT": "unpleasant",
 
-    // -- Capitalization -------------------------------------------------------
+    // -- Proper nouns ---------------------------------------------------------
 
     // Names
     "AS/EUPL/OF": "Asimov", // AS/PHOF is "as move"
@@ -3021,6 +3021,8 @@
     "STA*PBL": "Stalin", // starless is "substantial"
     "WEUL/HEPL": "Wilhelm",
     "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
+
+    // -- Capitalization -------------------------------------------------------
 
     // Don't capitalize
     "PWAPBD/AEUD": "band-aid",
