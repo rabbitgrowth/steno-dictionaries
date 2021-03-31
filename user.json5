@@ -116,8 +116,6 @@
     "HR-PBD": "listened",
     "HR-RPB": "listener",
     "TPHAOERB": "nearby",       // with TPHAOER "near"; use TPHEURB for "niche"
-    "TPHORBG": "New York",      // with TPHORBG/TAOEUPLS "New York Times"
-                                //   misstroke for "no{,}"
     "TPEUFR": "officer",        // with TPEURBL "official"
     "OPB/WARD": "onward",       // with PWABG/WARD "backward"
     "ORPB": "origin",           // with ORPBL "original"
@@ -3024,6 +3022,8 @@
 
     // Places
     "HROS/APBLGS": "Los Angeles", // invert L and G ("los anjls")
+    "TPHORBG": "New York", // cf. TPHORBG/TAOEUPLS "New York Times"
+                           // misstroke for "no{,}"
 
     // -- Capitalization -------------------------------------------------------
 
