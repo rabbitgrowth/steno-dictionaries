@@ -3027,6 +3027,11 @@
 
     // -- Capitalization -------------------------------------------------------
 
+    // Capitalize
+    "HER/PHAPBLGS/TEU": "Her Majesty",
+    "HEUS/PHAPBLGS/TEU": "His Majesty",
+    "KWROUR/PHAPBLGS/TEU": "Your Majesty",
+
     // Don't capitalize
     "PWAPBD/AEUD": "band-aid",
     "KORPBG": "congress",
