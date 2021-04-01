@@ -2693,8 +2693,7 @@
                             //   AND SPITE OF     4
                             //   THE SPITE OF     3
                             // But it's useful to have a stroke for "spite of"
-                            // for when you hear "in spite of" and reflexively
-                            // hit TPH for "in".
+                            // for when you've already hit TPH for "in".
     "TPHEUS": "in this",
     "TPHURPB": "in turn", // instead of "turn in"; follow steno order
     "STHAU": "is that you",
