@@ -1633,30 +1633,46 @@
 
     // -- Autocomplete effect --------------------------------------------------
 
-    // Precedents: TPEUS "physical", PED "pedestrian"
-    "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
-    "KHEUPL": "chimney",
-    "AOEG": "ego",
-    "SKWREP": "jeopardy",
-    "SKWRAOUF": "juvenile",
-    "RE/SKWRAOUF": "rejuvenate",
-    "RE/SKWRAOUFGS": "rejuvenation",
-    "TPHAR": "narrow",
+    // If a stroke isn't assigned to anything, then I might as well make it
+    // "autocomplete" to a word that begins with the stroke. Precedents:
+    //   TPEUS "physical" ("autocompletes" to TPEUS/K-L)
+    //   PED "pedestrian" ("autocompletes" to PED/STRAOEPB)
+    // This sometimes has the added benefit of preventing distracting garbage
+    // from flashing past on screen. For example, since SREU is "have I",
+    // if I type SREUG/ROUS for "vigorous", "have Iing" would briefly appear
+    // before getting replaced by "vigorous":
+    //   SREUG      "have Iing"
+    //   SREUG/ROUS "vigorous"
+    // If I make SREUG "vigor", then I (or my potential client) would simply
+    // see -ous being tacked onto "vigor", which looks much smoother visually:
+    //   SREUG      "vigor"
+    //   SREUG/ROUS "vigorous"
+
+    // Nonsensical translations
+    "KHEUPL": "chimney",  // "Chim"
+    "AOEG": "ego",        // "eing"
+    "TPHAR": "narrow",    // "nar"
     "TPHARL": "narrowly", // overrides "natural" [1]
+    "SERBG": "secretary", // "Serbing"
+    "SROD": "vodka",      // "have toed"
+    "SREUG": "vigor",     // "have Iing"
+    /*1*/ "TPHARLT": "natural",    // fully phonetic
+          "TPHRARLT": "naturally", // superimpose HR for -ly
+
+    // Untranslates
+    "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
+    "SKWREP": "jeopardy",
     "POEPB": "pony",
     "KWARPB": "quarantine",
-    "SERBG": "secretary", // from my SERBG/TREU
     "SKEP": "skeptic",
-    "SKEP/K-L": "skeptical", // like the standard SKEPT/K-L but SKEPT "concept"
-                             // doesn't flash past on the screen
+    "SKEP/K-L": "skeptical", // like SKEPT/K-L but "concept" doesn't flash past
     "SKEFPL": "skepticism",
     "SAOUF": "souvenir",
     "TRUFRPB": "truncheon", // alternative to TRUPBGS
-    "SREUPBLG": "vigil", // use SREUD for "individual"
-    "SREUG": "vigor", // prevents "have Iing" from flashing past
-    "SROD": "vodka",  // prevents "have toed" from flashing past
-    /*1*/ "TPHARLT": "natural",    // fully phonetic
-          "TPHRARLT": "naturally", // superimpose HR for -ly
+
+    // Words with better strokes
+    "SKWRAOUF": "juvenile", // "justify"    SKWRUF (custom)
+    "SREUPBLG": "vigil",    // "individual" SREUD
 
     // -- Phrasing -------------------------------------------------------------
 
