@@ -3848,6 +3848,7 @@
     "SAOEUD/H-F": "sighed",         // from "side"
     "SWAEUD/H-F": "suede",          // from "swayed"
     "SWAOET/H-F": "suite",          // from "sweet"
+    "THROEPB/H-F": "throne",        // from "thrown"
     "TAOEUD/H-F": "tied",           // from "tide"
 
     // Forgetting to use -Z instead of -S
