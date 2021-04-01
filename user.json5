@@ -3082,6 +3082,7 @@
     //   HAPL/HRET "hamlet"        HA*PL/HRET "Hamlet"
     // This feels right because the first syllable is the part
     // where the lowercase-to-uppercase change happens.
+    "STPH*ET": "Internet",
     "SKWR*UFS": "Justice",
     "PA*ERT": "Party",
     "SRAO*EUS": "Vice", // as in SRAO*EUS/PR*EZ "Vice President"
