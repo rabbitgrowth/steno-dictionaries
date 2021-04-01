@@ -3397,17 +3397,6 @@
     "SOUPD": "sound",
     "WEUPD": "wind",
 
-    // A more ergonomic "end"
-    "TPH-D": "end",     // pronounce the TPH: "N'd"
-                        // easier to hit than EPBD
-                        // give up {^ed in}
-    "TPH-DZ": "ends",   // overrides "inside" [1]
-    "TPH-GD": "ending", // *much* easier to hit than EPBGD
-    "TPH-TD": "ended",  // overrides "noticed" [2]
-    /*1*/ "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
-          "OUFD": "outside",  // "ousd"; for consistency
-    /*2*/ "TPH-TSDZ": "noticed", // (TPH-TS + -D) + -Z
-
     // -- Word families --------------------------------------------------------
 
     // "agree" family
@@ -3613,6 +3602,28 @@
 
     // Fictitious place names
     "SREUL": "{*-|}{^ville}", // with retrospective capitalization
+
+    // Pronounce TPH as en-
+    // Precedents: TPH-PBLG "engine", TPH-RG "energy"
+    "TPH-D": "end",      // "N'd"; easier to hit than EPBD
+                         // give up {^ed in}
+    "TPH-DZ": "ends",    // overrides "inside" [1]
+    "TPH-GD": "ending",  // much easier to hit than EPBGD
+    "TPH-TD": "ended",   // overrides "noticed" [2]
+    "TPH-RT": "enter",   // "N-ter"; easier to hit than SPWER
+    "TPH-RD": "entered", // shortcut for TPH-RTD
+    // Having a dedicated stroke for the individual word "enter"
+    // makes it safe to use SPWER for words beginning with enter-.
+    "SPWER/PRAOEUFG": "enterprising", // vs TPH-RT/PRAOEUFG "enter pricing"
+                                      // ("manually enter pricing information")
+    "SPWER/TAEUPBD": "entertained", // vs TPH-RT/PRAOEUFG "enter contained"
+                                    // ("the data I was trying to enter contained...")
+    "SPWER/TAEURPB": "entertainer",
+    "SPWER/TAEURPBS": "entertainers",
+    "SPWER/TAEUPLT": "entertainment", // or just use TAEUPLT
+    /*1*/ "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
+          "OUFD": "outside",  // "ousd"; for consistency
+    /*2*/ "TPH-TSDZ": "noticed", // (TPH-TS + -D) + -Z
 
     // Consonant + no vowel + -RB for -nish
     // cf. P-RB "punish"
