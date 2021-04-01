@@ -3002,6 +3002,10 @@
     "STPHOEPB": "unknown",
     "SPHREFPBT": "unpleasant",
 
+    "SKHRU": "exclude",      // 1) S + KHRU "include"; 2) /ɪkˈ[sklu]ːd/
+    "SKHRUF": "exclusive",   // cf. KHRUF "inclusive"
+    "SKHRAOUF": "exclusive", // more fully phonetic
+
     // -- Proper nouns ---------------------------------------------------------
 
     // Names
