@@ -3712,6 +3712,7 @@
     // Nonsensical translations
     "HAOEURS": "hires",  // "highers"
     "HAOEURG": "hiring", // "higherring"
+    "*FS": "was",        // "ofs"
     "WOEUD": "wide",     // "would Ied"
     "K-BG": "{,}",       // "can being"
     "KW-BGS": "{,}",     // ",s"
