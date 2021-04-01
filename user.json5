@@ -1055,7 +1055,7 @@
     "SKPAPBGS": "expansion",
     "SKPAOED/KWREPBS": "expedience",
     "SKPAOED/KWREPBT": "expedient",
-    "SKPEPBD": "expend", // give up "end and" (use TPH-D for "end")
+    "SKPEPBD": "expend", // give up "end and"
     "SKPEPBS": "expense",
     "SKPEF": "expensive", // cf. SP*EF
     "SKPAOERPBS": "experience",
