@@ -1652,6 +1652,7 @@
     "SKEFPL": "skepticism",
     "SAOUF": "souvenir",
     "TRUFRPB": "truncheon", // alternative to TRUPBGS
+    "SREUPBLG": "vigil", // use SREUD for "individual"
     "SREUG": "vigor", // prevents "have Iing" from flashing past
     "SROD": "vodka",  // prevents "have toed" from flashing past
     /*1*/ "TPHARLT": "natural",    // fully phonetic
