@@ -360,6 +360,9 @@
     "STPOER": "satisfactory", // "sfory"
     "STPREU": "satisfactory", // "sfry"
     "SPHREUFBG": "simplistic",
+    "SOERLD": "soldier", // - SHRERPBLG is weird ("slerj"? probably meant
+                         //   to be "sljer", like TPHOEUPBLG "enjoy"?)
+                         // - not to be confused with SORLD "solder"
     "STPEURBL": "superficial", // "sficial", instead of STPEUFL "sfifal"
     "SWAEUPBLS": "surveillance",
     "STOPL": "symptom",
