@@ -3401,6 +3401,8 @@
     "SPEPT": "spent",
     "W-PT": "went", // WEPT is "wept";
                     // vowel-dropping nicely consistent with TKPW "go"
+    "WAOUPD": "wound",
+    "WOUPD": "wound",
 
     // Drop -B in -PBD
     "TPOUPD": "found",
