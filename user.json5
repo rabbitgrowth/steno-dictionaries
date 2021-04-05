@@ -834,10 +834,6 @@
     "SKHROL": "psychologically",
     "SHRAOEPLG": "seemingly",
     "HRUPLT": "ultimately",
-    "HRAOURBL": "usually", // which frees up ...
-    "AOURBL": "usual",     // more strokes than AOURB but satisfyingly complete
-    "HRURBL": "usually",   // allow simpler vowel for common word
-                           // URBL "usual" already works
     "WHRUFL": "wonderfully",
 
     // -LG for -kly
