@@ -1727,7 +1727,7 @@
     "W-RT": "we are the",
     "W*R": "we're",
     "W*RT": "we're the", // overrides "with respect to" [4]
-    "W-RPBT": "we aren't", // overrides "weren't" [5]
+    "W-RPBT": "we aren't", // use WERPT (custom) for "weren't"
     "W-RPBLT": "we are not",
     "THER": "they are",
     "THERT": "they are the",
@@ -1744,11 +1744,6 @@
           "WRU": "where you",  // use URP  for "you were"
     /*4*/ "TWROPT": "with respect to", // cf. WR-PT "with respect"
           "TWORPT": "with respect to", //     W-RPT "with respect"
-    /*5*/ "-RPBT": "weren't", // -RP + -PBT
-                              // "isn't"  S-PBT
-                              // "aren't" R-PBT
-                              // "weren't -RPBT is a nice progression
-          "-RPBLT": "were not",
 
     // Pronoun + have
     // Since KWROEU is "I don't" and KWROEUF is "I don't have",
