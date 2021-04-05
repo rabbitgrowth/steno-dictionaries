@@ -1755,8 +1755,8 @@
     // one would expect "I have" to be KWR-F. But it's SREU (?!).
     "KWR-F": "I have",
     "KWR-FB": "I have been",
-    // "I've"      AOEUF already works
-    // "I've been" AOEUFB already works
+    "AOEUF": "I've",       // already works
+    "AOEUFB": "I've been", // already works
     "KWR-D": "I had",
     "KWR-BD": "I had been",
     "SREU": "have I", // follow steno order
@@ -1766,7 +1766,7 @@
     "*UFB": "you've been",
     "UD": "you had", // use *UD for "you'd"
     "UBD": "you had been",
-    // "have you"  SRU already works
+    "SRU": "have you", // already works
     "H-Z": "he has",
     "H-BZ": "he has been",
     "H-D": "he had", // use H/H for "had had"; doubling is easy
