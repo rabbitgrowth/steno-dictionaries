@@ -1892,14 +1892,11 @@
     "THABG": "that can", // misstroke for "thank"
 
     // Modal verb + be
-    "PHAEUB": "may be",    // overrides "maybe"
-    "PH-B": "maybe",       // give up "Mapbox"
-    "PHAOEUB": "might be", // already works
-    "PHUFB": "must be",    // for consistency with PHAOEUB
-    // A good reason not to just stack PHUFT and -B (PHUFBT)
-    // for "must be" is to reserve the -T for "the".
+    "PHAEUB": "may be", // overrides "maybe" [1]
     "PHAEUBT": "may be the",
+    "PHAOEUB": "might be", // already works
     "PHAOEUBT": "might be the",
+    "PHUFB": "must be",
     "PHUFBT": "must be the",
     "K-BT": "can be the",
     "KOBT": "could be the",
@@ -1907,6 +1904,7 @@
     "SHOBT": "should be the",
     "HR-BT": "will be the", // already works
     "WOBT": "would be the", // already works
+    /*1*/ "PH-B": "maybe", // give up "Mapbox"
 
     // -FPLT for "must"
     // It's phonetic with an inversion (FMT -> MST),
