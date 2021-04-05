@@ -3399,8 +3399,7 @@
     "PREUPT": "print",
     "RAOEPT": "recent", // use PRAOET for "repeat"
     "SPEPT": "spent",
-    "W-PT": "went", // WEPT is "wept";
-                    // vowel-dropping nicely consistent with TKPW "go"
+    "W-PT": "went", // drop vowel like TKPW "go"; WEPT is "wept"
     "WAOUPD": "wound",
     "WOUPD": "wound",
 
