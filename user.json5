@@ -3757,23 +3757,18 @@
     // so move that up to H-F. (Use KW-PL for {?}.)
     "HROUD/H-F": "allowed",         // from "loud"
     "PHAEUD/H-F": "amid",           // from "maid"
-    "PWALD/H-F": "badly",           // from "balanced"
     "PWAEUG/H-F": "baying",         // from "baking" (custom)
     "PWERT/H-F": "better",          // from "Bert"
     "PWHREFD/H-F": "blessed",       // from "believed"
     "PWUPBLG/H-F": "bundling",      // from "budge"
     "KAEUFG/H-F": "casing",         // from {^ication}
     "KOEP/H-F": "copy",             // from "cope"
-    "KREUFPL/H-F": "crisply",       // from "criticism" (custom)
     "TKPWAEUT/H-F": "debate",       // from "gait"
-    "TKAOEPL/H-F": "deeply",        // from "deem"
     "STKERT/H-F": "dessert",        // from "desert"
     "STKERTS/H-F": "desserts",
     "TKOG/H-F": "doing",            // from "dog"
     "TPAEUTD/H-F": "faded",         // from "fated"
     "TPAEURL/H-F": "failure",       // from "fairly"
-    "TPAOERLS/H-F": "fiercely",     // from "fearless"
-    "TPAOEUPBL/H-F": "finely",      // from "final"
     "TKPWREG/H-F": "Greg",          // from "agreeing" (custom)
     "TKPWUPB/H-F": "gun",           // from "begun"
     "HARBG/H-F": "hacker",          // from "hark"
@@ -3804,12 +3799,19 @@
     "SAOEG/H-F": "seeking",         // from "seeing"
     "SAOEUTD/H-F": "sided",         // from "sighted"
     "SPAEBGS/H-F": "speaks",        // from "aspects"
-    "TAOEULT/H-F": "tightly",       // from "title"
     "TOEFRT/H-F": "toaster",        // from "effort to"
     "TOEFRTS/H-F": "toasters",
     "TRAET/H-F": "treat",           // from "treaty"
     "TRUPBLG/H-F": "trundling",     // from "trudge"
     "WEBG/H-F": "webbing",          // from "week" (custom)
+
+    // When folding in -L for -ly doesn't work
+    "PWALD/H-F": "badly",           // from "balanced"
+    "KREUFPL/H-F": "crisply",       // from "criticism" (custom)
+    "TKAOEPL/H-F": "deeply",        // from "deem"
+    "TPAOERLS/H-F": "fiercely",     // from "fearless"
+    "TPAOEUPBL/H-F": "finely",      // from "final"
+    "TAOEULT/H-F": "tightly",       // from "title"
     "WAOEULD/H-F": "widely",        // from "wild"
 
     // Forced evictions to make way for phrasing strokes
