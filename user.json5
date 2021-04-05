@@ -3755,6 +3755,8 @@
     // Phoenix uses R-R to cycle through alternatives,
     // but that's newline in Plover already,
     // so move that up to H-F. (Use KW-PL for {?}.)
+
+    // Miscellaneous
     "HROUD/H-F": "allowed",         // from "loud"
     "PHAEUD/H-F": "amid",           // from "maid"
     "PWAEUG/H-F": "baying",         // from "baking" (custom)
@@ -3804,30 +3806,6 @@
     "TRAET/H-F": "treat",           // from "treaty"
     "TRUPBLG/H-F": "trundling",     // from "trudge"
     "WEBG/H-F": "webbing",          // from "week" (custom)
-
-    // When folding in -L for -ly doesn't work
-    "PWALD/H-F": "badly",           // from "balanced"
-    "KREUFPL/H-F": "crisply",       // from "criticism" (custom)
-    "TKAOEPL/H-F": "deeply",        // from "deem"
-    "TPAOERLS/H-F": "fiercely",     // from "fearless"
-    "TPAOEUPBL/H-F": "finely",      // from "final"
-    "TAOEULT/H-F": "tightly",       // from "title"
-    "WAOEULD/H-F": "widely",        // from "wild"
-
-    // Forced evictions to make way for phrasing strokes
-    "AOEUPLT/H-F": "item",          // from "I'm the"      (custom)
-    "THA*UD/H-F": "thawed",         // from "that you'd"   (custom)
-    "WHABG/H-F": "whack",           // from "what can"     (custom)
-    "WHAEL/H-F": "whale",           // from "what he will" (custom)
-    "WHOR/H-F": "whore",            // from "who are"      (custom)
-
-    // Stacking
-    "AUFL/H-F": "all of",           // from "awful"
-    "PWAUT/H-F": "because the",     // from "bought"
-    "PWEUT/H-F": "by the",          // from "bit"
-    "TKOT/H-F": "do the",           // from "dot"
-    "TKPWOT/H-F": "go to the",      // from "got"
-    "OEFRT/H-F": "over the",        // from "overt"
 
     // Homophones or near-homophones
     "AD/H-F": "ad",                 // from "add"
@@ -3917,6 +3895,30 @@
     "PHAEUPLS/H-F": "maims",        // from "my name is"   (custom)
     "SAES/H-F": "seas",             // from "assess"       (custom)
     "SREUBG/TORS/H-F": "victors",   // from "victorious"   (custom)
+
+    // Stacking
+    "AUFL/H-F": "all of",           // from "awful"
+    "PWAUT/H-F": "because the",     // from "bought"
+    "PWEUT/H-F": "by the",          // from "bit"
+    "TKOT/H-F": "do the",           // from "dot"
+    "TKPWOT/H-F": "go to the",      // from "got"
+    "OEFRT/H-F": "over the",        // from "overt"
+
+    // When folding in -L for -ly doesn't work
+    "PWALD/H-F": "badly",           // from "balanced"
+    "KREUFPL/H-F": "crisply",       // from "criticism" (custom)
+    "TKAOEPL/H-F": "deeply",        // from "deem"
+    "TPAOERLS/H-F": "fiercely",     // from "fearless"
+    "TPAOEUPBL/H-F": "finely",      // from "final"
+    "TAOEULT/H-F": "tightly",       // from "title"
+    "WAOEULD/H-F": "widely",        // from "wild"
+
+    // Forced evictions to make way for phrasing strokes
+    "AOEUPLT/H-F": "item",          // from "I'm the"      (custom)
+    "THA*UD/H-F": "thawed",         // from "that you'd"   (custom)
+    "WHABG/H-F": "whack",           // from "what can"     (custom)
+    "WHAEL/H-F": "whale",           // from "what he will" (custom)
+    "WHOR/H-F": "whore",            // from "who are"      (custom)
 
     // Use same stroke to change to British spelling
     "PWHAEUFR/H-F": "behaviour",
