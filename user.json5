@@ -783,8 +783,7 @@
     "AE": "{^'^}",   // no space after, for fingerspelling words like "warn't"
 
     // Fold in -L for -ly
-    "PROELT": "appropriately", // for "protocol" use PRO*ELT or ...
-    "PRO*ELG": "protocol",     // "procol"
+    "PROELT": "appropriately", // overrides "protocol" [1]
     "K-RBLS": "consciously",
     "KRAOEFL": "creatively",
     "TKELD": "deadly",
@@ -805,7 +804,7 @@
     "PHEUFT/KWROULS": "mysteriously",
     "TPHAOELT": "neatly",
     "TPHO/TORLS": "notoriously",
-    "OEPL": "openly", // overrides "ohm" [1]
+    "OEPL": "openly", // overrides "ohm" [2]
     "PAEURBLT": "patiently",
     "PHRAOEULT": "politely",
     "PRO*PBLT": "predominantly",
@@ -814,14 +813,15 @@
     "RES/HRAOULT": "resolutely",
     "RAOUPBLT": "routinely", // phonetic
     "ROEUPBL": "routinely",  // brief
-    "SALD": "sadly", // overrides "salad" [2]
+    "SALD": "sadly", // overrides "salad" [3]
     "SEUFRPL": "simply", // use SEUFRP for "simple"
     "STAOUPLD": "stupidly",
     "SWEUFLT": "swiftly",
     "PRAERL": "temporarily",
     "SREUFLD": "vividly",
-    /*1*/ "O*PL": "ohm",    // kind of fits because O is "oh"
-    /*2*/ "SAELD": "salad", // AE for /æ/
+    /*1*/ "PROLT": "protocol",
+    /*2*/ "O*PL": "ohm",    // kind of fits because O is "oh"
+    /*3*/ "SAELD": "salad", // AE for /æ/
 
     // ... or use HR if -L is already used
     "PWHROELD": "boldly",
