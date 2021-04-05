@@ -3749,6 +3749,9 @@
     "PRUBT": "product",
     "TOEUPL": "time",
 
+    // Strokes I don't mind giving up
+    "KHROER": "clear", // just use OBG/HRAR for "ocular"
+
     // -- Error recovery -------------------------------------------------------
 
     // Phoenix uses R-R to cycle through alternatives,
