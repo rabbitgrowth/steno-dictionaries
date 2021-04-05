@@ -3705,6 +3705,8 @@
     // That's "amenome", not "anemone".
     "A/TPHEPL/TPHE": "anemone",
     "A/TPHEPL/TPHEU": "anemone",
+    // PWAR/TKPWAPB/-G "bagaaining" (typo)
+    "PWAR/TKPWAPB/-G": "bargaining",
     // KULD "culd"
     // "culd" is not a word (at least not in modern English --
     // apparently it's an obsolete form of "could").
