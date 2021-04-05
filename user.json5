@@ -3767,7 +3767,6 @@
     "PWUPBLG/H-F": "bundling",      // from "budge"
     "KAEUFG/H-F": "casing",         // from {^ication}
     "KOEP/H-F": "copy",             // from "cope"
-    "TKPWAEUT/H-F": "debate",       // from "gait"
     "STKERT/H-F": "dessert",        // from "desert"
     "STKERTS/H-F": "desserts",
     "TKOG/H-F": "doing",            // from "dog"
@@ -3819,6 +3818,7 @@
     "PWRAOEFP/H-F": "breach",       // from "breech"
     "AOEUD/H-F": "eyed",            // from "I'd"
     "TPHROUR/H-F": "flour",         // from "flower" (custom)
+    "TKPWAEUT/H-F": "gate",         // from "gait"
     "HAEU/H-F": "hay",              // from "hey"
     "HAOEUFT/H-F": "heist",         // from "highest" (custom)
     "HAOEUR/H-F": "hire",           // from "higher"
