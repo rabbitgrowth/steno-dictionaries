@@ -94,7 +94,6 @@
                                 //   REUBGT  "restrict"   -> REUBGS   "restriction"
                                 //   STREUBT "distribute" -> STREUBGS "distribution"
                                 //   (TKR-BT and TKR-BGS are nice briefy alternatives)
-    "TPEURBS": "efficiency",    // with TPEURBT "efficient"; use -Z for "fishes"
     "ERLD": "elder",            // with OERLD "older"; overrides "elderly"
     "HRERLD": "elderly",
     "THUFBG": "enthusiastic",   // with THUFPL "enthusiasm"
@@ -3885,7 +3884,6 @@
 
     "PWAOEUS/H-F": "buys",          // from "bias"         (custom)
     "STKPHRAEUS/H-F": "displays",   // from "displace"     (custom)
-    "TPEURBS/H-F": "fishes",        // from "efficiency"   (custom)
     "TPHRAEUBGS/H-F": "flakes",     // from "affliction"   (custom)
     "TPREBGS/H-F": "frequents",     // from "for example"  (custom)
     "SKWRELS/H-F": "gels",          // from "jealous"      (custom)
