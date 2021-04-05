@@ -782,6 +782,8 @@
     "AED": "{^'d}",  // to complete the set: AES AEL AED
     "AE": "{^'^}",   // no space after, for fingerspelling words like "warn't"
 
+    "TAOEUT/-L": "tightly", // by default "title"
+
     // Fold in -L for -ly
     "PROELT": "appropriately", // overrides "protocol" [1]
     "K-RBLS": "consciously",
@@ -3802,6 +3804,7 @@
     "SAOEG/H-F": "seeking",         // from "seeing"
     "SAOEUTD/H-F": "sided",         // from "sighted"
     "SPAEBGS/H-F": "speaks",        // from "aspects"
+    "TAOEULT/H-F": "tightly",       // from "title"
     "TOEFRT/H-F": "toaster",        // from "effort to"
     "TOEFRTS/H-F": "toasters",
     "TRAET/H-F": "treat",           // from "treaty"
