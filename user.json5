@@ -1729,6 +1729,8 @@
     "W*RT": "we're the", // overrides "with respect to" [4]
     "W-RPBT": "we aren't", // use WERPT (custom) for "weren't"
     "W-RPBLT": "we are not",
+    "W-RP": "we were",
+    "W-RPT": "we were the", // use WR-PT for "with respect"
     "THER": "they are",
     "THERT": "they are the",
     "TH*ER": "they're",
@@ -1743,7 +1745,6 @@
           "WR-T": "where the", // use -RPT for "were the"
           "WRU": "where you",  // use URP  for "you were"
     /*4*/ "TWROPT": "with respect to", // cf. WR-PT "with respect"
-          "TWORPT": "with respect to", //     W-RPT "with respect"
 
     // Pronoun + have
     // Since KWROEU is "I don't" and KWROEUF is "I don't have",
@@ -3124,7 +3125,7 @@
     "SR-PT": "haven't", // overrides "vice president" [2]
     "SHOPT": "shouldn't",
     "WUPT": "wasn't",
-    "WERPT": "weren't",
+    "WERPT": "weren't", // use W-RPT (custom) for "we were the"
     "WOEPT": "won't",
     "WOPT": "wouldn't",
     /*1*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
