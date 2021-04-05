@@ -3219,7 +3219,7 @@
 
     // -- Special rules --------------------------------------------------------
 
-    "SKW": "and",          // SKP with P one tile down
+    "SKW": "and",          // SKP with P moved down
     "AR": "area",          // first two letters
     "TAL": "at all",       // since TAUL is "tall"
     "WAU": "away",         // arbitrary
@@ -3259,8 +3259,8 @@
     // This feels unnatural. Compare
     //   PREPB  {~|(^} (open bracket)
     //   PR*EPB {^~|)} (close bracket)
-    // Solution: move KW-GS and KR-GS (open and close double quotes)
-    // up one tile to get the corresponding single quotes.
+    // Solution: move up KW-GS and KR-GS (open and close double quotes)
+    // to get the corresponding single quotes.
     "TP-LT": "{~|'^}", // open single quote
                        // (one of the 32 strokes for {.})
     "TH-LT": "{^~|'}", // close single quote
@@ -3750,8 +3750,9 @@
 
     // -- Error recovery -------------------------------------------------------
 
-    // Phoenix uses R-R but that's newline in Plover already,
-    // so move that up one tile and use H-F. (Use KW-PL for {?}.)
+    // Phoenix uses R-R to cycle through alternatives,
+    // but that's newline in Plover already,
+    // so move that up to H-F. (Use KW-PL for {?}.)
     "HROUD/H-F": "allowed",         // from "loud"
     "PHAEUD/H-F": "amid",           // from "maid"
     "PWALD/H-F": "badly",           // from "balanced"
