@@ -3117,6 +3117,7 @@
     //   KOPBT  "couldn't"
     // ... use -PT which is easier to hit. (See "Ergonomics".)
     "AEUPT": "ain't",
+    "ARPT": "aren't",
     "K-PT": "can't", // KAPT is "captain"
                      // cf. K-PBT "can't"
                      // give up "can want"
@@ -3128,6 +3129,7 @@
     "SR-PT": "haven't", // overrides "vice president" [2]
     "SHOPT": "shouldn't",
     "WUPT": "wasn't",
+    "WERPT": "weren't",
     "WOEPT": "won't",
     "WOPT": "wouldn't",
     /*1*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
