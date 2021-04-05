@@ -1777,10 +1777,7 @@
     "SH-BD": "she had been",
     "W-F": "we have", // bizarre misstroke for "where"
     "W-FB": "we have been",
-    "W*F": "we've",   // give up "West Virginia" and free up ...
-    "WAOEF": "weave", // cf. HAOEF "heave", KHRAOEF "cleave"
-                      // ("leave" gets HREF because it's very common
-                      //  and to disambiguate from "leaf")
+    "W*F": "we've", // give up "West Virginia" and free up WAOEF for "weave" [1]
     "W*FB": "we've been",
     "W-D": "we had", // give up {^ed with}
     "W-BD": "we had been",
@@ -1790,6 +1787,9 @@
     "TH*EFB": "they've been",
     "THED": "they had", // use TH*ED for "they'd"
     "THEBD": "they had been",
+    /*1*/ "WAOEF": "weave", // cf. HAOEF "heave", KHRAOEF "cleave"
+                            // ("leave" gets HREF because it's very common
+                            //  and to disambiguate from "leaf")
 
     // Pronoun + modal verb
     "KWR-BG": "I can", // misstroke for {,}
