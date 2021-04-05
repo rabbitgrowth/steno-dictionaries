@@ -1688,7 +1688,7 @@
     // Default to full form and add * or use phonetics for contraction
     "KWR-PL": "I am", // overrides "I mean" [1]
     "KWR-PLT": "I am the",
-    // "I'm"        AOEUPL already works
+    "AOEUPL": "I'm", // already works
     "AOEUPLT": "I'm the", // overrides "item" [2]
     "KWR-FS": "I was", // prefer KWR as "I", so give up "why was" here;
                        // but KWR-S is "why is", since "I is" is impossible
@@ -1697,12 +1697,9 @@
     "URT": "you are the",
     "*UR": "you're",
     "*URT": "you're the",
-    // "you aren't" URPBT already works
+    "URPBT": "you aren't", // already works
     "URPBLT": "you are not",
-    "-RPBT": "aren't", // make stacking form work too
-                       // makes sense because both R and -R are "are"
-    "-RPBLT": "are not",
-    // "you were"   URP already works
+    "URP": "you were", // already works
     "URPT": "you were the",
     "H-S": "he is",
     "H-TS": "he is the",
@@ -1722,9 +1719,9 @@
     "SH-RPT": "she were the",
     "T-S": "it is", // nicely symmetrical with ST "is it"
     "T-TS": "it is the",
-    // "it's"       T*S already works
+    "T*S": "it's", // already works
     "T*TS": "it's the",
-    // "it was"     T-FS already works
+    "T-FS": "it was", // already works
     "T-FTS": "it was the",
     "W-R": "we are", // overrides "where" [3]
     "W-RT": "we are the",
