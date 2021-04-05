@@ -3744,6 +3744,7 @@
     "KW-RBG": "{,}",     // "--ing"
 
     // Untranslates
+    "KPW": "go",
     "PRUBT": "product",
     "TOEUPL": "time",
 
