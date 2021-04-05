@@ -1787,7 +1787,7 @@
     "TH*EFB": "they've been",
     "THED": "they had", // use TH*ED for "they'd"
     "THEBD": "they had been",
-    /*1*/ "WAOEF": "weave", // cf. HAOEF "heave", KHRAOEF "cleave"
+    /*1*/ "WAOEF": "weave", // cf. KHRAOEF "cleave", HAOEF "heave"
                             // ("leave" gets HREF because it's very common
                             //  and to disambiguate from "leaf")
 
