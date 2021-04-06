@@ -3228,8 +3228,7 @@
     "PWOEUR": "bury",      // OEU to reflect weirdness of "u" being pronounced /ɛ/
     "KR-RG": "category",   // 1) "cgr"; 2) "krgr"; 3) symmetry :-)
     "KOURPB": "counter",   // think flap /t/; KOURPBT is {counter^}
-    "STPHUR": "ensure",    // "N-shur" (TPH + SH); overrides "insure"
-    "STPH*UR": "insure",
+    "STPHUR": "ensure",    // "N-shur" (TPH + SH); overrides "insure" [1]
     "HA*RPL": "harmony",   // mnemonic: Jacob Collier's #IHarmYou
     "HOELT": "hotel",      // feels natural because it has all the letters
     "HO*ELT": "Hotel",
@@ -3238,6 +3237,7 @@
     "KW-LT": "quietly",
     "TUPLT": "tumult",     // TU+PL+L+T
                            // TUPLT/WOUS "tumultuous"
+    /*1*/ "STPH*UR": "insure",
 
     // -- Punctuation as shapes ------------------------------------------------
 
