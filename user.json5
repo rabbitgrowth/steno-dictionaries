@@ -3712,26 +3712,34 @@
     // That's "amenome", not "anemone".
     "A/TPHEPL/TPHE": "anemone",
     "A/TPHEPL/TPHEU": "anemone",
+
     // PWAR/TKPWAPB/-G "bagaaining" (typo)
     "PWAR/TKPWAPB/-G": "bargaining",
+
     // KULD "culd"
     // "culd" is not a word (at least not in modern English;
     // apparently it's an obsolete form of "could").
     "KULD": "culled", // cf. KUL "cull"
+
     // HAPBD/SHAEUBGS "hand"
     "HAPBD/SHAEUBGS": "handshakes",
+
     // TPHURS   "nurse"
     // TPHURGS  "nurse"   (extra G)
     // TPHURBGS "nursing" (extra B)
     "TPHURGS": "nursing",
+
     // RAEUGSZ "radiation"
     "RAEUGSZ": "regulations", // cf. RAEUGS "regulation"
+
     // TAEUPBD "tained"
     "TAEUPBD": "contained", // cf. TAEUPB "contain"
+
     // THA/AOUGS "that use"
     // ("It was estimated that using contract workers could save
     //   the company millions of dollars.")
     "THA/AOUGS": "that using",
+
     // KWROUR/TEFL "yourself" (odd misstroke)
     "KWROUR/TEFL": "your telephone",
 
