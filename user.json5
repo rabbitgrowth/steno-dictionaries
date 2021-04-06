@@ -117,6 +117,8 @@
     "TPH-FBGT": "infect",       // with TPH-FRPL "inform", TPH-FPBT "infinite", etc.
     "TERPGS": "interpretation", // with TERP "interpret"
     "TWAOEPB": "intervene",     // with TWEPBGS "intervention"; use TW for "between"
+    "EUR/SEUFT/PWHREU": "irresistibly",
+                                // with EUR/SEUFT/-BL "irresistible"
     "HR-PB": "listen",          // with HR-PBG "listening"; use HR-PBS for "license"
     "HR-PBD": "listened",
     "HR-RPB": "listener",
