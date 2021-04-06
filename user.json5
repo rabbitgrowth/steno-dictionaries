@@ -24,20 +24,20 @@
     "TKPW-T": "great", // use TKPWET for "get"; it's easy enough to hit
                        // and nicely symmetrical with TKPWOT "got"
     "TKPW-P": "group",
-    "TKPW-PS": "groups", // just fingerspell "GPS"
+    "TKPW-PS": "groups", // overrides "GPS" [1]
     "H-P": "hypothesis", // just fingerspell "HP"
     "H-PS": "hypotheses",
     "H-P/-S": "hypotheses",
     "K-D": "kind", // use A/KORD for "accord"; Plover even allows A/K-D
                    // KIND   416980
                    // ACCORD   6864
-    "K-FD": "kind of", // overrides "confidence" [1]
+    "K-FD": "kind of", // overrides "confidence" [2]
     "HR-BG": "like", // use WELG for "welcome"
     "HR*BG": "{^like}", // use HR*PBG for "[l]ow i[nc]ome"
     "HR-BGS": "likes",
     "HR-BGD": "liked",
     "HR-BGT": "like the",
-    "HR-LG": "likely", // overrides {^ological} [2]
+    "HR-LG": "likely", // overrides {^ological} [3]
     "SHR-BG": "is like",
     "SHR-BGT": "is like the",
     "SHR-LG": "is likely",
@@ -45,14 +45,15 @@
     "P-FP": "picture", // misstroke for {.}
     "P-T": "point",    // use P-P for {^.^}
     "PR-B": "problem",
-    "-RT": "right", // use R-T for "are the"; frees up RAOEUT for "riot" [3]
+    "-RT": "right", // use R-T for "are the"; frees up RAOEUT for "riot" [4]
     "T-G": "thing",
-    /*1*/ "K-FS": "confidence", // cf. K-FT "confident",
+    /*1*/ "TKPW*PS": "GPS", // just write out "global positioning system"
+    /*2*/ "K-FS": "confidence", // cf. K-FT "confident",
                                 // following the -S vs -T pattern:
                                 // PREPBS "presence"
                                 // PREPBT "present"
-    /*2*/ "HR*LG": "{^ological}",
-    /*3*/ "RAOEUT": "riot",
+    /*3*/ "HR*LG": "{^ological}",
+    /*4*/ "RAOEUT": "riot",
           "RAOEURT": "rioter", // much nicer than RAOEU/OT/*ER
 
     "-TS": "its",
