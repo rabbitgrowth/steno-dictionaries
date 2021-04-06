@@ -3736,9 +3736,8 @@
     "TAEUPBD": "contained", // cf. TAEUPB "contain"
 
     // THA/AOUGS "that use"
-    // ("It was estimated that using contract workers could save
-    //   the company millions of dollars.")
-    "THA/AOUGS": "that using",
+    "THA/AOUGS": "that using", // ("It was estimated that using contract workers
+                               //  could save the company millions of dollars.")
 
     // KWROUR/TEFL "yourself" (odd misstroke)
     "KWROUR/TEFL": "your telephone",
