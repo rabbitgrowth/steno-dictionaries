@@ -3233,7 +3233,7 @@
     "STPHUR": "ensure",    // "N-shur" (TPH + SH); overrides "insure"
     "STPH*UR": "insure",
     "HA*RPL": "harmony",   // mnemonic: Jacob Collier's #IHarmYou
-    "HOELT": "hotel",      // reverse stress or HOELT->HOTEL
+    "HOELT": "hotel",      // feels natural because it has all the letters
     "TAOU": "in order to", // a stronger "to"
     "KW-T": "quiet",       // KWAOEUT ("quite") is too loud
     "KW-LT": "quietly",
