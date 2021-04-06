@@ -2774,8 +2774,6 @@
     "PWROUZ": "brows", // -S is "browse"
     "KPHAS": "commas", // use KP/PHAS for "Xmas"
     "KAUPB/SKWREBG/TAOURS": "conjectures",
-    "KRABGS": "cracks", // use KR*BGS for "contraction",
-                        // which feels consistent with KR-T "contract"
     "TK*ET/PWEDZ": "deathbeds",
     "TKEUPL/PHATS": "diplomats",
     "TKOPL/TPHOES": "dominoes",
@@ -3867,6 +3865,7 @@
     "SEURBGS/H-F": "circumstances", // from "circus"
     "T-PBS/H-F": "continues",       // from "continuous"
     "KREUS/H-F": "countries",       // from "Chris"
+    "KRABGS/H-F": "cracks",         // from "contraction"
     "TKWAOEUS/H-F": "devise",       // from "device"
     "TKAOEUS/H-F": "dies",          // from "dice"
     "AOEUS/H-F": "eyes",            // from "ice"
