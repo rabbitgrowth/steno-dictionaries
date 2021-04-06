@@ -3715,7 +3715,7 @@
     // PWAR/TKPWAPB/-G "bagaaining" (typo)
     "PWAR/TKPWAPB/-G": "bargaining",
     // KULD "culd"
-    // "culd" is not a word (at least not in modern English --
+    // "culd" is not a word (at least not in modern English;
     // apparently it's an obsolete form of "could").
     "KULD": "culled", // cf. KUL "cull"
     // HAPBD/SHAEUBGS "hand"
@@ -3727,9 +3727,7 @@
     // RAEUGSZ "radiation"
     "RAEUGSZ": "regulations", // cf. RAEUGS "regulation"
     // TAEUPBD "tained"
-    // Since TAEUPB is "contain", one would expect TAEUPBD to be
-    // "contained". "tained" isn't even a word.
-    "TAEUPBD": "contained",
+    "TAEUPBD": "contained", // cf. TAEUPB "contain"
     // THA/AOUGS "that use"
     // ("It was estimated that using contract workers could save
     //   the company millions of dollars.")
