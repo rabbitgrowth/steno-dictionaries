@@ -126,7 +126,6 @@
     "ORPB": "origin",           // with ORPBL "original"
     "P-FGS": "perfection",      // with P-F "perfect"
     "PROEUFD": "processed",     // with PROEUS "process", PROEUFG "processing"
-    "RAEUGSZ": "regulations",   // with RAEUGS "regulation"
     "R*URPB": "runner",         // with R*UPBG "running"
     "STEUFBG": "scientific",    // with STEUFT "scientist"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
@@ -3729,6 +3728,8 @@
     // PWERPBLG "percentage"
     // PERS already works, so PERJ should, too.
     "PERPBLG": "percentage",
+    // RAEUGSZ "radiation"
+    "RAEUGSZ": "regulations", // cf. RAEUGS "regulation"
     // TAEUPBD "tained"
     // Since TAEUPB is "contain", one would expect TAEUPBD to be
     // "contained". "tained" isn't even a word.
