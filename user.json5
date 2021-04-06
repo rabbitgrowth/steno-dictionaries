@@ -2151,7 +2151,7 @@
     "TPOEPBL": "if only", // follow steno order
     "WHAF": "what if",
 
-    // Common word + "a"
+    // "... a"
     // SA   "sa"
     // TKA  "da"
     // PWA  "ba"
@@ -2200,7 +2200,7 @@
     "HA*/HA*": "haha",    // no hyphen
     "HA*/HA*/HA*": "hahaha",
 
-    // "the" stacking
+    // "... the"
     "TH-TS": "this is the", // use THA*S for "that's"
     "TH-FTS": "this was the",
     "THATS": "that is the",
@@ -2242,21 +2242,21 @@
     "WEUFRT": "whichever the",
     "WHOFRT": "whoever the",
 
-    // J for "just"
+    // "just ..."
     "SKWR": "just",
     "SKWR-B": "just been",
     "SKWR-T": "just the",
     "SKWR-LG": "just like",
     "SKWR-PBG": "just in case", // cf. the starless "junk" SKWRUPBG
 
-    // SPH for "some"
+    // "some ..."
                              // Default strokes are inconsistent:
     "SPH-F": "some of",      // SPHOF  "some of"
     "SPH-FT": "some of the", // SOFPLT "some of the"
     "SPH-R": "some are",
     "SPH-RP": "some were",
 
-    // P for "people"
+    // "people ..."
     // PAOEPL is definitely a bit clumsy for how common "people" is.
     // PEPL is better (although it's listed as a misstroke).
     // P is only slightly easier to type than PEPL but really shines
@@ -2290,7 +2290,7 @@
                                 // maybe I can think of "relationship" and "ownership"
                                 // as a pair, both requiring *.
 
-    // "and" stacking
+    // "and ..."
     // SKP is just begging to be stacked.
     // Look at this sea of possibilities:
     //   P~ ~~~~~
@@ -2367,7 +2367,7 @@
     "SKPHR-B": "and will be",      // cf. "will be"
     "SKPHR-BT": "and will be the", // cf. "will be the"
 
-    // "is" stacking
+    // "is ..."
     "S-FR": "is ever", // use SR-FR for "server"
     "STP-RT": "is for the",
     "STPR": "is from",
@@ -2388,7 +2388,7 @@
     "SW-T": "is with the",
     "SWU": "is with you",
 
-    // "that" stacking
+    // "that ..."
     "THAEUPL": "that I am",
     "THAEUPLT": "that I am the",
     "THA*EUPL": "that I'm",
@@ -2458,7 +2458,7 @@
     "STHA*ED": "that she'd",
     /*1*/ "THAOES/EUS": "thesis", // cf. THAOES/AOES "theses"
 
-    // "what" stacking
+    // "what ..."
     "WHAEUPL": "what I am",
     "WHA*EUPL": "what I'm",
     "WHAEUFS": "what I was", // already works
@@ -2505,7 +2505,7 @@
     /*1*/ "WHEL": "whale",
           "WHELS": "whales", // use WHAELS for "what else"
 
-    // "when" stacking
+    // "when ..."
     "WHEUPL": "when I am", // overrides "whim" [1]
     "WHEUPLT": "when I am the",
     "WH*EUPL": "when I'm", // even the starred stroke is occupied
@@ -2550,7 +2550,7 @@
                            // "when have you been" WH/SRUB
           "WHEUF/-F": "whiff of", // safeguard for when I forget this mnemonic
 
-    // "where" stacking
+    // "where ..."
     "WREUPL": "where I am",
     "WR*EUPL": "where I'm",
     "WREUFS": "where I was",
@@ -2583,7 +2583,7 @@
     "WRULD": "where you would",
     "WR*UD": "where you'd",
 
-    // "who" stacking
+    // "who ..."
     "WHOEUPL": "who I am",
     "WHO*EUPL": "who I'm",
     "WHOEUFS": "who I was",
