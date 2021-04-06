@@ -42,6 +42,8 @@
     "SHR-BGT": "is like the",
     "SHR-LG": "is likely",
     "HRAOLG": "likelihood", // HR-LG + "oo"
+    "P-FP": "picture", // misstroke for {.}
+    "P-T": "point",    // use P-P for {^.^}
     "PR-B": "problem",
     "-RT": "right", // use R-T for "are the"
                     // which frees up ...
