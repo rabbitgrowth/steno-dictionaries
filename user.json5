@@ -10,6 +10,8 @@
     "PW*T": "both",
     "TK-FS": "difference",
     "TK-FT": "different",
+    "KP-T": "exact",
+    "KP-LT": "exactly",
     "-FD": "find",
     "T-FD": "find it",
     "TP-D": "friend", // give up "pharmacodynamic"
@@ -2224,7 +2226,6 @@
     "KRAOTS": "across the",
     "TKPWEPBTS": "against the",
     "AOLT": "along the",
-    "ELGT": "exactly the",
     "OEPBLT": "only the",
     "OUFT": "out of the", // add * for "oust"
     "UPT": "up the", // use UPBT for "you want"
