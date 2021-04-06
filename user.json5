@@ -45,16 +45,15 @@
     "P-FP": "picture", // misstroke for {.}
     "P-T": "point",    // use P-P for {^.^}
     "PR-B": "problem",
-    "-RT": "right", // use R-T for "are the"
-                    // which frees up ...
-    "RAOEUT": "riot",
-    "RAOEURT": "rioter", // much nicer than RAOEU/OT/*ER
+    "-RT": "right", // use R-T for "are the"; frees up RAOEUT for "riot" [3]
     "T-G": "thing",
     /*1*/ "K-FS": "confidence", // cf. K-FT "confident",
                                 // following the -S vs -T pattern:
                                 // PREPBS "presence"
                                 // PREPBT "present"
     /*2*/ "HR*LG": "{^ological}",
+    /*3*/ "RAOEUT": "riot",
+          "RAOEURT": "rioter", // much nicer than RAOEU/OT/*ER
 
     "-TS": "its",
     "*TS": "itself",
