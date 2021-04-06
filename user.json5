@@ -3227,8 +3227,7 @@
     "WAU": "away",         // arbitrary
     "PWOEUR": "bury",      // OEU to reflect weirdness of "u" being pronounced /ɛ/
     "KR-RG": "category",   // 1) "cgr"; 2) "krgr"; 3) symmetry :-)
-    "KOURPB": "counter",   // flap /t/ in American accent
-                           // full phonetic (KOURPBT) is {counter^}
+    "KOURPB": "counter",   // think flap /t/; KOURPBT is {counter^}
     "STPHUR": "ensure",    // "N-shur" (TPH + SH); overrides "insure"
     "STPH*UR": "insure",
     "HA*RPL": "harmony",   // mnemonic: Jacob Collier's #IHarmYou
