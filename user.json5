@@ -2643,15 +2643,19 @@
     "STP*ED": "if he'd",
     /*1*/ "TPAFBG": "fantastic",
 
-    // KH as stacking form of "which"
-    // This already works for the most basic words:
-    // KH-S  "which is"
-    // KH-FS "which was"
-    // KH-R  "which are"
-    // WEU works too, but less reliably:
-    // WEUS  "which is"
-    // WEUFS "which was"
-    // WEUR  "wire" (?!)
+    // "which ..."
+    // Plover uses WEU for "which" on its own and KH as the stacking form:
+    //   KH-S  "which is"
+    //   KH-FS "which was"
+    //   KH-R  "which are"
+    // WEU is also used as a stacking form but works less reliably:
+    //   WEUS  "which is"
+    //   WEUFS "which was"
+    //   WEUR  "wire" (?!)
+    // KH on its own is "charge", which feels a bit arbitrary to me.
+    // (I imagine "charge" gets such a simple brief because it's a frequent
+    // legal term.) For simplicity, use KH for "which" in all situations:
+    "KH": "which", // just use KHARPBLG for "charge"
     "KH-TS": "which is the",
     "KH-FTS": "which was the",
     "KH-F": "which have", // give up "CHF" (congestive heart failure)
