@@ -914,8 +914,8 @@
     "SPWAOEU": "untie",
     "SPWO": "unto",
 
-    // KPW for imp-, imb-, emp-, and emb-
-    // (borrowed from Magnum)
+    // KPW for [aeiou]m[bp]-
+    // This is a further extension to Magnum's KPW, which is used for [ei]m[bp]-.
     "KPWABGT": "impact",
     "KPWAOEFP": "impeach",
     "KPWAOEFPLT": "impeachment", // cf. EUPL/PAOEFPLT
