@@ -1250,6 +1250,7 @@
     "PHOEUD": "media",  // misstroke for "employed"
     "STOEUD": "studio", // overrides "studied"
     "STKEU": "study",
+    "STKEUS": "studies", // misstroke for "decision"
 
     // EZ for -eeze
     // Like THEZ "these", although "these" is spelled with an "s".
