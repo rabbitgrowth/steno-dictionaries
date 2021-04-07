@@ -2194,10 +2194,20 @@
     "WA": "with a",   // W-T   "with the"
     /*1*/ "RA*": "Ra",
 
-    "SA*": "as a",    // think "is + * = as" or "za"
+    "SA*": "as a", // think "is + * = as" or "za"
     "S*T": "as the",
     "TA": "at a",
     "T-T": "at the",
+
+    "PRA": "for a", // TPAR is "far" and TPAEUR is "fair",
+                    // so borrow from French "pour"
+
+    "HA": "had a",        // misstroke for "that"
+    "HA/HA": "haha",      // no hyphen
+    "HA/HA/HA": "hahaha", // no hyphen
+    "HA*": "ha",          // "Ha! That'll teach you."
+    "HA*/HA*": "haha",    // no hyphen
+    "HA*/HA*/HA*": "hahaha",
 
     "TAEU": "to a", // misstroke for "day"
 
@@ -2207,16 +2217,6 @@
                       // better reserved for "afters" ("we had apple pie
                       // for afters", "befores and afters", "fairy tales
                       // and their stupid happily ever afters", etc.)
-
-    "PRA": "for a",   // TPAR is "far" and TPAEUR is "fair",
-                      // so borrow from French "pour"
-
-    "HA": "had a",        // misstroke for "that"
-    "HA/HA": "haha",      // no hyphen
-    "HA/HA/HA": "hahaha", // no hyphen
-    "HA*": "ha",          // "Ha! That'll teach you."
-    "HA*/HA*": "haha",    // no hyphen
-    "HA*/HA*/HA*": "hahaha",
 
     // "... the"
     "TH-TS": "this is the", // use THA*S for "that's"
