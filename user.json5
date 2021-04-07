@@ -1054,6 +1054,14 @@
     "STK*EPBT": "descent", // dis- feels more default-y than des-
 
     // SKP- for exp-
+    // Plover often uses SP- for exp- when there's no conflict,
+    // so you can actually omit the K in some of the words below.
+    // "experience" SKPAOERPBS (custom)
+    //              SPAOERPBS  (default)
+    // "experiment" SKPERPLT   (custom)
+    //              SPERPLT    (default) etc.
+    // But there might be some merit in being consistent and
+    // always using SKP- for exp-.
     "SKPAPBD": "expand",
     "SKPAPBS": "expanse", // and get "expansive" SKPAPBS/EUF for free
     "SKPAPBGS": "expansion",
