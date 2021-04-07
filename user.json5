@@ -916,6 +916,15 @@
 
     // KPW for [aeiou]m[bp]-
     // This is a further extension to Magnum's KPW, which is used for [ei]m[bp]-.
+    "KPWEUGS": "ambition",
+    "KPWEURBS": "ambitious",
+    "KPWEUFLS": "ambivalence", // cf. APL/PWEUFLS
+    "KPWEUFLT": "ambivalent",  // cf. APL/PWEUFLT
+    "KPWHRAPBS": "ambulance", // or just use PWHRAPBS
+    "KPWURB": "ambush",
+    "KPWHREUFBGS": "amplification",
+    "KPWHREUF": "amplify",    // cf. SPEF "specify"
+    "KPWHREUTD": "amplitude", // bit of a stretch to use -TD for -tude?
     "KPWARS": "embarrass", // cf. EPL/PWARS
     "KPWAFRD": "embarrassed",
     "KPWAES": "embassy", // with "many" rule, cf. EPL/PWAES
