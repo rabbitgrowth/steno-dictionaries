@@ -62,6 +62,7 @@
     "AULTS": "all its",
     "SKP-TS": "and its", // give up {^s and the}
     "PWAUTS": "because its",
+    "PW-FTS": "before its",
     "TP-RTS": "for its",
     "TPR-TS": "from its",
     "SR-TS": "have its", // give up "very truly yours{,}"
