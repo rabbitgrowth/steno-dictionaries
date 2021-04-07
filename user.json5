@@ -3242,6 +3242,7 @@
 
     "SKW": "and",          // SKP with P moved down
     "AR": "area",          // first two letters
+    "TA*UL": "at all",     // * is OK here due to the symmetry; give up {^-tall}
     "WAU": "away",         // arbitrary
     "PWOEUR": "bury",      // OEU to reflect weirdness of "u" being pronounced /ɛ/
     "KR-RG": "category",   // 1) "cgr"; 2) "krgr"; 3) symmetry :-)
