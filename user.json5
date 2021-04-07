@@ -916,6 +916,18 @@
 
     // KPW for [aeiou]m[bp]-
     // This is a further extension to Magnum's KPW, which is used for [ei]m[bp]-.
+    "KPWARS": "embarrass", // cf. EPL/PWARS
+    "KPWAFRD": "embarrassed",
+    "KPWAES": "embassy", // with "many" rule, cf. EPL/PWAES
+    "KPWED": "embed",
+    "KPWETD": "embedded",
+    "KPWHRAEUFPB": "emblazon",
+    "KPWHREPL": "emblem",
+    "KPWRAEUS": "embrace",
+    "KPWRAEUFD": "embraced",
+    "KPWROR": "emperor",
+    "KPWAOEUB": "imbibe",
+    "KPWAOU": "imbue",
     "KPWABGT": "impact",
     "KPWAOEFP": "impeach",
     "KPWAOEFPLT": "impeachment", // cf. EUPL/PAOEFPLT
@@ -946,21 +958,6 @@
     "KPWROF": "improve",        // cf. EUPL/PROF
     "KPWROFPLT": "improvement", // or just use PROFPLT
     "KPWULS": "impulse",
-
-    "KPWAOEUB": "imbibe",
-    "KPWAOU": "imbue",
-
-    "KPWROR": "emperor",
-
-    "KPWARS": "embarrass", // cf. EPL/PWARS
-    "KPWAFRD": "embarrassed",
-    "KPWAES": "embassy", // with "many" rule, cf. EPL/PWAES
-    "KPWED": "embed",
-    "KPWETD": "embedded",
-    "KPWHRAEUFPB": "emblazon",
-    "KPWHREPL": "emblem",
-    "KPWRAEUS": "embrace",
-    "KPWRAEUFD": "embraced",
 
     // Why not use KPW for inp- too?
     // These are the only two English words that begin with inp-:
