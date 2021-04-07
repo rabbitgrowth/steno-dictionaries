@@ -2190,16 +2190,16 @@
     "TPHA": "in a",   // TPH-T "in the"
     "SA": "is a",     // S-T   "is the"
     "AOPB": "on a",   // OPBT  "on the"   (use AUPB for {on^})
-    "TAO": "to a",    // TOT   "to the"   (overrides "too" [2])
     "HRA": "will a",  // HR-T  "will the"
     "WA": "with a",   // W-T   "with the"
     /*1*/ "RA*": "Ra",
-    /*2*/ "TU": "too",
 
     "SA*": "as a",    // think "is + * = as" or "za"
     "S*T": "as the",
     "TA": "at a",
     "T-T": "at the",
+
+    "TAEU": "to a", // misstroke for "day"
 
     "AEUFS": "was a", // use AEU instead of A when the order is inverted,
                       // like AEUF "of a"; AF feels much more natural as
