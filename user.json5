@@ -1247,9 +1247,9 @@
     //             PHO*EUD "media" (star is droppable)
     // OEU is just a general wildcard, but these words feel like
     // a family, probably because they all have to do with media.
-    "PHOEUD": "media",  // misstroke for "employed"
-    "STOEUD": "studio", // overrides "studied"
-    "STKEU": "study",
+    "PHOEUD": "media",   // misstroke for "employed"
+    "STOEUD": "studio",  // overrides "studied"
+    "STKEU": "study",    // "studied" is then STKEUD
     "STKEUS": "studies", // misstroke for "decision"
 
     // EZ for -eeze
