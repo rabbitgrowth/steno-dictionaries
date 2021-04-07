@@ -1064,6 +1064,7 @@
     "SKPEF": "expensive", // cf. SP*EF
     "SKPAOERPBS": "experience",
     "SKPAOERPBD": "experienced", // cf. SPAOERPBD
+    "SKPERPLT": "experiment",
     "SKPERT": "expert",
     "SKPERT/AOES": "expertise",
     "SKPAOEUR": "expire",
