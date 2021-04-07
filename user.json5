@@ -3665,6 +3665,7 @@
 
     // Consonant + no vowel + -RB for -nish
     // cf. P-RB "punish"
+    "PW-RB": "banish",
     "TP-RB": "finish",
     "SR-RB": "vanish",
 
