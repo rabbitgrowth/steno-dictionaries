@@ -915,7 +915,8 @@
     "SPWO": "unto",
 
     // KPW for [aeiou]m[bp]-
-    // This is a further extension to Magnum's KPW, which is used for [ei]m[bp]-.
+    // KPW is used in some theories for emb-, emp-, imb-, and imp-.
+    // Why not use it for amb- and amp- too?
     "KPWEUGS": "ambition",
     "KPWEURBS": "ambitious",
     "KPWEUFLS": "ambivalence", // cf. APL/PWEUFLS
@@ -968,7 +969,7 @@
     "KPWROFPLT": "improvement", // or just use PROFPLT
     "KPWULS": "impulse",
 
-    // Why not use KPW for inp- too?
+    // ... and inp- too?
     // These are the only two English words that begin with inp-:
     "KPWUT": "input", // misstroke for "gut"
     "KPWAEURBT": "inpatient",
