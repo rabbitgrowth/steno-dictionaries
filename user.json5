@@ -1245,8 +1245,8 @@
     //             SRO*EUD "video" (starless is "void")
     //             ROEUD   "radio" (starred is {radio^})
     //             PHO*EUD "media" (star is droppable)
-    // OEU is just a general wildcard, but these words feel oddly
-    // connected, probably because they all have to do with media.
+    // OEU is just a general wildcard, but these words feel like
+    // a family, probably because they all have to do with media.
     "PHOEUD": "media",  // misstroke for "employed"
     "STOEUD": "studio", // overrides "studied"
     "STKEU": "study",
