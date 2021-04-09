@@ -2962,6 +2962,7 @@
                        // RAKING  1302
                        // RAYING     7 (basically a non-word)
     "SHOG": "shocking",
+    "SHRAO*EG": "shrieking",
     "WORG": "working", // alternative to WOG
 
     // Fold in -T for -ed if the verb already ends with -d
