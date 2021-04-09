@@ -3251,6 +3251,15 @@
                            // TUPLT/WOUS "tumultuous"
     /*1*/ "STPH*UR": "insure",
 
+    // Swap TRAOET "treat" and TRAET "treaty"
+    // It's unclear what rule makes TRAET "treaty" in Plover. It's not the
+    // "many" rule, according to which TRAET should be something like
+    // "trea-tee" or "tray-tee"; and the AE doesn't stand for /æ/ either.
+    "TRAET": "treat",   // orthographic, like HAET "heat", PWAET "beat", etc.
+    "TRAOET": "treaty", // feels right because "treaty" has two AOEs (/i/)
+                        // and no AE (/æ/)
+    // As a bonus, word length and stroke length now match up perfectly.
+
     // -- Punctuation as shapes ------------------------------------------------
 
     // Ellipsis
@@ -3826,7 +3835,6 @@
     "SPAEBGS/H-F": "speaks",        // from "aspects"
     "TOEFRT/H-F": "toaster",        // from "effort to"
     "TOEFRTS/H-F": "toasters",
-    "TRAET/H-F": "treat",           // from "treaty"
     "TRUPBLG/H-F": "trundling",     // from "trudge"
     "WEBG/H-F": "webbing",          // from "week" (custom)
 
