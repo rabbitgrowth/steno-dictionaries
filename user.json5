@@ -137,6 +137,7 @@
     "ORPB": "origin",           // with ORPBL "original"
     "P-FGS": "perfection",      // with P-F "perfect"
     "PROEUFD": "processed",     // with PROEUS "process", PROEUFG "processing"
+    "RAELT": "reality",         // with RAEL "real"; use RELT for "relate"
     "R*URPB": "runner",         // with R*UPBG "running"
     "STEUFBG": "scientific",    // with STEUFT "scientist"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
@@ -3517,12 +3518,6 @@
     // TPERGT and TPORGT are nicely symmetrical, but TPERGT on its own
     // might feel a little weird. So allow dropping the E:
     "TP-RGT": "forget",    // TP-R "for" + -GT "get" (stacking form)
-
-    // "real" family
-    "RAELT": "reality",
-    "RAEL/STEUBG": "realistic", // could cause word boundary error with "real stick"
-                                // ("My dad's a real stick in the mud...")
-    "UPB/RAEL/STEUBG": "unrealistic",
 
     // "simple" family
     "SEUFRP": "simple",  // already works
