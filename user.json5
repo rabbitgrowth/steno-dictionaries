@@ -1430,9 +1430,6 @@
     "TPAUR/SAEUPB": "forsaken", // "forsane" is not a word
 
     // -T for -th (Indian accent?)
-    "PWRET": "breath",    // swap with "Brett"   [1]
-    "PWRAOET": "breathe", // swap with "burrito" [2]
-    "KHROET": "clothe", // and get "clothes" and "clothing" for free
     "ERT": "earth", // which frees up ...
     "*ERT": "Earth",
     "ERT/PWOUPBD": "earthbound",
@@ -1450,15 +1447,13 @@
     "TRU": "true",   // for consistency
     "TRUL": "truly",
     "UPBD/TPHAOET": "underneath",
-    "WELT": "wealth", // swap with "welt" [3]
+    "WELT": "wealth", // swap with "welt" [1]
     "KPHOPB/WELT": "commonwealth",
-    "WORT": "worth",  // swap with "wort" [4]
+    "WORT": "worth",  // swap with "wort" [2]
     "TWORT": "worth it",
     "KWRAOUT": "youth",
-    /*1*/ "PWR*ET": "Brett",
-    /*2*/ "PWRAO*ET": "burrito",
-    /*3*/ "W*ELT": "welt",
-    /*4*/ "WO*RT": "wort",
+    /*1*/ "W*ELT": "welt",
+    /*2*/ "WO*RT": "wort",
 
     "PHETD": "method",    // by default "meted" by accident ("met" + {^ed})
                           // to type "meted" properly, use PHAO*ETD
