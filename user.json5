@@ -375,7 +375,6 @@
     "ROPLT": "romantic", // can be thought of as autocompleting ROPLT/EUBG
     "STPOER": "satisfactory", // "sfory"
     "STPREU": "satisfactory", // "sfry"
-    "SPHREUFBG": "simplistic",
     "SOERLD": "soldier", // - SHRERPBLG is weird ("slerj"? probably meant
                          //   to be "sljer", like TPHOEUPBLG "enjoy"?)
                          // - not to be confused with SORLD "solder"
@@ -837,7 +836,6 @@
     "RAOUPBLT": "routinely", // phonetic
     "ROEUPBL": "routinely",  // brief
     "SALD": "sadly", // overrides "salad" [3]
-    "SEUFRPL": "simply", // use SEUFRP for "simple"
     "STAOUPLD": "stupidly",
     "SWEUFLT": "swiftly",
     "PRAERL": "temporarily",
@@ -3524,6 +3522,15 @@
     "RAEL/STEUBG": "realistic", // could cause word boundary error with "real stick"
                                 // ("My dad's a real stick in the mud...")
     "UPB/RAEL/STEUBG": "unrealistic",
+
+    // "simple" family
+    "SEUFRP": "simple",  // already works
+    "SEUFRPL": "simply", // use SEUFRP for "simple"
+    "SPHREU": "simply",  // already works
+    "SPHREUF": "simplify",
+    "SPHREUFT": "simplicity", // already works
+    "SPHREUFBG": "simplistic",
+    "SPHREUFBGS": "simplification",
 
     // "subject" and "object"
     "SUFBT": "subjective", // SUBT "subject" + -F
