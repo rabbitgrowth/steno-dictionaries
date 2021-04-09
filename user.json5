@@ -359,6 +359,9 @@
     "HOLDZ": "holidays",
     "HRAOUGS": "illusion", // use HRAOUFG for "losing"
     "TPHREPBZ": "influenza",
+    "SPWAOUGS": "intuition", // use STUGS for "substitution",
+                             // which is consistent with STUT "substitute"
+    "SPWAOUF": "intuitive",  // cf. TWAOUF
     "PHELG": "medical", // "mecal"
     "POERBL": "potential",
     "PHROERBL": "potentially",
