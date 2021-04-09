@@ -3259,7 +3259,7 @@
     // "trea-tee" or "tray-tee"; and the AE doesn't stand for /æ/ either.
     "TRAET": "treat",   // orthographic, like HAET "heat", PWAET "beat", etc.
     "TRAOET": "treaty", // feels right because "treaty" has two AOEs (/i/)
-                        // and no AE (/æ/)
+                        // and no AE (/æ/); think "tree-T"
     // As a bonus, word length and stroke length now match up perfectly.
 
     // KROEUR "occur" is ugly. Between KR and K-R, choose KR such that
