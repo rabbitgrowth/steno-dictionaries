@@ -101,8 +101,8 @@
                                 //   (TKR-BT and TKR-BGS are nice briefy alternatives)
     "ERLD": "elder",            // with OERLD "older"; overrides "elderly"
     "HRERLD": "elderly",
-    "THUFBG": "enthusiastic",   // with THUFPL "enthusiasm"
-    "THUFT": "enthusiast",
+    "THUFT": "enthusiast",      // with THUFPL "enthusiasm"
+    "THUFBG": "enthusiastic",
     "KPES/EUF": "excessive",    // with KPES/EUFL "excessively"
     "KPEPL": "exemplify",       // with KP-PL "example"
     "KP-PGS": "expectation",    // with KP-PT "expect"
