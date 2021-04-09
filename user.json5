@@ -334,6 +334,7 @@
 
     // -- Sound squeezing ------------------------------------------------------
 
+    "A/KAOUFBG": "acoustic",
     "STRAEUGS": "administration",
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "TKPHEUGS": "admission",
