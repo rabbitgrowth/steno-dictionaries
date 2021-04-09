@@ -363,6 +363,7 @@
                              // which is consistent with STUT "substitute"
     "SPWAOUF": "intuitive",  // cf. TWAOUF
     "PHELG": "medical", // "mecal"
+    "OP/TEUF": "operative", // OPT/EUF with a more natural break point
     "POERBL": "potential",
     "PHROERBL": "potentially",
     "PRAOEULS": "priceless",
