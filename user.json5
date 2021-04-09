@@ -2797,6 +2797,7 @@
     "HEUFT/ORPBS": "historians",
     "HOL/HROES": "hollows",
     "HOL/OES": "hollows",
+    "STREUS": "industries", // overrides "industrious" [1]
     "SKWRUFSZ": "justices", // otherwise gives "justifieses" (SKWRUFZ + -S)
     "HRAUR/KWRATS": "laureates",
     "HRAUFS": "layoffs",
@@ -2819,6 +2820,7 @@
     "SRABG/SAOEPBS": "vaccines",
     "WEUPBD/TPAULS": "windfalls",
     "WEUPBD/PHEULS": "windmills",
+    /*1*/ "STROUS": "industrious",
 
     // -S vs -Z
     // In general, fold in -S to minimize the number of strokes:
@@ -3259,6 +3261,20 @@
     "TRAOET": "treaty", // feels right because "treaty" has two AOEs (/i/)
                         // and no AE (/æ/)
     // As a bonus, word length and stroke length now match up perfectly.
+
+    // KROEUR "occur" is ugly. Between KR and K-R, choose KR such that
+    // word length and stroke length match up:
+    // K-R   "occur"
+    // K---R "consider"
+    "KR": "occur",
+    "KR-S": "occurs",
+    "KR-G": "occurring",
+    "KR-D": "occurred",
+
+    // SKREUFS for "sacrifice" is nice because it has all the consonants,
+    // but it ends with -S, which makes "sacrifices" and "sacrificed" awkward.
+    // So just drop the -S.
+    "SKREUF": "sacrifice", // "scriff"
 
     // -- Punctuation as shapes ------------------------------------------------
 
@@ -3702,30 +3718,6 @@
     // A nice side effect:
     "STKERGS": "desertion",       // which frees up ...
     "TKE/SERGS": "desegregation", // consistent with SERGS "segregation"
-
-    // -- Special considerations -----------------------------------------------
-
-    // I hate KROEUR for "occur". Had to choose between KR and K-R,
-    // which were both "consider". Settled with KR so that the visual
-    // lengths of the strokes matched up with the lengths of the words:
-    // K-R   -> occur
-    // K---R -> consider
-    "KR": "occur",
-    "KR-S": "occurs",
-    "KR-G": "occurring",
-    "KR-D": "occurred",
-
-    // STREUS feels more like "industries" (STREU + -S for plural) than
-    // "industrious". Of course I can remember to use -Z to pluralize
-    // "industry", but that's one more thing to remember.
-    "STREUS": "industries",
-    "STROUS": "industrious",
-
-    // SKREUFS for "sacrifice" is nice because it has all the consonants
-    // in it, but it ends with -S, which makes "sacrifices" and "sacrificed"
-    // awkward. So just drop the -S. I can pretend "scriff" is Ploverese
-    // for "sacrifice".
-    "SKREUF": "sacrifice",
 
     // -- Fix Plover's oddities ------------------------------------------------
 
