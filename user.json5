@@ -2797,7 +2797,6 @@
     "HEUFT/ORPBS": "historians",
     "HOL/HROES": "hollows",
     "HOL/OES": "hollows",
-    "STREUS": "industries", // overrides "industrious" [1]
     "SKWRUFSZ": "justices", // otherwise gives "justifieses" (SKWRUFZ + -S)
     "HRAUR/KWRATS": "laureates",
     "HRAUFS": "layoffs",
@@ -2820,7 +2819,6 @@
     "SRABG/SAOEPBS": "vaccines",
     "WEUPBD/TPAULS": "windfalls",
     "WEUPBD/PHEULS": "windmills",
-    /*1*/ "STROUS": "industrious",
 
     // -S vs -Z
     // In general, fold in -S to minimize the number of strokes:
@@ -3552,6 +3550,10 @@
     "KAUPBT/PHRAEUGS": "contemplation",
     "KAUPB/TPHRAEUT": "conflate",
     "KAUPB/TPHRAEUTD": "conflated",
+
+    // "industries" vs "industrious"
+    "STREUS": "industries", // by default "industrious"
+    "STROUS": "industrious",
 
     // "logic" vs "magic"
     "SKWREUBG": "logic",   // overrides "magic"
