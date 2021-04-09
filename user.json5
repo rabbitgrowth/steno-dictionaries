@@ -923,13 +923,25 @@
     "SPWAOEU": "untie",
     "SPWO": "unto",
 
-    // KPW for imp-, imb-, emp-, and emb-
-    // (borrowed from Magnum)
+    // KPW for emb-, emp-, imb-, and imp-
+    "KPWARS": "embarrass", // cf. EPL/PWARS
+    "KPWAFRD": "embarrassed",
+    "KPWAES": "embassy", // with "many" rule, cf. EPL/PWAES
+    "KPWED": "embed",
+    "KPWETD": "embedded",
+    "KPWHRAEUFPB": "emblazon",
+    "KPWHREPL": "emblem",
+    "KPWRAEUS": "embrace",
+    "KPWRAEUFD": "embraced",
+    "KPWROR": "emperor",
+    "KPWAOEUB": "imbibe",
+    "KPWAOU": "imbue",
     "KPWABGT": "impact",
     "KPWAOEFP": "impeach",
     "KPWAOEFPLT": "impeachment", // cf. EUPL/PAOEFPLT
     "KPWAOED": "impede",
     "KPWAOETD": "impeded",
+    "KPWAEURBT": "impatient",
     "KPWED/-PLT": "impediment",
     "KPWEPBD": "impend",
     "KPWAOERL": "imperial",
@@ -956,25 +968,22 @@
     "KPWROFPLT": "improvement", // or just use PROFPLT
     "KPWULS": "impulse",
 
-    "KPWAOEUB": "imbibe",
-    "KPWAOU": "imbue",
+    // Stretch KPW to mean amb- and amp-
+    "KPWEUGS": "ambition",
+    "KPWEURBS": "ambitious",
+    "KPWEUFLS": "ambivalence", // cf. APL/PWEUFLS
+    "KPWEUFLT": "ambivalent",  // cf. APL/PWEUFLT
+    "KPWHRAPBS": "ambulance", // or just use PWHRAPBS
+    "KPWURB": "ambush",
+    "KPWHREUFBGS": "amplification",
+    "KPWHREUF": "amplify",    // cf. SPEF "specify"
+    "KPWHREUTD": "amplitude", // bit of a stretch to use -TD for -tude?
 
-    "KPWROR": "emperor",
-
-    "KPWARS": "embarrass", // cf. EPL/PWARS
-    "KPWAFRD": "embarrassed",
-    "KPWAES": "embassy", // with "many" rule, cf. EPL/PWAES
-    "KPWED": "embed",
-    "KPWETD": "embedded",
-    "KPWHRAEUFPB": "emblazon",
-    "KPWHREPL": "emblem",
-    "KPWRAEUS": "embrace",
-    "KPWRAEUFD": "embraced",
-
-    // Why not use KPW for inp- too?
-    // These are the only two English words that begin with inp-:
+    // Stretch KPW even further to mean inp-
+    // The only two English words that begin with inp- are "input"
+    // and "inpatient". But KPWAEURBT is already "i*m*patient",
+    // so just use EUPB/PAEURBT for "inpatient".
     "KPWUT": "input", // misstroke for "gut"
-    "KPWAEURBT": "inpatient",
 
     // -- Sound patterns -------------------------------------------------------
 
