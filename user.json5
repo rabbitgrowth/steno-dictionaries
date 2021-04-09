@@ -1467,6 +1467,7 @@
     // -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
     "PWALT": "battle", // overrides "ballot" [1]
+    "PWALT/TPAOELD": "battlefield",
     "KALT": "cattle",
     "PRALT": "prattle",
     "RALT": "rattle",
