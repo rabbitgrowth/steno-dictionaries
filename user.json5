@@ -914,18 +914,7 @@
     "SPWAOEU": "untie",
     "SPWO": "unto",
 
-    // KPW for [aeiou]m[bp]-
-    // KPW is used in some theories for emb-, emp-, imb-, and imp-.
-    // Why not use it for amb- and amp- too?
-    "KPWEUGS": "ambition",
-    "KPWEURBS": "ambitious",
-    "KPWEUFLS": "ambivalence", // cf. APL/PWEUFLS
-    "KPWEUFLT": "ambivalent",  // cf. APL/PWEUFLT
-    "KPWHRAPBS": "ambulance", // or just use PWHRAPBS
-    "KPWURB": "ambush",
-    "KPWHREUFBGS": "amplification",
-    "KPWHREUF": "amplify",    // cf. SPEF "specify"
-    "KPWHREUTD": "amplitude", // bit of a stretch to use -TD for -tude?
+    // KPW for emb-, emp-, imb-, and imp-
     "KPWARS": "embarrass", // cf. EPL/PWARS
     "KPWAFRD": "embarrassed",
     "KPWAES": "embassy", // with "many" rule, cf. EPL/PWAES
@@ -943,6 +932,7 @@
     "KPWAOEFPLT": "impeachment", // cf. EUPL/PAOEFPLT
     "KPWAOED": "impede",
     "KPWAOETD": "impeded",
+    "KPWAEURBT": "impatient",
     "KPWED/-PLT": "impediment",
     "KPWEPBD": "impend",
     "KPWAOERL": "imperial",
@@ -969,10 +959,22 @@
     "KPWROFPLT": "improvement", // or just use PROFPLT
     "KPWULS": "impulse",
 
-    // ... and inp- too?
-    // These are the only two English words that begin with inp-:
+    // Stretch KPW to mean amb- and amp-
+    "KPWEUGS": "ambition",
+    "KPWEURBS": "ambitious",
+    "KPWEUFLS": "ambivalence", // cf. APL/PWEUFLS
+    "KPWEUFLT": "ambivalent",  // cf. APL/PWEUFLT
+    "KPWHRAPBS": "ambulance", // or just use PWHRAPBS
+    "KPWURB": "ambush",
+    "KPWHREUFBGS": "amplification",
+    "KPWHREUF": "amplify",    // cf. SPEF "specify"
+    "KPWHREUTD": "amplitude", // bit of a stretch to use -TD for -tude?
+
+    // Stretch KPW even further to mean inp-
+    // The only two English words that begin with inp- are "input"
+    // and "inpatient". But KPWAEURBT is already "i*m*patient",
+    // so just use EUPB/PAEURBT for "inpatient".
     "KPWUT": "input", // misstroke for "gut"
-    "KPWAEURBT": "inpatient",
 
     // -- Sound patterns -------------------------------------------------------
 
