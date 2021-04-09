@@ -2282,19 +2282,8 @@
     // P is only slightly easier to type than PEPL but really shines
     // when you stack it.
     "P": "people",
-    "PR": "people are",
-    "PR-PBT": "people aren't",
-    "PR-PBLT": "people are not",
-    "P-R": "people are", // push R to right
-                         // misstroke for "for"
-    "P-RPBT": "people aren't", // nice because RPBT feels like one unit
-    "P-RPBLT": "people are not",
+    "P-R": "people are", // misstroke for "for"
     "P-RP": "people were",
-    "PWR-PBT": "people weren't",
-    "PWR-PBLT": "people were not",
-    "PWHO": "people who",
-    "PWHOR": "people who are",
-    "TPO": "people to",
 
     // The P-P symmetry makes it feel natural to use -P for "people" too.
     // (See "Counting" for "two people", "three people", etc.)
