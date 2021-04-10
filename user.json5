@@ -2998,6 +2998,8 @@
     "SHRAO*EG": "shrieking",
     "WORG": "working", // alternative to WOG
 
+    "TPOEUG": "focusing", // FOIK "focus" -> FOIKING "focusing"
+
     // Fold in -T for -ed if the verb already ends with -d
     // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
     "ATD": "added",          // misstroke for "at"
