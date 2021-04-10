@@ -2130,6 +2130,24 @@
     "H-BS": "he said",
     "SH-BS": "she said",
     "W-BS": "we said",
+    "SKPEUBS": "and I said", // already works
+    "SKPUBS": "and you said",
+    "SKPEBS": "and he said",
+    "STPEUBS": "if I said",
+    "STPUBS": "if you said",
+    "STPEBS": "if he said",
+    "THAEUBS": "that I said",
+    "THAUBS": "that you said",
+    "THAEBS": "that he said",
+    "WHAEUBS": "what I said",
+    "WHAUBS": "what you said",
+    "WHAEBS": "what he said",
+    "WHEUBS": "when I said",
+    "WHUBS": "when you said",
+    "WHEBS": "when he said",
+    "WHOEUBS": "who I said", // ("I was who I said I was")
+    "WHOUBS": "who you said",
+    "WHOEBS": "who he said",
 
     // Stack "to" as TO or O
     "SRO": "have to",
