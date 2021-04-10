@@ -2031,14 +2031,14 @@
     "WHOUPB": "who you know",
     "*UPB": "you know", // alternative to KWRAOUPB
 
-    "THAFD": "that find",
-    "TOFD": "to find",
     "UFD": "you find",
     "H-FDZ": "he finds",
     "SH-FDZ": "she finds",
     "T-FDZ": "it finds",
     "W-FD": "we find",
     "THEFD": "they find",
+    "TOFD": "to find",
+    "THAFD": "that find",
     "SKPEUFD": "and I find",
     "SKPUFD": "and you find",
     "STPEUFD": "if I find",
@@ -2052,14 +2052,14 @@
     "WHOEUFD": "who I find",
     "WHOUFD": "who you find",
 
-    "THAGT": "that get",
-    "TOGT": "to get", // use T-GT for "together"
     "UGT": "you get",
     "H-GTS": "he gets",
     "SH-GTS": "she gets",
     "T-GTS": "it gets",
     "W-GT": "we get",
     "THEGT": "they get",
+    "TOGT": "to get", // use T-GT for "together"
+    "THAGT": "that get",
     "SKPEUGT": "and I get",
     "SKPUGT": "and you get",
     "STPEUGT": "if I get",
