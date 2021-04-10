@@ -5,7 +5,6 @@
     "TW": "between",
     "TWA": "between a",
     "TW-T": "between the",
-    "PW-D": "birthday", // give up "pwd"
     "PW-RD": "birthday",
     "PW*T": "both",
     "TK-FS": "difference",
@@ -87,6 +86,7 @@
     "AFT": "after the",         // with PW-FT "before the"
     "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
     "SW-L": "as well",          // with SW-LS "as well as"
+    "PW-D": "beside",           // with PW-DZ "besides"; give up "pwd"
     "PW-L": "build",            // with PW-LG "building"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
