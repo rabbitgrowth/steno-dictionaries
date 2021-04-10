@@ -3616,6 +3616,15 @@
     "KAUPB/TPHRAEUT": "conflate",
     "KAUPB/TPHRAEUTD": "conflated",
 
+    // "fig" vs "figure" vs "fission"
+    "TPEUG": "figure",   // already works
+    "TPEUGZ": "figures", // by default "figs"
+    "TP*EUG": "fig",     // already works
+    "TP*EUGS": "figs",   // by default "physician"; use TP-GS for that
+    "TP*EUGZ": "figs",   // by default "fission"
+    "TP*EUG/-S": "figs", // by default "physicians"
+    "TPEUGS": "fission", // by default "figures"
+
     // "industries" vs "industrious"
     "STREUS": "industries", // by default "industrious"
     "STROUS": "industrious",
