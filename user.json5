@@ -1306,6 +1306,7 @@
     // URT for -utter
     "PWURT": "butter", // overrides "Burt" [1]
     "PWURT/TPHRAOEU": "butterfly",
+    "PWURT/TPHRAOEUS": "butterflies",
     "KHRURT": "clutter",
     "TPHRURT": "flutter",
     "TKPWURT": "gutter",
