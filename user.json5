@@ -137,7 +137,6 @@
     "ORPB": "origin",           // with ORPBL "original"
     "P-FGS": "perfection",      // with P-F "perfect"
     "PROEUFD": "processed",     // with PROEUS "process", PROEUFG "processing"
-    "PURPT": "purport",         // with AEURPT "airport"
     "RAELT": "reality",         // with RAEL "real"; use RELT for "relate"
     "R*URPB": "runner",         // with R*UPBG "running"
     "STEUFBG": "scientific",    // with STEUFT "scientist"
@@ -372,6 +371,7 @@
     "PRAOEULS": "priceless",
     "PREFT": "protest", // give up "previous to"
     "PREFRT": "protester",
+    "PURPT": "purport", // cf. AEURPT "airport"
     "TPHRET": "reflect", // misstroke for "net"
     "TPHREGS": "reflection",
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
