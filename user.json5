@@ -142,6 +142,10 @@
     "STEUFBG": "scientific",    // with STEUFT "scientist"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
     "SEURPB": "sinner",         // with TKEURPB "dinner", WEURPB "winner"
+    "SPWOLG": "symbolic",       // with SPWOL "symbol"
+                                //   cf. KHOL "alcohol" and KHOLG "alcoholic";
+                                //   SPWOLG could also be "ontology" with SPW-
+                                //   for ont-, but "symbolic" is much more common
     "UFT": "unfortunate",       // with UFL "unfortunately"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
@@ -932,7 +936,6 @@
     "SPWEUFPGS": "anticipation",
     "SPWAOEBG": "antique",
     "SPWHRER": "antler",
-    "SPWOLG": "ontology",
     "SPWAOEU": "untie",
     "SPWO": "unto",
 
