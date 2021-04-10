@@ -582,6 +582,7 @@
     "KHRAER": "clear",
     "HRAEFT": "least", // cf. THRAES "at least"
     "SWAET": "sweat",  // use SWAT for "swat"
+    "SA*EL": "zeal",   // use SAOEL for "seal"
 
     // -- Joining and splitting ------------------------------------------------
 
