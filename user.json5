@@ -3282,18 +3282,20 @@
     // -- Abbreviations --------------------------------------------------------
 
     // Non-steno abbreviations
-    "TK-L": "download",    // dl
-    "SKWR-P": "Japan",     // JP
+    "TK-L": "download",     // dl
+    "TKPW-F": "girlfriend", // gf*
+    "SKWR-P": "Japan",      // JP
     "SKWR-PS": "Japanese",
-    "KAOEB": "keyboard",   // keeb
-    "PHO": "month",        // mo
-    "PH-FT": "movement",   // mvt
-    "P-BGS": "pixel",      // px
-    "PREF": "previous",    // prev
+    "KAOEB": "keyboard",    // keeb
+    "PHO": "month",         // mo
+    "PH-FT": "movement",    // mvt
+    "P-BGS": "pixel",       // px
+    "PREF": "previous",     // prev
     "PREFL": "previously",
-    "SEBG": "second",      // sec
+    "SEBG": "second",       // sec
     "S*EBG": "sec",
-    "T-GT": "together",    // tgt
+    "T-GT": "together",     // tgt
+    // * or use TKPWOEUF for symmetry with PWOEUF "boyfriend"
 
     // Add * to expand to full form
     // Precedent: TPREUPBLG  "fridge"
