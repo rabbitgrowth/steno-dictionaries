@@ -867,6 +867,7 @@
     /*3*/ "SAELD": "salad", // AE for /æ/
 
     // ... or use HR if -L is already used
+    "STKHREPBL": "accidentally",
     "PWHROELD": "boldly",
     "KHR-RBL": "considerably",
     "SHRERBL": "essentially",
