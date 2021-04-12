@@ -2823,6 +2823,7 @@
     // -- Inflections ----------------------------------------------------------
 
     // Plurals
+    "STKEPBS": "accidents", // use ABGS/TKEPBS for "accidence" (inflection grammar)
     "ABGT/SREUFTS": "activists",
     "AGT/SEUS": "agencies",
     "AL/PWAOEUS": "alibis",
