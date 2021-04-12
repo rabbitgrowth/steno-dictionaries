@@ -1198,8 +1198,20 @@
     // COLLAR FIGURE      0   CLASS FIGURE      0
 
     // KW for conv-
-    // Precedents: KWEUPBS "convince", KWERT "convert", KWEUBGT "convict", etc.
-    // It almost always works except for "convey".
+    // This is standard in Plover, and works very consistently:
+    //   KWAOEPBT "convenient"
+    //   KWEPBGS  "convention"
+    //   KWERPBLG "converge"
+    //   KWERS    "converse"
+    //   KWERGS   "conversion"
+    //   KWERT    "convert"
+    //   KWEUBGT  "convict"
+    //   KWEUBGS  "conviction"
+    //   KWEUPBS  "convince"
+    //   KWULS    "convulse"
+    //   KWULGS   "convulsion"
+    // "convene" is KAUPB/SRAOEPB, since KWAOEPB is "queen" already.
+    // KWAEU "convey" doesn't work for some reason.
     "KWAEU": "convey",
     "KWAEUS": "conveys",  // misstroke for "case"
     "KWAEUD": "conveyed", // give up "Quade"
