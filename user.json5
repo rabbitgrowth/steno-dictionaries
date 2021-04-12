@@ -3297,8 +3297,7 @@
     /*1*/ "S*EBG": "sec",
 
     // Add * to expand to full form
-    // Precedent: TPREUPBLG  "fridge"
-    //            TPR*EUPBLG "refrigerator"
+    // Precedent: TPREUPBLG "fridge" -> TPR*EUPBLG "refrigerator"
     // "Not an accident" -- Mirabai
     "KHA*FRP": "champion",    // champ
     "KH*EUFRP": "chimpanzee", // chimp
