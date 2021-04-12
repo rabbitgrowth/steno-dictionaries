@@ -3283,7 +3283,7 @@
 
     // Non-steno abbreviations
     "TK-L": "download",     // dl
-    "TKPW-F": "girlfriend", // gf*
+    "TKPW-F": "girlfriend", // gf; or use TKPWOEUF for symmetry with PWOEUF "boyfriend"
     "SKWR-P": "Japan",      // JP
     "SKWR-PS": "Japanese",
     "KAOEB": "keyboard",    // keeb
@@ -3292,10 +3292,9 @@
     "P-BGS": "pixel",       // px
     "PREF": "previous",     // prev
     "PREFL": "previously",
-    "SEBG": "second",       // sec
-    "S*EBG": "sec",
+    "SEBG": "second",       // sec; overrides "sec" [1]
     "T-GT": "together",     // tgt
-    // * or use TKPWOEUF for symmetry with PWOEUF "boyfriend"
+    /*1*/ "S*EBG": "sec",
 
     // Add * to expand to full form
     // Precedent: TPREUPBLG  "fridge"
