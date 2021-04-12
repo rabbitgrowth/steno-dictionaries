@@ -3645,28 +3645,27 @@
     "STKHR*EPBL": "incidentally",
 
     // "aggregate" vs "integrate"
-    // TKPWRAT     "aggregate"
-    // TKPWRAGS    "grassing"    (?!)
-    // TKPWRA*EUT  "integrate"
-    // TKPWRA*EUGS "aggregation" (?!)
-    // And there isn't even a way to one-stroke "integration".
+    //   TKPWRAT     "aggregate"
+    //   TKPWRAGS    "grassing"    (?!)
+    //   TKPWRA*EUT  "integrate"
+    //   TKPWRA*EUGS "aggregation" (?!)
+    // And there's no way to one-stroke "integration".
     "TKPWRAGS": "aggregation",
     "TKPWRA*EUGS": "integration",
     "TKPWRAL": "integral", // allow dropping *
 
     // "contemplate" vs "conflate"
     // The default strokes are a bit of a mess:
-    // KAUPB/TPHRAEUT    "contemplate"      (use this for "conflate")
-    // KAUPB/TPHRAEUTD   also "contemplate"
-    // KAUPB/TPHRAEUGS   "conflation"
-    // KAUPB/TPHRA*EUT   "conflate"
-    // KAUPB/TPHRA*EUGS  undefined
-    // KAUPBT/PHRAEUT    "contemplate"      (use this)
-    // KAUPBT/PHRAEUTD   "contemplated"
-    // KAUPBT/PHRAEUGS   "content population"
-    // Why not KOPBT/PHRAEUT? Because KOPBT is "couldn't",
-    // which looks jarring as an intermediate step.
-    // KAUPBT "content" is much more visually similar
+    //   KAUPB/TPHRAEUT    "contemplate"        (use this for "conflate")
+    //   KAUPB/TPHRAEUTD   also "contemplate"
+    //   KAUPB/TPHRAEUGS   "conflation"
+    //   KAUPB/TPHRA*EUT   "conflate"
+    //   KAUPB/TPHRA*EUGS  undefined
+    //   KAUPBT/PHRAEUT    "contemplate"        (use this for "contemplate")
+    //   KAUPBT/PHRAEUTD   "contemplated"
+    //   KAUPBT/PHRAEUGS   "content population"
+    // Why not KOPBT/PHRAEUT? Because KOPBT is "couldn't", which looks jarring
+    // as an intermediate step. KAUPBT "content" is much more visually similar
     // to the first part of "contemplate".
     "KAUPBT/PHRAEUGS": "contemplation",
     "KAUPB/TPHRAEUT": "conflate",
