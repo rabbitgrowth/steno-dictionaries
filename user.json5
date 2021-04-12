@@ -119,7 +119,6 @@
     "H-B": "had been",          // with SR-B "have been"; misstroke for {^-^}
     "HAPBT": "hasn't",          // with HAPBLT "has not"
                                 //   HAPBT "hasn't" + -L as bridge = "has not"
-    "STK*EPB": "incident",      // with STKEPB "accident"
     "TPH-FBGT": "infect",       // with TPH-FRPL "inform", TPH-FPBT "infinite", etc.
     "TERPGS": "interpretation", // with TERP "interpret"
     "TWAOEPB": "intervene",     // with TWEPBGS "intervention"; use TW for "between"
@@ -871,7 +870,6 @@
     /*3*/ "SAELD": "salad", // AE for /æ/
 
     // ... or use HR if -L is already used
-    "STKHREPBL": "accidentally",
     "PWHROELD": "boldly",
     "KHR-RBL": "considerably",
     "SHRERBL": "essentially",
@@ -2858,7 +2856,6 @@
     // -- Inflections ----------------------------------------------------------
 
     // Plurals
-    "STKEPBS": "accidents", // use ABGS/TKEPBS for "accidence" (inflection grammar)
     "ABGT/SREUFTS": "activists",
     "AGT/SEUS": "agencies",
     "AL/PWAOEUS": "alibis",
@@ -3637,6 +3634,15 @@
     /*1*/ "TPO*EUR": "foyer",
 
     // -- Easily confused words ------------------------------------------------
+
+    // "accident" vs "incident"
+    "STKEPB": "accident",    // works already
+    "STKEPBS": "accidents",  // use ABGS/TKEPBS for "accidence" (grammar term)
+    "STKEPBL": "accidental", // works already
+    "STKHREPBL": "accidentally",
+    "STK*EPB": "incident",    // with STKEPB "accident"
+    "STK*EPBL": "incidental", // by default "incidentally"
+    "STKHR*EPBL": "incidentally",
 
     // "aggregate" vs "integrate"
     // TKPWRAT     "aggregate"
