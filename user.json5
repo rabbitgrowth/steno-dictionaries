@@ -2819,7 +2819,7 @@
     "TPAOEUFGS": "five things",
     "TPEUFGS": "five things",
 
-    // -- Grammar --------------------------------------------------------------
+    // -- Inflections ----------------------------------------------------------
 
     // Plurals
     "ABGT/SREUFTS": "activists",
@@ -2903,7 +2903,7 @@
           "EUSZ": "{^izes}",
           "EUFG": "{^izing}", // cf. AO*EUFG
 
-    // Inflections
+    // Verb forms
     "AFD/KAEUGT": "advocating",     // otherwise gives "avid indicating"
     "ART/KHRAEUTD": "articulated",  //                 "art calculated"
     "ART/KHRAEUGT": "articulating", //                 "art calculating" ...
