@@ -1630,6 +1630,7 @@
     "PHAOUPLT": "municipality",
     "PEFRT": "pester",          // use P-F for "perfect"
     "TPOPB": "phenomenon",      // give up "phon" (unit of loudness)
+    "TPOPBS": "phenomena",
     "PREUPBL": "provisional",   // use PREUPB for "principle"
     "SKOLGS": "psychologist",   // "psychologies" is too rare
     "REUPBD": "remind",         // like HEUPBD "behind"
@@ -3055,7 +3056,6 @@
     /*1*/ "HAO*EUFT": "heist",
 
     // Irregular forms
-    "TPOPBS": "phenomena",
     "URPBTD": "understood",
     "URPBD/-D": "understood",
 
