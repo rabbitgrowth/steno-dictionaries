@@ -1195,6 +1195,14 @@
     // CLARIFYING      1706   CLASSIFYING    1042
     // COLLAR FIGURE      0   CLASS FIGURE      0
 
+    // KW for conv-
+    // Precedents: KWEUPBS "convince", KWERT "convert", KWEUBGT "convict", etc.
+    // It almost always works except for "convey".
+    "KWAEU": "convey",
+    "KWAEUS": "conveys",  // misstroke for "case"
+    "KWAEUD": "conveyed", // give up "Quade"
+    "KWAEUR": "conveyor",
+
     // PWH for beh-
     "PWHED": "behead",
     "PWHAO*EPLT": "behemoth",
