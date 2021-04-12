@@ -775,9 +775,9 @@
     "TPEUL/PWUFRT": "filibuster",
     "TPRAEURPL": "framer",
     "SKWRAEURT": "generator",
-    "TKPWOFRPB": "governor",  // use TKPWOFPB for "govern";
-                              // the "r" is not pronounced anyway
-    "TKPWO*FRPB": "Governor", // add * to capitalize
+    "TKPWOFRPB": "governor", // use TKPWOFPB for "govern";
+                             // the "r" is not pronounced anyway
+    "TKPWO*FRPB": "Governor",
     "EUPB/KRAOEURT": "inciter",
     "HR*EURBG": "liquor", // starless is "lyric"
     "HROURPBG": "lounger",
