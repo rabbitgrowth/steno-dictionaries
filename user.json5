@@ -142,6 +142,7 @@
     "STEUFBG": "scientific",    // with STEUFT "scientist"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
     "SEURPB": "sinner",         // with TKEURPB "dinner", WEURPB "winner"
+    "SOPL": "so many",          // with SO "so", SOFP "so much"; use SPH for "some"
     "SPWOLG": "symbolic",       // with SPWOL "symbol"
                                 //   cf. KHOL "alcohol" and KHOLG "alcoholic";
                                 //   SPWOLG could also be "ontology" with SPW-
