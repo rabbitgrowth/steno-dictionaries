@@ -148,6 +148,7 @@
                                 //   cf. KHOL "alcohol" and KHOLG "alcoholic";
                                 //   SPWOLG could also be "ontology" with SPW-
                                 //   for ont-, but "symbolic" is much more common
+    "TREUGS": "transmission",   // with TREUT "transmit"; use TRAPBGS for "transition"
     "UFT": "unfortunate",       // with UFL "unfortunately"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
