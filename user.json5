@@ -1451,6 +1451,7 @@
     // Precedents: TPUPBLGS "functional", STAOULGS "constitutional"
     "KAUPB/TKPWRELGS": "congressional",
     "TAOULGS": "constitutional",
+    "KWEPBLGS": "conventional", // alternative to SREPBL; use KWEFRPBS for "quenches"
     "TPOUPBLGS": "foundational",
     "SKWRAEULGS": "generational", // use -Z for "jailings"
     "SPRAEULGS": "inspirational",
