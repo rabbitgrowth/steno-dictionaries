@@ -3054,6 +3054,10 @@
     "WAOEUFT": "wisest",
     /*1*/ "HAO*EUFT": "heist",
 
+    // Irregular forms
+    "URPBTD": "understood",
+    "URPBD/-D": "understood",
+
     // -- Negation -------------------------------------------------------------
 
     // S for negation
