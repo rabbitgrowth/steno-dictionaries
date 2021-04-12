@@ -831,6 +831,7 @@
     "TKRELT": "directly", // or use TKREL or TKRELG
     "SKREUPL/TPHALT": "discriminately", // mostly for "indiscriminately"
     "ELZ": "easily",
+    "TP-RBLT": "efficiently",
     "TPEURBLT": "efficiently",
     "TPRAPBLG": "frankly", // from TPRAPBG "frank"
                            // (no * because * is reserved for "Frank")
