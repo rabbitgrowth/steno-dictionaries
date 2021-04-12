@@ -2962,6 +2962,7 @@
     "KAUPB/SAOELS": "conceals",
     "KAUPB/TPEFD": "confessed",
     "KAUPB/TPEFG": "confessing",
+    "KRAETD": "created", // use KRET for "credit"
     "TKAPBGS": "dancing", // use TKEUS/SRAPBGS for "disadvantages"
     "TKEUPL/WEUTD": "dimwitted",
     "EPB/HAFPBD": "enhanced",
