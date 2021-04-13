@@ -3082,6 +3082,7 @@
     "KROUTD": "crowded",
     "TKEFTD": "defended",
     "TKPHAPBTD": "demanded", // misstroke for "demand"
+    "TKE/TPHAOUTD": "denuded",
     "AOE/HRAOUTD": "eluded",
     "TPOUPBTD": "founded",
     "TKPWAOEUTD": "guided",
