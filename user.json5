@@ -750,6 +750,7 @@
     "SWOEUD": "avoid",  // SRAOEUD is "vied"
     "SWOU": "avow",     // SRAOU is "view"
     "SWOUL": "avowal",  // SRAOUL is "value"
+    "SWAEUBG": "awake",
     /*1*/ "SHRO*EPB": "Sloan",
 
     // Fold in -R for -er or -or
