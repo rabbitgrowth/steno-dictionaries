@@ -1313,6 +1313,22 @@
     "HAURBL": "harshly",
     "PHAURB": "marsh",
 
+    // OEUR for -erior
+    "TPOEUR": "inferior", // overrides "foyer" [1]
+    "TPOEURT": "inferiority",
+    "SPOEUR": "superior", // works already
+    "SPOEURT": "superiority",
+    "SPWOEUR": "interior",
+    "KPOEUR": "exterior",
+    "EBGS/TOEUR": "exterior",
+    "APB/TOEUR": "anterior", // should probably be APBT/OEUR according to the
+                             // greedy principle, but I like the consistency of
+                             // the second stroke always being TOEUR
+    "POS/TOEUR": "posterior",
+    "UL/TOEUR": "ulterior",
+    "ULT/OEUR": "ulterior", // prevents UL "you will" (custom) from flashing past
+    /*1*/ "TPO*EUR": "foyer",
+
     // OEUD for -dio or -dia
     // Precedents: O*EUD   "audio" (starless is {^oid})
     //             SRO*EUD "video" (starless is "void")
@@ -3629,17 +3645,6 @@
     // SUFBT/-TEU ("subjective" + {^ity})
     // OFBT/-TEU  ("objective"  + {^ity})
     // work too thanks to Plover's orthography rules.
-
-    // "superior" and "inferior"
-    "SPOEURT": "superiority",
-    "TPOEUR": "inferior", // nicely symmetrical with SPOEUR "superior"
-                          // but overrides "foyer" [1]
-    "TPOEURT": "inferiority",
-    "TPOEURPBT": "inferiority", // from TPOEURPB (mnemonic: "infor")
-                                //  FF   N
-                                //      RN
-                                //    O II
-    /*1*/ "TPO*EUR": "foyer",
 
     // -- Easily confused words ------------------------------------------------
 
