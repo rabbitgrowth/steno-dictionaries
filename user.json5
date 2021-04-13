@@ -638,14 +638,18 @@
     "STEPG/STOEPB": "stepping stone",
     "STEPG/STOEPBS": "stepping stones",
 
-    // Fix word boundary errors
-    "KAOUP/OPB": "coup on",        // use KAOU/POPB or KAOUPB for "coupon"
-                                   // ("The military launched a coup on Monday")
+    // Prevent word boundary errors
+    "PHEUR/TPHA": "mirror in a", // give up "Myrna" (Irish name)
+    "PERPB/TPHA": "person in a", // overrides "persona" [1]
+    /*1*/ "PER/SOEPB": "persona", // or use {^a}: PERPB/SKWRA
+
     "PHAEUBG/T-GS": "make things", // otherwise gives "makes iting"
-    "PHEUR/TPHA": "mirror in a",   // give up "Myrna" (Irish name)
-    "PAS/SO": "pass so",           // give up "Paso"; there's EL/PA/SOE for "El Paso"
-    "PERPB/TPHA": "person in a",   // overrides "persona"
-    "PER/SOEPB": "persona",        // or use {^a}: PERPB/SKWRA
+    "SAOE/T-GS": "see things",     // otherwise gives "seeing its"
+                                   // (SAOE/T-G "seeing it" + {^s})
+
+    "KAOUP/OPB": "coup on", // use KAOU/POPB or KAOUPB for "coupon"
+                            // ("The military launched a coup on Monday")
+    "PAS/SO": "pass so",    // give up "Paso"; there's EL/PA/SOE for "El Paso"
 
     // -- Affixes --------------------------------------------------------------
 
