@@ -584,6 +584,7 @@
 
     // Use AE for -ea- as an orthographic alternative
     // Precedents: KRAOET, KRAET "create"; SPAOEBG, SPAEBG "speak"
+    "PWRAEFT": "breast",
     "KHRAEPB": "clean",
     "KHRAER": "clear",
     "HRAEFT": "least", // cf. THRAES "at least"
