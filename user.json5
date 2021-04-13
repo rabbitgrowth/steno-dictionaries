@@ -352,7 +352,8 @@
     "ARD": "around",
     "STORB": "astonish",
     "STORBG": "astonishing", // overrides "stork" (a bird) [1]
-    "AUBG": "automatic",     // overrides "awk" (awkward)  [2]
+    "TRAF": "attractive", // use TR-FR for "transfer"
+    "AUBG": "automatic", // overrides "awk" (awkward)  [2]
     "KPRA*EUPBS": "contemporaneous", // KPRA*EURPBS - -R; starless is "extraneous"
     "KURPB": "curtain",
     "TAOERT": "deteriorate",
