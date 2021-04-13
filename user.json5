@@ -602,6 +602,8 @@
     "PWAPBD/HRAOERD": "bandleader",
     "PWAPBD/HRAOERDZ": "bandleaders",
     "PWAR/TERPBD": "bartender",
+    "PWRAED/TPRAOUT": "breadfruit",
+    "PWRAED/TPRAOUTS": "breadfruits",
     "PWROD/PWAPBD": "broadband", // PWRAOD/PWAPBD already works
     "PWROD/KAFT": "broadcast",   // PWRAOD/KAFT   already works
     "PW-Z/PWOD": "busybody", // with PWOD "body" (custom); "B-Z-bo-D"
