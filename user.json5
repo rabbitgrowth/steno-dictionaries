@@ -1787,7 +1787,7 @@
     "POEPB": "pony",
     "KWARPB": "quarantine",
     "SKEP": "skeptic",
-    "SKEP/K-L": "skeptical", // like SKEPT/K-L but "concept" doesn't flash past
+    "SKEPL": "skeptical",
     "SKEFPL": "skepticism",
     "SAOUF": "souvenir",
     "TRUFRPB": "truncheon", // alternative to TRUPBGS
