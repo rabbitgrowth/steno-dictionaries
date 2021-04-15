@@ -696,6 +696,7 @@
     "SPWR/TPAOERG": "interfering",
     "SPWR/TPAOERD": "interfered",
     "SPWR/TPAOERPBS": "interference",
+    "SPWR/PHAOED": "intermediate",
     "SPWR/SRAOEPB": "intervene",    // alternative to TWAOEPB (custom)
     "SPWR/SREPBGS": "intervention", // alternative to TWEPBGS
     "SPR/STEUGS": "superstition", // prefer SPR to SAOUP
