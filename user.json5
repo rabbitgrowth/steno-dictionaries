@@ -691,7 +691,7 @@
     "KWREFRT": "{yester^}",
 
     // Use nicer prefixes for multistroke words
-    "SPWR/TPAOER": "interfere",   // prefer SPWR to EUPBT
+    "SPWR/TPAOER": "interfere", // prefer SPWR to EUPBT
     "SPWR/TPAOERS": "interferes",
     "SPWR/TPAOERG": "interfering",
     "SPWR/TPAOERD": "interfered",
