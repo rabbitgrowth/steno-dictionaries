@@ -1111,6 +1111,7 @@
     "STKHREBGT": "deselect",
     "STKPRAT": "desperate",
     "STKPRALT": "desperately",
+    "STKPRAEUGS": "desperation", // use STRAEUGS (custom) for "administration"
     // A lot of des- words already use STK:
     // STKPAOEUT "despite"
     // STKAOEUPB "design"
