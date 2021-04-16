@@ -362,7 +362,8 @@
     "SKHAOUL": "eschewal",
     "AOEFPL": "eventual", // ERBL is unphonetic and EFPBL is awkward to hit
     "HRAOEFPL": "eventually",
-    "KPELT": "excellent",
+    "KPELT": "excellent", // shortcut for KPHREPBT,
+                          // which is consistent with KPHREPBS "excellence"
     "TPAOPBLG": "footage", // like TPHOPBLG "knowledge"
     "TPREFT": "forest",
     "TKPWARPB": "garden",
