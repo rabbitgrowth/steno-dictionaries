@@ -1305,6 +1305,7 @@
     // PHAPBD/TOER or PHAPBD/TREU "mandatory"
     "EFGS/REU": "evolutionary",    // vs EFGS/AER
     "REFGS/REU": "revolutionary",  // vs REFGS/AER
+    "ARB/TREU": "arbitrary",       // vs ARB/TRAER ("ash try" should be impossible)
     "SPHRAPB/TREU": "explanatory", // vs SPHRAPB/TOER
 
     // AERT for -atter
