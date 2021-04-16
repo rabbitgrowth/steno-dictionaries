@@ -2335,6 +2335,7 @@
 
     "PRA": "for a", // TPAR is "far" and TPAEUR is "fair",
                     // so borrow from French "pour"
+    "PRU": "for you",
 
     "HA": "had a",        // misstroke for "that"
     "HA/HA": "haha",      // no hyphen
