@@ -258,7 +258,7 @@
     "EPBT/-T": "entity", // or use the more normal EPBT/TEU
 
     // Phonetic alternatives to briefs
-    "KAT/TKPWREU": "category",    // to KOERG
+    "KAT/TKPWREU": "category",    // to KOERG and KR-RG (custom)
     "KAUPB/TKURBGT": "conductor", // to KURBGT
     "KUFPB": "cousin",            // to KUZ
     "TKEUPL/TPHEURB": "diminish", // to TKPHEURB
