@@ -356,6 +356,8 @@
     "STORBG": "astonishing", // overrides "stork" (a bird) [1]
     "TRAF": "attractive", // use TR-FR for "transfer"
     "AUBG": "automatic", // overrides "awk" (awkward)  [2]
+    "SKAOEL": "conceal", // cf. SKERT "concert", SKEPT "concept"
+                         // (different stress though)
     "KPRA*EUPBS": "contemporaneous", // KPRA*EURPBS - -R; starless is "extraneous"
     "KURPB": "curtain",
     "TKHRAOEUPB": "deadline", // use PHRAOEUPB for "midline", maybe; don't care
