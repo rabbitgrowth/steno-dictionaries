@@ -1311,6 +1311,7 @@
     // Precedents: PHAERT "matter", HRAERT "latter"
     "KHRAERT": "clatter", // use KARLT or KAL/TOR (both custom) for "calculator"
     "PHRAERT": "platter",
+    "SPAERT": "spatter",
     "SPHRAERT": "splatter",
 
     // AEURT for -ariat
