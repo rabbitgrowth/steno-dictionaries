@@ -3128,6 +3128,9 @@
     "KOELD/PWHRAOTD": "cold-blooded", // or use KOELD/PWHRAOD/-D
     "WARPL/PWHRAOTD": "warm-blooded",
 
+    // Comparatives
+    "SOER/ER": "sorrier", // use SOR/ER for "sorer"
+
     // Superlatives
     // You can often drop the final consonant (typically /t/)
     // in the base adjective.
