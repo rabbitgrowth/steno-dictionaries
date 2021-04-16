@@ -3911,6 +3911,12 @@
     "KOERPB": "corny",
     "STPHO*RT": "sonority", // use STPHOF for "and so forth"
 
+    // Don't waste so many strokes on "syrup"
+    // SURP, SEURP, SAOERP, and SEURPL are all "syrup" by default, but the
+    // last one is the only one that matches my pronunciation, /ˈsɪrəp/.
+    "SURP": "supper",
+    "SEURPL": "simmer",
+
     // -- Fix Plover's oddities ------------------------------------------------
 
     // A/PHEPB/PHE(U) "anemone"
