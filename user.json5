@@ -323,7 +323,7 @@
     "TKOR": "door",
     "TPHROR": "floor",
     "TPRE": "free",
-    "TKPWREPB": "green",
+    "TKPWREPB": "green", // like PWHRU "blue" (colours of Earth)
     "TKPWREPB/HOUS": "greenhouse",
     "HUPBLG": "huge",
     "KEP": "keep",
