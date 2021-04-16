@@ -3147,8 +3147,8 @@
     "STPHOL": "abnormal",
     "SHRAOEL": "illegal",
     "SP-F": "imperfect",
-    "SP-FGS": "imperfection",
     "SP-FL": "imperfectly",
+    "SP-FGS": "imperfection",
     "SPOB": "impossible",
     "SPOBL": "impossibly",
     "S*BGS": "inaction", // use S*EUBGS for "sixth"
