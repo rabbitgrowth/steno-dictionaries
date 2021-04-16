@@ -3526,6 +3526,14 @@
     "THR*L": "there'll",   // already works
     "THR*BL": "there'll be",
     "THR*BLT": "there'll be the",
+
+    "THREUPL": "there I am",
+    "THREUFS": "there I was",
+    "THRUR": "there you are",
+    "THRURP": "there you were",
+    "THRES": "there he is", // use THREZ for "threes"; see note at TRE "tree"
+    "THREFS": "there he was",
+
     "HAOERS": "here is",
     "HAOERTS": "here is the",
     "HAO*ERS": "here's",   // already works
