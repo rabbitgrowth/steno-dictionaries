@@ -357,6 +357,7 @@
     "AUBG": "automatic", // overrides "awk" (awkward)  [2]
     "KPRA*EUPBS": "contemporaneous", // KPRA*EURPBS - -R; starless is "extraneous"
     "KURPB": "curtain",
+    "TKHRAOEUPB": "deadline", // use PHRAOEUPB for "midline", maybe; don't care
     "TAOERT": "deteriorate",
     "TAOERGS": "deterioration",
     "SKHAOU": "eschew",
