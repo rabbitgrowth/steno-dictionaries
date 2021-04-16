@@ -360,7 +360,7 @@
     "TAOERGS": "deterioration",
     "SKHAOU": "eschew",
     "SKHAOUL": "eschewal",
-    "AOEFPL": "eventual", // ERBL is unphonetic and EFPBL is awkward to hit
+    "AOEFPL": "eventual", // ERBL is unphonetic and EFPBL is tricky to hit
     "HRAOEFPL": "eventually",
     "KPELT": "excellent", // shortcut for KPHREPBT,
                           // which is consistent with KPHREPBS "excellence"
@@ -3167,7 +3167,7 @@
     "STPORL": "informal",
     "SABL": "unable",
     "SK-RBS": "unconscious",
-    "SK-RBLS": "unconsciously",
+    "SK-RBLS": "unconsciously", // tricky to hit
     "SKP-PTD": "unexpected",
     "STPAEUR": "unfair",
     "STPAEURL": "unfairly", // misstroke for "fairly"
