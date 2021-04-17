@@ -790,9 +790,6 @@
     "TKREFR": "dresser",
     "TKRERS": "dresser",
     "TKREUR": "drinker",
-    "EPL/PWROEURD": "embroider",
-    "PWROEURD": "embroider", // like PROEFP, A/PROEFP "approach"
-                             // "broider" is an archaic form of "embroider"
     "AOE/TPHARPL": "enamor",
     "TPAEURPBT": "fainter",
     "TPAURLT": "falter", // cf. AURLT "alter"
@@ -991,6 +988,8 @@
     "KPWHREPL": "emblem",
     "KPWRAEUS": "embrace",
     "KPWRAEUFD": "embraced",
+    "KPWROEURD": "embroider",
+    "KPWROEUD/REU": "embroidery", // or use KPWROEURD/KWREU ("embroider" + {^y})
     "KPWROR": "emperor",
     "KPWAOEUR": "empire",
     "KPWAO*EUR": "Empire",
