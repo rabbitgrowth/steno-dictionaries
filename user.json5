@@ -107,6 +107,11 @@
     "THUFT": "enthusiast",      // with THUFPL "enthusiasm"
     "THUFBG": "enthusiastic",
     "KPES/EUF": "excessive",    // with KPES/EUFL "excessively"
+    "KP*EF": "excessive",       // with KP*ES "excess"; use KPEF for "competitive",
+                                // which is consistent with KPAOET "compete"
+                                //                          KPEPBT "competent"
+                                //                          KPEGS  "competition"
+    "KP*EFL": "excessively",
     "KPEPL": "exemplify",       // with KP-PL "example"
     "KP-PGS": "expectation",    // with KP-PT "expect"
     "KPR*ES": "express",        // with KPR*EGS "expression"
