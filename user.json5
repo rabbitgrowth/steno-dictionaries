@@ -824,6 +824,7 @@
     "UPB/TPERT": "unfetter",
     "SREURBGT": "victor", // cf. SRERBGT "vector"
     "SR*EURBGT": "Victor",
+    "WAEURPBLG": "wager",
     "WAURBG": "walker", // overrides "Washington, D.C."
     /*1*/ "KH*EFR": "chèvre", // with proper diacritics
           "SH*EFR": "chèvre", // phonetic
