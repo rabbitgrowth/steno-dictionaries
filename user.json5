@@ -246,8 +246,6 @@
     "TROELS": "trolls",
     "SRAPBL/TAOEUPB": "valentine",
     "SRAOEPBG": "vegan",
-    "SREUBG/TORS": "victorious", // use SREURBGTS or SREUBG/TORZ for "victors"
-                                 // SREURBGT/KWROUS also works for "victorious"
     "SRAO*EUPBL": "violin", // starless is "vinyl"
     "WAOERPBS": "weariness",
     "WOEFL": "woeful", // use WUFL for "wonderful"
@@ -585,8 +583,7 @@
 
     // Use OEU
     // Precedents: PHOEUT "mighty", SPHOEUL "smelly", ROEUFBG "risky"
-    "POEUT": "pity",        // give up "PO2"
-    "SROEURBGT": "victory", // from SREURBGT (custom)
+    "POEUT": "pity", // give up "PO2"
 
     // -- Drop final schwa -----------------------------------------------------
 
@@ -839,8 +836,6 @@
     "SRERPBD": "surrender", // use SREPB/TKOR for "vendor"
     "SWEUFRT": "swifter",
     "UPB/TPERT": "unfetter",
-    "SREURBGT": "victor", // cf. SRERBGT "vector"
-    "SR*EURBGT": "Victor",
     "WAEURPBLG": "wager",
     "WAURBG": "walker", // overrides "Washington, D.C."
     /*1*/ "KH*EFR": "chèvre", // with proper diacritics
@@ -3720,6 +3715,13 @@
     // SUFBT/-TEU ("subjective" + {^ity})
     // OFBT/-TEU  ("objective"  + {^ity})
     // work too thanks to Plover's orthography rules.
+
+    // "victor" family
+    "SREURBGT": "victor",   // cf. SRERBGT "vector"
+    "SR*EURBGT": "Victor",  // the name
+    "SROEURBGT": "victory", // use OEU for -y
+    "SREUBG/TORS": "victorious", // or use SREURBGT/KWROUS ("victor" + {^ious});
+                                 // use SREURBGTS or SREUBG/TORZ for "victors"
 
     // -- Easily confused words ------------------------------------------------
 
