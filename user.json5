@@ -3253,6 +3253,7 @@
     "TKAR/PHA": "dharma",
     "TKARPL/KWRA": "dharma",
     "TKAO*US": "dews",
+    "KP*EL": "excel", // use *EBGS/EL for "Excel"
     "HURPBT": "hunter",
     "PHOR/ROE": "morrow",
     "OP/ED": "op-ed",
