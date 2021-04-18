@@ -391,6 +391,10 @@
     "PHEUL/SHA": "militia",
     "PHEUL/SHAS": "militias",
     "OP/TEUF": "operative", // OPT/EUF with a more natural break point
+    "PAEURT/KWROFPL": "patriotism", // "patriosm"; cf. PAEURT/KWROT "patriot"
+                                    // or use the simpler but less phonetic
+                                    // PAEUT/ROT    "patriot"
+                                    // PAEURT/EUFPL "patriotism"
     "POERBL": "potential",
     "PHROERBL": "potentially",
     "PRAOEULS": "priceless",
