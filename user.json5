@@ -675,6 +675,7 @@
     /*1*/ "PER/SOEPB": "persona", // or use {^a}: PERPB/SKWRA
 
     "PHAEUBG/T-GS": "make things", // otherwise gives "makes iting"
+    "PUT/T-GS": "put things",      // otherwise gives "putting its"
     "SAOE/T-GS": "see things",     // otherwise gives "seeing its"
                                    // (SAOE/T-G "seeing it" + {^s})
 
