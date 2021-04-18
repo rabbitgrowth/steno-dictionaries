@@ -176,7 +176,7 @@
     "AUT/TPHOEPL": "autonomy", // cf. AUT/KRAES "autocracy"
     "AUT/TPHOPLS": "autonomous",
     "PWHRAOEU": "belie",
-    "PWHRAOEUD": "belied", // otherwise gives "belieed"
+    "PWHRAOEUD": "belied", // otherwise "belieed"
     "PWHREUPBG/WAL": "bilingual",
     "PWHREUPBLG": "bilingual", // PWHREUPBL + -G; "blingle"
     "PWEUS/TROE": "bistro", // /ˈbɪstrəʊ/
@@ -674,9 +674,9 @@
     "PERPB/TPHA": "person in a", // overrides "persona" [1]
     /*1*/ "PER/SOEPB": "persona", // or use {^a}: PERPB/SKWRA
 
-    "PHAEUBG/T-GS": "make things", // otherwise gives "makes iting"
-    "PUT/T-GS": "put things",      // otherwise gives "putting its"
-    "SAOE/T-GS": "see things",     // otherwise gives "seeing its"
+    "PHAEUBG/T-GS": "make things", // otherwise "makes iting"
+    "PUT/T-GS": "put things",      // otherwise "putting its"
+    "SAOE/T-GS": "see things",     // otherwise "seeing its"
                                    // (SAOE/T-G "seeing it" + {^s})
 
     "KAOUP/OPB": "coup on", // use KAOU/POPB or KAOUPB for "coupon"
@@ -2958,7 +2958,7 @@
     "HEUFT/ORPBS": "historians",
     "HOL/HROES": "hollows",
     "HOL/OES": "hollows",
-    "SKWRUFSZ": "justices", // otherwise gives "justifieses" (SKWRUFZ + -S)
+    "SKWRUFSZ": "justices", // otherwise "justifieses" (SKWRUFZ + -S)
     "HRAUR/KWRATS": "laureates",
     "HRAUFS": "layoffs",
     "HRUL/PWAOEUS": "lullabies",
@@ -3017,9 +3017,9 @@
     "THOUS": "thousand",
 
     // Verb forms
-    "AFD/KAEUGT": "advocating",     // otherwise gives "avid indicating"
-    "ART/KHRAEUTD": "articulated",  //                 "art calculated"
-    "ART/KHRAEUGT": "articulating", //                 "art calculating" ...
+    "AFD/KAEUGT": "advocating",     // otherwise "avid indicating"
+    "ART/KHRAEUTD": "articulated",  //           "art calculated"
+    "ART/KHRAEUGT": "articulating", //           "art calculating" ...
     "A/SRAEULD": "availed",
     "A/SRAEULG": "availing",
     "A/SRAEULS": "avails",
