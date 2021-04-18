@@ -449,13 +449,11 @@
     "TREFT": "at rest",
     "TWAR": "at war",
     "TWORBG": "at work",
-    "AOEFRP": "each other",
     "TKPWOEPL": "go home",
     "TPHOEPBS": "known as", // use -Z for "knowns"
     "HREPL": "let me",
     "PHAEUPLS": "my name is", // use -Z for "maims"
     "TPHUFPS": "no such thing as", // "rhymes" with SUFPS "such as"
-    "WURPB": "one another",
     "WUF": "one of", // like OUF "out of"
     "WUFT": "one of the",
     "SPOEFT": "supposed to",
@@ -463,6 +461,9 @@
     "TRUF": "true love", // use TRUFT for "trust"
     "WHOFPLT": "when it comes to", // "whomst"
     "KWRAOEUS": "you guys",
+
+    "AOEFRP": "each other",
+    "WURPB": "one another",
 
     "WHOELT": "whole lot",
     "WHOEFLT": "whole lot of",
