@@ -600,7 +600,7 @@
     "SWAEUD": "swayed", // 3003
     "SWA*EUD": "suede", // 1312
 
-    // -- Orthography ----------------------------------------------------------
+    // -- Orthographic ---------------------------------------------------------
 
     // Use AE for -ea- as an orthographic alternative
     // Precedents: KRAOET, KRAET "create"; SPAOEBG, SPAEBG "speak"
