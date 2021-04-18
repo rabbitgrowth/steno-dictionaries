@@ -585,7 +585,8 @@
 
     // Use OEU
     // Precedents: PHOEUT "mighty", SPHOEUL "smelly", ROEUFBG "risky"
-    "POEUT": "pity", // give up "PO2"
+    "POEUT": "pity",        // give up "PO2"
+    "SROEURBGT": "victory", // from SREURBGT (custom)
 
     // -- Drop final schwa -----------------------------------------------------
 
