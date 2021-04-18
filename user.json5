@@ -3001,6 +3001,10 @@
     "ROEZ": "rows",
     "TPHREBGZ": "flecks", // vs TPHREBGS "flex"
     "PAUZ": "paws",       // vs PAUS "pause"
+    /*1*/ "EUZ": "{^ize}",
+          "EUFD": "{^ized}",  // cf. AO*EUFD
+          "EUSZ": "{^izes}",
+          "EUFG": "{^izing}", // cf. AO*EUFG
 
     // When there's no conflict, prefer -S over -Z.
     // It's just easier to type.
@@ -3009,10 +3013,6 @@
     "RES/TPHAEUGS": "resignation",
     "SKHRAUS": "Santa Claus",
     "THOUS": "thousand",
-    /*1*/ "EUZ": "{^ize}",
-          "EUFD": "{^ized}",  // cf. AO*EUFD
-          "EUSZ": "{^izes}",
-          "EUFG": "{^izing}", // cf. AO*EUFG
 
     // Verb forms
     "AFD/KAEUGT": "advocating",     // otherwise gives "avid indicating"
