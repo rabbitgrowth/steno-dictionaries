@@ -376,7 +376,7 @@
     "KPELT": "excellent", // shortcut for KPHREPBT,
                           // which is consistent with KPHREPBS "excellence"
     "TPAOPBLG": "footage", // like TPHOPBLG "knowledge"
-    "TPREFT": "forest",
+    "TPREFT": "forest", // would be TPOFRT (forst) if "foster" (fostr) wasn't a word
     "TKPWARPB": "garden",
     "HEUPB": "hidden",
     "HOLD": "holiday", // use HOELD for "hold"
