@@ -3458,6 +3458,7 @@
     "TRAOET": "treaty", // feels right because "treaty" has two AOEs (/i/)
                         // and no AE (/æ/); think "tree-T"
     // As a bonus, word length and stroke length now match up perfectly.
+    "TRAEPLT": "treatment", // cf. TRAOEPLT
 
     // KROEUR "occur" is ugly. Between KR and K-R, choose KR such that
     // word length and stroke length match up:
