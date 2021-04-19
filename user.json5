@@ -73,6 +73,9 @@
     "TOTS": "to its",
     "W-TS": "with its",
 
+    "ARD": "around",
+    "-RD": "round", // R-D is "ready"
+
     // -- Consistency ----------------------------------------------------------
 
     "KPEBL": "accessible",      // with KPES "access"
@@ -357,7 +360,6 @@
     "TKPHEUGS": "admission",
     "HRARPL": "alarm",
     "ALG": "algorithm", // use ALGS for "additional" (AGS "addition" + -L)
-    "ARD": "around",
     "STORB": "astonish",
     "STORBG": "astonishing", // overrides "stork" (a bird) [1]
     "TRAF": "attractive", // use TR-FR for "transfer"
