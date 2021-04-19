@@ -3457,6 +3457,11 @@
     "WAOERG": "Uighur", // use W*R for "we're"
     "SR*EUZ": "viz.", // starless is "advise"
 
+    "PAOU/TREFPBT": "putrescent", // cf. PAOU/TREUD "putrid"
+    "PAOUT/REFPBT": "putrescent", // cf. PAOUT/REUD "putrid"
+    "PAOU/TREFPBS": "putrescence",
+    "PAOUT/REFPBS": "putrescence",
+
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
     "KRAOEURS": "coronavirus", // "crirus"
