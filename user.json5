@@ -269,6 +269,7 @@
     "KAT/TKPWREU": "category",    // to KOERG and KR-RG (custom)
     "KAUPB/TKURBGT": "conductor", // to KURBGT
     "KUFPB": "cousin",            // to KUZ
+    "TKAOEUPBLG/EFT": "digest",   // to SKWR*EFT
     "TKEUPL/TPHEURB": "diminish", // to TKPHEURB
     "TKEUS/SPEURT": "dispirit",   // to STKPEURT
     "STKREUBGT": "district",      // to TKR-T; use TKR-BG(T) for "distributing"
