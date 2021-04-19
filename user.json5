@@ -715,6 +715,7 @@
     "SHAOU/PHAEURBGS": "shoemakers",
     "TRUBL/PHAEURBG": "troublemaker",
     "TRUBL/PHAEURBGS": "troublemakers",
+    "-GS": "{^tion}", // misstroke for {^s}
     "WA*EU": "{^way}", // use WAU for "away"
     "WAO*EUD": "{^wide}", // instead of {^-wide}
     "KREU/WAOEUD": "countrywide",
