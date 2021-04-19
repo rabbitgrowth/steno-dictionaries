@@ -2830,6 +2830,13 @@
     "STP*ED": "if he'd",
     /*1*/ "TPAFBG": "fantastic",
 
+    // TPEU "if I", TPU "if you", and TPE "if he" work just fine,
+    // but add the STP forms to reduce the cognitive load:
+    // it's always TP for "if" on its own, and STP when stacking.
+    "STPEU": "if I",  // use SKWREU for {^i}
+    "STPU": "if you", // use SKWRU  for {^u}
+    "STPE": "if he",  // use SKWRE  for {^e}
+
     // "which ..."
     // Plover uses WEU for "which" on its own and KH as the stacking form:
     //   KH-S  "which is"
