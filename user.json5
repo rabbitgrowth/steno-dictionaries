@@ -400,7 +400,6 @@
                                     // PAEURT/EUFPL "patriotism"
     "POERBL": "potential",
     "PHROERBL": "potentially",
-    "PRAOEULS": "priceless",
     "PREFT": "protest", // give up "previous to"
     "PREFRT": "protester",
     "PURPT": "purport", // cf. AEURPT "airport"
@@ -952,9 +951,11 @@
     "SKWROBLS": "jobless",
     "HRAOEUFLS": "lifeless",
     "PHAOEPBLGS": "meaningless",
+    "PRAOEUFLS": "priceless", // overrides "precisely" [1]
     "SHRAOEPLS": "sleepless",
     "SPAOEFPLS": "speechless",
     "SPAOEUPBLS": "spineless",
+    /*1*/ "PRAOEULS": "precisely",
 
     // -- -FR as -m ------------------------------------------------------------
 
