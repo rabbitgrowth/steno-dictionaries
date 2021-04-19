@@ -3701,21 +3701,20 @@
 
     // "agree" family
     "TKPWRE": "agree",
-    "TKPWREG": "agreeing", // overides "Greg"
-    "TKPWR*EG": "Greg",    // give up "Gregg"
+    "TKPWREG": "agreeing", // overides "Greg" [1]
     "TKPWREPLT": "agreement",
     "STKPWRE": "disagree",
     "STKPWREPLT": "disagreement",
+    /*1*/ "TKPWR*EG": "Greg", // give up "Gregg"
 
-    // "criticism" family
-    "KREUFPL": "criticism", // "critsim" already truncates the "ci". Why not go further?
+    // "critic" family
+    "KREUBG": "critic",   // overrides "crick" [1]
+    "KREUBGS": "critics", // use KREUFBGS for "characteristics"
+    "KREUL": "critical",  // overrides "krill" [2]
+    "KREUFPL": "criticism",
     "KRAOEUZ": "criticize",
-    "KREUL": "critical",
-    "KR*EUL": "krill", // I don't care if "krill" is a perfect match phonetically;
-                       // "critical" is way, way more common
-    "KREUBG": "critic",
-    "KREUBGS": "critics",
-    "KR*EUBG": "crick", // use KAERBG for "characteristic"
+    /*1*/ "KR*EUBG": "crick", // use KREUFBG for "characteristic"
+    /*2*/ "KR*EUL": "krill",
 
     // "dismiss" family
     "TKPHEUS": "dismiss", // DIS/MIS -> DMIS (IS shared by D and M)
