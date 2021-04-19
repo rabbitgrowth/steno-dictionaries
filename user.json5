@@ -1737,6 +1737,7 @@
     "REUPBTD": "reminded",
     "REURPBD": "reminder",
     "ROPBT": "rotten",
+    "SEPLT": "segment",         // use SPHEPBT for "cement"
     "STOEPBL": "stolen",
     "T-FGS": "television",
     "WHOUS": "White House",     // just two-stroke "us who"
@@ -1780,6 +1781,7 @@
     "TPEUL/-PLT": "filament", // or just use TPEUPLT
     "ORPB/-PLT": "ornament",
     "PRE/TKEUBG/-PLT": "predicament",
+    "SEG/-PLT": "segment",
     "SEPBT/-PLT": "sentiment",
 
     "PAEUT": "participate", // partici[pate] or [p]articip[ate]
