@@ -21,6 +21,7 @@
     "SKWR-PL/-S": "gentlemen",
     "TKPW-D": "good",
     "TKPW-T": "great", // use TKPWET for "get" for symmetry with TKPWOT "got"
+    "TKPW-RT": "greater",
     "TKPW-P": "group",
     "TKPW-PS": "groups", // overrides "GPS" [1]
     "H-P": "hypothesis", // just fingerspell "HP"
