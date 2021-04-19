@@ -970,9 +970,10 @@
     // -FRB for -mb
     "KHRUFRB/KWRA": "Columbia",
 
-    // -FRL for -mel
+    // -FRL for -mal and -mel
     "KAFRL": "camel",
     "AOE/TPHAFRL": "enamel",
+    "PRAOEUFRL": "primal",
     "PUFRL": "pummel",
 
     // -FRB for -mber
