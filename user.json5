@@ -3495,6 +3495,8 @@
     "SW": "{~|\"^}",  // open double quote
     "-BS": "{^~|\"}", // close double quote
     "SP": "{~|'^}",   // open single quote
+                      // - misstroke for "and"
+                      // - use upper S for shape and lower S for comfort
     "-PT": "{^~|'}",  // close single quote
 
     // Comma + open quote + capitalization after reporting verb
