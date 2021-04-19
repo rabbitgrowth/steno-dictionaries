@@ -1003,8 +1003,6 @@
     "SPWAOEUT": "indict",
     "SPWAOEUPLT": "indictment",
     "SPWAOE": "indie",
-    "SPWEUFRPBS": "indifference",
-    "SPWEUFRPBT": "indifferent",
     "SPWRET": "indirect", // see also STKRET
     "SPWREL": "indirectly",
     "SPWRELG": "indirectly",
@@ -3216,6 +3214,8 @@
     "SKAOPBS": "inconsistency",
     "SKAOPBT": "inconsistent",
     "SKREBGT": "incorrect",
+    "STK-FS": "indifference", // from TK-FS "difference" (custom)
+    "STK-FT": "indifferent",  // from TK-FT "different"  (custom)
     "STKRET": "indirect", // see also SPWRET
     "STKREL": "indirectly",
     "STKRELG": "indirectly",
