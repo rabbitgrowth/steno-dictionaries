@@ -949,6 +949,43 @@
     "SPAOEFPLS": "speechless",
     "SPAOEUPBLS": "spineless",
 
+    // -- -FR as -m ------------------------------------------------------------
+
+    // -FRP for -mp
+    // This already works quite consistently in Plover:
+    //   HRAFRP   "lamp"   as an alternative to HRA*PL
+    //   SKWRUFRP "jump"                        SKWR*UPL
+    //   SHREUFRP "shrimp"                      SHR*EUPL
+    "PWUFRP/KEUPB": "bumpkin",  // or don't pronounce the "p": PWUPL/KEUPB
+    "EFRP/THEBG": "empathetic", // cf. *EPL/THEBG
+
+    // -FRB for -mb
+    "KHRUFRB/KWRA": "Columbia",
+
+    // -FRL for -mel
+    "KAFRL": "camel",
+    "AOE/TPHAFRL": "enamel",
+    "PUFRL": "pummel",
+
+    // -FRB for -mber
+    "AFRB": "amber",
+    "KHAEUFRB": "chamber", // instead of KHAEURPL
+    "HRUFRB": "lumber",
+    "SHRUFRB": "slumber",
+    "SOFRB": "somber",
+    "TEUFRB": "timber",
+    // ... but use -RPL when the "b" is silent
+    "PWORPL": "bomber", // give up "bodily harm"
+    "KHRAOEURPL": "climber",
+    "TKURPL": "dumber",
+    "PHRURPL": "plumber",
+
+    // -FRBL for -mble
+    "PWRAFRBL": "bramble",
+    "TKPWAFRBL": "gamble",
+    "SKRAFRBL": "scramble",
+    "STUFRBL": "stumble",
+
     // -- Extensions -----------------------------------------------------------
 
     // SPW for ind- and end-
@@ -1427,33 +1464,6 @@
     // -FR for -sure
     "PHEFR": "measure",
     "PHREFR": "pleasure",
-
-    // -FR for -m-
-    "PWRAFRBL": "bramble",
-    "TKPWAFRBL": "gamble",
-    "SKRAFRBL": "scramble",
-    "STUFRBL": "stumble",
-
-    "KAFRL": "camel",
-    "AOE/TPHAFRL": "enamel",
-    "PUFRL": "pummel",
-
-    "PWUFRP/KEUPB": "bumpkin", // or consider the "p" silent and use PWUPL/KEUPB
-    "KHRUFRB/KWRA": "Columbia",
-    "EFRP/THEBG": "empathetic", // cf. *EPL/THEBG
-
-    // -FRB for -mber
-    "AFRB": "amber",
-    "KHAEUFRB": "chamber", // instead of KHAEURPL
-    "HRUFRB": "lumber",
-    "SHRUFRB": "slumber",
-    "SOFRB": "somber",
-    "TEUFRB": "timber",
-    // ... but use -RPL when the "b" is silent
-    "PWORPL": "bomber", // give up "bodily harm"
-    "KHRAOEURPL": "climber",
-    "TKURPL": "dumber",
-    "PHRURPL": "plumber",
 
     // -RT for -ture
     "KAUPB/SKWRERBGT": "conjecture",
