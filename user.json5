@@ -702,6 +702,9 @@
     // but stop at the most common words, since combinations
     // are potentially infinite ("schoolwide", "systemwide",
     // "areawide", "regionwide", "planetwide"...)
+    "ABG": "{^atic}", // - cf. TKRABG "dramatic", PRO*B/ABG "problematic"
+                      // - e.g., KROEPL/ABG "chromatic" ("chrome" + {^atic})
+                      // - give up "ack"
     "HR-LS": "{^lessly}", // -LS  for -less + HR for -ly
     "HRELS": "{^lessly}", // HRES for -less + -L for -ly
     "HRAO*D": "{^load}", // "truckload", "boatload", "shitload"...
