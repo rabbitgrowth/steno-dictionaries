@@ -967,6 +967,11 @@
     "PWUFRP/KEUPB": "bumpkin",  // or don't pronounce the "p": PWUPL/KEUPB
     "EFRP/THEBG": "empathetic", // cf. *EPL/THEBG
 
+    // -FRPB for -man and -men
+    "HREFRPB": "lemon",
+    "ROEFRPB": "Roman",
+    "SAFRPB": "salmon",
+
     // -FRB for -mb
     "KHRUFRB/KWRA": "Columbia",
 
