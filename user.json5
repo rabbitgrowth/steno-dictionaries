@@ -975,12 +975,6 @@
     // -FRB for -mb
     "KHRUFRB/KWRA": "Columbia",
 
-    // -FRL for -məl
-    "KAFRL": "camel",
-    "AOE/TPHAFRL": "enamel",
-    "PRAOEUFRL": "primal",
-    "PUFRL": "pummel",
-
     // -FRB for -mber
     "AFRB": "amber",
     "KHAEUFRB": "chamber", // instead of KHAEURPL
@@ -999,6 +993,12 @@
     "TKPWAFRBL": "gamble",
     "SKRAFRBL": "scramble",
     "STUFRBL": "stumble",
+
+    // -FRL for -məl
+    "KAFRL": "camel",
+    "AOE/TPHAFRL": "enamel",
+    "PRAOEUFRL": "primal",
+    "PUFRL": "pummel",
 
     // -- Extensions -----------------------------------------------------------
 
