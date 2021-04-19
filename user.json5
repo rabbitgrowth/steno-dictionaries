@@ -3700,7 +3700,6 @@
     "TKPWREFR": "aggressor",
 
     // "agree" family
-    // The A in TKPWRAE is just begging to be dropped.
     "TKPWRE": "agree",
     "TKPWREG": "agreeing", // overides "Greg"
     "TKPWR*EG": "Greg",    // give up "Gregg"
