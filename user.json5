@@ -967,7 +967,7 @@
     "PWUFRP/KEUPB": "bumpkin",  // or don't pronounce the "p": PWUPL/KEUPB
     "EFRP/THEBG": "empathetic", // cf. *EPL/THEBG
 
-    // -FRPB for -man and -men
+    // -FRPB for -mən
     "HREFRPB": "lemon",
     "ROEFRPB": "Roman",
     "SAFRPB": "salmon",
@@ -975,7 +975,7 @@
     // -FRB for -mb
     "KHRUFRB/KWRA": "Columbia",
 
-    // -FRL for -mal and -mel
+    // -FRL for -məl
     "KAFRL": "camel",
     "AOE/TPHAFRL": "enamel",
     "PRAOEUFRL": "primal",
