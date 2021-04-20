@@ -344,6 +344,7 @@
     "HUPBLG": "huge",
     "KEP": "keep",
     "PHEUPBD": "mind",
+    "PUR": "pure", // overrides "purchaser" [2]
     "SHREP": "sleep",
     "SHRAEP": "asleep",
     "STRET": "street",
@@ -357,8 +358,9 @@
                    // TPRE  "free"    TRE  "tree"
                    // TPREZ "freeze"  TREZ "trees"
     "WEBG": "week", // use WEB/-G for "webbing"
-    /*1*/ "PWHREUPB/TKA": "Belinda",   // cf. SPHREPB/TKA   "Splenda"
+    /*1*/ "PWHREUPB/TKA": "Belinda",   // cf. SPHREPB/TKA "Splenda"
           "PWHREUPBD/KWRA": "Belinda", //     SPHREPBD/KWRA
+    /*2*/ "PR-FRP": "purchaser",       // from PR-FP "purchase"
 
     // -- Sound squeezing ------------------------------------------------------
 
