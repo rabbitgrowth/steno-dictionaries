@@ -487,8 +487,8 @@
     "WHOEFLT": "whole lot of",
     "WHAOELT": "a whole lot",
     "WHAOEFLT": "a whole lot of",
-    "WH-G": "whole thing", // like T-G "thing" (custom)
-    "WHOEUPBT": "whole point",
+    "WH-G": "whole thing",   // cf. T-G "thing" (custom)
+    "WHOEPT": "whole point", // cf. P-T "point" (custom)
     "WHOERLD": "whole world", // WHORLD is "whorled"
 
     // Phrasal verbs
