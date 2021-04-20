@@ -258,9 +258,17 @@
     "S*ELS": "zealous", // use SELS for "sells"
 
     "APL": "apple", // overrides "am"
-    "-PL": "am", // cf. EU/-PL "I am"
-                 // use TP-PL for {.}
+    "-PL": "am",    // cf. EU/-PL "I am"; use TP-PL for {.}
     "PAOEUPB/APL": "pineapple",
+
+    "HRAOEUFPB": "horizon", // overrides "liven"
+    "HREUFPB": "liven",     // pronounced with /ʌɪ/, but use EU like HREUF "live",
+                            // which is sometimes pronounced with /ʌɪ/. To sum up:
+                            //   HRAOEUF   "life"
+                            //   HREUF     "live"    (/ɪ/ or /ʌɪ/)
+                            //   HREUFPB   "liven"   (/ʌɪ/)
+                            //   HRAOEUFPB "horizon"
+                            //   HR-PB     "listen"  (custom)
 
     "T*EPBT": "tenth",   // overrides "entity"
     "EPBT/-T": "entity", // or use the more normal EPBT/TEU
