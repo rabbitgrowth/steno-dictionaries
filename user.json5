@@ -1082,8 +1082,9 @@
     "KPWROR": "emperor",
     "KPWAOEUR": "empire",
     "KPWAO*EUR": "Empire",
-    "KPWHROEU": "employ",  // frees up PHROEU for "ploy" [1]
-    "KPWHROE": "employee", // "emplo-E"; cf. PHROE
+    "KPWHROEU": "employ",    // frees up PHROEU for "ploy" [1]
+    "KPWHROE": "employee",   // "emplo-E"; cf. PHROE
+    "KPWHROES": "employees", // use PHES/SKWRO for {meso^}
     "KPWHROEUR": "employer",
     "KPWAOEUB": "imbibe",
     "KPWAOU": "imbue",
