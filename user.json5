@@ -3807,6 +3807,11 @@
     // OFBT/-TEU  ("objective"  + {^ity})
     // work too thanks to Plover's orthography rules.
 
+    // "synonym" family
+    "STPHEUPL": "synonym",
+    "STPHEUPLS": "synonyms",  // give up "signs and symptoms"
+    "STPHOPLS": "synonymous", // cf. TPHOPLS "anonymous"
+
     // "victor" family
     "SREURBGT": "victor",   // cf. SRERBGT "vector"
     "SR*EURBGT": "Victor",  // the name
