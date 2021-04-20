@@ -3345,6 +3345,7 @@
     // This feels right because the first syllable is the part
     // where the lowercase-to-uppercase change happens.
     "TKA*D": "Dad", // give up "ADA"
+    "AO*EFL": "Evil",
     "H*EFPB": "Heaven",
     "STPH*ET": "Internet",
     "SKWR*UFS": "Justice",
