@@ -968,6 +968,13 @@
     "SPAOEUPBLS": "spineless",
     /*1*/ "PRAOEULS": "precisely",
 
+    // Use -FRLS for -mless with -FR as -m
+    "AEUFRLS": "aimless",
+    "HOEFRLS": "homeless",
+    "SAEFRLS": "seamless",
+    "SHAEUFRLS": "shameless",
+    "TAOEUFRLS": "timeless",
+
     // -- -FR as -m ------------------------------------------------------------
 
     // -FRP for -mp
