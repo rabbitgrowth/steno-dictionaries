@@ -637,8 +637,9 @@
     "SA*EL": "zeal",   // use SAOEL for "seal"
 
     // Miscellaneous
-    "PHOUS/TAFP": "moustache", // moustach
-    "SKREPB": "scene",         // scen
+    "PHOUS/TAFP": "moustache", // "moustach"
+    "ROUFL": "roughly",        // "roufl"; RUFL is "ruffle"
+    "SKREPB": "scene",         // "scen"
 
     // -- Joining and splitting ------------------------------------------------
 
@@ -4246,6 +4247,7 @@
     "TKAOEPL/H-F": "deeply",        // from "deem"
     "TPAOERLS/H-F": "fiercely",     // from "fearless"
     "TPAOEUPBL/H-F": "finely",      // from "final"
+    "RUFL/H-F": "roughly",          // from "ruffle"
     "TAOEULT/H-F": "tightly",       // from "title"
     "WAOEULD/H-F": "widely",        // from "wild"
 
