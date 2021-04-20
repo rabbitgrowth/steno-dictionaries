@@ -714,6 +714,12 @@
     "ABG": "{^atic}", // - cf. TKRABG "dramatic", PRO*B/ABG "problematic"
                       // - e.g., KROEPL/ABG "chromatic" ("chrome" + {^atic})
                       // - give up "ack"
+    "-LD": "{^land}", // use WO for "would", like HR, not -L, for "will"
+    "TKPWARLD": "garland",
+    "HAOEULD": "highland",
+    "HOEFRLD": "homeland", // with -FR as -m
+    "HROELD": "lowland",
+    "PHAEUPBLD": "mainland",
     "HR-LS": "{^lessly}", // -LS  for -less + HR for -ly
     "HRELS": "{^lessly}", // HRES for -less + -L for -ly
     "HRAO*D": "{^load}", // "truckload", "boatload", "shitload"...
