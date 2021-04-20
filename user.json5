@@ -194,7 +194,6 @@
     "KOFPB/TKAPBT": "confidant",
     "KOFPB/TKA*PBT": "confidante",
     "KAUPB/STAPBS/KWREU": "constancy", // or use STAPBT/SEU ("constant" + {^cy})
-    "AOELG": "eagle",
     "AOEFR": "easier", // like AO*ERS but follows steno order
     "ERPBT": "errant",
     "TPAEURLS": "failures", // "fairlies" is not a word
@@ -234,7 +233,6 @@
     "SERBG/TREU": "secretary",
     "SRAOES": "series",
     "SRAOEZ": "series",
-    "SHEUPBLG": "shingle",
     "SOEPB/AR": "sonar",
     "STRAOEUTD": "strident",
     "TAOEPL": "teem", // use TAEPL for "team"
@@ -1555,6 +1553,18 @@
     "TKPWOEPBLD": "golden",
     "TKPWOEPB": "golden",
     "OEPBLD": "olden", // OEPB is "own"
+
+    // -LG for -gle
+    // Precedents: TKPWAOLG "Google", STRULG "struggle"
+    "AOELG": "eagle",      // use SERBL for "essential"
+    "TKPWALG": "gaggle",
+    "TKPWEULG": "giggle",
+    "TKPWOLG": "goggle",   // use SKWROLG for "geology"
+    "HALG": "haggle",
+    "SKWRULG": "juggle",
+    "SHEUPBLG": "shingle", // cf. SEUPBLG "single"
+    "STPHULG": "snuggle",  // cf. SPHULG "smuggle"
+    "WREULG": "wriggle",
 
     // -LG for -lic
     // Precedents: KHOLG "alcoholic", PHET/PWOLG "metabolic"
