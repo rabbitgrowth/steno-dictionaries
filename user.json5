@@ -715,7 +715,7 @@
                       // - e.g., KROEPL/ABG "chromatic" ("chrome" + {^atic})
                       // - give up "ack"
     "-LD": "{^land}", // use WO for "would", like HR, not -L, for "will"
-    "TKPWARLD": "garland",
+    "TKPWARLD": "garland", // has nothing to do with "gar" (fish) but whatever
     "HAOEULD": "highland",
     "HOEFRLD": "homeland", // with -FR as -m
     "HROELD": "lowland",
