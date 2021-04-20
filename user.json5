@@ -1486,6 +1486,10 @@
     // but "you are the" is too useful to give up.
     /*1*/ "PW*URT": "Burt",
 
+    // -FR for -sure
+    "PHEFR": "measure",
+    "PHREFR": "pleasure",
+
     // -FR for -ser, -zer, or even -zor
     // Precedents: HRAEUFR "laser", S*EUPBT/SAOEUFR "synthesizer"
     "AP/TAOEUFR": "appetizer",
@@ -1494,9 +1498,18 @@
     "AOUFR": "user", // use AUFR for {over^}
     "WAOEUFR": "wiser",
 
-    // -FR for -sure
-    "PHEFR": "measure",
-    "PHREFR": "pleasure",
+    // -FRD for -rsed
+    // Precedents: KUFRD "cursed", TPOFRD "forced"
+    // -RSD is possible but requires Philly shift.
+    "TKWOFRD": "divorced",
+    "EPB/TPOFRD": "enforced",
+    "EUPL/PHEFRD": "immersed",
+    "PAFRD": "parsed",
+    "RE/HEFRD": "rehearsed",
+    "RE/SREFRD": "reversed",
+    "SOFRD": "sourced",
+    "TRA/SREFRD": "traversed",
+    "SREFRD": "versed",
 
     // -RT for -ture
     "KAUPB/SKWRERBGT": "conjecture",
@@ -1518,19 +1531,6 @@
     "W*EURT": "wither",
     "S*EURT": "zither", // double *: one for "z", one for "th"
     "SPHO*RT": "smother",
-
-    // -FRD for -rsed
-    // Precedents: KUFRD "cursed", TPOFRD "forced"
-    // -RSD is possible but requires Philly shift.
-    "TKWOFRD": "divorced",
-    "EPB/TPOFRD": "enforced",
-    "EUPL/PHEFRD": "immersed",
-    "PAFRD": "parsed",
-    "RE/HEFRD": "rehearsed",
-    "RE/SREFRD": "reversed",
-    "SOFRD": "sourced",
-    "TRA/SREFRD": "traversed",
-    "SREFRD": "versed",
 
     // -PBT, -PB, or -FPB for -ten
     "PWRAOEUFPB": "brighten",    // cf. TPRAOEUFPB "frighten"
