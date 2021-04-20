@@ -592,7 +592,9 @@
 
     // Use OEU
     // Precedents: PHOEUT "mighty", SPHOEUL "smelly", ROEUFBG "risky"
-    "POEUT": "pity", // give up "PO2"
+    "PWHROEUD": "bloody", // use KPWHROEUD (custom) for "employed",
+                          // which makes this misstroke unnecessary
+    "POEUT": "pity",      // give up "PO2"
 
     // -- Drop final schwa -----------------------------------------------------
 
@@ -1080,6 +1082,9 @@
     "KPWROR": "emperor",
     "KPWAOEUR": "empire",
     "KPWAO*EUR": "Empire",
+    "KPWHROEU": "employ",  // frees up PHROEU for "ploy" [1]
+    "KPWHROE": "employee", // "emplo-E"; cf. PHROE
+    "KPWHROEUR": "employer",
     "KPWAOEUB": "imbibe",
     "KPWAOU": "imbue",
     "KPWABGT": "impact",
@@ -1114,6 +1119,7 @@
     "KPWROF": "improve",        // cf. EUPL/PROF
     "KPWROFPLT": "improvement", // or just use PROFPLT
     "KPWULS": "impulse",
+    /*1*/ "PHROEU": "ploy",
 
     // Stretch KPW to mean amb- and amp-
     "KPWEUGS": "ambition",
