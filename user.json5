@@ -948,12 +948,6 @@
     "HRUPLT": "ultimately",
     "WHRUFL": "wonderfully",
 
-    // -LG for -kly
-    // Precedent: KWEULG "quickly"
-    "AULG": "automatically",  // auk  -> aukl  (see AUBG "automatic")
-    "TKRALG": "dramatically", // drak -> drakl
-    "PHREULG": "publicly",    // plik -> plikl
-
     // Fold in -LS for -less
     "PWOEPBLS": "boneless",
     "PWRAEUPBLS": "brainless",
@@ -1575,14 +1569,18 @@
     "SAOEUBG/TKELG": "psychedelic",
     "WORBG/HOLG": "workaholic",
 
-    // -LG for -ctly
-    // Precedents: TKRELG "directly"  (/dɪˈrɛkli/)
+    // -LG for -kly
+    // Precedents: KWEULG "quickly"   (/ˈkwɪkli/)
+    //             TKRELG "directly"  (/dɪˈrɛkli/)
     //             KRELG  "correctly" (/kəˈrɛkli/)
-    // The -LG seems to stand for the -kl sound. There's no official rule
+    // The -LG seems to stand for -kl. There's no official rule
     // that says -LG = -kl, but maybe I can think of it like this:
-    // -LG  -lch/-lge
-    // -LG* -lk  (add * to modify ch/j to k)
+    // -LG  -lch/-lj
+    // -LG* -lk  (add * to change -ch/-j to -k)
     // -LG  -kl  (further invert l and k, cancelling the *)
+    "AULG": "automatically",  // from AUBG    "automatic" (custom)
+    "TKRALG": "dramatically", // from TKRABG  "dramatic"
+    "PHREULG": "publicly",    // from PHREUBG "public"
     "STREULG": "strictly",
 
     // -LGS for -tional
