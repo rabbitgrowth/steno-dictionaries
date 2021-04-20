@@ -4162,6 +4162,9 @@
     "AOEUD/H-F": "eyed",            // from "I'd"
     "TPHROUR/H-F": "flour",         // from "flower" (custom)
     "TKPWAEUT/H-F": "gate",         // from "gait"
+    "HAUL/H-F": "haul",             // from "hall"
+    "HAULD/H-F": "hauled",
+    "HAULS/H-F": "hauls",
     "HAEU/H-F": "hay",              // from "hey"
     "HAOEUFT/H-F": "heist",         // from "highest" (custom)
     "HAOEUR/H-F": "hire",           // from "higher"
