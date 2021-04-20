@@ -2796,6 +2796,8 @@
     "WR*UD": "where you'd",
 
     // "who ..."
+    "WHOZ": "who has",  // overrides "whose" [1]
+    "WHOF": "who have", // use WHO*F for "who've"
     "WHOEUPL": "who I am",
     "WHO*EUPL": "who I'm",
     "WHOEUFS": "who I was",
@@ -2805,6 +2807,7 @@
     "WHOES": "who he is",
     "WHO*ES": "who he's",
     "WHOEFS": "who he was",
+    /*1*/ "WHAOUS": "whose",
 
     // STP as stacking form of "if"
     // Of course, "if" on its own is TP. But TP is not very stackable:
