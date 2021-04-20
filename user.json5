@@ -3277,6 +3277,10 @@
     "STPHOEPB": "unknown",
     "SPHREFPBT": "unpleasant",
 
+    "SHRORPBG": "no longer",
+    "SPHAERT": "no matter",
+    "SPR-B": "no problem",
+
     "SKHRU": "exclude",      // 1) S + KHRU "include"; 2) /ɪkˈ[sklu]ːd/
     "SKHRUF": "exclusive",   // cf. KHRUF "inclusive"
     "SKHRAOUF": "exclusive", // more fully phonetic
