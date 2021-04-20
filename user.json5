@@ -1708,17 +1708,16 @@
     "TKAO*LD": "doodle",
     "TKPWEURLD": "girdle",
     "TKPW*EURLD": "girdle",
-    "AOEULD": "idle", // overrides "island" [1]
+    "AOEULD": "idle", // use AOEUFLD for "island" (with -F for "s")
     "AO*EULD": "idle",
-    "HRAEULD": "ladle", // overrides "Long Island" [2]
+    "HRAEULD": "ladle", // overrides "Long Island" [1]
     "HRA*EULD": "ladle",
     "TPHAOLD": "noodle",
     "TPHAO*LD": "noodle", // already works
     "SAOEULD": "sidle",
     "SAO*EULD": "sidle",
-    /*1*/ "AOEUPBLD": "island", // use SKP*EUPL for "and I'm"
-          "AO*EUPBLD": "Island",
-    /*2*/ "HRAOEUPBLD": "Long Island",
+    /*1*/ "HRAOEUFLD": "Long Island",
+          "HROPBG/AOEUFLD": "Long Island",
 
     "K*URLD": "curdle",    // KURLD is "curled"
     "WHAO*ELD": "wheedle", // WHAOELD is "wheeled"
