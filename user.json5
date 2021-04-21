@@ -148,6 +148,8 @@
     "OPB/WARD": "onward",       // with PWABG/WARD "backward"
     "ORPB": "origin",           // with ORPBL "original"
     "P-FGS": "perfection",      // with P-F "perfect"
+    "PERP/TWAL": "perpetual",   // with PERP/TWAEUT "perpetuate"
+    "PERP/TWAEL": "perpetually",
     "PROEUFD": "processed",     // with PROEUS "process", PROEUFG "processing"
     "RAELT": "reality",         // with RAEL "real"; use RELT for "relate"
     "R*URPB": "runner",         // with R*UPBG "running"
