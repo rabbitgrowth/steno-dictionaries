@@ -159,9 +159,9 @@
     "SEURPB": "sinner",         // with TKEURPB "dinner", WEURPB "winner"
     "SOPL": "so many",          // with SO "so", SOFP "so much"; use SPH for "some"
     "SPWOLG": "symbolic",       // with SPWOL "symbol"
-                                //   cf. KHOL "alcohol" and KHOLG "alcoholic";
-                                //   SPWOLG could also be "ontology" with SPW-
-                                //   for ont-, but "symbolic" is much more common
+                                //   cf. KHOL "alcohol", KHOLG "alcoholic"
+                                //   SPWOLG could also be "ontology" with SPW- as ont-,
+                                //   but "symbolic" is much more common
     "TREUGS": "transmission",   // with TREUT "transmit"; use TRAPBGS for "transition"
     "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
     "UFT": "unfortunate",       // with UFL "unfortunately"
