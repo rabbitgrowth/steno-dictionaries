@@ -4240,6 +4240,7 @@
     "SWAOET/H-F": "suite",          // from "sweet"
     "THROEPB/H-F": "throne",        // from "thrown"
     "TAOEUD/H-F": "tied",           // from "tide"
+    "SRAEUPB/H-F": "vain",          // from "vein"
 
     // Forgetting to use -Z instead of -S
     "AFBGS/H-F": "affects",         // from "affection"
