@@ -708,8 +708,8 @@
     // -- Affixes --------------------------------------------------------------
 
     // Prefixes
-    "SPWEU": "{anti^}",       // give up "is by" (grudgingly)
-    "SPWEUBT": "antibiotic",  // cf. the standard AEBT
+    "SPWEU": "{anti^}",      // give up "is by" (grudgingly)
+    "SPWEUBT": "antibiotic", // cf. the standard AEBT
     "SPWEUBD": "antibody",
     "SPWEUTD": "antidote",
     "EBGS": "{ex-^}", // with hyphen
