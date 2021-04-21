@@ -3776,6 +3776,21 @@
     "STKPWREPLT": "disagreement",
     /*1*/ "TKPWR*EG": "Greg", // give up "Gregg"
 
+    // "comprehend" family
+    // cf. SREUGS       "vision"
+    //     SREUBL       "visible"
+    //     SREUS/PWHREU "visibly"
+    //     SREUBLT      "visibility"
+    "KPREPBD": "comprehend",     // already works
+    "KPREPBGS": "comprehension", // already works
+    "KPRERPBD": "comprehender",
+    "KPREBL": "comprehensible",
+    "KPREPBS/PWHREU": "comprehensibly",
+    "KPREBLT": "comprehensibility",
+    "KPREF": "comprehensive", // use KPEF for "competitive"
+    "KPREFL": "comprehensively",
+    "KPREFPBS": "comprehensiveness",
+
     // "critic" family
     "KREUBG": "critic",   // overrides "crick" [1]
     "KREUBGS": "critics", // use KREUFBGS for "characteristics"
