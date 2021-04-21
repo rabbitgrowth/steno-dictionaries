@@ -713,6 +713,7 @@
     "SPWEUBD": "antibody",
     "SPWEUTD": "antidote",
     "EBGS": "{ex-^}", // with hyphen
+    "SAOEUFPL": "{seismo^}", // "seismograph", "seismogram", etc.
 
     // Suffixes
     // Define the most common words ("worldwide", "countrywide")
