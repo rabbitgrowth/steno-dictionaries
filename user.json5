@@ -3552,6 +3552,7 @@
     "HO*ELT": "Hotel",
     "TAOU": "in order to", // a stronger "to"
     "HRAO*EULG": "lilac",  // *LG for "lk" with a vowel in the middle
+    "O/ER": "o'er",        // separate into two strokes since OER is "other"
     "KW-T": "quiet",       // KWAOEUT ("quite") is too loud
     "KW-LT": "quietly",
     "TUPLT": "tumult",     // TU+PL+L+T
