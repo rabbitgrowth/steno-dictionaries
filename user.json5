@@ -628,7 +628,7 @@
 
     // -- Orthographic ---------------------------------------------------------
 
-    // Use AE for -ea- as an orthographic alternative
+    // Use AE for "ea" as an orthographic alternative
     // Precedents: KRAOET, KRAET "create"; SPAOEBG, SPAEBG "speak"
     "PWRAEFT": "breast",
     "KHAET": "cheat",
