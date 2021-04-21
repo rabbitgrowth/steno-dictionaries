@@ -339,17 +339,10 @@
     "TKOR": "door",
     "TPHROR": "floor",
     "TPRE": "free",
-    "TKPWREPB": "green", // like PWHRU "blue" (colours of Earth)
-    "TKPWREPB/HOUS": "greenhouse",
     "HUPBLG": "huge",
     "KEP": "keep",
     "PHEUPBD": "mind",
     "PUR": "pure", // overrides "purchaser" [2]
-    "SHREP": "sleep",
-    "SHRAEP": "asleep",
-    "STRET": "street",
-    "STR*ET": "{*-|}Street",
-    "WAUL/STRET": "Wall Street",
     "SWER": "swear",
     "THOT": "thought",
     "TRE": "tree", // TRES rightfully belongs to "tress", so I'd have to use
@@ -361,6 +354,16 @@
     /*1*/ "PWHREUPB/TKA": "Belinda",   // cf. SPHREPB/TKA "Splenda"
           "PWHREUPBD/KWRA": "Belinda", //     SPHREPBD/KWRA
     /*2*/ "PR-FRP": "purchaser",       // from PR-FP "purchase"
+
+    "TKPWREPB": "green", // like PWHRU "blue" (colours of Earth)
+    "TKPWREPB/HOUS": "greenhouse",
+
+    "SHREP": "sleep",
+    "SHRAEP": "asleep",
+
+    "STRET": "street",
+    "STR*ET": "{*-|}Street",
+    "WAUL/STRET": "Wall Street",
 
     // -- Sound squeezing ------------------------------------------------------
 
