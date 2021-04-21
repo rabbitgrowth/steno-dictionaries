@@ -117,6 +117,7 @@
                                 //                          KPEPBT "competent"
                                 //                          KPEGS  "competition"
     "KP*EFL": "excessively",
+    "KP*EFPBS": "excessiveness",
     "KPEPL": "exemplify",       // with KP-PL "example"
     "KP-PGS": "expectation",    // with KP-PT "expect"
     "KPR*ES": "express",        // with KPR*EGS "expression"
