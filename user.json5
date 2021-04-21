@@ -355,7 +355,7 @@
           "PWHREUPBD/KWRA": "Belinda", //     SPHREPBD/KWRA
     /*2*/ "PR-FRP": "purchaser",       // from PR-FP "purchase"
 
-    "TKPWREPB": "green", // like PWHRU "blue" (colours of Earth)
+    "TKPWREPB": "green", // like PWHRU "blue" ("our blu and gren planet")
     "TKPWREPB/HOUS": "greenhouse",
 
     "SHREP": "sleep",
