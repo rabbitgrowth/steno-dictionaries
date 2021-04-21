@@ -13,9 +13,10 @@
     "KP-LT": "exactly",
     "-FD": "find",
     "T-FD": "find it",
-    "TP-D": "friend", // give up "pharmacodynamic"
-    "TP-DZ": "friends",
-    "TP-LD": "friendly",
+    "TP-D": "found", // give up "pharmacodynamic"
+    "TPR-D": "friend", // misstroke for "interested"
+    "TPR-DZ": "friends",
+    "TPR-LD": "friendly",
     "SKWR-PL": "gentleman",
     "SKWR-PLS": "gentlemen",
     "SKWR-PL/-S": "gentlemen",
@@ -3181,7 +3182,7 @@
     //    so SKAOEGD gives the nonsensical "skiinged" instead.
     // 3) -F is used instead of -S, and as one might reasonably expect,
     //    the system isn't smart enough to figure that out.
-    /*1*/ "RA*EUPLD": "Raymond",
+    /*1*/ "RAEUFRPBD": "Raymond", // with -FR as -m
     /*2*/ "TR*EUG": "trig",
 
     // -G as shortcut for -BG/-G
@@ -4162,7 +4163,6 @@
     "ORPBG/H-F": "organ",           // from "orange"
     "OERPB/H-F": "other than",      // from "owner"
     "PEUG/H-F": "picking",          // from "pig"
-    "RAEUPLD/H-F": "Raymond",       // from "remained" (custom)
     "WRAOU/H-F": "review",          // from "withdrew"
     "RAOEURD/H-F": "rider",         // from "required"
     "REUPL/H-F": "ripple",          // from "rim"
