@@ -600,6 +600,7 @@
     // Precedents: PHOEUT "mighty", SPHOEUL "smelly", ROEUFBG "risky"
     "PWHROEUD": "bloody", // use KPWHROEUD (custom) for "employed",
                           // which makes this misstroke unnecessary
+    "PHOEURS": "mercy",   // give up "MRSA"
     "POEUT": "pity",      // give up "PO2"
 
     // -- Drop final schwa -----------------------------------------------------
