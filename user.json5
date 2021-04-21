@@ -640,7 +640,6 @@
     "AEFP": "each",
     "TKPWHRAEPL": "gleam",
     "HRAEP": "leap",
-    "HRAEFT": "least", // cf. THRAES "at least"
     "TPHAET": "neat",
     "RAEFP": "reach",
     "SKRAEPL": "scream",
@@ -648,6 +647,11 @@
     "SWAET": "sweat", // use SWAT for "swat"
     "TAEFP": "teach",
     "SA*EL": "zeal",  // use SAOEL for "seal"
+
+    "HRAEFT": "least",     // cf. THRAES "at least"
+    "THRAEFT": "at least", // overrides "thrifty"; frees up THRAES for "Tesla"
+    "THROEUFT": "thrifty", // use OEU for -y
+    "THRAES": "Tesla",     // "tlaes"
 
     // Miscellaneous
     "PHOUS/TAFP": "moustache", // "moustach"
