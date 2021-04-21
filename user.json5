@@ -158,6 +158,7 @@
                                 //   SPWOLG could also be "ontology" with SPW-
                                 //   for ont-, but "symbolic" is much more common
     "TREUGS": "transmission",   // with TREUT "transmit"; use TRAPBGS for "transition"
+    "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
     "UFT": "unfortunate",       // with UFL "unfortunately"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
