@@ -3516,6 +3516,12 @@
     "PAOU/TREFPBS": "putrescence",
     "PAOUT/REFPBS": "putrescence",
 
+    "SPAPBLG": "spangle",
+    "SPAPBG/-L": "spangle",
+    "SPAPBG/-LD": "spangled",
+    "SPAPBG/-LS": "spangles",
+    "SPAPBG/-LG": "spangling",
+
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
     "KRAOEURS": "coronavirus", // "crirus"
