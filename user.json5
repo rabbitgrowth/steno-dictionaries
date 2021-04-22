@@ -3855,12 +3855,11 @@
     // "subject" and "object"
     "SUFBT": "subjective", // SUBT "subject" + -F
     "OFBT": "objective",   // OBT  "object"  + -F
-    // SUBT/EUFT "subjectivity" is nice;
-    // make that work for "objectivity" too.
-    "OBT/EUFT": "objectivity", // "objectist" is very rare
-    // SUFBT/-TEU ("subjective" + {^ity})
-    // OFBT/-TEU  ("objective"  + {^ity})
-    // work too thanks to Plover's orthography rules.
+    "SUB/TEUFT": "subjectivity", // cf. OB/TEUFT  "objectivity"
+    "OBT/EUFT": "objectivity",   // cf. SUBT/EUFT "subjectivity"
+                                 // "objectist" is very rare
+    // or use SUFBT/-TEU ("subjective" + {^ity})
+    //        OFBT/-TEU  ("objective"  + {^ity})
 
     // "synonym" family
     "STPHEUPL": "synonym",
