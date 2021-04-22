@@ -3812,9 +3812,7 @@
     /*2*/ "KR*EUL": "krill",
 
     // "dismiss" family
-    "TKPHEUS": "dismiss", // DIS/MIS -> DMIS (IS shared by D and M)
-                          // inspired by the standard TKPHEUFD "dismissed"
-                          // (maybe it's a misstroke though?)
+    "TKPHEUS": "dismiss", // dis/mis -> dmis; cf. TKPHEUFD "dismissed"
     "TKPHEUFG": "dismissing",
     "TKPHEUFL": "dismissal",
     "TKPHEUFS": "dismissive",
