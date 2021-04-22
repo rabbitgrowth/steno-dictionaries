@@ -3774,7 +3774,7 @@
 
     // -- Word families --------------------------------------------------------
 
-    // "agressive" family
+    // "aggressive" family
     "TKPWREF": "aggressive", // use TKPWRAO*EF for "grieve" (TKPWRAOEF "grief" + *)
     "TKPWREGS": "aggression",
     "TKPWREFR": "aggressor",
