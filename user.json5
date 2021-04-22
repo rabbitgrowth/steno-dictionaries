@@ -3837,6 +3837,12 @@
     "EBGS/TROEFRT": "extrovert", // cf. SPWROEFRT "introvert"
     "KPROEFRT": "extrovert",
 
+    // "philosophy" family
+    "TPHROF": "philosophy",    // or use TPHROS/TPEU
+    "TPHROFR": "philosopher",  // or use TPHROS/TPER
+    "TPHROFL": "philosophical",
+    "TPHROFZ": "philosophize", // or use TPHROS/TPAOEUZ
+
     // "simple" family
     "SEUFRP": "simple",  // already works
     "SEUFRPL": "simply", // use SEUFRP for "simple"
