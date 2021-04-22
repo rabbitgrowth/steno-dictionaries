@@ -3824,13 +3824,13 @@
     //   TPORGTD "forgotten"
     // The O-AU distinction feels arbitrary, and TPORGTD is too tricky
     // to hit for such a common word. A better trio might be
-    "TPERGT": "forget",    // "FRGET" (already works)
-    "TPORGT": "forgot",    // "FRGOT"
-    "TPORGD": "forgotten", // drop -T, like A/TKEUBGD "addicted"
-                           // not to be confused with TPAURGD "forgiven"
+    "TPERGT": "forget",    // "frget" (already works)
+    "TPORGT": "forgot",    // "frgot"
+    "TPORGD": "forgotten", // - drop -T, like A/TKEUBGD "addicted"
+                           // - not to be confused with TPAURGD "forgiven"
     // TPERGT and TPORGT are nicely symmetrical, but TPERGT on its own
     // might feel a little weird. So allow dropping the E:
-    "TP-RGT": "forget",    // TP-R "for" + -GT "get" (stacking form)
+    "TP-RGT": "forget", // TP-R "for" + -GT "get" (stacking form)
 
     // "introvert" and "extrovert"
     "SPWROE/SRERT": "introvert", // cf. EBGS/TROE/SRERT "extrovert"
