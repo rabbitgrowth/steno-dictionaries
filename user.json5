@@ -2,6 +2,7 @@
 
     // -- Skeletal briefs ------------------------------------------------------
 
+    "PW-RT": "better", // PWERT is "Bert" and PW*ERT is "berth"
     "TW": "between",
     "TWA": "between a",
     "TW-T": "between the",
@@ -315,8 +316,6 @@
     // -- Vowels ---------------------------------------------------------------
 
     // Don't alter vowel
-    "PW-RT": "better", // PWERT is "Bert" and PW*ERT is "berth",
-                       // so just drop the vowel
     "KAERT": "carrot", // AE for /æ/ since KART is "cart"
                        // just fingerspell "CART"
     "TKEUFLT": "difficulty", // TKEUFL "difficult" + -T
