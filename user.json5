@@ -1041,9 +1041,6 @@
     // "intern" is a word; "indern" is not.
     // Of course there are exceptions: "intent", "indent".
     "SPWET": "indebt",
-    "SPWAOEPBT": "indecent",  // cf. TKAOEPBT "decent"
-    "SPWAOEFPBT": "indecent", // phonetic
-    "TKAOEFPBT": "decent",
     "SPWAOED": "indeed", // beats TPHAOEPBD imo
     "SPW*EPBT": "indent", // starless is "intent" (default to int-)
     "SPWEBGS": "index", // beats TKEUPBGS imo
@@ -3806,6 +3803,12 @@
     "KRAOEUZ": "criticize",
     /*1*/ "KR*EUBG": "crick", // use KREUFBG for "characteristic"
     /*2*/ "KR*EUL": "krill",
+
+    // "decent" family
+    "TKAOEFPBT": "decent",
+    "TKAOEFPBS": "decency",
+    "SPWAOEFPBT": "indecent",
+    "SPWAOEFPBS": "indecency",
 
     // "dismiss" family
     "TKPHEUS": "dismiss", // dis/mis -> dmis; cf. TKPHEUFD "dismissed"
