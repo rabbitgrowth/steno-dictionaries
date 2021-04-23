@@ -179,8 +179,7 @@
 
     // -- Phonetic -------------------------------------------------------------
 
-    "ARBG/SEU": "accuracy", // alternative to ABG/RAES or ABG/SEU,
-                            // which feels like it's missing an -R
+    "ARBG/SEU": "accuracy", // alternative to ABG/RAES and ABG/SEU
     "APBLG/TEUF": "adjective",
     "APBLG/TAOEUFL": "adjectival",
     "A*PLS": "Alps", // starless is "apples"
