@@ -316,20 +316,18 @@
     // -- Vowels ---------------------------------------------------------------
 
     // Don't alter vowel
-    "KAERT": "carrot", // AE for /æ/ since KART is "cart"
-                       // just fingerspell "CART"
-    "TKEUFLT": "difficulty", // TKEUFL "difficult" + -T
-    "HEF": "heavy", // HEFL "heavily" - -L
-                    // it's also nice that HEF + -T = "heft"
-    "HEFR": "heavier", // overrides "heifer" [1]
+    "KAERT": "carrot",        // - AE for /æ/ since KART is "cart"
+                              // - just fingerspell "CART"
+    "TKEUFLT": "difficulty",  // TKEUFL "difficult" + -T
+    "HEF": "heavy",           // cf. HEFL "heavily"; give up "Hef"
+    "HEFR": "heavier",        // overrides "heifer" [1]
     "PHERPL": "memory",
-    "PHORLT": "mortal", // use PHRALT for "morality" /məˈralɪti/
-                        // PHORLT feels more like /ˈmɒrəlti/
+    "PHORLT": "mortal",       // use PHRALT for "morality"
     "PHOEFGS": "motivation",
-    "PARPLT": "parliament", // use ARPLT for "apartment"
+    "PARPLT": "parliament",   // use ARPLT for "apartment"
     "POERT": "poetry",
     "THAOER": "theory",
-    "THAOERS": "theories", // overrides "these are" [2]
+    "THAOERS": "theories",    // overrides "these are" [2]
     "THAOEFRT": "theorist",
     "THAOERL": "theoretical", // cf. the standard THOEURL
     /*1*/ "H*EFR": "heifer",
