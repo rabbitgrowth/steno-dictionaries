@@ -3669,11 +3669,6 @@
     "AO/AO": "oooh",
     "AO/AO/AO": "ooooh",
 
-    // Affirmation
-    "KWRE": "yeah", // by default "yes"
-    "KWRES": "yes", // by default "yes, sir"
-    "KWREFS": "yes{,}sir", // "yess"
-
     // Existence
     // It's tempting to capitalize on the fact that THR and TH-R both give
     // "there" to do tricks like
@@ -3973,16 +3968,33 @@
     /*1*/ "TOD": "today",          // give up {^ed to}
           "AOUS/TOD": "use today", // by default "used to"
 
-    // "masses" chain reaction
-    "PHASZ": "masses",   // by default misstroke (?) for "mass"
-    "PHAFS": "massive",  // by default "masses"
-    "PHEUFS": "missive", // by default "massive"
+    // -- Group reassignments --------------------------------------------------
 
-    // "peril" chain reaction
-    "PERL": "peril",      // overrides "pearl"
-    "PAERL": "pearl",     // overrides "parole"
-    "PROEL": "parole",    // overrides "proposal"
+    // PHAS   "mass"
+    // PHASZ  "mass"    -> "masses"
+    // PHAFS  "masses"  -> "massive"
+    // PHEUFS "massive" -> "missive"
+    "PHASZ": "masses",
+    "PHAFS": "massive",
+    "PHEUFS": "missive",
+
+    // PERL   "pearl"     -> "peril"
+    // PAERL  "parole"    -> "pearl"
+    // PROEL  "proposal"  -> "parole"
+    // PROELS "proposals" -> "proposal"
+    //                       "proposals" PROELS/-S
+    "PERL": "peril",
+    "PAERL": "pearl",
+    "PROEL": "parole",
     "PROELS": "proposal", // PROEFL is "profile"
+
+    // KWRE  "yes"      -> "yeah"
+    // KWR*E "yeah"     -> "ye" (new)
+    // KWRES "yes, sir" -> "yes"
+    //                     "yes sir" KWRES/SEUR
+    "KWRE": "yeah",
+    "KWR*E": "ye",
+    "KWRES": "yes",
 
     // -- Topics ---------------------------------------------------------------
 
