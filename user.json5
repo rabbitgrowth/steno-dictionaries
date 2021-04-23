@@ -45,7 +45,7 @@
     "SHR-LG": "is likely",
     "HRAOLG": "likelihood", // HR-LG + "oo"
     "P-FP": "picture", // misstroke for {.}
-    "P-T": "point",    // use P-P for {^.^}
+    "P-T": "point", // use P-P for {^.^}
     "PR-B": "problem",
     "-RT": "right", // use R-T for "are the"; frees up RAOEUT for "riot" [4]
     "T-G": "thing",
