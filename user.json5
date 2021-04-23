@@ -4206,6 +4206,7 @@
     "HARBG/H-F": "hacker",          // from "hark"
     "HARBGS/H-F": "hackers",
     "HOEPLS/H-F": "hopeless",       // from "homes"
+    "HRAOERD/H-F": "leered",        // from "leader"
     "HRAOEUS/H-F": "lies",          // from "lice" ("lies" requires *, not -Z)
     "HREUFT/H-F": "list",           // from "lift"
     "HREUFTS/H-F": "lists",
