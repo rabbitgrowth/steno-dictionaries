@@ -11,6 +11,8 @@
     "TK-FT": "different",
     "KP-T": "exact",
     "KP-LT": "exactly",
+    "KP-PB": "explain",       // use KP    for "examine"
+    "KP-PBGS": "explanation", // use KP-GS for "examination"
     "-FD": "find",
     "T-FD": "find it",
     "TP-D": "found", // give up "pharmacodynamic"
@@ -1265,7 +1267,8 @@
     "SKPERT": "expert",
     "SKPERT/AOES": "expertise",
     "SKPAOEUR": "expire",
-    "SKPHRAEUPB": "explain",
+    "SKPHRAEUPB": "explain",     // or use KP-PB   (custom)
+    "SKPHRAPBGS": "explanation", // or use KP-PBGS (custom)
     "SKPHREUFT": "explicit",
     "SKPHROED": "explode",
     "SKPHROETD": "exploded",
