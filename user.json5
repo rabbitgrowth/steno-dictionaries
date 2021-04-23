@@ -193,8 +193,7 @@
     "PWHRAOEUD": "belied", // otherwise "belieed"
     "PWHREUPBG/WAL": "bilingual",
     "PWHREUPBLG": "bilingual", // PWHREUPBL + -G; "blingle"
-    "PWEUS/TROE": "bistro", // /ˈbɪstrəʊ/
-                            // /ˈbiːs-/ already works: PWAOES/TROE
+    "PWEUS/TROE": "bistro", // /ˈbɪstrəʊ/; /ˈbiːs-/ already works: PWAOES/TROE
     "KHRERPBD": "calendar",
     "KAUFT": "caste",
     "KHEUBG/EPB": "chicken",
