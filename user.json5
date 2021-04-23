@@ -2938,7 +2938,9 @@
     "STHAOEBGD": "so that he could",
 
     // "... about"
-    // Use -B as a sort of mirror image of B for "about".
+    // Instead of -BT, use -B, which
+    // 1) can be thought of as a mirror image of B (PW) for "about";
+    // 2) leaves room for -T for "the".
     "AUB": "all about", // use SAUB for {sub^}
     "AUBT": "all about the",
     "KAEURB": "care about",
