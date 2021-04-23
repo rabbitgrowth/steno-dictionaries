@@ -47,7 +47,9 @@
     "P-FP": "picture", // misstroke for {.}
     "P-T": "point", // use P-P for {^.^}
     "PR-B": "problem",
-    "-RT": "right", // use R-T for "are the"; frees up RAOEUT for "riot" [4]
+    "-RT": "right", // - physically stroked with the right hand
+                    // - use R-T for "are the"
+                    // - frees up RAOEUT for "riot" [4]
     "T-G": "thing",
     /*1*/ "TKPW*PS": "GPS", // just write out "global positioning system"
     /*2*/ "K-FS": "confidence", // cf. K-FT "confident",
