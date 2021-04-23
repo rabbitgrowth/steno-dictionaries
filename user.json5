@@ -527,14 +527,6 @@
     "TAEUFR/-D": "took care of",
     "TAEUFR/-G": "taking care of",
 
-    "TAUBT": "talk about", // alternative to TPWAUBG
-    "TAUBTS": "talks about",
-    "TAUBTD": "talked about",
-    "TAUBGT": "talking about",
-    "TAUBT/-S": "talks about",
-    "TAUBT/-D": "talked about",
-    "TAUBT/-G": "talking about",
-
     // -isms and -ists
     "KPHAOUFPL": "communism",
     "KPHAO*UFPL": "Communism",
@@ -2921,10 +2913,6 @@
     "KH-BZ": "which has been",
     "KH-BD": "which had been",
 
-    // "all ..."
-    "AUBT": "all about",
-    "AURT": "all right",
-
     // "as ... as"
     // The most common ones already work beautifully:
     // AS WELL AS  155949  SW-LS / SW*ELS  (SWELS)
@@ -2949,9 +2937,27 @@
     "STHAOEBG": "so that he can",
     "STHAOEBGD": "so that he could",
 
+    // "... about"
+    // Use -B as a sort of mirror image of B for "about".
+    "AUB": "all about", // use SAUB for {sub^}
+    "AUBT": "all about the",
+    "KAEURB": "care about",
+    "KAEURBT": "care about the",
+    "HOUB": "how about",      // already works
+    "HOUBT": "how about the", // by default "how about"
+    "TAUB": "talk about",
+    "TAUBT": "talk about the",
+    "THEUB": "think about",
+    "THEUBT": "think about the", // by default "think about"
+    "TOUB": "to you about",
+    "TOUBT": "to you about the",
+    "WHAB": "what about",
+    "WHABT": "what about the", // by default "what about"
+
     // Miscellaneous phrases
     "PWHOU": "about how",
     "PWU": "about you", // use PWUT for "but"
+    "AURT": "all right",
     "TPHEUFT": "any of the", // use EUFT for {^ist}
     "TPAS": "as if",
     "SKHEUPL": "ask him",
