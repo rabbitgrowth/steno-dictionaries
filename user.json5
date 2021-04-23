@@ -788,8 +788,7 @@
     "TKRAES": "address", // use R-DZ for "readies"
     "TKRAEFD": "addressed",
     "TKRAEFG": "addressing",
-    "TPAEBGS": "affection", // misstroke for "peaks"
-                            // alternative to AFBGS
+    "TPAEBGS": "affection", // alternative to AFBGS
     "TPHRAEUBGT": "afflict",
     "TPHRAEUBGS": "affliction", // use -Z for "flakes"
     "HAED": "ahead",
