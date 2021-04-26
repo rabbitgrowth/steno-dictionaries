@@ -3535,13 +3535,13 @@
     "ART/SEU/TPART/SEU": "artsy-fartsy",
     "TKO*PB": "don", // starless is "done"; prepend KPA* for "Don"
     "TKO*U": "Dow", // starless is "do you"
-    "AOEF": "eve",  // overrides "Eve"
-    "AO*EF": "Eve", // use A*EF for "eave"
+    "AOEF": "eve",  // overrides "Eve" [1]
     "HRAO*EUT": "lithe", // give up "lite"
     "TPRAEUFL": "phrasal",
     "TRAORP": "trooper",
     "WAOERG": "Uighur", // use W*R for "we're"
     "SR*EUZ": "viz.", // starless is "advise"
+    /*1*/ "AO*EF": "Eve", // use A*EF for "eave"
 
     "PAOU/TREFPBT": "putrescent", // cf. PAOU/TREUD "putrid"
     "PAOUT/REFPBT": "putrescent", // cf. PAOUT/REUD "putrid"
