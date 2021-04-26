@@ -3574,6 +3574,12 @@
     "SPAPBG/-LS": "spangles",
     "SPAPBG/-LG": "spangling",
 
+    "HUFRP/TEU": "Humpty",
+    "TKUFRP/TEU": "Dumpty",
+    "HUFRPT": "Humpty",
+    "TKUFRPT": "Dumpty",
+    "TKHUFRPT": "Humpty Dumpty",
+
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
     "KRAOEURS": "coronavirus", // "crirus"
