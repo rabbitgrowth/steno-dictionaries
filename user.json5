@@ -8,6 +8,9 @@
     "TW-T": "between the",
     "PW-RD": "birthday",
     "PW*T": "both",
+    "PW-L": "build",   // cf. PW-LG "building"
+    "PW-LS": "builds", // use PWOEUPBS for "billions"
+    "PW-LT": "built",  // give up "brake light"
     "TK-FS": "difference",
     "TK-FT": "different",
     "KP-T": "exact",
@@ -96,7 +99,6 @@
     "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
     "SW-L": "as well",          // with SW-LS "as well as"
     "PW-D": "beside",           // with PW-DZ "besides"; give up "pwd"
-    "PW-L": "build",            // with PW-LG "building"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
     "KPHREGS": "completion",
