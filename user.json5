@@ -1661,7 +1661,7 @@
     "ERT/WORPLS": "earthworms",
     "TKPWROET": "growth",
     "HELT": "health",
-    "HAOELT": "healthy", // lengthen vowel for -y
+    "HOEULT": "healthy", // use OEU for -y; HOEUFLT (?) - -F
     "PHOUT": "mouth",
     "REUPLT": "rhythm",
     "SPHAOT": "smooth",
