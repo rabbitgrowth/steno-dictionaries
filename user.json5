@@ -642,8 +642,9 @@
 
     // Miscellaneous
     "PHOUS/TAFP": "moustache", // "moustach"
-    "ROUFL": "roughly",        // "roufl"; RUFL is "ruffle"
+    "ROUFL": "roughly",        // vs RUFL "ruffle"
     "SKREPB": "scene",         // "scen"
+    "TOURPLT": "tournament",   // vs TORPLT "torment"
 
     // -- Joining and splitting ------------------------------------------------
 
