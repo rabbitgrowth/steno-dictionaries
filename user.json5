@@ -419,8 +419,6 @@
     "PREFT": "protest", // give up "previous to"
     "PREFRT": "protester",
     "PURPT": "purport", // cf. AEURPT "airport"
-    "TPHRET": "reflect", // misstroke for "net"
-    "TPHREGS": "reflection",
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "ROPLS": "romance",
     "ROPLT": "romantic", // can be thought of as autocompleting ROPLT/EUBG
@@ -3860,6 +3858,11 @@
     "TPHROFR": "philosopher",  // or use TPHROS/TPER
     "TPHROFL": "philosophical",
     "TPHROFZ": "philosophize", // or use TPHROS/TPAOEUZ
+
+    // "reflect" family
+    "TPHRET": "reflect", // misstroke for "net"
+    "TPHREGS": "reflection",
+    "TPHREF": "reflective",
 
     // "simple" family
     "SEUFRP": "simple",  // already works
