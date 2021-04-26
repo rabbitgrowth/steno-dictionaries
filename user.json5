@@ -369,10 +369,11 @@
                    // with the "EZ for -eeze" pattern:
                    // TPRE  "free"    TRE  "tree"
                    // TPREZ "freeze"  TREZ "trees"
-    "WEBG": "week", // use WEB/-G for "webbing"
+    "WEBG": "week", // use WEB/-G for "webbing" [3]
     /*1*/ "PWHREUPB/TKA": "Belinda",   // cf. SPHREPB/TKA "Splenda"
           "PWHREUPBD/KWRA": "Belinda", //     SPHREPBD/KWRA
     /*2*/ "PR-FRP": "purchaser",       // from PR-FP "purchase"
+    /*3*/ "WEBG/H-F": "webbing",
 
     "TKPWREPB": "green", // like PWHRU "blue" ("our blu and gren planet")
     "TKPWREPB/HOUS": "greenhouse",
@@ -3228,7 +3229,7 @@
     // Precedents: PHAEUG "making", HRAOG "looking"
     "AEUG": "aching",
     "A/TAG": "attacking",
-    "PWAEUG": "baking", // come back for -G for "baying"
+    "PWAEUG": "baking", // come back for -G for "baying" [1]
                         // ("a jackal baying at the moon")
                         // BAKING  16613
                         // BAYING    242
@@ -3243,13 +3244,15 @@
     "PHOG": "mocking",
     "PAG": "packing",
     "PRO/SROEG": "provoking",
-    "RAEUG": "raking", // come back for -G for "raying"
+    "RAEUG": "raking", // come back for -G for "raying" [2]
                        // RAKING  1302
                        // RAYING     7 (basically a non-word)
     "ROG": "rocking",
     "SHOG": "shocking",
     "SHRAO*EG": "shrieking",
     "WORG": "working", // alternative to WOG
+    /*1*/ "PWAEUG/H-F": "baying",
+    /*2*/ "RAEUG/H-F": "raying",
 
     "TPOEUG": "focusing", // FOIK "focus" -> FOIKING "focusing"
 
@@ -3301,6 +3304,7 @@
     "WAOEFRT": "weirdest",
     "WAOEUFT": "wisest",
     /*1*/ "HAO*EUFT": "heist",
+          "HAOEUFT/H-F": "heist",
 
     // Irregular forms
     "URPBTD": "understood",
@@ -3816,6 +3820,7 @@
     "STKPWRE": "disagree",
     "STKPWREPLT": "disagreement",
     /*1*/ "TKPWR*EG": "Greg", // give up "Gregg"
+          "TKPWREG/H-F": "Greg",
 
     // "comprehend" family
     // cf. SREUGS       "vision"
@@ -3833,13 +3838,16 @@
     "KPREFPBS": "comprehensiveness",
 
     // "critic" family
-    "KREUBG": "critic",   // overrides "crick" [1]
-    "KREUBGS": "critics", // use KREUFBGS for "characteristics"
-    "KREUL": "critical",  // overrides "krill" [2]
-    "KREUFPL": "criticism",
+    "KREUBG": "critic",     // overrides "crick" [1]
+    "KREUBGS": "critics",   // use KREUFBGS for "characteristics"
+    "KREUL": "critical",    // overrides "krill" [2]
+    "KREUFPL": "criticism", // come back for -L for "crisply" [3]
     "KRAOEUZ": "criticize",
-    /*1*/ "KR*EUBG": "crick", // use KREUFBG for "characteristic"
+    /*1*/ "KR*EUBG": "crick",   // use KREUFBG for "characteristic"
+          "KREUBGD": "cricked", // "criticced" is not a word
+          "KREUBG/H-F": "crick",
     /*2*/ "KR*EUL": "krill",
+    /*3*/ "KREUFPL/H-F": "crisply",
 
     // "decent" family
     "TKAOEFPBT": "decent",
@@ -3973,9 +3981,10 @@
     // "logic" vs "magic"
     "SKWREUBG": "logic",   // overrides "magic"
     "SKWREULG": "logical", // "gical"
-    "PHABG": "magic",      // overrides "Mac"
+    "PHABG": "magic",      // overrides "Mac" [1]
     "PHALG": "magical",    // "macal"
-    "PHA*BG": "Mac",       // give up "MAC"
+    /*1*/ "PHA*BG": "Mac", // give up "MAC"
+          "PHABG/H-F": "Mac",
 
     // "race" vs "raise"
     // RAF  "rave"*   RAEUS  "race"    RAEUZ   "raise"
@@ -4155,8 +4164,12 @@
     // non-existent words. Fix this by swapping the base words:
     "STKERT": "desert",
     "STK*ERT": "dessert", // mnemonic: add * for an extra s
+    "STKERT/H-F": "dessert",
+    "STKERTS/H-F": "desserts",
     "TPHROUR": "flower",
     "TPHRO*UR":  "flour",
+    "TPHROUR/H-F": "flour",
+    "TPHROURS/H-F": "flours",
     // A nice side effect:
     "STKERGS": "desertion",       // which frees up ...
     "TKE/SERGS": "desegregation", // consistent with SERGS "segregation"
@@ -4246,19 +4259,15 @@
     "HROUS/H-F": "allows",          // from "louse"
     "PHAEUD/H-F": "amid",           // from "maid"
     "PWARPB/H-F": "banner",         // from "barn"
-    "PWAEUG/H-F": "baying",         // from "baking" (custom)
     "PWERT/H-F": "better",          // from "Bert"
     "PWHREFD/H-F": "blessed",       // from "believed"
     "PWUPBLG/H-F": "bundling",      // from "budge"
     "KAEUFG/H-F": "casing",         // from {^ication}
     "KOEP/H-F": "copy",             // from "cope"
-    "STKERT/H-F": "dessert",        // from "desert"
-    "STKERTS/H-F": "desserts",
     "TKOG/H-F": "doing",            // from "dog"
     "TPAEUTD/H-F": "faded",         // from "fated"
     "TPAEURL/H-F": "failure",       // from "fairly"
     "TPEUBGS/H-F": "fiction",       // from "fix"
-    "TKPWREG/H-F": "Greg",          // from "agreeing" (custom)
     "TKPWUPB/H-F": "gun",           // from "begun"
     "HARBG/H-F": "hacker",          // from "hark"
     "HARBGS/H-F": "hackers",
@@ -4267,7 +4276,6 @@
     "HRAOEUS/H-F": "lies",          // from "lice" ("lies" requires *, not -Z)
     "HREUFT/H-F": "list",           // from "lift"
     "HREUFTS/H-F": "lists",
-    "PHABG/H-F": "Mac",             // from "magic" (custom)
     "PHARPB/H-F": "manner",         // from "margin"
     "PHAEPB/H-F": "mean",           // from "many"
     "PHORPB/H-F": "more than",      // from "morn"
@@ -4295,7 +4303,6 @@
     "TOEFRT/H-F": "toaster",        // from "effort to"
     "TOEFRTS/H-F": "toasters",
     "TRUPBLG/H-F": "trundling",     // from "trudge"
-    "WEBG/H-F": "webbing",          // from "week" (custom)
 
     // Homophones or near-homophones
     "AD/H-F": "ad",                 // from "add"
@@ -4307,13 +4314,11 @@
     "SEL/H-F": "cell",              // from "sell"
     "SELS/H-F": "cells",
     "AOEUD/H-F": "eyed",            // from "I'd"
-    "TPHROUR/H-F": "flour",         // from "flower" (custom)
     "TKPWAEUT/H-F": "gate",         // from "gait"
     "HAUL/H-F": "haul",             // from "hall"
     "HAULD/H-F": "hauled",
     "HAULS/H-F": "hauls",
     "HAEU/H-F": "hay",              // from "hey"
-    "HAOEUFT/H-F": "heist",         // from "highest" (custom)
     "HAOEUR/H-F": "hire",           // from "higher"
     "HAOEURD/H-F": "hired",         // from {hydro^}
     "SKWREUPL/H-F": "Jim",          // from "gym"
@@ -4410,7 +4415,6 @@
 
     // When folding in -L for -ly doesn't work
     "PWALD/H-F": "badly",           // from "balanced"
-    "KREUFPL/H-F": "crisply",       // from "criticism" (custom)
     "TKAOEPL/H-F": "deeply",        // from "deem"
     "TPAOERLS/H-F": "fiercely",     // from "fearless"
     "TPAOEUPBL/H-F": "finely",      // from "final"
