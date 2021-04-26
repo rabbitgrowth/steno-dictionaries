@@ -3976,13 +3976,21 @@
     // PHEUFS "massive" -> "missive"
     "PHASZ": "masses",
     "PHAFS": "massive",
-    "PHEUFS": "missive",
+    "PHEUFS": "missive", // come back for -S for "miffs",
+                         // like all other inflections:
+                         // PHEUFS "missive"  PHEUF/-S "miffs"
+                         // PHEUFD "missed"   PHEUF/-D "miffed"
+                         // PHEUFG "missing"  PHEUF/-G "miffing"
+    "PHEUFS/H-F": "miffs",
+    "PHEUFD/H-F": "miffed",
+    "PHEUFG/H-F": "miffing",
 
-    // PERL   "pearl"     -> "peril"
-    // PAERL  "parole"    -> "pearl"
-    // PROEL  "proposal"  -> "parole"
-    // PROELS "proposals" -> "proposal"
-    //                       "proposals" PROELS/-S
+    // PER/EUL "peril"
+    // PERL    "pearl"     -> "peril"
+    // PAERL   "parole"    -> "pearl"
+    // PROEL   "proposal"  -> "parole"
+    // PROELS  "proposals" -> "proposal"
+    //                        "proposals" PROELS/-S
     "PERL": "peril",
     "PAERL": "pearl",
     "PROEL": "parole",
