@@ -2999,8 +2999,8 @@
     "TPHEUFT": "any of the", // use EUFT for {^ist}
     "TPAS": "as if",
     "SPOB": "as possible",
-    "SKHEUPL": "ask him",
     "SKHER": "ask her",
+    "SKHEUPL": "ask him",
     "TPE": "if he", // give up "fe", which is not a word
     "TPHEUS": "in this",
     "TPHURPB": "in turn", // instead of "turn in"; follow steno order
