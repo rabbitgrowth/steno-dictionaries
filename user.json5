@@ -1669,8 +1669,7 @@
     "TRU": "true",   // for consistency
     "TRUL": "truly",
     "UPBD/TPHAOET": "underneath",
-    "WELT": "wealth", // swap with "welt" [1]
-    "KPHOPB/WELT": "commonwealth",
+    "WELT": "wealth",  // swap with "welt" [1]
     "WORT": "worth",   // swap with "wort" [2]
     "WOERT": "worthy", // see also WO*ERT {^worthy}
     "TWORT": "worth it",
