@@ -99,7 +99,6 @@
     "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
     "SW-L": "as well",          // with SW-LS "as well as"
     "PW-D": "beside",           // with PW-DZ "besides"; give up "pwd"
-    "PWROE": "borrow",          // with SROE "sorrow"; use PWRO for "borough"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
     "KPHREGS": "completion",
@@ -175,6 +174,11 @@
     "UFT": "unfortunate",       // with UFL "unfortunately"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
+
+    "PWROE": "borrow",     // with SROE "sorrow"; use PWRO for "borough"
+    "PWROEG": "borrowing", // much nicer than PWO*ERPBG; overrides "brogue" [1]
+    /*1*/ "PWRO*EG": "brogue",
+          "PWROEG/H-F": "brogue",
 
     // Words with other words in them
     "ARG/KURLT": "agriculture", // or just use AG/KULT
