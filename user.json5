@@ -29,6 +29,7 @@
     "TKPW-D": "good",
     "TKPW-T": "great", // use TKPWET for "get" for symmetry with TKPWOT "got"
     "TKPW-RT": "greater",
+    "TKPW-LT": "greatly", // use TKPWOEULT (custom) for "guilty"
     "TKPW-P": "group",
     "TKPW-PS": "groups", // overrides "GPS" [1]
     "H-P": "hypothesis", // just fingerspell "HP"
@@ -608,9 +609,9 @@
     // Precedents: PHOEUT "mighty", SPHOEUL "smelly", ROEUFBG "risky"
     "PWHROEUD": "bloody",  // use KPWHROEUD (custom) for "employed",
                            // which makes this misstroke unnecessary
-    "TKPWOEULT": "guilty", // alternative to TKPW-LT
-    "PHOEURS": "mercy",    // give up "MRSA"
-    "POEUT": "pity",       // give up "PO2"
+    "TKPWOEULT": "guilty",
+    "PHOEURS": "mercy", // give up "MRSA"
+    "POEUT": "pity",    // give up "PO2"
     "SPHOEUBG": "smoky",
 
     // -- Drop final schwa -----------------------------------------------------
