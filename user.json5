@@ -179,6 +179,13 @@
     "PWROEG": "borrowing", // much nicer than PWO*ERPBG; overrides "brogue" [1]
     /*1*/ "PWRO*EG": "brogue",
           "PWROEG/H-F": "brogue",
+    // SROE  "sorrow" -- PWROE   "borrow"
+    // SROEG "vogue"     PWROEG  "borrowing"
+    //                   PWRO*EG "brogue"
+    //                   PWROES  "borrows"
+    //                   PWROED  "borrowed"
+    //                   PWROER  "brother"  -- PHOER "mother"
+    //                   PWRO*ER "borrower"    TPAER "father"
 
     // Words with other words in them
     "ARG/KURLT": "agriculture", // or just use AG/KULT
