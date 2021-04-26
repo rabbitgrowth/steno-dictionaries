@@ -99,6 +99,7 @@
     "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
     "SW-L": "as well",          // with SW-LS "as well as"
     "PW-D": "beside",           // with PW-DZ "besides"; give up "pwd"
+    "PWROE": "borrow",          // with SROE "sorrow"; use PWRO for "borough"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
     "KPHREGS": "completion",
