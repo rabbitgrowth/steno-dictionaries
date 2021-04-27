@@ -83,6 +83,11 @@
     "TOTS": "to its",
     "W-TS": "with its",
 
+    "PR": "appear",     // misstroke for "from"
+    "PR-D": "appeared", // give up "." with spaces on both sides
+                        // (used for programming? why PR-D?)
+    "SPR": "disappear", // use SAOUP for {super^}
+
     "ARD": "around",
     "-RD": "round", // R-D is "ready"
 
