@@ -4314,6 +4314,7 @@
     "HRAOEUS/H-F": "lies",          // from "lice" ("lies" requires *, not -Z)
     "HREUFT/H-F": "list",           // from "lift"
     "HREUFTS/H-F": "lists",
+    "HRUFRPB/H-F": "lunch",         // from "lurch"
     "PHARPB/H-F": "manner",         // from "margin"
     "PHAEPB/H-F": "mean",           // from "many"
     "PHORPB/H-F": "more than",      // from "morn"
@@ -4365,6 +4366,7 @@
     "HRAOEUPB/H-F": "lion",         // from "line"
     "HREUPD/H-F": "lipped",         // from "lipid"
     "HROEPB/H-F": "loan",           // from "lone"
+    "PHAEUPB/H-F": "Maine",         // from "main"
     "PHARBGS/H-F": "Marx",          // from "marks"
     "PHAER/H-F": "Mary",            // from "marry"
     "PAEURS/H-F": "Paris",          // from "pairs"
@@ -4388,7 +4390,9 @@
     "SWAOET/H-F": "suite",          // from "sweet"
     "THROEPB/H-F": "throne",        // from "thrown"
     "TAOEUD/H-F": "tied",           // from "tide"
+    "TOR/H-F": "tore",              // from "tour"
     "SRAEUPB/H-F": "vain",          // from "vein"
+    "WAEUFT/H-F": "waste",          // from "waist"
 
     // Forgetting to use -Z instead of -S
     "AFBGS/H-F": "affects",         // from "affection"
@@ -4397,6 +4401,7 @@
     "PWRAEUS/H-F": "braise",        // from "brace"
     "PWROUS/H-F": "brows",          // from "browse"
     "SEURBGS/H-F": "circumstances", // from "circus"
+    "KHRAUS/H-F": "claws",          // from "clause"
     "T-PBS/H-F": "continues",       // from "continuous"
     "KREUS/H-F": "countries",       // from "Chris"
     "KRABGS/H-F": "cracks",         // from "contraction"
