@@ -555,10 +555,6 @@
     "SKWRUFRT": "journalist",   //              ("jurst")
     "SKWROUFRPL": "journalism", // orthographic ("joursm")
     "SKWROUFRT": "journalist",  //              ("jourst")
-    "TAOUFRPL": "tourism",
-    "TAOUFRT": "tourist", // strangely, Plover allows TUFRT and TOUFRT but not TAOUFRT
-    "TOFRPL": "tourism",  // for consistency with TOR "tour"
-    "TOFRT": "tourist",
 
     // -- Final -y -------------------------------------------------------------
 
@@ -664,8 +660,7 @@
     "SKREPB": "scene",         // "scen"
 
     // For disambiguation
-    "ROUFL": "roughly",      // vs RUFL "ruffle"
-    "TOURPLT": "tournament", // vs TORPLT "torment"
+    "ROUFL": "roughly", // vs RUFL "ruffle"
 
     "HRAEFT": "least",     // cf. THRAES "at least"
     "THRAEFT": "at least", // overrides "thrifty"; frees up THRAES for "Tesla"
@@ -4079,6 +4074,18 @@
     "PROEL": "parole",
     "PROELS": "proposal", // PROEFL is "profile"
 
+    // TOR   "tour"  -> "tore" -- TORPLT  "torment"
+    // TO*R  "tore"  -> "Tor"
+    // TOUR  "tower" -> "tour" -- TOURPLT "tournament"
+    // TO*UR "tower"              TOUFRT  "tourist"
+    //                            TOUFRPL "tourism"
+    "TOR": "tore",
+    "TO*R": "Tor",
+    "TOUR": "tour",
+    "TOUFRT": "tourist", // already works
+    "TOUFRPL": "tourism",
+    "TOURPLT": "tournament",
+
     // KWRE  "yes"      -> "yeah"
     // KWR*E "yeah"     -> "ye" (new)
     // KWRES "yes, sir" -> "yes"
@@ -4377,7 +4384,6 @@
     "SWAOET/H-F": "suite",          // from "sweet"
     "THROEPB/H-F": "throne",        // from "thrown"
     "TAOEUD/H-F": "tied",           // from "tide"
-    "TOR/H-F": "tore",              // from "tour"
     "SRAEUPB/H-F": "vain",          // from "vein"
     "WAEUFT/H-F": "waste",          // from "waist"
 
