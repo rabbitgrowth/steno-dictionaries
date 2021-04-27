@@ -1046,6 +1046,9 @@
     "PRAOEUFRL": "primal",
     "PUFRL": "pummel",
 
+    // Miscellaneous
+    "AOEFRL": "email",
+
     // -- Extensions -----------------------------------------------------------
 
     // SPW for ind- and end-
