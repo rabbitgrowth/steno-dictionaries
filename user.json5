@@ -4293,29 +4293,19 @@
     // so move that up to H-F. (Use KW-PL for {?}.)
 
     // Miscellaneous
-    "HROUD/H-F": "allowed",         // from "loud"
-    "HROUS/H-F": "allows",          // from "louse"
     "PHAEUD/H-F": "amid",           // from "maid"
-    "PWARPB/H-F": "banner",         // from "barn"
-    "PWERT/H-F": "better",          // from "Bert"
-    "PWHREFD/H-F": "blessed",       // from "believed"
     "PWUPBLG/H-F": "bundling",      // from "budge"
     "KAEUFG/H-F": "casing",         // from {^ication}
     "KOEP/H-F": "copy",             // from "cope"
     "TKOG/H-F": "doing",            // from "dog"
-    "TPAEUTD/H-F": "faded",         // from "fated"
     "TPAEURL/H-F": "failure",       // from "fairly"
     "TPEUBGS/H-F": "fiction",       // from "fix"
     "TKPWUPB/H-F": "gun",           // from "begun"
-    "HARBG/H-F": "hacker",          // from "hark"
-    "HARBGS/H-F": "hackers",
     "HOEPLS/H-F": "hopeless",       // from "homes"
-    "HRAOERD/H-F": "leered",        // from "leader"
     "HRAOEUS/H-F": "lies",          // from "lice" ("lies" requires *, not -Z)
     "HREUFT/H-F": "list",           // from "lift"
     "HREUFTS/H-F": "lists",
     "HRUFRPB/H-F": "lunch",         // from "lurch"
-    "PHARPB/H-F": "manner",         // from "margin"
     "PHAEPB/H-F": "mean",           // from "many"
     "PHORPB/H-F": "more than",      // from "morn"
     "PH-PB/H-F": "mountain",        // from "machine"
@@ -4324,23 +4314,15 @@
     "OERPB/H-F": "other than",      // from "owner"
     "PEUG/H-F": "picking",          // from "pig"
     "WRAOU/H-F": "review",          // from "withdrew"
-    "RAOEURD/H-F": "rider",         // from "required"
     "REUPL/H-F": "ripple",          // from "rim"
     "REUPLS/H-F": "ripples",
     "ROBG/H-F": "robbing",          // from "rock"
     "ROEG/H-F": "rowing",           // from "rogue"
-    "RURPB/H-F": "runner",          // from "return"
-    "RURPBS/H-F": "runners",
     "RUPBG/H-F": "running",         // from "rung"
     "SAOEG/H-F": "seeking",         // from "seeing"
     "SHRUG/H-F": "shrug",           // from "slug"
-    "SAOEUTD/H-F": "sided",         // from "sighted"
-    "SOERBD/H-F": "sobered",        // from "associated"
     "SPAEBGS/H-F": "speaks",        // from "aspects"
-    "SPURT/H-F": "sputter",         // from "spurt"
     "STUPBG/H-F": "stunning",       // from "stung"
-    "TOEFRT/H-F": "toaster",        // from "effort to"
-    "TOEFRTS/H-F": "toasters",
     "TRUPBLG/H-F": "trundling",     // from "trudge"
 
     // Homophones or near-homophones
@@ -4398,6 +4380,7 @@
     "AFBGS/H-F": "affects",         // from "affection"
     "ALGS/H-F": "algorithms",       // from "additional"
     "A/HRAOEUPBS/H-F": "aligns",    // from "alliance"
+    "HROUS/H-F": "allows",          // from "louse"
     "PWRAEUS/H-F": "braise",        // from "brace"
     "PWROUS/H-F": "brows",          // from "browse"
     "SEURBGS/H-F": "circumstances", // from "circus"
@@ -4456,7 +4439,20 @@
     "TKPWOT/H-F": "go to the",      // from "got"
     "OEFRT/H-F": "over the",        // from "overt"
 
-    // When folding in -L for -ly doesn't work
+    // When folding in -R doesn't work
+    "PWARPB/H-F": "banner",         // from "barn"
+    "PWERT/H-F": "better",          // from "Bert"
+    "HARBG/H-F": "hacker",          // from "hark"
+    "HARBGS/H-F": "hackers",
+    "PHARPB/H-F": "manner",         // from "margin"
+    "RAOEURD/H-F": "rider",         // from "required"
+    "RURPB/H-F": "runner",          // from "return"
+    "RURPBS/H-F": "runners",
+    "SPURT/H-F": "sputter",         // from "spurt"
+    "TOEFRT/H-F": "toaster",        // from "effort to"
+    "TOEFRTS/H-F": "toasters",
+
+    // When folding in -L doesn't work
     "PWALD/H-F": "badly",           // from "balanced"
     "TKAOEPL/H-F": "deeply",        // from "deem"
     "TPAOERLS/H-F": "fiercely",     // from "fearless"
@@ -4464,6 +4460,14 @@
     "RUFL/H-F": "roughly",          // from "ruffle"
     "TAOEULT/H-F": "tightly",       // from "title"
     "WAOEULD/H-F": "widely",        // from "wild"
+
+    // When folding in -D doesn't work
+    "HROUD/H-F": "allowed",         // from "loud"
+    "PWHREFD/H-F": "blessed",       // from "believed"
+    "TPAEUTD/H-F": "faded",         // from "fated"
+    "HRAOERD/H-F": "leered",        // from "leader"
+    "SAOEUTD/H-F": "sided",         // from "sighted"
+    "SOERBD/H-F": "sobered",        // from "associated"
 
     // Forced evictions to make way for phrasing strokes
     "AOEUPLT/H-F": "item",          // from "I'm the"      (custom)
