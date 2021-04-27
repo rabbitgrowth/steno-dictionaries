@@ -4339,6 +4339,8 @@
     "RUPBG/H-F": "running",         // from "rung"
     "SAOEG/H-F": "seeking",         // from "seeing"
     "SHRUG/H-F": "shrug",           // from "slug"
+    "SHR*EUPBG/H-F": "slink",       // from "shrink"
+    "SHR*EUPBGS/H-F": "slinks",
     "SPAEBGS/H-F": "speaks",        // from "aspects"
     "STUPBG/H-F": "stunning",       // from "stung"
     "TRUPBLG/H-F": "trundling",     // from "trudge"
