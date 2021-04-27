@@ -279,6 +279,7 @@
     "WAOERPBS": "weariness",
     "WOEFL": "woeful", // use WUFL for "wonderful"
     "WAOPBD": "wooden",
+    "WAOPB": "wooden", // shortcut to avoid -D
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELS for "sells"
 
