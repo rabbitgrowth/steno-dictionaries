@@ -3198,6 +3198,8 @@
     "SPWOBGS/KAEUGT": "intoxicating",
     "HRAPBG/WEURBS": "languishes",
     "HRAPBG/WEURBG": "languishing",
+    "HREPBG/THEPBG": "lengthening", // right-hand-side -PBG stays unchanged
+    "HREPBG/THEPBS": "lengthens",
     "HREUB/RAEUGT": "liberating",
     "OP/PREFD": "oppressed",
     "OP/PRESZ": "oppresses",
