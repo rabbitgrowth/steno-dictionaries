@@ -38,7 +38,8 @@
     "K-D": "kind", // use A/KORD for "accord"; Plover even allows A/K-D
                    // KIND   416980
                    // ACCORD   6864
-    "K-FD": "kind of", // overrides "confidence" [2]
+    "K-FD": "kind of",   // overrides "confidence"      [2]
+    "K-FDZ": "kinds of", // use K-FSZ for "confidences" [2]
     "HR-BG": "like", // use WELG for "welcome"
     "HR*BG": "{^like}", // use HR*PBG for "[l]ow i[nc]ome"
     "HR-BGS": "likes",
