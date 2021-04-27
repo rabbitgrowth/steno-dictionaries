@@ -1314,6 +1314,10 @@
     "SKPREFG": "expressing",
     "SKPREGS": "expression",
 
+    // SKH for exch-
+    "SKHAEUPBG": "exchange", // give up "change is"
+    "SKHERBG": "exchequer",
+
     // TPH for in-
     // Precedents: TPHERT "inert", TPHEURBL "initial"
     "TPHAEUPB": "inane", // overrides "ninja" [1]
