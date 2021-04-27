@@ -3531,6 +3531,10 @@
     "SAOE/OES": "CEOs",
     "EPL/AOEUT": "MIT", // PHEUT is "mitt" and PH*EUT is "myth"
 
+    // Superimpose fingerspelling letters
+    "KW*EU": "IQ",
+    "HR*BGT": "LGBT",
+
     // -- Honorifics -----------------------------------------------------------
 
     "TK-R": "Dr.{-|}",    // misstroke for dash (--)
