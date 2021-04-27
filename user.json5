@@ -660,7 +660,9 @@
     "SKREPB": "scene",         // "scen"
 
     // For disambiguation
+    "ROUF": "rough",    // already works
     "ROUFL": "roughly", // vs RUFL "ruffle"
+    "RUFL/H-F": "roughly",
 
     "HRAEFT": "least",     // cf. THRAES "at least"
     "THRAEFT": "at least", // overrides "thrifty"; frees up THRAES for "Tesla"
@@ -4466,7 +4468,6 @@
     "TKAOEPL/H-F": "deeply",        // from "deem"
     "TPAOERLS/H-F": "fiercely",     // from "fearless"
     "TPAOEUPBL/H-F": "finely",      // from "final"
-    "RUFL/H-F": "roughly",          // from "ruffle"
     "TAOEULT/H-F": "tightly",       // from "title"
     "WAOEULD/H-F": "widely",        // from "wild"
 
