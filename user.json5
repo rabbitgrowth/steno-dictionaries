@@ -1237,8 +1237,6 @@
     "STKPROFPB": "disproven", // cf. PROFPB "proven"
     "STKAEBGS": "dissatisfaction", // cf. SAEBGS "satisfaction"
     "STKAED": "dissatisfied",      // cf. SAED "satisfied"
-    "STKEUPL": "dissimilar", // cf. SEUPL "similar"
-    "STKHRAR": "dissimilar", // cf. SHRAR "similar"
     "STKPAEUT": "dissipate",
     "STKPAEUGS": "dissipation",
     "STKOERBT": "dissociate", // cf. SOERBT "associate"
@@ -4245,6 +4243,60 @@
     // last one is the only one that matches my pronunciation, /ˈsɪrəp/.
     "SURP": "supper",
     "SEURPL": "simmer",
+
+    // -- "sing later" and -arity ----------------------------------------------
+
+    // You can't actually write "sing later" with the default dictionary,
+    // since SEUPBG/HRAEURT is "singularity". But this is part of a very
+    // nice and consistent system:
+
+    // You can often get -arity by simply adding -T:
+    //   REG     "regular"
+    //   REGT    "regularity"
+    //   TPAPL   "familiar"
+    //   TPAPLT  "familiarity"
+    //   SHRAR   "similar"
+    //   SHRART  "similarity"
+    //   PHRAR   "particular"
+    //   PHRART  "particularity"
+    //   PHRA*R  "popular"
+    //   PHRA*RT "popularity"
+    //   POERL   "polar"
+    //   POERLT  "polarity"
+
+    // When this is not possible, you can often use <consonant>AEURT:
+    //   SOL/TKAEURT     "solidarity"
+    //   SEUPBG/HRAEURT "singularity"
+    //   SRUL/TKPWAEURT   "vulgarity"
+    //   TKEUS/PAEURT     "disparity"  \
+    //         PAEURT        "parity"  |
+    //         RAEURT        "rarity"  | nicely consistent
+    //         KHAEURT      "charity"  |
+    //         AEURT         {^arity}  /
+
+    // Even when you can simply add -T, you can also use <consonant>AEURT:
+    //   SEUPL/HRAEURT  "similarity" (or just use SHRART)
+    //   POP/HRAEURT    "popularity" (or just use PHRA*RT)
+    //   POE/HRAEURT    "polarity"   (or just use POERLT)
+
+    // I'm reluctant to change this system. In fact, I should probably
+    // do the opposite and make it more complete:
+
+    "SEUPLT": "similarity",  // from SEUPL "similar"
+    "STKEUPL": "dissimilar", // from SEUPL "similar"
+    "STKHRAR": "dissimilar", // from SHRAR "similar"
+    "STKEUPLT": "dissimilarity",
+    "STKHRART": "dissimilarity",
+
+    "PEBG/HRART": "peculiarity",   // - just add -T to PEBG/HRAR
+                                   // - would conflict if "peck latter"
+                                   //   if I used HRART for "latter",
+                                   //   but I'm using HRAERT for that
+    "PEBG/HRAEURT": "peculiarity", // - use <consonant>AEURT
+                                   // - conflicts with "peck later",
+                                   //   like "sing later"
+
+    "STKPAEURT": "disparity", // not to be confused with STKPAEUR "despair"
 
     // -- Fix Plover's oddities ------------------------------------------------
 
