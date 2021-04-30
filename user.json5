@@ -740,7 +740,9 @@
     "SPWEUBT": "antibiotic", // cf. the standard AEBT
     "SPWEUBD": "antibody",
     "SPWEUTD": "antidote",
+
     "EBGS": "{ex-^}", // with hyphen
+
     "SAOEUFPL": "{seismo^}", // "seismograph", "seismogram", etc.
 
     // Suffixes
@@ -752,18 +754,23 @@
     "ABG": "{^atic}", // - cf. TKRABG "dramatic", PRO*B/ABG "problematic"
                       // - e.g., KROEPL/ABG "chromatic" ("chrome" + {^atic})
                       // - give up "ack"
+
     "-LD": "{^land}", // use WO for "would", like HR, not -L, for "will"
     "TKPWARLD": "garland", // has nothing to do with "gar" (fish) but whatever
     "HAOEULD": "highland",
     "HOEFRLD": "homeland", // with -FR as -m
     "HROELD": "lowland",
     "PHAEUPBLD": "mainland",
+
     "HR-LS": "{^lessly}", // -LS  for -less + HR for -ly
     "HRELS": "{^lessly}", // HRES for -less + -L for -ly
+
     "HR*ET": "{^let}", // already works
     "PEUG/HRET": "piglet",
     "PEUG/HRETS": "piglets",
+
     "HRAO*D": "{^load}", // "truckload", "boatload", "shitload"...
+
     "PHA*EURBG": "{^maker}",     // already works
     "HRAU/PHAEURBG": "lawmaker", // like TPEUPL/PHAEURBG "filmmaker"
     "HRAU/PHAEURBGS": "lawmakers",
@@ -771,19 +778,25 @@
     "SHAOU/PHAEURBGS": "shoemakers",
     "TRUBL/PHAEURBG": "troublemaker",
     "TRUBL/PHAEURBGS": "troublemakers",
+
     "-GS": "{^tion}", // misstroke for {^s}
+
     "WA*EU": "{^way}", // use WAU for "away"
+
     "WAO*EUD": "{^wide}", // instead of {^-wide}
     "KREU/WAOEUD": "countrywide",
     "TPH-GS/WAOEUD": "nationwide",
     "WORL/WAOEUD": "worldwide", // WORLD/WAOEUD already works
+
     "WO*ERT": "{^worthy}", // see also WOERT "worthy"
     "TPHOET/WOERT": "noteworthy",
     "TRUFT/WOERT": "trustworthy", // drop * in TRUFT/WO*ERT
+
     "WR*EUR": "{^writer}",
     "KO*EP/WREUR": "copywriter",
     "KOEP/WREUR": "copywriter", // in ascending order of laziness:
                                 // KO*EP/WR*EUR KO*EP/WREUR KOEP/WREUR
+
     "KWREFRT": "{yester^}",
 
     // Use nicer prefixes for multistroke words
