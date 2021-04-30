@@ -1836,7 +1836,7 @@
     //    although it's not very phonetic I guess.
     // 2) "candled" and "candling" are pretty rare.
 
-    // Miscellaneous star-dropping
+    // Miscellaneous
     "THRAOET": "athlete",
     "PWAOEUS": "bias",          // use -Z for "buys"
     "AOEGS": "emotion",         // use SERBL for "essential"
@@ -3041,7 +3041,7 @@
     "SEFT": "set of",
     "WHOEFL": "whole of",
 
-    // Miscellaneous phrases
+    // Miscellaneous
     "PWHOU": "about how",
     "PWU": "about you", // use PWUT for "but"
     "AURT": "all right",
