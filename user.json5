@@ -746,11 +746,11 @@
     "SAOEUFPL": "{seismo^}", // "seismograph", "seismogram", etc.
 
     // Suffixes
-    // Define the most common words ("worldwide", "countrywide")
-    // so that I can be lazy and drop the * in the suffix,
-    // but stop at the most common words, since combinations
-    // are potentially infinite ("schoolwide", "systemwide",
-    // "areawide", "regionwide", "planetwide"...)
+    // For suffixes with * (e.g., WAO*EUD {^wide}), allow dropping the *
+    // in the most common combinations (e.g., "worldwide", "countrywide"),
+    // but stop at the most common combinations, since combinations are
+    // potentially infinite (e.g., "schoolwide", "systemwide", "areawide",
+    // "regionwide", "planetwide"...)
     "ABG": "{^atic}", // - cf. TKRABG "dramatic", PRO*B/ABG "problematic"
                       // - e.g., KROEPL/ABG "chromatic" ("chrome" + {^atic})
                       // - give up "ack"
