@@ -1043,6 +1043,10 @@
     "HREFRPB": "lemon",
     "ROEFRPB": "Roman",
     "SAFRPB": "salmon",
+    // But keep the default strokes for "common" and "summon":
+    // KPHOPB "common" (not KOFRPB, which is "conch";
+    //                  more importantly, KOFRPBS is "conference")
+    // SPHOPB "summon" (not SUFRPB; SUFRPBS is "sufferance")
 
     // -FRB for -mb
     "KHRUFRB/KWRA": "Columbia",
