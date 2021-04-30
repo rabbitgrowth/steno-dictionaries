@@ -16,6 +16,9 @@
     "KP-T": "exact",
     "KP-LT": "exactly",
     "KP-PB": "explain",       // use KP    for "examine"
+    "KP-PBS": "explains",     // use KP-S  for "examines"
+    "KP-PBD": "explained",    // use KP-D  for "examined"
+    "KP-PBG": "explaining",   // use KP-G  for "examining"
     "KP-PBGS": "explanation", // use KP-GS for "examination"
     "-FD": "find",
     "T-FD": "find it",
