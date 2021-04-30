@@ -3589,6 +3589,7 @@
     "KP*EBG": "executive",    // exec
     "TP*EFT": "festival",     // fest
     "HRA*B": "laboratory",    // lab
+    "PO*F": "point of view",  // POV; use POF (custom) for "positive"
     "PO*P": "popular",        // pop
     "PR*EP": "prepare",       // prep
     "P*UB": "publish",        // pub
