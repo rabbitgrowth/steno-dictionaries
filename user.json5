@@ -1107,6 +1107,7 @@
     "SPWAORS": "indoors",
     "SPWAOUS": "induce",
     "SPWUBGT": "induct",
+    "SPWUBGS": "induction", // use STAR/PWUBGS for "Starbucks"
     "SPWULG": "indulge",
 
     "SPWEFR": "endeavor",
