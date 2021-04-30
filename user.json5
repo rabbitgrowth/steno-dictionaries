@@ -3567,18 +3567,18 @@
 
     // Non-steno abbreviations
     "TK-L": "download",     // dl
-    "TKPW-F": "girlfriend", // gf; or use TKPWOEUF for symmetry with PWOEUF "boyfriend"
+    "TKPW-F": "girlfriend", // gf   (or use TKPWOEUF for symmetry with PWOEUF "boyfriend")
     "SKWR-P": "Japan",      // JP
     "SKWR-PS": "Japanese",
     "KAOEB": "keyboard",    // keeb
-    "PHO": "month",         // mo
+    "PHO": "month",         // mo   (misstroke for "no")
     "PH-FT": "movement",    // mvt
     "P-PBLG": "pajama",     // PJ
-    "P-BGS": "pixel",       // px
-    "PREF": "previous",     // prev
+    "P-BGS": "pixel",       // px   (give up "People's Exhibit#G")
+    "PREF": "previous",     // prev (give up "pref")
     "PREFL": "previously",
-    "SEBG": "second",       // sec; overrides "sec" [1]
-    "T-GT": "together",     // tgt
+    "SEBG": "second",       // sec  (overrides "sec" [1])
+    "T-GT": "together",     // tgt  (use TAEUL/TKPWAEUT for "tailgate")
     /*1*/ "S*EBG": "sec",
 
     // Add * to expand to full form
@@ -3589,7 +3589,7 @@
     "KP*EBG": "executive",    // exec
     "TP*EFT": "festival",     // fest
     "HRA*B": "laboratory",    // lab
-    "PO*F": "point of view",  // POV; use POF (custom) for "positive"
+    "PO*F": "point of view",  // POV (use POF (custom) for "positive")
     "PO*P": "popular",        // pop
     "PR*EP": "prepare",       // prep
     "P*UB": "publish",        // pub
