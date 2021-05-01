@@ -271,7 +271,6 @@
     "SRAOEPB": "serene", // use SRAOEPBT for "convenient"
     "SRAOES": "series",
     "SRAOEZ": "series",
-    "SHROEPBG": "slogan", // use SHROEG for "slowing" and SHRO*PBGS for "so long as"
     "SOEPB/AR": "sonar",
     "STRAOEUTD": "strident",
     "TAOEPL": "teem", // use TAEPL for "team"
@@ -286,7 +285,6 @@
     "TROEL": "troll", // use PROL for "patrol"
     "TROELS": "trolls",
     "SRAPBL/TAOEUPB": "valentine",
-    "SRAOEPBG": "vegan",
     "SRAO*EUPBL": "violin", // starless is "vinyl"
     "WAOERPBS": "weariness",
     "WOEFL": "woeful", // use WUFL for "wonderful"
@@ -1632,6 +1630,11 @@
     "TKPWOEPBLD": "golden",
     "TKPWOEPB": "golden",
     "OEPBLD": "olden", // OEPB is "own"
+
+    // -PBG for -gan
+    // Precedent: O*RPBG "organ" (but with * since ORPBG is "orange")
+    "SHROEPBG": "slogan", // use SHROEG for "slowing" and SHRO*PBGS for "so long as"
+    "SRAOEPBG": "vegan",
 
     // -LG for -gle
     // Precedents: TKPWAOLG "Google", STRULG "struggle"
