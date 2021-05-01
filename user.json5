@@ -1632,7 +1632,8 @@
     "OEPBLD": "olden", // OEPB is "own"
 
     // -PBG for -gan
-    // Precedent: O*RPBG "organ" (but with * since ORPBG is "orange")
+    // Precedent: O*RPBG "organ" (starless is "orange")
+    "PA*EUPBG": "pagan",  // starless is "painting"
     "SHROEPBG": "slogan", // use SHROEG for "slowing" and SHRO*PBGS for "so long as"
     "SRAOEPBG": "vegan",
 
