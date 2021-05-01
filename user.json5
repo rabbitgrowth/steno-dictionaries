@@ -3679,6 +3679,11 @@
                            // TUPLT/WOUS "tumultuous"
     /*1*/ "STPH*UR": "insure",
 
+    // "admix"
+    // AD/PHEUBGS conflicts with "add mix" ("add mix to the bowl"),
+    // so add *. As a nice coincidence, A*D is "ad".
+    "A*D/PHEUBGS": "admix", // add {^ture} to get "admixture"
+
     // Swap TRAOET "treat" and TRAET "treaty"
     // It's unclear what rule makes TRAET "treaty" in Plover. It's not the
     // "many" rule, according to which TRAET should be something like
