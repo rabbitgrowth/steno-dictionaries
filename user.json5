@@ -3055,6 +3055,12 @@
     "SEFT": "set of",
     "WHOEFL": "whole of",
 
+    // "...thing else"
+    "TPHEULGS": "anything else",
+    "EFRLGS": "everything else",
+    "TPHOLGS": "nothing else",
+    "S-LGS": "something else",
+
     // Miscellaneous
     "PWHOU": "about how",
     "PWU": "about you", // use PWUT for "but"
