@@ -2351,6 +2351,21 @@
     // but by default -GT is quite useless (it's "thing", but by accident:
     // -T "the" + -G {^ing}), so I might as well remap it
 
+    "SKP*EUFL": "and I love",
+    "SKP*UFL": "and you love",
+    "STP*EUFL": "if I love",
+    "STP*UFL": "if you love",
+    "THA*EUFL": "that I love",
+    "THA*UFL": "that you love",
+    "WHA*EUFL": "what I love",
+    "WHA*UFL": "what you love",
+    "WH*EUFL": "when I love", // overrides "whiffle"
+    "WH*UFL": "when you love",
+    "WHO*EUFL": "who I love",
+    "WHO*UFL": "who you love",
+    /*1*/ "WEUFL": "whiffle", // use WHEUFL for "whistle"
+          "WHEUF/-L": "whiffle",
+
     "SKPEUPBG": "and I think",
     "SKPUPBG": "and you think",
     "STPEUPBG": "if I think",
