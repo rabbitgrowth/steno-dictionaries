@@ -3870,11 +3870,11 @@
     "AEUFBT": "a bit of",
 
     // Reflexive pronouns
+    "W*UPBS": "oneself",  // use WUPB/AES for "one's"
     "O*URS": "ourselves", // "ourself" is too rare
     "OUR/SEFL": "ourself",
-    "WUPB/SEFL": "oneself", // WUPBS is "once", W*UPBS is "one's"
-    "THAO*EUS": "thyself", // following the "add *S for reflexive pronoun" pattern
-    "TH*EPLS": "themself", // add * for special usage
+    "TH*EPLS": "themself", // starless is "themselves"
+    "THAO*EUS": "thyself",
     "SEFL": "self", // since all possibilities have been exhausted
                     // ("myself", "yourself", ... and even "thyself"),
                     // -self as a suffix becomes useless
