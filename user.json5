@@ -59,7 +59,7 @@
     "PR-B": "problem",
     "-RT": "right", // - physically stroked with the right hand
                     // - use R-T for "are the"
-                    // - frees up RAOEUT for "riot" [4]
+                    // - frees up RAOEUT for "rite" [4]
     "T-G": "thing",
     /*1*/ "TKPW*PS": "GPS", // just write out "global positioning system"
     /*2*/ "K-FS": "confidence", // cf. K-FT "confident",
@@ -67,8 +67,11 @@
                                 // PREPBS "presence"
                                 // PREPBT "present"
     /*3*/ "HR*LG": "{^ological}",
-    /*4*/ "RAOEUT": "riot",
-          "RAOEURT": "rioter", // much nicer than RAOEU/OT/*ER
+    /*4*/ "RAOEUT": "rite",
+          "RAOEUTS": "rites",
+          "RAO*EUT": "riot",
+          "RAO*EUTS": "riots",  // use THRAOEUTS for "arthritis"
+          "RAO*EURT": "rioter", // much nicer than RAOEU/OT/*ER
 
     "-TS": "its",
     "*TS": "itself",
