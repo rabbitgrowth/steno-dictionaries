@@ -1766,7 +1766,7 @@
     // "Fettle", "mettle", "nettle" conflict with "felt", "melt", "knelt"
     // but are too rare to be worth worrying about.
     "PWHREUL": "belittle", // cf. HREUL "little"
-    "PWREUL": "brittle", // conflicts with "brilliant" with -T
+    "PWREUL": "brittle",   // + -T = "brilliant"
     "WHEUL": "whittle",
     "PWOLT": "bottle",   // overrides "bolt"  [3]
     "PWOLTS": "bottles", // overrides "bolts" [3]
