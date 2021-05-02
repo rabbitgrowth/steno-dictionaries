@@ -3197,6 +3197,7 @@
     "RAPL/PARTS": "ramparts",
     "RAOEDZ": "reeds", // use RAEDZ for "reads"
     "RES/TRA/TURS": "restaurateurs",
+    "S-PBS": "seasons", // use SAOPBS for "as soon as"
     "SOEU/PWAOEPBS": "soybeans",
     "STAEUR/KAEUSZ": "staircases",
     "TEL/SKOEPS": "telescopes",
