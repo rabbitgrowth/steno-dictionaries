@@ -667,8 +667,12 @@
     "SA*EL": "zeal",  // use SAOEL for "seal"
 
     // For easier stroke recall
-    "PHOUS/TAFP": "moustache", // "moustach"
-    "SKREPB": "scene",         // "scen"
+    "PHOUS/TAFP": "moustache",
+
+    "PEUS/TAFP/KWRO": "pistachio",  // almost fully orthographic
+    "PEUS/TAFP/KWROE": "pistachio", // mix in a little phonetic
+
+    "SKREPB": "scene", // "scen"
 
     // For disambiguation
     "ROUF": "rough",    // already works
