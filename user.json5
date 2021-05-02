@@ -287,6 +287,7 @@
     "TROELS": "trolls",
     "SRAPBL/TAOEUPB": "valentine",
     "SRAO*EUPBL": "violin", // starless is "vinyl"
+    "SRURLG": "vulgar",
     "WAOERPBS": "weariness",
     "WOEFL": "woeful", // use WUFL for "wonderful"
     "WAOPBD": "wooden",
@@ -382,6 +383,7 @@
                    // with the "EZ for -eeze" pattern:
                    // TPRE  "free"    TRE  "tree"
                    // TPREZ "freeze"  TREZ "trees"
+    "SRUL": "value",
     "WEBG": "week", // use WEB/-G for "webbing" [3]
     /*1*/ "PWHREUPB/TKA": "Belinda",   // cf. SPHREPB/TKA "Splenda"
           "PWHREUPBD/KWRA": "Belinda", //     SPHREPBD/KWRA
@@ -471,7 +473,6 @@
     "STPHAPL": "tsunami",
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // from "vibe" as in "good vibes"
-    "SRULG": "vulgar",
     "WORP": "worship", // give up "WordPress"
     /*1*/ "STO*RBG": "stork",         // give up "State of New York"
     /*2*/ "A*UBG": "awk",             // give up "AUC"
