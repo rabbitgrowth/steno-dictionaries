@@ -4439,6 +4439,7 @@
     "TPAEURL/H-F": "failure",       // from "fairly"
     "TPEUBGS/H-F": "fiction",       // from "fix"
     "TKPWUPB/H-F": "gun",           // from "begun"
+    "HORPB/H-F": "honor",           // from "horn"
     "HOEPLS/H-F": "hopeless",       // from "homes"
     "HRAOEUS/H-F": "lies",          // from "lice" ("lies" requires *, not -Z)
     "HREUFT/H-F": "list",           // from "lift"
