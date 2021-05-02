@@ -450,6 +450,7 @@
     "PREFT": "protest", // give up "previous to"
     "PREFRT": "protester",
     "PURPT": "purport", // cf. AEURPT "airport"
+    "PUZ": "puzzle", // cf. PEUZ "pizza"; alternative to PUFL
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "ROPLS": "romance",
     "ROPLT": "romantic", // can be thought of as autocompleting ROPLT/EUBG
