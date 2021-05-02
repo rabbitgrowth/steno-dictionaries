@@ -367,7 +367,6 @@
     "THRUL": "actually",
     "PWHREUPBD": "blind", // overrides "Belinda" [1]
     "PWHROD": "blood",
-    "KPUR": "computer",
     "TKOR": "door",
     "TPHROR": "floor",
     "TPRE": "free", // "land of the fre and the home of the brav (PWRAF)"
@@ -388,6 +387,10 @@
           "PWHREUPBD/KWRA": "Belinda", //     SPHREPBD/KWRA
     /*2*/ "PR-FRP": "purchaser",       // from PR-FP "purchase"
     /*3*/ "WEBG/H-F": "webbing",
+
+    "KPUT": "compute",
+    "KPUR": "computer",
+    "KPURT": "computer",
 
     "TKPWREPB": "green", // like PWHRU "blue" ("our blu and gren planet")
     "TKPWREPB/HOUS": "greenhouse",
