@@ -4216,7 +4216,7 @@
 
     // US political parties
     "RUP": "Republican",
-    "RUPS": "Republicans",        // misstroke for "run"
+    "RUPS": "Republicans",        // misstroke for "runs"
     "RE/PUBL/KAPB": "republican", // "republican with a small r"
                                   // is less common and doesn't need a brief
     "TK*EPL": "Democrat",         // overrides {demi^} [1]
