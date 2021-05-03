@@ -201,6 +201,16 @@
     //                   PWROER  "brother"  -- PHOER "mother"
     //                   PWRO*ER "borrower"    TPAER "father"
 
+    "PAFR": "part of", // with PAFRT "part of the"; use PAEUFR for "paver"
+    // SAEUF  "safe"   WAEUF  "waive"   PAEUF  "pave"
+    // SAEUFR "safer"  WAEUFR "waiver"  PAEUFR "paver"
+    // SAF    "save"   WAF    "wave"    PAF    also "pave"
+    // SAFR   "saver"  WAFR   "waver"   PAFR   also "paver" -> "part of"
+    // AF doesn't always work for -ave, even for common words:
+    // TKPWAF  "gaffe"    TKPWAEUF  "gave"
+    // TKPWRAF "graph"    TKPWRAEUF "grave"
+    // SHRAF   undefined  SHRAEUF   "slave"
+
     // Words with other words in them
     "ARG/KURLT": "agriculture", // or just use AG/KULT
     "PHEL/TKROEUPL": "melodrama",
@@ -3085,7 +3095,6 @@
 
     "TPRAEFD": "afraid of", // misstroke for "afraid"
     "STR-F": "center of",
-    "PAFRT": "part of", // by default "part of the"
     "SEFT": "set of",
     "WHOEFL": "whole of",
 
