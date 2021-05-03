@@ -3433,6 +3433,7 @@
     "KHROEFT": "closest",
     "HAOEUFT": "highest", // cf. HROEFT "lowest"; overides "heist" [1]
     "HRAOEUFT": "lightest",
+    "OEFT": "oldest",
     "SHOFRT": "shortest",
     "SHRAOEUFT": "slightest",
     "SHROEFT": "slowest",
