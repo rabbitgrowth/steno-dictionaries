@@ -257,7 +257,6 @@
     "TPREU/SROLT": "frivolity",
     "TPREUFLS": "frivolous", // TPREUF/HROUS already works
     "SKWRERPBS": "generous",
-    "TKPWRAEUFLT": "grateful", // TKPWRA*EUFL - * + -T
     "TKPWUPBS": "guns", // "beguns" is not a word
     "HA*RT": "hearth", // give up "Hart"
     "SPWREUBGT": "intricate",
@@ -307,7 +306,6 @@
     "SRAO*EUPBL": "violin", // starless is "vinyl"
     "SRURLG": "vulgar",
     "WAOERPBS": "weariness",
-    "WOEFL": "woeful", // use WUFL for "wonderful"
     "WAOPBD": "wooden",
     "WAOPB": "wooden", // shortcut to avoid -D
     "S*ELT": "zealot",  // use SELT for "settle"
@@ -488,7 +486,6 @@
     "SWAEUPBLS": "surveillance",
     "STOPL": "symptom",
     "TPHAOEBG": "technique",
-    "THAFL": "thankful",
     "STPHAPL": "tsunami",
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // from "vibe" as in "good vibes"
@@ -904,6 +901,22 @@
     "SWOUL": "avowal",  // SRAOUL is "value"
     "SWAEUBG": "awake",
     /*1*/ "SHRO*EPB": "Sloan",
+
+    // Fold in -FL for -ful
+    // For -tful, you can usually omit the -T:
+    //   THAUFL     "thoughtful"
+    //   TKHRAOEUFL "delightful"
+    //   TKOUFL     "doubtful"
+    //   TPRAOUFL   "fruitful"
+    // But sometimes you need the -T to disambiguate:
+    //   TKPWRAF     "graph"
+    //   TKPWRAFL    "gravel"
+    //   TKPWRAEUF   "grave"
+    //   TKPWRAEUFL  "gravely"
+    //   TKPWRAEUFLT "grateful" (custom)
+    "TKPWRAEUFLT": "grateful", // cannot omit -T
+    "THAFL": "thankful",
+    "WOEFL": "woeful", // use WUFL for "wonderful"
 
     // Fold in -R for -er or -or
     "KHEFR": "achiever", // overrides "chevre" [1]
