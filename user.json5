@@ -2541,9 +2541,10 @@
 
     "SA*": "as a", // think "is + * = as" or "za"
     "S*T": "as the",
+    "S*U": "as you",
+
     "TA": "at a",
     "T-T": "at the",
-    "S*U": "as you",
 
     "PRA": "for a", // TPAR is "far" and TPAEUR is "fair",
                     // so borrow from French "pour"
