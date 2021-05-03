@@ -94,7 +94,10 @@
     "PR": "appear",     // misstroke for "from"
     "PR-D": "appeared", // give up "." with spaces on both sides
                         // (used for programming? why PR-D?)
-    "SPR": "disappear", // use SAOUP for {super^}
+    "SPR": "disappear", // overrides {super^} [1]
+    /*1*/ "SAUP": "{super^}", // - nicely symmetrical with SAUB {sub^}
+                              // - unlikely misstroke for {sub^}
+                              // - or use SAOUP
 
     "ARD": "around",
     "-RD": "round", // R-D is "ready"
