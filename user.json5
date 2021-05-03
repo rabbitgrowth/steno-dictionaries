@@ -4269,8 +4269,14 @@
     "SRAOEUS/PREZ": "vice president",
 
     // Double to join with "and"
+    "TKPWEPB/TKPWEPB": "again and again",
+    "TKPWEPB/TKPWEPB/TKPWEPB": "again and again and again",
     "PW-RT/PW-RT": "better and better",
     "PW-RT/PW-RT/PW-RT": "better and better and better",
+    "HRES/HRES": "less and less",
+    "HRES/HRES/HRES": "less and less and less",
+    "PHOR/PHOR": "more and more",
+    "PHOR/PHOR/PHOR": "more and more and more",
     "OPB/OPB": "on and on",
     "OPB/OPB/OPB": "on and on and on",
     "OEFR/OEFR": "over and over",
