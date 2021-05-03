@@ -4219,16 +4219,14 @@
     "RUPS": "Republicans",        // misstroke for "runs"
     "RE/PUBL/KAPB": "republican", // "republican with a small r"
                                   // is less common and doesn't need a brief
-    "TK*EPL": "Democrat",         // overrides {demi^} [1]
-    "TKEPL": "democrat",          // overrides "dem"   [2]
-    "TKEPL/SEU": "democracy",     // change the on-screen -t to -cy
-                                  // alternative to TKEPL/KRAES
-    "TKEPL/EUBG": "democratic",   // add -ic to the on-screen -t
-    // "Republicans and Democrats" RUPS/SKP/TK*EPLS
-    // "Republican and Democratic" RUP/SKP/TK*EPL/EUBG
-    // For "Dem" as in "the Dems" or "a Dem voter", use the hacky KPA/TH*EPL.
+    "TK*EPL": "Dem", // cf. TKEPL "dem" ("dem big bucks"); overrides {demi^} [1]
+    "TKPHAT": "democrat",
+    "TKPHA*T": "Democrat",
+    "TKPHABG": "democratic",
+    "TKPHA*BG": "Democratic",
+    "TKPHOERBGS": "democracy", // try to squeeze in all the sounds: "dmokrsy"
+    "TKPHOBGS": "democracy",   // shortcut ("dmox")
     /*1*/ "TKPHEU": "{demi^}", // consistent with SPHEU {semi^}
-    /*2*/ "TH*EPL": "dem",     // informal "them" ("dem big bucks")
 
     // -- Fiction --------------------------------------------------------------
 
