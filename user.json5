@@ -914,6 +914,8 @@
     //   TKPWRAEUF   "grave"
     //   TKPWRAEUFL  "gravely"
     //   TKPWRAEUFLT "grateful" (custom)
+    "TPAEUFL": "fateful",
+    "TPRAOEUFL": "frightful",
     "TKPWRAEUFLT": "grateful", // cannot omit -T
     "THAFL": "thankful",
     "WOEFL": "woeful", // use WUFL for "wonderful"
