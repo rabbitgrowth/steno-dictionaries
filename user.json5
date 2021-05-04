@@ -1559,7 +1559,7 @@
     // OEUR for -erior
     "TPOEUR": "inferior", // overrides "foyer" [1]
     "TPOEURT": "inferiority",
-    "SPOEUR": "superior", // works already
+    "SPOEUR": "superior", // already works
     "SPOEURT": "superiority",
     "SPWOEUR": "interior",
     "KPOEUR": "exterior",
@@ -4095,9 +4095,9 @@
     // -- Easily confused words ------------------------------------------------
 
     // "accident" vs "incident"
-    "STKEPB": "accident",    // works already
+    "STKEPB": "accident",    // already works
     "STKEPBS": "accidents",  // use ABGS/TKEPBS for "accidence" (grammar term)
-    "STKEPBL": "accidental", // works already
+    "STKEPBL": "accidental", // already works
     "STKHREPBL": "accidentally",
     "STK*EPB": "incident",    // with STKEPB "accident"
     "STK*EPBL": "incidental", // by default "incidentally"
