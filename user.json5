@@ -847,11 +847,11 @@
     "SPR/STEUGS": "superstition", // prefer SPR to SAOUP
     "SPR/STEURBS": "superstitious",
     // There's something ugly about using {inter^} for "interfere",
-    // because "fere" isn't a word -- you aren't tacking "inter-" onto
+    // because "fere" is not a word -- you aren't tacking "inter-" onto
     // "fere". In fact, TPAOER is "fear", so SPWR/TPAOER feels a bit
     // like it should be "interfear". However, Plover often allows
-    // using prefixes even when the part after the prefix isn't a word.
-    // For example, although "ceal" isn't a word, for "conceal" Plover
+    // using prefixes even when the part after the prefix is not a word.
+    // For example, although "ceal" is not a word, for "conceal" Plover
     // allows (in addition to KOPB/SAOEL) KAUPB/SAOEL, which feels
     // natural because "con-" is so common KAUPB becomes muscle memory
     // pretty quickly.
@@ -959,7 +959,7 @@
     "PAEURPBT": "painter", // use PARPBT for "parent"
     "PAEURPBTS": "painters",
     "POEUL/EFRT": "polyester", // EFRT is normally "effort"
-                               // but "polyeffort" isn't a word
+                               // but "polyeffort" is not a word
     "PRAOEFRP": "preacher",
     "PREUFRPB": "prisoner",
     "SERPBD": "sender",
