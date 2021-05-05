@@ -559,7 +559,7 @@
     "TPROUT/-S": "figures out",
     "TPROUT/-D": "figured out",
     "TPROUT/-G": "figuring out",
-    "TPROU": "figure out", // form for easier inflections
+    "TPROU": "figure out", // form for easier inflection
                            // use the orthographic TPRAU for "frau"
     "TPRAU": "Frau",       // ... which should be capitalized
     "TPROUS": "figures out",
@@ -1191,8 +1191,6 @@
     "SPWO": "unto",
 
     // KPW for emb-, emp-, imb-, and imp-
-    "KPWARS": "embarrass", // cf. EPL/PWARS
-    "KPWAFRD": "embarrassed",
     "KPWAES": "embassy", // with "many" rule, cf. EPL/PWAES
     "KPWED": "embed",
     "KPWETD": "embedded",
@@ -1247,6 +1245,13 @@
     "KPWROFPLT": "improvement", // or just use PROFPLT
     "KPWULS": "impulse",
     /*1*/ "PHROEU": "ploy",
+
+    "KPWARS": "embarrass", // cf. EPL/PWARS
+    "KPWRAS": "embarrass", // cf. EPL/PWRAS; form for easier inflection
+    "KPWRAFD": "embarrassed",
+    "KPWRAFG": "embarrassing",
+    "KPWRAPLT": "embarrassment",  // cf. EPL/PWRAPLT
+    "KPWRAFPLT": "embarrassment", // cf. EPL/PWRAFPLT
 
     // Stretch KPW to mean amb- and amp-
     "KPWEUGS": "ambition",
