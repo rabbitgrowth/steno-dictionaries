@@ -460,6 +460,7 @@
     "SPWAOUGS": "intuition", // use STUGS for "substitution",
                              // which is consistent with STUT "substitute"
     "SPWAOUF": "intuitive",  // cf. TWAOUF
+    "HRAOEUFPL": "lifetime", // "lifem"; TPHRAOEUPL "flime" doesn't make sense to me
     "PHELG": "medical", // "mecal"
     "PHEUL/SHA": "militia",
     "PHEUL/SHAS": "militias",
