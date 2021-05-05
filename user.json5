@@ -441,6 +441,7 @@
     "KPRA*EUPBS": "contemporaneous", // KPRA*EURPBS - -R; starless is "extraneous"
     "KURPB": "curtain",
     "TKHRAOEUPB": "deadline", // use PHRAOEUPB for "midline", maybe; don't care
+    "TKAOEFT": "defeat", // use TKEFBGT for "defect"
     "TAOERT": "deteriorate",
     "TAOERGS": "deterioration",
     "TKRAPB": "dragon",
