@@ -3090,6 +3090,7 @@
     "STKPWRAETS": "as great as",
     "STKPW-TS": "as great as", // with TKPW-T (custom)
     "SPHALS": "as small as",
+    "SWAEBGS": "as weak as", // STROPBGS "as strong as" already works
 
     // "so that ..."
     "STHAO": "so that",
