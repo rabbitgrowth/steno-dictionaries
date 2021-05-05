@@ -430,11 +430,11 @@
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "TKPHEUGS": "admission",
     "HRARPL": "alarm",
-    "ALG": "algorithm", // use ALGS for "additional" (AGS "addition" + -L)
+    "ALG": "algorithm", // use ALGS for "additional"
     "STORB": "astonish",
-    "STORBG": "astonishing", // overrides "stork" (a bird) [1]
+    "STORBG": "astonishing", // overrides "stork" [1]
     "TRAF": "attractive", // use TR-FR for "transfer"
-    "AUBG": "automatic", // overrides "awk" (awkward) [2]
+    "AUBG": "automatic", // overrides "awk" [2]
     "PWHRAEUPBT": "blatant",
     "SKAOEL": "conceal", // cf. SKERT "concert", SKEPT "concept"
                          // (different stress though)
@@ -451,7 +451,7 @@
     "HRAOEFPL": "eventually",
     "KPELT": "excellent", // shortcut for KPHREPBT,
                           // which is consistent with KPHREPBS "excellence"
-    "TPAOPBLG": "footage", // like TPHOPBLG "knowledge"
+    "TPAOPBLG": "footage", // cf. TPHOPBLG "knowledge"
     "TPREFT": "forest", // would be TPOFRT (forst) if "foster" (fostr) wasn't a word
     "TKPWARPB": "garden",
     "HEUPB": "hidden",
@@ -468,31 +468,33 @@
     "PHEUL/SHAS": "militias",
     "TPHOUDZ": "nowadays", // frees up TPHOU/TKAEUS for "now days" [3]
     "OP/TEUF": "operative", // OPT/EUF with a more natural break point
-    "PAEURT/KWROFPL": "patriotism", // "patriosm"; cf. PAEURT/KWROT "patriot"
-                                    // or use the simpler but less phonetic
-                                    // PAEUT/ROT    "patriot"
-                                    // PAEURT/EUFPL "patriotism"
+    "PAEURT/KWROFPL": "patriotism", // - "patriosm"
+                                    // - cf. PAEURT/KWROT "patriot"
+                                    // - or use the simpler but less phonetic
+                                    //   PAEUT/ROT    "patriot"
+                                    //   PAEURT/EUFPL "patriotism"
     "POERBL": "potential",
     "PHROERBL": "potentially",
-    "PREFT": "protest", // give up "previous to"
+    "PREFT": "protest", // give up "previous to";
+                        // -T is too strongly associated with "the" anyway
     "PREFRT": "protester",
     "PURPT": "purport", // cf. AEURPT "airport"
     "PUZ": "puzzle", // cf. PEUZ "pizza"; alternative to PUFL
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "ROPLS": "romance",
-    "ROPLT": "romantic", // can be thought of as autocompleting ROPLT/EUBG
+    "ROPLT": "romantic", // also the first stroke in ROPLT/EUBG
     "STPOER": "satisfactory", // "sfory"
     "STPREU": "satisfactory", // "sfry"
     "SOERLD": "soldier", // - SHRERPBLG is weird ("slerj"? probably meant
                          //   to be "sljer", like TPHOEUPBLG "enjoy"?)
                          // - not to be confused with SORLD "solder"
-    "STPEURBL": "superficial", // "sficial", instead of STPEUFL "sfifal"
+    "STPEURBL": "superficial", // STPEUFL feels more like "sfifal"
     "SWAEUPBLS": "surveillance",
     "STOPL": "symptom",
     "TPHAOEBG": "technique",
     "STPHAPL": "tsunami",
     "SRAOEURBT": "vibrate",
-    "SRAOEUBGS": "vibration", // from "vibe" as in "good vibes"
+    "SRAOEUBGS": "vibration", // "vibetion"
     "WORP": "worship", // give up "WordPress"
     /*1*/ "STO*RBG": "stork",         // give up "State of New York"
     /*2*/ "A*UBG": "awk",             // give up "AUC"
