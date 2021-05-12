@@ -393,8 +393,8 @@
     "TKPWRET": "greet", // misstroke for "get"
     "HUPBLG": "huge",
     "KEP": "keep",
-    "PHEUPBD": "mind",
-    "PUR": "pure", // overrides "purchaser" [2]
+    "PHEUPBD": "mind", // frees up PHAOEUPBD for "mined" [2]
+    "PUR": "pure", // overrides "purchaser" [3]
     "SWER": "swear",
     "THOT": "thought",
     "TRE": "tree", // TRES rightfully belongs to "tress", so I'd have to use
@@ -403,11 +403,12 @@
                    // TPRE  "free"    TRE  "tree"
                    // TPREZ "freeze"  TREZ "trees"
     "SRUL": "value",
-    "WEBG": "week", // use WEB/-G for "webbing" [3]
+    "WEBG": "week", // use WEB/-G for "webbing" [4]
     /*1*/ "PWHREUPB/TKA": "Belinda",   // cf. SPHREPB/TKA "Splenda"
           "PWHREUPBD/KWRA": "Belinda", //     SPHREPBD/KWRA
-    /*2*/ "PR-FRP": "purchaser",       // from PR-FP "purchase"
-    /*3*/ "WEBG/H-F": "webbing",
+    /*2*/ "PHAOEUPBD": "mined",
+    /*3*/ "PR-FRP": "purchaser",       // from PR-FP "purchase"
+    /*4*/ "WEBG/H-F": "webbing",
 
     "KPUT": "compute",
     "KPUR": "computer",
