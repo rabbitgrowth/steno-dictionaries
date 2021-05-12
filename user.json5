@@ -3625,20 +3625,21 @@
                      // - cf. K-PBT "can't"
                      // - give up "can want"
                      // - frees up KAPBT for "cant" [1]
-    "KOPT": "couldn't",
+    "KOPT": "couldn't", // frees up KOPBT for "cotton" [2]
     "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
-    "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION} [2]
+    "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION} [3]
     "TKOEPT": "don't",
     "H-PT": "hadn't",
-    "SR-PT": "haven't", // overrides "vice president" [3]
+    "SR-PT": "haven't", // overrides "vice president" [4]
     "SHOPT": "shouldn't",
     "WUPT": "wasn't",
     "WERPT": "weren't", // use W-RPT (custom) for "we were the"
     "WOEPT": "won't",
     "WOPT": "wouldn't",
     /*1*/ "KAPBT": "cant",
-    /*2*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
-    /*3*/ "SREZ": "vice president",  // cf. PREZ  "president"
+    /*2*/ "KOPBT": "cotton",
+    /*3*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
+    /*4*/ "SREZ": "vice president",  // cf. PREZ  "president"
           "SR*EZ": "Vice President", // cf. PR*EZ "President"
 
     // Add -L as "bridge" to expand to full form
@@ -4138,21 +4139,18 @@
     "TKPWRAL": "integral", // allow dropping *
 
     // "contemplate" vs "conflate"
-    // The default strokes are a bit of a mess:
-    //   KAUPB/TPHRAEUT    "contemplate"        (use this for "conflate")
-    //   KAUPB/TPHRAEUTD   also "contemplate"
+    // The default strokes are very confusing:
+    //   KAUPB/TPHRAEUT    "contemplate" (use this for "conflate")
+    //   KAUPB/TPHRAEUTD   "contemplate"
     //   KAUPB/TPHRAEUGS   "conflation"
     //   KAUPB/TPHRA*EUT   "conflate"
     //   KAUPB/TPHRA*EUGS  undefined
-    //   KAUPBT/PHRAEUT    "contemplate"        (use this for "contemplate")
+    //   KAUPBT/PHRAEUT    "contemplate" (use this for "contemplate")
     //   KAUPBT/PHRAEUTD   "contemplated"
     //   KAUPBT/PHRAEUGS   "content population"
-    // Why not KOPBT/PHRAEUT? Because KOPBT is "couldn't", which looks jarring
-    // as an intermediate step. KAUPBT "content" is much more visually similar
-    // to the first part of "contemplate".
-    "KAUPBT/PHRAEUGS": "contemplation",
     "KAUPB/TPHRAEUT": "conflate",
     "KAUPB/TPHRAEUTD": "conflated",
+    "KAUPBT/PHRAEUGS": "contemplation",
 
     // "fig" vs "figure" vs "fission"
     "TPEUG": "figure",   // already works
