@@ -957,7 +957,9 @@
     "TKRAOERPL": "dreamer",
     "TKREFR": "dresser",
     "TKREUR": "drinker",
-    "ERZ": "easier",
+    "ERZ": "easier", // use ERS for {^ers}
+                     // (one of those rare cases like OERZ "otherwise" that would
+                     //  cause problems for someone who always uses -Z for -s)
     "AOE/TPHARPL": "enamor",
     "TPAEURPBT": "fainter",
     "TPAURLT": "falter", // cf. AURLT "alter"
