@@ -256,7 +256,6 @@
     "KOFPB/TKA*PBT": "confidante",
     "KAUPB/STAPBS/KWREU": "constancy", // or use STAPBT/SEU ("constant" + {^cy})
     "TKROEUD": "droid", // use STROEUD for "destroyed"
-    "AOEFR": "easier", // like AO*ERS but follows steno order
     "TPAEURLS": "failures", // "fairlies" is not a word
     "TPHREUFT": "felicity", // give up {^philicity} (obscure chemistry stuff)
     "TPHREUFT/OUS": "felicitous",
@@ -958,6 +957,7 @@
     "TKRAOERPL": "dreamer",
     "TKREFR": "dresser",
     "TKREUR": "drinker",
+    "ERZ": "easier",
     "AOE/TPHARPL": "enamor",
     "TPAEURPBT": "fainter",
     "TPAURLT": "falter", // cf. AURLT "alter"
