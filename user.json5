@@ -3621,22 +3621,24 @@
     // ... use -PT which is easier to hit. (See "Ergonomics".)
     "AEUPT": "ain't",
     "ARPT": "aren't",
-    "K-PT": "can't", // KAPT is "captain"
-                     // cf. K-PBT "can't"
-                     // give up "can want"
+    "K-PT": "can't", // - KAPT is "captain"
+                     // - cf. K-PBT "can't"
+                     // - give up "can want"
+                     // - frees up KAPBT for "cant" [1]
     "KOPT": "couldn't",
     "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
-    "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION} [1]
+    "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION} [2]
     "TKOEPT": "don't",
     "H-PT": "hadn't",
-    "SR-PT": "haven't", // overrides "vice president" [2]
+    "SR-PT": "haven't", // overrides "vice president" [3]
     "SHOPT": "shouldn't",
     "WUPT": "wasn't",
     "WERPT": "weren't", // use W-RPT (custom) for "we were the"
     "WOEPT": "won't",
     "WOPT": "wouldn't",
-    /*1*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
-    /*2*/ "SREZ": "vice president",  // cf. PREZ  "president"
+    /*1*/ "KAPBT": "cant",
+    /*2*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
+    /*3*/ "SREZ": "vice president",  // cf. PREZ  "president"
           "SR*EZ": "Vice President", // cf. PR*EZ "President"
 
     // Add -L as "bridge" to expand to full form
