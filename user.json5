@@ -20,9 +20,6 @@
     "KP-PBD": "explained",    // use KP-D  for "examined"
     "KP-PBG": "explaining",   // use KP-G  for "examining"
     "KP-PBGS": "explanation", // use KP-GS for "examination"
-    "-FD": "find",
-    "T-FD": "find it",
-    "TP-D": "found", // give up "pharmacodynamic"
     "TPR-D": "friend", // misstroke for "interested"
     "TPR-DZ": "friends",
     "TPR-LD": "friendly",
@@ -38,17 +35,12 @@
     "H-P": "hypothesis", // just fingerspell "HP"
     "H-PS": "hypotheses",
     "H-P/-S": "hypotheses",
-    "K-D": "kind", // use A/KORD for "accord"; Plover even allows A/K-D
-                   // KIND   416980
-                   // ACCORD   6864
-    "K-FD": "kind of",   // overrides "confidence"      [2]
-    "K-FDZ": "kinds of", // use K-FSZ for "confidences" [2]
     "HR-BG": "like", // use WELG for "welcome"
     "HR*BG": "{^like}", // use HR*PBG for "[l]ow i[nc]ome"
     "HR-BGS": "likes",
     "HR-BGD": "liked",
     "HR-BGT": "like the",
-    "HR-LG": "likely", // overrides {^ological} [3]
+    "HR-LG": "likely", // overrides {^ological} [2]
     "SHR-BG": "is like",
     "SHR-BGT": "is like the",
     "SHR-LG": "is likely",
@@ -59,19 +51,38 @@
     "PR-B": "problem",
     "-RT": "right", // - physically stroked with the right hand
                     // - use R-T for "are the"
-                    // - frees up RAOEUT for "rite" [4]
+                    // - frees up RAOEUT for "rite" [3]
     "T-G": "thing",
     /*1*/ "TKPW*PS": "GPS", // just write out "global positioning system"
-    /*2*/ "K-FS": "confidence", // cf. K-FT "confident",
-                                // following the -S vs -T pattern:
-                                // PREPBS "presence"
-                                // PREPBT "present"
-    /*3*/ "HR*LG": "{^ological}",
-    /*4*/ "RAOEUT": "rite",
+    /*2*/ "HR*LG": "{^ological}",
+    /*3*/ "RAOEUT": "rite",
           "RAOEUTS": "rites",
           "RAO*EUT": "riot",
           "RAO*EUTS": "riots",  // use THRAOEUTS for "arthritis"
           "RAO*EURT": "rioter", // much nicer than RAOEU/OT/*ER
+
+    "-FD": "find",
+    "T-FD": "find it",
+    "TP-D": "found", // give up "pharmacodynamic"
+    "K-D": "kind", // use A/KORD for "accord"; Plover even allows A/K-D
+                   // KIND   416980
+                   // ACCORD   6864
+    "K-FD": "kind of",   // overrides "confidence"      [1]
+    "K-FDZ": "kinds of", // use K-FSZ for "confidences" [1]
+    "PH-D": "mind", // - overrides "PhD" [2]
+                    // - frees up PHAOEUPBD for "mined" [3]
+    "PH-DZ": "minds", // overrides "merchandise" [4]
+    "PH-TD": "minded",
+    "PH-GD": "minding",
+    /*1*/ "K-FS": "confidence", // cf. K-FT "confident",
+                                // following the -S vs -T pattern:
+                                // PREPBS "presence"
+                                // PREPBT "present"
+    /*2*/ "PH*D": "PhD", // use PHAER/HRAPBD for "Maryland"
+                         // (or PHA*ER/HRA*PBD "Mary" + {^land})
+    /*3*/ "PHAOEUPBD": "mined",
+    /*4*/ "PHEFRPBDZ": "merchandise",
+          "PH*EFRPB": "merchandise", // add * to expand "merch" to full form
 
     "-TS": "its",
     "*TS": "itself",
@@ -393,8 +404,7 @@
     "TKPWRET": "greet", // misstroke for "get"
     "HUPBLG": "huge",
     "KEP": "keep",
-    "PHEUPBD": "mind", // frees up PHAOEUPBD for "mined" [2]
-    "PUR": "pure", // overrides "purchaser" [3]
+    "PUR": "pure", // overrides "purchaser" [2]
     "SWER": "swear",
     "THOT": "thought",
     "TRE": "tree", // TRES rightfully belongs to "tress", so I'd have to use
@@ -403,12 +413,11 @@
                    // TPRE  "free"    TRE  "tree"
                    // TPREZ "freeze"  TREZ "trees"
     "SRUL": "value",
-    "WEBG": "week", // use WEB/-G for "webbing" [4]
+    "WEBG": "week", // use WEB/-G for "webbing" [3]
     /*1*/ "PWHREUPB/TKA": "Belinda",   // cf. SPHREPB/TKA "Splenda"
           "PWHREUPBD/KWRA": "Belinda", //     SPHREPBD/KWRA
-    /*2*/ "PHAOEUPBD": "mined",
-    /*3*/ "PR-FRP": "purchaser",       // from PR-FP "purchase"
-    /*4*/ "WEBG/H-F": "webbing",
+    /*2*/ "PR-FRP": "purchaser",       // from PR-FP "purchase"
+    /*3*/ "WEBG/H-F": "webbing",
 
     "KPUT": "compute",
     "KPUR": "computer",
