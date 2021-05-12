@@ -3482,6 +3482,7 @@
     "WAOEUFT": "wisest",
     /*1*/ "HAO*EUFT": "heist",
           "HAOEUFT/H-F": "heist",
+          "HAOEUFTS": "heists", // "highests" is not a word
 
     // Irregular forms
     "URPBTD": "understood",
