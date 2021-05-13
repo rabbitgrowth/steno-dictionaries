@@ -3103,6 +3103,7 @@
     // AS GOOD AS   11733  STKPWAODZ
     // AS MANY AS   10931  SPHAEPBS
     // AS FAST AS    7145  STPAFTS
+    "STKPW-DZ": "as good as",  // with TKPW-D (custom)
     "STKPW-TS": "as great as", // with TKPW-T (custom)
     "STKPWRAETS": "as great as",
     "SPHALS": "as small as",
