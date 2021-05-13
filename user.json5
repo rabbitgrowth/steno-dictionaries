@@ -76,10 +76,9 @@
     "PH-DZ": "minds", // overrides "merchandise" [4]
     "PH-TD": "minded",
     "PH-GD": "minding",
-    /*1*/ "K-FS": "confidence", // cf. K-FT "confident",
-                                // following the -S vs -T pattern:
-                                // PREPBS "presence"
-                                // PREPBT "present"
+    /*1*/ "K-FS": "confidence", // cf. PREPBT "present"
+                                //     PREPBS "presence"
+                                //     K-FT   "confident"
     /*2*/ "PH*D": "PhD", // use PHAER/HRAPBD for "Maryland"
                          // (or PHA*ER/HRA*PBD "Mary" + {^land})
     /*3*/ "PHAOEUPBD": "mined",
