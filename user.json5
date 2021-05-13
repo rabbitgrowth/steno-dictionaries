@@ -26,7 +26,7 @@
     "SKWR-PL": "gentleman",
     "SKWR-PLS": "gentlemen",
     "SKWR-PL/-S": "gentlemen",
-    "TKPW-D": "good",
+    "TKPW-D": "good", // give up "good day"
     "TKPW-T": "great", // use TKPWET for "get" for symmetry with TKPWOT "got"
     "TKPW-RT": "greater",
     "TKPW-LT": "greatly", // use TKPWOEULT (custom) for "guilty"
