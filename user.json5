@@ -1908,25 +1908,30 @@
     "K*URLD": "curdle",    // KURLD is "curled"
     "WHAO*ELD": "wheedle", // WHAOELD is "wheeled"
 
-    // For -ndle, omit the -D and use -PBL following the lead of
-    // HAPBL "handle" (flapped /d/?). This makes inflections easier:
-    // TKWEUPBL  "dwindle"   (vs TKWEUPBLD)
-    // TKWEUPBLD "dwindled"  (vs TKWEUPBLD/-D)
-    // TKWEUPBLG "dwindling" (vs TKWEUPBLGD)
-    // TKWEUPBLS "dwindles"  (vs TKWEUPBLDZ)
-    // The downside is that I can forget about this special rule
-    // and try to stroke TKWEUPBLD for "dwindle".
-    "PWUPBL": "bundle",      // already works
-    "PWUPBLD": "bundled",    // by default also "bundle"
-    "PW*UPBLG": "bundling",  // starless is "budge"
+    // For -ndle, follow the lead of HAPBL "handle" and use -PBL.
+    // This makes inflections easier:
+    //   TKWEUPBL  "dwindle"   (vs TKWEUPBLD)
+    //   TKWEUPBLD "dwindled"  (vs TKWEUPBLD/-D)
+    //   TKWEUPBLG "dwindling" (vs TKWEUPBLGD)
+    //   TKWEUPBLS "dwindles"  (vs TKWEUPBLDZ)
+    // Although it can feel strange that TKWEUPBLD is "dwindled"
+    // despite being a perfectly phonetic stroke for "dwindle".
+    // But this is not unprecedented:
+    //   THA  "that"      WHA  "what"
+    //   THAT "that the"  WHAT "what the"
+    "PWUPBL": "bundle",     // already works
+    "PWUPBLD": "bundled",   // by default also "bundle"
+    "PW*UPBLG": "bundling", // starless is "budge"
+    "PWUPBLG/H-F": "bundling",
     "TKWEUPBL": "dwindle",
-    "TPOPBL": "fondle",      // use TPA*L or TPO*PBL for "phenomenal"
-                             // for consistency with TPO*PB "phenomenon"
-    "TPOPBLG": "fondling",   // by default "okay{.}"
+    "TPOPBL": "fondle", // use TPA*L or TPO*PBL for "phenomenal"
+                        // for consistency with TPO*PB "phenomenon"
+    "TPOPBLG": "fondling", // by default "okay{.}"
     "KEUPBL": "kindle",
     "SWEUPBL": "swindle",
-    "TRUPBL": "trundle",
+    "TRUPBL": "trundle",     // misstroke for "trouble"
     "TR*UPBLG": "trundling", // starless is "trudge"
+    "TRUPBLG/H-F": "trundling",
     // An exception to this exception: KAPBLD "candle". Why not KAPBL?
     // 1) KAPBL is by default the only way to stroke "canal",
     //    although it's not very phonetic I guess.
@@ -4701,9 +4706,6 @@
     "RUPBG/H-F": "running",         // from "rung"
     "STRAEUPBG/H-F": "straining",   // from "strange"
     "STUPBG/H-F": "stunning",       // from "stung"
-
-    "PWUPBLG/H-F": "bundling",      // from "budge"
-    "TRUPBLG/H-F": "trundling",     // from "trudge"
 
     // When folding in -D doesn't work
     "HROUD/H-F": "allowed",         // from "loud"
