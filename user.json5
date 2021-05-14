@@ -1954,6 +1954,7 @@
     "SKWRERPB": "German",
     "HARLD": "hardly",          // use HAEURLD or HAR/OLD for "Harold"
     "HERD": "herd",             // use HAERD for "heard", like HAER for "hear"
+    "EUPB/TPHREBGS": "inflection",
     "SPWREBGS": "intersection", // cf. SPWREBGT "intersect"
     "SKWRELS": "jealous",       // use -Z for "gels"
     "SKWRAOELS": "jealousy",    // lengthen vowel for -y
