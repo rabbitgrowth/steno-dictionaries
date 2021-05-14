@@ -3525,7 +3525,6 @@
     "STPEF": "ineffective",
     "SKWAELT": "inequality", // S+E+KWALT
     "STPORL": "informal",
-    "SABL": "unable",
     "SK-RBS": "unconscious",
     "SK-RBLS": "unconsciously", // tricky to hit
     "SKP-PTD": "unexpected",
@@ -3536,6 +3535,9 @@
     "SPORPB": "unimportant", // give up "important is"
     "STPHOEPB": "unknown",
     "SPHREFPBT": "unpleasant",
+
+    "SABL": "unable",
+    "SABLT": "inability", // English is interesting
 
     "SHRORPBG": "no longer",
     "SPHAERT": "no matter",
