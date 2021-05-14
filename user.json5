@@ -4658,6 +4658,7 @@
     "ROES/H-F": "rows",             // from "rose"
     "SEBGS/H-F": "seconds",         // from "section"
     "SPAOEUS/H-F": "spies",         // from "spice"
+    "SUBGS/H-F": "sucks",           // from "suction"
     "SUGS/H-F": "suggests",         // from "suggestion"
     "SPHRAOEUS/H-F": "supplies",    // from "splice"
     "TERS/H-F": "terrors",          // from "terse"
