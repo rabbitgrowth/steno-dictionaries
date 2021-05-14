@@ -4502,6 +4502,9 @@
     "THA/AOUGS": "that using", // ("It was estimated that using contract workers
                                //  could save the company millions of dollars.")
 
+    // U/TPHAOETD "you need"
+    "U/TPHAOETD": "you needed",
+
     // KWROUR/TEFL "yourself" (odd misstroke)
     "KWROUR/TEFL": "your telephone",
 
