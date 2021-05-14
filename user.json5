@@ -902,6 +902,8 @@
     "SAEFG": "assessing",    // use SAEG or STPAOEUG for "satisfying"
     "SAEFPLT": "assessment", // or just use SEFPLT
     "SAET": "asset",
+    "SAUPLGS": "assumption",
+    "SAUPGS": "assumption", // omit -L to make it easier to press; cf. A/SUPGS
     "SHAUR": "assure",
     "SHAURPBS": "assurance",
     "TAEPLT": "attempt",
@@ -3281,6 +3283,7 @@
     "S-PBS": "seasons", // use SAOPBS for "as soon as"
     "SOEU/PWAOEPBS": "soybeans",
     "STAEUR/KAEUSZ": "staircases",
+    "SUPLS": "sums", // use SAUPLGS (custom) for "assumption"
     "TEL/SKOEPS": "telescopes",
     "TEPB/ETS": "tenets",
     "THEURS": "thinkers", // use THEUFRT for "thirst"
