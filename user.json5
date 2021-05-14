@@ -4098,12 +4098,12 @@
 
     // "introvert" and "extrovert"
     "SPWROE/SRERT": "introvert", // cf. EBGS/TROE/SRERT "extrovert"
-    "EBGS/TROEFRT": "extrovert", // cf. SPWROEFRT "introvert"
+    "EBGS/TROEFRT": "extrovert", // cf. SPWROEFRT       "introvert"
     "KPROEFRT": "extrovert",
 
     // "melancholy" family
     "PHEL/KOEL": "melancholy",  // PHEL/KOL/KWREU but with "many" rule
-    "PHEL/KOLG": "melancholic", // PHEPBL/KOLG but omit -PB like "melancholy"
+    "PHEL/KOLG": "melancholic", // PHEPBL/KOLG    but omit -PB like "melancholy"
 
     // "philosophy" family
     "TPHROF": "philosophy",    // or use TPHROS/TPEU
