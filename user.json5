@@ -612,7 +612,7 @@
     "PHO*EPBG": "monkey", // cf. PHO*PBG "monk"
     "PROEBGS": "proxy", // use PREBGS for "protection"
     "SRAEL": "valley", // overrides "vale" [1]
-    /*1*/ "SRA*EUL": "vale",
+    /*1*/ "SRA*EL": "vale", // give up "eval"
 
     "HROEB": "lobby",        // overrides "lobe"
     "HROEBG": "lobbying",    // overrides "locate"
