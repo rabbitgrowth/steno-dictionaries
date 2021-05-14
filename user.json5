@@ -3583,6 +3583,7 @@
     "TKARPL/KWRA": "dharma",
     "TKAO*US": "dews",
     "KP*EL": "excel", // use *EBGS/EL for "Excel"
+    "HAL/HRAOU/KWRA": "hallelujah", // requires SKWRA by default
     "HURPBT": "hunter",
     "PHOR/ROE": "morrow",
     "OP/ED": "op-ed",
