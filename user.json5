@@ -4079,6 +4079,7 @@
 
     // "err" family
     "*ER": "err",      // use ER (custom) for {^er}
+    "*ERS": "errs",    // ERS already works for {^ers}
     "ROER": "error",   // symmetrical and has all the letters
     "ERPBT": "errant", // but "errand" is ER/APBD since ERPBD is "earned"
 
