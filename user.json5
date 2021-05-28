@@ -256,6 +256,8 @@
     "KOFPB/TKAPBT": "confidant",
     "KOFPB/TKA*PBT": "confidante",
     "KAUPB/STAPBS/KWREU": "constancy", // or use STAPBT/SEU ("constant" + {^cy})
+    "TKAEURPBG": "danger",     // use TKAEURG    for "daring"
+    "TKAEURPBGS": "dangerous", // use TKAEURPBGZ for "dangers"
     "TKROEUD": "droid", // use STROEUD for "destroyed"
     "TPAEURLS": "failures", // "fairlies" is not a word
     "TPHREUFT": "felicity", // give up {^philicity} (obscure chemistry stuff)
