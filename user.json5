@@ -20,9 +20,6 @@
     "KP-PBD": "explained",    // use KP-D  for "examined"
     "KP-PBG": "explaining",   // use KP-G  for "examining"
     "KP-PBGS": "explanation", // use KP-GS for "examination"
-    "TPR-D": "friend", // misstroke for "interested"
-    "TPR-DZ": "friends",
-    "TPR-LD": "friendly",
     "SKWR-PL": "gentleman",
     "SKWR-PLS": "gentlemen",
     "SKWR-PL/-S": "gentlemen",
@@ -1043,6 +1040,7 @@
     "TPRAPBLG": "frankly", // from TPRAPBG "frank"
                            // (no * because * is reserved for "Frank")
                            // use TPRALG for "fragile"
+    "TPREPBL": "friendly", // overrides "Fresnel" [2]
     "TKPWAFLT": "ghastly",
     "TKPWHRALD": "gladly",
     "TKPWHREUBL": "glibly",
@@ -1056,7 +1054,7 @@
     "TPHAOELT": "neatly",
     "TPHAOEULT": "nightly",
     "TPHO/TORLS": "notoriously",
-    "OEPL": "openly", // overrides "ohm" [2]
+    "OEPL": "openly", // overrides "ohm" [3]
     "PAEURBLT": "patiently",
     "PHRAOEULT": "politely",
     "PRO*PBLT": "predominantly",
@@ -1065,7 +1063,7 @@
     "RES/HRAOULT": "resolutely",
     "RAOUPBLT": "routinely", // phonetic
     "ROEUPBL": "routinely",  // brief
-    "SALD": "sadly", // overrides "salad" [3]
+    "SALD": "sadly", // overrides "salad" [4]
     "STAUFRPBL": "staunchly",
     "STAOUPLD": "stupidly",
     "SWEUFLT": "swiftly",
@@ -1073,8 +1071,9 @@
     "SREUG/ROULS": "vigorously",
     "SREUFLD": "vividly",
     /*1*/ "PROLT": "protocol",
-    /*2*/ "O*PL": "ohm", // feels consistent with O "oh" (custom)
-    /*3*/ "SAELD": "salad", // AE for /æ/
+    /*2*/ "TPRAEUPBL": "Fresnel", // /ˈfreɪnəl/
+    /*3*/ "O*PL": "ohm", // feels consistent with O "oh" (custom)
+    /*4*/ "SAELD": "salad", // AE for /æ/
 
     // ... or use HR if -L is already used
     "PWHROELD": "boldly",
