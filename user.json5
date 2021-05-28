@@ -3826,6 +3826,12 @@
     // so add *. As a nice coincidence, A*D is "ad".
     "A*D/PHEUBGS": "admix", // add {^ture} to get "admixture"
 
+    // Swap "lets" and "let's" following our "add * for contraction" rule.
+    // Plover probably uses the starless stroke for "let's" because it's
+    // such a common word, but "lets" isn't exactly rare either.
+    "HRETS": "lets",
+    "HR*ETS": "let's",
+
     // Swap TRAOET "treat" and TRAET "treaty"
     // It's unclear what rule makes TRAET "treaty" in Plover. It's not the
     // "many" rule, according to which TRAET should be something like
