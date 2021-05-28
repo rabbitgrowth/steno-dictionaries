@@ -352,6 +352,7 @@
     "SPWREFT": "interest",        // to TR
     "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
     "TPHAEURB": "neighbor",       // to TPHAEUB
+    "SPWEFRB": "observe",         // to OEB, which has a slight problem: OEBG is "oak"
     "SEUFRT": "sister",           // to ST-R
 
     // Allow not omitting -R in -ral and -rate
