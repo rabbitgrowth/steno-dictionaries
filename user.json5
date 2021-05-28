@@ -3491,6 +3491,7 @@
     "PWEUFT": "biggest", // PWEUG, PWEURG, PWEUFT ("big, bigr, bist")
     "PWRAOEUFT": "brightest",
     "KHROEFT": "closest",
+    "TKAFRT": "darkest",
     "HAOEUFT": "highest", // cf. HROEFT "lowest"; overides "heist" [1]
     "HRAOEUFT": "lightest",
     "OEFT": "oldest",
