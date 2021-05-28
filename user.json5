@@ -3832,16 +3832,6 @@
     "HRETS": "lets",
     "HR*ETS": "let's",
 
-    // Swap TRAOET "treat" and TRAET "treaty"
-    // It's unclear what rule makes TRAET "treaty" in Plover. It's not the
-    // "many" rule, according to which TRAET should be something like
-    // "trea-tee" or "tray-tee"; and the AE doesn't stand for /æ/ either.
-    "TRAET": "treat",   // orthographic, like HAET "heat", PWAET "beat", etc.
-    "TRAOET": "treaty", // feels right because "treaty" has two AOEs (/i/)
-                        // and no AE (/æ/); think "tree-T"
-    // As a bonus, word length and stroke length now match up perfectly.
-    "TRAEPLT": "treatment", // cf. TRAOEPLT
-
     // KROEUR "occur" is ugly. Between KR and K-R, choose KR such that
     // word length and stroke length match up:
     // K-R   "occur"
@@ -3855,6 +3845,16 @@
     // but it ends with -S, which makes "sacrifices" and "sacrificed" awkward.
     // So just drop the -S.
     "SKREUF": "sacrifice", // "scriff"
+
+    // Swap TRAOET "treat" and TRAET "treaty"
+    // It's unclear what rule makes TRAET "treaty" in Plover. It's not the
+    // "many" rule, according to which TRAET should be something like
+    // "trea-tee" or "tray-tee"; and the AE doesn't stand for /æ/ either.
+    "TRAET": "treat",   // orthographic, like HAET "heat", PWAET "beat", etc.
+    "TRAOET": "treaty", // feels right because "treaty" has two AOEs (/i/)
+                        // and no AE (/æ/); think "tree-T"
+    // As a bonus, word length and stroke length now match up perfectly.
+    "TRAEPLT": "treatment", // cf. TRAOEPLT
 
     // -- Punctuation as shapes ------------------------------------------------
 
