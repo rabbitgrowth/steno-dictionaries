@@ -131,7 +131,7 @@
     "KPHRET": "complete",       // with KPHRELT "completely"
     "KPHREGS": "completion",
     "KRAOEFT": "creativity",    // with KRAOEF "creative"
-    "KREBL": "credible",        // with EUPB/KREBL "incredible"
+    "KREBL": "credible",        // with EUPB/KREBL "incredible", KREBLT "credibility"
                                 //   use KRET/-BL for "creditable"
     "KRED/AOULT": "credulity",  // with EUPB/KRED/AOULT "incredulity"
     "STKR-FL": "disrespectful", // with R-PT    "respect"
@@ -3517,6 +3517,8 @@
     "SKAOPBS": "inconsistency",
     "SKAOPBT": "inconsistent",
     "SKREBGT": "incorrect",
+    "SKREBL": "incredible", // with KREBL "credible" (custom)
+    "SKREBLT": "incredibility",
     "STK-FS": "indifference", // from TK-FS "difference" (custom)
     "STK-FT": "indifferent",  // from TK-FT "different"  (custom)
     "STKRET": "indirect", // see also SPWRET
