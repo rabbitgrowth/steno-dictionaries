@@ -299,6 +299,7 @@
     "SRAOEZ": "series",
     "S*EUBGT": "sixth", // alternative British pronunciation (/sɪkθ/)
     "SOEPB/AR": "sonar",
+    "SOPBT": "sonnet", // overrides "sonata" [1]
     "STRAOEUTD": "strident",
     "TAOEPL": "teem", // use TAEPL for "team"
     "TAOEPLS": "teems",
@@ -321,6 +322,7 @@
     "WAOPB": "wooden", // shortcut to avoid -D
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELS for "sells"
+    /*1*/ "STPHAT/SKWRA": "sonata", // or just use SO/TPHA/TA
 
     "APL": "apple", // overrides "am"
     "-PL": "am",    // cf. EU/-PL "I am"; use TP-PL for {.}
