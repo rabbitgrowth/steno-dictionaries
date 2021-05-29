@@ -170,6 +170,7 @@
     "HR-PB": "listen",          // with HR-PBG "listening"; use HR-PBS for "license"
     "HR-PBD": "listened",
     "HR-RPB": "listener",
+    "PH*EUBG": "mechanic",      // with PH*EUBGS "mechanics"; give up "MIC"
     "PHOEUL": "mellow",         // with KWROEUL "yellow"
                                 //   but TPOEUL and PWOEUL are "foil" and "boil"
                                 //   instead of "fellow" and "bellow"
