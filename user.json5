@@ -919,6 +919,7 @@
     "SPWROD": "abroad",
     "SKROS": "across",  // KRAOS feels more like "croos"
     "SHROEPB": "alone", // HRAOEPB is "lean"; overrides "Sloan" [1]
+    "SHROUD": "aloud",  // add * for "shroud", like SHRUG "slug" vs SHR*UG "shrug"
     "SPART": "apart",   // can't fold in A when there's already an A
     "SRAOEUF": "arrive",
     "SRAOEUFL": "arrival",
