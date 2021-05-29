@@ -662,6 +662,9 @@
     "PWHROEUD": "bloody", // use KPWHROEUD (custom) for "employed",
                           // which makes this misstroke unlikely
                           // (see also PHOEUD "media")
+    "KOEURL": "curly",
+    "TPO*EULT": "filthy",
+    "TPROEUT": "fruity",
     "TKPWOEULT": "guilty",
     "PHOEURS": "mercy", // give up "MRSA"
     "POEUT": "pity",    // give up "PO2"
