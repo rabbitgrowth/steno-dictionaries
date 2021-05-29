@@ -1458,7 +1458,7 @@
     // This is standard in Plover (KHRAR/TPEU "clarify",
     // KHRAS/TPEU "classify", TKE/TPEU "defy", etc.);
     // it's the inflections that don't work.
-                                   // might cause word boundary error with
+                                   // theoretically conflicts with
     "KHRAR/TPEUS": "clarifies",    // "collar physical" ("a blue-~ job")
     "KHRAR/TPEUG": "clarifying",   // "collar figure"
     "KHRAS/TPEUS": "classifies",   // "class physical"  ("in-~ activity")
@@ -3378,6 +3378,8 @@
     "TKEUPL/WEUTD": "dimwitted",
     "EPB/HAFPBD": "enhanced",
     "EPB/HAPBGS": "enhancing",
+    "SPWER/PRAOEUFG": "enterprising", // theoretically conflicts with "enter pricing"
+                                      // ("manually enter pricing information")
     "ES/KHRAEUTD": "escalated",
     "ES/KHRAEUGT": "escalating",
     "TPRABG/TAOURD": "fractured",  // or use TPRAFPD
@@ -3885,6 +3887,12 @@
     // As a bonus, word length and stroke length now match up perfectly.
     "TRAEPLT": "treatment", // cf. TRAOEPLT
 
+    // TPH-PB "under" never made sense to me. Why two Ns?
+    // Plus TPH-PBT is "innocent" (which is consistent with TPH-PBS
+    // "innocence"), so there's no way to one-stroke "under the".
+    "TPH-R": "under", // use TPHOR for "nor", which is consistent with OR "or"
+    "TPH-RT": "under the",
+
     // -- Punctuation as shapes ------------------------------------------------
 
     // Ellipsis
@@ -4120,6 +4128,14 @@
     "TKPHEUFG": "dismissing",
     "TKPHEUFL": "dismissal",
     "TKPHEUFS": "dismissive",
+
+    // "entertain" family
+    "SPWER/TAEUPB": "entertain", // already works
+    "SPWER/TAEUPBD": "entertained", // theoretically conflicts with "enter contained"
+                                    // ("the data I was trying to enter contained...")
+    "SPWER/TAEURPB": "entertainer",
+    "SPWER/TAEURPBS": "entertainers",
+    "SPWER/TAEUPLT": "entertainment", // or just use TAEUPLT
 
     // "err" family
     "*ER": "err",      // use ER (custom) for {^er}
@@ -4424,17 +4440,6 @@
     "TPH-DZ": "ends",    // overrides "inside" [1]
     "TPH-GD": "ending",  // much easier to hit than EPBGD
     "TPH-TD": "ended",   // overrides "noticed" [2]
-    "TPH-RT": "enter",   // "N-ter"; easier to hit than SPWER
-    "TPH-RD": "entered", // shortcut for TPH-RTD
-    // Having a dedicated stroke for the individual word "enter"
-    // makes it safe to use SPWER for words beginning with enter-.
-    "SPWER/PRAOEUFG": "enterprising", // vs TPH-RT/PRAOEUFG "enter pricing"
-                                      // ("manually enter pricing information")
-    "SPWER/TAEUPBD": "entertained", // vs TPH-RT/PRAOEUFG "enter contained"
-                                    // ("the data I was trying to enter contained...")
-    "SPWER/TAEURPB": "entertainer",
-    "SPWER/TAEURPBS": "entertainers",
-    "SPWER/TAEUPLT": "entertainment", // or just use TAEUPLT
     /*1*/ "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
           "OUFD": "outside",  // "ousd"; for consistency
     /*2*/ "TPH-TSDZ": "noticed", // (TPH-TS + -D) + -Z
