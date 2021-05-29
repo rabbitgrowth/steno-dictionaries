@@ -3409,17 +3409,17 @@
     "SKAOEGD": "succeeding",
     "TREUG": "trying",       // overrides "trig" [2]
     // The automatic suffix-appending mechanism for -S -Z -G -D
-    // don't work for these words because of a variety of reasons.
-    // 1) The stroke with the -S -Z -G -D is defined for a completely
-    //    different word. For example, TREUG feels like it should be
-    //    "trying" (TREU + -G), but is actually defined as "trig".
-    // 2) The stroke *without* the -S -Z -G -D is defined for a completely
+    // doesn't work for these words because of a variety of reasons.
+    // 1) The stroke with the -S -Z -G -D is defined as a different word.
+    //    For example, TREUG feels like it should be "trying" (TREU + -G),
+    //    but is by definition "trig".
+    // 2) The stroke *without* the -S -Z -G -D is defined as a
     //    different word, and the mechanism kicks in for *that* word.
     //    For instance, SKAOEGD feels like it should be "succeeding"
-    //    (SKAOED + -G), but SKAOEG (SKAOEGD without the -D) is "skiing",
-    //    so SKAOEGD gives the nonsensical "skiinged" instead.
-    // 3) -F is used instead of -S, and as one might reasonably expect,
-    //    the system isn't smart enough to figure that out.
+    //    (SKAOED + -G), but since SKAOEG is defined as "skiing",
+    //    it gives the nonsensical "skiinged" instead (SKAOEG + -D).
+    // 3) -F is used instead of -S (e.g., PHREUFG "policing"),
+    //    and the system isn't smart enough to figure that out.
     /*1*/ "RAEUFRPBD": "Raymond", // with -FR as -m
     /*2*/ "TR*EUG": "trig",
 
