@@ -309,6 +309,7 @@
     "TAOEPLD": "teemed",
     "TAOEPBG": "teenage",
     "TAOERPBG": "teenager",
+    "T*EPBT": "tenth",   // overrides "entity"
     "T*ERS": "terrace", // starless is "terse"
     "TREFPS": "treacherous",
     "TROEL": "troll", // use PROL for "patrol"
@@ -337,9 +338,6 @@
                             //   HREUFPB   "liven"   (/ʌɪ/)
                             //   HRAOEUFPB "horizon"
                             //   HR-PB     "listen"  (custom)
-
-    "T*EPBT": "tenth",   // overrides "entity"
-    "EPBT/-T": "entity", // or use the more normal EPBT/TEU
 
     // Phonetic alternatives to briefs
     "KAT/TKPWREU": "category",    // to KOERG and KR-RG (custom)
