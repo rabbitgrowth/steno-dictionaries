@@ -3921,8 +3921,6 @@
 
     "WUZ": "{#}", // JUJ/(no-op)/*MT -> judgement
 
-    "SKWR-RBGS": "{#command(a)}", // select all on Mac
-
     // -- Basics ---------------------------------------------------------------
 
     // Exclamation
