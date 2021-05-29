@@ -3918,6 +3918,7 @@
     // -- Commands -------------------------------------------------------------
 
     "TK-LG": "{^^}", // TK-LS but vertically aligned
+
     "SK-GS": "{*?}", // retrospectively add space
                      // use S/SK-G for "is asking"
                      // SK <- -> GS (visually torn apart)
