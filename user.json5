@@ -4281,6 +4281,14 @@
 
     // -- Group reassignments --------------------------------------------------
 
+    // PWRAOUS  "Bruce"  -> "bruise"
+    // PWRAO*US "Bruce"
+    // PWRAOUZ  "bruise" -> "brews"
+    // KRAOUS   "cruise"
+    // KRAOUZ   "crews"
+    "PWRAOUS": "bruise",
+    "PWRAOUZ": "brews",
+
     // PHAS   "mass"
     // PHASZ  "mass"    -> "masses"
     // PHAFS  "masses"  -> "massive"
