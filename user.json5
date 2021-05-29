@@ -3206,6 +3206,7 @@
     "SKHER": "ask her",
     "SKHEUPL": "ask him",
     "TPE": "if he", // give up "fe", which is not a word
+    "TPHORTD": "in order to", // TO is in TPHORD "in order", so use -T for "to"
     "TPHEUS": "in this",
     "TPHURPB": "in turn", // instead of "turn in"; follow steno order
     "STHAU": "is that you",
@@ -3842,7 +3843,6 @@
     "HA*RPL": "harmony",   // mnemonic: Jacob Collier's #IHarmYou
     "HOELT": "hotel",      // feels natural because it has all the letters
     "HO*ELT": "Hotel",
-    "TAOU": "in order to", // a stronger "to"
     "HRAO*EULG": "lilac",  // *LG for "lk" with a vowel in the middle
     "O/ER": "o'er",        // separate into two strokes since OER is "other"
     "KW-T": "quiet",       // KWAOEUT ("quite") is too loud
