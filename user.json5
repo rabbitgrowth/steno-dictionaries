@@ -3642,8 +3642,7 @@
     "AUP/STAEUT": "upstate",
 
     // Add * to capitalize
-    // For common nouns that can be capitalized and names that
-    // also happen to be common nouns. Precedents:
+    // For common nouns that can be capitalized. Precedents:
     //   TKPWOD  "god"      TKPWO*D  "God"
     //   SOET    "society"  SO*ET    "Society"
     //   TPHEUBG "nick"     TPH*EUBG "Nick"
