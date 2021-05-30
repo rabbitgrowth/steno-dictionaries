@@ -3770,6 +3770,7 @@
     "PREFL": "previously",
     "SEBG": "second",       // sec  (overrides "sec" [1])
     "T-GT": "together",     // tgt  (use TAEUL/TKPWAEUT for "tailgate")
+    "T-RPL": "tomorrow",    // tmr
     /*1*/ "S*EBG": "sec",
 
     // Add * to expand to full form
