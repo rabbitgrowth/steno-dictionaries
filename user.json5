@@ -3708,6 +3708,7 @@
     "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION} [3]
     "TKOEPT": "don't",
     "H-PT": "hadn't",
+    "HAPT": "hasn't",
     "SR-PT": "haven't", // overrides "vice president" [4]
     "SHOPT": "shouldn't",
     "WUPT": "wasn't",
