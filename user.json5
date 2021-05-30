@@ -1837,7 +1837,7 @@
     /*2*/ "WO*RT": "wort",
 
     "PHETD": "method",    // by default "meted" by accident ("met" + {^ed})
-                          // to type "meted" properly, use PHAO*ETD
+                          // to write "meted" properly, use PHAO*ETD
     "PHAOETD": "meted",   // ... whose * is droppable,
                           // because "meeted" is not a word
     "PHETSDZ": "methods", // (PHETD + -S) + -Z
@@ -2051,7 +2051,7 @@
     //   PED "pedestrian" ("autocompletes" to PED/STRAOEPB)
     // This sometimes has the added benefit of preventing distracting garbage
     // from flashing past on screen. For example, since SREU is "have I",
-    // if I type SREUG/ROUS for "vigorous", "have Iing" would briefly appear
+    // if I write SREUG/ROUS for "vigorous", "have Iing" would briefly appear
     // before getting replaced by "vigorous":
     //   SREUG      "have Iing"
     //   SREUG/ROUS "vigorous"
