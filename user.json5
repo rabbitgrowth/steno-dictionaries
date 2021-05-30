@@ -176,6 +176,8 @@
                                 //   instead of "fellow" and "bellow"
     "PHAOEUFB": "might have been",
                                 // with PHAEUFB "may have been"
+    "PHEURL": "miracle",        // with ARL "article", SEURL "circle"
+                                //   overrides "Merrill" [1]
     "TPHAOERB": "nearby",       // with TPHAOER "near"; use TPHEURB for "niche"
     "TPEUFR": "officer",        // with TPEURBL "official"
     "OPB/WARD": "onward",       // with PWABG/WARD "backward"
@@ -200,6 +202,10 @@
     "UFT": "unfortunate",       // with UFL "unfortunately"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
+    /*1*/ "PH*ERL": "Merrill", // PHERL   "Meryl"
+                               // PH*ERL  "Merrill" (custom)
+                               // PHEURL  "miracle" (custom)
+                               // PH*EURL "Miller"
 
     "PWROE": "borrow",     // with SROE "sorrow"; use PWRO for "borough"
     "PWROEG": "borrowing", // much nicer than PWO*ERPBG; overrides "brogue" [1]
