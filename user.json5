@@ -4440,11 +4440,11 @@
 
     // Pronounce TPH as en-
     // Precedents: TPH-PBLG "engine", TPH-RG "energy"
-    "TPH-D": "end",      // "N'd"; easier to stroke than EPBD
-                         // give up {^ed in}
-    "TPH-DZ": "ends",    // overrides "inside" [1]
-    "TPH-GD": "ending",  // much easier to stroke than EPBGD
-    "TPH-TD": "ended",   // overrides "noticed" [2]
+    "TPH-D": "end",     // "N'd"; easier to stroke than EPBD
+                        // give up {^ed in}
+    "TPH-DZ": "ends",   // overrides "inside" [1]
+    "TPH-GD": "ending", // much easier to stroke than EPBGD
+    "TPH-TD": "ended",  // overrides "noticed" [2]
     /*1*/ "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
           "OUFD": "outside",  // "ousd"; for consistency
     /*2*/ "TPH-TSDZ": "noticed", // (TPH-TS + -D) + -Z
