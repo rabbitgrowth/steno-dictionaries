@@ -909,7 +909,7 @@
     "SAEFPLT": "assessment", // or just use SEFPLT
     "SAET": "asset",
     "SAUPLGS": "assumption",
-    "SAUPGS": "assumption", // omit -L to make it easier to press; cf. A/SUPGS
+    "SAUPGS": "assumption", // omit -L to make it easier to stroke; cf. A/SUPGS
     "SHAUR": "assure",
     "SHAURPBS": "assurance",
     "TAEPLT": "attempt",
@@ -1712,7 +1712,7 @@
                                  // so use -FPB as a last resort
     "TPHRAPBT": "flatten",       // - -T = "flan"
     "TPRAOEUPBT": "frighten",    // why use -FPB when -PBT is free?
-    "TPRAOEUPB": "frighten",     // allow dropping -T to make it easier to type
+    "TPRAOEUPB": "frighten",     // allow dropping -T to make it easier to stroke
     "TPRAOEUPBG": "frightening", // misstroke (phonetic alternative?) for "frying"
     "STRAEUPBT": "straighten",   // - -T = "strain"
     "THREPB": "threaten",        // + -T = "talent"
@@ -1796,7 +1796,7 @@
     "SPWOLZ": "symbolize",
     "AOULZ": "utilize", // compared with THRAOEUZ,
                         // feels more consistent with AOUS "use"
-    "SREURBLDZ": "visualize", // although the standard SREUFLZ is easier to hit
+    "SREURBLDZ": "visualize", // although the standard SREUFLZ is easier to stroke
     // More exotically:
     "SKWREPDZ": "jeopardize",
     "SURPLZ": "summarize",
@@ -2716,7 +2716,7 @@
     // "people ..."
     // PAOEPL is definitely a bit clumsy for how common "people" is.
     // PEPL is better (although it's listed as a misstroke).
-    // P is only slightly easier to type than PEPL but really shines
+    // P is only slightly easier to stroke than PEPL but really shines
     // when you stack it.
     "P": "people",
     "P-R": "people are", // misstroke for "for"
@@ -3345,7 +3345,7 @@
           "EUFG": "{^izing}", // cf. AO*EUFG
 
     // When there's no conflict, prefer -S over -Z.
-    // It's just easier to type.
+    // It's just easier to stroke.
     "KPROPLS": "compromise",
     "STKPAOEUS": "despise",
     "RES/TPHAEUGS": "resignation",
@@ -3689,7 +3689,7 @@
     //   H-PBT  "hadn't"
     //   KAPBT  "can't"
     //   KOPBT  "couldn't"
-    // ... use -PT which is easier to hit. (See "Ergonomics".)
+    // ... use -PT which is easier to stroke. (See "Ergonomics".)
     "AEUPT": "ain't",
     "ARPT": "aren't",
     "K-PT": "can't", // - KAPT is "captain"
@@ -3980,7 +3980,7 @@
     // to avoid *, but that's an added layer of complexity. It's better to
     // stick to the "default to full form and add * for contraction" rule.
     "THR-S": "there is", // advantage: neatly partitioned
-    "TH-RS": "there is", // advantage: easier to hit
+    "TH-RS": "there is", // advantage: easier to stroke
     "THR-TS": "there is the",
     "TH-RTS": "there is the",
     "THR*S": "there's",    // already works
@@ -4440,10 +4440,10 @@
 
     // Pronounce TPH as en-
     // Precedents: TPH-PBLG "engine", TPH-RG "energy"
-    "TPH-D": "end",      // "N'd"; easier to hit than EPBD
+    "TPH-D": "end",      // "N'd"; easier to stroke than EPBD
                          // give up {^ed in}
     "TPH-DZ": "ends",    // overrides "inside" [1]
-    "TPH-GD": "ending",  // much easier to hit than EPBGD
+    "TPH-GD": "ending",  // much easier to stroke than EPBGD
     "TPH-TD": "ended",   // overrides "noticed" [2]
     /*1*/ "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
           "OUFD": "outside",  // "ousd"; for consistency
