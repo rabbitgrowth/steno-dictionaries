@@ -1713,7 +1713,7 @@
     "TPHRAPBT": "flatten",       // - -T = "flan"
     "TPRAOEUPBT": "frighten",    // why use -FPB when -PBT is free?
     "TPRAOEUPB": "frighten",     // allow dropping -T to make it easier to stroke
-    "TPRAOEUPBG": "frightening", // misstroke (phonetic alternative?) for "frying"
+    "TPRAOEUPBG": "frightening", // phonetic stroke for "frying"; use TPRAOEUG
     "STRAEUPBT": "straighten",   // - -T = "strain"
     "THREPB": "threaten",        // + -T = "talent"
                                  // mnemonic: threa(glottal stop)en
