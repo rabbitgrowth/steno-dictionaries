@@ -2714,10 +2714,6 @@
     "SPH-RP": "some were",
 
     // "people ..."
-    // PAOEPL is definitely a bit clumsy for how common "people" is.
-    // PEPL is better (although it's listed as a misstroke).
-    // P is only slightly easier to stroke than PEPL but really shines
-    // when you stack it.
     "P": "people",
     "P-R": "people are", // misstroke for "for"
     "P-RP": "people were",
