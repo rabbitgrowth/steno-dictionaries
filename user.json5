@@ -42,7 +42,6 @@
     "SHR-BGT": "is like the",
     "SHR-LG": "is likely",
     "HRAOLG": "likelihood", // HR-LG + "oo"
-    "P-FP": "picture", // misstroke for {.}
     "P-T": "point",   // use P-P for {^.^}
     "P-TS": "points", // use PREZ/-Z for "presidents"
     "P-FT": "point of",
@@ -230,7 +229,6 @@
     // SHRAF   undefined  SHRAEUF   "slave"
 
     // Words with other words in them
-    "ARG/KURLT": "agriculture", // or just use AG/KULT
     "PHEL/TKROEUPL": "melodrama",
     "SEUFRP/TOPB": "simpleton",
 
@@ -1693,12 +1691,36 @@
     "TRA/SREFRD": "traversed",
     "SREFRD": "versed",
 
-    // -RT for -ture
+    // -FP, -RT, or TUR for -ture
+    //               -FP          -RT         TUR  (and KHUR, GS, BGS...)
+    // "future"      TPAOUFP      TPAOURT     /
+    // "nature"      TPHAEUFP     TPHAEURT    TPHAEU/TUR
+    // "culture"     KAOUFP [1]   KURLT       KUL/TUR
+    // "feature"     TPAOEFP      /           TPAOE/TUR
+    // "picture"     P*EUFP [2]   /           PEUBG/TUR
+    // "structure"   STRUFP       STRAOURBGT  STRUBG/TUR
+    // "literature"  HR*EUFP [4]  /       [3] HREUT/TUR
+    // [1] Long AOU is used since KUFP is "cusp"
+    // [2] * is used since PEUFP is "pitch"
+    // [3] Long AOU is used although STRURBGT is not taken. Why?
+    // [4] * is used since HREUFP is "lisp"
+    "AG/TUR": "agriculture",    // cf. AG/KHUR
+    "ARG/KURLT": "agriculture",
+    "ARBG/TUR": "architecture", // cf. ARBG/TEBG/KHUR
+    "KAP/TUR": "capture",       // or use KA*FP
+    "KAUPB/SKWREFP": "conjecture",
     "KAUPB/SKWRERBGT": "conjecture",
-    "TPAOERT": "feature", // alternative to TPAOEFP
-    "PEURBGT": "picture", // alternative to P*EUFP
-    "SKREURPT": "scripture",
+    "TPAOERT": "feature",       // or use TPAOEFP
+    "TPRUFP": "infrastructure", // cf. TPRUBGS
+    "P-FP": "picture",          // misstroke for {.}
+    "PEURBGT": "picture",       // or use P*EUFP
+    "SKREURPT": "scripture",    // or use SKR*EUFP
     "SKR*EURPT": "Scripture",
+    "SEUG/TUR": "signature",    // or use SEURG ("sigr")
+    "TEFP": "temperature",      // use TEBG for "tech"
+    "TEPL/TUR": "temperature",
+    "TEFRP/TUR": "temperature",
+    "TUR": "{^ture}", // or use TAOUR, which is consistent with AOUR {^ure}
 
     // *RT for -ther
     // Precedents: H*EURT "hither", TH*EURT "thither"
