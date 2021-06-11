@@ -4581,6 +4581,9 @@
     // HAPBD/SHAEUBGS "hand"
     "HAPBD/SHAEUBGS": "handshakes",
 
+    // HRAOURS/-S "loser"
+    "HRAOURS/-S": "losers",
+
     // TPHURS   "nurse"
     // TPHURGS  "nurse"   (extra G)
     // TPHURBGS "nursing" (extra B)
