@@ -1707,8 +1707,10 @@
     //                          but that would be "prospers". PROS/PRUS is nice anyway.
     "SRERPBGS": "adventurous", // cf. SREPBG "adventure"
     "SKWRERPBS": "generous",
+    "SKWRERPBGS": "generous", // misstroke
     "TPHAOURPLS": "numerous", // instead of TPHAOUPLS
     "TREFRPS": "treacherous",
+    "TREFPS": "treacherous", // omit -R
 
     "TKAEURPBG": "danger",     // use TKAEURG    for "daring"
     "TKAEURPBGS": "dangerous", // use TKAEURPBGZ for "dangers"
