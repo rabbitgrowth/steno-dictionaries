@@ -955,7 +955,6 @@
     "PWHRURPBD": "blunder",
     "KHARLG": "challenger",
     "SEURPBD": "cinder",
-    "KHRARPL": "clamor",
     "KPHARPBD": "commander",
     "KPHORPB": "commoner",
     "KAUPB/SAOERL": "concealer",
@@ -1711,24 +1710,24 @@
     //   PO*RS      "pores"   vs "porous"
     // Use -RS for -rous only when there is no corresponding -rs form
     // or the corresponding -rs form is very rare.
-    "SRERPBGS": "adventurous",  // not to be confused with SREPBGS "adventures"
-    "STKAFRTS": "disastrous",   //                         STKAFRS "disasters"
+    "SRERPBGS": "adventurous", // not to be confused with SREPBGS "adventures"
+    "STKAFRTS": "disastrous",  // STKAFRS "disasters"
     "SKWRERPBS": "generous",
-    "SKWRERPBGS": "generous",   // misstroke
-    "TPHAOURPLS": "numerous",   // instead of TPHAOUPLS
+    "SKWRERPBGS": "generous",  // misstroke
+    "TPHAOURPLS": "numerous",  // instead of TPHAOUPLS
     "TREFRPS": "treacherous",
-    "TREFPS": "treacherous",    // omit -R
+    "TREFPS": "treacherous",   // omit -R
 
-    "TKPWHRARPL": "glamor",
-    "TKPWHRARPLS": "glamorous", // "glamor" is not usually pluralized
+    "KHRARPL": "clamor",    // KHRARPLS       "clamors"   ("the public clamors for information")
+                            // KHRAPL/ROUS    "clamorous" (not in Plover dictionary)
+    "TKPWHRARPL": "glamor", // TKPWHRARPLS    "glamors"   (very rare, just for consistency)
+                            // TKPWHRAPL/ROUS "glamorous"
+    "KHRAPL/ROUS": "clamorous",
 
-    "REURG": "rigor", // REURG      "rigor"
-                      // REURGS     "rigors" ("the rigors of life")
-                      // REUG/ROUS  "rigorous"
-                      // SREURG     "vigor"
-                      // SREURGS    "vigors" (very rare, just for consistency)
-                      // SREUG/ROUS "vigorous"
-    "SREURG": "vigor",
+    "REURG": "rigor",  // REURGS     "rigors" ("the rigors of life")
+                       // REUG/ROUS  "rigorous"
+    "SREURG": "vigor", // SREURGS    "vigors" (very rare, just for consistency)
+                       // SREUG/ROUS "vigorous"
 
     // Consistent with the rigor-rigors-rigorous pattern, but not fully phonetic:
     "TKAEUPBLG": "danger",      // already works
