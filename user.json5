@@ -115,10 +115,6 @@
     "KPEBL": "accessible",      // with KPES "access"
     "KPEBLT": "accessibility",
     "A/KUFPL": "accustom",      // with A/KUFPLD "accustomed"
-    "SREFRPB/ROUS": "adventurous",
-                                // with SREPBG  "adventure"
-                                //      SREFRPB "adventure"
-                                //      SREPBG/ROUS "adventurous"
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
     "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
@@ -255,8 +251,6 @@
     "KOFPB/TKAPBT": "confidant",
     "KOFPB/TKA*PBT": "confidante",
     "KAUPB/STAPBS/KWREU": "constancy", // or use STAPBT/SEU ("constant" + {^cy})
-    "TKAEURPBG": "danger",     // use TKAEURG    for "daring"
-    "TKAEURPBGS": "dangerous", // use TKAEURPBGZ for "dangers"
     "TKROEUD": "droid", // use STROEUD for "destroyed"
     "TPAEURLS": "failures", // "fairlies" is not a word
     "TPHREUFT": "felicity", // give up {^philicity} (obscure chemistry stuff)
@@ -267,7 +261,6 @@
     "TPREUFLT": "frivolity",
     "TPREU/SROLT": "frivolity",
     "TPREUFLS": "frivolous", // TPREUF/HROUS already works
-    "SKWRERPBS": "generous",
     "TKPWUPBS": "guns", // "beguns" is not a word
     "HA*RT": "hearth", // give up "Hart"
     "SPWREUBGT": "intricate",
@@ -312,7 +305,6 @@
     "TAOERPBG": "teenager",
     "T*EPBT": "tenth",   // overrides "entity"
     "T*ERS": "terrace", // starless is "terse"
-    "TREFPS": "treacherous",
     "TROEL": "troll", // use PROL for "patrol"
     "TROELS": "trolls",
     "TPHULT": "tumult", // instead of TUPLT so that the stress is right
@@ -350,7 +342,6 @@
     "STKREUBGT": "district",      // to TKR-T; use TKR-BG(T) for "distributing"
     "KPEBG/TEUF": "executive",    // to SKAOUF
     "TPORT/AOUPB": "fortune",     // to TP-RPB and TPAURPB
-    "TPHAOURPLS": "numerous",     // to TPHAOUPLS
     "EUPB/SEPBT": "innocent",     // to TPH-PBT; use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",        // to TR
     "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
@@ -1709,6 +1700,19 @@
     "W*EURT": "wither",
     "S*EURT": "zither", // double *: one for "z", one for "th"
     "SPHO*RT": "smother",
+
+    // -RS for -rous
+    // Exceptions: "fibrous"    TPAOEURBS is "fibers"
+    //             "humorous"   HAOURPLS  is "humors"
+    //             "prosperous" You could squeeze everything into PROFRPS ("prosprs"),
+    //                          but that would be "prospers". PROS/PRUS is nice anyway.
+    "SRERPBGS": "adventurous", // cf. SREPBG "adventure"
+    "SKWRERPBS": "generous",
+    "TPHAOURPLS": "numerous", // instead of TPHAOUPLS
+    "TREFRPS": "treacherous",
+
+    "TKAEURPBG": "danger",     // use TKAEURG    for "daring"
+    "TKAEURPBGS": "dangerous", // use TKAEURPBGZ for "dangers"
 
     // -PBT, -PB, or -FPB for -ten
     "PWRAOEUFPB": "brighten",    // cf. TPRAOEUFPB "frighten"
