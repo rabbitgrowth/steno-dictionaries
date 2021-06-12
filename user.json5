@@ -1691,8 +1691,7 @@
     // Precedents: H*EURT "hither", TH*EURT "thither"
     "HRA*RT": "lather",
     "SHRA*RT": "slather",
-    "AO*ERT": "ether", // the only unvoiced "th" here
-                       // use British pronunciation for "either"
+    "AO*ERT": "ether", // the only /θ/ here; use British pronunciation for "either"
     "T*ERT": "tether",
     "TK*EURT": "dither",
     "SHR*EURT": "slither",
