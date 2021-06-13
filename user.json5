@@ -4751,6 +4751,8 @@
     "ROEPL/H-F": "Rome",            // from "roam"
     "SOEPB/H-F": "sewn",            // from "sown"
     "SAOEUD/H-F": "sighed",         // from "side"
+    "STAEUR/H-F": "stare",          // from "stair"
+    "STAEURS/H-F": "stares",
     "SWAEUD/H-F": "suede",          // from "swayed"
     "SWAOET/H-F": "suite",          // from "sweet"
     "TAOER/H-F": "tear",            // from "tier"
