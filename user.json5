@@ -969,9 +969,6 @@
     "TKRAOERPL": "dreamer",
     "TKREFR": "dresser",
     "TKREUR": "drinker",
-    "ERZ": "easier", // use ERS for {^ers}
-                     // (one of those rare cases like OERZ "otherwise" that would
-                     //  cause problems for someone who always uses -Z for -s)
     "AOE/TPHARPL": "enamor",
     "TPAEURPBT": "fainter",
     "TPAURLT": "falter", // cf. AURLT "alter"
@@ -3288,6 +3285,12 @@
     "TPOURGS": "four things",
     "TPAOEUFGS": "five things",
     "TPEUFGS": "five things",
+
+    // -- -Z for plurals -------------------------------------------------------
+
+    // ERZ would make a good stroke for "easier" (EZ "easy" + -R for {^er}),
+    // but since ER is {^er} (custom), ERZ should be {^ers} for consistency.
+    "AOEFR": "easier", // cf. AO*ERS
 
     // -- Inflections ----------------------------------------------------------
 
