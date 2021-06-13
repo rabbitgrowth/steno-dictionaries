@@ -369,6 +369,7 @@
     // -- Vowels ---------------------------------------------------------------
 
     // Don't alter vowel
+    "AFRT": "artist",         // use SRAERT (custom) for "avert"
     "TKEUFLT": "difficulty",  // TKEUFL "difficult" + -T
     "HEF": "heavy",           // cf. HEFL "heavily"; give up "Hef"
     "HEFR": "heavier",        // overrides "heifer" [1]
@@ -914,6 +915,8 @@
     "TAEPBD": "attend",
     "TAEPBTD": "attended",
     "SRAEPBG": "avenge",
+    "SRAERT": "avert", // but SRAERS is "varies", not "averse"
+    "SRAERGS": "aversion",
 
     // ... or use S when folding in A leads to conflict or is confusing
     "SPWRAOD": "abroad",
