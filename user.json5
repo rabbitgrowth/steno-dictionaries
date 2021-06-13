@@ -3536,6 +3536,7 @@
     "HRAUTD": "lauded",
     "PER/SWAEUTD": "persuaded",
     "PROEFTD": "provided",
+    "RORTD": "recorded", // use ORPD for "reported"
     "RARTD": "regarded",
     "RE/WARTD": "rewarded",
     "SHAEUTD": "shaded",
