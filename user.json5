@@ -369,8 +369,6 @@
     // -- Vowels ---------------------------------------------------------------
 
     // Don't alter vowel
-    "KAERT": "carrot",        // - AE for /æ/ since KART is "cart"
-                              // - just fingerspell "CART"
     "TKEUFLT": "difficulty",  // TKEUFL "difficult" + -T
     "HEF": "heavy",           // cf. HEFL "heavily"; give up "Hef"
     "HEFR": "heavier",        // overrides "heifer" [1]
