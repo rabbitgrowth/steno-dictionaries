@@ -887,8 +887,7 @@
     "TKRAEFD": "addressed",
     "TKRAEFG": "addressing",
     "TPAEBGS": "affection", // alternative to AFBGS
-    "TPHRAEUBGT": "afflict",
-    "TPHRAEUBGS": "affliction", // use -Z for "flakes"
+    "TPHRAEUBGT": "afflict", // but TPHRAEUBGS is "flakes", not "affliction"
     "HAED": "ahead",
     "HRAEUF": "alive",
     "HRAEPBLG": "allege",
@@ -4812,7 +4811,6 @@
 
     "PWAOEUS/H-F": "buys",          // from "bias"         (custom)
     "STKPHRAEUS/H-F": "displays",   // from "displace"     (custom)
-    "TPHRAEUBGS/H-F": "flakes",     // from "affliction"   (custom)
     "TPREBGS/H-F": "frequents",     // from "for example"  (custom)
     "SKWRELS/H-F": "gels",          // from "jealous"      (custom)
     "HEPLS/H-F": "hems",            // from "helpless"     (custom)
