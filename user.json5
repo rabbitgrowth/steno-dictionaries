@@ -3293,9 +3293,12 @@
     // but since ER is {^er} (custom), ERZ should be {^ers} for consistency.
     "AOEFR": "easier", // cf. AO*ERS
 
-    // Swap "others" and "otherwise"
+    // Swap strokes such that -Z is consistently -s
     "OERS": "otherwise",
     "OERZ": "others",
+
+    "HUPBS": "{^00}",
+    "HUPBZ": "hundreds",
 
     // -- Inflections ----------------------------------------------------------
 
