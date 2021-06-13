@@ -1102,7 +1102,6 @@
     "PWOEPBLS": "boneless",
     "PWRAEUPBLS": "brainless",
     "KARBLS": "cashless",
-    "HEPLS": "helpless", // use -Z for "hems"
     "SKWROBLS": "jobless",
     "SKWROEULS": "joyless",
     "HRAOEUFLS": "lifeless",
@@ -4827,7 +4826,6 @@
     "STKPHRAEUS/H-F": "displays",   // from "displace"     (custom)
     "TPREBGS/H-F": "frequents",     // from "for example"  (custom)
     "SKWRELS/H-F": "gels",          // from "jealous"      (custom)
-    "HEPLS/H-F": "hems",            // from "helpless"     (custom)
     "SKWRAEULGS/H-F": "jailings",   // from "generational" (custom)
     "TPHOEPBS/H-F": "knowns",       // from "known as"     (custom)
     "SAES/H-F": "seas",             // from "assess"       (custom)
