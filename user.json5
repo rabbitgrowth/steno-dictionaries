@@ -886,7 +886,8 @@
     "TKRAEFD": "addressed",
     "TKRAEFG": "addressing",
     "TPAEBGS": "affection", // alternative to AFBGS
-    "TPHRAEUBGT": "afflict", // but TPHRAEUBGS is "flakes", not "affliction"
+    "TPHRAEUBGT": "afflict",
+    "TPHRAEUBGS": "affliction", // use -Z for "flakes"
     "HAED": "ahead",
     "HRAEUF": "alive",
     "HRAEPBLG": "allege",
