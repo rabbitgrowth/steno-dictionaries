@@ -3297,8 +3297,8 @@
     "OERS": "otherwise",
     "OERZ": "others",
 
-    "HUPBS": "{^00}",
-    "HUPBZ": "hundreds",
+    "HUPBZ": "hundreds", // give up {^00}; use 0Z for {&00}
+                         // (what's the difference anyway?)
 
     // -- Inflections ----------------------------------------------------------
 
