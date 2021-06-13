@@ -913,7 +913,8 @@
     "TAEPBD": "attend",
     "TAEPBTD": "attended",
     "SRAEPBG": "avenge",
-    "SRAERT": "avert", // but SRAERS is "varies", not "averse"
+    "SRAERT": "avert",
+    "SRAERS": "averse", // use -Z for "varies"
     "SRAERGS": "aversion",
 
     // ... or use S when folding in A leads to conflict or is confusing
