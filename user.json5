@@ -3303,69 +3303,31 @@
 
     // Plurals
     "ABGT/SREUFTS": "activists",
-    "AGT/SEUS": "agencies",
-    "AL/PWAOEUS": "alibis",
     "APB/HREUFTS": "analysts",
-    "ARPL/TKEUL/HROES": "armadillos", // with doubled "l"
-    "A/ROE/PHAS": "aromas",
-    "PWAPB/TPHAS": "bananas",
-    "PWEL/HROES": "bellows",
-    "PWEPB/TPEURBS": "beneficiaries", // just add -S instead of KWRAERS
-    "PWEUL/HROES": "billows",
     "PWROUZ": "brows", // -S is "browse"
-    "SES/PAOLS": "cesspools",
-    "SHEFS": "chefs", // use SH-FS (custom) for "she was"
     "KOEBG/TPHUTS": "coconuts",
-    "KPHAS": "commas", // use KP/PHAS for "Xmas"
-    "KAUPB/SKWREBG/TAOURS": "conjectures",
-    "KAUPB/SPEUR/SEUS": "conspiracies",
     "TK*ET/PWEDZ": "deathbeds",
     "TKEUPL/PHATS": "diplomats",
-    "TKOPL/TPHOES": "dominoes",
+    "TKOPL/TPHOEZ": "dominoes",
     "TKROP/HRETS": "droplets",
-    "EBG/OES": "echoes",
-    "AOE/PHOET/KOPBS": "emoticons",
-    "TP-PBS": "finances", // wasteful to have both TP-PB and TP-PBS for "finance"
-    "TPAOEUR/TPHRAOEUS": "fireflies",
-    "TPOEUBGS": "focuses",
+    "EBG/OEZ": "echoes",
     "TKPW-PB/SHOTS": "gunshots",
-    "HAPBD/PWAGS": "handbags",
-    "HEUFT/ORPBS": "historians",
-    "HOL/HROES": "hollows",
-    "HOL/OES": "hollows",
     "SKWRUFSZ": "justices", // otherwise "justifieses" (SKWRUFZ + -S)
     "HRAUR/KWRATS": "laureates",
-    "HRAUFS": "layoffs",
-    "HRUL/PWAOEUS": "lullabies",
-    "PHEUS/REUS": "miseries",
     "PHOD/RATS": "moderates",
-    "PHOPB/KAOES": "monkeys",
-    "PHO*PBGS": "monks", // use PHOPBGS for "amongst"
-    "PHOPB/SAOPBS": "monsoons",
     "PHUFBG/RATS": "muskrats",
     "TPHARS/SEUFTS": "narcissists",
-    "OD/TEUS": "oddities",
-    "OR/K-LS": "oracles",
-    "ORPBS": "origins", // add * or just use ORD/TPHAPBS for "ordinance"
+    "OD/TEUZ": "oddities",
     "AOUT/HRETS": "outlets",
     "POP/HREUFTS": "populists",
-    "PREUF/KWREUS": "privies",
-    "PROEL/TAEURPBS": "proletarians",
-    "RAEU/SEUPBS": "raisins",
+    "PREUF/KWREUZ": "privies",
+    "RAEU/SEUPBZ": "raisins",
     "RAPL/PARTS": "ramparts",
     "RAOEDZ": "reeds", // use RAEDZ for "reads"
-    "RES/TRA/TURS": "restaurateurs",
-    "S-PBS": "seasons", // use SAOPBS for "as soon as"
-    "SOEU/PWAOEPBS": "soybeans",
     "STAEUR/KAEUSZ": "staircases",
-    "SUPLS": "sums", // use SAUPLGS (custom) for "assumption"
-    "TEL/SKOEPS": "telescopes",
     "TEPB/ETS": "tenets",
-    "THEURS": "thinkers", // use THEUFRT for "thirst"
-    "SRAEUBG/SEUS": "vacancies",
-    "SRABG/SAOEPBS": "vaccines",
-    "WEUPBD/TPAULS": "windfalls",
-    "WEUPBD/PHEULS": "windmills",
+    "SRABG/SEUPBZ": "vaccines",
+    "WEUPBD/TPAULZ": "windfalls",
 
     // -S vs -Z
     // In general, fold in -S to minimize the number of strokes:
