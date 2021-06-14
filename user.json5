@@ -4231,6 +4231,14 @@
     "TPHROFL": "philosophical",
     "TPHROFZ": "philosophize", // or use TPHROS/TPAOEUZ
 
+    // "positive" and "negative"
+    // I like the O-E symmetry.
+    "POF": "positive",
+    "POFL": "positively",
+    "TPHEF": "negative",
+    "TPHEFL": "negatively", // overrides "nestle" [1]
+    /*1*/ "TPHEFLT": "nestle", // cf. RUFLT "rustle"
+
     // "reflect" family
     "TPHRET": "reflect", // misstroke for "net"
     "TPHREGS": "reflection",
@@ -4423,14 +4431,6 @@
     "KWRES": "yes",
 
     // -- Topics ---------------------------------------------------------------
-
-    // Sign
-    // I like the O-E symmetry.
-    "POF": "positive",
-    "POFL": "positively",
-    "TPHEF": "negative",
-    "TPHEFL": "negatively", // overrides "nestle" [1]
-    /*1*/ "TPHEFLT": "nestle", // cf. RUFLT "rustle"
 
     // Godparenthood
     "TKPWOD/PARPBT": "godparent",
