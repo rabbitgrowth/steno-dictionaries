@@ -3290,8 +3290,9 @@
     // and uses -S for the other word, where -s is often an integral part:
     //   TPHOES "nose"   TKAOEUS "dice"  PULS "pulse"  (undetachable -s)
     //   TPHOEZ "knows"  TKAOEUZ "dies"  PULZ "pulls"  (detachable   -s)
-    // Mnemonic: -Z is further away to the right and thus feels more detachable.
-    // This is a good rule, so make it work consistently:
+    // This is a good rule, so make it work consistently.
+    // (Mnemonic: -Z, being further away to the right, feels more detachable.)
+
     "PWROUZ": "brows",    // vs "browse"
     "AOEUZ": "eyes",      // vs "ice"; overrides {^ize} [1]
     "TPHREBGZ": "flecks", // vs "flex"; use TPHRETS (custom) for "reflects"
@@ -3311,6 +3312,7 @@
     // (it feels like 95%), but you'll have to memorize the other 5% of words
     // where you have to use -Z instead. A solution is to just always use -Z.
     // It's more work for the pinky, but the consistency you gain is worth it.
+
     "HRAOEUZ": "lies",   // give up {^alize}
     "HUPBZ": "hundreds", // use 0Z for {&00}
 
