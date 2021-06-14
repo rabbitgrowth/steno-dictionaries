@@ -253,6 +253,8 @@
     "KOFPB/TKAPBT": "confidant",
     "KOFPB/TKA*PBT": "confidante",
     "KAUPB/STAPBS/KWREU": "constancy", // or use STAPBT/SEU ("constant" + {^cy})
+    "TKAEURPBG": "danger",     // use TKAEURG for "daring"
+    "TKAEURPBGS": "dangerous", // use -Z for "dangers"
     "TKROEUD": "droid", // use STROEUD for "destroyed"
     "TPAEURLS": "failures", // "fairlies" is not a word
     "TPHREUFT": "felicity", // give up {^philicity} (obscure chemistry stuff)
@@ -1704,40 +1706,34 @@
     "SPHO*RT": "smother",
 
     // -RS for -rous
-    // Conflict with -rs is often a problem:
+    // This would cause conflicts if I used -S for -s:
     //   TKAEURPBGS "dangers" vs "dangerous"
     //   TPAOEURBS  "fibers"  vs "fibrous"
     //   HAOURPLS   "humors"  vs "humorous"
     //   REURGS     "rigors"  vs "rigorous"
     //   PO*RS      "pores"   vs "porous"
-    // Use -RS for -rous only when there is no corresponding -rs form
-    // or the corresponding -rs form is very rare.
-    "SRERPBGS": "adventurous", // not to be confused with SREPBGS "adventures"
-    "STKAFRTS": "disastrous",  // STKAFRS "disasters"
+    "SREPBGS": "adventurous",  // use -Z for "adventures"
+    "SRERPBGS": "adventurous", // more phonetic ("venjrs")
+    "STKAFRS": "disastrous",   // use -Z for "disasters"
+    "STKAFRTS": "disastrous",  // phonetic ("dsastrs")
     "SKWRERPBS": "generous",
     "SKWRERPBGS": "generous",  // misstroke
-    "TPHAOURPLS": "numerous",  // instead of TPHAOUPLS
+    "TPHAOURPLS": "numerous",  // phonetic alternative to TPHAOUPLS
     "TREFRPS": "treacherous",
     "TREFPS": "treacherous",   // omit -R
 
-    "KHRARPL": "clamor",    // KHRARPLS       "clamors"   ("the public clamors for information")
-                            // KHRAPL/ROUS    "clamorous" (not in Plover dictionary)
-    "TKPWHRARPL": "glamor", // TKPWHRARPLS    "glamors"   (very rare, just for consistency)
-                            // TKPWHRAPL/ROUS "glamorous"
-    "KHRAPL/ROUS": "clamorous",
+    "KHRARPL": "clamor",
+    "KHRARPLS": "clamorous",
+    "KHRAPL/ROUS": "clamorous", // cf. TKPWHRAPL/ROUS "glamorous"
 
-    "REURG": "rigor",  // REURGS     "rigors" ("the rigors of life")
-                       // REUG/ROUS  "rigorous"
-    "SREURG": "vigor", // SREURGS    "vigors" (very rare, just for consistency)
-                       // SREUG/ROUS "vigorous"
+    "TKPWHRARPL": "glamor",
+    "TKPWHRARPLS": "glamorous",
 
-    // Consistent with the rigor-rigors-rigorous pattern, but not fully phonetic:
-    "TKAEUPBLG": "danger",      // already works
-    "TKAEUPBLGS": "dangers",    // by default "dangerous"
-    "TKAEURPBLGS": "dangerous", // already works
-    // Fully phonetic alternatives that might be more intuitive:
-    "TKAEURPBG": "danger",      // use TKAEURG    for "daring"
-    "TKAEURPBGS": "dangerous",  // use TKAEURPBGZ for "dangers"
+    "REURG": "rigor",
+    "REURGS": "rigorous",
+
+    "SREURG": "vigor",
+    "SREURGS": "vigorous",
 
     // -PBT, -PB, or -FPB for -ten
     "PWRAOEUFPB": "brighten",    // cf. TPRAOEUFPB "frighten"
