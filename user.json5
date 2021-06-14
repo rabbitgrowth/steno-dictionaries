@@ -1714,6 +1714,7 @@
     //   PO*RS      "pores"   vs "porous"
     "SREPBGS": "adventurous",  // use -Z for "adventures"
     "SRERPBGS": "adventurous", // more phonetic ("venjrs")
+    "STKAOEURS": "desirous",   // use -Z for "desires"
     "STKAFRS": "disastrous",   // use -Z for "disasters"
     "STKAFRTS": "disastrous",  // phonetic ("dsastrs")
     "SKWRERPBS": "generous",
