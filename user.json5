@@ -1693,6 +1693,10 @@
     "TRA/SREFRD": "traversed",
     "SREFRD": "versed",
 
+    // -FPL for -some
+    "TKPWRAOUFPL": "gruesome",
+    "WHOEFPL": "wholesome",
+
     // -RT for -ture
     "KAUPB/SKWRERBGT": "conjecture",
     "TPAOERT": "feature", // alternative to TPAOEFP
