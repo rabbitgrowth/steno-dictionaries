@@ -686,6 +686,9 @@
     "SOUT/KRAOE": "South Korea", // allow dropping *
     "TPHORT/KRAOE": "North Korea",
 
+    "SEUPBD/REL": "Cinderella",
+    "PHOET/ROEL": "Motorola",
+
     // -- Homophones -----------------------------------------------------------
 
                         // Frequency on COCA:
@@ -2099,14 +2102,13 @@
     //   SREUG/ROUS "vigorous"
 
     // Nonsensical translations
-    "KHEUPL": "chimney",        // "Chim"
-    "SEUPBD/REL": "Cinderella", // "sinned REL"
-    "AOEG": "ego",              // "eing"
-    "TPHAR": "narrow",          // "nar"
-    "TPHARL": "narrowly",       // overrides "natural" [1]
-    "SERBG": "secretary",       // "Serbing"
-    "SROD": "vodka",            // "have toed"
-    "SREUG": "vigor",           // "have Iing"
+    "KHEUPL": "chimney",  // "Chim"
+    "AOEG": "ego",        // "eing"
+    "TPHAR": "narrow",    // "nar"
+    "TPHARL": "narrowly", // overrides "natural" [1]
+    "SERBG": "secretary", // "Serbing"
+    "SROD": "vodka",      // "have toed"
+    "SREUG": "vigor",     // "have Iing"
     /*1*/ "TPHARLT": "natural",    // fully phonetic
           "TPHRARLT": "naturally", // superimpose HR for -ly
 
