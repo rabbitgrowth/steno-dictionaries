@@ -50,6 +50,9 @@
     "-RT": "right", // - physically stroked with the right hand
                     // - use R-T for "are the"
                     // - frees up RAOEUT for "rite" [3]
+    "-RLT": "rightly",
+    "TPO*RT/-RT": "forthright",
+    "TPO*RT/-RLT": "forthrightly",
     "T-G": "thing",
     /*1*/ "TKPW*PS": "GPS", // just write out "global positioning system"
     /*2*/ "HR*LG": "{^ological}",
@@ -114,10 +117,6 @@
     "KPEBL": "accessible",      // with KPES "access"
     "KPEBLT": "accessibility",
     "A/KUFPL": "accustom",      // with A/KUFPLD "accustomed"
-    "SREFRPB/ROUS": "adventurous",
-                                // with SREPBG  "adventure"
-                                //      SREFRPB "adventure"
-                                //      SREPBG/ROUS "adventurous"
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
     "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
@@ -242,6 +241,7 @@
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEUFPL": "anarchism",
     "APBGS/TEU": "angsty", // or use APBGS/KWREU ("angst" + {^y})
+    "APLT/STPAOER": "atmosphere",
     "AUT/TPHOEPL": "autonomy", // cf. AUT/KRAES "autocracy"
     "AUT/TPHOPLS": "autonomous",
     "PWHRAOEU": "belie",
@@ -253,13 +253,13 @@
     "KAUFT": "caste",
     "KHEUBG/EPB": "chicken",
     "SEURBGS": "circus", // use -Z for "circumstances"
+    "KHRAPBD/STEUPB": "clandestine",
+    "KHRAPBD/STEUPBL": "clandestinely",
     "KHRAEURPBT": "clarinet",
     "KAUPB/TKAOUFS": "conducive",
     "KOFPB/TKAPBT": "confidant",
     "KOFPB/TKA*PBT": "confidante",
     "KAUPB/STAPBS/KWREU": "constancy", // or use STAPBT/SEU ("constant" + {^cy})
-    "TKAEURPBG": "danger",     // use TKAEURG    for "daring"
-    "TKAEURPBGS": "dangerous", // use TKAEURPBGZ for "dangers"
     "TKROEUD": "droid", // use STROEUD for "destroyed"
     "TPAEURLS": "failures", // "fairlies" is not a word
     "TPHREUFT": "felicity", // give up {^philicity} (obscure chemistry stuff)
@@ -270,7 +270,6 @@
     "TPREUFLT": "frivolity",
     "TPREU/SROLT": "frivolity",
     "TPREUFLS": "frivolous", // TPREUF/HROUS already works
-    "SKWRERPBS": "generous",
     "TKPWUPBS": "guns", // "beguns" is not a word
     "HA*RT": "hearth", // give up "Hart"
     "SPWREUBGT": "intricate",
@@ -280,6 +279,7 @@
     "PHES/PHRAOEUFG": "mesmerizing",
     "PHRAL": "morale", // use PHORL for "moral"
     "PHAOUFPL": "mutual",
+    "TPHAFPBT": "nascent",
     "TPHAOERPBS": "nearness",
     "TPHEBLS": "nebulous",
     "TPHEUPL/ROD": "nimrod",
@@ -315,10 +315,9 @@
     "TAOERPBG": "teenager",
     "T*EPBT": "tenth",   // overrides "entity"
     "T*ERS": "terrace", // starless is "terse"
-    "TREFPS": "treacherous",
     "TROEL": "troll", // use PROL for "patrol"
     "TROELS": "trolls",
-    "TPHULT": "tumult", // instead of TUPLT so that the stress is in the right place
+    "TPHULT": "tumult", // instead of TUPLT so that the stress is right
                         // in TPHULT/WOUS "tumultuous" ("tumult" + {^uous})
     "SRAPBL/TAOEUPB": "valentine",
     "SRAO*EUPBL": "violin", // starless is "vinyl"
@@ -353,7 +352,6 @@
     "STKREUBGT": "district",      // to TKR-T; use TKR-BG(T) for "distributing"
     "KPEBG/TEUF": "executive",    // to SKAOUF
     "TPORT/AOUPB": "fortune",     // to TP-RPB and TPAURPB
-    "TPHAOURPLS": "numerous",     // to TPHAOUPLS
     "EUPB/SEPBT": "innocent",     // to TPH-PBT; use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",        // to TR
     "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
@@ -379,8 +377,7 @@
     // -- Vowels ---------------------------------------------------------------
 
     // Don't alter vowel
-    "KAERT": "carrot",        // - AE for /æ/ since KART is "cart"
-                              // - just fingerspell "CART"
+    "AFRT": "artist",         // use SRAERT (custom) for "avert"
     "TKEUFLT": "difficulty",  // TKEUFL "difficult" + -T
     "HEF": "heavy",           // cf. HEFL "heavily"; give up "Hef"
     "HEFR": "heavier",        // overrides "heifer" [1]
@@ -551,8 +548,6 @@
     "HREPL": "let me",
     "HREPLZ": "let me see",
     "HRAOFRT": "look after", // "loofter"; HRAFRT is "laughter"
-    "PHAEUPLS": "my name is", // use -Z for "maims"
-    "TPHUFPS": "no such thing as", // "rhymes" with SUFPS "such as"
     "WUF": "one of", // like OUF "out of"
     "WUFT": "one of the",
     "SPOEFT": "supposed to",
@@ -563,6 +558,11 @@
 
     "AOEFRP": "each other",
     "WURPB": "one another",
+
+    "TPHOEFPG": "no such thing", // cf. TPHOEFP "no such"
+    "TPHOUFPG": "no such thing", // cf. TPHOUFP "no such"
+    "TPHOEFPGS": "no such thing as",
+    "TPHOUFPGS": "no such thing as",
 
     "WHOELT": "whole lot",
     "WHOEFLT": "whole lot of",
@@ -672,6 +672,8 @@
     "TKPWOEULT": "guilty",
     "PHOEURS": "mercy", // give up "MRSA"
     "POEUT": "pity",    // give up "PO2"
+    "SO*EULG": "silky",
+    "SOEUFRL": "silvery",
     "SHROEUPL": "slimy",
     "SPHOEUBG": "smoky",
 
@@ -687,6 +689,9 @@
                       // use SAOE/OE (custom) for "CEO"
     "SOUT/KRAOE": "South Korea", // allow dropping *
     "TPHORT/KRAOE": "North Korea",
+
+    "SEUPBD/REL": "Cinderella",
+    "PHOET/ROEL": "Motorola",
 
     // -- Homophones -----------------------------------------------------------
 
@@ -894,8 +899,7 @@
     "TKRAEFD": "addressed",
     "TKRAEFG": "addressing",
     "TPAEBGS": "affection", // alternative to AFBGS
-    "TPHRAEUBGT": "afflict",
-    "TPHRAEUBGS": "affliction", // use -Z for "flakes"
+    "TPHRAEUBGT": "afflict", // but TPHRAEUBGS is "flakes", not "affliction"
     "HAED": "ahead",
     "HRAEUF": "alive",
     "HRAEPBLG": "allege",
@@ -922,6 +926,8 @@
     "TAEPBD": "attend",
     "TAEPBTD": "attended",
     "SRAEPBG": "avenge",
+    "SRAERT": "avert", // but SRAERS is "varies", not "averse"
+    "SRAERGS": "aversion",
 
     // ... or use S when folding in A leads to conflict or is confusing
     "SPWRAOD": "abroad",
@@ -965,7 +971,6 @@
     "PWHRURPBD": "blunder",
     "KHARLG": "challenger",
     "SEURPBD": "cinder",
-    "KHRARPL": "clamor",
     "KPHARPBD": "commander",
     "KPHORPB": "commoner",
     "KAUPB/SAOERL": "concealer",
@@ -1251,6 +1256,7 @@
     "KPWHROE": "employee",   // "emplo-E"; cf. PHROE
     "KPWHROES": "employees", // use PHES/SKWRO for {meso^}
     "KPWHROEUR": "employer",
+    "KPWEFL": "imbecile", // /ˈɪmbəsəl/
     "KPWAOEUB": "imbibe",
     "KPWAOU": "imbue",
     "KPWABGT": "impact",
@@ -1722,12 +1728,15 @@
     "TEFRP/TUR": "temperature",
     "TUR": "{^ture}", // or use TAOUR, which is consistent with AOUR {^ure}
 
+    // -FPL for -some
+    "TKPWRAOUFPL": "gruesome",
+    "WHOEFPL": "wholesome",
+
     // *RT for -ther
     // Precedents: H*EURT "hither", TH*EURT "thither"
     "HRA*RT": "lather",
     "SHRA*RT": "slather",
-    "AO*ERT": "ether", // the only unvoiced "th" here
-                       // use British pronunciation for "either"
+    "AO*ERT": "ether", // the only /θ/ here; use British pronunciation for "either"
     "T*ERT": "tether",
     "TK*EURT": "dither",
     "SHR*EURT": "slither",
@@ -1735,6 +1744,42 @@
     "W*EURT": "wither",
     "S*EURT": "zither", // double *: one for "z", one for "th"
     "SPHO*RT": "smother",
+
+    // -RS for -rous
+    // Conflict with -rs is often a problem:
+    //   TKAEURPBGS "dangers" vs "dangerous"
+    //   TPAOEURBS  "fibers"  vs "fibrous"
+    //   HAOURPLS   "humors"  vs "humorous"
+    //   REURGS     "rigors"  vs "rigorous"
+    //   PO*RS      "pores"   vs "porous"
+    // Use -RS for -rous only when there is no corresponding -rs form
+    // or the corresponding -rs form is very rare.
+    "SRERPBGS": "adventurous", // not to be confused with SREPBGS "adventures"
+    "STKAFRTS": "disastrous",  // STKAFRS "disasters"
+    "SKWRERPBS": "generous",
+    "SKWRERPBGS": "generous",  // misstroke
+    "TPHAOURPLS": "numerous",  // instead of TPHAOUPLS
+    "TREFRPS": "treacherous",
+    "TREFPS": "treacherous",   // omit -R
+
+    "KHRARPL": "clamor",    // KHRARPLS       "clamors"   ("the public clamors for information")
+                            // KHRAPL/ROUS    "clamorous" (not in Plover dictionary)
+    "TKPWHRARPL": "glamor", // TKPWHRARPLS    "glamors"   (very rare, just for consistency)
+                            // TKPWHRAPL/ROUS "glamorous"
+    "KHRAPL/ROUS": "clamorous",
+
+    "REURG": "rigor",  // REURGS     "rigors" ("the rigors of life")
+                       // REUG/ROUS  "rigorous"
+    "SREURG": "vigor", // SREURGS    "vigors" (very rare, just for consistency)
+                       // SREUG/ROUS "vigorous"
+
+    // Consistent with the rigor-rigors-rigorous pattern, but not fully phonetic:
+    "TKAEUPBLG": "danger",      // already works
+    "TKAEUPBLGS": "dangers",    // by default "dangerous"
+    "TKAEURPBLGS": "dangerous", // already works
+    // Fully phonetic alternatives that might be more intuitive:
+    "TKAEURPBG": "danger",      // use TKAEURG    for "daring"
+    "TKAEURPBGS": "dangerous",  // use TKAEURPBGZ for "dangers"
 
     // -PBT, -PB, or -FPB for -ten
     "PWRAOEUFPB": "brighten",    // cf. TPRAOEUFPB "frighten"
@@ -2089,14 +2134,13 @@
     //   SREUG/ROUS "vigorous"
 
     // Nonsensical translations
-    "KHEUPL": "chimney",        // "Chim"
-    "SEUPBD/REL": "Cinderella", // "sinned REL"
-    "AOEG": "ego",              // "eing"
-    "TPHAR": "narrow",          // "nar"
-    "TPHARL": "narrowly",       // overrides "natural" [1]
-    "SERBG": "secretary",       // "Serbing"
-    "SROD": "vodka",            // "have toed"
-    "SREUG": "vigor",           // "have Iing"
+    "KHEUPL": "chimney",  // "Chim"
+    "AOEG": "ego",        // "eing"
+    "TPHAR": "narrow",    // "nar"
+    "TPHARL": "narrowly", // overrides "natural" [1]
+    "SERBG": "secretary", // "Serbing"
+    "SROD": "vodka",      // "have toed"
+    "SREUG": "vigor",     // "have Iing"
     /*1*/ "TPHARLT": "natural",    // fully phonetic
           "TPHRARLT": "naturally", // superimpose HR for -ly
 
@@ -3192,6 +3236,8 @@
     "KAEURBT": "care about the",
     "HOUB": "how about",      // already works
     "HOUBT": "how about the", // by default "how about"
+    "TPHOEB": "know about",      // use TPH-B for "nobody"
+    "TPHOEBT": "know about the", // by default "know about"
     "TAUB": "talk about",
     "TAUBT": "talk about the",
     "THEUB": "think about",
@@ -3326,6 +3372,7 @@
     "PHOPB/SAOPBS": "monsoons",
     "PHUFBG/RATS": "muskrats",
     "TPHARS/SEUFTS": "narcissists",
+    "OD/TEUS": "oddities",
     "OR/K-LS": "oracles",
     "ORPBS": "origins", // add * or just use ORD/TPHAPBS for "ordinance"
     "AOUT/HRETS": "outlets",
@@ -3454,6 +3501,7 @@
     //    (SKAOED + -G), but since SKAOEG is defined as "skiing",
     //    it gives the nonsensical "skiinged" instead (SKAOEG + -D).
     // 3) -F is used instead of -S (e.g., PHREUFG "policing").
+    "TR-BGT": "attributing", // give up "trial court"
     "PW*PBD": "buttoned",    // use PWA*PBD/AEUD for "Band-Aid"
     "PW*PBG": "buttoning",   // give up "!!Con" (tech conference Mirabai captions for)
     "KOERGS": "coercing",    // use KR-RGS (custom) for "categories"
@@ -3521,6 +3569,7 @@
     "TKE/TPHAOUTD": "denuded",
     "AOE/HRAOUTD": "eluded",
     "TPOUPBTD": "founded",
+    "TKPWROUPBTD": "grounded",
     "TKPWAOEUTD": "guided",
     "HAPBTD": "handed",
     "HETD": "headed",
@@ -3529,6 +3578,7 @@
     "HRAUTD": "lauded",
     "PER/SWAEUTD": "persuaded",
     "PROEFTD": "provided",
+    "RORTD": "recorded", // use ORPD for "reported"
     "RARTD": "regarded",
     "RE/WARTD": "rewarded",
     "SHAEUTD": "shaded",
@@ -3631,6 +3681,7 @@
     "KAPL/HRA": "Kamala", // give up "Kamilah"
     "KEP/HRER": "Kepler",
     "KERPL": "Kepler",
+    "HRAOUS": "Louis", // add * for "Lewis"; use HRUZ for "lose"
     "POPL/PAEU/KWROE": "Pompeo", // cf. TKPWAL/HRAEU/KWROE "Galileo"
     "RORPBLG": "Roger",
     "SPWAGS": "Sebastian", // cf. KREUGS "Christian"
@@ -3929,6 +3980,18 @@
     "TPH-R": "under", // use TPHOR for "nor", which is consistent with OR "or"
     "TPH-RT": "under the",
 
+    // -- Flout greedy rule ----------------------------------------------------
+
+    // Normally, in deciding where to break multistroke words,
+    // the "correct" thing to do is to be as greedy as possible,
+    // i.e. to cram as much as possible into the first stroke.
+    // But blind obedience of this rule leads to absurd strokes
+    // like AUR/KWROR/KWRA "aurora". So feel free to violate
+    // this rule when it feels right.
+
+    "AU/RO/RA": "aurora",
+    "PHAPB/TEUS": "mantis", // instead of PHAPBT/EUS
+
     // -- Punctuation as shapes ------------------------------------------------
 
     // Ellipsis
@@ -4209,6 +4272,14 @@
     "TPHROFL": "philosophical",
     "TPHROFZ": "philosophize", // or use TPHROS/TPAOEUZ
 
+    // "positive" and "negative"
+    // I like the O-E symmetry.
+    "POF": "positive",
+    "POFL": "positively",
+    "TPHEF": "negative",
+    "TPHEFL": "negatively", // overrides "nestle" [1]
+    /*1*/ "TPHEFLT": "nestle", // cf. RUFLT "rustle"
+
     // "reflect" family
     "TPHRET": "reflect", // misstroke for "net"
     "TPHREGS": "reflection",
@@ -4342,6 +4413,15 @@
     "PWRAOUS": "bruise",
     "PWRAOUZ": "brews",
 
+    // SEL       "sell"
+    // SERL      "seller"
+    // KREL      "cell"
+    // KRERL     undefined  -> "cellar"
+    // SEL/HRAR  "cellar"   -> "cellular"
+    // KREL/HRAR "cellular"
+    "KRERL": "cellar",
+    "SEL/HRAR": "cellular",
+
     // PHAS   "mass"
     // PHASZ  "mass"    -> "masses"
     // PHAFS  "masses"  -> "massive"
@@ -4402,14 +4482,6 @@
 
     // -- Topics ---------------------------------------------------------------
 
-    // Sign
-    // I like the O-E symmetry.
-    "POF": "positive",
-    "POFL": "positively",
-    "TPHEF": "negative",
-    "TPHEFL": "negatively", // overrides "nestle" [1]
-    /*1*/ "TPHEFLT": "nestle", // cf. RUFLT "rustle"
-
     // Godparenthood
     "TKPWOD/PARPBT": "godparent",
     "TKPWOD/KHAOEULD": "godchild",
@@ -4420,6 +4492,10 @@
     // The superrich
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
+
+    // Burgers
+    "HAPL/PWRURG": "hamburger",
+    "KHAOES/PWRURG": "cheeseburger",
 
     // US political parties
     "RUP": "Republican",
@@ -4610,6 +4686,9 @@
     // HAPBD/SHAEUBGS "hand"
     "HAPBD/SHAEUBGS": "handshakes",
 
+    // HRAOURS/-S "loser"
+    "HRAOURS/-S": "losers",
+
     // TPHURS   "nurse"
     // TPHURGS  "nurse"   (extra G)
     // TPHURBGS "nursing" (extra B)
@@ -4705,6 +4784,7 @@
     "TKAPL/H-F": "damn",            // from "dam"
     "TKAOER/H-F": "dear",           // from "deer"
     "TKAOERL/H-F": "dearly",        // from "dealer"
+    "TKEUFBG/H-F": "disk",          // from "disc"
     "AOEUD/H-F": "eyed",            // from "I'd"
     "TKPWAEUT/H-F": "gate",         // from "gait"
     "HAUL/H-F": "haul",             // from "hall"
@@ -4740,6 +4820,8 @@
     "ROEPL/H-F": "Rome",            // from "roam"
     "SOEPB/H-F": "sewn",            // from "sown"
     "SAOEUD/H-F": "sighed",         // from "side"
+    "STAEUR/H-F": "stare",          // from "stair"
+    "STAEURS/H-F": "stares",
     "SWAEUD/H-F": "suede",          // from "swayed"
     "SWAOET/H-F": "suite",          // from "sweet"
     "TAOER/H-F": "tear",            // from "tier"
@@ -4798,13 +4880,11 @@
 
     "PWAOEUS/H-F": "buys",          // from "bias"         (custom)
     "STKPHRAEUS/H-F": "displays",   // from "displace"     (custom)
-    "TPHRAEUBGS/H-F": "flakes",     // from "affliction"   (custom)
     "TPREBGS/H-F": "frequents",     // from "for example"  (custom)
     "SKWRELS/H-F": "gels",          // from "jealous"      (custom)
     "HEPLS/H-F": "hems",            // from "helpless"     (custom)
     "SKWRAEULGS/H-F": "jailings",   // from "generational" (custom)
     "TPHOEPBS/H-F": "knowns",       // from "known as"     (custom)
-    "PHAEUPLS/H-F": "maims",        // from "my name is"   (custom)
     "SAES/H-F": "seas",             // from "assess"       (custom)
     "SREUBG/TORS/H-F": "victors",   // from "victorious"   (custom)
 
