@@ -51,6 +51,9 @@
     "-RT": "right", // - physically stroked with the right hand
                     // - use R-T for "are the"
                     // - frees up RAOEUT for "rite" [3]
+    "-RLT": "rightly",
+    "TPO*RT/-RT": "forthright",
+    "TPO*RT/-RLT": "forthrightly",
     "T-G": "thing",
     /*1*/ "TKPW*PS": "GPS", // just write out "global positioning system"
     /*2*/ "HR*LG": "{^ological}",
