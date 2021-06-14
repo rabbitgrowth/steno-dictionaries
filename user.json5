@@ -3288,80 +3288,79 @@
 
     // -- -Z for -s ------------------------------------------------------------
 
-    // ERZ would make a good stroke for "easier" (EZ "easy" + -R for {^er}),
-    // but since ER is {^er} (custom), ERZ should be {^ers} for consistency.
-    "AOEFR": "easier", // cf. AO*ERS
-
-    // Swap strokes such that -Z is consistently -s
-    "OERS": "otherwise",
-    "OERZ": "others",
-
-    "HUPBZ": "hundreds", // give up {^00}; use 0Z for {&00}
-                         // (what's the difference anyway?)
-
-    // -- Inflections ----------------------------------------------------------
-
-    // Plurals
-    "ABGT/SREUFTS": "activists",
-    "APB/HREUFTS": "analysts",
-    "PWROUZ": "brows", // -S is "browse"
-    "KOEBG/TPHUTS": "coconuts",
-    "TK*ET/PWEDZ": "deathbeds",
-    "TKEUPL/PHATS": "diplomats",
-    "TKOPL/TPHOEZ": "dominoes",
-    "TKROP/HRETS": "droplets",
-    "EBG/OEZ": "echoes",
-    "TKPW-PB/SHOTS": "gunshots",
-    "SKWRUFSZ": "justices", // otherwise "justifieses" (SKWRUFZ + -S)
-    "HRAUR/KWRATS": "laureates",
-    "PHOD/RATS": "moderates",
-    "PHUFBG/RATS": "muskrats",
-    "TPHARS/SEUFTS": "narcissists",
-    "OD/TEUZ": "oddities",
-    "AOUT/HRETS": "outlets",
-    "POP/HREUFTS": "populists",
-    "PREUF/KWREUZ": "privies",
-    "RAEU/SEUPBZ": "raisins",
-    "RAPL/PARTS": "ramparts",
-    "RAOEDZ": "reeds", // use RAEDZ for "reads"
-    "STAEUR/KAEUSZ": "staircases",
-    "TEPB/ETS": "tenets",
-    "SRABG/SEUPBZ": "vaccines",
-    "WEUPBD/TPAULZ": "windfalls",
-
-    // -S vs -Z
-    // In general, fold in -S to minimize the number of strokes:
-    //   KATS  "cats" (as opposed to KAT/-S)
-    //   TKOGS "dogs" (as opposed to TKOG/-S)
-    // When there's a conflict, use -S when the sound it represents
-    // forms an integral part of the word, and -Z for the removable
-    // suffix -s. Mnemonic: -Z is further away and feels detachable.
-    // For example:
-    //   TPHOES "nose"
-    //   TPHOEZ "knows"
-    // But always use -Z for -ze. For example:
-    //   SAOEUZ "size"
-    //   SAOEUS "sighs"
-    "AOEUS": "ice",  // already works
-    "AOEUZ": "eyes", // overrides {^ize} [1]
-    "ROES": "rose", // swap with "rows"
-    "ROEZ": "rows",
-    "TPHREBGZ": "flecks", // vs TPHREBGS "flex"
-    "PAUZ": "paws",       // vs PAUS "pause"
+    // Plover uses -S for the detachable suffix -s (plurals and present tense),
+    // except when there's a conflict, in which case it switches to -Z for that
+    // and uses -S for the other word, where -s is often an integral part:
+    //   TPHOES "nose"   TKAOEUS "dice"  PULS "pulse"  (undetachable -s)
+    //   TPHOEZ "knows"  TKAOEUZ "dies"  PULZ "pulls"  (detachable   -s)
+    // Mnemonic: -Z is further away to the right and thus feels more detachable.
+    // This is a good rule, so make it work consistently:
+    "PWROUZ": "brows",    // vs "browse"
+    "AOEUZ": "eyes",      // vs "ice"; overrides {^ize} [1]
+    "TPHREBGZ": "flecks", // vs "flex"; use TPHRETS (custom) for "reflects"
+    "PAUZ": "paws",       // vs "pause"
     /*1*/ "EUZ": "{^ize}",
           "EUFD": "{^ized}",  // cf. AO*EUFD
           "EUSZ": "{^izes}",
           "EUFG": "{^izing}", // cf. AO*EUFG
 
-    // When there's no conflict, prefer -S over -Z.
-    // It's just easier to stroke.
+    // Swaps
+    "ROES": "rose",
+    "ROEZ": "rows",
+    "OERS": "otherwise",
+    "OERZ": "others",
+
+    // The result of this system is that using -S for -s works most of the time
+    // (it feels like 95%), but you'll have to memorize the other 5% of words
+    // where you have to use -Z instead. A solution is to just always use -Z.
+    // It's more work for the pinky, but the consistency you gain is worth it.
+    "HUPBZ": "hundreds", // use 0Z for {&00}
+
+    "TKOPL/TPHOEZ": "dominoes",
+    "EBG/OEZ": "echoes",
+    "OD/TEUZ": "oddities",
+    "PREUF/KWREUZ": "privies",
+    "RAEU/SEUPBZ": "raisins",
+    "SRABG/SEUPBZ": "vaccines",
+    "WEUPBD/TPAULZ": "windfalls",
+
+    // ERZ would make a good stroke for "easier" (EZ "easy" + -R for {^er}),
+    // but since ER is {^er} (custom), ERZ should be {^ers} for consistency.
+    "AOEFR": "easier", // cf. AO*ERS
+
+    // For words ending with -T, use -TS instead of -TZ to avoid Philly shift:
+    "ABGT/SREUFTS": "activists",
+    "APB/HREUFTS": "analysts",
+    "KOEBG/TPHUTS": "coconuts",
+    "TKEUPL/PHATS": "diplomats",
+    "TKROP/HRETS": "droplets",
+    "TKPW-PB/SHOTS": "gunshots",
+    "HRAUR/KWRATS": "laureates",
+    "PHOD/RATS": "moderates",
+    "PHUFBG/RATS": "muskrats",
+    "TPHARS/SEUFTS": "narcissists",
+    "AOUT/HRETS": "outlets",
+    "POP/HREUFTS": "populists",
+    "RAPL/PARTS": "ramparts",
+    "TEPB/ETS": "tenets",
+
+    // For words ending with -D, use -DZ, of course:
+    "RAOEDZ": "reeds", // use RAEDZ for "reads"
+    "TK*ET/PWEDZ": "deathbeds",
+
+    // For -ses, use -SZ, which can be thought of as -S + -Z or -Z + -S:
+    "SKWRUFSZ": "justices", // otherwise "justifieses" (SKWRUFZ + -S)
+    "STAEUR/KAEUSZ": "staircases",
+
+    // For undetachable -s, prefer -S over -Z. It's just easier to stroke.
     "KPROPLS": "compromise",
     "STKPAOEUS": "despise",
     "RES/TPHAEUGS": "resignation",
     "SKHRAUS": "Santa Claus",
     "THOUS": "thousand",
 
-    // Verb forms
+    // -- Verb forms -----------------------------------------------------------
+
     // The automatic suffix-appending mechanism for -S -Z -G -D
     // doesn't work for these words because
     // 1) The second stroke is defined as a different word.
