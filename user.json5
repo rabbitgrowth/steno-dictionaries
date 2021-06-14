@@ -4443,6 +4443,10 @@
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
 
+    // Burgers
+    "HAPL/PWRURG": "hamburger",
+    "KHAOES/PWRURG": "cheeseburger",
+
     // US political parties
     "RUP": "Republican",
     "RUPS": "Republicans",        // misstroke for "runs"
