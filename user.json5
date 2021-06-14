@@ -51,6 +51,9 @@
     "-RT": "right", // - physically stroked with the right hand
                     // - use R-T for "are the"
                     // - frees up RAOEUT for "rite" [3]
+    "-RLT": "rightly",
+    "TPO*RT/-RT": "forthright",
+    "TPO*RT/-RLT": "forthrightly",
     "T-G": "thing",
     /*1*/ "TKPW*PS": "GPS", // just write out "global positioning system"
     /*2*/ "HR*LG": "{^ological}",
@@ -667,6 +670,8 @@
     "TKPWOEULT": "guilty",
     "PHOEURS": "mercy", // give up "MRSA"
     "POEUT": "pity",    // give up "PO2"
+    "SO*EULG": "silky",
+    "SOEUFRL": "silvery",
     "SHROEUPL": "slimy",
     "SPHOEUBG": "smoky",
 
@@ -682,6 +687,9 @@
                       // use SAOE/OE (custom) for "CEO"
     "SOUT/KRAOE": "South Korea", // allow dropping *
     "TPHORT/KRAOE": "North Korea",
+
+    "SEUPBD/REL": "Cinderella",
+    "PHOET/ROEL": "Motorola",
 
     // -- Homophones -----------------------------------------------------------
 
@@ -1685,6 +1693,10 @@
     "TRA/SREFRD": "traversed",
     "SREFRD": "versed",
 
+    // -FPL for -some
+    "TKPWRAOUFPL": "gruesome",
+    "WHOEFPL": "wholesome",
+
     // -RT for -ture
     "KAUPB/SKWRERBGT": "conjecture",
     "TPAOERT": "feature", // alternative to TPAOEFP
@@ -2089,14 +2101,13 @@
     //   SREUG/ROUS "vigorous"
 
     // Nonsensical translations
-    "KHEUPL": "chimney",        // "Chim"
-    "SEUPBD/REL": "Cinderella", // "sinned REL"
-    "AOEG": "ego",              // "eing"
-    "TPHAR": "narrow",          // "nar"
-    "TPHARL": "narrowly",       // overrides "natural" [1]
-    "SERBG": "secretary",       // "Serbing"
-    "SROD": "vodka",            // "have toed"
-    "SREUG": "vigor",           // "have Iing"
+    "KHEUPL": "chimney",  // "Chim"
+    "AOEG": "ego",        // "eing"
+    "TPHAR": "narrow",    // "nar"
+    "TPHARL": "narrowly", // overrides "natural" [1]
+    "SERBG": "secretary", // "Serbing"
+    "SROD": "vodka",      // "have toed"
+    "SREUG": "vigor",     // "have Iing"
     /*1*/ "TPHARLT": "natural",    // fully phonetic
           "TPHRARLT": "naturally", // superimpose HR for -ly
 
@@ -3505,6 +3516,7 @@
     "TKE/TPHAOUTD": "denuded",
     "AOE/HRAOUTD": "eluded",
     "TPOUPBTD": "founded",
+    "TKPWROUPBTD": "grounded",
     "TKPWAOEUTD": "guided",
     "HAPBTD": "handed",
     "HETD": "headed",
@@ -4206,6 +4218,14 @@
     "TPHROFL": "philosophical",
     "TPHROFZ": "philosophize", // or use TPHROS/TPAOEUZ
 
+    // "positive" and "negative"
+    // I like the O-E symmetry.
+    "POF": "positive",
+    "POFL": "positively",
+    "TPHEF": "negative",
+    "TPHEFL": "negatively", // overrides "nestle" [1]
+    /*1*/ "TPHEFLT": "nestle", // cf. RUFLT "rustle"
+
     // "reflect" family
     "TPHRET": "reflect", // misstroke for "net"
     "TPHREGS": "reflection",
@@ -4339,6 +4359,15 @@
     "PWRAOUS": "bruise",
     "PWRAOUZ": "brews",
 
+    // SEL       "sell"
+    // SERL      "seller"
+    // KREL      "cell"
+    // KRERL     undefined  -> "cellar"
+    // SEL/HRAR  "cellar"   -> "cellular"
+    // KREL/HRAR "cellular"
+    "KRERL": "cellar",
+    "SEL/HRAR": "cellular",
+
     // PHAS   "mass"
     // PHASZ  "mass"    -> "masses"
     // PHAFS  "masses"  -> "massive"
@@ -4399,14 +4428,6 @@
 
     // -- Topics ---------------------------------------------------------------
 
-    // Sign
-    // I like the O-E symmetry.
-    "POF": "positive",
-    "POFL": "positively",
-    "TPHEF": "negative",
-    "TPHEFL": "negatively", // overrides "nestle" [1]
-    /*1*/ "TPHEFLT": "nestle", // cf. RUFLT "rustle"
-
     // Godparenthood
     "TKPWOD/PARPBT": "godparent",
     "TKPWOD/KHAOEULD": "godchild",
@@ -4417,6 +4438,10 @@
     // The superrich
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
+
+    // Burgers
+    "HAPL/PWRURG": "hamburger",
+    "KHAOES/PWRURG": "cheeseburger",
 
     // US political parties
     "RUP": "Republican",
@@ -4705,6 +4730,7 @@
     "TKAPL/H-F": "damn",            // from "dam"
     "TKAOER/H-F": "dear",           // from "deer"
     "TKAOERL/H-F": "dearly",        // from "dealer"
+    "TKEUFBG/H-F": "disk",          // from "disc"
     "AOEUD/H-F": "eyed",            // from "I'd"
     "TKPWAEUT/H-F": "gate",         // from "gait"
     "HAUL/H-F": "haul",             // from "hall"
