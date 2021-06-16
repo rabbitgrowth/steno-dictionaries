@@ -3277,6 +3277,8 @@
 
     // Miscellaneous
     "PWHOU": "about how",
+    "TKORG": "according to", // mashup of KORG "according" and TO "to"
+    "TKORGT": "according to the",
     "PWU": "about you", // use PWUT for "but"
     "AURT": "all right",
     "TPHEUFT": "any of the", // use EUFT for {^ist}
