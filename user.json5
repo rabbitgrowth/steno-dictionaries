@@ -4266,6 +4266,12 @@
     "PHEL/KOEL": "melancholy",  // PHEL/KOL/KWREU but with "many" rule
     "PHEL/KOLG": "melancholic", // PHEPBL/KOLG    but omit -PB like "melancholy"
 
+    // "ornithology" family
+    "ORPB/THOL/SKWREU": "ornithology",
+    "ORPB/THOL/SKWREUFT": "ornithologist",
+    "O*RPBT/HROPBLG/K-L": "ornithological",
+    "O*RPBT/HROPBLG/KHREU": "ornithologically",
+
     // "philosophy" family
     "TPHROF": "philosophy",    // or use TPHROS/TPEU
     "TPHROFR": "philosopher",  // or use TPHROS/TPER
