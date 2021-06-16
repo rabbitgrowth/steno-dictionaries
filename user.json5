@@ -3881,6 +3881,8 @@
 
     // Words that are completely missing
     "ART/SEU/TPART/SEU": "artsy-fartsy",
+    "TKO/TKO": "dodo",
+    "TKOE/TKOE": "dodo",
     "TKO*PB": "don", // starless is "done"; prepend KPA* for "Don"
     "TKO*U": "Dow", // starless is "do you"
     "AOEF": "eve", // overrides "Eve" [1]
