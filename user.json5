@@ -272,6 +272,7 @@
     "TPREUFLS": "frivolous", // TPREUF/HROUS already works
     "TKPWUPBS": "guns", // "beguns" is not a word
     "HA*RT": "hearth", // give up "Hart"
+    "HUPLS": "hummus", // use -Z for "hums"
     "SPWREUBGT": "intricate",
     "PHAOED/KWRORBGT": "mediocrity",
     "PHES/PHRAOEUZ": "mesmerize",
