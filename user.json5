@@ -537,12 +537,14 @@
     "SKPAOPB": "and so on", // SKP + SO + OPB with AO for the doubled "o"
     "SKP-PB": "and then",
     "SKP-PBT": "and then the",
+    "TPWEFT": "at best", // tricky to hit; mostly for consistency with "at worst"
     "THOEPL": "at home", // misstroke for "them"
     "THRAFT": "at last", // cf. THRAOEFT "at least"
     "TPHOEFT": "at most",
     "TREFT": "at rest",
     "TWAR": "at war",
     "TWORBG": "at work",
+    "TWOFRT": "at worst",
     "TKPWOEPL": "go home",
     "TKPWROELD": "grow old",
     "TPHOEPBS": "known as", // use -Z for "knowns"
