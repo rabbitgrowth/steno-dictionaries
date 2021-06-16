@@ -3275,6 +3275,11 @@
     "TPHOLGS": "nothing else",
     "S-LGS": "something else",
 
+    // "... up"
+    "TKPWUP": "go up",    // instead of "give up"
+    "TKPWRUP": "grow up", // instead of "grown up"
+    "WUP": "wake up",     // misstroke for "one"
+
     // Miscellaneous
     "PWHOU": "about how",
     "TKORG": "according to", // mashup of KORG "according" and TO "to"
