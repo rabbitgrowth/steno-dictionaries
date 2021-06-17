@@ -2493,6 +2493,13 @@
     "WHOUPB": "who you know",
     "*UPB": "you know", // alternative to KWRAOUPB
 
+    "UFL": "you feel", // use UFRL (custom) for "unfortunately"
+    "H-FLS": "he feels",
+    "SH-FLS": "she feels",
+    "T-FLS": "it feels", // already works
+    "W-FL": "we feel",
+    "THEFL": "they feel", // misstroke for "them"
+
     "UFD": "you find",
     "H-FDZ": "he finds",
     "SH-FDZ": "she finds",
