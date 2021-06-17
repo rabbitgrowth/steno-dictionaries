@@ -1340,6 +1340,7 @@
     "STKHROES": "disclose",
     "STKHROEFD": "disclosed",
     "STKHROEFR": "disclosure",
+    "STK-FRT": "discomfort",    // cf. K-FRT "comfort"
     "STKEBGT": "disconnect",    // cf. KEBGT "connect"
     "STKEBGS": "disconnection", // cf. KEBGS "connection"
     "STKORPBLG": "discourage",
@@ -1392,6 +1393,7 @@
     "STKWAEUGS": "dissuasion",
     "STKORT": "distort", // for consistency with "distortion"
                          // give up "accident report"
+    "STKRUFT": "distrust",
 
     "STKEPGS": "deception", // what matters is the pronunciation: /dɪˈs-/
     "STKEPBD": "descend", // and get "condescending" KAUPB/STKEPBGD for free
