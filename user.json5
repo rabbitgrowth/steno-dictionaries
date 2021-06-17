@@ -1338,7 +1338,7 @@
     "STKPHREUPB/REU": "disciplinary",
     "STKHROES": "disclose",
     "STKHROEFD": "disclosed",
-    "STKHROEFR": "disclosure",
+    "STKHROERB": "disclosure",
     "STK-FRT": "discomfort",    // cf. K-FRT "comfort"
     "STKEBGT": "disconnect",    // cf. KEBGT "connect"
     "STKEBGS": "disconnection", // cf. KEBGS "connection"
@@ -1369,7 +1369,7 @@
     "STKPHRAEUPLT": "displacement",  // cf. PHRAEUPLT  "placement"
     "STKPHRAEUFPLT": "displacement", // cf. PHRAEUFPLT "placement"
     "STKPHRAOES": "displease",
-    "STKPHREFR": "displeasure",
+    "STKPHRERB": "displeasure",
     "STKPOEFBL": "disposable", // for consistency with "dispose", "disposal"
                                // or just use TKOEBL
     "STKPOEFD": "disposed",
@@ -1449,10 +1449,7 @@
                         // KPOES  "compose"
                         // SKPOES "expose"
     "SKPOEFD": "exposed",
-    "SKPOEFR": "exposure", // give up "over and"
-                           // (which could just as validly be "and over":
-                           //  OVER AND  41192
-                           //  AND OVER  29031)
+    "SKPOERB": "exposure",
     "SKPRES": "express", // another nice trio:
                          // SPRES  "suppress"
                          // KPRES  "compress"
@@ -1687,10 +1684,6 @@
     // but "you are the" is too useful to give up.
     /*1*/ "PW*URT": "Burt",
 
-    // -FR for -sure
-    "PHEFR": "measure",
-    "PHREFR": "pleasure",
-
     // -FR for -ser, -zer, or even -zor
     // Precedents: HRAEUFR "laser", S*EUPBT/SAOEUFR "synthesizer"
     "AP/TAOEUFR": "appetizer",
@@ -1746,6 +1739,13 @@
     // -FPL for -some
     "TKPWRAOUFPL": "gruesome",
     "WHOEFPL": "wholesome",
+
+    // -RB for -sure
+    // Precedents: PRERB "pressure", PH*ERB "measure" (starless is "mesh")
+    "KHROERB": "closure", // and get "enclosure" for free
+    "KPOERB": "composure",
+    "AOE/RAEURB": "erasure",
+    "TP*EURB": "fissure", // use TP-RB (custom) for "finish"
 
     // *RT for -ther
     // Precedents: H*EURT "hither", TH*EURT "thither"
