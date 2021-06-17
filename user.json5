@@ -2243,17 +2243,23 @@
     // Since KWROEU is "I don't" and KWROEUF is "I don't have",
     // one would expect "I have" to be KWR-F. But it's SREU (?!).
     "KWR-F": "I have",
+    "KWR-FT": "I have the", // give up "yours very truly,"
     "KWR-FB": "I have been",
     "AOEUF": "I've",       // already works
+    "AOEUFT": "I've the",
     "AOEUFB": "I've been", // already works
     "KWR-D": "I had",
+    "KWR-TD": "I had the",
     "KWR-BD": "I had been",
     "SREU": "have I", // follow steno order
     "UF": "you have",
+    "UFT": "you have the",
     "UFB": "you have been", // just fingerspell "USB"
     "*UF": "you've",
+    "*UFT": "you've the",
     "*UFB": "you've been",
     "UD": "you had", // use *UD for "you'd"
+    "UTD": "you had the",
     "UBD": "you had been",
     "SRU": "have you", // already works
     "H-Z": "he has",
@@ -2265,12 +2271,15 @@
     "SH-D": "she had",
     "SH-BD": "she had been",
     "W-F": "we have", // bizarre misstroke for "where"
+    "W-FT": "we have the",
     "W-FB": "we have been",
     "W*F": "we've", // give up "West Virginia" and free up WAOEF for "weave" [1]
+    "W*FT": "we've the",
     "W*FB": "we've been",
     "W-D": "we had", // give up {^ed with}
     "W-BD": "we had been",
     "THEF": "they have",
+    // As a special case, THEFT is "theft" instead of "they have the"
     "THEFB": "they have been",
     "TH*EF": "they've",
     "TH*EFB": "they've been",
