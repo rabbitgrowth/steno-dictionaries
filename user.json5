@@ -1344,11 +1344,11 @@
     "STKEBGS": "disconnection", // cf. KEBGS "connection"
     "STKORPBLG": "discourage",
     "STKORS": "discourse",
-    "STKRAOET": "discreet", // follows vowel in TKEUS/KRAOET "discreet"
-    "STKRAET": "discrete",  // follows vowel in TKEUS/KRAET  "discrete"
+    "STKRAOET": "discreet", // cf. TKEUS/KRAOET "discreet"
+    "STKRAET": "discrete",  // cf. TKEUS/KRAET  "discrete"
     "STKPWRAEUS": "disgrace", // cf. STKPWAOEUS "disguise"
     "STKPWRAEUFD": "disgraced",
-    "STKHARPBT": "dishearten", // much nicer than TKEUS/HART/*EPB
+    "STKHARPBT": "dishearten",
     "STKPHAL": "dismal",
     "STKPHAEU": "dismay",
     "STKPHEB": "dismember",  // cf. PHEB  "member"
@@ -1359,7 +1359,7 @@
     "STKPEFPBD": "dispensed",
     "STKPERPBS": "dispenser",
     "STKPERS": "disperse",
-    "STKPEFRD": "dispersed", // cf. KUFRD "cursed"
+    "STKPEFRD": "dispersed", // cf. KUFRD  "cursed"
     "STKPEFRL": "dispersal", // cf. TKOFRL "dorsal"
     "STKPERLS": "dispersal", // although there's no TKORLS
     "STKPERGS": "dispersion",
@@ -1370,10 +1370,11 @@
     "STKPHRAEUFPLT": "displacement", // cf. PHRAEUFPLT "placement"
     "STKPHRAOES": "displease",
     "STKPHRERB": "displeasure",
-    "STKPOEFBL": "disposable", // for consistency with "dispose", "disposal"
-                               // or just use TKOEBL
+    "STKPOES": "dispose",   // already works
+    "STKPOEFL": "disposal", // already works; or just use TKOEFL
     "STKPOEFD": "disposed",
     "STKPOEFG": "disposing",
+    "STKPOEFBL": "disposable", // or just use TKOEBL
     "STKPOGS": "disposition", // cf. POGS "position"
     "STKPOLGS": "dispositional",
     "STKPROF": "disprove",    // cf. PROF "prove"
@@ -1390,8 +1391,8 @@
     "STKPHAPBT": "dissonant",
     "STKWAEUD": "dissuade",
     "STKWAEUGS": "dissuasion",
-    "STKORT": "distort", // for consistency with "distortion"
-                         // give up "accident report"
+    "STKORT": "distort",     // give up "accident report"
+    "STKORGS": "distortion", // already works
     "STKRUFT": "distrust",
 
     "STKEPGS": "deception", // what matters is the pronunciation: /dɪˈs-/
