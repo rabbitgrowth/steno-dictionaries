@@ -197,7 +197,6 @@
                                 //   but "symbolic" is much more common
     "TREUGS": "transmission",   // with TREUT "transmit"; use TRAPBGS for "transition"
     "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
-    "UFT": "unfortunate",       // with UFL "unfortunately"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
     /*1*/ "PH*ERL": "Merrill", // PHERL   "Meryl"
@@ -274,6 +273,7 @@
     "TPREUFLS": "frivolous", // TPREUF/HROUS already works
     "TKPWUPBS": "guns", // "beguns" is not a word
     "HA*RT": "hearth", // give up "Hart"
+    "HUPLS": "hummus", // use -Z for "hums"
     "SPWREUBGT": "intricate",
     "PHAOED/KWRORBGT": "mediocrity",
     "PHES/PHRAOEUZ": "mesmerize",
@@ -538,12 +538,14 @@
     "SKPAOPB": "and so on", // SKP + SO + OPB with AO for the doubled "o"
     "SKP-PB": "and then",
     "SKP-PBT": "and then the",
+    "TPWEFT": "at best", // tricky to hit; mostly for consistency with "at worst"
     "THOEPL": "at home", // misstroke for "them"
     "THRAFT": "at last", // cf. THRAOEFT "at least"
     "TPHOEFT": "at most",
     "TREFT": "at rest",
     "TWAR": "at war",
     "TWORBG": "at work",
+    "TWOFRT": "at worst",
     "TKPWOEPL": "go home",
     "TKPWROELD": "grow old",
     "TPHOEPBS": "known as", // use -Z for "knowns"
@@ -1104,6 +1106,7 @@
     "SHRERBL": "essentially",
     "TPHRUL": "fully", // use TP*UL for "fundamental"
     "TPHR*UL": "fundamentally",
+    "PHRAOEFL": "peacefully",
     "PHRERPL": "permanently",
     "SKHROL": "psychologically",
     "SHRAOEPLG": "seemingly",
@@ -1231,7 +1234,7 @@
     // SPW for ant-, ont-, and unt-
     // Justification: "ent- or int-" isn't a mirror image of -nt; nt- is.
     // And nt- feels like it could be extended to mean [any vowel]nt-.
-    "SPWEUBG": "antic", // and get "antics" for free
+    "SPWEUBG": "antic", // and get SPWEUBGS "antics" for free
     "SPWEUFPT": "anticipate",
     "SPWEUFPGS": "anticipation",
     "SPWAOEBG": "antique",
@@ -1332,19 +1335,19 @@
     "STKAOEUPL": "disciple",
     "STKPHREUPB": "discipline",
     "STKPHREUPB/REU": "disciplinary",
-    "STKPHREURPB": "disciplinary", // fold in -R for -ry
     "STKHROES": "disclose",
     "STKHROEFD": "disclosed",
-    "STKHROEFR": "disclosure",
+    "STKHROERB": "disclosure",
+    "STK-FRT": "discomfort",    // cf. K-FRT "comfort"
     "STKEBGT": "disconnect",    // cf. KEBGT "connect"
     "STKEBGS": "disconnection", // cf. KEBGS "connection"
     "STKORPBLG": "discourage",
     "STKORS": "discourse",
-    "STKRAOET": "discreet", // follows vowel in TKEUS/KRAOET "discreet"
-    "STKRAET": "discrete",  // follows vowel in TKEUS/KRAET  "discrete"
+    "STKRAOET": "discreet", // cf. TKEUS/KRAOET "discreet"
+    "STKRAET": "discrete",  // cf. TKEUS/KRAET  "discrete"
     "STKPWRAEUS": "disgrace", // cf. STKPWAOEUS "disguise"
     "STKPWRAEUFD": "disgraced",
-    "STKHARPBT": "dishearten", // much nicer than TKEUS/HART/*EPB
+    "STKHARPBT": "dishearten",
     "STKPHAL": "dismal",
     "STKPHAEU": "dismay",
     "STKPHEB": "dismember",  // cf. PHEB  "member"
@@ -1355,7 +1358,7 @@
     "STKPEFPBD": "dispensed",
     "STKPERPBS": "dispenser",
     "STKPERS": "disperse",
-    "STKPEFRD": "dispersed", // cf. KUFRD "cursed"
+    "STKPEFRD": "dispersed", // cf. KUFRD  "cursed"
     "STKPEFRL": "dispersal", // cf. TKOFRL "dorsal"
     "STKPERLS": "dispersal", // although there's no TKORLS
     "STKPERGS": "dispersion",
@@ -1365,11 +1368,12 @@
     "STKPHRAEUPLT": "displacement",  // cf. PHRAEUPLT  "placement"
     "STKPHRAEUFPLT": "displacement", // cf. PHRAEUFPLT "placement"
     "STKPHRAOES": "displease",
-    "STKPHREFR": "displeasure",
-    "STKPOEFBL": "disposable", // for consistency with "dispose", "disposal"
-                               // or just use TKOEBL
+    "STKPHRERB": "displeasure",
+    "STKPOES": "dispose",   // already works
+    "STKPOEFL": "disposal", // already works; or just use TKOEFL
     "STKPOEFD": "disposed",
     "STKPOEFG": "disposing",
+    "STKPOEFBL": "disposable", // or just use TKOEBL
     "STKPOGS": "disposition", // cf. POGS "position"
     "STKPOLGS": "dispositional",
     "STKPROF": "disprove",    // cf. PROF "prove"
@@ -1386,12 +1390,12 @@
     "STKPHAPBT": "dissonant",
     "STKWAEUD": "dissuade",
     "STKWAEUGS": "dissuasion",
-    "STKORT": "distort", // for consistency with "distortion"
-                         // give up "accident report"
+    "STKORT": "distort",     // give up "accident report"
+    "STKORGS": "distortion", // already works
+    "STKRUFT": "distrust",
 
     "STKEPGS": "deception", // what matters is the pronunciation: /dɪˈs-/
-    "STKEPBD": "descend", // and get "condescending" KAUPB/STKEPBGD for free
-    "STKEPBD/APBT": "descendant",
+    "STKEPBD": "descend", // and get KAUPB/STKEPBGD "condescending" for free
     "STKHREBGT": "deselect",
     "STKPRAT": "desperate",
     "STKPRALT": "desperately",
@@ -1416,11 +1420,12 @@
     // But there might be some merit in being consistent and
     // always using SKP for exp-.
     "SKPAPBD": "expand",
-    "SKPAPBS": "expanse", // and get "expansive" SKPAPBS/EUF for free
+    "SKPAPBS": "expanse", // and get SKPAPBS/EUF "expansive" for free
     "SKPAPBGS": "expansion",
     "SKPAOED/KWREPBS": "expedience",
     "SKPAOED/KWREPBT": "expedient",
     "SKPEPBD": "expend", // give up "end and"
+    "SKPEPBD/TUR": "expenditure",
     "SKPEPBS": "expense",
     "SKPEF": "expensive", // cf. SP*EF
     "SKPAOERPBS": "experience",
@@ -1444,10 +1449,7 @@
                         // KPOES  "compose"
                         // SKPOES "expose"
     "SKPOEFD": "exposed",
-    "SKPOEFR": "exposure", // give up "over and"
-                           // (which could just as validly be "and over":
-                           //  OVER AND  41192
-                           //  AND OVER  29031)
+    "SKPOERB": "exposure",
     "SKPRES": "express", // another nice trio:
                          // SPRES  "suppress"
                          // KPRES  "compress"
@@ -1647,6 +1649,16 @@
     /*1*/ "STKEU": "study",    // "studied" is then STKEUD
           "STKEUS": "studies", // misstroke for "decision"
 
+    // OFT for -osity
+    // Precedents: KAOUR/KWROFT "curiosity"
+    //             SKWREPB/ROFT "generosity"
+    //             APB/PHOFT    "animosity"
+    "TKPWRAPBD/KWROFT": "grandiosity",
+    "PHOPB/STROFT": "monstrosity",
+    "PHOPBS/TROFT": "monstrosity",
+    "RE/HREUPBLG/KWROFT": "religiosity",
+    "SRER/PWOFT": "verbosity",
+
     // EZ for -eeze
     // Like THEZ "these", although "these" is spelled with an "s".
     // It's a nice coincidence that EZ "easy" sans -y rhymes.
@@ -1671,10 +1683,6 @@
     // It's a bit tempting to assign URT to "utter",
     // but "you are the" is too useful to give up.
     /*1*/ "PW*URT": "Burt",
-
-    // -FR for -sure
-    "PHEFR": "measure",
-    "PHREFR": "pleasure",
 
     // -FR for -ser, -zer, or even -zor
     // Precedents: HRAEUFR "laser", S*EUPBT/SAOEUFR "synthesizer"
@@ -1731,6 +1739,13 @@
     // -FPL for -some
     "TKPWRAOUFPL": "gruesome",
     "WHOEFPL": "wholesome",
+
+    // -RB for -sure
+    // Precedents: PRERB "pressure", PH*ERB "measure" (starless is "mesh")
+    "KHROERB": "closure", // and get EPB/KHROERB "enclosure" for free
+    "KPOERB": "composure",
+    "AOE/RAEURB": "erasure",
+    "TP*EURB": "fissure", // use TP-RB (custom) for "finish"
 
     // *RT for -ther
     // Precedents: H*EURT "hither", TH*EURT "thither"
@@ -2223,17 +2238,23 @@
     // Since KWROEU is "I don't" and KWROEUF is "I don't have",
     // one would expect "I have" to be KWR-F. But it's SREU (?!).
     "KWR-F": "I have",
+    "KWR-FT": "I have the", // give up "yours very truly,"
     "KWR-FB": "I have been",
     "AOEUF": "I've",       // already works
+    "AOEUFT": "I've the",
     "AOEUFB": "I've been", // already works
     "KWR-D": "I had",
+    "KWR-TD": "I had the",
     "KWR-BD": "I had been",
     "SREU": "have I", // follow steno order
     "UF": "you have",
+    "UFT": "you have the",
     "UFB": "you have been", // just fingerspell "USB"
     "*UF": "you've",
+    "*UFT": "you've the",
     "*UFB": "you've been",
     "UD": "you had", // use *UD for "you'd"
+    "UTD": "you had the",
     "UBD": "you had been",
     "SRU": "have you", // already works
     "H-Z": "he has",
@@ -2245,20 +2266,25 @@
     "SH-D": "she had",
     "SH-BD": "she had been",
     "W-F": "we have", // bizarre misstroke for "where"
+    "W-FT": "we have the",
     "W-FB": "we have been",
     "W*F": "we've", // give up "West Virginia" and free up WAOEF for "weave" [1]
+    "W*FT": "we've the",
     "W*FB": "we've been",
     "W-D": "we had", // give up {^ed with}
     "W-BD": "we had been",
     "THEF": "they have",
+    "THEFT": "they have the", // overrides "theft" [2]
     "THEFB": "they have been",
     "TH*EF": "they've",
+    "TH*EFT": "they've the",
     "TH*EFB": "they've been",
     "THED": "they had", // use TH*ED for "they'd"
     "THEBD": "they had been",
     /*1*/ "WAOEF": "weave", // cf. KHRAOEF "cleave", HAOEF "heave"
                             // ("leave" gets HREF because it's very common
                             //  and to disambiguate from "leaf")
+    /*2*/ "TH-FT": "theft", // can be mentally associated with TKPW-PB "gun"
 
     // Pronoun + modal verb
     "KWR-BG": "I can", // misstroke for {,}
@@ -2461,6 +2487,13 @@
     "WHOEUPB": "who I know",
     "WHOUPB": "who you know",
     "*UPB": "you know", // alternative to KWRAOUPB
+
+    "UFL": "you feel", // use UFRL (custom) for "unfortunately"
+    "H-FLS": "he feels",
+    "SH-FLS": "she feels",
+    "T-FLS": "it feels", // already works
+    "W-FL": "we feel",
+    "THEFL": "they feel", // misstroke for "them"
 
     "UFD": "you find",
     "H-FDZ": "he finds",
@@ -3266,8 +3299,26 @@
     "TPHOLGS": "nothing else",
     "S-LGS": "something else",
 
+    // "... up"
+    // Precedents: KHRUP "clean up", SKRUP "screw up", SHUP "shut up"
+    "PWUP": "back up",      // give up "bup", which is not a word
+    "PW*UP": "backup",      // instead of PWA*UP
+    "KPHUP": "come up",
+    "TKPWUP": "go up",      // instead of "give up"
+    "TKPWRUP": "grow up",   // instead of "grown up"
+    "TKPWRAOUP": "grew up", // use TKPW-P (custom) for "group"
+    "PHUP": "make up",
+    "PH*UP": "makeup",
+    "STUP": "set up",       // by default "setup"
+    "ST*UP": "setup",       // consistently add * to suppress space
+    "STPHUP": "sign up",
+    "STPH*UP": "signup",
+    "WUP": "wake up",       // misstroke for "one"
+
     // Miscellaneous
     "PWHOU": "about how",
+    "TKORG": "according to", // mashup of KORG "according" and TO "to"
+    "TKORGT": "according to the",
     "PWU": "about you", // use PWUT for "but"
     "AURT": "all right",
     "TPHEUFT": "any of the", // use EUFT for {^ist}
@@ -3649,6 +3700,7 @@
     // Names
     "AS/EUPL/OF": "Asimov", // AS/PHOF is "as move"
                             // ("he couldn't so much as move a finger")
+    "PWAEUT/SREPB": "Beethoven",
     "PWAO*EUPBD": "Biden", // starless is "bind"
     "TKEFPLD": "Desmond",
     "TPRAOED/REUFP": "Friedrich",
@@ -3855,6 +3907,8 @@
 
     // Words that are completely missing
     "ART/SEU/TPART/SEU": "artsy-fartsy",
+    "TKO/TKO": "dodo",
+    "TKOE/TKOE": "dodo",
     "TKO*PB": "don", // starless is "done"; prepend KPA* for "Don"
     "TKO*U": "Dow", // starless is "do you"
     "AOEF": "eve", // overrides "Eve" [1]
@@ -4242,6 +4296,12 @@
     "PHEL/KOEL": "melancholy",  // PHEL/KOL/KWREU but with "many" rule
     "PHEL/KOLG": "melancholic", // PHEPBL/KOLG    but omit -PB like "melancholy"
 
+    // "ornithology" family
+    "ORPB/THOL/SKWREU": "ornithology",
+    "ORPB/THOL/SKWREUFT": "ornithologist",
+    "O*RPBT/HROPBLG/K-L": "ornithological",
+    "O*RPBT/HROPBLG/KHREU": "ornithologically",
+
     // "philosophy" family
     "TPHROF": "philosophy",    // or use TPHROS/TPEU
     "TPHROFR": "philosopher",  // or use TPHROS/TPER
@@ -4378,6 +4438,15 @@
     "TO*ED": "towed",
     /*1*/ "TOD": "today",          // give up {^ed to}
           "AOUS/TOD": "use today", // by default "used to"
+
+    // "unfortunate" family
+    // By default "unfortunately" is UFL, which makes "unfortunate"
+    // feel like it should be UFT. But UFL and UFT are probably
+    // more useful as "you feel" and "you have the".
+    "UFRT": "unfortunate",
+    "UFRL": "unfortunately",
+    "-FRT": "fortunate",
+    "-FRL": "fortunately",
 
     // -- Group reassignments --------------------------------------------------
 
