@@ -1426,6 +1426,7 @@
     "SKPAOED/KWREPBS": "expedience",
     "SKPAOED/KWREPBT": "expedient",
     "SKPEPBD": "expend", // give up "end and"
+    "SKPEPBD/TUR": "expenditure",
     "SKPEPBS": "expense",
     "SKPEF": "expensive", // cf. SP*EF
     "SKPAOERPBS": "experience",
