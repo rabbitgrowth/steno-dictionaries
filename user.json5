@@ -2279,15 +2279,17 @@
     "W-D": "we had", // give up {^ed with}
     "W-BD": "we had been",
     "THEF": "they have",
-    // As a special case, THEFT is "theft" instead of "they have the"
+    "THEFT": "they have the", // overrides "theft" [2]
     "THEFB": "they have been",
     "TH*EF": "they've",
+    "TH*EFT": "they've the",
     "TH*EFB": "they've been",
     "THED": "they had", // use TH*ED for "they'd"
     "THEBD": "they had been",
     /*1*/ "WAOEF": "weave", // cf. KHRAOEF "cleave", HAOEF "heave"
                             // ("leave" gets HREF because it's very common
                             //  and to disambiguate from "leaf")
+    /*2*/ "TH-FT": "theft", // can be mentally associated with TKPW-PB "gun"
 
     // Pronoun + modal verb
     "KWR-BG": "I can", // misstroke for {,}
