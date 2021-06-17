@@ -1235,7 +1235,7 @@
     // SPW for ant-, ont-, and unt-
     // Justification: "ent- or int-" isn't a mirror image of -nt; nt- is.
     // And nt- feels like it could be extended to mean [any vowel]nt-.
-    "SPWEUBG": "antic", // and get "antics" for free
+    "SPWEUBG": "antic", // and get SPWEUBGS "antics" for free
     "SPWEUFPT": "anticipate",
     "SPWEUFPGS": "anticipation",
     "SPWAOEBG": "antique",
@@ -1395,7 +1395,7 @@
     "STKRUFT": "distrust",
 
     "STKEPGS": "deception", // what matters is the pronunciation: /dɪˈs-/
-    "STKEPBD": "descend", // and get "condescending" KAUPB/STKEPBGD for free
+    "STKEPBD": "descend", // and get KAUPB/STKEPBGD "condescending" for free
     "STKEPBD/APBT": "descendant",
     "STKHREBGT": "deselect",
     "STKPRAT": "desperate",
@@ -1421,7 +1421,7 @@
     // But there might be some merit in being consistent and
     // always using SKP for exp-.
     "SKPAPBD": "expand",
-    "SKPAPBS": "expanse", // and get "expansive" SKPAPBS/EUF for free
+    "SKPAPBS": "expanse", // and get SKPAPBS/EUF "expansive" for free
     "SKPAPBGS": "expansion",
     "SKPAOED/KWREPBS": "expedience",
     "SKPAOED/KWREPBT": "expedient",
@@ -1742,7 +1742,7 @@
 
     // -RB for -sure
     // Precedents: PRERB "pressure", PH*ERB "measure" (starless is "mesh")
-    "KHROERB": "closure", // and get "enclosure" for free
+    "KHROERB": "closure", // and get EPB/KHROERB "enclosure" for free
     "KPOERB": "composure",
     "AOE/RAEURB": "erasure",
     "TP*EURB": "fissure", // use TP-RB (custom) for "finish"
