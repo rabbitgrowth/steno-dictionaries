@@ -1651,6 +1651,16 @@
     /*1*/ "STKEU": "study",    // "studied" is then STKEUD
           "STKEUS": "studies", // misstroke for "decision"
 
+    // OFT for -osity
+    // Precedents: KAOUR/KWROFT "curiosity"
+    //             SKWREPB/ROFT "generosity"
+    //             APB/PHOFT    "animosity"
+    "TKPWRAPBD/KWROFT": "grandiosity",
+    "PHOPB/STROFT": "monstrosity",
+    "PHOPBS/TROFT": "monstrosity",
+    "RE/HREUPBLG/KWROFT": "religiosity",
+    "SRER/PWOFT": "verbosity",
+
     // EZ for -eeze
     // Like THEZ "these", although "these" is spelled with an "s".
     // It's a nice coincidence that EZ "easy" sans -y rhymes.
