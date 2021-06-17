@@ -197,7 +197,6 @@
                                 //   but "symbolic" is much more common
     "TREUGS": "transmission",   // with TREUT "transmit"; use TRAPBGS for "transition"
     "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
-    "UFT": "unfortunate",       // with UFL "unfortunately"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
     /*1*/ "PH*ERL": "Merrill", // PHERL   "Meryl"
@@ -2244,17 +2243,23 @@
     // Since KWROEU is "I don't" and KWROEUF is "I don't have",
     // one would expect "I have" to be KWR-F. But it's SREU (?!).
     "KWR-F": "I have",
+    "KWR-FT": "I have the", // give up "yours very truly,"
     "KWR-FB": "I have been",
     "AOEUF": "I've",       // already works
+    "AOEUFT": "I've the",
     "AOEUFB": "I've been", // already works
     "KWR-D": "I had",
+    "KWR-TD": "I had the",
     "KWR-BD": "I had been",
     "SREU": "have I", // follow steno order
     "UF": "you have",
+    "UFT": "you have the",
     "UFB": "you have been", // just fingerspell "USB"
     "*UF": "you've",
+    "*UFT": "you've the",
     "*UFB": "you've been",
     "UD": "you had", // use *UD for "you'd"
+    "UTD": "you had the",
     "UBD": "you had been",
     "SRU": "have you", // already works
     "H-Z": "he has",
@@ -2266,20 +2271,25 @@
     "SH-D": "she had",
     "SH-BD": "she had been",
     "W-F": "we have", // bizarre misstroke for "where"
+    "W-FT": "we have the",
     "W-FB": "we have been",
     "W*F": "we've", // give up "West Virginia" and free up WAOEF for "weave" [1]
+    "W*FT": "we've the",
     "W*FB": "we've been",
     "W-D": "we had", // give up {^ed with}
     "W-BD": "we had been",
     "THEF": "they have",
+    "THEFT": "they have the", // overrides "theft" [2]
     "THEFB": "they have been",
     "TH*EF": "they've",
+    "TH*EFT": "they've the",
     "TH*EFB": "they've been",
     "THED": "they had", // use TH*ED for "they'd"
     "THEBD": "they had been",
     /*1*/ "WAOEF": "weave", // cf. KHRAOEF "cleave", HAOEF "heave"
                             // ("leave" gets HREF because it's very common
                             //  and to disambiguate from "leaf")
+    /*2*/ "TH-FT": "theft", // can be mentally associated with TKPW-PB "gun"
 
     // Pronoun + modal verb
     "KWR-BG": "I can", // misstroke for {,}
@@ -2482,6 +2492,13 @@
     "WHOEUPB": "who I know",
     "WHOUPB": "who you know",
     "*UPB": "you know", // alternative to KWRAOUPB
+
+    "UFL": "you feel", // use UFRL (custom) for "unfortunately"
+    "H-FLS": "he feels",
+    "SH-FLS": "she feels",
+    "T-FLS": "it feels", // already works
+    "W-FL": "we feel",
+    "THEFL": "they feel", // misstroke for "them"
 
     "UFD": "you find",
     "H-FDZ": "he finds",
@@ -4445,6 +4462,15 @@
     "TO*ED": "towed",
     /*1*/ "TOD": "today",          // give up {^ed to}
           "AOUS/TOD": "use today", // by default "used to"
+
+    // "unfortunate" family
+    // By default "unfortunately" is UFL, which makes "unfortunate"
+    // feel like it should be UFT. But UFL and UFT are probably
+    // more useful as "you feel" and "you have the".
+    "UFRT": "unfortunate",
+    "UFRL": "unfortunately",
+    "-FRT": "fortunate",
+    "-FRL": "fortunately",
 
     // -- Group reassignments --------------------------------------------------
 
