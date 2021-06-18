@@ -3925,7 +3925,6 @@
     // K-R   "occur"
     // K---R "consider"
     "KR": "occur",
-    "KR-S": "occurs",
     "KR-G": "occurring",
     "KR-D": "occurred",
 
