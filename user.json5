@@ -378,11 +378,9 @@
     "PARPLT": "parliament",   // use ARPLT for "apartment"
     "POERT": "poetry",
     "THAOER": "theory",
-    "THAOERS": "theories",    // overrides "these are" [2]
     "THAOEFRT": "theorist",
     "THAOERL": "theoretical", // cf. the standard THOEURL
     /*1*/ "H*EFR": "heifer",
-    /*2*/ "THERZ": "these are",
 
     // Use simpler vowel
     // Precedents: TREU "try", THRE "three"
@@ -3333,6 +3331,7 @@
     "TWOR": "or two",
     "RAERB": "rather be",
     "SAUFP": "such a",
+    "THERZ": "these are",
     "TWHO": "those who",
     "TKO*": "to do",
     "STKO*": "to do so",
