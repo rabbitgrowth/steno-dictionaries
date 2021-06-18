@@ -3434,6 +3434,19 @@
     "SRABG/SEUPBZ": "vaccines",
     "WEUPBD/TPAULZ": "windfalls",
 
+    // -f -> -ves
+    "HAFZ": "halves",
+    "TPHAOEUFZ": "knives",
+    "HRAOEFZ": "leaves", // or just use HREFZ
+    "HRAOEUFZ": "lives", // or just use HREUFZ
+    "HRAOFZ": "loaves", // cf. HRAOF "loaf"
+    "HROEFZ": "loaves", // cf. HROEF "loaf"
+    "SHEFLZ": "shelves",
+    "THAOEFZ": "thieves",
+    "WAOEUFZ": "wives",
+    "WOFLZ": "wolves", // cf. WOFL "wolf"
+    "WOFZ": "wolves",  // cf. WOF  "wolf"
+
     // ERZ would make a good stroke for "easier" (EZ "easy" + -R for {^er}),
     // but since ER is {^er} (custom), ERZ should be {^ers} for consistency.
     "AOEFR": "easier", // cf. AO*ERS
