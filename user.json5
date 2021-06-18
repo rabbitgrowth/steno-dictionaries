@@ -2145,8 +2145,6 @@
     "THERPBLT": "they are not",
     /*1*/ "KWR*PL": "I mean",
     /*2*/ "TEPL": "item",
-          "TEPLS": "items", // add * for "Thames"
-          "TEPL/-S": "items",
     /*3*/ "WR": "where",       // use -RP  for "were"
           "WR-T": "where the", // use -RPT for "were the"
           "WRU": "where you",  // use URP  for "you were"
@@ -2406,21 +2404,21 @@
     "WHOUPB": "who you know",
     "*UPB": "you know", // alternative to KWRAOUPB
 
-    "UFL": "you feel", // use UFRL (custom) for "unfortunately"
-    "H-FLS": "he feels",
-    "SH-FLS": "she feels",
-    "T-FLS": "it feels", // already works
+    "UFL": "you feel",    // use UFRL (custom) for "unfortunately"
+    "H-FL": "he feel",    // let Plover handle "he feels"; same below
+    "SH-FL": "she feel",  // give up "shall feel"
+    "T-FL": "it feel",    // already works
     "W-FL": "we feel",
     "THEFL": "they feel", // misstroke for "them"
 
-    "UFD": "you find",
-    "H-FDZ": "he finds",
-    "SH-FDZ": "she finds",
-    "T-FDZ": "it finds",
-    "W-FD": "we find",
-    "THEFD": "they find",
     "TOFD": "to find",
     "THAFD": "that find",
+    "UFD": "you find",
+    "H-FD": "he find",
+    "SH-FD": "she find",
+    "T-FD": "it find",
+    "W-FD": "we find",
+    "THEFD": "they find",
     "SKPEUFD": "and I find",
     "SKPUFD": "and you find",
     "STPEUFD": "if I find",
@@ -2434,14 +2432,15 @@
     "WHOEUFD": "who I find",
     "WHOUFD": "who you find",
 
+    "TOGT": "to get", // use T-GT (custom) for "together"
+    "THAGT": "that get",
     "UGT": "you get",
-    "H-GTS": "he gets",
-    "SH-GTS": "she gets",
-    "T-GTS": "it gets",
+    "H-GT": "he get",
+    "SH-GT": "she get",
+    "T-GTS": "it gets", // T-GT is "together", so include -S as special case
+    "T-GT/-S": "it gets",
     "W-GT": "we get",
     "THEGT": "they get",
-    "TOGT": "to get", // use T-GT for "together"
-    "THAGT": "that get",
     "SKPEUGT": "and I get",
     "SKPUGT": "and you get",
     "SKPEGTS": "and he gets",
@@ -2966,7 +2965,6 @@
     "WHAELD": "what he would",
     "WHA*ED": "what he'd",
     /*1*/ "WHEL": "whale",
-          "WHELS": "whales", // use WHAELS for "what else"
 
     // "when ..."
     "WHEUPL": "when I am", // overrides "whim" [1]
