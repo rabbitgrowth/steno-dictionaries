@@ -4300,7 +4300,6 @@
 
     // "accident" vs "incident"
     "STKEPB": "accident",    // already works
-    "STKEPBS": "accidents",  // use ABGS/TKEPBS for "accidence" (grammar term)
     "STKEPBL": "accidental", // already works
     "STKHREPBL": "accidentally",
     "STK*EPB": "incident",    // with STKEPB "accident"
@@ -4335,14 +4334,8 @@
     "TPEUG": "figure",   // already works
     "TPEUGZ": "figures", // by default "figs"
     "TP*EUG": "fig",     // already works
-    "TP*EUGS": "figs",   // by default "physician"; use TP-GS for that
     "TP*EUGZ": "figs",   // by default "fission"
-    "TP*EUG/-S": "figs", // by default "physicians"
     "TPEUGS": "fission", // by default "figures"
-
-    // "industries" vs "industrious"
-    "STREUS": "industries", // by default "industrious"
-    "STROUS": "industrious",
 
     // "logic" vs "magic"
     "SKWREUBG": "logic",   // overrides "magic"
@@ -4365,11 +4358,10 @@
     // "toe" vs "tow"
     // TOE should be "toe". I mean, it literally says "toe"!
     "TOE": "toe",
-    "TOES": "toes",
+    "TOEZ": "toes", // give up "easy to"
     "TOEG": "toeing",
     "TOED": "toed", // overrides "today" [1]
     "TO*E": "tow",
-    "TO*ES": "tows",
     "TO*ED": "towed",
     /*1*/ "TOD": "today",          // give up {^ed to}
           "AOUS/TOD": "use today", // by default "used to"
