@@ -190,6 +190,7 @@
                                 //   cf. KHOL "alcohol", KHOLG "alcoholic"
                                 //   SPWOLG could also be "ontology" with SPW- as ont-,
                                 //   but "symbolic" is much more common
+    "THOR": "thorough",         // with THORL "thoroughly"; use THORZ for "authorize"
     "TREUGS": "transmission",   // with TREUT "transmit"; use TRAPBGS for "transition"
     "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
     "SRUBLT": "vulnerability",  // with SRUBL "vulnerable"
