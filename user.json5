@@ -4175,7 +4175,6 @@
 
     // "critic" family
     "KREUBG": "critic",     // overrides "crick" [1]
-    "KREUBGS": "critics",   // use KREUFBGS for "characteristics"
     "KREUL": "critical",    // overrides "krill" [2]
     "KREUFPL": "criticism", // come back for -L for "crisply" [3]
     "KRAOEUZ": "criticize",
@@ -4202,12 +4201,10 @@
     "SPWER/TAEUPBD": "entertained", // theoretically conflicts with "enter contained"
                                     // ("the data I was trying to enter contained...")
     "SPWER/TAEURPB": "entertainer",
-    "SPWER/TAEURPBS": "entertainers",
     "SPWER/TAEUPLT": "entertainment", // or just use TAEUPLT
 
     // "err" family
     "*ER": "err",      // use ER (custom) for {^er}
-    "*ERS": "errs",    // ERS already works for {^ers}
     "ROER": "error",   // symmetrical and has all the letters
     "ERPBT": "errant", // but "errand" is ER/APBD since ERPBD is "earned"
 
@@ -4280,7 +4277,6 @@
 
     // "synonym" family
     "STPHEUPL": "synonym",
-    "STPHEUPLS": "synonyms",  // give up "signs and symptoms"
     "STPHOPLS": "synonymous", // cf. TPHOPLS "anonymous"
 
     // "understand" family
