@@ -3792,7 +3792,7 @@
 
     // Pronounce it like a normal word
     "SAOE/OE": "CEO",
-    "SAOE/OES": "CEOs",
+    "SAOE/OEZ": "CEOs",
     "EPL/AOEUT": "MIT", // PHEUT is "mitt" and PH*EUT is "myth"
 
     // Superimpose fingerspelling letters
