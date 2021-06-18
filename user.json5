@@ -1397,9 +1397,11 @@
                                 // mnemonic: * looks like a shuriken
 
     // TPEU for -fy
-    // This is standard in Plover (KHRAR/TPEU "clarify",
-    // KHRAS/TPEU "classify", TKE/TPEU "defy", etc.);
-    // it's the inflections that don't work.
+    // This is standard in Plover:
+    //   KHRAR/TPEU "clarify"
+    //   KHRAS/TPEU "classify"
+    //   TKE/TPEU   "defy"
+    // It's the inflections that don't work.
     "KHRAR/TPEUZ": "clarifies",
     "KHRAR/TPEUG": "clarifying",
     "KHRAS/TPEUZ": "classifies",  // conflicts with "class fizz"
