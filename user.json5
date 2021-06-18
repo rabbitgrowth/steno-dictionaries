@@ -4817,6 +4817,9 @@
     "THAOEU/H-F": "thy",            // from "thigh"
     "TAOEUD/H-F": "tied",           // from "tide"
     "WAEUFT/H-F": "waste",          // from "waist"
+    "WAEUFR/H-F": "waver",          // from "waiver"
+    "WAEUFRD/H-F": "wavered",
+    "WAEUFRZ/H-F": "wavers",
 
     // Stacking
     "AUFL/H-F": "all of",           // from "awful"
