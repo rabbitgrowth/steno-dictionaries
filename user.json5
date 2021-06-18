@@ -695,7 +695,6 @@
 
     // Compound words
     "PWAUL/PHRAEUR": "ballplayer",
-    "PWAUL/PHRAEURS": "ballplayers",
     "PWAPBD/HRAOERD": "bandleader",
     "PWAPBD/HRAOERDZ": "bandleaders",
     "PWAR/TERPBD": "bartender",
@@ -710,7 +709,6 @@
     "KROS/WORDZ": "crosswords",
     "KURB/SAOEUD": "curbside",
     "KUFRB/PWAUL": "curveball",
-    "KUFRB/PWAULS": "curveballs",
     "TKAEUR/SAEU": "daresay",
     "TPAOEUR/WORBG": "firework",
     "TKPWRAS/HORP": "grasshopper",
@@ -721,7 +719,6 @@
     "HOEPL/PWOUPBD": "homebound",
     "PHAOEPB/TAOEUPL": "meantime",
     "KWAUR/PWABG": "quarterback",
-    "KWAUR/PWABGS": "quarterbacks",
     "SKART/SHOT": "scattershot",
     "STOER/TERL": "storyteller",
     "SWEUPL/SAOUT": "swimsuit",
@@ -731,19 +728,14 @@
     "SAOE/KWRA": "see ya",
     "SPH/TAOEUPL": "some time", // use STAOEUPL for "sometime"
     "STEPG/STOEPB": "stepping stone",
-    "STEPG/STOEPBS": "stepping stones",
 
     // Prevent word boundary errors
     "PHEUR/TPHA": "mirror in a", // give up "Myrna" (Irish name)
     "PERPB/TPHA": "person in a", // overrides "persona" [1]
     /*1*/ "PER/SOEPB": "persona", // or use {^a}: PERPB/SKWRA
 
-    "PHAEUBG/T-GS": "make things", // otherwise "makes iting"
-                                   // (PHAEUBG/T-S "makes it" + {^ing})
-    "PUT/T-GS": "put things",      // otherwise "putting its"
-                                   // (PUT/T-G "putting it" + {^s})
-    "SAOE/T-GS": "see things",     // otherwise "seeing its"
-                                   // (SAOE/T-G "seeing it" + {^s})
+    "PUT/T-GZ": "put things",  // otherwise "putting its" (PUT/T-G "putting it" + {^s})
+    "SAOE/T-GZ": "see things", // otherwise "seeing its"  (SAOE/T-G "seeing it" + {^s})
 
     "KAOUP/OPB": "coup on", // use KAOU/POPB or KAOUPB for "coupon"
                             // ("The military launched a coup on Monday")
