@@ -3922,9 +3922,10 @@
     // so add *. As a nice coincidence, A*D is "ad".
     "A*D/PHEUBGS": "admix", // add {^ture} to get "admixture"
 
-    // Swap "lets" and "let's" following our "add * for contraction" rule.
-    // Plover probably uses the starless stroke for "let's" because it's
-    // such a common word, but "lets" isn't exactly rare either.
+    // Swap strokes such that * is used to contract or suppress space,
+    // not the other way round.
+    "EFRD": "every day",
+    "*EFRD": "everyday",
     "HRETS": "lets",
     "HR*ETS": "let's",
 
