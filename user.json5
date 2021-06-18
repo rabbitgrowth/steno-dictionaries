@@ -4836,7 +4836,6 @@
     "HREUFTS/H-F": "lists",
     "HRUFRPB/H-F": "lunch",         // from "lurch"
     "PHAEPB/H-F": "mean",           // from "many"
-    "PHORPB/H-F": "more than",      // from "morn"
     "PH-PB/H-F": "mountain",        // from "machine"
     "PH-PBS/H-F": "mountains",
     "ORGD/H-F": "ordering",         // from "organized"
@@ -4886,6 +4885,7 @@
     "PHAEUPB/H-F": "Maine",         // from "main"
     "PHARBGS/H-F": "Marx",          // from "marks"
     "PHAER/H-F": "Mary",            // from "marry"
+    "PHORPB/H-F": "mourn",          // from "morn"
     "PAEURS/H-F": "Paris",          // from "pairs"
     "PAOES/H-F": "peace",           // from "piece"
     "TPEUL/H-F": "Phil",            // from "fill"
