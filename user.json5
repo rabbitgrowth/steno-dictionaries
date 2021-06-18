@@ -3280,6 +3280,21 @@
     "WHAB": "what about",
     "WHABT": "what about the", // by default "what about"
 
+    // "... else"
+    "TPHEUBLS": "anybody else", // already works
+    "TPHEUPBLS": "anyone else", // already works
+    "TPHEULGS": "anything else",
+    "EFBLS": "everybody else",  // cf. EFB  "everybody"
+    "EFRBLS": "everybody else", // cf. EFRB "everybody"
+    "EFRPBLS": "everyone else",
+    "EFRLGS": "everything else",
+    "TPH-BLS": "nobody else",
+    "TPHOEUPBLS": "no one else",
+    "TPHOLGS": "nothing else",
+    "S-BLS": "somebody else",
+    "SWUPBLS": "someone else", // already works
+    "S-LGS": "something else",
+
     // "... of"
     "STPROFPBT": "in front of", //   STPRO PBT "in front"
                                 // +  TPROFPBT "front of"
@@ -3297,12 +3312,6 @@
     "STR-F": "center of",
     "SEFT": "set of",
     "WHOEFL": "whole of",
-
-    // "...thing else"
-    "TPHEULGS": "anything else",
-    "EFRLGS": "everything else",
-    "TPHOLGS": "nothing else",
-    "S-LGS": "something else",
 
     // "... up"
     // Precedents: KHRUP "clean up", SKRUP "screw up", SHUP "shut up"
