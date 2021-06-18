@@ -4752,6 +4752,7 @@
     "PWARD/H-F": "barred",          // from "bard"
     "PWAOET/H-F": "beat",           // from "beet"
     "PWORD/H-F": "board",           // from "bored"
+    "PWRAEUS/H-F": "braise",        // from "brace"
     "PWRAOEFP/H-F": "breach",       // from "breech"
     "PWUT/H-F": "butt",             // from "but"
     "SEL/H-F": "cell",              // from "sell"
@@ -4759,6 +4760,7 @@
     "TKAPL/H-F": "damn",            // from "dam"
     "TKAOER/H-F": "dear",           // from "deer"
     "TKAOERL/H-F": "dearly",        // from "dealer"
+    "TKWAOEUS/H-F": "devise",       // from "device"
     "TKEUFBG/H-F": "disk",          // from "disc"
     "AOEUD/H-F": "eyed",            // from "I'd"
     "TKPWAEUT/H-F": "gate",         // from "gait"
@@ -4790,7 +4792,9 @@
     "POEL/H-F": "poll",             // from "pole"
     "POELS/H-F": "polls",
     "PROFT/H-F": "prophet",         // from "profit"
+    "RAEUS/H-F": "raise",           // from "race"
     "REFRPBS/H-F": "reverence",     // from "reference"
+    "RAOEUS/H-F": "rise",           // from "rice"
     "RAOEUFL/H-F": "rival",         // from "rifle"
     "RAOEUFLS/H-F": "rivals",
     "ROEL/H-F": "roll",             // from "role"
@@ -4808,62 +4812,6 @@
     "THAOEU/H-F": "thy",            // from "thigh"
     "TAOEUD/H-F": "tied",           // from "tide"
     "WAEUFT/H-F": "waste",          // from "waist"
-
-    // Forgetting to use -Z instead of -S
-    "AFBGS/H-F": "affects",         // from "affection"
-    "ALGS/H-F": "algorithms",       // from "additional"
-    "A/HRAOEUPBS/H-F": "aligns",    // from "alliance"
-    "HROUS/H-F": "allows",          // from "louse"
-    "PWRAEUS/H-F": "braise",        // from "brace"
-    "PWROUS/H-F": "brows",          // from "browse"
-    "SEURBGS/H-F": "circumstances", // from "circus"
-    "KHRAUS/H-F": "claws",          // from "clause"
-    "T-PBS/H-F": "continues",       // from "continuous"
-    "KREUS/H-F": "countries",       // from "Chris"
-    "KRABGS/H-F": "cracks",         // from "contraction"
-    "TKWAOEUS/H-F": "devise",       // from "device"
-    "TKAOEUS/H-F": "dies",          // from "dice"
-    "AOEUS/H-F": "eyes",            // from "ice"
-    "TPAOERS/H-F": "fears",         // from "fierce"
-    "TPHREBGS/H-F": "flecks",       // from "flex"
-    "SKWRAOEPBS/H-F": "genes",      // from "genius"
-    "TKPWROES/H-F": "grows",        // from "gross"
-    "HORS/H-F": "horrors",          // from "horse"
-    "SKWROEUS/H-F": "joys",         // from "Joyce"
-    "TPHAOES/H-F": "knees",         // from "niece"
-    "TPHOES/H-F": "knows",          // from "nose"
-    "HRAEUS/H-F": "lays",           // from "lace"
-    "PHAPBGS/H-F": "manages",       // from "mansion"
-    "TPHEFRBS/H-F": "nerves",       // from "nervous"
-    "WUPBS/H-F": "ones",            // from "once"
-    "PAUS/H-F": "paws",             // from "pause"
-    "PAEUS/H-F": "pays",            // from "pace"
-    "PAES/H-F": "peas",             // from "peace"
-    "PAOERS/H-F": "peers",          // from "pierce"
-    "PEUGS/H-F": "pigs",            // from "pigeon"
-    "PHRAEUS/H-F": "plays",         // from "place"
-    "PREUPBS/H-F": "principles",    // from "prince"
-    "PULS/H-F": "pulls",            // from "pulse"
-    "RAEUS/H-F": "raise",           // from "race"
-    "RAOEUS/H-F": "rise",           // from "rice"
-    "ROES/H-F": "rows",             // from "rose"
-    "SEBGS/H-F": "seconds",         // from "section"
-    "SPAOEUS/H-F": "spies",         // from "spice"
-    "SUBGS/H-F": "sucks",           // from "suction"
-    "SUGS/H-F": "suggests",         // from "suggestion"
-    "SPHRAOEUS/H-F": "supplies",    // from "splice"
-    "TERS/H-F": "terrors",          // from "terse"
-    "TRABGS/H-F": "tracks",         // from "traction"
-    "WEUPBS/H-F": "wins",           // from "wince"
-
-    "PWAOEUS/H-F": "buys",          // from "bias"         (custom)
-    "STKPHRAEUS/H-F": "displays",   // from "displace"     (custom)
-    "TPREBGS/H-F": "frequents",     // from "for example"  (custom)
-    "SKWRELS/H-F": "gels",          // from "jealous"      (custom)
-    "SKWRAEULGS/H-F": "jailings",   // from "generational" (custom)
-    "TPHOEPBS/H-F": "knowns",       // from "known as"     (custom)
-    "SAES/H-F": "seas",             // from "assess"       (custom)
-    "SREUBG/TORS/H-F": "victors",   // from "victorious"   (custom)
 
     // Stacking
     "AUFL/H-F": "all of",           // from "awful"
