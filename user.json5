@@ -3279,6 +3279,7 @@
     "WHE": "when he", // use WH for "when"
     "TWH": "when it",
     "WHOER": "when other",
+    "WHRORPLT": "whether or not", // cf. ORPLT (custom); or just use WH[R]ORPB
     "WHOU": "who you", // bizarre misstroke for "how"
     "HR-F": "will have", // use HRUF for "love" (think "luv")
     "HR-FB": "will have been",
