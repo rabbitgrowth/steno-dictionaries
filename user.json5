@@ -3406,8 +3406,8 @@
     // where you have to use -Z instead. A solution is to just always use -Z.
     // It's more work for the pinky, but the consistency you gain is worth it.
 
-    "HRAOEUZ": "lies",   // give up {^alize}
     "HUPBZ": "hundreds", // use 0Z for {&00}
+    "HRAOEUZ": "lies",   // give up {^alize}
     "KWEZ": "questions", // overrides "?" with spaces on both sides [1]
     /*1*/ "KW*PL": "?",
 
