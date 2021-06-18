@@ -4725,25 +4725,23 @@
     "TKPWUPB/H-F": "gun",           // from "begun"
     "HORPB/H-F": "honor",           // from "horn"
     "HOEPLS/H-F": "hopeless",       // from "homes"
-    "HRAOEUS/H-F": "lies",          // from "lice" ("lies" requires *, not -Z)
     "HREUFT/H-F": "list",           // from "lift"
     "HREUFTS/H-F": "lists",
     "HRUFRPB/H-F": "lunch",         // from "lurch"
     "PHAEPB/H-F": "mean",           // from "many"
     "PH-PB/H-F": "mountain",        // from "machine"
-    "PH-PBS/H-F": "mountains",
+    "PH-PBZ/H-F": "mountains",
     "ORGD/H-F": "ordering",         // from "organized"
     "ORPBG/H-F": "organ",           // from "orange"
     "OERPB/H-F": "other than",      // from "owner"
     "PEUG/H-F": "picking",          // from "pig"
     "WRAOU/H-F": "review",          // from "withdrew"
     "REUPL/H-F": "ripple",          // from "rim"
-    "REUPLS/H-F": "ripples",
+    "REUPLZ/H-F": "ripples",
     "SAOEG/H-F": "seeking",         // from "seeing"
     "SHRUG/H-F": "shrug",           // from "slug"
     "SHR*EUPBG/H-F": "slink",       // from "shrink"
-    "SHR*EUPBGS/H-F": "slinks",
-    "SPAEBGS/H-F": "speaks",        // from "aspects"
+    "SHR*EUPBGZ/H-F": "slinks",
 
     // Homophones or near-homophones
     "AD/H-F": "ad",                 // from "add"
@@ -4756,7 +4754,7 @@
     "PWRAOEFP/H-F": "breach",       // from "breech"
     "PWUT/H-F": "butt",             // from "but"
     "SEL/H-F": "cell",              // from "sell"
-    "SELS/H-F": "cells",
+    "SELZ/H-F": "cells",
     "TKAPL/H-F": "damn",            // from "dam"
     "TKAOER/H-F": "dear",           // from "deer"
     "TKAOERL/H-F": "dearly",        // from "dealer"
@@ -4766,10 +4764,10 @@
     "TKPWAEUT/H-F": "gate",         // from "gait"
     "HAUL/H-F": "haul",             // from "hall"
     "HAULD/H-F": "hauled",
-    "HAULS/H-F": "hauls",
+    "HAULZ/H-F": "hauls",
     "HAEU/H-F": "hay",              // from "hey"
     "HAOEL/H-F": "heal",            // from "heel"
-    "HAOELS/H-F": "heals",
+    "HAOELZ/H-F": "heals",
     "HAOEUR/H-F": "hire",           // from "higher"
     "HAOEURD/H-F": "hired",         // from {hydro^}
     "SKWREUPL/H-F": "Jim",          // from "gym"
@@ -4783,31 +4781,31 @@
     "PHAER/H-F": "Mary",            // from "marry"
     "PHORPB/H-F": "mourn",          // from "morn"
     "PHORPBG/H-F": "mourning",
-    "PHORPBS/H-F": "mourns",
+    "PHORPBZ/H-F": "mourns",
     "PAEURS/H-F": "Paris",          // from "pairs"
     "PAOES/H-F": "peace",           // from "piece"
     "TPEUL/H-F": "Phil",            // from "fill"
     "PHRAEUPB/H-F": "plane",        // from "plain"
-    "PHRAEUPBS/H-F": "planes",
+    "PHRAEUPBZ/H-F": "planes",
     "POEL/H-F": "poll",             // from "pole"
-    "POELS/H-F": "polls",
+    "POELZ/H-F": "polls",
     "PROFT/H-F": "prophet",         // from "profit"
     "RAEUS/H-F": "raise",           // from "race"
     "REFRPBS/H-F": "reverence",     // from "reference"
     "RAOEUS/H-F": "rise",           // from "rice"
     "RAOEUFL/H-F": "rival",         // from "rifle"
-    "RAOEUFLS/H-F": "rivals",
+    "RAOEUFLZ/H-F": "rivals",
     "ROEL/H-F": "roll",             // from "role"
-    "ROELS/H-F": "rolls",
+    "ROELZ/H-F": "rolls",
     "ROEPL/H-F": "Rome",            // from "roam"
     "SOEPB/H-F": "sewn",            // from "sown"
     "SAOEUD/H-F": "sighed",         // from "side"
     "STAEUR/H-F": "stare",          // from "stair"
-    "STAEURS/H-F": "stares",
+    "STAEURZ/H-F": "stares",
     "SWAEUD/H-F": "suede",          // from "swayed"
     "SWAOET/H-F": "suite",          // from "sweet"
     "TAOER/H-F": "tear",            // from "tier"
-    "TAOERS/H-F": "tears",
+    "TAOERZ/H-F": "tears",
     "THROEPB/H-F": "throne",        // from "thrown"
     "THAOEU/H-F": "thy",            // from "thigh"
     "TAOEUD/H-F": "tied",           // from "tide"
@@ -4825,12 +4823,12 @@
     "PWARPB/H-F": "banner",         // from "barn"
     "PWERT/H-F": "better",          // from "Bert"
     "HARBG/H-F": "hacker",          // from "hark"
-    "HARBGS/H-F": "hackers",
+    "HARBGZ/H-F": "hackers",
     "PHARPB/H-F": "manner",         // from "margin"
     "RAOEURD/H-F": "rider",         // from "required"
     "RURB/H-F": "rubber",           // from "rush"
     "RURPB/H-F": "runner",          // from "return"
-    "RURPBS/H-F": "runners",
+    "RURPBZ/H-F": "runners",
     "SPURT/H-F": "sputter",         // from "spurt"
 
     // When folding in -L doesn't work
@@ -4872,8 +4870,5 @@
     "HO*RPB/H-F": "honour",
     "TPHAEURB/H-F": "neighbour",
     "TPHAOD/H-F": "neighbourhood",
-
-    "TKPWRAEUS/H-F": "grays",       // correct from "grace"
-    "TKPWRAEUS/H-F/H-F": "greys",   // then to British spelling
 
 }
