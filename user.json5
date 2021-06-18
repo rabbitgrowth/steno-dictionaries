@@ -2833,6 +2833,9 @@
     "SKPHR-BT": "and will be the", // cf. "will be the"
 
     // "is ..."
+    "SPWAU": "is because",
+    "SPWAUF": "is because of",
+    "SPWAUT": "is because the", // use STUT for "substitute"
     "S-FR": "is ever", // use SR-FR for "server"
     "STP-RT": "is for the",
     "STPR": "is from",
