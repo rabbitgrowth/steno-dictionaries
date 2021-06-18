@@ -9,35 +9,29 @@
     "PW-RD": "birthday",
     "PW*T": "both",
     "PW-L": "build",   // cf. PW-LG "building"
-    "PW-LS": "builds", // use PWOEUPBS for "billions"
     "PW-LT": "built",  // give up "brake light"
     "TK-FS": "difference",
     "TK-FT": "different",
     "KP-T": "exact",
     "KP-LT": "exactly",
     "KP-PB": "explain",       // use KP    for "examine"
-    "KP-PBS": "explains",     // use KP-S  for "examines"
     "KP-PBD": "explained",    // use KP-D  for "examined"
     "KP-PBG": "explaining",   // use KP-G  for "examining"
     "KP-PBGS": "explanation", // use KP-GS for "examination"
     "SKWR-PL": "gentleman",
-    "SKWR-PLS": "gentlemen",
-    "SKWR-PL/-S": "gentlemen",
+    "SKWR-PLZ": "gentlemen",
     "TKPW-D": "good", // give up "good day"
     "TKPW-T": "great", // use TKPWET for "get" for symmetry with TKPWOT "got"
     "TKPW-RT": "greater",
     "TKPW-LT": "greatly", // use TKPWOEULT (custom) for "guilty"
     "TKPW-P": "group",
-    "TKPW-PS": "groups", // overrides "GPS" [1]
     "H-P": "hypothesis", // just fingerspell "HP"
-    "H-PS": "hypotheses",
-    "H-P/-S": "hypotheses",
+    "H-PZ": "hypotheses",
     "HR-BG": "like", // use WELG for "welcome"
     "HR*BG": "{^like}", // use HR*PBG for "[l]ow i[nc]ome"
-    "HR-BGS": "likes",
     "HR-BGD": "liked",
     "HR-BGT": "like the",
-    "HR-LG": "likely", // overrides {^ological} [2]
+    "HR-LG": "likely", // overrides {^ological} [1]
     "SHR-BG": "is like",
     "SHR-BGT": "is like the",
     "SHR-LG": "is likely",
@@ -49,14 +43,13 @@
     "PR-B": "problem",
     "-RT": "right", // - physically stroked with the right hand
                     // - use R-T for "are the"
-                    // - frees up RAOEUT for "rite" [3]
+                    // - frees up RAOEUT for "rite" [2]
     "-RLT": "rightly",
     "TPO*RT/-RT": "forthright",
     "TPO*RT/-RLT": "forthrightly",
     "T-G": "thing",
-    /*1*/ "TKPW*PS": "GPS", // just write out "global positioning system"
-    /*2*/ "HR*LG": "{^ological}",
-    /*3*/ "RAOEUT": "rite",
+    /*1*/ "HR*LG": "{^ological}",
+    /*2*/ "RAOEUT": "rite",
           "RAOEUTS": "rites",
           "RAO*EUT": "riot",
           "RAO*EUTS": "riots",  // use THRAOEUTS for "arthritis"
