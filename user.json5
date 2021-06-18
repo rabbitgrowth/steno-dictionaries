@@ -4001,6 +4001,7 @@
     "HOELT": "hotel",      // feels natural because it has all the letters
     "HO*ELT": "Hotel",
     "HRAO*EULG": "lilac",  // *LG for "lk" with a vowel in the middle
+    "PHORPBD": "mourned",  // properly PHOURPBD, but "morned" is not a word
     "O/ER": "o'er",        // separate into two strokes since OER is "other"
     "KW-T": "quiet",       // KWAOEUT ("quite") is too loud
     "KW-LT": "quietly",
@@ -4886,6 +4887,8 @@
     "PHARBGS/H-F": "Marx",          // from "marks"
     "PHAER/H-F": "Mary",            // from "marry"
     "PHORPB/H-F": "mourn",          // from "morn"
+    "PHORPBG/H-F": "mourning",
+    "PHORPBS/H-F": "mourns",
     "PAEURS/H-F": "Paris",          // from "pairs"
     "PAOES/H-F": "peace",           // from "piece"
     "TPEUL/H-F": "Phil",            // from "fill"
