@@ -781,11 +781,8 @@
 
     "PHA*EURBG": "{^maker}",     // already works
     "HRAU/PHAEURBG": "lawmaker", // like TPEUPL/PHAEURBG "filmmaker"
-    "HRAU/PHAEURBGS": "lawmakers",
     "SHAOU/PHAEURBG": "shoemaker",
-    "SHAOU/PHAEURBGS": "shoemakers",
     "TRUBL/PHAEURBG": "troublemaker",
-    "TRUBL/PHAEURBGS": "troublemakers",
 
     "-GS": "{^tion}", // misstroke for {^s}
 
@@ -809,7 +806,7 @@
 
     // Use nicer prefixes for multistroke words
     "SPWR/TPAOER": "interfere", // prefer SPWR to EUPBT
-    "SPWR/TPAOERS": "interferes",
+    "SPWR/TPAOERZ": "interferes",
     "SPWR/TPAOERG": "interfering",
     "SPWR/TPAOERD": "interfered",
     "SPWR/TPAOERPBS": "interference",
