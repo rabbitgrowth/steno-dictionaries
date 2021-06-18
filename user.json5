@@ -578,14 +578,12 @@
     "KHRAEUGT": "locating",  // overrides "calculating"
     "KHRAEUGS": "location",  // overrides "calculation"
     "KAL": "calculate",      // overrides "cal" (calorie)
-    "KALS": "calculates",
     "KALG": "calculating",
     "KALGS": "calculation",
     "KARLT": "calculator",   // with -T because KARL is "Karl"
                              // and feels like "callor" (if that was a word)
     "KAL/TOR": "calculator",
     "KA*L": "cal",           // use KPAL for "capital"
-    "KA*LS": "cals",
 
     // Lengthen vowel
     // Precedent: TPUPB "fun" -> TPAOUPB "funny"
