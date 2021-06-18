@@ -4044,12 +4044,6 @@
     "AO/AO/AO": "ooooh",
 
     // Existence
-    // It's tempting to capitalize on the fact that THR and TH-R both give
-    // "there" to do tricks like
-    // THR-S "there's"
-    // TH-RS "there is" (mnemonic: spread out a bit to expand 's)
-    // to avoid *, but that's an added layer of complexity. It's better to
-    // stick to the "default to full form and add * for contraction" rule.
     "THR-S": "there is", // advantage: neatly partitioned
     "TH-RS": "there is", // advantage: easier to stroke
     "THR-TS": "there is the",
