@@ -1818,9 +1818,7 @@
     "*ERT": "Earth",
     "ERT/PWOUPBD": "earthbound",
     "ERT/KWAEUBG": "earthquake",
-    "ERT/KWAEUBGS": "earthquakes",
     "ERT/WORPL": "earthworm",
-    "ERT/WORPLS": "earthworms",
     "TKPWROET": "growth",
     "HELT": "health",
     "HOEULT": "healthy", // use OEU for -y; HOEUFLT (?) - -F
@@ -2010,13 +2008,13 @@
     "PW*EUPBG": "Bing", // name of search engine
 
     "TK-G": "doing",   // swap with "diagnose"
-    "TK-GS": "doings", // swap with "diagnosis"
+    "TK-GZ": "doings", // swap with "diagnoses"
     "TK*G": "diagnose",
-    "TK*GS": "diagnosis",
+    "TK*GS": "diagnosis", // just for consistency; TK-GS works too
+    "TK*GZ": "diagnoses",
 
     "ER": "{^er}", // give up {er^}
     "TPAOEUR/KRABG/ER": "firecracker",
-    "TPAOEUR/KRABG/ERS": "firecrackers",
 
     "KPRAOEPL": "extreme",  // overrides "extremely"
     "KPRAOEL": "extremely", // sort of like PHAEUBG "make", PHAEUG "making"
