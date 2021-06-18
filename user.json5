@@ -260,6 +260,9 @@
     "KOFPB/TKA*PBT": "confidante",
     "KAUPB/STAPBS/KWREU": "constancy", // or use STAPBT/SEU ("constant" + {^cy})
     "TKROEUD": "droid", // use STROEUD for "destroyed"
+    "KWRAOUBG/HREUP/TUS": "eucalyptus",
+    "KWRAOUBG/HREUPT/US": "eucalyptus", // AOUBG/HREUPT/US with KWR in front
+    "KWRAOUBG/HREUPTS": "eucalyptus",
     "TPAEURLS": "failures", // "fairlies" is not a word
     "TPHREUFT": "felicity", // give up {^philicity} (obscure chemistry stuff)
     "TPHREUFT/OUS": "felicitous",
