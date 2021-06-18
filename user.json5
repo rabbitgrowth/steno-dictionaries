@@ -300,17 +300,14 @@
     "SOEPB/AR": "sonar",
     "SOPBT": "sonnet", // overrides "sonata" [1]
     "STRAOEUTD": "strident",
-    "TAOEPL": "teem", // use TAEPL for "team"
-    "TAOEPLS": "teems",
-    "TAOEPL/-S": "teems",
-    "TAOEPL/-G": "teeming",
+    "TAOEPL": "teem",       // use TAEPL for "team"
+    "TAOEPL/-G": "teeming", // by default "teaming"
     "TAOEPLD": "teemed",
     "TAOEPBG": "teenage",
     "TAOERPBG": "teenager",
     "T*EPBT": "tenth",   // overrides "entity"
     "T*ERS": "terrace", // starless is "terse"
     "TROEL": "troll", // use PROL for "patrol"
-    "TROELS": "trolls",
     "TPHULT": "tumult", // instead of TUPLT so that the stress is right
                         // in TPHULT/WOUS "tumultuous" ("tumult" + {^uous})
     "SRAPBL/TAOEUPB": "valentine",
