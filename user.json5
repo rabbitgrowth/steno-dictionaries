@@ -1400,37 +1400,33 @@
     // This is standard in Plover (KHRAR/TPEU "clarify",
     // KHRAS/TPEU "classify", TKE/TPEU "defy", etc.);
     // it's the inflections that don't work.
-                                   // theoretically conflicts with
-    "KHRAR/TPEUS": "clarifies",    // "collar physical" ("a blue-~ job")
-    "KHRAR/TPEUG": "clarifying",   // "collar figure"
-    "KHRAS/TPEUS": "classifies",   // "class physical"  ("in-~ activity")
-    "KHRAS/TPEUG": "classifying",  // "class figure"
-    "TKE/TPEUS": "defies",
+    "KHRAR/TPEUZ": "clarifies",
+    "KHRAR/TPEUG": "clarifying",
+    "KHRAS/TPEUZ": "classifies",  // conflicts with "class fizz"
+                                  // ("cocktail bars serving world-class fizz")
+    "KHRAS/TPEUG": "classifying", // conflicts with "class figure"
+                                  // ("a world-class figure skater")
+    "TKE/TPEUZ": "defies",
     "TKE/TPEUG": "defying",
-    "PHOD/TPEUS": "modifies",
+    "PHOD/TPEUZ": "modifies",
     "PHOD/TPEUG": "modifying",
     "PHEUFT/TPEU": "mystify",
-    "PHEUFT/TPEUS": "mystifies",   // "mist physical"
+    "PHEUFT/TPEUZ": "mystifies",   // "mist fizz"
     "PHEUFT/TPEUG": "mystifying",  // "mist figure"
-    "KWAPBT/TPEUS": "quantifies",  // "quantity physical"
+    "KWAPBT/TPEUZ": "quantifies",  // "quantity fizz"
     "KWAPBT/TPEUG": "quantifying", // "quantity figure"
-    "SHREUD/TPEUS": "solidifies",  // "slid physical"
+    "SHREUD/TPEUZ": "solidifies",  // "slid fizz"
     "SHREUD/TPEUG": "solidifying", // "slid figure"
     "AOUPB/TPEU": "unify", // mashup of AOUPB/TPAOEU and KWRAOUPB/TPEU
                            // Plover seems to prefer ignoring the initial
                            // /j/ sound and dropping the KWR; for example,
                            // "unity" is AO*UPBT, and KWRAO*UPBT doesn't work
-    "AOUPB/TPEUS": "unifies",
+    "AOUPB/TPEUZ": "unifies",
     "AOUPB/TPEUG": "unifying",
-    "KWRAOUPB/TPEUS": "unifies", // allow being explicit with the /j/
+    "KWRAOUPB/TPEUZ": "unifies", // allow being explicit with the /j/
     "KWRAOUPB/TPEUG": "unifying",
-    "SRER/TPEUS": "verifies",
+    "SRER/TPEUZ": "verifies",
     "SRER/TPEUG": "verifying",
-    // ... although these are all pretty unlikely combinations:
-    // CLARIFIES        962   CLASSIFIES      510
-    // COLLAR PHYSICAL    1   CLASS PHYSICAL    3
-    // CLARIFYING      1706   CLASSIFYING    1042
-    // COLLAR FIGURE      0   CLASS FIGURE      0
 
     // KW for conv-
     // This is standard in Plover, and works very consistently:
@@ -1448,7 +1444,6 @@
     // "convene" is KAUPB/SRAOEPB, since KWAOEPB is "queen" already.
     // KWAEU "convey" doesn't work for some reason.
     "KWAEU": "convey",
-    "KWAEUS": "conveys",  // misstroke for "case"
     "KWAEUD": "conveyed", // give up "Quade"
     "KWAEUR": "conveyor",
 
@@ -1573,8 +1568,7 @@
                         // which makes this misstroke unlikely
                         // (see also PWHROEUD "bloody")
     "STOEUD": "studio", // overrides "studied" [1]
-    /*1*/ "STKEU": "study",    // "studied" is then STKEUD
-          "STKEUS": "studies", // misstroke for "decision"
+    /*1*/ "STKEU": "study", // "studied" is then STKEUD
 
     // OFT for -osity
     // Precedents: KAOUR/KWROFT "curiosity"
@@ -1602,7 +1596,6 @@
     // URT for -utter
     "PWURT": "butter", // overrides "Burt" [1]
     "PWURT/TPHRAOEU": "butterfly",
-    "PWURT/TPHRAOEUS": "butterflies",
     "KHRURT": "clutter",
     "TPHRURT": "flutter",
     "TKPWURT": "gutter",
