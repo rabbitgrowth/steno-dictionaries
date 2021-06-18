@@ -2095,7 +2095,7 @@
     // -- Phrasing -------------------------------------------------------------
 
     // Pronoun + be
-    // Default to full form and add * or use phonetics for contraction
+    // Default to full form and add * or use phonetics for contraction.
     "KWR-PL": "I am", // overrides "I mean" [1]
     "KWR-PLT": "I am the",
     "AOEUPL": "I'm", // already works
