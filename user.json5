@@ -103,9 +103,10 @@
     "W-TS": "with its",
 
     "PR": "appear",     // misstroke for "from"
-    "PR-D": "appeared", // give up "." with spaces on both sides
-    "SPR": "disappear", // overrides {super^} [1]
-    /*1*/ "SAUP": "{super^}", // - nicely symmetrical with SAUB {sub^}
+    "PR-D": "appeared", // overrides "." with spaces on both sides [1]
+    "SPR": "disappear", // overrides {super^} [2]
+    /*1*/ "TP*PL": ".",
+    /*2*/ "SAUP": "{super^}", // - nicely symmetrical with SAUB {sub^}
                               // - unlikely misstroke for {sub^}
                               // - or use SAOUP
 
@@ -3407,6 +3408,8 @@
 
     "HRAOEUZ": "lies",   // give up {^alize}
     "HUPBZ": "hundreds", // use 0Z for {&00}
+    "KWEZ": "questions", // overrides "?" with spaces on both sides [1]
+    /*1*/ "KW*PL": "?",
 
     "KAPL/RAZ": "cameras",
     "TKOPL/TPHOEZ": "dominoes",
