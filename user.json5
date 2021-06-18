@@ -463,11 +463,12 @@
     "SPWAOUGS": "intuition", // use STUGS for "substitution",
                              // which is consistent with STUT "substitute"
     "SPWAOUF": "intuitive",  // cf. TWAOUF
+    "SHU": "issue",
+    "SHUD": "issued", // use SHO for "should"
     "HRAOEUFPL": "lifetime", // "lifem"; TPHRAOEUPL "flime" doesn't make sense to me
     "PHELG": "medical", // "mecal"
     "PHEUL/SHA": "militia",
-    "PHEUL/SHAS": "militias",
-    "TPHOUDZ": "nowadays", // frees up TPHOU/TKAEUS for "now days" [3]
+    "TPHOUDZ": "nowadays",
     "OP/TEUF": "operative", // OPT/EUF with a more natural break point
     "PAEURT/KWROFPL": "patriotism", // - "patriosm"
                                     // - cf. PAEURT/KWROT "patriot"
@@ -498,29 +499,8 @@
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // "vibetion"
     "WORP": "worship", // give up "WordPress"
-    /*1*/ "STO*RBG": "stork",         // give up "State of New York"
-    /*2*/ "A*UBG": "awk",             // give up "AUC"
-    /*3*/ "TPHOU/TKAEUS": "now days", // "we are now days away from..."
-
-    "SHU": "issue",
-    "SHUS": "issues", // overrides {^tious}
-    "SHUD": "issued", // use SHO for "should"
-    "-RBS": "{^tious}", // cf. "ambitious"  APL/PWEURBS
-                        //     "cautious"   KAURBS
-                        //     "nutritious" TPHAO*URBS
-                        // although {^tious} on its own doesn't seem too
-                        // useful, as the parts preceding -tious tend to
-                        // be non-words ("cau", "nutri"). When it works,
-                        // it's usually by accident:
-                        // "contentious"  KAUPB/TEPB/-RBS
-                        // ("ten" happens to be a word, but the number
-                        //  10 has nothing to do with contentiousness)
-                        // "facetious"    TPAEUS/-RBS
-                        // (unphonetic hack; TPA/SAOERBS is much better)
-                        // "bumptious"    PW*UPL/-RBS
-                        // (this one is nice since "bumptious" does come
-                        //  from "bump", but not many words are like that,
-                        //  and Plover already defines PWUPL/-RBS)
+    /*1*/ "STO*RBG": "stork", // give up "State of New York"
+    /*2*/ "A*UBG": "awk",     // give up "AUC"
 
     "SKPAOPB": "and so on", // SKP + SO + OPB with AO for the doubled "o"
     "SKP-PB": "and then",
@@ -543,7 +523,7 @@
     "SPOEFBT": "supposed to be",
     "TRUF": "true love", // use TRUFT for "trust"
     "WHOFPLT": "when it comes to", // "whomst"
-    "KWRAOEUS": "you guys",
+    "KWRAOEUZ": "you guys",
 
     "AOEFRP": "each other",
     "WURPB": "one another",
