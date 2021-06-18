@@ -3415,7 +3415,6 @@
     "ART/KHRAEUGT": "articulating",
     "A/SRAEULD": "availed",
     "A/SRAEULG": "availing",
-    "A/SRAEULS": "avails",
     "KHA*PL/KWROPBD": "championed",
     "KHA*PL/KWROPBG": "championing",
     "KHAPL/KWROPBD": "championed", // allow dropping * like KHAPL/KWROPB "champion"
@@ -3423,7 +3422,6 @@
     "KOE/HREFD": "coalesced",
     "KOE/HREFG": "coalescing",
     "KAUPB/SAOELG": "concealing",
-    "KAUPB/SAOELS": "conceals",
     "KAUPB/TPEFD": "confessed",
     "KAUPB/TPEFG": "confessing",
     "TKEUPL/WEUTD": "dimwitted",
@@ -3439,10 +3437,8 @@
     "SPWEUPL/TKAEUTS": "intimidates",
     "SPWEUPL/TKAEUGT": "intimidating",
     "SPWOBGS/KAEUGT": "intoxicating",
-    "HRAPBG/WEURBS": "languishes",
     "HRAPBG/WEURBG": "languishing",
     "HREPBG/THEPBG": "lengthening", // right-hand-side -PBG stays unchanged
-    "HREPBG/THEPBS": "lengthens",
     "HREUB/RAEUGT": "liberating",
     "OP/PREFD": "oppressed",
     "OP/PRESZ": "oppresses",
@@ -3485,7 +3481,6 @@
     "AOEFD": "eased",
     "ETSDZ": "edits",        // (ETD + -S) + -Z
     "TPAEUGD": "fading",
-    "TPUBGS": "fucks",       // use TPUPBGS for "function"
     "HRAEUFG": "lacing",
     "PHOLGD": "modeling",
     "PHOLDZ": "models",      // use PHOELDZ for "molds"
