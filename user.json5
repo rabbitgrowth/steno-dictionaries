@@ -229,7 +229,7 @@
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES and ABG/SEU
     "APBLG/TEUF": "adjective",
     "APBLG/TAOEUFL": "adjectival",
-    "A*PLS": "Alps", // starless is "apples"
+    "A*PLZ": "Alps", // starless is "apples"
     "ARPB/KEU": "anarchy",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEUFPL": "anarchism",
@@ -256,7 +256,6 @@
     "TKAEURPBG": "danger",     // use TKAEURG for "daring"
     "TKAEURPBGS": "dangerous", // use -Z for "dangers"
     "TKROEUD": "droid", // use STROEUD for "destroyed"
-    "TPAEURLS": "failures", // "fairlies" is not a word
     "TPHREUFT": "felicity", // give up {^philicity} (obscure chemistry stuff)
     "TPHREUFT/OUS": "felicitous",
     "TPEPBGS": "fencing", // misstroke for "infection"
@@ -265,7 +264,6 @@
     "TPREUFLT": "frivolity",
     "TPREU/SROLT": "frivolity",
     "TPREUFLS": "frivolous", // TPREUF/HROUS already works
-    "TKPWUPBS": "guns", // "beguns" is not a word
     "HA*RT": "hearth", // give up "Hart"
     "HUPLS": "hummus", // use -Z for "hums"
     "SPWREUBGT": "intricate",
@@ -3986,7 +3984,6 @@
     "HOELT": "hotel",      // feels natural because it has all the letters
     "HO*ELT": "Hotel",
     "HRAO*EULG": "lilac",  // *LG for "lk" with a vowel in the middle
-    "PHORPBD": "mourned",  // properly PHOURPBD, but "morned" is not a word
     "O/ER": "o'er",        // separate into two strokes since OER is "other"
     "KW-T": "quiet",       // KWAOEUT ("quite") is too loud
     "KW-LT": "quietly",
@@ -4785,14 +4782,19 @@
 
     // -- Misstrokes -----------------------------------------------------------
 
+    // Impossible inflections
+    "TPAEURLZ": "failures", // "fairlies"
+    "TKPWUPBZ": "guns",     // "beguns"
+    "HAOEURS": "hires",     // "highers"
+    "HAOEURG": "hiring",    // "higherring"
+    "PHORPBD": "mourned",   // "morned"
+
     // Nonsensical translations
-    "HAOEURS": "hires",  // "highers"
-    "HAOEURG": "hiring", // "higherring"
-    "*FS": "was",        // "ofs"
-    "WOEUD": "wide",     // "would Ied"
-    "K-BG": "{,}",       // "can being"
-    "KW-BGS": "{,}",     // ",s"
-    "KW-RBG": "{,}",     // "--ing"
+    "*FS": "was",    // "ofs"
+    "WOEUD": "wide", // "would Ied"
+    "K-BG": "{,}",   // "can being"
+    "KW-BGS": "{,}", // ",s"
+    "KW-RBG": "{,}", // "--ing"
 
     // Untranslates
     "KPW": "go",
