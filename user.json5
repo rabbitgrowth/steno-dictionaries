@@ -256,6 +256,9 @@
     "TKAEURPBG": "danger",     // use TKAEURG for "daring"
     "TKAEURPBGS": "dangerous", // use -Z for "dangers"
     "TKROEUD": "droid", // use STROEUD for "destroyed"
+    "KWRAOUBG/HREUP/TUS": "eucalyptus",
+    "KWRAOUBG/HREUPT/US": "eucalyptus", // AOUBG/HREUPT/US with KWR in front
+    "KWRAOUBG/HREUPTS": "eucalyptus",
     "TPHREUFT": "felicity", // give up {^philicity} (obscure chemistry stuff)
     "TPHREUFT/OUS": "felicitous",
     "TPEPBGS": "fencing", // misstroke for "infection"
@@ -513,6 +516,7 @@
     "TWAR": "at war",
     "TWORBG": "at work",
     "TWOFRT": "at worst",
+    "TPROUT": "figure out",
     "TKPWOEPL": "go home",
     "TKPWROELD": "grow old",
     "TPHOEPBS": "known as", // use -Z for "knowns"
@@ -521,6 +525,8 @@
     "HRAOFRT": "look after", // "loofter"; HRAFRT is "laughter"
     "SPOEFT": "supposed to",
     "SPOEFBT": "supposed to be",
+    "TAEUR": "take care",
+    "TAEUFR": "take care of",
     "TRUF": "true love", // use TRUFT for "trust"
     "WHOFPLT": "when it comes to", // "whomst"
     "KWRAOEUZ": "you guys",
@@ -540,33 +546,6 @@
     "WH-G": "whole thing",   // cf. T-G "thing" (custom)
     "WHOEPT": "whole point", // cf. P-T "point" (custom)
     "WHOERLD": "whole world", // WHORLD is "whorled"
-
-    // Phrasal verbs
-    "TPROUT": "figure out",
-    "TPROUTS": "figures out",
-    "TPROUTD": "figured out",
-    "TPROUGT": "figuring out",
-    "TPROUT/-S": "figures out",
-    "TPROUT/-D": "figured out",
-    "TPROUT/-G": "figuring out",
-    "TPROU": "figure out", // form for easier inflection
-                           // use the orthographic TPRAU for "frau"
-    "TPRAU": "Frau",       // ... which should be capitalized
-    "TPROUS": "figures out",
-    "TPROUD": "figured out",
-    "TPROUG": "figuring out",
-    "TPROU/-S": "figures out",
-    "TPROU/-D": "figured out",
-    "TPROU/-G": "figuring out",
-
-    "TAEUFR": "take care of",
-    "TAEUFRS": "takes care of",
-    "TAEUFRD": "took care of",
-    "TAEUFRPB": "taken care of",
-    "TAEUFRG": "taking care of",
-    "TAEUFR/-S": "takes care of",
-    "TAEUFR/-D": "took care of",
-    "TAEUFR/-G": "taking care of",
 
     // -isms and -ists
     "KPHAOUFPL": "communism",
