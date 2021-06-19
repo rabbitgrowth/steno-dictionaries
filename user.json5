@@ -1820,6 +1820,7 @@
     "SPRAEULGS": "inspirational",
     "STPHAOULGS": "institutional",
     "TPH-LGS": "national", // or use TPHAT
+    "TPHOE/TAEULGS": "notational",
     "KOEULGS": "occasional",
     "KHROEULGS": "occasionally",
     "PRO/SREULGS": "provisional", // or use PREUPBL (custom)
