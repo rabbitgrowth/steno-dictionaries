@@ -3619,6 +3619,7 @@
     // S for negation
     "STPHOL": "abnormal",
     "SHRAOEL": "illegal",
+    "SPHOFBL": "immovable",
     "SP-F": "imperfect",
     "SP-FL": "imperfectly",
     "SP-FGS": "imperfection",
