@@ -2268,18 +2268,17 @@
     "H-BG": "he can",   // give up "health care"
     "H-BGD": "he could",
     "H-RBD": "he should",
-    "H-L": "he will",   // overrides "hello" [1]
+    "H-L": "he will",   // use HO*EL for "hello"
     "H-LD": "he would", // give up "HDL" (obscure biochemistry term)
     "H*L": "he'll",     // give up "Hodgkin's lymphoma"
-    "H*D": "he'd",      // give up "Hodgkin's disease" and free up HAOED for "heed" [2]
+    "H*D": "he'd",      // give up "Hodgkin's disease" and free up HAOED for "heed" [1]
     "KE": "can he",     // by default "he can"
     // "could he"  KOE is "co-"
     // "shall he"  too rare to care
     // "should he" SHOE is "show"
     // "will he"   HRE is "le"
     // "would he"  WOE is "woe"
-    /*1*/ "HOL": "hello",
-    /*2*/ "HAOED": "heed", // drop *
+    /*1*/ "HAOED": "heed",
 
     "SH-BG": "she can",
     "SH-BGD": "she could",
