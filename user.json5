@@ -4776,6 +4776,8 @@
     "PHRAEUPBZ/H-F": "planes",
     "POEL/H-F": "poll",             // from "pole"
     "POELZ/H-F": "polls",
+    "PREUPB/H-F": "principal",      // from "principle"
+    "PREUPBZ/H-F": "principals",
     "PROFT/H-F": "prophet",         // from "profit"
     "RAEUS/H-F": "raise",           // from "race"
     "REFRPBS/H-F": "reverence",     // from "reference"
