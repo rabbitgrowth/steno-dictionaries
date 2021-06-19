@@ -291,9 +291,6 @@
     "PAPL/TAEUT": "palpitate",
     "PHRAFD": "placid",
     "PHRAFLD": "placidly",
-    "SPES": "possess", // invert S and P
-                       // allows one-stroking "possesses" unlike the standard PESZ
-    "SPEGS": "possession",
     "PROP/TKPWAPB/TKEUFT": "propagandist", // alternative to PROP/TKPWAPBD/EUFT
     "PUB/HREUFT": "publicity", // not sure what's going on in PHREURBGT
     "STHRAOEUT": "satellite",
@@ -4261,6 +4258,16 @@
     "TPHEF": "negative",
     "TPHEFL": "negatively", // overrides "nestle" [1]
     /*1*/ "TPHEFLT": "nestle", // cf. RUFLT "rustle"
+
+    // "possess" family
+    "S*ES": "possess",     // use S*EFT for "zest"
+    "S*EFD": "possessed",
+    "S*EFG": "possessing",
+    "S*EGS": "possession", // use SEGS for "session"
+    "S*EF": "possessive",  // use SEFL (custom) for "self"
+    "SES": "possess",      // allow dropping * when there's no conflict
+    "SEFD": "possessed",   // use SREFD for "invested"
+    "SEFG": "possessing",
 
     // "reflect" family
     "TPHRET": "reflect", // misstroke for "net"
