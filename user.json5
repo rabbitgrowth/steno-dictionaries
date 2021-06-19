@@ -3233,12 +3233,16 @@
     "EFRBLS": "everybody else", // cf. EFRB "everybody"
     "EFRPBLS": "everyone else",
     "EFRLGS": "everything else",
-    "TPH-BLS": "nobody else",
+    "WEFRLS": "everywhere else",
     "TPHOEUPBLS": "no one else",
+    "TPH-BLS": "nobody else",
     "TPHOLGS": "nothing else",
+    "TPHO*ERLS": "nowhere else",
     "S-BLS": "somebody else",
     "SWUPBLS": "someone else", // already works
+    "SPHRAEULS": "someplace else",
     "S-LGS": "something else",
+    "SWR-LS": "somewhere else",
 
     // "... of"
     "STPROFPBT": "in front of", //   STPRO PBT "in front"
