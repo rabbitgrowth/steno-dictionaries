@@ -1416,9 +1416,9 @@
     // It's the inflections that don't work.
     "KHRAR/TPEUZ": "clarifies",
     "KHRAR/TPEUG": "clarifying",
-    "KHRAS/TPEUZ": "classifies",  // conflicts with "class fizz"
+    "KHRAS/TPEUZ": "classifies",  // conflicts with "class fizz"?
                                   // ("cocktail bars serving world-class fizz")
-    "KHRAS/TPEUG": "classifying", // conflicts with "class figure"
+    "KHRAS/TPEUG": "classifying", // conflicts with "class figure"?
                                   // ("a world-class figure skater")
     "TKE/TPEUZ": "defies",
     "TKE/TPEUG": "defying",
@@ -1527,7 +1527,7 @@
     // when your mind is in phonetic mode. REU also follows steno order.
     // Precedents: TKEUBGS/AER or TKEUBGS/REU "dictionary"
     //             PHAPBD/TOER or PHAPBD/TREU "mandatory"
-    "ARB/TREU": "arbitrary",      // vs ARB/TRAER ("ash try" should be impossible)
+    "ARB/TREU": "arbitrary",      // vs ARB/TRAER (conflicts with "ash try"?)
     "EFGS/REU": "evolutionary",   // vs EFGS/AER
     "REFGS/REU": "revolutionary", // vs REFGS/AER
 
@@ -3472,7 +3472,7 @@
     "TKEUPL/WEUTD": "dimwitted",
     "EPB/HAFPBD": "enhanced",
     "EPB/HAPBGS": "enhancing",
-    "SPWER/PRAOEUFG": "enterprising", // theoretically conflicts with "enter pricing"
+    "SPWER/PRAOEUFG": "enterprising", // conflicts with "enter pricing"?
                                       // ("manually enter pricing information")
     "ES/KHRAEUTD": "escalated",
     "ES/KHRAEUGT": "escalating",
@@ -4255,7 +4255,7 @@
 
     // "entertain" family
     "SPWER/TAEUPB": "entertain", // already works
-    "SPWER/TAEUPBD": "entertained", // theoretically conflicts with "enter contained"
+    "SPWER/TAEUPBD": "entertained", // conflicts with "enter contained"?
                                     // ("the data I was trying to enter contained...")
     "SPWER/TAEURPB": "entertainer",
     "SPWER/TAEUPLT": "entertainment", // or just use TAEUPLT
