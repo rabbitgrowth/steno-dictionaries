@@ -41,6 +41,7 @@
     "P-TS": "points", // use PREZ/-Z for "presidents"
     "P-FT": "point of",
     "P-FTS": "points of",
+    "P-LS": "pointless",
     "PR-B": "problem",
     "-RT": "right", // - physically stroked with the right hand
                     // - use R-T for "are the"
