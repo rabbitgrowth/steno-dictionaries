@@ -729,6 +729,7 @@
 
     // Don't glue together
     "SAOE/KWRA": "see ya",
+    "SPH/TKAEU": "some day",    // use SPH-D    for "someday"
     "SPH/TAOEUPL": "some time", // use STAOEUPL for "sometime"
     "STEPG/STOEPB": "stepping stone",
 
