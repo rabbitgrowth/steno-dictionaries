@@ -766,6 +766,9 @@
                       // - e.g., KROEPL/ABG "chromatic" ("chrome" + {^atic})
                       // - give up "ack"
 
+    "-PB": "{^en}",    // use APB for "an"
+    "-PBD": "{^ened}", // use SKP for "and"
+
     "-LD": "{^land}", // use WO for "would", like HR, not -L, for "will"
     "TKPWARLD": "garland", // has nothing to do with "gar" (fish) but whatever
     "HAOEULD": "highland",
