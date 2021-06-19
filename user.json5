@@ -1622,6 +1622,14 @@
     "AOUFR": "user", // use AUFR for {over^}
     "WAOEUFR": "wiser",
 
+    // -FRT for -rsity
+    // Precedent: TKWEFRT "diversity"
+    "AD/SREFRT": "adversity",
+    "KAOUFRT": "curiosity",
+    "PER/SREFRT": "perversity",
+    "SPAFRT": "sparsity",
+    "SRAFRT": "varsity", // consistent with AOUFRT "university"
+
     // -FRD for -rsed
     // Precedents: KUFRD "cursed", TPOFRD "forced"
     // -RSD is possible but requires Philly shift.
