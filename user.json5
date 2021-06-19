@@ -1523,9 +1523,8 @@
     // TOER {^tory}, but -ary, -ery, and -ory all sound the same (REU),
     // and it's a bit annoying to have to remember which spelling to use
     // when your mind is in phonetic mode. REU also follows steno order.
-    // Precedents:
-    // TKEUBGS/AER or TKEUBGS/REU "dictionary"
-    // PHAPBD/TOER or PHAPBD/TREU "mandatory"
+    // Precedents: TKEUBGS/AER or TKEUBGS/REU "dictionary"
+    //             PHAPBD/TOER or PHAPBD/TREU "mandatory"
     "EFGS/REU": "evolutionary",    // vs EFGS/AER
     "REFGS/REU": "revolutionary",  // vs REFGS/AER
     "ARB/TREU": "arbitrary",       // vs ARB/TRAER ("ash try" should be impossible)
