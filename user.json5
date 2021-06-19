@@ -3599,6 +3599,8 @@
     "KOELD/PWHRAOTD": "cold-blooded", // or use KOELD/PWHRAOD/-D
     "WARPL/PWHRAOTD": "warm-blooded",
 
+    // -- Adjective forms ------------------------------------------------------
+
     // Comparatives
     "SOER/ER": "sorrier", // use SOR/ER for "sorer"
 
