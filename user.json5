@@ -3599,6 +3599,10 @@
     "KOELD/PWHRAOTD": "cold-blooded", // or use KOELD/PWHRAOD/-D
     "WARPL/PWHRAOTD": "warm-blooded",
 
+    // Irregular verbs
+    "TPORBTD": "forbidden",
+    "TPORBD/-D": "forbidden",
+
     // -- Adjective forms ------------------------------------------------------
 
     // Comparatives
