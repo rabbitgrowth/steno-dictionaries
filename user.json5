@@ -19,6 +19,8 @@
     "KP-PBD": "explained",    // use KP-D  for "examined"
     "KP-PBG": "explaining",   // use KP-G  for "examining"
     "KP-PBGS": "explanation", // use KP-GS for "examination"
+    "KP-PB/TOER": "explanatory",
+    "KP-PB/TREU": "explanatory",
     "SKWR-PL": "gentleman",
     "SKWR-PLZ": "gentlemen",
     "TKPW-D": "good", // give up "good day"
@@ -1525,10 +1527,9 @@
     // when your mind is in phonetic mode. REU also follows steno order.
     // Precedents: TKEUBGS/AER or TKEUBGS/REU "dictionary"
     //             PHAPBD/TOER or PHAPBD/TREU "mandatory"
-    "EFGS/REU": "evolutionary",    // vs EFGS/AER
-    "REFGS/REU": "revolutionary",  // vs REFGS/AER
-    "ARB/TREU": "arbitrary",       // vs ARB/TRAER ("ash try" should be impossible)
-    "SPHRAPB/TREU": "explanatory", // vs SPHRAPB/TOER
+    "ARB/TREU": "arbitrary",      // vs ARB/TRAER ("ash try" should be impossible)
+    "EFGS/REU": "evolutionary",   // vs EFGS/AER
+    "REFGS/REU": "revolutionary", // vs REFGS/AER
 
     // AERT for -atter
     // Precedents: PHAERT "matter", HRAERT "latter"
