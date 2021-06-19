@@ -1731,6 +1731,17 @@
     "SREURG": "vigor",
     "SREURGS": "vigorous",
 
+    // -PBG for -nct
+    // Precedents: TKEUS/TEUPBG "distinct" (can be briefed to STKEUPBG)
+    //             EUPB/STEUPBG "instinct" (only STPHEUPBGT works)
+    //             AD/SKWRUPBG  "adjunct"
+    "KAUPB/SKWRUPBG": "conjunct",
+    "TKE/TPUPBG": "defunct",
+    "TKEUS/SKWRUPBG": "disjunct",
+    "KPEUPBG": "extinct",
+    "STPHEUPBG": "instinct",
+    "SARBG/SAPBG": "sacrosanct", // very nice
+
     // -PBT, -PB, or -FPB for -ten
     "PWRAOEUFPB": "brighten",    // cf. TPRAOEUFPB "frighten"
                                  // PWRAOEUPBT is "Bryant" and PWRAOEUPB is "brine",
