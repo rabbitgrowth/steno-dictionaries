@@ -2743,6 +2743,7 @@
     "P": "people",
     "P-R": "people are", // misstroke for "for"
     "P-RP": "people were",
+    "P-BZ": "people say",
 
     // The P-P symmetry makes it feel natural to use -P for "people" too.
     // (See "Counting" for "two people", "three people", etc.)
