@@ -3603,6 +3603,14 @@
     "TPORBTD": "forbidden",
     "TPORBD/-D": "forbidden",
 
+    // Omit -T for ergonomics
+    // Precedents:
+    //   ABGT   "act"     -> ABGD   "acted"
+    //   TPH-PT "inspect" -> TPH-PD "inspected"
+    //   SUGT   "suggest" -> SUGD   "suggested"
+    // (although SUGD probably doesn't count since SUG also works for "suggest")
+    "TKAEUBGD": "educated",
+
     // -- Adjective forms ------------------------------------------------------
 
     // Comparatives
