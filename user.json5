@@ -1051,6 +1051,8 @@
     "PWOEPBLS": "boneless",
     "PWRAEUPBLS": "brainless",
     "KARBLS": "cashless",
+    "HEPLS": "helpless",  // use -Z for "hems"
+    "HOEPLS": "hopeless", // use -Z for "homes"
     "SKWROBLS": "jobless",
     "SKWROEULS": "joyless",
     "HRAOEUFLS": "lifeless",
@@ -3348,6 +3350,7 @@
     // where you have to use -Z instead. A solution is to just always use -Z.
     // It's more work for the pinky, but the consistency you gain is worth it.
 
+    "HOEPLZ": "homes",   // use HO*EPLS for "Holmes"
     "HUPBZ": "hundreds", // use 0Z for {&00}
     "HRAOEUZ": "lies",   // give up {^alize}
     "KWEZ": "questions", // overrides "?" with spaces on both sides [1]
@@ -4711,7 +4714,6 @@
     "TPEUBGS/H-F": "fiction",       // from "fix"
     "TKPWUPB/H-F": "gun",           // from "begun"
     "HORPB/H-F": "honor",           // from "horn"
-    "HOEPLS/H-F": "hopeless",       // from "homes"
     "HREUFT/H-F": "list",           // from "lift"
     "HREUFTS/H-F": "lists",
     "HRUFRPB/H-F": "lunch",         // from "lurch"
