@@ -4793,6 +4793,8 @@
     "SAOEUD/H-F": "sighed",         // from "side"
     "STAEUR/H-F": "stare",          // from "stair"
     "STAEURZ/H-F": "stares",
+    "STAOEL/H-F": "steal",          // from "steel"
+    "STAOELZ/H-F": "steals",
     "SWAEUD/H-F": "suede",          // from "swayed"
     "SWAOET/H-F": "suite",          // from "sweet"
     "TAOER/H-F": "tear",            // from "tier"
