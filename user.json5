@@ -9,8 +9,8 @@
     "TW-T": "between the",
     "PW-RD": "birthday",
     "PW*T": "both",
-    "PW-L": "build",   // cf. PW-LG "building"
-    "PW-LT": "built",  // give up "brake light"
+    "PW-L": "build",  // cf. PW-LG "building"
+    "PW-LT": "built", // give up "brake light"
     "TK-FS": "difference",
     "TK-FT": "different",
     "KP-T": "exact",
