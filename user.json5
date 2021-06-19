@@ -1631,7 +1631,7 @@
     "SREFRD": "versed",
 
     // -FP, -RT, or TUR for -ture
-    //               -FP          -RT         TUR  (and KHUR, GS, BGS...)
+    //               -FP          -RT         TUR  (and KHUR, -GS, -BGS...)
     // "future"      TPAOUFP      TPAOURT     /
     // "nature"      TPHAEUFP     TPHAEURT    TPHAEU/TUR
     // "culture"     KAOUFP [1]   KURLT       KUL/TUR
