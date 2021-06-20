@@ -314,7 +314,7 @@
     "TAOEPLD": "teemed",
     "TAOEPBG": "teenage",
     "TAOERPBG": "teenager",
-    "T*EPBT": "tenth",   // overrides "entity"
+    "T*EPBT": "tenth", // use EPBT/TEU for "entity"
     "T*ERS": "terrace", // starless is "terse"
     "TROEL": "troll", // use PROL for "patrol"
     "TPHULT": "tumult", // instead of TUPLT so that the stress is right
