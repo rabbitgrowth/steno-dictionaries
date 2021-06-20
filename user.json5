@@ -3624,6 +3624,7 @@
     "PWRAOEUFT": "brightest",
     "KHROEFT": "closest",
     "TKAFRT": "darkest",
+    "HAFRT": "hardest", // misstroke for "heart"
     "HAOEUFT": "highest", // cf. HROEFT "lowest"; overides "heist" [1]
     "HRAOEUFT": "lightest",
     "OEFT": "oldest",
