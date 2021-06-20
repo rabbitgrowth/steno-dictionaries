@@ -362,14 +362,9 @@
     "TKHREURBT": "deliberate",    // TKHREUBT
     "TKHREURBLT": "deliberately",
     "TPAOURPBL": "funeral",       // TPAOUPBL
-    "SKWRERPBL": "general",       // SKWREPBL
+    "SKWRERPBL": "general",       // SKWREPBL (use SKWHRERPBL for "generally")
     "HREURBL": "liberal",         // HREUBL
     "PHEURPBL": "mineral",        // PHEUPBL
-    // SKWRERPBL overrides "generally", for which I can use
-    // SKWHRERPBL. The superimposition of HR on SKWR feels
-    // a bit weird, but not as weird as the default
-    // SKWREPBL  "general"
-    // SKWRERPBL "generally" (add -R for -ly??)
 
     // -- Vowels ---------------------------------------------------------------
 
