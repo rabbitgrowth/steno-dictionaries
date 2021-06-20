@@ -141,9 +141,9 @@
     "THUFBG": "enthusiastic",
     "KPES/EUF": "excessive",    // with KPES/EUFL "excessively"
     "KP*EF": "excessive",       // with KP*ES "excess"; use KPEF for "competitive",
-                                // which is consistent with KPAOET "compete"
-                                //                          KPEPBT "competent"
-                                //                          KPEGS  "competition"
+                                //   which is consistent with KPAOET "compete"
+                                //                            KPEPBT "competent"
+                                //                            KPEGS  "competition"
     "KP*EFL": "excessively",
     "KP*EFPBS": "excessiveness",
     "KPEPL": "exemplify",       // with KP-PL "example"
