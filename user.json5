@@ -233,6 +233,16 @@
 
     // -- Phonetic -------------------------------------------------------------
 
+    // Strokes that should probably be default
+    "PWRAOD": "brood",      // use PWROD for "broad"
+    "PWRAOTD": "brooded",
+    "TKROEUD": "droid",     // use STROEUD for "destroyed"
+    "ORB": "orb",           // misstroke for "or"
+    "TAOEPL": "teem",       // use TAEPL for "team"
+    "TAOEPL/-G": "teeming", // by default "teaming"
+    "TAOEPLD": "teemed",
+
+    // Modifications based on personal taste
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES and ABG/SEU
     "APBLG/TEUF": "adjective",
     "APBLG/TAOEUFL": "adjectival",
@@ -249,8 +259,6 @@
     "PWHREUPBG/WAL": "bilingual",
     "PWHREUPBLG": "bilingual", // PWHREUPBL + -G; "blingle"
     "PWEUS/TROE": "bistro", // /ˈbɪstrəʊ/; /ˈbiːs-/ already works: PWAOES/TROE
-    "PWRAOD": "brood", // use PWROD for "broad"
-    "PWRAOTD": "brooded",
     "KHRERPBD": "calendar",
     "KAUFT": "caste",
     "KHEUBG/EPB": "chicken",
@@ -264,7 +272,6 @@
     "KAUPB/STAPBS/KWREU": "constancy", // or use STAPBT/SEU ("constant" + {^cy})
     "TKAEURPBG": "danger",     // use TKAEURG for "daring"
     "TKAEURPBGS": "dangerous", // use -Z for "dangers"
-    "TKROEUD": "droid", // use STROEUD for "destroyed"
     "KWRAOUBG/HREUP/TUS": "eucalyptus",
     "KWRAOUBG/HREUPT/US": "eucalyptus", // AOUBG/HREUPT/US with KWR in front
     "KWRAOUBG/HREUPTS": "eucalyptus",
@@ -292,7 +299,6 @@
     "TPHAOEUPBL": "nylon",
     "OB/HREUF/KWROUS": "oblivious",
     "OB/HREUF/KWROULS": "obliviously",
-    "ORB": "orb", // misstroke for "or"
     "ORPB/TAEUGS": "orientation",
     "PAPL/TAEUT": "palpitate",
     "PHRAFD": "placid",
@@ -309,9 +315,6 @@
     "SOEPB/AR": "sonar",
     "SOPBT": "sonnet", // overrides "sonata" [1]
     "STRAOEUTD": "strident",
-    "TAOEPL": "teem",       // use TAEPL for "team"
-    "TAOEPL/-G": "teeming", // by default "teaming"
-    "TAOEPLD": "teemed",
     "TAOEPBG": "teenage",
     "TAOERPBG": "teenager",
     "T*EPBT": "tenth", // use EPBT/TEU for "entity"
