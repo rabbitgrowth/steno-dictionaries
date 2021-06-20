@@ -404,11 +404,7 @@
     "PUR": "pure", // overrides "purchaser" [2]
     "SWER": "swear",
     "THOT": "thought",
-    "TRE": "tree", // TRES rightfully belongs to "tress", so I'd have to use
-                   // -Z for "trees", which happens to be nicely consistent
-                   // with the "EZ for -eeze" pattern:
-                   // TPRE  "free"    TRE  "tree"
-                   // TPREZ "freeze"  TREZ "trees"
+    "TRE": "tree",
     "SRUL": "value",
     "WEBG": "week", // use WEB/-G for "webbing" [3]
     /*1*/ "PWHREUPB/TKA": "Belinda",   // cf. SPHREPB/TKA "Splenda"
