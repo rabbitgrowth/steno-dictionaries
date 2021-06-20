@@ -420,7 +420,7 @@
     "KPUR": "computer",
     "KPURT": "computer",
 
-    "TKPWREPB": "green", // like PWHRU "blue" ("our blu and gren planet")
+    "TKPWREPB": "green", // "our blu (PWHRU) and gren planet"
     "TKPWREPB/HOUS": "greenhouse",
 
     "SHREP": "sleep",
