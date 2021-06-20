@@ -189,6 +189,7 @@
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
     "SEURPB": "sinner",         // with TKEURPB "dinner", WEURPB "winner"
     "SOPL": "so many",          // with SO "so", SOFP "so much"; use SPH for "some"
+    "STRUFPL": "structural",    // with STRUFP "structure"
     "SPWOLG": "symbolic",       // with SPWOL "symbol"
                                 //   cf. KHOL "alcohol", KHOLG "alcoholic"
                                 //   SPWOLG could also be "ontology" with SPW- as ont-,
