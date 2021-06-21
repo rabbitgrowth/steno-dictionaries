@@ -1534,6 +1534,7 @@
     // Precedents: TKEUBGS/AER or TKEUBGS/REU "dictionary"
     //             PHAPBD/TOER or PHAPBD/TREU "mandatory"
     "ARB/TREU": "arbitrary",      // vs ARB/TRAER (conflicts with "ash try"?)
+    "TKORPL/TREU": "dormitory",   // vs TKORPL/TOER
     "EFGS/REU": "evolutionary",   // vs EFGS/AER
     "REFGS/REU": "revolutionary", // vs REFGS/AER
 
@@ -3903,6 +3904,7 @@
     // "Not an accident" -- Mirabai
     "KHA*FRP": "champion",    // champ
     "KH*EUFRP": "chimpanzee", // chimp
+    "TKO*RPL": "dormitory",   // dorm
     "KP*EBG": "executive",    // exec
     "TP*EFT": "festival",     // fest
     "HRA*B": "laboratory",    // lab
