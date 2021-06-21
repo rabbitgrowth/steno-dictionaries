@@ -3622,6 +3622,7 @@
     //             TPH-PT "inspect" -> TPH-PD "inspected"
     //             SUGT   "suggest" -> SUGD   "suggested"
     // (although SUGD probably doesn't count since SUG also works for "suggest")
+    "KPHREUBGD": "complicated",
     "TKAEUBGD": "educated",
 
     // -- Adjective forms ------------------------------------------------------
