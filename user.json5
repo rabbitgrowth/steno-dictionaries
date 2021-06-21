@@ -357,10 +357,16 @@
     "TPORT/AOUPB": "fortune",     // to TP-RPB and TPAURPB
     "EUPB/SEPBT": "innocent",     // to TPH-PBT; use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",        // to TR
-    "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
     "TPHAEURB": "neighbor",       // to TPHAEUB
     "SPWEFRB": "observe",         // to OEB, which has a slight problem: OEBG is "oak"
     "SEUFRT": "sister",           // to ST-R
+
+    "SPWEUBGT": "indicate", // to KA*EUT
+    "SPWEUBGD": "indicated",
+    "SPWEUBGS": "indication",
+    "SPWEUGT": "indicating",
+
+    "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
 
     // Allow not omitting -R in -ral and -rate
                                   // Plover consistently omits -R:
@@ -1173,7 +1179,7 @@
     // SPW for ant-, ont-, and unt-
     // Justification: "ent- or int-" isn't a mirror image of -nt; nt- is.
     // And nt- feels like it could be extended to mean [any vowel]nt-.
-    "SPWEUBG": "antic", // and get SPWEUBGS "antics" for free
+    "SPWEUBG": "antic", // and get SPWEUBGZ "antics" for free
     "SPWEUFPT": "anticipate",
     "SPWEUFPGS": "anticipation",
     "SPWAOEBG": "antique",
