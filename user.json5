@@ -548,7 +548,8 @@
     "WHAOEFLT": "a whole lot of",
     "WH-G": "whole thing",   // cf. T-G "thing" (custom)
     "WHOEPT": "whole point", // cf. P-T "point" (custom)
-    "WHOERLD": "whole world", // WHORLD is "whorled"
+    "WHOERLD": "whole world",
+    "WHOERL": "whole world", // cf. WORL "world"
 
     // -isms and -ists
     "KPHAOUFPL": "communism",
