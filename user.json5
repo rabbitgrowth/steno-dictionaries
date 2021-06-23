@@ -2065,6 +2065,7 @@
     "KPREUPBLG": "extrinsically",
 
     "-PLT": "{^ment}", // use TP-PL for {.}
+    "AUG/-PLT": "augment",
     "TPEUL/-PLT": "filament", // or just use TPEUPLT
     "ORPB/-PLT": "ornament",
     "PRE/TKEUBG/-PLT": "predicament",
