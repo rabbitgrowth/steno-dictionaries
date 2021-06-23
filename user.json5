@@ -306,7 +306,6 @@
     "PHRAFD": "placid",
     "PHRAFLD": "placidly",
     "PROP/TKPWAPB/TKEUFT": "propagandist", // alternative to PROP/TKPWAPBD/EUFT
-    "PUB/HREUFT": "publicity", // not sure what's going on in PHREURBGT
     "RAOUPBS": "ruinous", // use -Z for "ruins"
     "STHRAOEUT": "satellite",
     "SKAPBLD": "scandal",
@@ -362,6 +361,7 @@
     "SPWREFT": "interest",        // to TR
     "TPHAEURB": "neighbor",       // to TPHAEUB
     "SPWEFRB": "observe",         // to OEB, which has a slight problem: OEBG is "oak"
+    "PUB/HREUFT": "publicity",    // to PHREUFT (custom)
     "SEUFRT": "sister",           // to ST-R
 
     "SPWEUBGT": "indicate", // to KA*EUT
