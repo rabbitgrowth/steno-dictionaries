@@ -1001,7 +1001,6 @@
     "K-RBLS": "consciously",
     "KRAOEFL": "creatively",
     "TKELD": "deadly",
-    "TKRELT": "directly", // or use TKREL or TKRELG
     "SKREUPL/TPHALT": "discriminately", // mostly for "indiscriminately"
     "TKWAOEUPBL": "divinely",
     "TKRAOEUL": "dryly",
@@ -1155,10 +1154,6 @@
     "SPWAOEUT": "indict",
     "SPWAOEUPLT": "indictment",
     "SPWAOE": "indie",
-    "SPWRET": "indirect", // see also STKRET
-    "SPWREL": "indirectly",
-    "SPWRELG": "indirectly",
-    "SPWRELT": "indirectly",
     "SPWORBGT/TPHAEUT": "indoctrinate",
     "SPWORBGT/TPHAEUGS": "indoctrination",
     "SPWAOR": "indoor",
@@ -3682,10 +3677,9 @@
     "SKREBLT": "incredibility",
     "STK-FS": "indifference", // from TK-FS "difference" (custom)
     "STK-FT": "indifferent",  // from TK-FT "different"  (custom)
-    "STKRET": "indirect", // see also SPWRET
+    "STKRET": "indirect",
     "STKREL": "indirectly",
     "STKRELG": "indirectly",
-    "STKRELT": "indirectly",
     "STPEF": "ineffective",
     "SKWAELT": "inequality", // S+E+KWALT
     "STPORL": "informal",
