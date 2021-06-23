@@ -938,8 +938,7 @@
     "TPEUL/PWUFRT": "filibuster",
     "TPRAEURPL": "framer",
     "SKWRAEURT": "generator",
-    "TKPWOFRPB": "governor", // use TKPWOFPB for "govern";
-                             // the "r" is not pronounced anyway
+    "TKPWOFRPB": "governor", // use TKPWOFPB for "govern"; the "r" is not pronounced in BrE
     "TKPWO*FRPB": "Governor",
     "EUPB/KRAOEURT": "inciter",
     "HR*EURBG": "liquor", // starless is "lyric"
@@ -948,8 +947,7 @@
     "PHAOERPBD": "meander",
     "PAEURPBT": "painter", // use PARPBT for "parent"
     "PAEURPBTS": "painters",
-    "POEUL/EFRT": "polyester", // EFRT is normally "effort"
-                               // but "polyeffort" is not a word
+    "POEUL/EFRT": "polyester", // EFRT is normally "effort" but "polyeffort" is not a word
     "PRAOEFRP": "preacher",
     "PREUFRPB": "prisoner",
     "SERPBD": "sender",
