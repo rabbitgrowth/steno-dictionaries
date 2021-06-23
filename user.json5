@@ -4336,8 +4336,7 @@
     "TPHREF": "reflective",
 
     // "simple" family
-    "SEUFRP": "simple",  // already works
-    "SEUFRPL": "simply", // use SEUFRP for "simple"
+    "SEUFRPL": "simple", // already works
     "SPHREU": "simply",  // already works
     "SPHREUF": "simplify",
     "SPHREUFT": "simplicity", // already works
