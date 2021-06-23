@@ -901,11 +901,13 @@
     //   TKPWRAEUF   "grave"
     //   TKPWRAEUFL  "gravely"
     //   TKPWRAEUFLT "grateful" (custom)
-    "KHAOEFRL": "cheerful", // cf. POUFRL "powerful"
+    // For -rful, use -FRL, like POUFRL "powerful".
+    "KHAOEFRL": "cheerful",
     "KHROFRL": "colorful",
     "TPAEUFL": "fateful",
     "TPRAOEUFL": "frightful",
     "TKPWRAEUFLT": "grateful", // cannot omit -T
+    "TAEFRL": "tearful",
     "THAFL": "thankful",
     "WOEFL": "woeful", // use WUFL for "wonderful"
 
