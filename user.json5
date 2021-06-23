@@ -940,6 +940,9 @@
     "SKWRAEURT": "generator",
     "TKPWOFRPB": "governor", // use TKPWOFPB for "govern"; the "r" is not pronounced in BrE
     "TKPWO*FRPB": "Governor",
+    "HEURPBD": "hinder",
+    "HEURPBTD": "hindered",
+    "HEURPBGD": "hindering",
     "EUPB/KRAOEURT": "inciter",
     "HR*EURBG": "liquor", // starless is "lyric"
     "HROURPBG": "lounger",
