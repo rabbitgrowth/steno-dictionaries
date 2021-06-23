@@ -2018,6 +2018,7 @@
     "TPOPBS": "phenomena",
     "PREUPBL": "provisional",   // use PREUPB for "principle"
     "SKOLGS": "psychologist",   // use -Z for "psychologies"
+    "PHREUFT": "publicity",     // give up "plist"
     "REUPBD": "remind",         // like HEUPBD "behind"
     "REUPBTD": "reminded",
     "REURPBD": "reminder",
