@@ -2449,8 +2449,9 @@
     "W-FL": "we feel",
     "THEFL": "they feel", // misstroke for "them"
 
-    "TOFD": "to find",
+    "SKP-FD": "and find",
     "THAFD": "that find",
+    "TOFD": "to find",
     "UFD": "you find",
     "H-FD": "he find",
     "SH-FD": "she find",
@@ -2470,8 +2471,9 @@
     "WHOEUFD": "who I find",
     "WHOUFD": "who you find",
 
-    "TOGT": "to get", // use T-GT (custom) for "together"
+    "SKP-GT": "and get",
     "THAGT": "that get",
+    "TOGT": "to get", // use T-GT (custom) for "together"
     "UGT": "you get",
     "H-GT": "he get",
     "SH-GT": "she get",
