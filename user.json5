@@ -349,6 +349,8 @@
 
     // Phonetic alternatives to briefs
     "KAT/TKPWREU": "category",    // to KOERG and KR-RG (custom)
+    "SER/TEUFBGT": "certificate", // to SER
+    "SERT/TPEUBGT": "certificate",
     "KAUPB/TKURBGT": "conductor", // to KURBGT
     "KUFPB": "cousin",            // to KUZ
     "TKAOEUPBLG/EFT": "digest",   // to SKWR*EFT
