@@ -348,23 +348,23 @@
                             //   HR-PB     "listen"  (custom)
 
     // Phonetic alternatives to briefs
-    "KAT/TKPWREU": "category",    // to KOERG and KR-RG (custom)
-    "SER/TEUFBGT": "certificate", // to SER
+    "KAT/TKPWREU": "category",     // to KOERG and KR-RG (custom)
+    "SER/TEUFBGT": "certificate",  // to SER
     "SERT/TPEUBGT": "certificate",
-    "KAUPB/TKURBGT": "conductor", // to KURBGT
-    "KUFPB": "cousin",            // to KUZ
-    "TKAOEUPBLG/EFT": "digest",   // to SKWR*EFT
-    "TKEUPL/TPHEURB": "diminish", // to TKPHEURB
-    "TKEUS/SPEURT": "dispirit",   // to STKPEURT
-    "STKREUBGT": "district",      // to TKR-T; use TKR-BG(T) for "distributing"
-    "KPEBG/TEUF": "executive",    // to SKAOUF
-    "TPORT/AOUPB": "fortune",     // to TP-RPB and TPAURPB
-    "EUPB/SEPBT": "innocent",     // to TPH-PBT; use EUPB/SEFPBT for "incessant"
-    "SPWREFT": "interest",        // to TR
-    "TPHAEURB": "neighbor",       // to TPHAEUB
-    "SPWEFRB": "observe",         // to OEB, which has a slight problem: OEBG is "oak"
-    "PUB/HREUFT": "publicity",    // to PHREUFT (custom)
-    "SEUFRT": "sister",           // to ST-R
+    "KAUPB/TKURBGT": "conductor",  // to KURBGT
+    "KUFPB": "cousin",             // to KUZ
+    "TKAOEUPBLG/EFT": "digest",    // to SKWR*EFT
+    "TKEUPL/TPHEURB": "diminish",  // to TKPHEURB
+    "TKEUS/SPEURT": "dispirit",    // to STKPEURT
+    "STKREUBGT": "district",       // to TKR-T; use TKR-BG(T) for "distributing"
+    "KPEBG/TEUF": "executive",     // to SKAOUF
+    "TPORT/AOUPB": "fortune",      // to TP-RPB and TPAURPB
+    "EUPB/SEPBT": "innocent",      // to TPH-PBT; use EUPB/SEFPBT for "incessant"
+    "SPWREFT": "interest",         // to TR
+    "TPHAEURB": "neighbor",        // to TPHAEUB
+    "SPWEFRB": "observe",          // to OEB, which has a slight problem: OEBG is "oak"
+    "PUB/HREUFT": "publicity",     // to PHREUFT (custom)
+    "SEUFRT": "sister",            // to ST-R
 
     "SPWEUBGT": "indicate", // to KA*EUT
     "SPWEUBGD": "indicated",
