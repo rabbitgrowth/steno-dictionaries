@@ -3713,6 +3713,7 @@
 
     "SKHRU": "exclude",    // S (negation) + KHRU "include" or /ɪkˈ[sklu]ːd/
     "SKHRUF": "exclusive", // cf. KHRUF "inclusive"
+    "SKHRUGS": "exclusion",
 
     // -- Proper nouns ---------------------------------------------------------
 
