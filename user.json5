@@ -3711,9 +3711,8 @@
     "SPHAERT": "no matter",
     "SPR-B": "no problem",
 
-    "SKHRU": "exclude",      // 1) S + KHRU "include"; 2) /ɪkˈ[sklu]ːd/
-    "SKHRUF": "exclusive",   // cf. KHRUF "inclusive"
-    "SKHRAOUF": "exclusive", // more fully phonetic
+    "SKHRU": "exclude",    // S (negation) + KHRU "include" or /ɪkˈ[sklu]ːd/
+    "SKHRUF": "exclusive", // cf. KHRUF "inclusive"
 
     // -- Proper nouns ---------------------------------------------------------
 
