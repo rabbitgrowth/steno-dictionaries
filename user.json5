@@ -2137,7 +2137,7 @@
 
     // -- Phrasing -------------------------------------------------------------
 
-    // Pronoun + be
+    // Pronoun + "be"
     // Default to full form and add * or use phonetics for contraction.
     "KWR-PL": "I am", // overrides "I mean" [1]
     "KWR-PLT": "I am the",
@@ -2197,7 +2197,7 @@
           "WRU": "where you",  // use URP  for "you were"
     /*4*/ "TWROPT": "with respect to", // cf. WR-PT "with respect"
 
-    // Pronoun + have
+    // Pronoun + "have"
     // Since KWROEU is "I don't" and KWROEUF is "I don't have",
     // one would expect "I have" to be KWR-F. But it's SREU (?!).
     "KWR-F": "I have",
@@ -2348,7 +2348,7 @@
 
     "THABG": "that can", // misstroke for "thank"
 
-    // Modal verb + be
+    // Modal verb + "be"
     "PHAEUB": "may be", // overrides "maybe" [1]
     "PHAEUBT": "may be the",
     "PHAOEUB": "might be", // already works
@@ -2363,7 +2363,7 @@
     "WOBT": "would be the", // already works
     /*1*/ "PH-B": "maybe", // give up "Mapbox"
 
-    // Modal verb + have
+    // Modal verb + "have"
     "KOUFT": "could have the",   // cf. KOUF  "could have"
     "SHOUFT": "should have the", // cf. SHOUF "should have"
     "WOUFT": "would have the",   // cf. WOUF  "would have"
