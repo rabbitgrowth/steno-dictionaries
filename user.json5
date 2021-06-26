@@ -995,7 +995,7 @@
     "AED": "{^'d}",  // to complete the set: AES AEL AED
     "AE": "{^'^}",   // no space after, for fingerspelling words like "warn't"
 
-    "TAOEUT/-L": "tightly", // by default "title"
+    "TAOEUT/-L": "tightly", // use TAOEULT for "title"
 
     // Fold in -L for -ly
     "PROELT": "appropriately", // overrides "protocol" [1]
