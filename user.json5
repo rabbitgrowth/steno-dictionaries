@@ -782,9 +782,6 @@
     "HROELD": "lowland",
     "PHAEUPBLD": "mainland",
 
-    "HR-LS": "{^lessly}", // -LS  for -less + HR for -ly
-    "HRELS": "{^lessly}", // HRES for -less + -L for -ly
-
     "HR*ET": "{^let}", // already works
     "PEUG/HRET": "piglet",
     "PEUG/HRETS": "piglets",
@@ -1049,6 +1046,9 @@
     /*4*/ "SAELD": "salad", // AE for /æ/
 
     "-LG": "{^ingly}", // use WEULG or even HR-G for "willing"
+
+    "HR-LS": "{^lessly}", // -LS  for -less + HR for -ly
+    "HRELS": "{^lessly}", // HRES for -less + -L for -ly
 
     // ... or use HR if -L is already used
     "PWHROELD": "boldly",
