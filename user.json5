@@ -2363,6 +2363,11 @@
     "WOBT": "would be the", // already works
     /*1*/ "PH-B": "maybe", // give up "Mapbox"
 
+    // Modal verb + have
+    "KOUFT": "could have the",   // cf. KOUF  "could have"
+    "SHOUFT": "should have the", // cf. SHOUF "should have"
+    "WOUFT": "would have the",   // cf. WOUF  "would have"
+
     // -FPLT for "must"
     // It's phonetic with an inversion (FMT -> MST),
     // and four keys in a row feels emphatic ("you MUST...").
