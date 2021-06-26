@@ -252,6 +252,8 @@
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEUFPL": "anarchism",
     "APBGS/TEU": "angsty", // or use APBGS/KWREU ("angst" + {^y})
+    "AEURGS": "arrogance", // use -Z for "airings"
+    "AEURGT": "arrogant",  // cf. AEURPT "airport"
     "APLT/STPAOER": "atmosphere",
     "AUT/TPHOEPL": "autonomy", // cf. AUT/KRAES "autocracy"
     "AUT/TPHOPLS": "autonomous",
