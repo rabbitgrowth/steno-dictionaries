@@ -501,6 +501,7 @@
     "REURB": "rubbish",
     "STPOER": "satisfactory", // "sfory"
     "STPREU": "satisfactory", // "sfry"
+    "SHORPBLG": "shortage",
     "SOERLD": "soldier", // - SHRERPBLG is weird ("slerj"? probably meant
                          //   to be "sljer", like TPHOEUPBLG "enjoy"?)
                          // - not to be confused with SORLD "solder"
