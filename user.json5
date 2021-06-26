@@ -1001,6 +1001,7 @@
     "TAOEUT/-L": "tightly", // use TAOEULT for "title"
 
     // Fold in -L for -ly
+    "KORLG": "accordingly",
     "PROELT": "appropriately", // overrides "protocol" [1]
     "PWHRAOEUPBLD": "blindly",
     "PWRAFL": "bravely", // alternative to PWRAEUFL
