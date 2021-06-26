@@ -1384,7 +1384,8 @@
     "SKPAOERPBD": "experienced", // cf. SPAOERPBD
     "SKPERPLT": "experiment",
     "SKPERT": "expert",
-    "SKPERT/AOES": "expertise",
+    "SKPERT/EUS": "expertise",  // cf. SPERT/EUS
+    "SKPERT/AOES": "expertise", // cf. SPERT/AOES
     "SKPAOEUR": "expire",
     "SKPHRAEUPB": "explain",     // or use KP-PB   (custom)
     "SKPHRAPBGS": "explanation", // or use KP-PBGS (custom)
