@@ -1048,6 +1048,8 @@
     /*3*/ "O*PL": "ohm", // feels consistent with O "oh" (custom)
     /*4*/ "SAELD": "salad", // AE for /æ/
 
+    "-LG": "{^ingly}", // use WEULG or even HR-G for "willing"
+
     // ... or use HR if -L is already used
     "PWHROELD": "boldly",
     "KHRAEUFRL": "carefully",
