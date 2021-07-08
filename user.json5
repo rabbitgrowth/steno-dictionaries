@@ -869,8 +869,6 @@
     "SAEFG": "assessing",    // use SAEG or STPAOEUG for "satisfying"
     "SAEFPLT": "assessment", // or just use SEFPLT
     "SAET": "asset",
-    "SAUPLGS": "assumption",
-    "SAUPGS": "assumption", // omit -L to make it easier to stroke; cf. A/SUPGS
     "SHAUR": "assure",
     "SHAURPBS": "assurance",
     "TAEPLT": "attempt",
