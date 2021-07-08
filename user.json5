@@ -441,10 +441,11 @@
     "TKPHEUGS": "admission",
     "HRARPL": "alarm",
     "ALG": "algorithm", // use ALGS for "additional"
+    "PHREUBGS": "application", // use -Z for "politics" [1]
     "STORB": "astonish",
-    "STORBG": "astonishing", // overrides "stork" [1]
+    "STORBG": "astonishing", // overrides "stork" [2]
     "TRAF": "attractive", // use TR-FR for "transfer"
-    "AUBG": "automatic", // overrides "awk" [2]
+    "AUBG": "automatic", // overrides "awk" [3]
     "PWHRAEUPBT": "blatant",
     "KHRARBT": "collaborate",
     "KHRARBGS": "collaboration",
@@ -494,6 +495,7 @@
     "PREFT": "protest", // give up "previous to";
                         // -T is too strongly associated with "the" anyway
     "PREFRT": "protester",
+    "PUBGS": "publication", // use -Z for "pucks"
     "PURPT": "purport", // cf. AEURPT "airport"
     "PUZ": "puzzle", // cf. PEUZ "pizza"; alternative to PUFL
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
@@ -514,8 +516,9 @@
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // "vibetion"
     "WORP": "worship", // give up "WordPress"
-    /*1*/ "STO*RBG": "stork", // give up "State of New York"
-    /*2*/ "A*UBG": "awk",     // give up "AUC"
+    /*1*/ "PHREUBGZ": "politics", // but "politic" is POL/TEUBG, not PHREUBG; that's "public"
+    /*2*/ "STO*RBG": "stork",     // give up "State of New York"
+    /*3*/ "A*UBG": "awk",         // give up "AUC"
 
     "SKPAOPB": "and so on", // SKP + SO + OPB with AO for the doubled "o"
     "SKP-PB": "and then",
