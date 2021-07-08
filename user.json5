@@ -1791,11 +1791,11 @@
 
     // -PLS for -mption
     // Precedents: SUPLS "assumption", PRUPLS "presumption"
-    // -PLGS is fully phonetic but is tricky to hit.
-    // Plover sometimes allows -PGS as a misstroke:
-    //   KUPGS  "consumption"
-    //   PRUPGS "presumption"
-    // But for -emption, this can lead to conflicts:
+    // A fully phonetic but tricky-to-hit alternative is -PLGS,
+    // which Plover sometimes allows you to misstroke as -PGS:
+    //   KUPLGS  or KUPGS  "consumption"
+    //   PRUPLGS or PRUPGS "presumption"
+    // But for -emption, -PGS can lead to conflicts:
     //   KPEPGS "exception",      not "exemption"
     //   REPGS  "representation", not "redemption"
     "KUPLS": "consumption", // use -Z for "couples"
