@@ -1789,6 +1789,21 @@
     "SHROEPBG": "slogan", // use SHROEG for "slowing" and SHRO*PBGS for "so long as"
     "SRAOEPBG": "vegan",
 
+    // -PLS for -mption
+    // Precedents: SUPLS "assumption", PRUPLS "presumption"
+    // -PLGS is fully phonetic but is tricky to hit.
+    // Plover sometimes allows -PGS as a misstroke:
+    //   KUPGS  "consumption"
+    //   PRUPGS "presumption"
+    // But for -emption, this can lead to conflicts:
+    //   KPEPGS "exception",      not "exemption"
+    //   REPGS  "representation", not "redemption"
+    "KUPLS": "consumption", // use -Z for "couples"
+    "KPEPLS": "exemption",  // use -Z for "exemplifies"
+    "TKPWUPLS": "gumption", // use -Z for "gums"
+    "REPLS": "redemption",  // use -Z for "recommends"
+    "RUPLS": "resumption",  // use -Z for "rums"
+
     // -LG for -gle
     // Precedents: TKPWAOLG "Google", STRULG "struggle"
     "AOELG": "eagle",      // use SERBL for "essential"
