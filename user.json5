@@ -200,6 +200,7 @@
     "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
     "SRUBLT": "vulnerability",  // with SRUBL "vulnerable"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
+    "SAEUGS": "{^isation}",     // with SA*EUGS {^ization}
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
     /*1*/ "PH*ERL": "Merrill", // PHERL   "Meryl"
                                // PH*ERL  "Merrill" (custom)
