@@ -4020,6 +4020,7 @@
     "WAU": "away",         // arbitrary
     "PWOEUR": "bury",      // OEU to reflect weirdness of "u" being pronounced /ɛ/
     "KR-RG": "category",   // 1) "cgr"; 2) "krgr"; 3) symmetry :-)
+    "KPHOS": "cosmos",     // "s" shared between "cos" and "mos"
     "KOURPB": "counter",   // think flap /t/; KOURPBT is {counter^}
     "KREPB": "century",    // first three letters
     "STPHUR": "ensure",    // "N-shur" (TPH + SH); overrides "insure" [1]
