@@ -1290,7 +1290,7 @@
     "STKARPLT": "disarmament",
     "STKARD": "discard", // TK+S+K, cf. STKORD "discord"
     "STKERPB": "discern",
-    "STKERPLT": "discernment", // drop -n-, cf. A/HRAOEUPLT "alignment"
+    "STKERPLT": "discernment", // drop "n", cf. A/HRAOEUPLT "alignment"
     "STKAOEUPL": "disciple",
     "STKPHREUPB": "discipline",
     "STKPHREUPB/REU": "disciplinary",
@@ -1642,7 +1642,7 @@
     // Precedents: HRAEUFR "laser", S*EUPBT/SAOEUFR "synthesizer"
     "AP/TAOEUFR": "appetizer",
     "TPERT/HRAOEUFR": "fertilizer",
-    "RA*EUFR": "razor", // starless is "racer" (-s- is default)
+    "RA*EUFR": "razor", // starless is "racer" ("s" is default)
     "AOUFR": "user", // use AUFR for {over^}
     "WAOEUFR": "wiser",
 
