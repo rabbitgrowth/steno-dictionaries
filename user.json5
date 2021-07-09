@@ -4069,9 +4069,9 @@
     // As a bonus, word length and stroke length now match up perfectly.
     "TRAEPLT": "treatment", // cf. TRAOEPLT
 
-    // TPH-PB "under" never made sense to me. Why two Ns?
-    // Plus TPH-PBT is "innocent" (which is consistent with TPH-PBS
-    // "innocence"), so there's no way to one-stroke "under the".
+    // TPH-PB "under" never made sense to me. Why two Ns? Plus TPH-PBT
+    // is "innocent" (which is consistent with TPH-PBS "innocence"),
+    // making it impossible to one-stroke "under the".
     "TPH-R": "under", // use TPHOR for "nor", which is consistent with OR "or"
     "TPH-RT": "under the",
 
