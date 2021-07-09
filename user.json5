@@ -4074,6 +4074,7 @@
     // making it impossible to one-stroke "under the".
     "TPH-R": "under", // use TPHOR for "nor", which is consistent with OR "or"
     "TPH-RT": "under the",
+    "TPH-RTS": "under its",
 
     // -- Flout greedy rule ----------------------------------------------------
 
