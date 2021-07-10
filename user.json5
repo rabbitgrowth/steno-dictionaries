@@ -3548,9 +3548,12 @@
     "HRAPBG/WEURBG": "languishing",
     "HREPBG/THEPBG": "lengthening", // right-hand-side -PBG stays unchanged
     "HREUB/RAEUGT": "liberating",
+    "OP/RAEUTD": "operated",  // or use PRAEUTD
+    "OP/RAEUTS": "operates",  //        PRAEUTS
+    "OP/RAEUGT": "operating", //        PRAEUGT
     "OP/PREFD": "oppressed",
     "OP/PRESZ": "oppresses",
-    "OP/PREFG": "oppressing", // OP/PREGS is "oppression"
+    "OP/PREFG": "oppressing", // cf. OP/PREGS "oppression"
     "OP/PREFS": "oppressive",
     "OP/PREFR": "oppressor",
     "OP/PRERS": "oppressor",
