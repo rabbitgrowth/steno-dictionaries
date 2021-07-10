@@ -119,7 +119,6 @@
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
     "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
-    "SW-L": "as well",          // with SW-LS "as well as"
     "PW-D": "beside",           // with PW-DZ "besides"; give up "pwd"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
@@ -2624,7 +2623,6 @@
     "WHUBGZ": "when you can see",
     "WHOEUBGZ": "who I can see",
     "WHOUBGZ": "who you can see",
-    "S*UBGZ": "as you can see",
 
     "H-BS": "he said",
     "SH-BS": "she said",
@@ -2733,11 +2731,6 @@
     "HRA": "will a",  // HR-T  "will the"
     "WA": "with a",   // W-T   "with the"
     /*1*/ "RA*": "Ra",
-
-    "SA*": "as a",
-    "S*T": "as the",
-    "S*EU": "as I", // give up "si"
-    "S*U": "as you",
 
     "TA": "at a",
     "T-T": "at the",
@@ -3233,6 +3226,16 @@
     "KH-BZ": "which has been",
     "KH-BD": "which had been",
 
+    // "as ..."
+    "SA*": "as a",
+    "S*T": "as the",
+    "S*EU": "as I", // give up "si"
+    "S*U": "as you",
+    "S*UBGZ": "as you can see",
+    "TPAS": "as if",
+    "SPOB": "as possible",
+    "SW-L": "as well", // cf. SW-LS "as well as"
+
     // "as ... as"
     // The most common ones already work beautifully:
     // AS WELL AS  155949  SW-LS / SW*ELS  (SWELS)
@@ -3343,8 +3346,6 @@
     "PWU": "about you", // use PWUT for "but"
     "AURT": "all right",
     "TPHEUFT": "any of the", // use EUFT for {^ist}
-    "TPAS": "as if",
-    "SPOB": "as possible",
     "SKHER": "ask her",
     "SKHEUPL": "ask him",
     "TPE": "if he", // give up "fe", which is not a word
