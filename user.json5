@@ -4937,6 +4937,8 @@
     "WAEUFR/H-F": "waver",          // from "waiver"
     "WAEUFRD/H-F": "wavered",
     "WAEUFRZ/H-F": "wavers",
+    "KWROEBG/H-F": "yoke",          // from "yolk"
+    "KWROEBGZ/H-F": "yokes",
 
     // Stacking
     "AUFL/H-F": "all of",           // from "awful"
