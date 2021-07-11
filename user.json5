@@ -4620,8 +4620,9 @@
                                   // is less common and doesn't need a brief
     "TK*EPL": "Dem", // cf. TKEPL "dem" ("dem big bucks"); overrides {demi^} [1]
     "TKPHAT": "democrat",
-    "TKPHA*T": "Democrat",
     "TKPHABG": "democratic",
+    "TKPHALG": "democratically",
+    "TKPHA*T": "Democrat",
     "TKPHA*BG": "Democratic",
     "TKPHOERBGS": "democracy", // try to squeeze in all the sounds: "dmokrsy"
     "TKPHOBGS": "democracy",   // shortcut ("dmox")
