@@ -789,6 +789,7 @@
 
     "-PB": "{^en}",    // use APB for "an"
     "-PBD": "{^ened}", // use SKP for "and"
+    "-PBG": "{^ening}",
 
     "-LD": "{^land}", // use WO for "would", like HR, not -L, for "will"
     "TKPWARLD": "garland", // has nothing to do with "gar" (fish) but whatever
@@ -1441,8 +1442,7 @@
     "TPHAEUPB": "inane", // overrides "ninja" [1]
     "TPHEPT": "inept",
     "TPHAOUR": "inure",
-    /*1*/ "TPH*EUPBG": "ninja", // starless is {^ening} as in "sickening"
-                                // mnemonic: * looks like a shuriken
+    /*1*/ "TPHEUPBG": "ninja", // use -PBG for {^ening}
 
     // TPEU for -fy
     // This is standard in Plover:
