@@ -283,6 +283,7 @@
     "TPREUFLT": "frivolity",
     "TPREU/SROLT": "frivolity",
     "TPREUFLS": "frivolous", // TPREUF/HROUS already works
+    "TKPWRAEUFT": "gravity", // consistent with TKPWRAEUF "grave"; TKPWRAFT is "graft"
     "HA*RT": "hearth", // give up "Hart"
     "HAOURBS": "hubris",
     "HUPLS": "hummus", // use -Z for "hums"
