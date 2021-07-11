@@ -176,6 +176,7 @@
                                 //   overrides "Merrill" [1]
     "TPHAOERB": "nearby",       // with TPHAOER "near"; use TPHEURB for "niche"
     "TPEUFR": "officer",        // with TPEURBL "official"
+    "TP*EUFR": "Officer",
     "OPB/WARD": "onward",       // with PWABG/WARD "backward"
     "ORPB": "origin",           // with ORPBL "original"
     "P-FGS": "perfection",      // with P-F "perfect"
