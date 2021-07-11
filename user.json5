@@ -1242,6 +1242,7 @@
     "KPWHROED": "implode",
     "KPWHROETD": "imploded",
     "KPWHROEGS": "implosion",
+    "KPWHROEF": "implosive",
     "KPWHROES/EUF": "implosive", // cf. SPHROES/EUF "explosive"
     "KPWHROR": "implore",
     "KPWHRAOEU": "imply", // the left-hand KPWHRAO cluster is a bit clumsy
@@ -1411,6 +1412,7 @@
     "SKPHROR": "explore",
     "SKPHRORGS": "exploration",
     "SKPHROEGS": "explosion",
+    "SKPHROEF": "explosive",
     "SKPHROES/EUF": "explosive", // cf. SPHROES/EUF
     "SKPOES": "expose", // a nice trio:
                         // SPOES  "suppose"
@@ -4328,9 +4330,9 @@
 
     // "dismiss" family
     "TKPHEUS": "dismiss", // dis/mis -> dmis; cf. TKPHEUFD "dismissed"
-    "TKPHEUFG": "dismissing",
+    "TKPHEUF": "dismissive",
     "TKPHEUFL": "dismissal",
-    "TKPHEUFS": "dismissive",
+    "TKPHEUFG": "dismissing",
 
     // "entertain" family
     "SPWER/TAEUPB": "entertain", // already works
