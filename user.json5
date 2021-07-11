@@ -366,7 +366,6 @@
     "EUPB/SEPBT": "innocent",      // to TPH-PBT; use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",         // to TR
     "TPHAEURB": "neighbor",        // to TPHAEUB
-    "SPWEFRB": "observe",          // to OEB, which has a slight problem: OEBG is "oak"
     "PUB/HREUFT": "publicity",     // to PHREUFT (custom)
     "SEUFRT": "sister",            // to ST-R
 
@@ -487,6 +486,8 @@
     "PHELG": "medical", // "mecal"
     "PHEUL/SHA": "militia",
     "TPHOUDZ": "nowadays",
+    "OEFRB": "observe",       // OEB has a slight problem: OEBG is "oak"
+    "OEFRBGS": "observation", // cf. KWEFRB "conserve", KWEFRBGS "conservation"
     "OP/TEUF": "operative", // OPT/EUF with a more natural break point
     "PAEURT/KWROFPL": "patriotism", // - "patriosm"
                                     // - cf. PAEURT/KWROT "patriot"
@@ -1185,6 +1186,7 @@
     "SPWULG": "indulge",
 
     "SPWEFR": "endeavor",
+    "SPWEFRBG": "endemic",
     "SPWHRES": "endless",
     "SPWHRELS": "endlessly",
     "SPWORS": "endorse",
