@@ -362,6 +362,8 @@
     "TKEUS/SPEURT": "dispirit",    // to STKPEURT
     "STKREUBGT": "district",       // to TKR-T; use TKR-BG(T) for "distributing"
     "KPEBG/TEUF": "executive",     // to SKAOUF
+    "TPABG/TEU": "faculty",        // to TPA*BG
+    "TPABG/TEUZ": "faculties",
     "TPORT/AOUPB": "fortune",      // to TP-RPB and TPAURPB
     "EUPB/SEPBT": "innocent",      // to TPH-PBT; use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",         // to TR
