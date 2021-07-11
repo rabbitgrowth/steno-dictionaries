@@ -394,6 +394,7 @@
     "HEF": "heavy",           // cf. HEFL "heavily"; give up "Hef"
     "HEFR": "heavier",        // overrides "heifer" [1]
     "PHERPL": "memory",
+    "PHERPL/-BL": "memorable",
     "PHORLT": "mortal",       // use PHRALT for "morality"
     "PHOEFGS": "motivation",
     "PARPLT": "parliament",   // use ARPLT for "apartment"
