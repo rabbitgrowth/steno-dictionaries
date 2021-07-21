@@ -3836,8 +3836,6 @@
     "TKAR/PHA": "dharma",
     "TKARPL/KWRA": "dharma",
     "KP*EL": "excel", // use *EBGS/EL for "Excel"
-    "TKPWRAPBD/PHA": "grandma", // oddly, Plover requires adding H for lowercase
-    "HAL/HRAOU/KWRA": "hallelujah", // requires SKWRA by default
     "HOBT": "hobbit",
     "HO*BT": "Hobbit",
     "HURPBT": "hunter",
@@ -3847,6 +3845,13 @@
     "TWEURT": "twitter",
     "TW*EURT": "Twitter",
     "AUP/STAEUT": "upstate",
+
+    "TKPWRAPBD/PHA": "grandma",     // requires adding H by default:
+                                    //   TKPWRAPBD/PHA  "Grandma"
+                                    //   TKPWHRAPBD/PHA "grandma"
+    "HAL/HRAOU/KWRA": "hallelujah", // requires adding S by default:
+                                    //   HAL/HRAOU/KWRA  "Hallelujah"
+                                    //   HAL/HRAOU/SKWRA "hallelujah"
 
     // Add * to capitalize
     // For common nouns that can be capitalized. Precedents:
