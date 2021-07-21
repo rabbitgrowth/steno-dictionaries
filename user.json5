@@ -476,6 +476,7 @@
     "TPAOPBLG": "footage", // cf. TPHOPBLG "knowledge"
     "TPREFT": "forest", // would be TPOFRT (forst) if "foster" (fostr) wasn't a word
     "TKPWARPB": "garden",
+    "TKPWREURPB": "grandchildren", // or just use TKPWR-PB
     "HEUPB": "hidden",
     "HOLD": "holiday", // use HOELD for "hold"
     "HOLDZ": "holidays",
@@ -520,6 +521,7 @@
     "SPHEUF": "submissive", // cf. SPHEUT "submit"
     "STPEURBL": "superficial", // STPEUFL feels more like "sfifal"
     "SWAEUPBLS": "surveillance",
+    "SWART": "sweetheart",
     "STOPL": "symptom",
     "TPHAOEBG": "technique",
     "STPHAPL": "tsunami",
@@ -986,6 +988,7 @@
     "SWERLT": "swelter",
     "SWEUFRT": "swifter",
     "TAEURT": "tater",
+    "THRAEURT": "translator",
     "UPB/TPERT": "unfetter",
     "WAEURPBLG": "wager",
     "WAURBG": "walker", // overrides "Washington, D.C."
@@ -1153,6 +1156,7 @@
     // -FRBL for -mble
     "PWRAFRBL": "bramble",
     "TKPWAFRBL": "gamble",
+    "SKWRUFRBL": "jumble",
     "SKRAFRBL": "scramble",
     "STUFRBL": "stumble",
 
@@ -3339,6 +3343,7 @@
     "TPRAEFD": "afraid of", // misstroke for "afraid"
     "STR-F": "center of",
     "SEFT": "set of",
+    "SUFPL": "sum of",
     "TAOEUFPL": "time of",
     "WHOEFL": "whole of",
 
