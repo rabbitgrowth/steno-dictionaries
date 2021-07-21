@@ -3609,6 +3609,9 @@
     "AOEFD": "eased",
     "ETSDZ": "edits",        // (ETD + -S) + -Z
     "TPAEUGD": "fading",
+    "TPUFD": "fussed",
+    "TPUSZ": "fusses",       // misstroke for "fuss"
+    "TPUFG": "fussing",
     "HRAEUFG": "lacing",
     "PHOLGD": "modeling",
     "PHOLDZ": "models",      // use PHOELDZ for "molds"
