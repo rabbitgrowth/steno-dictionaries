@@ -1008,7 +1008,6 @@
     "AEUL": "ale",   // overrides "ail"
     "A*EUL": "ail",
     "AED": "{^'d}",  // to complete the set: AES AEL AED
-    "AE": "{^'^}",   // no space after, for fingerspelling words like "warn't"
 
     "TAOEUT/-L": "tightly", // use TAOEULT for "title"
 
@@ -4130,15 +4129,14 @@
     "STA": "{~|(^}", // open bracket
     "ULS": "{^~|)}", // close bracket
 
-    // -- Speech ---------------------------------------------------------------
+    // Quotation marks
+    // Use the same fingers you would use for making air quotes.
+    // The upper row is used to mimic making the gesture up in the air
+    // and for the practical reason that WR is "where".
+    "PH": "{~|\"^}",  // open quote;  use PAEUFP for "pH"
+    "-FP": "{^~|\"}", // close quote; use TP-PL  for {.}
 
-    // Quotation marks as shapes
-    "SW": "{~|\"^}",  // open double quote
-    "-BS": "{^~|\"}", // close double quote
-    "SP": "{~|'^}",   // open single quote
-                      // - misstroke for "and"
-                      // - use upper S for shape and lower S for comfort
-    "-PT": "{^~|'}",  // close single quote
+    // -- Speech ---------------------------------------------------------------
 
     // Comma + open quote + capitalization after reporting verb
     // Precedents: SAEU/SAEU   "say, \"{^}{-|}"
