@@ -4906,6 +4906,7 @@
     "TKAOU/H-F": "dew",             // from "due"
     "TKAOUZ/H-F": "dews",
     "TKEUFBG/H-F": "disk",          // from "disc"
+    "TKOE/H-F": "doe",              // from "dough"
     "AOEUD/H-F": "eyed",            // from "I'd"
     "TKPWAEUT/H-F": "gate",         // from "gait"
     "TKPWEULT/H-F": "gilt",         // from "guilt"
@@ -4920,6 +4921,7 @@
     "SKWREUPL/H-F": "Jim",          // from "gym"
     "TPHAOEUT/H-F": "knight",       // from "night"
     "TPHAOEUTS/H-F": "knights",
+    "TPHOT/H-F": "knot",            // from "not"
     "HRAOEUPB/H-F": "lion",         // from "line"
     "HRAOEUPBZ/H-F": "lions",
     "HREUPD/H-F": "lipped",         // from "lipid"
@@ -4930,6 +4932,7 @@
     "PHORPB/H-F": "mourn",          // from "morn"
     "PHORPBG/H-F": "mourning",
     "PHORPBZ/H-F": "mourns",
+    "OR/H-F": "ore",                // from "or"
     "PAEURS/H-F": "Paris",          // from "pairs"
     "PAOES/H-F": "peace",           // from "piece"
     "TPEUL/H-F": "Phil",            // from "fill"
@@ -4945,6 +4948,7 @@
     "RAOEUS/H-F": "rise",           // from "rice"
     "RAOEUFL/H-F": "rival",         // from "rifle"
     "RAOEUFLZ/H-F": "rivals",
+    "ROED/H-F": "road",             // from "rode"
     "ROEL/H-F": "roll",             // from "role"
     "ROELZ/H-F": "rolls",
     "ROEPL/H-F": "Rome",            // from "roam"
