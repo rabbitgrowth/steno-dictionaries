@@ -3836,6 +3836,7 @@
     "TKAR/PHA": "dharma",
     "TKARPL/KWRA": "dharma",
     "KP*EL": "excel", // use *EBGS/EL for "Excel"
+    "TKPWRAPBD/PHA": "grandma", // oddly, Plover requires adding H for lowercase
     "HAL/HRAOU/KWRA": "hallelujah", // requires SKWRA by default
     "HOBT": "hobbit",
     "HO*BT": "Hobbit",
