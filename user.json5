@@ -3846,10 +3846,10 @@
     "TW*EURT": "Twitter",
     "AUP/STAEUT": "upstate",
 
-    "TKPWRAPBD/PHA": "grandma",     // requires adding H by default:
+    "TKPWRAPBD/PHA": "grandma",     // uses HR instead of R by default:
                                     //   TKPWRAPBD/PHA  "Grandma"
                                     //   TKPWHRAPBD/PHA "grandma"
-    "HAL/HRAOU/KWRA": "hallelujah", // requires adding S by default:
+    "HAL/HRAOU/KWRA": "hallelujah", // uses SKWR instead of KWR by default:
                                     //   HAL/HRAOU/KWRA  "Hallelujah"
                                     //   HAL/HRAOU/SKWRA "hallelujah"
 
