@@ -500,6 +500,7 @@
                                     // - or use the simpler but less phonetic
                                     //   PAEUT/ROT    "patriot"
                                     //   PAEURT/EUFPL "patriotism"
+    "PAOEURPB": "pioneer",
     "POERBL": "potential",
     "PHROERBL": "potentially",
     "PREFT": "protest", // give up "previous to";
@@ -1083,6 +1084,7 @@
     "SHRERBL": "essentially",
     "TPHRUL": "fully", // use TP*UL for "fundamental"
     "TPHR*UL": "fundamentally",
+    "HRORPBL": "originally",
     "PHRAOEFL": "peacefully",
     "PHRERPL": "permanently",
     "SKHROL": "psychologically",
@@ -3668,6 +3670,7 @@
     // Fold in -T for -ed if the verb already ends with -d
     // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
     "ATD": "added", // misstroke for "at"
+    "AEUTD": "aided",
     "KROUTD": "crowded",
     "TKEFTD": "defended",
     "TKPHAPBTD": "demanded", // misstroke for "demand"
