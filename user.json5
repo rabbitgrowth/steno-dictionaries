@@ -262,7 +262,6 @@
     "KHRERPBD": "calendar",
     "KAUFT": "caste",
     "KHEUBG/EPB": "chicken",
-    "SEURBGS": "circus", // use -Z for "circumstances"
     "KHRAPBD/STEUPB": "clandestine",
     "KHRAPBD/STEUPBL": "clandestinely",
     "KHRAEURPBT": "clarinet",
@@ -1836,6 +1835,13 @@
     "TKPWUPLS": "gumption", // use -Z for "gums"
     "REPLS": "redemption",  // use -Z for "recommends"
     "RUPLS": "resumption",  // use -Z for "rums"
+
+    // -BGS and -GS for -cus and -gus
+    "SEURBGS": "circus", // use -Z for "circumstances"
+    "TPOEBGS": "focus",  // use -Z for "folks"
+    "PHARBGS": "Marcus", // use -Z for "marks"
+    "HOEBGS/POEBGS": "hocus pocus",
+    "PWOEGS": "bogus",
 
     // -LG for -gle
     // Precedents: TKPWAOLG "Google", STRULG "struggle"
