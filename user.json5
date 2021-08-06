@@ -162,6 +162,8 @@
     "TPH-FBGT": "infect",       // with TPH-FRPL "inform", TPH-FPBT "infinite", etc.
     "TERPGS": "interpretation", // with TERP "interpret"
     "TWAOEPB": "intervene",     // with TWEPBGS "intervention"; use TW for "between"
+    "TRUBGS": "introduction",   // with PRUBGS "production", RUBGS "reduction", etc.
+                                //   use -Z for "trucks"
     "EUR/SEUFT/PWHREU": "irresistibly",
                                 // with EUR/SEUFT/-BL "irresistible"
     "HR-PB": "listen",          // with HR-PBG "listening"; use HR-PBS for "license"
