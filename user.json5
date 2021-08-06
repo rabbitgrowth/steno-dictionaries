@@ -376,8 +376,9 @@
 
     "SPWEUBGT": "indicate", // to KA*EUT
     "SPWEUBGD": "indicated",
-    "SPWEUBGS": "indication",
     "SPWEUGT": "indicating",
+    "SPWEUBGS": "indication",
+    "SPWEURBGT": "indicator",
 
     "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
 
@@ -3795,6 +3796,7 @@
     "STPEF": "ineffective",
     "SKWAELT": "inequality", // S+E+KWALT
     "STPORL": "informal",
+    "SREFLT": "irrelevant",
     "SKHRAOER": "unclear",
     "SK-BL": "uncomfortable",
     "SK-RBS": "unconscious",
@@ -4101,6 +4103,7 @@
     "KOURPB": "counter",   // think flap /t/; KOURPBT is {counter^}
     "KREPB": "century",    // first three letters
     "STPHUR": "ensure",    // "N-shur" (TPH + SH); overrides "insure" [1]
+    "HAEPBS": "happiness", // mashup of HAEP and -PBS
     "HA*RPL": "harmony",   // mnemonic: Jacob Collier's #IHarmYou
     "HOELT": "hotel",      // feels natural because it has all the letters
     "HO*ELT": "Hotel",
