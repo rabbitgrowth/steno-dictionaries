@@ -4103,6 +4103,11 @@
     "KOEFD/1-9": "Covid-19",
     "PRUFRP": "President Trump",
 
+    // -- Foreign languages ----------------------------------------------------
+
+    // Latin
+    "STATS/KWOE": "status quo",
+
     // -- Special rules --------------------------------------------------------
 
     "SKW": "and",          // SKP with P moved down
