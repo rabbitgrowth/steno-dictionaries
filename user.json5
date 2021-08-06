@@ -2,6 +2,8 @@
 
     // -- Skeletal briefs ------------------------------------------------------
 
+    "TU": "actual",
+    "TUL": "actually",
     "PW-RT": "better", // PWERT is "Bert" and PW*ERT is "berth"
     "PW-RPB": "better than",
     "TW": "between",
@@ -22,6 +24,8 @@
     "KP-PBGS": "explanation", // use KP-GS for "examination"
     "KP-PB/TOER": "explanatory",
     "KP-PB/TREU": "explanatory",
+    "SKWR-PB": "general",
+    "SKWR-PBL": "generally",
     "SKWR-PL": "gentleman",
     "SKWR-PLZ": "gentlemen",
     "TKPW-D": "good", // give up "good day"
