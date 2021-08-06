@@ -1685,7 +1685,7 @@
 
     // -FRD for -rsed
     // Precedents: KUFRD "cursed", TPOFRD "forced"
-    // -RSD is possible but requires Philly shift.
+    // -RSD is possible but requires the Philly shift.
     "TKWOFRD": "divorced",
     "EPB/TPOFRD": "enforced",
     "EUPL/PHEFRD": "immersed",
