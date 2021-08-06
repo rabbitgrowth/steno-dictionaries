@@ -60,6 +60,12 @@
           "RAO*EUTS": "riots",  // use THRAOEUTS for "arthritis"
           "RAO*EURT": "rioter", // much nicer than RAOEU/OT/*ER
 
+    // Normally -DZ is used for -cide (S-DZ "suicide", H-DZ "homicide")
+    // but -D is easier for inflections for a common verb like "decide".
+    "TK-D": "decide",   // give up {^ded}
+    "TK-DZ": "decides", // by default "decide"
+    "TK-TD": "decided",
+
     "-FD": "find",
     "T-FD": "find it",
     "TP-D": "found", // give up "pharmacodynamic"
