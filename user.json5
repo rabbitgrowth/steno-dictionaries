@@ -3509,6 +3509,7 @@
 
     // -o -> -oes
     "TKPW-Z": "goes",
+    "HOEURZ": "heroes",
 
     // ERZ would make a good stroke for "easier" (EZ "easy" + -R for {^er}),
     // but since ER is {^er} (custom), ERZ should be {^ers} for consistency.
