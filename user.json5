@@ -3462,7 +3462,6 @@
 
     "AULZ": "alls",      // "know-it-alls"; use AULS for "always"
     "PWURPBZ": "burns",  // use PW*URPBS for "Burns"
-    "TKPW-Z": "goes",
     "HOEPLZ": "homes",   // use HO*EPLS for "Holmes"
     "HUPBZ": "hundreds", // use 0Z for {&00}
     "HRAOEUZ": "lies",   // give up {^alize}
@@ -3496,6 +3495,9 @@
     "WAOEUFZ": "wives",
     "WOFLZ": "wolves", // cf. WOFL "wolf"
     "WOFZ": "wolves",  // cf. WOF  "wolf"
+
+    // -o -> -oes
+    "TKPW-Z": "goes",
 
     // ERZ would make a good stroke for "easier" (EZ "easy" + -R for {^er}),
     // but since ER is {^er} (custom), ERZ should be {^ers} for consistency.
