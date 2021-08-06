@@ -4918,38 +4918,12 @@
     // Strokes I don't mind giving up
     "KHROER": "clear", // just use OBG/HRAR for "ocular"
 
-    // -- Error recovery -------------------------------------------------------
+    // -- Cycling through similar-sounding words -------------------------------
 
     // Phoenix uses R-R to cycle through alternatives,
     // but that's newline in Plover already,
     // so move that up to H-F. (Use KW-PL for {?}.)
 
-    // Miscellaneous
-    "PHAEUD/H-F": "amid",           // from "maid"
-    "KOEP/H-F": "copy",             // from "cope"
-    "TPAEURL/H-F": "failure",       // from "fairly"
-    "TPEUBGS/H-F": "fiction",       // from "fix"
-    "TKPWUPB/H-F": "gun",           // from "begun"
-    "HORPB/H-F": "honor",           // from "horn"
-    "HREFT/H-F": "lest",            // from "left"
-    "HREUFT/H-F": "list",           // from "lift"
-    "HREUFTS/H-F": "lists",
-    "HRUFRPB/H-F": "lunch",         // from "lurch"
-    "PHAEPB/H-F": "mean",           // from "many"
-    "PH-PB/H-F": "mountain",        // from "machine"
-    "PH-PBZ/H-F": "mountains",
-    "ORGD/H-F": "ordering",         // from "organized"
-    "ORPBG/H-F": "organ",           // from "orange"
-    "OERPB/H-F": "other than",      // from "owner"
-    "PEUG/H-F": "picking",          // from "pig"
-    "WRAOU/H-F": "review",          // from "withdrew"
-    "REUPL/H-F": "ripple",          // from "rim"
-    "REUPLZ/H-F": "ripples",
-    "SAOEG/H-F": "seeking",         // from "seeing"
-    "SHR*EUPBG/H-F": "slink",       // from "shrink"
-    "SHR*EUPBGZ/H-F": "slinks",
-
-    // Homophones or near-homophones
     "AD/H-F": "ad",                 // from "add"
     "ADZ/H-F": "ads",
     "PWAPBD/H-F": "banned",         // from "band"
@@ -5036,65 +5010,5 @@
     "WAEUFRZ/H-F": "wavers",
     "KWROEBG/H-F": "yoke",          // from "yolk"
     "KWROEBGZ/H-F": "yokes",
-
-    // Stacking
-    "AUFL/H-F": "all of",           // from "awful"
-    "PWAUT/H-F": "because the",     // from "bought"
-    "PWEUT/H-F": "by the",          // from "bit"
-    "TKOT/H-F": "do the",           // from "dot"
-    "TKPWOT/H-F": "go to the",      // from "got"
-    "OEFRT/H-F": "over the",        // from "overt"
-
-    // When folding in -R doesn't work
-    "PWARPB/H-F": "banner",         // from "barn"
-    "PWERT/H-F": "better",          // from "Bert"
-    "HARBG/H-F": "hacker",          // from "hark"
-    "HARBGZ/H-F": "hackers",
-    "PHARPB/H-F": "manner",         // from "margin"
-    "RAOEURD/H-F": "rider",         // from "required"
-    "RURB/H-F": "rubber",           // from "rush"
-    "RURPB/H-F": "runner",          // from "return"
-    "RURPBZ/H-F": "runners",
-    "SPURT/H-F": "sputter",         // from "spurt"
-
-    // When folding in -L doesn't work
-    "PWALD/H-F": "badly",           // from "balanced"
-    "TKAOEPL/H-F": "deeply",        // from "deem"
-    "TPAOERLS/H-F": "fiercely",     // from "fearless"
-    "TPAOEUPBL/H-F": "finely",      // from "final"
-    "TAOEULT/H-F": "tightly",       // from "title"
-    "WAOEULD/H-F": "widely",        // from "wild"
-
-    // When folding in -G doesn't work
-    "TKOG/H-F": "doing",            // from "dog"
-    "ROBG/H-F": "robbing",          // from "rock"
-    "ROEG/H-F": "rowing",           // from "rogue"
-    "RUPBG/H-F": "running",         // from "rung"
-    "STRAEUPBG/H-F": "straining",   // from "strange"
-    "STUPBG/H-F": "stunning",       // from "stung"
-
-    // When folding in -D doesn't work
-    "HROUD/H-F": "allowed",         // from "loud"
-    "PWHREFD/H-F": "blessed",       // from "believed"
-    "TPAEUTD/H-F": "faded",         // from "fated"
-    "HRAOERD/H-F": "leered",        // from "leader"
-    "PROUD/H-F": "produced",        // from "proud"
-    "SAOEUTD/H-F": "sided",         // from "sighted"
-    "SOERBD/H-F": "sobered",        // from "associated"
-
-    // Forced evictions to make way for phrasing strokes
-    "AOEUPLT/H-F": "item",          // from "I'm the"      (custom)
-    "THA*UD/H-F": "thawed",         // from "that you'd"   (custom)
-    "WHABG/H-F": "whack",           // from "what can"     (custom)
-    "WHAEL/H-F": "whale",           // from "what he will" (custom)
-    "WHOR/H-F": "whore",            // from "who are"      (custom)
-
-    // Use same stroke to change to British spelling
-    "PWHAEUFR/H-F": "behaviour",
-    "KHRARPL/H-F": "clamour",
-    "TKPWRAEU/H-F": "grey",
-    "HO*RPB/H-F": "honour",
-    "TPHAEURB/H-F": "neighbour",
-    "TPHAOD/H-F": "neighbourhood",
 
 }
