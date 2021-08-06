@@ -1669,6 +1669,8 @@
     // Precedents: HRAEUFR "laser", S*EUPBT/SAOEUFR "synthesizer"
     "AP/TAOEUFR": "appetizer",
     "TPERT/HRAOEUFR": "fertilizer",
+    "PHAOEUFR": "miser",
+    "PHAOEUFRL": "miserly",
     "RA*EUFR": "razor", // starless is "racer" ("s" is default)
     "AOUFR": "user", // use AUFR for {over^}
     "WAOEUFR": "wiser",
