@@ -2165,13 +2165,9 @@
     // Nonsensical translations
     "KHEUPL": "chimney",  // "Chim"
     "AOEG": "ego",        // "eing"
-    "TPHAR": "narrow",    // "nar"
-    "TPHARL": "narrowly", // overrides "natural" [1]
     "SERBG": "secretary", // "Serbing"
     "SROD": "vodka",      // "have toed"
     "SREUG": "vigor",     // "have Iing"
-    /*1*/ "TPHARLT": "natural",    // fully phonetic
-          "TPHRARLT": "naturally", // superimpose HR for -ly
 
     // Untranslates
     "AEUPBG": "angel",
