@@ -31,27 +31,12 @@
     "TKPW-P": "group",
     "H-P": "hypothesis", // just fingerspell "HP"
     "H-PZ": "hypotheses",
-    "HR-BG": "like", // use WELG for "welcome"
-    "HR*BG": "{^like}", // use HR*PBG for "[l]ow i[nc]ome"
-    "HR-BGD": "liked",
-    "HR-BGT": "like the",
-    "HR-LG": "likely", // overrides {^ological} [1]
-    "SHR-BG": "is like",
-    "SHR-BGT": "is like the",
-    "SHR-LG": "is likely",
-    "HRAOLG": "likelihood", // HR-LG + "oo"
     "P-T": "point",   // use P-P for {^.^}
     "P-TS": "points", // use PREZ/-Z for "presidents"
     "P-FT": "point of",
     "P-FTS": "points of",
     "P-LS": "pointless",
     "PR-B": "problem",
-    "-RT": "right", // - physically stroked with the right hand
-                    // - use R-T for "are the"
-                    // - frees up RAOEUT for "rite" [2]
-    "-RLT": "rightly",
-    "TPO*RT/-RT": "forthright",
-    "TPO*RT/-RLT": "forthrightly",
     "T-G": "thing",
     /*1*/ "HR*LG": "{^ological}",
     /*2*/ "RAOEUT": "rite",
@@ -59,6 +44,17 @@
           "RAO*EUT": "riot",
           "RAO*EUTS": "riots",  // use THRAOEUTS for "arthritis"
           "RAO*EURT": "rioter", // much nicer than RAOEU/OT/*ER
+
+    "PR": "appear",     // misstroke for "from"
+    "PR-D": "appeared", // overrides "." with spaces on both sides [1]
+    "SPR": "disappear", // overrides {super^} [2]
+    /*1*/ "TP*PL": ".",
+    /*2*/ "SAUP": "{super^}", // - nicely symmetrical with SAUB {sub^}
+                              // - unlikely misstroke for {sub^}
+                              // - or use SAOUP
+
+    "ARD": "around",
+    "-RD": "round", // R-D is "ready"
 
     // Normally -DZ is used for -cide (S-DZ "suicide", H-DZ "homicide")
     // but -D is easier for inflections for a common verb like "decide".
@@ -106,16 +102,22 @@
     "TOTS": "to its",
     "W-TS": "with its",
 
-    "PR": "appear",     // misstroke for "from"
-    "PR-D": "appeared", // overrides "." with spaces on both sides [1]
-    "SPR": "disappear", // overrides {super^} [2]
-    /*1*/ "TP*PL": ".",
-    /*2*/ "SAUP": "{super^}", // - nicely symmetrical with SAUB {sub^}
-                              // - unlikely misstroke for {sub^}
-                              // - or use SAOUP
+    "HR-BG": "like", // use WELG for "welcome"
+    "HR*BG": "{^like}", // use HR*PBG for "[l]ow i[nc]ome"
+    "HR-BGD": "liked",
+    "HR-BGT": "like the",
+    "HR-LG": "likely", // overrides {^ological} [1]
+    "SHR-BG": "is like",
+    "SHR-BGT": "is like the",
+    "SHR-LG": "is likely",
+    "HRAOLG": "likelihood", // HR-LG + "oo"
 
-    "ARD": "around",
-    "-RD": "round", // R-D is "ready"
+    "-RT": "right", // - physically stroked with the right hand
+                    // - use R-T for "are the"
+                    // - frees up RAOEUT for "rite" [2]
+    "-RLT": "rightly",
+    "TPO*RT/-RT": "forthright",
+    "TPO*RT/-RLT": "forthrightly",
 
     // -- Consistency ----------------------------------------------------------
 
