@@ -1836,13 +1836,6 @@
     "REPLS": "redemption",  // use -Z for "recommends"
     "RUPLS": "resumption",  // use -Z for "rums"
 
-    // -BGS and -GS for -cus and -gus
-    "SEURBGS": "circus", // use -Z for "circumstances"
-    "TPOEBGS": "focus",  // use -Z for "folks"
-    "PHARBGS": "Marcus", // use -Z for "marks"
-    "HOEBGS/POEBGS": "hocus pocus",
-    "PWOEGS": "bogus",
-
     // -LG for -gle
     // Precedents: TKPWAOLG "Google", STRULG "struggle"
     "AOELG": "eagle",      // use SERBL for "essential"
@@ -3537,6 +3530,35 @@
     "RES/TPHAEUGS": "resignation",
     "SKHRAUS": "Santa Claus",
     "THOUS": "thousand",
+
+    // -- Opportunities opened up by using -Z for -s ---------------------------
+
+    // -PS for -pus
+    "KAFRPS": "campus", // use -Z for "camps"
+    "OEPS": "opus",     // use -Z for "opens"
+
+    // -PBS (instead of *PBS) for -nus
+    "OEPBS": "onus",      // use -Z for "owns"
+    "PWOEPBS": "bonus",   // use -Z for "bones"
+    "PHAOEUPBS": "minus", // use -Z for "mines"
+
+    // Special three-way conflicts:
+    // -S      -Z     *S
+    // genius  genes  genus
+    // tense   tens   tennis
+    // `------------' `----'
+    //     Plover     custom
+    "SKWRAO*EPBS": "genus",
+    "T*EPBS": "tennis",
+
+    // -BGS for -cus
+    "SEURBGS": "circus", // use -Z for "circumstances"
+    "TPOEBGS": "focus",  // use -Z for "folks"
+    "PHARBGS": "Marcus", // use -Z for "marks"
+    "HOEBGS/POEBGS": "hocus pocus", // but HOEBGS on its own is "hoax"
+
+    // -GS for -gus
+    "PWOEGS": "bogus",
 
     // -- Verb forms -----------------------------------------------------------
 
