@@ -353,7 +353,7 @@
     "WAOPBD": "wooden",
     "WAOPB": "wooden", // shortcut to avoid -D
     "S*ELT": "zealot",  // use SELT for "settle"
-    "S*ELS": "zealous", // use SELS for "sells"
+    "S*ELS": "zealous", // use SELZ for "sells"
     /*1*/ "STPHAT/SKWRA": "sonata", // or just use SO/TPHA/TA
 
     "APL": "apple", // overrides "am"
@@ -1898,7 +1898,7 @@
     // Precedents: TPUPBLGS "functional", STAOULGS "constitutional"
     "KAUPB/TKPWRELGS": "congressional",
     "TAOULGS": "constitutional",
-    "KWEPBLGS": "conventional", // alternative to SREPBL; use KWEFRPBS for "quenches"
+    "KWEPBLGS": "conventional", // alternative to SREPBL; use KWEFRPBZ for "quenches"
     "TKPHELGS": "dimensional",   // from TKPHEGS
     "TKPHEPBLGS": "dimensional", // from TKPHEPBGS
     "TPOUPBLGS": "foundational",
