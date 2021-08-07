@@ -468,6 +468,7 @@
     "TRAF": "attractive", // use TR-FR for "transfer"
     "AUBG": "automatic", // overrides "awk" [3]
     "PWHRAEUPBT": "blatant",
+    "KA*T/TKRAL": "cathedral",
     "KHRARBT": "collaborate",
     "KHRARBGS": "collaboration",
     "SKAOEL": "conceal", // cf. SKERT "concert", SKEPT "concept"
@@ -4128,6 +4129,7 @@
     "EU/E": "i.e.",        // just "fingerspell" it
     "HRAO*EULG": "lilac",  // *LG for "lk" with a vowel in between
     "O/ER": "o'er",        // separate into two strokes since OER is "other"
+    "PO*EUPB": "piano",    // wildcard OEU with * since POEUPB is "appoint" already
     "KW-T": "quiet",       // KWAOEUT ("quite") is too loud
     "KW-LT": "quietly",
     /*1*/ "STPH*UR": "insure",
