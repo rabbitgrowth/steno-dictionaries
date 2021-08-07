@@ -286,6 +286,7 @@
     "TKAEURPBG": "danger",     // use TKAEURG for "daring"
     "TKAEURPBGS": "dangerous", // use -Z for "dangers"
     "TKROEUD": "droid", // use STROEUD for "destroyed"
+    "EFPBS": "essence", // add * for "Evans", which works because *EFPB is "Evan"
     "KWRAOUBG/HREUP/TUS": "eucalyptus",
     "KWRAOUBG/HREUPT/US": "eucalyptus", // AOUBG/HREUPT/US with KWR in front
     "KWRAOUBG/HREUPTS": "eucalyptus",
