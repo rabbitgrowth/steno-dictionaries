@@ -3610,6 +3610,9 @@
     "KAUPB/TPEFD": "confessed",
     "KAUPB/TPEFG": "confessing",
     "TKEUPL/WEUTD": "dimwitted",
+    "EPB/TKPWROFD": "engrossed",
+    "EPB/TKPWROSZ": "engrosses",
+    "EPB/TKPWROFG": "engrossing",
     "EPB/HAFPBD": "enhanced",
     "EPB/HAPBGS": "enhancing",
     "SPWER/PRAOEUFG": "enterprising", // conflicts with "enter pricing"?
