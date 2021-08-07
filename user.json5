@@ -4467,10 +4467,11 @@
     "O*RPBT/HROPBLG/KHREU": "ornithologically",
 
     // "philosophy" family
-    "TPHROF": "philosophy",    // or use TPHROS/TPEU
-    "TPHROFR": "philosopher",  // or use TPHROS/TPER
+    "TPHROEF": "philosophy", // "flofy"; odd misstroke for "flow"
+    "TPHROFR": "philosopher",
     "TPHROFL": "philosophical",
-    "TPHROFZ": "philosophize", // or use TPHROS/TPAOEUZ
+    "TPHROFZ": "philosophize", // compare TPHROEFZ "philosophies"
+    // Or use TPHROS/TPEU, TPHROS/TPER, and TPHROS/TPAOEUZ.
 
     // "positive" and "negative"
     "POF": "positive",
