@@ -945,10 +945,11 @@
     // For -rful, use -FRL, like POUFRL "powerful".
     "KHAOEFRL": "cheerful",
     "KHROFRL": "colorful",
-    "TPAEUFLT": "fateful",
-    "TPAEUFL": "fateful",
-    "TPRAOEUFLT": "frightful",
+    "TPAEUFL": "faithful",
+    "TPAEUFLT": "fateful", // cannot omit -T
     "TPRAOEUFL": "frightful",
+    "TPRAOEUFLT": "frightful",
+    "TKPWRAEUFLS": "graceful", // cannot omit -S
     "TKPWRAEUFLT": "grateful", // cannot omit -T
     "TAEFRL": "tearful",
     "THAFL": "thankful",
