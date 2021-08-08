@@ -3637,9 +3637,8 @@
     "OP/PREFD": "oppressed",
     "OP/PRESZ": "oppresses",
     "OP/PREFG": "oppressing", // cf. OP/PREGS "oppression"
-    "OP/PREFS": "oppressive",
+    "OP/PREF": "oppressive",
     "OP/PREFR": "oppressor",
-    "OP/PRERS": "oppressor",
     "PRO/HREUF/RAEUTD": "proliferated",
     "PRO/HREUF/RAEUTS": "proliferates",
     "PRO/HREUF/RAEUGT": "proliferating",
