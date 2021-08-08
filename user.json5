@@ -1199,11 +1199,12 @@
 
     // -- Extensions -----------------------------------------------------------
 
-    // SPW for ind- and end-
-    // There is surprisingly little overlap.
-    // "indebt" is a word; "intebt" is not.
-    // "intern" is a word; "indern" is not.
-    // Of course there are exceptions: "intent", "indent".
+    // SPW for [aeiou]n[dt]-
+    // Why limit yourself to int- and ent-?
+    // SPW can be thought of as a mirror image of -PBT:
+    //     P   P T
+    //   S W   B
+    //  *nt-   -nt
     "SPWET": "indebt",
     "SPWAOED": "indeed", // beats TPHAOEPBD imo
     "SPW*EPBT": "indent", // starless is "intent" (default to int-)
@@ -1232,14 +1233,15 @@
     "SPWAOURPBS": "endurance", // cf. EPB/TKAOURPBS
     "SPWURPBS": "endurance",   // cf. EPB/TKURPBS
 
-    // SPW for ant-, ont-, and unt-
-    // Justification: "ent- or int-" isn't a mirror image of -nt; nt- is.
-    // And nt- feels like it could be extended to mean [any vowel]nt-.
+    "SPWHRAEUT": "undulate",
+    "SPWHRAEUGS": "undulation",
+
     "SPWEUBG": "antic", // and get SPWEUBGZ "antics" for free
     "SPWEUFPT": "anticipate",
     "SPWEUFPGS": "anticipation",
     "SPWAOEBG": "antique",
     "SPWHRER": "antler",
+
     "SPWAOEU": "untie",
     "SPWO": "unto",
 
