@@ -1689,6 +1689,11 @@
     // but "you are the" is too useful to give up.
     /*1*/ "PW*URT": "Burt",
 
+    // -F for -sive
+    "AOE/HRAOUF": "elusive",  // compare AOE/HRAOUGS "elusion"
+    "OB/TRAOUF": "obtrusive", //         OB/TRAOUGS "obtrusion"
+    // See also SKPEF "expensive", TKPWREF "aggressive", etc.
+
     // -FR for -ser, -zer, or even -zor
     // Precedents: HRAEUFR "laser", S*EUPBT/SAOEUFR "synthesizer"
     "AP/TAOEUFR": "appetizer",
