@@ -3619,9 +3619,6 @@
     "KAUPB/TPEFD": "confessed",
     "KAUPB/TPEFG": "confessing",
     "TKEUPL/WEUTD": "dimwitted",
-    "EPB/TKPWROFD": "engrossed",
-    "EPB/TKPWROSZ": "engrosses",
-    "EPB/TKPWROFG": "engrossing",
     "EPB/HAFPBD": "enhanced",
     "EPB/HAPBGS": "enhancing",
     "SPWER/PRAOEUFG": "enterprising", // conflicts with "enter pricing"?
@@ -3630,6 +3627,9 @@
     "ES/KHRAEUGT": "escalating",
     "TPRABG/TAOURD": "fractured",  // or use TPRAFPD
     "TPRABG/TAOURG": "fracturing", //        TPRAFPG
+    "TKPWROEFD": "grossed",  // and get EPB/TKPWROEFD "engrossed" for free
+    "TKPWROESZ": "grosses",  //         EPB/TKPWROESZ "engrosses"
+    "TKPWROEFG": "grossing", //         EPB/TKPWROEFG "engrossing"
     "SPWEUPL/TKAEUTD": "intimidated",
     "SPWEUPL/TKAEUTS": "intimidates",
     "SPWEUPL/TKAEUGT": "intimidating",
