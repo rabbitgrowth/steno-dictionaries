@@ -431,8 +431,6 @@
 
     // Use simpler vowel
     // Precedents: TREU "try", THRE "three"
-    "TUL": "actual",
-    "THRUL": "actually",
     "TKEP": "deep", // use TKEPGS for "deposition"
     "TPRE": "free", // "land of the fre and the home of the brav (PWRAF)"
     "TKPWRET": "greet", // misstroke for "get"
