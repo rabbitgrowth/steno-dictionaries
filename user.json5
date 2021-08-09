@@ -3742,6 +3742,14 @@
 
     "TPOEUG": "focusing", // FOIK "focus" -> FOIKING "focusing"
 
+    // -BGD as shortcut for -BGTD
+    // Precedents: ABGT   "act"     -> ABGD   "acted"
+    //             TPH-PT "inspect" -> TPH-PD "inspected"
+    //             SUGT   "suggest" -> SUGD   "suggested"
+    // (although SUGD probably doesn't count since SUG also works for "suggest")
+    "KPHREUBGD": "complicated",
+    "TKAEUBGD": "educated",
+
     // Fold in -T for -ed if the verb already ends with -d
     // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
     "ATD": "added", // misstroke for "at"
@@ -3777,14 +3785,6 @@
     // Irregular verbs
     "TPORBTD": "forbidden",
     "TPORBD/-D": "forbidden",
-
-    // Omit -T for ergonomics
-    // Precedents: ABGT   "act"     -> ABGD   "acted"
-    //             TPH-PT "inspect" -> TPH-PD "inspected"
-    //             SUGT   "suggest" -> SUGD   "suggested"
-    // (although SUGD probably doesn't count since SUG also works for "suggest")
-    "KPHREUBGD": "complicated",
-    "TKAEUBGD": "educated",
 
     // -- Adjective forms ------------------------------------------------------
 
