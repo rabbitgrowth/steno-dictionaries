@@ -1977,12 +1977,10 @@
     /*1*/ "W*ELT": "welt",
     /*2*/ "WO*RT": "wort",
 
-    "PHETD": "method",    // by default "meted" by accident ("met" + {^ed})
+    "PHETD": "method",    // by default "meted" by accident ("met" + {^ed});
                           // to write "meted" properly, use PHAO*ETD
-    "PHAOETD": "meted",   // ... whose * is droppable,
-                          // because "meeted" is not a word
-    "PHETSDZ": "methods", // (PHETD + -S) + -Z
-                          // can't hit -TSD without hitting -Z too
+    "PHAOETD": "meted",   // ... whose * is droppable, because "meeted" is not a word
+    "PHETSDZ": "methods", // (PHETD + -S) + -Z; can't hit -TSD without hitting -Z too
 
     // -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
