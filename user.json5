@@ -4155,6 +4155,7 @@
     "KWRAEUR": "area",     // /ˈɛːrj/
     "TA*UL": "at all",     // symmetry makes * feel nice; give up {^-tall}
     "WAU": "away",         // arbitrary
+    "SPWAR": "bizarre",    // allow dropping * for "z" because of PW in between
     "PWOEUR": "bury",      // OEU to reflect weirdness of "u" being pronounced /ɛ/
     "KR-RG": "category",   // can be thought of as "cgr" or "krgr"; also symmetrical
     "KPHOS": "cosmos",     // "s" shared between "cos" and "mos"
