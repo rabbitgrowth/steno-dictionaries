@@ -218,6 +218,7 @@
     "THOR": "thorough",         // with THORL "thoroughly"; use THORZ for "authorize"
     "TREUGS": "transmission",   // with TREUT "transmit"; use TRAPBGS for "transition"
     "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
+    "WAPBD": "wander",          // with WOPBD "wonder"; overrides "wand" [2]
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "SAEUGS": "{^isation}",     // with SA*EUGS {^ization}
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
@@ -225,6 +226,7 @@
                                // PH*ERL  "Merrill" (custom)
                                // PHEURL  "miracle" (custom)
                                // PH*EURL "Miller"
+    /*2*/ "WAUPBD": "wand",
 
     "PWROE": "borrow",     // with SROE "sorrow"; use PWRO for "borough"
     "PWROEG": "borrowing", // much nicer than PWO*ERPBG; overrides "brogue" [1]
