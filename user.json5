@@ -3747,6 +3747,8 @@
     // This doesn't always work: to one-stroke "predicted",
     // you have to use PREUBGTD, since PREUBGD is "pricked".
     "KPHREUBGD": "complicated",
+    "KEBGD": "connected",
+    "KRUBGD": "constructed",
     "TKAEUBGD": "educated",
 
     // Fold in -T for -ed if the verb already ends with -d
