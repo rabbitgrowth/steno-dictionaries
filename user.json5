@@ -13,6 +13,7 @@
     "PW*T": "both",
     "PW-L": "build",  // cf. PW-LG "building"
     "PW-LT": "built", // give up "brake light"
+    "STK-PT": "despite", // all the consonants evenly spread out
     "TK-FS": "difference",
     "TK-FT": "different",
     "KP-T": "exact",    // cf. TKRET  "direct"
