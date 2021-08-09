@@ -3743,10 +3743,9 @@
     "TPOEUG": "focusing", // FOIK "focus" -> FOIKING "focusing"
 
     // -BGD as shortcut for -BGTD
-    // Precedents: ABGT   "act"     -> ABGD   "acted"
-    //             TPH-PT "inspect" -> TPH-PD "inspected"
-    //             SUGT   "suggest" -> SUGD   "suggested"
-    // (although SUGD probably doesn't count since SUG also works for "suggest")
+    // Precedents: ABGD "acted", KREBGD "corrected", PRE/TKEUBGD "predicted"
+    // This doesn't always work: to one-stroke "predicted",
+    // you have to use PREUBGTD, since PREUBGD is "pricked".
     "KPHREUBGD": "complicated",
     "TKAEUBGD": "educated",
 
