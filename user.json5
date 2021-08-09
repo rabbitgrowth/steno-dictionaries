@@ -218,7 +218,6 @@
     "THOR": "thorough",         // with THORL "thoroughly"; use THORZ for "authorize"
     "TREUGS": "transmission",   // with TREUT "transmit"; use TRAPBGS for "transition"
     "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
-    "SRUBLT": "vulnerability",  // with SRUBL "vulnerable"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "SAEUGS": "{^isation}",     // with SA*EUGS {^ization}
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
@@ -1868,6 +1867,18 @@
     "TKPWUPLS": "gumption", // use -Z for "gums"
     "REPLS": "redemption",  // use -Z for "recommends"
     "RUPLS": "resumption",  // use -Z for "rums"
+
+    // -BLT for -ability
+    // Precedents: -BLT      {^ability}
+    //             ABLT      "ability"
+    //             STABLT    "stability"
+    //             PROBLT    "probability"
+    //             SRAEUBLT  "availability" (- -T = "available")
+    //             TKAOURBLT "durability"   (- -T = "durable")
+    //             HRAOEUBLT "liability"    (- -T = "liable")
+    //             etc.
+    "TPHEFBLT": "inevitability", // - -T = "inevitable"
+    "SRUBLT": "vulnerability",   // - -T = "vulnerable"
 
     // -LG for -gle
     // Precedents: TKPWAOLG "Google", STRULG "struggle"
