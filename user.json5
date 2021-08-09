@@ -1109,7 +1109,6 @@
     "HRORPBL": "originally",
     "PHRAOEFL": "peacefully",
     "PHRERPL": "permanently",
-    "SKHROL": "psychologically",
     "SHRAOEPLG": "seemingly",
     "SHROERBL": "socially",
     "SPHRERBL": "specially",
@@ -2125,7 +2124,6 @@
     "TPOPB": "phenomenon",      // give up "phon" (unit of loudness)
     "TPOPBS": "phenomena",
     "PREUPBL": "provisional",   // use PREUPB for "principle"
-    "SKOLGS": "psychologist",   // use -Z for "psychologies"
     "PHREUFT": "publicity",     // give up "plist"
     "REUPBD": "remind",         // like HEUPBD "behind"
     "REUPBTD": "reminded",
@@ -4483,12 +4481,6 @@
     "PHEL/KOEL": "melancholy",  // PHEL/KOL/KWREU but with "many" rule
     "PHEL/KOLG": "melancholic", // PHEPBL/KOLG    but omit -PB like "melancholy"
 
-    // "ornithology" family
-    "ORPB/THOL/SKWREU": "ornithology",
-    "ORPB/THOL/SKWREUFT": "ornithologist",
-    "O*RPBT/HROPBLG/K-L": "ornithological",
-    "O*RPBT/HROPBLG/KHREU": "ornithologically",
-
     // "philosophy" family
     "TPHROEF": "philosophy", // "flofy"; odd misstroke for "flow"
     "TPHROFR": "philosopher",
@@ -4742,6 +4734,29 @@
     "TKPHOERBGS": "democracy", // try to squeeze in all the sounds: "dmokrsy"
     "TKPHOBGS": "democracy",   // shortcut ("dmox")
     /*1*/ "TKPHEU": "{demi^}", // consistent with SPHEU {semi^}
+
+    // -- Ologies and ologists -------------------------------------------------
+
+    // ...OLG   -ology
+    // ...OLGS  -ologist  (use -Z for -ologies)
+    // .../HR-L -ological (with different stress; cf. HR-L {^logical})
+
+    "A*RPBT/POLG": "anthropology", // more phonetic *and* easier to press with -R
+    "A*RPBT/POLGS": "anthropologist",
+    "A*RPBT/HR-L": "anthropological",
+
+    "ORPB/THOLG": "ornithology", // already works
+    "ORPB/THOLGS": "ornithologist",
+    "O*RPBT/HR-L": "ornithological",
+
+    "SKOLG": "psychology", // already works
+    "SKOLGS": "psychologist",
+    "SKOL": "psychological", // already works
+    "SKHROL": "psychologically",
+
+    "SOES/KWROLG": "sociology", // already works
+    "SOES/KWROLGS": "sociologist",
+    "SOES/HR-L": "sociological", // already works
 
     // -- Fiction --------------------------------------------------------------
 
