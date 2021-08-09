@@ -517,6 +517,7 @@
     "OEFRB": "observe",       // OEB has a slight problem: OEBG is "oak"
     "OEFRBGS": "observation", // cf. KWEFRB "conserve", KWEFRBGS "conservation"
     "OP/TEUF": "operative", // OPT/EUF with a more natural break point
+    "OFRPL": "organism", // "orsm"
     "PAEURT/KWROFPL": "patriotism", // - "patriosm"
                                     // - cf. PAEURT/KWROT "patriot"
                                     // - or use the simpler but less phonetic
@@ -1011,6 +1012,7 @@
     "SWAOEUFR": "survivor",
     "SWERLT": "swelter",
     "SWEUFRT": "swifter",
+    "TA*RPBG": "tanker",
     "TAEURT": "tater",
     "THRAEURT": "translator",
     "UPB/TPERT": "unfetter",
@@ -1271,6 +1273,7 @@
     "KPWAOEUB": "imbibe",
     "KPWAOU": "imbue",
     "KPWABGT": "impact",
+    "KPWAEUR": "impair",
     "KPWARBL": "impartial",
     "KPWAEURBT": "impatient",
     "KPWAOEFP": "impeach",
@@ -3295,7 +3298,9 @@
     "SA*": "as a",
     "S*T": "as the",
     "S*EU": "as I", // give up "si"
+    "S*EUBZ": "as I say",
     "S*U": "as you",
+    "S*URP": "as you were",
     "S*UBGZ": "as you can see",
     "TPAS": "as if",
     "SPOB": "as possible",
@@ -3805,6 +3810,7 @@
     "HAOEUFT": "highest", // cf. HROEFT "lowest"; overides "heist" [1]
     "HRAOEUFT": "lightest",
     "OEFT": "oldest",
+    "KWEUFT": "quickest",
     "SHOFRT": "shortest",
     "SHRAOEUFT": "slightest",
     "SHROEFT": "slowest",
@@ -3843,6 +3849,7 @@
     "SKWAELT": "inequality", // S+E+KWALT
     "STPORL": "informal",
     "SREFLT": "irrelevant",
+    "SPWAERBL": "unbearable",
     "SKHRAOER": "unclear",
     "SK-BL": "uncomfortable",
     "SK-RBS": "unconscious",
@@ -3955,6 +3962,7 @@
     "SHR*F": "Sheriff",
     "SKWA*EUR": "Square",
     "SAO*UPB": "Sunny",
+    "SAO*UP/PHAPB": "Superman", // instead of SAOUP/PHA*PB
     "SRAO*EUS": "Vice", // as in SRAO*EUS/PR*EZ "Vice President"
 
     // Add * to *not* capitalize
