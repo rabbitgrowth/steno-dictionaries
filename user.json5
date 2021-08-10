@@ -4435,6 +4435,13 @@
     "KPREFL": "comprehensively",
     "KPREFPBS": "comprehensiveness",
 
+    // "construct" and "constrict"
+    "SKRUBGT": "construct",  // cf. SKRUBGS  "construction"
+    "SKREUBGT": "constrict", // cf. SKREUBGS "constriction"; frees up ...
+    "KREUBGT": "contradict", // instead of KR*BGT or KROEUBGT
+    "KRUF": "constructive",  // SKRUF  is "scruff"
+    "KREUF": "constrictive", // SKREUF is "sacrifice" (custom)
+
     // "critic" family
     "KREUBG": "critic",     // overrides "crick" [1]
     "KREUL": "critical",    // overrides "krill" [2]
