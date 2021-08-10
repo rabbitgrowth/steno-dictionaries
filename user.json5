@@ -4110,7 +4110,7 @@
     "TPRAEUFL": "phrasal",
     "TRAORP": "trooper",
     "WAOERG": "Uighur", // use W*R for "we're"
-    "SR*EUZ": "viz.", // = is "advise"
+    "SR*EUZ": "viz.", // - * = "advise"
     /*1*/ "AO*EF": "Eve", // use A*EF for "eave":
                           // AOEF  "eve"  AEF  "avenue"
                           // AO*EF "Eve"  A*EF "eave"
