@@ -1092,6 +1092,7 @@
     "ROEUPBL": "routinely",  // brief
     "SALD": "sadly", // overrides "salad" [4]
     "STAUFRPBL": "staunchly",
+    "STRAEUPBLG": "strangely", // use STRAEUPBG for "strange"
     "STAOUPLD": "stupidly",
     "SPRAOEUFLG": "surprisingly",
     "SWEUFLT": "swiftly",
