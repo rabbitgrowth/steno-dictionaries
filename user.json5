@@ -327,7 +327,6 @@
     "PHRAFD": "placid",
     "PHRAFLD": "placidly",
     "PROP/TKPWAPB/TKEUFT": "propagandist", // alternative to PROP/TKPWAPBD/EUFT
-    "RAOUPBS": "ruinous", // use -Z for "ruins"
     "STHRAOEUT": "satellite",
     "SKAPBLD": "scandal",
     "SERBG/TREU": "secretary",
@@ -485,7 +484,6 @@
     "TAOERGS": "deterioration",
     "TKRAPB": "dragon",
     "AOELT": "elite",
-    "TPHORPLS": "enormous", // use -Z for "norms"
     "TPHORPLT": "enormity", // misstroke for "format"
     "SKHAOU": "eschew",
     "SKHAOUL": "eschewal",
@@ -2088,8 +2086,6 @@
     "HERD": "herd",             // use HAERD for "heard", like HAER for "hear"
     "EUPB/TPHREBGS": "inflection", // "inflex" is not a word
     "SPWREBGS": "intersection", // cf. SPWREBGT "intersect"
-    "SKWRELS": "jealous",       // use -Z for "gels"
-    "SKWRAOELS": "jealousy",    // lengthen vowel for -y
     "SKWRUF": "justify",        // cf. SKWRUFGS "justification"
     "HRAED": "lady",            // use HRAOED for "lead" (even when pronounced /lɛd/)
     "HRAEDZ": "ladies",
@@ -3562,13 +3558,17 @@
     "STKAOEURS": "desirous",   // use -Z for "desires"
     "STKAFRS": "disastrous",   // use -Z for "disasters"
     "STKAFRTS": "disastrous",  // more phonetic ("dsastrs")
+    "TPHORPLS": "enormous",    // use -Z for "norms"
     "TPAOEURBS": "fibrous",    // use -Z for "fibers" [1]
     "SKWRERPBS": "generous",
     "SKWRERPBGS": "generous",  // misstroke
     "HAOURPLS": "humorous",    // use -Z for "humors"
     "TPHAOURPLS": "numerous",  // phonetic alternative to TPHAOUPLS
+    "SKWRELS": "jealous",      // use -Z for "gels"
+    "SKWRAOELS": "jealousy",
     "PO*RS": "porous",         // cf. PO*R "pore" (POR is "pour" and POUR is "power")
     "PORS": "porous",          // allow dropping * since "pourous" is not a word
+    "RAOUPBS": "ruinous",      // use -Z for "ruins"
     "TREFPS": "treacherous",
     "TREFRPS": "treacherous",  // more phonetic ("trechs")
     /*1*/ "TPAOEURBZ": "fibers", // by default "patients to" (mashup of PAEURBZ and TO)
