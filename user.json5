@@ -308,7 +308,6 @@
     "TKPWRAEUFT": "gravity", // consistent with TKPWRAEUF "grave"; TKPWRAFT is "graft"
     "HA*RT": "hearth", // give up "Hart"
     "HAOURBS": "hubris",
-    "HUPLS": "hummus", // use -Z for "hums"
     "EUFRPB": "inch", // use TPRAEUPB for {^infra}
     "SPWREUBGT": "intricate",
     "PHAOED/KWRORBGT": "mediocrity",
@@ -3590,32 +3589,24 @@
 
     // -- Opportunities opened up by using -Z for -s ---------------------------
 
-    // -PS for -pus
-    "KAFRPS": "campus", // use -Z for "camps"
-    "OEPS": "opus",     // use -Z for "opens"
-
-    // -PBS (instead of *PBS) for -nus
-    "OEPBS": "onus",      // use -Z for "owns"
+    "PWOEGS": "bogus",
     "PWOEPBS": "bonus",   // use -Z for "bones"
+    "KAFRPS": "campus",   // use -Z for "camps"
+    "SEURBGS": "circus",  // use -Z for "circumstances"
+    "TPOEBGS": "focus",   // use -Z for "folks"
+    "HUPLS": "hummus",    // use -Z for "hums"
+    "PHARBGS": "Marcus",  // use -Z for "marks"
     "PHAOEUPBS": "minus", // use -Z for "mines"
+    "OEPBS": "onus",      // use -Z for "owns"
+    "OEPS": "opus",       // use -Z for "opens"
+    // Plover already uses -PBS for -nus but requires *:
+    // PWO*EPBS "bonus", PHAO*EUPBS "minus", O*EPBS "onus"
 
-    // Special three-way conflicts:
-    // -S      -Z     *S
-    // genius  genes  genus
-    // tense   tens   tennis
-    // `------------' `----'
-    //     Plover     custom
-    "SKWRAO*EPBS": "genus",
-    "T*EPBS": "tennis",
-
-    // -BGS for -cus
-    "SEURBGS": "circus", // use -Z for "circumstances"
-    "TPOEBGS": "focus",  // use -Z for "folks"
-    "PHARBGS": "Marcus", // use -Z for "marks"
     "HOEBGS/POEBGS": "hocus pocus", // but HOEBGS on its own is "hoax"
 
-    // -GS for -gus
-    "PWOEGS": "bogus",
+    // Use *S for special three-way conflicts
+    "SKWRAO*EPBS": "genus", // with -S "genius", -Z "genes"
+    "T*EPBS": "tennis",     // with -S "tense",  -Z "tens"
 
     // -- Verb forms -----------------------------------------------------------
 
