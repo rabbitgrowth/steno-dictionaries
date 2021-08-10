@@ -3557,20 +3557,18 @@
     // -- Opportunities opened up by using -Z for -s ---------------------------
 
     // -S for -ous
-    // This would cause conflicts if I used -S for -s:
-    //   TKAEURPBGS "dangers" vs "dangerous"
-    //   TPAOEURBS  "fibers"  vs "fibrous"
-    //   HAOURPLS   "humors"  vs "humorous"
-    //   REURGS     "rigors"  vs "rigorous"
-    //   PO*RS      "pores"   vs "porous"
     "SREPBGS": "adventurous",  // use -Z for "adventures"
     "SRERPBGS": "adventurous", // more phonetic ("venjrs")
     "STKAOEURS": "desirous",   // use -Z for "desires"
     "STKAFRS": "disastrous",   // use -Z for "disasters"
     "STKAFRTS": "disastrous",  // more phonetic ("dsastrs")
+    "TPAOEURBS": "fibrous",    // use -Z for "fibers"
     "SKWRERPBS": "generous",
     "SKWRERPBGS": "generous",  // misstroke
+    "HAOURPLS": "humorous",    // use -Z for "humors"
     "TPHAOURPLS": "numerous",  // phonetic alternative to TPHAOUPLS
+    "PO*RS": "porous",         // cf. PO*R "pore" (POR is "pour" and POUR is "power")
+    "PORS": "porous",          // allow dropping * since "pourous" is not a word
     "TREFPS": "treacherous",
     "TREFRPS": "treacherous",  // more phonetic ("trechs")
 
