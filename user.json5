@@ -3567,12 +3567,12 @@
     "SRERPBGS": "adventurous", // more phonetic ("venjrs")
     "STKAOEURS": "desirous",   // use -Z for "desires"
     "STKAFRS": "disastrous",   // use -Z for "disasters"
-    "STKAFRTS": "disastrous",  // phonetic ("dsastrs")
+    "STKAFRTS": "disastrous",  // more phonetic ("dsastrs")
     "SKWRERPBS": "generous",
     "SKWRERPBGS": "generous",  // misstroke
     "TPHAOURPLS": "numerous",  // phonetic alternative to TPHAOUPLS
-    "TREFRPS": "treacherous",
-    "TREFPS": "treacherous",   // omit -R
+    "TREFPS": "treacherous",
+    "TREFRPS": "treacherous",  // more phonetic ("trechs")
 
     "KHRARPL": "clamor",
     "KHRARPLS": "clamorous",
