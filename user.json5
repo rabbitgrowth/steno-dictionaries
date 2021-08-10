@@ -263,7 +263,7 @@
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES and ABG/SEU
     "APBLG/TEUF": "adjective",
     "APBLG/TAOEUFL": "adjectival",
-    "A*PLZ": "Alps", // starless is "apples"
+    "A*PLZ": "Alps", // - * = "apples"
     "ARPB/KEU": "anarchy",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEUFPL": "anarchism",
@@ -347,14 +347,14 @@
     "TAOEPBG": "teenage",
     "TAOERPBG": "teenager",
     "T*EPBT": "tenth", // use EPBT/TEU for "entity"
-    "T*ERS": "terrace", // starless is "terse"
+    "T*ERS": "terrace", // - * = "terse"
     "TRAOEFPB": "treason",
     "TRAOEFPBS": "treasonous",
     "TROEL": "troll", // use PROL for "patrol"
     "TPHULT": "tumult", // instead of TUPLT so that the stress is right
                         // in TPHULT/WOUS "tumultuous" ("tumult" + {^uous})
     "SRAPBL/TAOEUPB": "valentine",
-    "SRAO*EUPBL": "violin", // starless is "vinyl"
+    "SRAO*EUPBL": "violin", // - * = "vinyl"
     "SRURLG": "vulgar",
     "WAOERPBS": "weariness",
     "WAOPBD": "wooden",
@@ -480,7 +480,7 @@
     "KHRARBGS": "collaboration",
     "SKAOEL": "conceal", // cf. SKERT "concert", SKEPT "concept"
                          // (different stress though)
-    "KPRA*EUPBS": "contemporaneous", // KPRA*EURPBS - -R; starless is "extraneous"
+    "KPRA*EUPBS": "contemporaneous", // KPRA*EURPBS - -R; - * = "extraneous"
     "KURPB": "curtain",
     "TKHRAOEUPB": "deadline", // use PHEUD/HRAOEUPB for "midline"
     "TKAOEFT": "defeat", // use TKEFBGT for "defect"
@@ -994,7 +994,7 @@
     "HEURPBTD": "hindered",
     "HEURPBGD": "hindering",
     "EUPB/KRAOEURT": "inciter",
-    "HR*EURBG": "liquor", // starless is "lyric"
+    "HR*EURBG": "liquor", // - * = "lyric"
     "HROURPBG": "lounger",
     "PHAOERG": "meager",
     "PHAOERPBD": "meander",
@@ -1218,7 +1218,7 @@
     //  *nt-   -nt
     "SPWET": "indebt",
     "SPWAOED": "indeed", // beats TPHAOEPBD imo
-    "SPW*EPBT": "indent", // starless is "intent" (default to int-)
+    "SPW*EPBT": "indent", // - * = "intent" (default to int-)
     "SPWEBGS": "index", // beats TKEUPBGS imo
     "SPWAOEUT": "indict",
     "SPWAOEUPLT": "indictment",
@@ -1654,10 +1654,10 @@
     /*1*/ "TPO*EUR": "foyer",
 
     // OEUD for -dio, -dia (and other vaguely media-related words)
-    // Precedents: O*EUD   "audio" (starless is {^oid})
-    //             SRO*EUD "video" (starless is "void")
-    //             ROEUD   "radio" (starred is {radio^})
-    //             PHO*EUD "media" (star is droppable)
+    // Precedents: O*EUD   "audio" (- * = {^oid})
+    //             SRO*EUD "video" (- * = "void")
+    //             ROEUD   "radio" (+ * = {radio^})
+    //             PHO*EUD "media" (* is droppable)
     // OEU is just a general wildcard, but these words feel like
     // a family, probably because they all have to do with media.
     "SOEUPB": "cinema",
@@ -1712,7 +1712,7 @@
     "TPERT/HRAOEUFR": "fertilizer",
     "PHAOEUFR": "miser",
     "PHAOEUFRL": "miserly",
-    "RA*EUFR": "razor", // starless is "racer" ("s" is default)
+    "RA*EUFR": "razor", // - * = "racer" (default to "s")
     "AOUFR": "user", // use AUFR for {over^}
     "WAOEUFR": "wiser",
 
@@ -1773,7 +1773,7 @@
     "WHOEFPL": "wholesome",
 
     // -RB for -sure
-    // Precedents: PRERB "pressure", PH*ERB "measure" (starless is "mesh")
+    // Precedents: PRERB "pressure", PH*ERB "measure" (- * = "mesh")
     "KHROERB": "closure", // and get EPB/KHROERB "enclosure" for free
     "KPOERB": "composure",
     "AOE/RAEURB": "erasure",
@@ -1859,8 +1859,8 @@
     "OEPBLD": "olden", // OEPB is "own"
 
     // -PBG for -gan
-    // Precedent: O*RPBG "organ" (starless is "orange")
-    "PA*EUPBG": "pagan",  // starless is "painting"
+    // Precedent: O*RPBG "organ" (- * = "orange")
+    "PA*EUPBG": "pagan",  // - * = "painting"
     "SHROEPBG": "slogan", // use SHROEG for "slowing" and SHRO*PBGS for "so long as"
     "SRAOEPBG": "vegan",
 
@@ -2090,7 +2090,7 @@
     //   THAT "that the"  WHAT "what the"
     "PWUPBL": "bundle",     // already works
     "PWUPBLD": "bundled",   // by default also "bundle"
-    "PW*UPBLG": "bundling", // starless is "budge"
+    "PW*UPBLG": "bundling", // - * = "budge"
     "PWUPBLG/H-F": "bundling",
     "TKWEUPBL": "dwindle",
     "TPOPBL": "fondle", // use TPA*L or TPO*PBL for "phenomenal"
@@ -2099,7 +2099,7 @@
     "KEUPBL": "kindle",
     "SWEUPBL": "swindle",
     "TRUPBL": "trundle",     // misstroke for "trouble"
-    "TR*UPBLG": "trundling", // starless is "trudge"
+    "TR*UPBLG": "trundling", // - * = "trudge"
     "TRUPBLG/H-F": "trundling",
     // An exception to this exception: KAPBLD "candle". Why not KAPBL?
     // 1) KAPBL is by default the only way to stroke "canal",
@@ -3890,7 +3890,7 @@
     "AS/EUPL/OF": "Asimov", // AS/PHOF is "as move"
                             // ("he couldn't so much as move a finger")
     "PWAEUT/SREPB": "Beethoven",
-    "PWAO*EUPBD": "Biden", // starless is "bind"
+    "PWAO*EUPBD": "Biden", // - * = "bind"
     "PWOEB": "Bobby",
     "TKEFPLD": "Desmond",
     "TPRAOED/REUFP": "Friedrich",
@@ -3903,7 +3903,7 @@
     "POPL/PAEU/KWROE": "Pompeo", // cf. TKPWAL/HRAEU/KWROE "Galileo"
     "RORPBLG": "Roger",
     "SPWAGS": "Sebastian", // cf. KREUGS "Christian"
-    "STA*PBL": "Stalin", // starless is "substantial"
+    "STA*PBL": "Stalin", // - * = "substantial"
     "WEUL/HEPL": "Wilhelm",
     "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
 
@@ -4111,15 +4111,15 @@
     "ART/SEU/TPART/SEU": "artsy-fartsy",
     "TKO/TKO": "dodo",
     "TKOE/TKOE": "dodo",
-    "TKO*PB": "don", // starless is "done"; prepend KPA* for "Don"
-    "TKO*U": "Dow", // starless is "do you"
+    "TKO*PB": "don", // - * = "done"; prepend KPA for "Don"
+    "TKO*U": "Dow", // - * = "do you"
     "AOEF": "eve", // overrides "Eve" [1]
-    "KEPB": "ken", // add * for "Ken"
+    "KEPB": "ken", // + * = "Ken"
     "HRAO*EUT": "lithe", // give up "lite"
     "TPRAEUFL": "phrasal",
     "TRAORP": "trooper",
     "WAOERG": "Uighur", // use W*R for "we're"
-    "SR*EUZ": "viz.", // starless is "advise"
+    "SR*EUZ": "viz.", // = is "advise"
     /*1*/ "AO*EF": "Eve", // use A*EF for "eave":
                           // AOEF  "eve"  AEF  "avenue"
                           // AO*EF "Eve"  A*EF "eave"
@@ -4366,7 +4366,7 @@
     "W*UPBS": "oneself",  // use WUPB/AES for "one's"
     "O*URS": "ourselves", // "ourself" is too rare
     "OUR/SEFL": "ourself",
-    "TH*EPLS": "themself", // starless is "themselves"
+    "TH*EPLS": "themself", // - * = "themselves"
     "THAO*EUS": "thyself",
     "SEFL": "self", // since all possibilities have been exhausted
                     // ("myself", "yourself", ... and even "thyself"),
