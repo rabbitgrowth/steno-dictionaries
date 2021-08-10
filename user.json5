@@ -14,6 +14,7 @@
     "PW-L": "build",  // cf. PW-LG "building"
     "PW-LT": "built", // give up "brake light"
     "STK-PT": "despite", // all the consonants evenly spread out
+    "TK-F": "detective", // give up "def" (for programming?)
     "TK-FS": "difference",
     "TK-FT": "different",
     "KP-T": "exact",    // cf. TKRET  "direct"
@@ -37,6 +38,7 @@
     "TKPW-P": "group",
     "H-P": "hypothesis", // just fingerspell "HP"
     "H-PZ": "hypotheses",
+    "OL": "only",
     "P-T": "point",   // use P-P for {^.^}
     "P-TS": "points", // use PREZ/-Z for "presidents"
     "P-FT": "point of",
@@ -222,6 +224,7 @@
     "WAPBD": "wander",          // with WOPBD "wonder"; overrides "wand" [2]
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "SAEUGS": "{^isation}",     // with SA*EUGS {^ization}
+    "O*UR": "{^our}",           // with O*R {^or}
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
     /*1*/ "PH*ERL": "Merrill", // PHERL   "Meryl"
                                // PH*ERL  "Merrill" (custom)
@@ -497,6 +500,7 @@
     "TPREFT": "forest", // would be TPOFRT (forst) if "foster" (fostr) wasn't a word
     "TKPWARPB": "garden",
     "TKPWREURPB": "grandchildren", // or just use TKPWR-PB
+    "HAOUR/ST-BG": "heuristic", // cf. ST-BG {^istic}
     "HEUPB": "hidden",
     "HOLD": "holiday", // use HOELD for "hold"
     "HOLDZ": "holidays",
@@ -516,6 +520,7 @@
     "OEFRBGS": "observation", // cf. KWEFRB "conserve", KWEFRBGS "conservation"
     "OP/TEUF": "operative", // OPT/EUF with a more natural break point
     "OFRPL": "organism", // "orsm"
+    "PRABL": "parabola",
     "PAEURT/KWROFPL": "patriotism", // - "patriosm"
                                     // - cf. PAEURT/KWROT "patriot"
                                     // - or use the simpler but less phonetic
@@ -962,6 +967,7 @@
     "APBLG/TAEURT": "agitator",
     "APB/PHAEURT": "animator",
     "A/TARBG": "attacker",
+    "PWHRARB": "blabber",
     "PWHRAOERBG": "bleaker", // cf. PWAOERBG "beaker"
     "PWHRURPBD": "blunder",
     "KHARLG": "challenger",
@@ -971,6 +977,7 @@
     "KAUPB/SAOERL": "concealer",
     "TKERT": "debtor",
     "STKRAEURT": "demonstrator",
+    "TKEURG": "digger",
     "TKRAERPL": "dreamer",
     "TKRAOERPL": "dreamer",
     "TKREFR": "dresser",
@@ -991,6 +998,7 @@
     "HROURPBG": "lounger",
     "PHAOERG": "meager",
     "PHAOERPBD": "meander",
+    "TPH*ERT": "nether",
     "PAEURPBT": "painter", // use PARPBT for "parent"
     "PAEURPBTS": "painters",
     "POEUL/EFRT": "polyester", // EFRT is normally "effort" but "polyeffort" is not a word
@@ -4159,6 +4167,7 @@
     "KPHOS": "cosmos",     // "s" shared between "cos" and "mos"
     "KOURPB": "counter",   // think flap /t/; KOURPBT is {counter^}
     "KREPB": "century",    // first three letters
+    "KWOEBG": "echo",      // left side ("qo"?) "echoing" the right side visually
     "STPHUR": "ensure",    // "N-shur" (TPH + SH); overrides "insure" [1]
     "HAEPBS": "happiness", // mashup of HAEP and -PBS
     "HA*RPL": "harmony",   // mnemonic: Jacob Collier's #IHarmYou
@@ -5033,6 +5042,8 @@
     "PHORPBG/H-F": "mourning",
     "PHORPBZ/H-F": "mourns",
     "OR/H-F": "ore",                // from "or"
+    "PAEUPB/H-F": "pane",           // from "pain"
+    "PAEUPBZ/H-F": "panes",
     "PAEURS/H-F": "Paris",          // from "pairs"
     "PAOES/H-F": "peace",           // from "piece"
     "TPEUL/H-F": "Phil",            // from "fill"
