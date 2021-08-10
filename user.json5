@@ -304,6 +304,8 @@
     "TPREUFLT": "frivolity",
     "TPREU/SROLT": "frivolity",
     "TPREUFLS": "frivolous", // TPREUF/HROUS already works
+    "TKPWAPBLT": "gallant",
+    "TKPWAL/APBT": "gallant",
     "TKPWRAEUFT": "gravity", // consistent with TKPWRAEUF "grave"; TKPWRAFT is "graft"
     "HA*RT": "hearth", // give up "Hart"
     "HAOURBS": "hubris",
@@ -1019,6 +1021,7 @@
     "TA*RPBG": "tanker",
     "TAEURT": "tater",
     "THRAEURT": "translator",
+    "TRAORP": "trooper",
     "UPB/TPERT": "unfetter",
     "WAEURPBLG": "wager",
     "WAURBG": "walker", // overrides "Washington, D.C."
@@ -4094,11 +4097,7 @@
 
     // -- Vocabulary -----------------------------------------------------------
 
-    // Words that should have more strokes
-    "TKPWAL/APBT": "gallant",
-    "TKPWAPBLT": "gallant",
-
-    // Words that are completely missing
+    // Missing words
     "ART/SEU/TPART/SEU": "artsy-fartsy",
     "TKO/TKO": "dodo",
     "TKOE/TKOE": "dodo",
@@ -4108,7 +4107,6 @@
     "KEPB": "ken", // + * = "Ken"
     "HRAO*EUT": "lithe", // give up "lite"
     "TPRAEUFL": "phrasal",
-    "TRAORP": "trooper",
     "WAOERG": "Uighur", // use W*R for "we're"
     "SR*EUZ": "viz.", // - * = "advise"
     "W*URT": "wuther", // "Wuthering Heights"
