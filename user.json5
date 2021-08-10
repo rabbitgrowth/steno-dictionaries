@@ -3562,7 +3562,7 @@
     "STKAOEURS": "desirous",   // use -Z for "desires"
     "STKAFRS": "disastrous",   // use -Z for "disasters"
     "STKAFRTS": "disastrous",  // more phonetic ("dsastrs")
-    "TPAOEURBS": "fibrous",    // use -Z for "fibers"
+    "TPAOEURBS": "fibrous",    // use -Z for "fibers" [1]
     "SKWRERPBS": "generous",
     "SKWRERPBGS": "generous",  // misstroke
     "HAOURPLS": "humorous",    // use -Z for "humors"
@@ -3571,6 +3571,7 @@
     "PORS": "porous",          // allow dropping * since "pourous" is not a word
     "TREFPS": "treacherous",
     "TREFRPS": "treacherous",  // more phonetic ("trechs")
+    /*1*/ "TPAOEURBZ": "fibers", // by default "patients to" (mashup of PAEURBZ and TO)
 
     "KHRARPL": "clamor",
     "KHRARPLS": "clamorous",
