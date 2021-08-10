@@ -290,8 +290,6 @@
     "KOFPB/TKAPBT": "confidant",
     "KOFPB/TKA*PBT": "confidante",
     "KAUPB/STAPBS/KWREU": "constancy", // or use STAPBT/SEU ("constant" + {^cy})
-    "TKAEURPBG": "danger",     // use TKAEURG for "daring"
-    "TKAEURPBGS": "dangerous", // use -Z for "dangers"
     "TKROEUD": "droid", // use STROEUD for "destroyed"
     "EFPBS": "essence", // add * for "Evans", which works because *EFPB is "Evan"
     "KWRAOUBG/HREUP/TUS": "eucalyptus",
@@ -1791,37 +1789,6 @@
     "W*EURT": "wither",
     "S*EURT": "zither", // double *: one for "z", one for "th"
     "SPHO*RT": "smother",
-
-    // -RS for -rous
-    // This would cause conflicts if I used -S for -s:
-    //   TKAEURPBGS "dangers" vs "dangerous"
-    //   TPAOEURBS  "fibers"  vs "fibrous"
-    //   HAOURPLS   "humors"  vs "humorous"
-    //   REURGS     "rigors"  vs "rigorous"
-    //   PO*RS      "pores"   vs "porous"
-    "SREPBGS": "adventurous",  // use -Z for "adventures"
-    "SRERPBGS": "adventurous", // more phonetic ("venjrs")
-    "STKAOEURS": "desirous",   // use -Z for "desires"
-    "STKAFRS": "disastrous",   // use -Z for "disasters"
-    "STKAFRTS": "disastrous",  // phonetic ("dsastrs")
-    "SKWRERPBS": "generous",
-    "SKWRERPBGS": "generous",  // misstroke
-    "TPHAOURPLS": "numerous",  // phonetic alternative to TPHAOUPLS
-    "TREFRPS": "treacherous",
-    "TREFPS": "treacherous",   // omit -R
-
-    "KHRARPL": "clamor",
-    "KHRARPLS": "clamorous",
-    "KHRAPL/ROUS": "clamorous", // cf. TKPWHRAPL/ROUS "glamorous"
-
-    "TKPWHRARPL": "glamor",
-    "TKPWHRARPLS": "glamorous",
-
-    "REURG": "rigor",
-    "REURGS": "rigorous",
-
-    "SREURG": "vigor",
-    "SREURGS": "vigorous",
 
     // -PBG for -nct
     // Precedents: TKEUS/TEUPBG "distinct" (can be briefed to STKEUPBG)
@@ -3589,6 +3556,41 @@
 
     // -- Opportunities opened up by using -Z for -s ---------------------------
 
+    // -S for -ous
+    // This would cause conflicts if I used -S for -s:
+    //   TKAEURPBGS "dangers" vs "dangerous"
+    //   TPAOEURBS  "fibers"  vs "fibrous"
+    //   HAOURPLS   "humors"  vs "humorous"
+    //   REURGS     "rigors"  vs "rigorous"
+    //   PO*RS      "pores"   vs "porous"
+    "SREPBGS": "adventurous",  // use -Z for "adventures"
+    "SRERPBGS": "adventurous", // more phonetic ("venjrs")
+    "STKAOEURS": "desirous",   // use -Z for "desires"
+    "STKAFRS": "disastrous",   // use -Z for "disasters"
+    "STKAFRTS": "disastrous",  // phonetic ("dsastrs")
+    "SKWRERPBS": "generous",
+    "SKWRERPBGS": "generous",  // misstroke
+    "TPHAOURPLS": "numerous",  // phonetic alternative to TPHAOUPLS
+    "TREFRPS": "treacherous",
+    "TREFPS": "treacherous",   // omit -R
+
+    "KHRARPL": "clamor",
+    "KHRARPLS": "clamorous",
+    "KHRAPL/ROUS": "clamorous", // cf. TKPWHRAPL/ROUS "glamorous"
+
+    "TKAEURPBG": "danger",     // use TKAEURG for "daring"
+    "TKAEURPBGS": "dangerous", // use -Z for "dangers"
+
+    "TKPWHRARPL": "glamor",
+    "TKPWHRARPLS": "glamorous",
+
+    "REURG": "rigor",
+    "REURGS": "rigorous",
+
+    "SREURG": "vigor",
+    "SREURGS": "vigorous",
+
+    // -S for -us
     "PWOEGS": "bogus",
     "PWOEPBS": "bonus",   // use -Z for "bones"
     "KAFRPS": "campus",   // use -Z for "camps"
