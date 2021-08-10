@@ -3574,20 +3574,16 @@
     /*1*/ "TPAOEURBZ": "fibers", // by default "patients to" (mashup of PAEURBZ and TO)
 
     "KHRARPL": "clamor",
-    "KHRARPLS": "clamorous",
+    "KHRARPLS": "clamorous",    // use -Z for "clamors"
     "KHRAPL/ROUS": "clamorous", // cf. TKPWHRAPL/ROUS "glamorous"
-
-    "TKAEURPBG": "danger",     // use TKAEURG for "daring"
-    "TKAEURPBGS": "dangerous", // use -Z for "dangers"
-
+    "TKAEURPBG": "danger",      // use TKAEURG for "daring"
+    "TKAEURPBGS": "dangerous",  // use -Z for "dangers"
     "TKPWHRARPL": "glamor",
-    "TKPWHRARPLS": "glamorous",
-
+    "TKPWHRARPLS": "glamorous", // use -Z for "glamors"
     "REURG": "rigor",
-    "REURGS": "rigorous",
-
+    "REURGS": "rigorous",       // use -Z for "rigors"
     "SREURG": "vigor",
-    "SREURGS": "vigorous",
+    "SREURGS": "vigorous",      // use -Z for "vigors"
 
     // -S for -us
     "PWOEGS": "bogus",
