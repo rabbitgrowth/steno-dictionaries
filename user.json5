@@ -514,6 +514,7 @@
     "HRAOEUFPL": "lifetime", // "lifem"; TPHRAOEUPL "flime" doesn't make sense to me
     "PHELG": "medical", // "mecal"
     "PHEUL/SHA": "militia",
+    "PHOFT": "modest", // use PHOEFT for "most"
     "PHAOUFL": "musical",
     "TPHOUDZ": "nowadays",
     "OEFRB": "observe",       // OEB has a slight problem: OEBG is "oak"
