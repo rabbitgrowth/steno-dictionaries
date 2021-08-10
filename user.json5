@@ -469,6 +469,7 @@
     "PHREUBGS": "application", // use -Z for "politics" [1]
     "STORB": "astonish",
     "STORBG": "astonishing", // overrides "stork" [2]
+    "STORBLG": "astonishingly",
     "TRAF": "attractive", // use TR-FR for "transfer"
     "AUBG": "automatic", // overrides "awk" [3]
     "PWHRAEUPBT": "blatant",
