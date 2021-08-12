@@ -318,6 +318,7 @@
     "PHES/PHRAOEUZ": "mesmerize",
     "PHES/PHRAOEUFD": "mesmerized",
     "PHES/PHRAOEUFG": "mesmerizing",
+    "PHEFRPBG": "messenger", // "mesnjr"; alternative to PHAEPBG
     "PHRAL": "morale", // use PHORL for "moral"
     "PHAOUFPL": "mutual",
     "TPHAFPBT": "nascent",
@@ -939,6 +940,7 @@
     "SWOU": "avow",     // SRAOU is "view"
     "SWOUL": "avowal",  // SRAOUL is "value"
     "SWAEUBG": "awake",
+    "SWOEBG": "awoke",
     /*1*/ "SHRO*EPB": "Sloan",
 
     // Fold in -FL for -ful
@@ -3711,6 +3713,7 @@
     "PHREUFG": "policing",
     "RAEUPLD": "remained",   // overrides "Raymond" [1]
     "SAOEGZ": "seizing",
+    "SOERBD": "sobered",     // use SOERBTD for "associated"
     "SOERBG": "sobering",    // give up "social work"
     "SKAOEGD": "succeeding",
     "TAOEFD": "teased",
