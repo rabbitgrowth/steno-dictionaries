@@ -3852,7 +3852,6 @@
     "STPEF": "ineffective",
     "SKWAELT": "inequality", // S+E+KWALT
     "STPORL": "informal",
-    "SREFLT": "irrelevant",
     "SPWAERBL": "unbearable",
     "SKHRAOER": "unclear",
     "SK-BL": "uncomfortable",
@@ -4525,6 +4524,12 @@
     "TPHRET": "reflect", // misstroke for "net"
     "TPHREGS": "reflection",
     "TPHREF": "reflective",
+
+    // "relevant" family
+    "REFLT": "relevant",  // already works
+    "REFLS": "relevance", // use -Z for "revels"
+    "SREFLT": "irrelevant",
+    "SREFLS": "irrelevance", // use -Z for "vessels"
 
     // "simple" family
     "SEUFRPL": "simple", // already works
