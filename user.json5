@@ -153,6 +153,9 @@
                                 //   (TKR-BT and TKR-BGS are nice briefy alternatives)
     "ERLD": "elder",            // with OERLD "older"; overrides "elderly"
     "HRERLD": "elderly",
+    "SPWRAEUPB": "entertain",   // with SPWRAEUPBG "entertaining"; use EPB/TRAEUPB for "entrain"
+    "SPWRAEURPB": "entertainer",
+    "SPWRAEUPLT": "entertainment",
     "THUFT": "enthusiast",      // with THUFPL "enthusiasm"
     "THUFBG": "enthusiastic",
     "KPES/EUF": "excessive",    // with KPES/EUFL "excessively"
@@ -4464,13 +4467,6 @@
     "TKPHEUF": "dismissive",
     "TKPHEUFL": "dismissal",
     "TKPHEUFG": "dismissing",
-
-    // "entertain" family
-    "SPWER/TAEUPB": "entertain", // already works
-    "SPWER/TAEUPBD": "entertained", // conflicts with "enter contained"?
-                                    // ("the data I was trying to enter contained...")
-    "SPWER/TAEURPB": "entertainer",
-    "SPWER/TAEUPLT": "entertainment", // or just use TAEUPLT
 
     // "err" family
     "*ER": "err",      // use ER (custom) for {^er}
