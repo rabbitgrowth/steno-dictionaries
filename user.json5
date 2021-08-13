@@ -4619,13 +4619,6 @@
     "KAUPB/TPHRAEUTD": "conflated",
     "KAUPBT/PHRAEUGS": "contemplation",
 
-    // "fig" vs "figure" vs "fission"
-    "TPEUG": "figure",   // already works
-    "TPEUGZ": "figures", // by default "figs"
-    "TP*EUG": "fig",     // already works
-    "TP*EUGZ": "figs",   // by default "fission"
-    "TPEUGS": "fission", // by default "figures"
-
     // "logic" vs "magic"
     "SKWREUBG": "logic",   // overrides "magic"
     "SKWREULG": "logical", // "gical"
@@ -4673,6 +4666,15 @@
     // KRAOUZ   "crews"
     "PWRAOUS": "bruise",
     "PWRAOUZ": "brews",
+
+    // TPEUG   "figure"
+    // TPEUGZ  "figs"    -> "figures"
+    // TP*EUG  "fig"
+    // TP*EUGZ "fission" -> "figs"
+    // TPEUGS  "figures" -> "fission"
+    "TPEUGZ": "figures",
+    "TP*EUGZ": "figs",
+    "TPEUGS": "fission",
 
     // PHAS   "mass"
     // PHASZ  "mass"    -> "masses"
