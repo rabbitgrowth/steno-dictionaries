@@ -1885,7 +1885,6 @@
     "APB/SKWRELG": "angelic",
     "HAOEU/TKRAULG": "hydraulic",
     "HAOEURP/PWOLG": "hyperbolic",
-    "AOEU/TKEULG": "idyllic",
     "SAOEUBG/TKELG": "psychedelic",
     "WORBG/HOLG": "workaholic",
 
@@ -4490,6 +4489,13 @@
     // TPERGT and TPORGT are nicely symmetrical, but TPERGT on its own
     // might feel a little weird. So allow dropping the E:
     "TP-RGT": "forget", // TP-R "for" + -GT "get" (stacking form)
+
+    // "idyll" family
+    "EUD/-L": "idyll", // not to be confused with EULD "ideal" (custom)
+    "TKHREUBG": "idyllic", // overrides "dyslexic" [1]
+    "AOEU/TKEULG": "idyllic",
+    /*1*/ "TKHREFBG": "dyslexic",
+          "TKHREBGS": "dyslexia",
 
     // "introvert" and "extrovert"
     "SPWROE/SRERT": "introvert", // cf. EBGS/TROE/SRERT "extrovert"
