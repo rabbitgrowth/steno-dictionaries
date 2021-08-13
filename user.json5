@@ -238,7 +238,6 @@
     "PWROE": "borrow",     // with SROE "sorrow"; use PWRO for "borough"
     "PWROEG": "borrowing", // much nicer than PWO*ERPBG; overrides "brogue" [1]
     /*1*/ "PWRO*EG": "brogue",
-          "PWROEG/H-F": "brogue",
     // SROE  "sorrow" -- PWROE   "borrow"
     // SROEG "vogue"     PWROEG  "borrowing"
     //                   PWRO*EG "brogue"
@@ -446,9 +445,8 @@
     "SWER": "swear",
     "TRE": "tree",
     "SRUL": "value",
-    "WEBG": "week", // use WEB/-G for "webbing" [2]
+    "WEBG": "week", // use WEB/-G for "webbing"
     /*1*/ "PR-FRP": "purchaser", // from PR-FP "purchase"
-    /*2*/ "WEBG/H-F": "webbing",
 
     "KPUT": "compute",
     "KPUR": "computer",
@@ -741,7 +739,6 @@
     // For disambiguation
     "ROUF": "rough",    // already works
     "ROUFL": "roughly", // vs RUFL "ruffle"
-    "RUFL/H-F": "roughly",
 
     "HRAEFT": "least",     // cf. THRAES "at least"
     "THRAEFT": "at least", // overrides "thrifty"; frees up THRAES for "Tesla"
@@ -2067,7 +2064,6 @@
     "PWUPBL": "bundle",     // already works
     "PWUPBLD": "bundled",   // by default also "bundle"
     "PW*UPBLG": "bundling", // - * = "budge"
-    "PWUPBLG/H-F": "bundling",
     "TKWEUPBL": "dwindle",
     "TPOPBL": "fondle", // use TPA*L or TPO*PBL for "phenomenal"
                         // for consistency with TPO*PB "phenomenon"
@@ -2076,7 +2072,6 @@
     "SWEUPBL": "swindle",
     "TRUPBL": "trundle",     // misstroke for "trouble"
     "TR*UPBLG": "trundling", // - * = "trudge"
-    "TRUPBLG/H-F": "trundling",
     // An exception to this exception: KAPBLD "candle". Why not KAPBL?
     // 1) KAPBL is by default the only way to stroke "canal",
     //    although it's not very phonetic I guess.
@@ -3725,7 +3720,7 @@
     // Precedents: PHAEUG "making", HRAOG "looking"
     "AEUG": "aching",
     "A/TAG": "attacking",
-    "PWAEUG": "baking", // come back for -G for "baying" [1]
+    "PWAEUG": "baking", // come back for -G for "baying"
                         // ("a jackal baying at the moon")
                         // BAKING  16613
                         // BAYING    242
@@ -3742,15 +3737,13 @@
     "PARG": "parking", // use PA*ERG for "paring" (PA*ER is "pare")
     "POEG": "poking",
     "PRO/SROEG": "provoking",
-    "RAEUG": "raking", // come back for -G for "raying" [2]
+    "RAEUG": "raking", // come back for -G for "raying"
                        // RAKING  1302
                        // RAYING     7 (basically a non-word)
     "ROG": "rocking",
     "SHOG": "shocking",
     "SHRAO*EG": "shrieking",
     "WORG": "working", // alternative to WOG
-    /*1*/ "PWAEUG/H-F": "baying",
-    /*2*/ "RAEUG/H-F": "raying",
 
     "TPOEUG": "focusing", // FOIK "focus" -> FOIKING "focusing"
 
@@ -3826,7 +3819,6 @@
     "WAOEFRT": "weirdest",
     "WAOEUFT": "wisest",
     /*1*/ "HAO*EUFT": "heist",
-          "HAOEUFT/H-F": "heist",
           "HAOEUFTS": "heists", // "highests" is not a word
 
     // -- Negation -------------------------------------------------------------
@@ -4423,7 +4415,6 @@
     "STKPWRE": "disagree",
     "STKPWREPLT": "disagreement",
     /*1*/ "TKPWR*EG": "Greg", // give up "Gregg"
-          "TKPWREG/H-F": "Greg",
 
     // "comprehend" family
     // cf. SREUGS       "vision"
@@ -4450,13 +4441,11 @@
     // "critic" family
     "KREUBG": "critic",     // overrides "crick" [1]
     "KREUL": "critical",    // overrides "krill" [2]
-    "KREUFPL": "criticism", // come back for -L for "crisply" [3]
+    "KREUFPL": "criticism", // come back for -L for "crisply"
     "KRAOEUZ": "criticize",
     /*1*/ "KR*EUBG": "crick",   // use KREUFBG for "characteristic"
           "KREUBGD": "cricked", // "criticced" is not a word
-          "KREUBG/H-F": "crick",
     /*2*/ "KR*EUL": "krill",
-    /*3*/ "KREUFPL/H-F": "crisply",
 
     // "decent" family
     "TKAOEFPBT": "decent",
@@ -4625,7 +4614,6 @@
     "PHABG": "magic",      // overrides "Mac" [1]
     "PHALG": "magical",    // "macal"
     /*1*/ "PHA*BG": "Mac", // give up "MAC"
-          "PHABG/H-F": "Mac",
 
     // "race" vs "raise"
     // RAF  "rave"*   RAEUS  "race"    RAEUZ   "raise"
@@ -4687,9 +4675,6 @@
                          // PHEUFS "missive"  PHEUF/-S "miffs"
                          // PHEUFD "missed"   PHEUF/-D "miffed"
                          // PHEUFG "missing"  PHEUF/-G "miffing"
-    "PHEUFS/H-F": "miffs",
-    "PHEUFD/H-F": "miffed",
-    "PHEUFG/H-F": "miffing",
 
     // PER/EUL "peril"
     // PERL    "pearl"     -> "peril"
@@ -4711,8 +4696,6 @@
                        //                      PWRAEUPB "brain"
                        //                      TRAEUPB  "train" etc.
     "SRA*EUPB": "vein",
-    "RAEUPB/H-F": "rein",
-    "SRAEUPB/H-F": "vein",
 
     // SEL       "sell"
     // SERL      "seller"
@@ -4858,12 +4841,8 @@
     // non-existent words. Fix this by swapping the base words:
     "STKERT": "desert",
     "STK*ERT": "dessert", // mnemonic: add * for an extra s
-    "STKERT/H-F": "dessert",
-    "STKERTS/H-F": "desserts",
     "TPHROUR": "flower",
     "TPHRO*UR":  "flour",
-    "TPHROUR/H-F": "flour",
-    "TPHROURS/H-F": "flours",
     // A nice side effect:
     "STKERGS": "desertion",       // which frees up ...
     "TKE/SERGS": "desegregation", // consistent with SERGS "segregation"
@@ -5032,12 +5011,16 @@
     "TKAPL/H-F": "damn",            // from "dam"
     "TKAOER/H-F": "dear",           // from "deer"
     "TKAOERL/H-F": "dearly",        // from "dealer"
+    "STKERT/H-F": "dessert",        // from "desert"
+    "STKERTS/H-F": "desserts",
     "TKWAOEUS/H-F": "devise",       // from "device"
     "TKAOU/H-F": "dew",             // from "due"
     "TKAOUZ/H-F": "dews",
     "TKEUFBG/H-F": "disk",          // from "disc"
     "TKOE/H-F": "doe",              // from "dough"
     "AOEUD/H-F": "eyed",            // from "I'd"
+    "TPHROUR/H-F": "flour",         // from "flower"
+    "TPHROURZ/H-F": "flours",
     "TKPWAEUT/H-F": "gate",         // from "gait"
     "TKPWEULT/H-F": "gilt",         // from "guilt"
     "HAUL/H-F": "haul",             // from "hall"
@@ -5076,6 +5059,7 @@
     "PREUPBZ/H-F": "principals",
     "PROFT/H-F": "prophet",         // from "profit"
     "RAEUS/H-F": "raise",           // from "race"
+    "RAEUPB/H-F": "rein",           // from "rain"
     "REFRPBS/H-F": "reverence",     // from "reference"
     "RAOEUS/H-F": "rise",           // from "rice"
     "RAOEUFL/H-F": "rival",         // from "rifle"
@@ -5099,6 +5083,7 @@
     "THROEPB/H-F": "throne",        // from "thrown"
     "THAOEU/H-F": "thy",            // from "thigh"
     "TAOEUD/H-F": "tied",           // from "tide"
+    "SRAEUPB/H-F": "vein",          // from "vain"
     "WAEUFT/H-F": "waste",          // from "waist"
     "WAEUFR/H-F": "waver",          // from "waiver"
     "WAEUFRD/H-F": "wavered",
