@@ -4674,15 +4674,6 @@
     "PWRAOUS": "bruise",
     "PWRAOUZ": "brews",
 
-    // SEL       "sell"
-    // SERL      "seller"
-    // KREL      "cell"
-    // KRERL     undefined  -> "cellar"
-    // SEL/HRAR  "cellar"   -> "cellular"
-    // KREL/HRAR "cellular"
-    "KRERL": "cellar",
-    "SEL/HRAR": "cellular",
-
     // PHAS   "mass"
     // PHASZ  "mass"    -> "masses"
     // PHAFS  "masses"  -> "massive"
@@ -4720,6 +4711,15 @@
     "SRA*EUPB": "vein",
     "RAEUPB/H-F": "rein",
     "SRAEUPB/H-F": "vein",
+
+    // SEL       "sell"
+    // SERL      "seller"
+    // KREL      "cell"
+    // KRERL     undefined  -> "cellar"
+    // SEL/HRAR  "cellar"   -> "cellular"
+    // KREL/HRAR "cellular"
+    "KRERL": "cellar",
+    "SEL/HRAR": "cellular",
 
     // TOR   "tour"  -> "tore" -- TORPLT  "torment"
     // TO*R  "tore"  -> "Tor"
