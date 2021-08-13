@@ -4567,6 +4567,15 @@
     "PH*URPBD": "misunderstood",
     "PHURBGD": "misunderstanding",
 
+    // "unfortunate" family
+    // By default "unfortunately" is UFL, which makes "unfortunate"
+    // feel like it should be UFT. But UFL and UFT are probably
+    // more useful as "you feel" and "you have the".
+    "UFRT": "unfortunate",
+    "UFRL": "unfortunately",
+    "-FRT": "fortunate",
+    "-FRL": "fortunately",
+
     // "victor" family
     "SREURBGT": "victor",   // cf. SRERBGT "vector"
     "SR*EURBGT": "Victor",  // the name
@@ -4635,15 +4644,6 @@
     "TO*ED": "towed",
     /*1*/ "TOD": "today",          // give up {^ed to}
           "AOUS/TOD": "use today", // by default "used to"
-
-    // "unfortunate" family
-    // By default "unfortunately" is UFL, which makes "unfortunate"
-    // feel like it should be UFT. But UFL and UFT are probably
-    // more useful as "you feel" and "you have the".
-    "UFRT": "unfortunate",
-    "UFRL": "unfortunately",
-    "-FRT": "fortunate",
-    "-FRL": "fortunately",
 
     // -- Group reassignments --------------------------------------------------
 
