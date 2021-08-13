@@ -1297,16 +1297,16 @@
     "KPWEPBD": "impend",
     "KPWAOERL": "imperial",
     "KPWEFRBS": "impervious",
+    "KPWHREUBGS": "implication", // misstroke for "complication"
     "KPWHREUFT": "implicit",
     "KPWHROED": "implode",
     "KPWHROETD": "imploded",
+    "KPWHROR": "implore",
     "KPWHROEGS": "implosion",
     "KPWHROEF": "implosive",
     "KPWHROES/EUF": "implosive", // cf. SPHROES/EUF "explosive"
-    "KPWHROR": "implore",
     "KPWHRAOEU": "imply", // the left-hand KPWHRAO cluster is a bit clumsy
     "KPWHREU": "imply",   // ... so allow omitting AO to lighten the load
-    "KPWHREUBGS": "implication", // misstroke for "complication"
     "KPWOES": "impose",
     "KPWOEFD": "imposed",
     "KPWOEFG": "imposing",
