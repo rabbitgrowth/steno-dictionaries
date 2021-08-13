@@ -139,6 +139,7 @@
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
     "KPHREGS": "completion",
+    "KWEPBL": "consequential",  // with KWEPBS "consequence"
     "KRAOEFT": "creativity",    // with KRAOEF "creative"
     "KREBL": "credible",        // with EUPB/KREBL "incredible", KREBLT "credibility"
                                 //   use KRET/-BL for "creditable"
