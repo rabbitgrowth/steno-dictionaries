@@ -1305,8 +1305,8 @@
     "KPWHROEGS": "implosion",
     "KPWHROEF": "implosive",
     "KPWHROES/EUF": "implosive", // cf. SPHROES/EUF "explosive"
-    "KPWHRAOEU": "imply", // the left-hand KPWHRAO cluster is a bit clumsy
-    "KPWHREU": "imply",   // ... so allow omitting AO to lighten the load
+    "KPWHRAOEU": "imply", // cf. EUPL/PHRAOEU
+    "KPWHREU": "imply",   // cf. EUPL/PHREU
     "KPWOES": "impose",
     "KPWOEFD": "imposed",
     "KPWOEFG": "imposing",
