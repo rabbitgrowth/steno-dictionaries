@@ -174,6 +174,7 @@
     "KPROERD": "extraordinary", // with OERD "ordinary"
     "TPHREBLT": "flexibility",  // with TPHREBL "flexible"
     "TPREBGS": "for example",   // with TPREUPBS "for instance"; use -Z for "frequents"
+    "TP*PB": "fountain",        // with PH*PB "mountain"; give up "fn"
     "TKPWAEUFD": "gazed",       // with TKPWAEUFG "gazing"
     "H-B": "had been",          // with SR-B "have been"; misstroke for {^-^}
     "HAPBT": "hasn't",          // with HAPBLT "has not"
@@ -4101,6 +4102,7 @@
     "TKOE/TKOE": "dodo",
     "TKO*PB": "don", // - * = "done"; prepend KPA for "Don"
     "TKO*U": "Dow", // - * = "do you"
+    "TKREBG": "dreck",
     "AOEF": "eve", // overrides "Eve" [1]
     "KEPB": "ken", // + * = "Ken"
     "HRAO*EUT": "lithe", // give up "lite"
