@@ -1305,8 +1305,8 @@
     "KPWHROEGS": "implosion",
     "KPWHROEF": "implosive",
     "KPWHROES/EUF": "implosive", // cf. SPHROES/EUF "explosive"
-    "KPWHRAOEU": "imply", // cf. EUPL/PHRAOEU
     "KPWHREU": "imply",   // cf. EUPL/PHREU
+    "KPWHRAOEU": "imply", // cf. EUPL/PHRAOEU
     "KPWOES": "impose",
     "KPWOEFD": "imposed",
     "KPWOEFG": "imposing",
