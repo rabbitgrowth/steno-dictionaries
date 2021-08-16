@@ -135,6 +135,7 @@
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
     "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
+    "TPHOEUPBS": "annoyance",   //   use TPHOEUPB/AES for "no one's"
     "PW-D": "beside",           // with PW-DZ "besides"; give up "pwd"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
