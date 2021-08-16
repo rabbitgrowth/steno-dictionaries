@@ -4374,14 +4374,6 @@
     "TAURD": "toward",
     /*1*/ "PWA*RD": "barred",
 
-    // Despite that
-    "RARLS": "regardless",       // RARLD feels like "rarold" or "regardly"
-    "R-F": "regardless of",      // RAFRLS is not bad but
-    "R-FT": "regardless of the", // RAFRLTS is too clumsy
-    "RA*RLS": "irregardless",
-    "R*F": "irregardless of", // give up "reticular formation"
-    "R*FT": "irregardless of the",
-
     // -- Ergonomics -----------------------------------------------------------
 
     // Drop -B in -PBT
@@ -4539,6 +4531,14 @@
     "TPHRET": "reflect", // misstroke for "net"
     "TPHREGS": "reflection",
     "TPHREF": "reflective",
+
+    // "regardless" family
+    "RARLS": "regardless",
+    "R-F": "regardless of",
+    "R-FT": "regardless of the",
+    "RA*RLS": "irregardless",
+    "R*F": "irregardless of", // give up "reticular formation"
+    "R*FT": "irregardless of the",
 
     // "relevant" family
     "REFLT": "relevant",  // already works
