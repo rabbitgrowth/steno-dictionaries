@@ -16,7 +16,7 @@
     "STK-PT": "despite", // all the consonants evenly spread out
     "TK-F": "detective", // give up "def" (for programming?)
     "TK-FS": "difference",
-    "TK-FT": "different",
+    "TK-FT": "different", // use TK-FD for "defendant"
     "KP-T": "exact",    // cf. TKRET  "direct"
     "KP-L": "exactly",  // cf. TKREL  "directly"; use KP-PL ("xm" or "xpl") for "example"
     "KP-LG": "exactly", // cf. TKRELG "directly", ELG "exactly"
