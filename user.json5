@@ -994,6 +994,7 @@
     "TPEUL/PWUFRT": "filibuster",
     "TPRAEURPL": "framer",
     "SKWRAEURT": "generator",
+    "TKPWHRAEUD/KWRAEURT": "gladiator",
     "TKPWOFRPB": "governor", // use TKPWOFPB for "govern"; the "r" is not pronounced in BrE
     "TKPWO*FRPB": "Governor",
     "HEURPBD": "hinder",
@@ -1126,6 +1127,7 @@
     "HRORPBL": "originally",
     "PHRAOEFL": "peacefully",
     "PHRERPL": "permanently",
+    "PHROUFRL": "powerfully",
     "SHRAOEPLG": "seemingly",
     "SHROERBL": "socially",
     "SPHRERBL": "specially",
@@ -3858,6 +3860,7 @@
     "SPWAERBL": "unbearable",
     "SKHRAOER": "unclear",
     "SK-BL": "uncomfortable",
+    "SK-PBL": "unconditional",
     "SK-RBS": "unconscious",
     "SK-RBLS": "unconsciously", // tricky to hit
     "SKP-PTD": "unexpected",
@@ -5073,6 +5076,7 @@
     "PREUPB/H-F": "principal",      // from "principle"
     "PREUPBZ/H-F": "principals",
     "PROFT/H-F": "prophet",         // from "profit"
+    "PROFTS/H-F": "prophets",
     "RAEUS/H-F": "raise",           // from "race"
     "RAEUPB/H-F": "rein",           // from "rain"
     "REFRPBS/H-F": "reverence",     // from "reference"
