@@ -1277,6 +1277,7 @@
     "KPWROEURD": "embroider",
     "KPWROEUD/REU": "embroidery", // or use KPWROEURD/KWREU ("embroider" + {^y})
     "KPWROR": "emperor",
+    "KPWRO*R": "Emperor",
     "KPWAOEUR": "empire",
     "KPWAO*EUR": "Empire",
     "KPWHROEU": "employ",  // frees up PHROEU for "ploy" [1]
