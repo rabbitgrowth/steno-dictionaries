@@ -928,7 +928,8 @@
     // ... or use S when folding in A leads to conflict or is confusing
     "SPWRAOD": "abroad",
     "SPWROD": "abroad",
-    "SKROS": "across",  // KRAOS feels more like "croos"
+    "SKROS": "across",
+    "STPORD": "afford",
     "SHROEPB": "alone", // HRAOEPB is "lean"; overrides "Sloan" [1]
     "SHROUD": "aloud",  // add * for "shroud", like SHRUG "slug" vs SHR*UG "shrug"
     "SPART": "apart",   // can't fold in A when there's already an A
@@ -4366,6 +4367,12 @@
     "SEFL": "self", // since all possibilities have been exhausted
                     // ("myself", "yourself", ... and even "thyself"),
                     // -self as a suffix becomes useless
+
+    // Direction
+    "AFRD": "afterward",  // use STPORD (custom) for "afford"
+    "PWAURD": "backward", // cf. TPAURD "forward"; frees up PWA*RD for "barred" [1]
+    "TAURD": "toward",
+    /*1*/ "PWA*RD": "barred",
 
     // Despite that
     "RARLS": "regardless",       // RARLD feels like "rarold" or "regardly"
