@@ -4449,13 +4449,13 @@
     "KREUF": "constrictive", // SKREUF is "sacrifice" (custom)
 
     // "critic" family
-    "KREUBG": "critic",     // overrides "crick" [1]
-    "KREUL": "critical",    // overrides "krill" [2]
+    "KREUBG": "critic",     // overrides "crick"   [1]
+    "KREULG": "critical",   // overrides "acrylic" [2]
     "KREUFPL": "criticism", // come back for -L for "crisply"
     "KRAOEUZ": "criticize",
     /*1*/ "KR*EUBG": "crick",   // use KREUFBG for "characteristic"
           "KREUBGD": "cricked", // "criticced" is not a word
-    /*2*/ "KR*EUL": "krill",
+    /*2*/ "KRAEULG": "acrylic",
 
     // "decent" family
     "TKAOEFPBT": "decent",
