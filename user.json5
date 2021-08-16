@@ -1356,6 +1356,9 @@
 
     // STK for dis- and des-
     // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
+    "STKAFBG": "disaffect",  // cf. AFBG  "affect" (custom)
+    "STKAFBGT": "disaffect", // cf. AFBGT "affect"
+    "STKAFBGS": "disaffection",
     "STKARPL": "disarm",
     "STKARPLT": "disarmament",
     "STKARD": "discard", // TK+S+K, cf. STKORD "discord"
