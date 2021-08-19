@@ -2262,7 +2262,7 @@
     "W-RPBT": "we aren't", // use WERPT (custom) for "weren't"
     "W-RPBLT": "we are not",
     "W-RP": "we were",
-    "W-RPT": "we were the", // overrides "with respect" [5]
+    "W-RPT": "we were the", // overrides "with respect" [4]
     "THER": "they are",
     "THERT": "they are the",
     "TH*ER": "they're",
@@ -2274,8 +2274,8 @@
     /*3*/ "WR": "where",       // use -RP  for "were"
           "WR-T": "where the", // use -RPT for "were the"
           "WRU": "where you",  // use URP  for "you were"
-    /*4*/ "TWROP": "with respect to",
-    /*5*/ "WR-P": "with respect", // cf. R-P "respect" (custom)
+    /*4*/ "WR-P": "with respect", // cf. R-P "respect" (custom)
+          "TWROP": "with respect to",
 
     // Pronoun + "have"
     // Since KWROEU is "I don't" and KWROEUF is "I don't have",
