@@ -4189,6 +4189,8 @@
 
     // Swap strokes such that * is used to contract or suppress space,
     // not the other way round.
+    "KORP": "copper",
+    "KO*RP": "Corp.",
     "EFRD": "every day",
     "*EFRD": "everyday",
     "HRETS": "lets",
