@@ -540,6 +540,7 @@
     "ROPLS": "romance",
     "ROPLT": "romantic", // also the first stroke in ROPLT/EUBG
     "REURB": "rubbish",
+    "SKREUF": "sacrifice", // "scriff"; no -S to make inflections easier
     "STPOER": "satisfactory", // "sfory"
     "STPREU": "satisfactory", // "sfry"
     "SHORPBLG": "shortage",
@@ -4196,11 +4197,6 @@
     "*EFRD": "everyday",
     "HRETS": "lets",
     "HR*ETS": "let's",
-
-    // SKREUFS for "sacrifice" is nice because it has all the consonants,
-    // but it ends with -S, which makes "sacrifices" and "sacrificed" awkward.
-    // So just drop the -S.
-    "SKREUF": "sacrifice", // "scriff"
 
     // TPH-PB "under" never made sense to me. Why two Ns? Plus TPH-PBT
     // is "innocent" (which is consistent with TPH-PBS "innocence"),
