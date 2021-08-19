@@ -3617,6 +3617,9 @@
 
     "HOEBGS/POEBGS": "hocus pocus", // but HOEBGS on its own is "hoax"
 
+    // -S for -is
+    "PAEURS": "Paris", // use -Z for "pairs"
+
     // Use *S for special three-way conflicts
     "SKWRAO*EPBS": "genus", // with -S "genius", -Z "genes"
     "T*EPBS": "tennis",     // with -S "tense",  -Z "tens"
@@ -5056,7 +5059,6 @@
     "OR/H-F": "ore",                // from "or"
     "PAEUPB/H-F": "pane",           // from "pain"
     "PAEUPBZ/H-F": "panes",
-    "PAEURS/H-F": "Paris",          // from "pairs"
     "PAOES/H-F": "peace",           // from "piece"
     "TPEUL/H-F": "Phil",            // from "fill"
     "PHRAEUPB/H-F": "plane",        // from "plain"
