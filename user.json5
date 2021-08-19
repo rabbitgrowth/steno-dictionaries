@@ -38,9 +38,6 @@
     "TKPW-P": "group",
     "H-P": "hypothesis", // just fingerspell "HP"
     "H-PZ": "hypotheses",
-    "KR": "occur", // use K-R for "consider"
-    "KR-D": "occurred",
-    "KR-G": "occurring",
     "OL": "only",
     "P-T": "point",   // use P-P for {^.^}
     "P-TS": "points", // use PREZ/-Z for "presidents"
@@ -199,6 +196,7 @@
     "PHEURL": "miracle",        // with ARL "article", SEURL "circle"
                                 //   overrides "Merrill" [1]
     "TPHAOERB": "nearby",       // with TPHAOER "near"; use TPHEURB for "niche"
+    "KRURPBS": "occurrence",    // with KRUR "occur"
     "TPEUFR": "officer",        // with TPEURBL "official"
     "TP*EUFR": "Officer",
     "ORPB": "origin",           // with ORPBL "original"
