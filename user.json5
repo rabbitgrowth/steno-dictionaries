@@ -142,8 +142,6 @@
     "KPHREGS": "completion",
     "KWEPBL": "consequential",  // with KWEPBS "consequence"
     "KRAOEFT": "creativity",    // with KRAOEF "creative"
-    "KREBL": "credible",        // with EUPB/KREBL "incredible", KREBLT "credibility"
-                                //   use KRET/-BL for "creditable"
     "KRED/AOULT": "credulity",  // with EUPB/KRED/AOULT "incredulity"
     "STREUBGS": "distribution", // with STREUBT "distribute"
                                 //   use REUBGS for "restriction":
@@ -3848,8 +3846,6 @@
     "SKAOPBS": "inconsistency",
     "SKAOPBT": "inconsistent",
     "SKREBGT": "incorrect",
-    "SKREBL": "incredible", // with KREBL "credible" (custom)
-    "SKREBLT": "incredibility",
     "STK-FS": "indifference", // from TK-FS "difference" (custom)
     "STK-FT": "indifferent",  // from TK-FT "different"  (custom)
     "STKRET": "indirect",
@@ -4442,6 +4438,14 @@
     "KREUBGT": "contradict", // instead of KR*BGT or KROEUBGT
     "KRUF": "constructive",  // SKRUF  is "scruff"
     "KREUF": "constrictive", // SKREUF is "sacrifice" (custom)
+
+    // "credible" family
+    "KREB": "credible",      // cf. PROB   "probable"
+    "KREBL": "credibly",     // cf. PROBL  "probably";    use KRET/-BL for "creditable"
+    "KREBLT": "credibility", // cf. PROBLT "probability"; already works
+    "SKREB": "incredible",
+    "SKREBL": "incredibly",
+    "SKREBLT": "incredibility",
 
     // "critic" family
     "KREUBG": "critic",     // overrides "crick"   [1]
