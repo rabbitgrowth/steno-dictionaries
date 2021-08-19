@@ -4206,16 +4206,6 @@
     // So just drop the -S.
     "SKREUF": "sacrifice", // "scriff"
 
-    // Swap TRAOET "treat" and TRAET "treaty"
-    // It's unclear what rule makes TRAET "treaty" in Plover. It's not the
-    // "many" rule, according to which TRAET should be something like
-    // "trea-tee" or "tray-tee"; and the AE doesn't stand for /æ/ either.
-    "TRAET": "treat",   // orthographic, like HAET "heat", PWAET "beat", etc.
-    "TRAOET": "treaty", // feels right because "treaty" has two AOEs (/i/)
-                        // and no AE (/æ/); think "tree-T"
-    // As a bonus, word length and stroke length now match up perfectly.
-    "TRAEPLT": "treatment", // cf. TRAOEPLT
-
     // TPH-PB "under" never made sense to me. Why two Ns? Plus TPH-PBT
     // is "innocent" (which is consistent with TPH-PBS "innocence"),
     // making it impossible to one-stroke "under the".
