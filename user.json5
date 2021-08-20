@@ -3892,8 +3892,7 @@
     // -- Proper nouns ---------------------------------------------------------
 
     // Names
-    "AS/EUPL/OF": "Asimov", // AS/PHOF is "as move"
-                            // ("he couldn't so much as move a finger")
+    "AS/EUPL/OF": "Asimov", // AS/PHOF is "as move" ("he couldn't so much as move a finger")
     "PWAEUT/SREPB": "Beethoven",
     "PWAO*EUPBD": "Biden", // - * = "bind"
     "PWOEB": "Bobby",
