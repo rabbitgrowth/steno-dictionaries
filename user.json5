@@ -2583,7 +2583,6 @@
     "H-GT": "he get",
     "SH-GT": "she get",
     "T-GTS": "it gets", // T-GT is "together", so include -S as special case
-    "T-GT/-S": "it gets",
     "W-GT": "we get",
     "THEGT": "they get",
     "SKPEUGT": "and I get",
