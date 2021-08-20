@@ -848,8 +848,6 @@
     "SHAOU/PHAEURBG": "shoemaker",
     "TRUBL/PHAEURBG": "troublemaker",
 
-    "WA*EU": "{^way}", // use WAU for "away"
-
     "WAO*EUD": "{^wide}", // instead of {^-wide}
     "KREU/WAOEUD": "countrywide",
     "TPH-GS/WAOEUD": "nationwide",
@@ -4182,7 +4180,6 @@
     "SKW": "and",          // SKP with P moved down
     "KWRAEUR": "area",     // /ˈɛːrj/
     "TA*UL": "at all",     // symmetry makes * feel nice; give up {^-tall}
-    "WAU": "away",         // arbitrary
     "SPWAR": "bizarre",    // allow dropping * for "z" because of PW in between
     "PWOEUR": "bury",      // OEU to reflect weirdness of "u" being pronounced /ɛ/
     "KR-RG": "category",   // [c]ate[g]o[r]y; also symmetrical
@@ -4609,6 +4606,12 @@
     "SROEURBGT": "victory", // use OEU for -y
     "SREUBG/TORS": "victorious", // or use SREURBGT/KWROUS ("victor" + {^ious});
                                  // use SREURBGTS or SREUBG/TORZ for "victors"
+
+    // "way" and "away"
+    "WAEU": "way", // already works
+    "WAU": "away", // arbitrary; frees up ...
+    "WA*EU": "{^way}",
+    "WA*U": "{^away}",
 
     // -- Easily confused words ------------------------------------------------
 
