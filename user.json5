@@ -2545,12 +2545,16 @@
     "WHOUPB": "who you know",
     "*UPB": "you know", // alternative to KWRAOUPB
 
-    "UFL": "you feel",    // use UFRL (custom) for "unfortunately"
-    "H-FL": "he feel",    // let Plover handle "he feels"; same below
+    "UFL": "you feel",    // overrides "unfortunately" [1]
+    "H-FL": "he feel",
     "SH-FL": "she feel",  // give up "shall feel"
     "T-FL": "it feel",    // already works
     "W-FL": "we feel",
     "THEFL": "they feel", // misstroke for "them"
+    /*1*/ "UFRT": "unfortunate", // UFT is "you have the" (custom)
+          "UFRL": "unfortunately",
+          "-FRT": "fortunate",
+          "-FRL": "fortunately",
 
     "SKP-FD": "and find",
     "THAFD": "that find",
@@ -4598,15 +4602,6 @@
     "PHURPBD": "misunderstand",
     "PH*URPBD": "misunderstood",
     "PHURBGD": "misunderstanding",
-
-    // "unfortunate" family
-    // By default "unfortunately" is UFL, which makes "unfortunate"
-    // feel like it should be UFT. But UFL and UFT are probably
-    // more useful as "you feel" and "you have the".
-    "UFRT": "unfortunate",
-    "UFRL": "unfortunately",
-    "-FRT": "fortunate",
-    "-FRL": "fortunately",
 
     // "victor" family
     "SREURBGT": "victor",   // cf. SRERBGT "vector"
