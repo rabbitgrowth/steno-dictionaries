@@ -1767,23 +1767,24 @@
     // [2] * is used since PEUFP is "pitch"
     // [3] Long AOU is used although STRURBGT is not taken. Why?
     // [4] * is used since HREUFP is "lisp"
-    "AG/TUR": "agriculture",    // cf. AG/KHUR
+    "AG/TUR": "agriculture",         // cf. AG/KHUR
     "ARG/KURLT": "agriculture",
-    "ARBG/TUR": "architecture", // cf. ARBG/TEBG/KHUR
-    "KAP/TUR": "capture",       // or use KA*FP
+    "ARBG/TUR": "architecture",      // cf. ARBG/TEBG/KHUR
+    "KAP/TUR": "capture",            // or use KA*FP
     "KAUPB/SKWREFP": "conjecture",
     "KAUPB/SKWRERBGT": "conjecture",
-    "TPAOERT": "feature",       // or use TPAOEFP
-    "TPRUFP": "infrastructure", // cf. TPRUBGS
-    "TPHUR/TUR": "nurture",     // or use TPHAOUFP
-    "P-FP": "picture",          // misstroke for {.}
-    "PEURBGT": "picture",       // or use P*EUFP
-    "SKREURPT": "scripture",    // or use SKR*EUFP
+    "TPAOERT": "feature",            // or use TPAOEFP
+    "TPRUFP": "infrastructure",      // cf. TPRUBGS
+    "TPHUR/TUR": "nurture",          // or use TPHAOUFP
+    "P-FP": "picture",               // misstroke for {.}
+    "PEURBGT": "picture",            // or use P*EUFP
+    "SKREURPT": "scripture",         // or use SKR*EUFP
     "SKR*EURPT": "Scripture",
-    "SEUG/TUR": "signature",    // or use SEURG ("sigr")
-    "TEFP": "temperature",      // use TEBG for "tech"
+    "SEUG/TUR": "signature",         // or use SEURG ("sigr")
+    "TEFP": "temperature",           // use TEBG for "tech"
     "TEPL/TUR": "temperature",
     "TEFRP/TUR": "temperature",
+
     "TUR": "{^ture}", // or use TAOUR, which is consistent with AOUR {^ure}
 
     // -FPL for -some
