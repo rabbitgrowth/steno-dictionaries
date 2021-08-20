@@ -4158,6 +4158,12 @@
 
     // -- Foreign languages ----------------------------------------------------
 
+    // French
+    "TPEUPB/TKE/SELG": "fin de siècle",
+
+    // German
+    "SRELT/SPHERZ": "Weltschmerz",
+
     // Latin
     "STATS/KWOE": "status quo",
 
