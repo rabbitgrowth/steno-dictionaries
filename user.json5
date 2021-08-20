@@ -957,6 +957,7 @@
     "KHROFRL": "colorful",
     "TPAEUFL": "faithful",
     "TPAEUFLT": "fateful", // cannot omit -T
+    "TPAOEFRL": "fearful",
     "TPRAOEUFL": "frightful",
     "TPRAOEUFLT": "frightful",
     "TKPWRAEUFLS": "graceful", // cannot omit -S
@@ -1016,6 +1017,7 @@
     "SPHURLG": "smuggler",
     "STPHAOEURP": "sniper",
     "SPARPB": "spanner",
+    "SKWARPBD": "squander",
     "SKEFR": "successor", // misstroke for "cancer"
     "SURBG": "sucker",
     "SRERPBD": "surrender", // use SREPB/TKOR for "vendor"
@@ -1197,8 +1199,9 @@
     // -FRBL for -mble
     "PWRAFRBL": "bramble",
     "TKPWAFRBL": "gamble",
-    "SKWRUFRBL": "jumble",
     "SKRAFRBL": "scramble",
+    "SKWRUFRBL": "jumble",
+    "PHUFRBL": "mumble",
     "STUFRBL": "stumble",
 
     // -FRL for -məl
@@ -1471,6 +1474,7 @@
     "SKPERT": "expert",
     "SKPERT/EUS": "expertise",  // cf. SPERT/EUS
     "SKPERT/AOES": "expertise", // cf. SPERT/AOES
+    "SKPRAEUGS": "expiration",
     "SKPAOEUR": "expire",
     "SKPHRAEUPB": "explain",     // or use KP-PB   (custom)
     "SKPHRAPBGS": "explanation", // or use KP-PBGS (custom)
@@ -3623,6 +3627,7 @@
     "HOEBGS/POEBGS": "hocus pocus", // but HOEBGS on its own is "hoax"
 
     // -S for -is
+    "TPERS": "Ferris",
     "PAEURS": "Paris", // use -Z for "pairs"
 
     // Use *S for special three-way conflicts
@@ -3648,6 +3653,8 @@
     "KHA*PL/KWROPBG": "championing",
     "KHAPL/KWROPBD": "championed", // allow dropping * like KHAPL/KWROPB "champion"
     "KHAPL/KWROPBG": "championing",
+    "KHER/EURBD": "cherished",
+    "KHER/EURBG": "cherishing",
     "KOE/HREFD": "coalesced",
     "KOE/HREFG": "coalescing",
     "KAUPB/SAOELG": "concealing",
@@ -3834,6 +3841,7 @@
     "SHROEFT": "slowest",
     "SPHAFRT": "smartest",
     "SWAOEFT": "sweetest",
+    "TAUFT": "tallest",
     "WAOEFRT": "weirdest",
     "WAOEUFT": "wisest",
     /*1*/ "HAO*EUFT": "heist",
