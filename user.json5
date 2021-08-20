@@ -1336,6 +1336,8 @@
     "KPWRAFPLT": "embarrassment", // cf. EPL/PWRAFPLT
 
     // Stretch KPW to mean amb- and amp-
+    "KPWEUPBS": "ambience", // misstroke for "convince"
+    "KPWEUPBT": "ambient",
     "KPWEUGS": "ambition",
     "KPWEURBS": "ambitious",
     "KPWEUFLS": "ambivalence", // cf. APL/PWEUFLS
