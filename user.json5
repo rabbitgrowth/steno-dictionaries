@@ -1775,6 +1775,7 @@
     "KAUPB/SKWRERBGT": "conjecture",
     "TPAOERT": "feature",       // or use TPAOEFP
     "TPRUFP": "infrastructure", // cf. TPRUBGS
+    "TPHUR/TUR": "nurture",     // or use TPHAOUFP
     "P-FP": "picture",          // misstroke for {.}
     "PEURBGT": "picture",       // or use P*EUFP
     "SKREURPT": "scripture",    // or use SKR*EUFP
