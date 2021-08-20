@@ -542,6 +542,7 @@
     "REURB": "rubbish",
     "SKREUF": "sacrifice", // "scriff"; no -S to make inflections easier
     "SKREUFL": "sacrificial",
+    "STAOEUT": "satiety",
     "STPOER": "satisfactory", // "sfory"
     "STPREU": "satisfactory", // "sfry"
     "SHORPBLG": "shortage",
@@ -1129,6 +1130,7 @@
     "SHRAOEPLG": "seemingly",
     "SHROERBL": "socially",
     "SPHRERBL": "specially",
+    "SWHREUPLG": "swimmingly",
     "THRERBL": "terribly",
     "HRUPLT": "ultimately",
     "HRURBL": "usually",
@@ -3305,6 +3307,7 @@
     "STKPW-DZ": "as good as",  // with TKPW-D (custom)
     "STKPW-TS": "as great as", // with TKPW-T (custom)
     "STKPWRAETS": "as great as",
+    "SRAELS": "as real as",
     "SPHALS": "as small as",
     "SWAEBGS": "as weak as", // STROPBGS "as strong as" already works
 
@@ -3510,6 +3513,7 @@
     "POR/TRAEUZ": "portrays",
     "PREUF/KWREUZ": "privies",
     "RAEU/SEUPBZ": "raisins",
+    "TAP/STREUZ": "tapestries",
     "SRABG/SEUPBZ": "vaccines",
     "WEUPBD/TPAULZ": "windfalls",
 
@@ -3901,6 +3905,7 @@
     "TKPWO*R": "Gore",
     "HEBG/TOR": "Hector",
     "KAPL/HRA": "Kamala", // give up "Kamilah"
+    "KAR/TKAGS": "Kardashian",
     "KEP/HRER": "Kepler",
     "KERPL": "Kepler",
     "PH*UFBG": "Musk",
@@ -5079,6 +5084,7 @@
     "PROFT/H-F": "prophet",         // from "profit"
     "PROFTS/H-F": "prophets",
     "RAEUS/H-F": "raise",           // from "race"
+    "RAOEL/H-F": "real",            // from "reel"
     "RAEUPB/H-F": "rein",           // from "rain"
     "REFRPBS/H-F": "reverence",     // from "reference"
     "RAOEUS/H-F": "rise",           // from "rice"
