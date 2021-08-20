@@ -4158,6 +4158,10 @@
 
     // -- Foreign languages ----------------------------------------------------
 
+    // It's hard to be phonetically accurate all the time when you're writing
+    // non-English using an English layout; occasionally you'll have to settle
+    // with an odd mix of phonetic and orthographic.
+
     // French
     "TPEUPB/TKE/SELG": "fin de siècle",
 
