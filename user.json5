@@ -2528,7 +2528,7 @@
     "KWR-BZ": "I say",
     "KWR-BS": "I said",
 
-    // Stack the verbs with other words
+    // "... know"
     "SKPEUPB": "and I know",
     "SKPUPB": "and you know",
     "STPEUPB": "if I know",
@@ -2541,8 +2541,10 @@
     "WHUPB": "when you know",
     "WHOEUPB": "who I know",
     "WHOUPB": "who you know",
+
     "*UPB": "you know", // alternative to KWRAOUPB
 
+    // "... feel"
     "UFL": "you feel",    // overrides "unfortunately" [1]
     "H-FL": "he feel",
     "SH-FL": "she feel",  // give up "shall feel"
@@ -2554,37 +2556,49 @@
           "-FRT": "fortunate",
           "-FRL": "fortunately",
 
+    // "... find"
     "SKP-FD": "and find",
     "THAFD": "that find",
     "TOFD": "to find",
+
     "UFD": "you find",
     "H-FD": "he find",
     "SH-FD": "she find",
     "T-FD": "it find",
     "W-FD": "we find",
     "THEFD": "they find",
+
     "SKPEUFD": "and I find",
     "SKPUFD": "and you find",
+    "SKPEFDZ": "and he finds",
     "STPEUFD": "if I find",
     "STPUFD": "if you find",
+    "STPEFDZ": "if he finds",
     "THAEUFD": "that I find",
     "THAUFD": "that you find",
+    "THAEFDZ": "that he finds",
     "WHAEUFD": "what I find",
     "WHAUFD": "what you find",
+    "WHAEFDZ": "what he finds",
     "WHEUFD": "when I find",
     "WHUFD": "when you find",
+    "WHEFDZ": "when he finds",
     "WHOEUFD": "who I find",
     "WHOUFD": "who you find",
+    "WHOEFDZ": "who he finds",
 
+    // "... get"
     "SKP-GT": "and get",
     "THAGT": "that get",
     "TOGT": "to get", // use T-GT (custom) for "together"
+
     "UGT": "you get",
     "H-GT": "he get",
     "SH-GT": "she get",
     "T-GTS": "it gets", // T-GT is "together", so include -S as special case
     "W-GT": "we get",
     "THEGT": "they get",
+
     "SKPEUGT": "and I get",
     "SKPUGT": "and you get",
     "SKPEGTS": "and he gets",
@@ -2609,36 +2623,59 @@
     // but by default -GT is quite useless (it's "thing", but by accident:
     // -T "the" + -G {^ing}), so I might as well remap it
 
+    // "... think"
     "SKPEUPBG": "and I think",
     "SKPUPBG": "and you think",
+    "SKPEPBGZ": "and he thinks",
     "STPEUPBG": "if I think",
     "STPUPBG": "if you think",
+    "STPEPBGZ": "if he thinks",
     "THAEUPBG": "that I think",  // misstroke for "thing"
     "THAUPBG": "that you think", // use THAUG for "thank you"
+    "THAEPBGZ": "that he thinks",
     "WHAEUPBG": "what I think",
     "WHAUPBG": "what you think",
+    "WHAEPBGZ": "what he thinks",
     "WHEUPBG": "when I think",
     "WHUPBG": "when you think",
+    "WHEPBGZ": "when he thinks",
     "WHOEUPBG": "who I think",
     "WHOUPBG": "who you think",
+    "WHOEPBGZ": "who he thinks",
 
+    // "... want"
     "SKPEUPT": "and I want",
     "SKPUPT": "and you want",
+    "SKPEPTS": "and he wants",
+    "SKPEPTD": "and he wanted",
     "STPEUPT": "if I want",
-    "STPOEUPT": "if I want to",
     "STPUPT": "if you want",
-    "STPOUPT": "if you want to",
+    "STPEPTS": "if he wants",
+    "STPEPTD": "if he wanted",
     "THAEUPT": "that I want",
     "THAUPT": "that you want",
+    "THAEPTS": "that he wants",
+    "THAEPTD": "that he wanted",
     "WHAEUPT": "what I want",
     "WHAUPT": "what you want",
+    "WHAEPTS": "what he wants",
+    "WHAEPTD": "what he wanted",
     "WHEUPT": "when I want",
     "WHUPT": "when you want",
+    "WHEPTS": "when he wants",
+    "WHEPTD": "when he wanted",
     "WHOEUPT": "who I want",
     "WHOUPT": "who you want",
+    "WHOEPTS": "who he wants", // - -S = "whole point" (custom)
+    "WHOEPTD": "who he wanted",
 
+    "STPOEUPT": "if I want to",
+    "STPOUPT": "if you want to",
+
+    // "... see"
     "TOZ": "to see",
     "UZ": "you see",
+
     "SKPEUZ": "and I see",
     "SKPUZ": "and you see",
     "STPEUZ": "if I see",
@@ -2651,12 +2688,14 @@
     "WHUZ": "when you see",
     "WHOEUZ": "who I see",
     "WHOUZ": "who you see",
+
     "KWR-BGZ": "I can see",
     "UBGZ": "you can see",
     "H-BGZ": "he can see",
     "SH-BGZ": "she can see",
     "W-BGZ": "we can see",
     "THEBGZ": "they can see",
+
     "SKPEUBGZ": "and I can see",
     "SKPUBGZ": "and you can see",
     "STPEUBGZ": "if I can see",
@@ -2670,9 +2709,11 @@
     "WHOEUBGZ": "who I can see",
     "WHOUBGZ": "who you can see",
 
+    // "... said"
     "H-BS": "he said",
     "SH-BS": "she said",
     "W-BS": "we said",
+
     "SKPEUBS": "and I said", // already works
     "SKPUBS": "and you said",
     "SKPEBS": "and he said",
