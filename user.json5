@@ -4067,6 +4067,7 @@
     /*2*/ "KAPBT": "cant",
     /*3*/ "KOPBT": "cotton",
     /*4*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
+          "HRUP": "{PLOVER:LOOKUP}", // give up "line up"
     /*5*/ "SREZ": "vice president",  // cf. PREZ  "president"
           "SR*EZ": "Vice President", // cf. PR*EZ "President"
 
