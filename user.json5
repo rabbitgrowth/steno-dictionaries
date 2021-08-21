@@ -2684,10 +2684,11 @@
     "THAUZ": "that you see",
     "WHAEUZ": "what I see",
     "WHAUZ": "what you see",
-    "WHEUZ": "when I see", // use WEUZ for "whiz"
+    "WHEUZ": "when I see", // overrides "whiz" [1]
     "WHUZ": "when you see",
     "WHOEUZ": "who I see",
     "WHOUZ": "who you see",
+    /*1*/ "WH*EUZ": "whiz",
 
     "KWR-BGZ": "I can see",
     "UBGZ": "you can see",
