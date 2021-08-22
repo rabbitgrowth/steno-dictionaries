@@ -607,16 +607,6 @@
     "WHOERLD": "whole world",
     "WHOERL": "whole world", // cf. WORL "world"
 
-    // -isms and -ists
-    "KPHAOUFPL": "communism",
-    "KPHAOUFT": "communist",
-    "KPHAO*UFPL": "Communism",
-    "KPHAO*UFT": "Communist",
-    "SKWRUFRPL": "journalism",
-    "SKWRUFRT": "journalist",
-    "TOFRPL": "tourism",
-    "TOFRT": "tourist",
-
     // -- Final -y -------------------------------------------------------------
 
     // Extend "many" rule
@@ -1806,6 +1796,16 @@
     "TEFRP/TUR": "temperature",
 
     "TUR": "{^ture}", // or use TAOUR, which is consistent with AOUR {^ure}
+
+    // -FPL and -FT for -ism and -ist
+    "KPHAOUFPL": "communism",
+    "KPHAOUFT": "communist",
+    "KPHAO*UFPL": "Communism",
+    "KPHAO*UFT": "Communist",
+    "SKWRUFRPL": "journalism",
+    "SKWRUFRT": "journalist",
+    "TOFRPL": "tourism",
+    "TOFRT": "tourist",
 
     // -FPL for -some
     "TKPWRAOUFPL": "gruesome",
