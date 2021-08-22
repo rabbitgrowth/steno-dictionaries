@@ -4486,18 +4486,9 @@
     "ERPBT": "errant", // but "errand" is ER/APBD since ERPBD is "earned"
 
     // "forget" family
-    // The starless standard strokes are a bit awkward:
-    //   TPORGT  "forget"
-    //   TPAURGT "forgot"
-    //   TPORGTD "forgotten"
-    // The O-AU distinction feels arbitrary, and TPORGTD is too tricky
-    // to hit for such a common word. A better trio might be
-    "TPERGT": "forget", // "frget" (already works)
-    "TPORGT": "forgot", // "frgot"
-    "TPORGD": "forgotten",
-    // TPERGT and TPORGT are nicely symmetrical, but TPERGT on its own
-    // might feel a little weird. So allow dropping the E:
-    "TP-RGT": "forget", // TP-R "for" + -GT "get" (stacking form)
+    "TP-RGT": "forget",     // TP-R "for" + -GT "get"; TPRET is "fret"
+    "TPROT": "forgot",      // cf. TKPWOT   "got"
+    "TPROPBT": "forgotten", // cf. TKPWOPBT "gotten"
 
     // "forgive" family
     "TPREUF": "forgive",
