@@ -699,12 +699,6 @@
     "SEUPBD/REL": "Cinderella",
     "PHOET/ROEL": "Motorola",
 
-    // -- Homophones -----------------------------------------------------------
-
-                        // Frequency on COCA:
-    "SWAEUD": "swayed", // 3003
-    "SWA*EUD": "suede", // 1312
-
     // -- Orthographic ---------------------------------------------------------
 
     // Use AE for "ea" as an orthographic alternative
@@ -4921,6 +4915,12 @@
     "KRO*RPB": "coroner", // from KRORPB "corner"; frees up ...
     "KOERPB": "corny",
     "STPHO*RT": "sonority", // use STPHOF for "and so forth"
+
+    // Swap "swayed" and "suede"
+    // Require star for "suede" since it is less common and has a funny
+    // spelling-to-sound relation.
+    "SWAEUD": "swayed", // frequency on COCA: 3003
+    "SWA*EUD": "suede", //                    1312
 
     // Don't waste so many strokes on "syrup"
     // SURP, SEURP, SAOERP, and SEURPL are all "syrup" by default, but the
