@@ -744,6 +744,25 @@
     "TAOFRT": "toaster",     // vs TOEFRT "effort to"
     "TOEFRTS": "efforts to", // vs TAOFRTS "toasters"
 
+    // -- Anagrams -------------------------------------------------------------
+
+    // Swap "ate" and "eight"
+    "AET": "ate",
+    "AEUT": "eight",
+
+    // Swap "toe" and "tow"
+    "TOE": "toe",     // I mean, it literally says "toe"!
+    "TOEZ": "toes",   // give up "easy to"
+    "TOEG": "toeing", // "toeing the line"
+    "TOED": "toed",   // overrides "today" [1]
+    "TO*E": "tow",
+    "TO*ED": "towed",
+    /*1*/ "TOD": "today",          // give up {^ed to}
+          "AOUS/TOD": "use today", // by default "used to"
+
+    "HOELT": "hotel",
+    "HO*ELT": "Hotel",
+
     // -- Joining and splitting ------------------------------------------------
 
     // Compound words
@@ -4237,8 +4256,6 @@
     "STPHUR": "ensure",    // "N-shur" (TPH + SH); overrides "insure" [1]
     "HAEPBS": "happiness", // mashup of HAEP and -PBS
     "HA*RPL": "harmony",   // mnemonic: Jacob Collier's #IHarmYou
-    "HOELT": "hotel",      // anagram
-    "HO*ELT": "Hotel",
     "EU/E": "i.e.",        // just "fingerspell" it
     "HRAO*EULG": "lilac",  // *LG for "lk" with a vowel in between
     "O/ER": "o'er",        // separate into two strokes since OER is "other"
@@ -4694,17 +4711,6 @@
     "RAEUFG": "racing", // use RAFG    for "raving"
     "RAEUFD": "raced",  // use RA*EUFD for "raised"
     "RAEUGZ": "raising",
-
-    // "toe" vs "tow"
-    // TOE should be "toe". I mean, it literally says "toe"!
-    "TOE": "toe",
-    "TOEZ": "toes", // give up "easy to"
-    "TOEG": "toeing",
-    "TOED": "toed", // overrides "today" [1]
-    "TO*E": "tow",
-    "TO*ED": "towed",
-    /*1*/ "TOD": "today",          // give up {^ed to}
-          "AOUS/TOD": "use today", // by default "used to"
 
     // -- Group reassignments --------------------------------------------------
 
