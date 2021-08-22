@@ -4231,50 +4231,6 @@
     // Latin
     "STATS/KWOE": "status quo",
 
-    // -- Special rules --------------------------------------------------------
-
-    "SKW": "and",          // SKP with P moved down
-    "KWRAEUR": "area",     // /ˈɛːrj/
-    "TA*UL": "at all",     // symmetry makes * feel nice; give up {^-tall}
-    "SPWAR": "bizarre",    // allow dropping * for "z" because of PW in between
-    "PWOEUR": "bury",      // OEU to reflect weirdness of "u" being pronounced /ɛ/
-    "KR-RG": "category",   // [c]ate[g]o[r]y; also symmetrical
-    "KPHOS": "cosmos",     // "s" shared between "cos" and "mos"
-    "KOURPB": "counter",   // think flap /t/; KOURPBT is {counter^}
-    "KREPB": "century",    // first three letters
-    "KWOEBG": "echo",      // left side ("qo"?) "echoing" the right side visually
-    "STPHUR": "ensure",    // "N-shur" (TPH + SH); overrides "insure" [1]
-    "HAEPBS": "happiness", // mashup of HAEP and -PBS
-    "HA*RPL": "harmony",   // mnemonic: Jacob Collier's #IHarmYou
-    "EU/E": "i.e.",        // just "fingerspell" it
-    "HRAO*EULG": "lilac",  // *LG for "lk" with a vowel in between
-    "O/ER": "o'er",        // separate into two strokes since OER is "other"
-    "PO*EUPB": "piano",    // wildcard OEU with * since POEUPB is "appoint" already
-    "KW-T": "quiet",       // lack of vowels feels quiet; compare KWAOEUT "quite"
-    "KW-LT": "quietly",
-    /*1*/ "STPH*UR": "insure",
-
-    // "admix"
-    // AD/PHEUBGS conflicts with "add mix" ("add mix to the bowl"),
-    // so add *. As a nice coincidence, A*D is "ad".
-    "A*D/PHEUBGS": "admix", // add {^ture} to get "admixture"
-
-    // Swap strokes such that * is used to contract or suppress space,
-    // not the other way round.
-    "KORP": "copper",
-    "KO*RP": "Corp.",
-    "EFRD": "every day",
-    "*EFRD": "everyday",
-    "HRETS": "lets",
-    "HR*ETS": "let's",
-
-    // TPH-PB "under" never made sense to me. Why two Ns? Plus TPH-PBT
-    // is "innocent" (which is consistent with TPH-PBS "innocence"),
-    // making it impossible to one-stroke "under the".
-    "TPH-R": "under", // use TPHOR for "nor", which is consistent with OR "or"
-    "TPH-RT": "under the",
-    "TPH-RTS": "under its",
-
     // -- Flout greedy rule ----------------------------------------------------
 
     // Normally, in deciding where to break multistroke words,
@@ -4837,6 +4793,27 @@
 
     // -- Miscellaneous --------------------------------------------------------
 
+    "SKW": "and",          // SKP with P moved down
+    "KWRAEUR": "area",     // /ˈɛːrj/
+    "TA*UL": "at all",     // symmetry makes * feel nice; give up {^-tall}
+    "SPWAR": "bizarre",    // allow dropping * for "z" because of PW in between
+    "PWOEUR": "bury",      // OEU to reflect weirdness of "u" being pronounced /ɛ/
+    "KR-RG": "category",   // [c]ate[g]o[r]y; also symmetrical
+    "KPHOS": "cosmos",     // "s" shared between "cos" and "mos"
+    "KOURPB": "counter",   // think flap /t/; KOURPBT is {counter^}
+    "KREPB": "century",    // first three letters
+    "KWOEBG": "echo",      // left side ("qo"?) "echoing" the right side visually
+    "STPHUR": "ensure",    // "N-shur" (TPH + SH); overrides "insure" [1]
+    "HAEPBS": "happiness", // mashup of HAEP and -PBS
+    "HA*RPL": "harmony",   // mnemonic: Jacob Collier's #IHarmYou
+    "EU/E": "i.e.",        // just "fingerspell" it
+    "HRAO*EULG": "lilac",  // *LG for "lk" with a vowel in between
+    "O/ER": "o'er",        // separate into two strokes since OER is "other"
+    "PO*EUPB": "piano",    // wildcard OEU with * since POEUPB is "appoint" already
+    "KW-T": "quiet",       // lack of vowels feels quiet; compare KWAOEUT "quite"
+    "KW-LT": "quietly",
+    /*1*/ "STPH*UR": "insure",
+
     // Don't hyphenate
     "KAFT/AOEURPB": "cast iron",
     "ROUPBD/TREUP": "round trip",
@@ -4871,6 +4848,13 @@
           "OUFD": "outside",  // "ousd"; for consistency
     /*2*/ "TPH-TSDZ": "noticed", // (TPH-TS + -D) + -Z
 
+    // TPH-PB "under" never made sense to me. Why two Ns? Plus TPH-PBT
+    // is "innocent" (which is consistent with TPH-PBS "innocence"),
+    // making it impossible to one-stroke "under the".
+    "TPH-R": "under", // use TPHOR for "nor", which is consistent with OR "or"
+    "TPH-RT": "under the",
+    "TPH-RTS": "under its",
+
     // Consonant + no vowel + -RB for -nish
     // cf. P-RB "punish"
     "PW-RB": "banish",
@@ -4892,6 +4876,15 @@
     "STKERGS": "desertion",       // which frees up ...
     "TKE/SERGS": "desegregation", // consistent with SERGS "segregation"
 
+    // Swap strokes such that * is used to contract or suppress space,
+    // not the other way round.
+    "KORP": "copper",
+    "KO*RP": "Corp.",
+    "EFRD": "every day",
+    "*EFRD": "everyday",
+    "HRETS": "lets",
+    "HR*ETS": "let's",
+
     // Add * to insert schwa(s)
     // Precedents: TKRAOEUF "drive" -> TKRAO*EUF "derive"
     //             TKRAOEUD "dried" -> TKRAO*EUD "deride"
@@ -4899,6 +4892,11 @@
     "KRO*RPB": "coroner", // from KRORPB "corner"; frees up ...
     "KOERPB": "corny",
     "STPHO*RT": "sonority", // use STPHOF for "and so forth"
+
+    // "admix"
+    // AD/PHEUBGS conflicts with "add mix" ("add mix to the bowl"),
+    // so add *. As a nice coincidence, A*D is "ad".
+    "A*D/PHEUBGS": "admix", // add {^ture} to get "admixture"
 
     // "life" is HRAOEUF and "live" is HREUF. For words spelled with "live"
     // but pronounced like "life", allow using EU as an alternative to AOEU.
