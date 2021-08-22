@@ -1000,8 +1000,6 @@
     "TPRAEURPL": "framer",
     "SKWRAEURT": "generator",
     "TKPWHRAEUD/KWRAEURT": "gladiator",
-    "TKPWOFRPB": "governor", // use TKPWOFPB for "govern"; the "r" is not pronounced in BrE
-    "TKPWO*FRPB": "Governor",
     "HEURPBD": "hinder",
     "HEURPBTD": "hindered",
     "HEURPBGD": "hindering",
@@ -1045,6 +1043,8 @@
     // ... or use R if -R is already used
     // Precedents: TPRORPL "former", RERL "earlier"
     "TPRARPL": "farmer",
+    "TKPWROFRPB": "governor",
+    "TKPWRO*FRPB": "Governor",
     "PHROURPB": "mourner",
     "PHRURD": "murderer",
     "RORP": "reporter", // embrace ORP
