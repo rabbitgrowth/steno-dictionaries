@@ -723,22 +723,16 @@
     "KWRAERPB": "yearn",
     "SA*EL": "zeal",  // use SAOEL for "seal"
 
-    // For easier stroke recall
-    "PHOUS/TAFP": "moustache",
-
-    "PEUS/TAFP/KWRO": "pistachio",  // almost fully orthographic
-    "PEUS/TAFP/KWROE": "pistachio", // mix in a little phonetic
-
-    "SKREPB": "scene", // "scen"
-
     // For disambiguation
-    "ROUF": "rough",    // already works
-    "ROUFL": "roughly", // vs RUFL "ruffle"
-
     "HRAEFT": "least",     // cf. THRAES "at least"
     "THRAEFT": "at least", // overrides "thrifty"; frees up THRAES for "Tesla"
     "THROEUFT": "thrifty", // use OEU for -y
     "THRAES": "Tesla",     // "tlaes"
+
+    "ROUF": "rough",    // already works
+    "ROUFL": "roughly", // vs RUFL "ruffle"
+
+    "SKREPB": "scene", // "scen"; SAOEPB is "seen" and SKRAOEPB is "screen"
 
     "TAOFT": "toast",        // like RAOD "road" (ROED is "rode")
     "TAOFRT": "toaster",     // vs TOEFRT "effort to"
