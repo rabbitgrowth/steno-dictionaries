@@ -609,11 +609,13 @@
 
     // -isms and -ists
     "KPHAOUFPL": "communism",
-    "KPHAO*UFPL": "Communism",
     "KPHAOUFT": "communist",
+    "KPHAO*UFPL": "Communism",
     "KPHAO*UFT": "Communist",
     "SKWRUFRPL": "journalism",
     "SKWRUFRT": "journalist",
+    "TOFRPL": "tourism",
+    "TOFRT": "tourist",
 
     // -- Final -y -------------------------------------------------------------
 
