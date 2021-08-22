@@ -1267,7 +1267,7 @@
     "SPWO": "unto",
 
     // KPW for emb-, emp-, imb-, and imp-
-    "KPWAES": "embassy", // with "many" rule, cf. EPL/PWAES
+    "KPWAES": "embassy",
     "KPWED": "embed",
     "KPWETD": "embedded",
     "KPWER": "ember",
