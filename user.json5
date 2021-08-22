@@ -1440,6 +1440,8 @@
     "STKPRAT": "desperate",
     "STKPRALT": "desperately",
     "STKPRAEUGS": "desperation", // use STRAEUGS (custom) for "administration"
+    "STKPOPBS": "despondency",
+    "STKPOPBT": "despondent",
     // A lot of des- words already use STK:
     // STKPAOEUT "despite"
     // STKAOEUPB "design"
