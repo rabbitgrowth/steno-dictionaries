@@ -368,15 +368,6 @@
     "-PL": "am",    // cf. EU/-PL "I am"; use TP-PL for {.}
     "PAOEUPB/APL": "pineapple",
 
-    "HRAOEUFPB": "horizon", // overrides "liven"
-    "HREUFPB": "liven",     // pronounced with /ʌɪ/, but use EU like HREUF "live",
-                            // which is sometimes pronounced with /ʌɪ/. To sum up:
-                            //   HRAOEUF   "life"
-                            //   HREUF     "live"    (/ɪ/ or /ʌɪ/)
-                            //   HREUFPB   "liven"   (/ʌɪ/)
-                            //   HRAOEUFPB "horizon"
-                            //   HR-PB     "listen"  (custom)
-
     // Phonetic alternatives to briefs
     "KAT/TKPWREU": "category",     // to KOERG and KR-RG (custom)
     "SER/TEUFBGT": "certificate",  // to SER
@@ -4908,6 +4899,15 @@
     "KRO*RPB": "coroner", // from KRORPB "corner"; frees up ...
     "KOERPB": "corny",
     "STPHO*RT": "sonority", // use STPHOF for "and so forth"
+
+    // "life" is HRAOEUF and "live" is HREUF. For words spelled with "live"
+    // but pronounced like "life", allow using EU as an alternative to AOEU.
+    "HREUFL": "lively", // alternative to HRAOEUFL
+    "HREUFPB": "liven", // alternative to HRAOEUFPB, which is actually a
+                        // great phonetic stroke for "horizon" ("hrison");
+                        // but a brief is even better:
+    "H-RZ": "horizon",
+    "H-RL": "horizontal",
 
     // Swap "swayed" and "suede"
     // Require star for "suede" since it is less common and has a funny
