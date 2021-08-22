@@ -612,10 +612,8 @@
     "KPHAO*UFPL": "Communism",
     "KPHAOUFT": "communist",
     "KPHAO*UFT": "Communist",
-    "SKWRUFRPL": "journalism",  // phonetic     ("jursm")
-    "SKWRUFRT": "journalist",   //              ("jurst")
-    "SKWROUFRPL": "journalism", // orthographic ("joursm")
-    "SKWROUFRT": "journalist",  //              ("jourst")
+    "SKWRUFRPL": "journalism",
+    "SKWRUFRT": "journalist",
 
     // -- Final -y -------------------------------------------------------------
 
