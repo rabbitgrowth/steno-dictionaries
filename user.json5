@@ -1270,6 +1270,7 @@
     "KPWAES": "embassy", // with "many" rule, cf. EPL/PWAES
     "KPWED": "embed",
     "KPWETD": "embedded",
+    "KPWER": "ember",
     "KPWHRAEUFPB": "emblazon",
     "KPWHREPL": "emblem",
     "KPWOD": "embody",
