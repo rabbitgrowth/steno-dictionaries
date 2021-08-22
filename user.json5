@@ -4245,9 +4245,11 @@
 
     // -- Punctuation as shapes ------------------------------------------------
 
-    // Colon and semicolon
-    "TPH-FPL": "{:}", // TP-PL {.} with an extra dot
-    "KWR-RBG": "{;}", // KW-BG {,} with an extra dot
+    // Semicolon
+    // STPH-FPLT {:} makes a lot of sense because it's like TP-PL {.} doubled.
+    // Following this pattern, the natural thing to do for {;} is to "add"
+    // TP-PL {.} and KW-BG {,}.
+    "TKPW-PBLG": "{;}",
 
     // Ellipsis
     "-RGZ": "{^...}", // looks like three dots on the keyboard
