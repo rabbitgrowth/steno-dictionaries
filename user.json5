@@ -1504,6 +1504,14 @@
     "SKHAEUPBG": "exchange", // give up "change is"
     "SKHERBG": "exchequer",
 
+    // SKR for constr-
+    "SKRAEUPB": "constrain", // cf. SKRAEUPBT "constraint"
+    "SKRUBGT": "construct",  // cf. SKRUBGS   "construction"
+    "SKREUBGT": "constrict", // cf. SKREUBGS  "constriction"; frees up ...
+    "KREUBGT": "contradict", // instead of KR*BGT or KROEUBGT
+    "KRUF": "constructive",  // SKRUF  is "scruff"
+    "KREUF": "constrictive", // SKREUF is "sacrifice" (custom)
+
     // TPH for in-
     // Precedents: TPHERT "inert", TPHEURBL "initial"
     "TPHAEUPB": "inane", // overrides "ninja" [1]
@@ -3806,7 +3814,6 @@
     // you have to use PREUBGTD, since PREUBGD is "pricked".
     "KPHREUBGD": "complicated",
     "KEBGD": "connected",
-    "KRUBGD": "constructed",
     "TKAEUBGD": "educated",
 
     // Fold in -T for -ed if the verb already ends with -d
@@ -4482,13 +4489,6 @@
     "KPREF": "comprehensive", // use KPEF for "competitive"
     "KPREFL": "comprehensively",
     "KPREFPBS": "comprehensiveness",
-
-    // "construct" and "constrict"
-    "SKRUBGT": "construct",  // cf. SKRUBGS  "construction"
-    "SKREUBGT": "constrict", // cf. SKREUBGS "constriction"; frees up ...
-    "KREUBGT": "contradict", // instead of KR*BGT or KROEUBGT
-    "KRUF": "constructive",  // SKRUF  is "scruff"
-    "KREUF": "constrictive", // SKREUF is "sacrifice" (custom)
 
     // "credible" family
     "KREB": "credible",      // cf. PROB   "probable"
