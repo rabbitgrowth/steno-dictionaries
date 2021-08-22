@@ -4768,18 +4768,6 @@
     "KRERL": "cellar",
     "SEL/HRAR": "cellular",
 
-    // TOR   "tour"  -> "tore" -- TORPLT  "torment"
-    // TO*R  "tore"  -> "Tor"
-    // TOUR  "tower" -> "tour" -- TOURPLT "tournament"
-    // TO*UR "tower"              TOUFRT  "tourist"
-    //                            TOUFRPL "tourism"
-    "TOR": "tore",
-    "TO*R": "Tor",
-    "TOUR": "tour",
-    "TOUFRT": "tourist", // already works
-    "TOUFRPL": "tourism",
-    "TOURPLT": "tournament",
-
     // KWRE  "yes"      -> "yeah"
     // KWR*E "yeah"     -> "ye" (new)
     // KWRES "yes, sir" -> "yes"
