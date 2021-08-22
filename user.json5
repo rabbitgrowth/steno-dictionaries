@@ -1509,8 +1509,10 @@
     "SKRUBGT": "construct",  // cf. SKRUBGS   "construction"
     "SKREUBGT": "constrict", // cf. SKREUBGS  "constriction"; frees up ...
     "KREUBGT": "contradict", // instead of KR*BGT or KROEUBGT
+    // But you need to drop the S for brief forms due to conflicts:
     "KRUF": "constructive",  // SKRUF  is "scruff"
     "KREUF": "constrictive", // SKREUF is "sacrifice" (custom)
+    // And "construe" remains KAUPB/STRAOU, since SKRAOU is taken by "screw".
 
     // TPH for in-
     // Precedents: TPHERT "inert", TPHEURBL "initial"
