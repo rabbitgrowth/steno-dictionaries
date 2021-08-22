@@ -1360,7 +1360,12 @@
     // -- Sound patterns -------------------------------------------------------
 
     // STK for dis- and des-
-    // Precedents: STKPHEUS "dismiss", STKPAEUR "despair"
+    // Precedents: STKPHEUS  "dismiss"
+    //             STKPHRAEU "display"
+    //             STKOFR    "discover" (or use SKOFR)
+    //             STKAOEUPB "design"
+    //             STKPAEUR  "despair"
+    //             STKRAOEUB "describe" (or use SKREU)
     "STKAFBG": "disaffect",  // cf. AFBG  "affect" (custom)
     "STKAFBGT": "disaffect", // cf. AFBGT "affect"
     "STKAFBGS": "disaffection",
@@ -1442,15 +1447,10 @@
     "STKPRAEUGS": "desperation", // use STRAEUGS (custom) for "administration"
     "STKPOPBS": "despondency",
     "STKPOPBT": "despondent",
-    // A lot of des- words already use STK:
-    // STKPAOEUT "despite"
-    // STKAOEUPB "design"
-    // STKAOEUR  "desire"
-    // STKRAOEUB "describe" (although SKREU is simpler)
 
-    "STKEPBT": "dissent", // drop -T for "accident"
+    "STKEPBT": "dissent",  // default to dis-
+    "STK*EPBT": "descent", // add * for des-
     "STKERPBT": "dissenter",
-    "STK*EPBT": "descent", // dis- feels more default-y than des-
 
     // SKP for exp-
     // Plover often uses SP for exp- when there's no conflict,
