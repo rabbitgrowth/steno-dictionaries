@@ -3959,48 +3959,15 @@
 
     // -- Capitalization -------------------------------------------------------
 
-    // Capitalize
-    "HER/PHAPBLGS/TEU": "Her Majesty",
-    "HEUS/PHAPBLGS/TEU": "His Majesty",
-    "KWROUR/PHAPBLGS/TEU": "Your Majesty",
-
-    // Don't capitalize
-    "PWAPBD/AEUD": "band-aid",
-    "KORPBG": "congress",
-    "KO*RPBG": "Congress",
-    "KAUPB/TKPWRES": "congress",
-    "KA*UPB/TKPWRES": "Congress",
-    "TKAR/PHA": "dharma",
-    "TKARPL/KWRA": "dharma",
-    "KP*EL": "excel", // use *EBGS/EL for "Excel"
-    "HOBT": "hobbit",
-    "HO*BT": "Hobbit",
-    "HURPBT": "hunter",
-    "PHABGS/EUPL": "maxim",
-    "PHOR/ROE": "morrow",
-    "OP/ED": "op-ed",
-    "RUF/KWRAPB": "ruffian",
-    "TWEURT": "twitter",
-    "TW*EURT": "Twitter",
-    "AUP/STAEUT": "upstate",
-
-    "TKPWRAPBD/PHA": "grandma",     // uses HR instead of R by default:
-                                    //   TKPWRAPBD/PHA  "Grandma"
-                                    //   TKPWHRAPBD/PHA "grandma"
-    "HAL/HRAOU/KWRA": "hallelujah", // uses SKWR instead of KWR by default:
-                                    //   HAL/HRAOU/KWRA  "Hallelujah"
-                                    //   HAL/HRAOU/SKWRA "hallelujah"
-
-    // Add * to capitalize
-    // For common nouns that can be capitalized. Precedents:
+    // If a common noun is often capitalized, add * to capitalize:
     //   TKPWOD  "god"      TKPWO*D  "God"
     //   SOET    "society"  SO*ET    "Society"
     //   TPHEUBG "nick"     TPH*EUBG "Nick"
-    // For multistroke words, star the first syllable:
+    // To capitalize a multi-stroke word, star the first syllable:
     //   PEPBT/TKPWOPB "pentagon"  P*EPBT/TKPWOPB "Pentagon"
     //   HAPL/HRET "hamlet"        HA*PL/HRET "Hamlet"
-    // This feels right because the first syllable is the part
-    // where the lowercase-to-uppercase change happens.
+    // This feels right because the first syllable is the part where the
+    // lowercase-to-uppercase change happens.
     "TKA*D": "Dad", // give up "ADA"
     "TKAO*EUPLD": "Diamond",
     "AO*EFL": "Evil",
@@ -4015,10 +3982,49 @@
     "SKWA*EUR": "Square",
     "SAO*UPB": "Sunny",
     "SAO*UP/PHAPB": "Superman", // instead of SAOUP/PHA*PB
-    "SRAO*EUS": "Vice", // as in SRAO*EUS/PR*EZ "Vice President"
+    "SRAO*EUS": "Vice", // as in "Vice President"
 
     // Add * to *not* capitalize
     "KHO*EUPB": "china",
+
+    // Capitalize even when unstarred
+    "HER/PHAPBLGS/TEU": "Her Majesty",
+    "HEUS/PHAPBLGS/TEU": "His Majesty",
+    "KWROUR/PHAPBLGS/TEU": "Your Majesty",
+
+    // Only capitalize when starred
+    "PWAPBD/AEUD": "band-aid",
+    "PWA*PBD/AEUD": "Band-Aid",
+    "KORPBG": "congress",
+    "KO*RPBG": "Congress",
+    "KAUPB/TKPWRES": "congress",
+    "KA*UPB/TKPWRES": "Congress",
+    "TKAR/PHA": "dharma",
+    "TKARPL/KWRA": "dharma",
+    "HOBT": "hobbit",
+    "HO*BT": "Hobbit",
+    "HURPBT": "hunter",
+    "H*URPBT": "Hunter", // already works
+    "TWEURT": "twitter",
+    "TW*EURT": "Twitter",
+
+    // ... or doubled; can't star when already starred
+    "KP*EL": "excel",
+    "KP*EL/KP*EL": "Excel",
+
+    // Never capitalize; use KPA if really needed
+    "PHABGS/EUPL": "maxim",
+    "PHOR/ROE": "morrow",
+    "OP/ED": "op-ed",
+    "RUF/KWRAPB": "ruffian",
+    "AUP/STAEUT": "upstate",
+
+    "TKPWRAPBD/PHA": "grandma",     // uses HR instead of R by default:
+                                    //   TKPWRAPBD/PHA  "Grandma"
+                                    //   TKPWHRAPBD/PHA "grandma"
+    "HAL/HRAOU/KWRA": "hallelujah", // uses SKWR instead of KWR by default:
+                                    //   HAL/HRAOU/KWRA  "Hallelujah"
+                                    //   HAL/HRAOU/SKWRA "hallelujah"
 
     // Don't capitalize "the"
     // For the following expressions, forcing "the" to uppercase
