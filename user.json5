@@ -394,6 +394,7 @@
     "SPWREFT": "interest",         // to TR
     "TPHAEURB": "neighbor",        // to TPHAEUB
     "PUB/HREUFT": "publicity",     // to PHREUFT (custom)
+    "SHOP/HREUFRT": "shoplifter",  // to SHREUFRT
     "SEUFRT": "sister",            // to ST-R
 
     "SPWEUBGT": "indicate", // to KA*EUT
