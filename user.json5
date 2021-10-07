@@ -4487,9 +4487,9 @@
     "ERPBT": "errant", // but "errand" is ER/APBD since ERPBD is "earned"
 
     // "forget" family
-    "TP-RGT": "forget",     // TP-R "for" + -GT "get"; TPRET is "fret"
-    "TPROT": "forgot",      // cf. TKPWOT   "got"
-    "TPROPBT": "forgotten", // cf. TKPWOPBT "gotten"
+    "TP-RGT": "forget", // TP-R "for" + -GT "get"
+    "TPROT": "forgot",
+    "TPROPB": "forgotten",
 
     // "forgive" family
     "TPREUF": "forgive",
