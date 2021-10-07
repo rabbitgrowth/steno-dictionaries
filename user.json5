@@ -3672,6 +3672,10 @@
     "TPERS": "Ferris",
     "PAEURS": "Paris", // use -Z for "pairs"
 
+    // -S for -ace
+    "PALS": "palace", // use -Z for "pals"
+    "SOLS": "solace",
+
     // Use *S for special three-way conflicts
     "SKWRAO*EPBS": "genus", // with -S "genius", -Z "genes"
     "T*EPBS": "tennis",     // with -S "tense",  -Z "tens"
