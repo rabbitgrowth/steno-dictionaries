@@ -5002,10 +5002,6 @@
     // PERS already works, so PERJ should, too.
     "PERPBLG": "percentage",
 
-    // PRE/OR "pre- or"
-    "PRE/OR": "preor",
-    "PRE/OR/TKAEUPB": "preordain",
-
     // RAEUGSZ "radiation"
     "RAEUGSZ": "regulations", // cf. RAEUGS "regulation"
 
