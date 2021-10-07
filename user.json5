@@ -778,6 +778,7 @@
     "SAOE/KWRA": "see ya",
     "SPH/TKAEU": "some day",    // use SPH-D    for "someday"
     "SPH/TAOEUPL": "some time", // use STAOEUPL for "sometime"
+    "SPH/WAEU": "some way",     // use SPH/WA*EU ("some" + {^way}) for "someway"
     "STEPG/STOEPB": "stepping stone",
 
     // Prevent word boundary errors
