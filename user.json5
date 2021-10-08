@@ -104,12 +104,14 @@
     "TPR-TS": "from its",
     "SR-TS": "have its", // give up "very truly yours{,}"
     "TP-TS": "if its",
+    "TPH-TS": "in its", // overrides "notice" [1]
     "TPHAOTS": "into its",
     "OPBTS": "on its",
     "ORTS": "or its",
     "THRUTS": "through its",
     "TOTS": "to its",
     "W-TS": "with its",
+    /*1*/ "TPHO*ETS": "notice", // or use TPHOEUTS
 
     "HR-BG": "like", // use WELG for "welcome"
     "HR*BG": "{^like}", // use HR*PBG for "[l]ow i[nc]ome"
