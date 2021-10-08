@@ -3583,6 +3583,15 @@
     "WOFLZ": "wolves", // cf. WOFL "wolf"
     "WOFZ": "wolves",  // cf. WOF  "wolf"
 
+    // Always use -FS for "was", not to tack on -fs, -ves, etc.
+    "HREUPL/-FS": "limb was", // use HREUFPLZ for "lymphs"
+    "PHOR/-FS": "more was",   // use PHO*FRZ  for "morphs"
+    "SKAR/-FS": "scar was",   // use SKA*FRZ  for "scarfs"
+    "SHEL/-FS": "shell was",  // use SHEFLZ   for "shelves" (custom)
+    "STAR/-FS": "star was",   // use STAFRBZ  for "starves"
+    "SWER/-FS": "swear was",  // use SWEFRBZ  for "swerves"
+    "PHOED/-FS": "mode was",  // use PHOEDZ/-F for "modes of"
+
     // -o -> -oes
     "TKPW-Z": "goes",
     "HOEURZ": "heroes",
