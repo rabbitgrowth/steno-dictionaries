@@ -2900,7 +2900,7 @@
     "WHOFRT": "whoever the",
 
     // "just ..."
-    "SKWR-S": "just", // reserve SKWR, a nice shape, for special commands
+    "SKWR": "just",
     "SKWR-B": "just be",
     "SKWR-T": "just the",
     "SKWR-LG": "just like",
