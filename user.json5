@@ -2901,7 +2901,7 @@
 
     // "just ..."
     "SKWR-S": "just", // reserve SKWR, a nice shape, for special commands
-    "SKWR-B": "just been",
+    "SKWR-B": "just be",
     "SKWR-T": "just the",
     "SKWR-LG": "just like",
     "SKWR-PBG": "just in case", // cf. the starless "junk" SKWRUPBG
