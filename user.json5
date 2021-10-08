@@ -3672,6 +3672,7 @@
     "PWOEGS": "bogus",
     "PWOEPBS": "bonus",   // use -Z for "bones"
     "KAFRPS": "campus",   // use -Z for "camps"
+    "KHORS": "chorus",    // use -Z for "chores"
     "SEURBGS": "circus",  // use -Z for "circumstances"
     "TPOEBGS": "focus",   // use -Z for "folks"
     "HUPLS": "hummus",    // use -Z for "hums"
