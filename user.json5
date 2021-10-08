@@ -542,6 +542,8 @@
     "SOERLD": "soldier", // - SHRERPBLG is weird ("slerj"? probably meant
                          //   to be "sljer", like TPHOEUPBLG "enjoy"?)
                          // - not to be confused with SORLD "solder"
+    "SPOLT": "spotlight", // cf. SP-LT
+    "SPHRAOEUT": "spotlight",
     "SPHEUF": "submissive", // cf. SPHEUT "submit"
     "STPEURBL": "superficial", // STPEUFL feels more like "sfifal"
     "SWAEUPBLS": "surveillance",
@@ -609,6 +611,7 @@
     "HOEB": "hobby",
     "PHO*EPBG": "monkey", // cf. PHO*PBG "monk"
     "PROEBGS": "proxy", // use PREBGS for "protection"
+    "SKRAEPBT": "scanty",
     "SRAEL": "valley", // overrides "vale" [1]
     /*1*/ "SRA*EL": "vale", // give up "eval"
 
@@ -978,6 +981,7 @@
     "TKREFR": "dresser",
     "TKREUR": "drinker",
     "AOE/TPHARPL": "enamor",
+    "EPB/HARPBS": "enhancer",
     "TPAEURPBT": "fainter",
     "TPAURLT": "falter", // cf. AURLT "alter"
     "TPEUL/PWUFRT": "filibuster",
@@ -1259,6 +1263,7 @@
     "SPWO": "unto",
 
     // KPW for emb-, emp-, imb-, and imp-
+    "KPWARBG": "embark",
     "KPWAES": "embassy",
     "KPWED": "embed",
     "KPWETD": "embedded",
@@ -5064,6 +5069,8 @@
     "SAOELG/H-F": "ceiling",        // from "sealing"
     "SEL/H-F": "cell",              // from "sell"
     "SELZ/H-F": "cells",
+    "SAOERL/H-F": "cereal",         // from "serial"
+    "SAOERLZ/H-F": "cereals",
     "TKAPL/H-F": "damn",            // from "dam"
     "TKAOER/H-F": "dear",           // from "deer"
     "TKAOERL/H-F": "dearly",        // from "dealer"
@@ -5085,6 +5092,8 @@
     "HAEU/H-F": "hay",              // from "hey"
     "HAOEL/H-F": "heal",            // from "heel"
     "HAOELZ/H-F": "heals",
+    "HAEUR/H-F": "heir",            // from "hair"
+    "HAEURZ/H-F": "heirs",
     "HAOEUR/H-F": "hire",           // from "higher"
     "HAOEURD/H-F": "hired",         // from {hydro^}
     "SKWREUPL/H-F": "Jim",          // from "gym"
