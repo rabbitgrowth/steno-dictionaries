@@ -849,10 +849,6 @@
     "TPH-GS/WAOEUD": "nationwide",
     "WORL/WAOEUD": "worldwide", // WORLD/WAOEUD already works
 
-    "WO*ERT": "{^worthy}", // see also WOERT "worthy"
-    "TPHOET/WOERT": "noteworthy",
-    "TRUFT/WOERT": "trustworthy", // drop * in TRUFT/WO*ERT
-
     "WR*EUR": "{^writer}",
     "KO*EP/WREUR": "copywriter",
     "KOEP/WREUR": "copywriter", // in ascending order of laziness:
@@ -1990,13 +1986,7 @@
     "TRU": "true",   // for consistency
     "TRUL": "truly",
     "UPBD/TPHAOET": "underneath",
-    "WELT": "wealth",  // swap with "welt" [1]
-    "WORT": "worth",   // swap with "wort" [2]
-    "WOERT": "worthy", // see also WO*ERT {^worthy}
-    "TWORT": "worth it",
     "KWRAOUT": "youth",
-    /*1*/ "W*ELT": "welt",
-    /*2*/ "WO*RT": "wort",
 
     "PHETD": "method",    // by default "meted" by accident ("met" + {^ed});
                           // to write "meted" properly, use PHAO*ETD
