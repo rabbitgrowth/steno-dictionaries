@@ -4845,15 +4845,12 @@
 
     // Pronounce TPH as en-
     // Precedents: TPH-PBLG "engine", TPH-RG "energy"
-    "TPH-D": "end",     // - "N'd"
-                        // - easier to stroke than EPBD
-                        // - give up {^ed in}
-    "TPH-DZ": "ends",   // overrides "inside"  [1]
-    "TPH-TD": "ended",  // overrides "noticed" [2]
+    "TPH-D": "end",     // easier to stroke than EPBD; give up {^ed in}
+    "TPH-DZ": "ends",   // overrides "inside" [1]
+    "TPH-TD": "ended",  // use TPHO*ETS/-D (custom) for "noticed"
     "TPH-GD": "ending", // much easier to stroke than EPBGD
     /*1*/ "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
           "OUFD": "outside",  // "ousd"; for consistency
-    /*2*/ "TPH-TSDZ": "noticed", // (TPH-TS + -D) + -Z
 
     // TPH-PB "under" never made sense to me. Why two Ns? Plus TPH-PBT
     // is "innocent" (which is consistent with TPH-PBS "innocence"),
