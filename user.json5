@@ -1336,6 +1336,8 @@
     // Stretch KPW to mean amb- and amp-
     "KPWEUPBS": "ambience", // misstroke for "convince"
     "KPWEUPBT": "ambient",
+    "KPWEUG/AOUT": "ambiguity", // or use TKPWAOUT
+    "KPWEUG/WOUS": "ambiguous", // or use TKPWOUS
     "KPWEUGS": "ambition",
     "KPWEURBS": "ambitious",
     "KPWEUFLS": "ambivalence", // cf. APL/PWEUFLS
