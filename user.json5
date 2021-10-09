@@ -1812,6 +1812,16 @@
     "TKPWRAOUFPL": "gruesome",
     "WHOEFPL": "wholesome",
 
+    // -FBG for -stic
+    // Precedents: PHRAFBG  "plastic"
+    //             TKPHEFBG "domestic"
+    //             KREUFBG  "characteristic"
+    "HREUPBG/WEUFBG": "linguistic",
+    "OPT/PHEUFBG": "optimistic",
+    "PES/PHEUFBG": "pessimistic",
+    "SAR/KAFBG": "sarcastic",
+    "SKAFBG": "sarcastic", // cf. SKAFPL "sarcasm"
+
     // -RB for -sure
     // Precedents: PRERB "pressure", PH*ERB "measure" (- * = "mesh")
     "KHROERB": "closure", // and get EPB/KHROERB "enclosure" for free
