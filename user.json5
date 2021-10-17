@@ -14,6 +14,7 @@
     "PW-L": "build",  // cf. PW-LG "building"
     "PW-LT": "built", // give up "brake light"
     "PW-RL": "builder",
+    "KH-G": "change",
     "STK-PT": "despite",  // all the consonants evenly spread out
     "TK-F": "detective",  // give up "def" (for programming?)
     "TK-FS": "difference",
@@ -988,6 +989,7 @@
     "TKREUR": "drinker",
     "AOE/TPHARPL": "enamor",
     "EPB/HARPBS": "enhancer",
+    "KP-R": "examiner",
     "TPAEURPBT": "fainter",
     "TPAURLT": "falter", // cf. AURLT "alter"
     "TPEUL/PWUFRT": "filibuster",
@@ -1290,6 +1292,8 @@
     "KPWHROE": "employee", // "emplo-E"; cf. PHROE
     "KPWHROEUR": "employer",
     "KPWHROEUPLT": "employment",
+    "KPWOUR": "empower",
+    "KPWOURPLT": "empowerment",
     "KPWEFL": "imbecile", // /ˈɪmbəsəl/
     "KPWAOEUB": "imbibe",
     "KPWAOU": "imbue",
