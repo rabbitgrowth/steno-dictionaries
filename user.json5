@@ -43,9 +43,10 @@
     "OL": "only",
     "P-T": "point",   // use P-P for {^.^}
     "P-TS": "points", // use PREZ/-Z for "presidents"
+    "P-RT": "pointer",
+    "P-LS": "pointless",
     "P-FT": "point of",
     "P-FTS": "points of",
-    "P-LS": "pointless",
     "PR-B": "problem",
     "T-G": "thing",
     /*1*/ "HR*LG": "{^ological}",
