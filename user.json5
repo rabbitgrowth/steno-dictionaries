@@ -4129,12 +4129,13 @@
     //   SR-PBLT "have not"
     //   KAPBT   "can't"
     //   KAPBLT  "cannot"
-    "K-PLT": "cannot",   // give up {&k-}
+    "K-PLT": "cannot",    // give up {&k-}
     "TKOEPLT": "do not",
-    "TKOPLT": "do not",  // use TKOPL/TPHAPBT for "dominant",
-                         // which is consistent with TKOPL/TPHAEUT "dominate"
+    "TKOPLT": "do not",   // use TKOPL/TPHAPBT for "dominant",
+                          // which is consistent with TKOPL/TPHAEUT "dominate"
     "TKUPLT": "does not",
-    "TK-PLT": "did not", // give up {&d-}
+    "TK-PLT": "did not",  // give up {&d-}
+    "HR-PLT": "will not", // give up {&l-}
 
     // Use -PLT for "not" even when there's no -n't form
     // Again, this is not unprecedented:
