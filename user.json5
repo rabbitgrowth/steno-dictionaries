@@ -3474,6 +3474,12 @@
     "STPH*UP": "signup",
     "WUP": "wake up",       // misstroke for "one"
 
+    // "... have no idea"
+    "KWR-FPBD": "I have no idea", // cf. EUFPBD
+    "UFPBD": "you have no idea",  // use UFD (custom) for "you find"
+    "W-FPBD": "we have no idea",
+    "THEFPBD": "they have no idea",
+
     // Miscellaneous
     "PWHOU": "about how",
     "TKORG": "according to", // mashup of KORG "according" and TO "to"
