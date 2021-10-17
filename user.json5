@@ -2250,17 +2250,19 @@
     "SREUG": "vigor",     // "have Iing"
 
     // Untranslates
-    "AEUPBG": "angel",
-    "ARBG/AEUPBG": "archangel",
     "AEURB": "Asia", // flashes past in AEURB/HAPL "Abraham"
     "SKWREP": "jeopardy",
     "POEPB": "pony",
     "KWARPB": "quarantine",
+    "SAOUF": "souvenir",
+    "TRUFRPB": "truncheon", // alternative to TRUPBGS
+
+    "AEUPBG": "angel",
+    "ARBG/AEUPBG": "archangel",
+
     "SKEP": "skeptic",
     "SKEPL": "skeptical",
     "SKEFPL": "skepticism",
-    "SAOUF": "souvenir",
-    "TRUFRPB": "truncheon", // alternative to TRUPBGS
 
     // Words with better strokes
     "SKWRAOUF": "juvenile", // "justify"    SKWRUF (custom)
