@@ -19,6 +19,8 @@
     "TK-F": "detective",  // give up "def" (for programming?)
     "TK-FS": "difference",
     "TK-FT": "different", // use TK-FD for "defendant"
+    "SR-PB": "event",
+    "SR-FL": "eventful",
     "KP-T": "exact",      // cf. TKRET  "direct"
     "KP-L": "exactly",    // cf. TKREL  "directly"; use KP-PL ("xm" or "xpl") for "example"
     "KP-LG": "exactly",   // cf. TKRELG "directly", ELG "exactly"
@@ -49,6 +51,7 @@
     "P-FTS": "points of",
     "PR-B": "problem",
     "T-G": "thing",
+    "SR-L": "value",
     /*1*/ "HR*LG": "{^ological}",
     /*2*/ "RAOEUT": "rite",
           "RAOEUTS": "rites",
@@ -1028,6 +1031,7 @@
     "SWEUFRT": "swifter",
     "TA*RPBG": "tanker",
     "TAEURT": "tater",
+    "TRARBGT": "tractor",
     "THRAEURT": "translator",
     "TRAORP": "trooper",
     "UPB/TPERT": "unfetter",
@@ -1078,6 +1082,7 @@
                            // (no * because * is reserved for "Frank")
                            // use TPRALG for "fragile"
     "TPREPBL": "friendly", // overrides "Fresnel" [2]
+    "SKWREPB/WEUPBL": "genuinely",
     "TKPWAFLT": "ghastly",
     "TKPWHRALD": "gladly",
     "TKPWHREUBL": "glibly",
@@ -1970,6 +1975,7 @@
     "STPHAOULGS": "institutional",
     "TPH-LGS": "national", // or use TPHAT
     "TPHOE/TAEULGS": "notational",
+    "TPHAOU/TREULGS": "nutritional",
     "KOEULGS": "occasional",
     "KHROEULGS": "occasionally",
     "PRO/SREULGS": "provisional", // or use PREUPBL (custom)
