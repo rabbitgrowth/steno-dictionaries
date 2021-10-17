@@ -931,6 +931,15 @@
     "SWOEBG": "awoke",
     /*1*/ "SHRO*EPB": "Sloan",
 
+    // A/S- instead of AS/S- for ass-
+    "A/SAEUL": "assail", // cf. A/SAEUL/APBT "assailant"
+    "A/SAEULG": "assailing",
+    "A/SAEUPBLT": "assailant",
+    "A/SEPBT": "assent",
+    "SAEPBT": "assent",
+    "A/SORT": "assort", // cf. A/SORPLT "assortment"
+    "A/SORTS": "assorts",
+
     // Fold in -FL for -ful
     // For -tful, you can usually omit the -T:
     //   THAUFL     "thoughtful"
