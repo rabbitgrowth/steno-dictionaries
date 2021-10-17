@@ -4903,9 +4903,9 @@
     // Precedents: TKRAOEUF "drive" -> TKRAO*EUF "derive"
     //             TKRAOEUD "dried" -> TKRAO*EUD "deride"
     // (but KHRAPZ "claps" -> KHRAPS "collapse")
-    "KRO*RPB": "coroner", // from KRORPB "corner"; frees up ...
-    "KOERPB": "corny",
-    "STPHO*RT": "sonority", // use STPHOF for "and so forth"
+    "KRO*RPB": "coroner",   // from KRORPB "corner"; frees up KOERPB for "corny" [1]
+    "STPHO*RT": "sonority", // from STPHORT "snort"; use STPHOF for "and so forth"
+    /*1*/ "KOERPB": "corny",
 
     // "admix"
     // AD/PHEUBGS conflicts with "add mix" ("add mix to the bowl"),
