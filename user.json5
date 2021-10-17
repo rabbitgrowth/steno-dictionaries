@@ -4130,7 +4130,6 @@
     //   KAPBT   "can't"
     //   KAPBLT  "cannot"
     "K-PLT": "cannot",    // give up {&k-}
-    "TKOEPLT": "do not",
     "TKOPLT": "do not",   // use TKOPL/TPHAPBT for "dominant",
                           // which is consistent with TKOPL/TPHAEUT "dominate"
     "TKUPLT": "does not",
