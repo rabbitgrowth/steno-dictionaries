@@ -104,14 +104,13 @@
     "TPR-TS": "from its",
     "SR-TS": "have its", // give up "very truly yours{,}"
     "TP-TS": "if its",
-    "TPH-TS": "in its", // overrides "notice" [1]
+    "TPH-TS": "in its", // use TPHO*ETS (custom) for "notice"
     "TPHAOTS": "into its",
     "OPBTS": "on its",
     "ORTS": "or its",
     "THRUTS": "through its",
     "TOTS": "to its",
     "W-TS": "with its",
-    /*1*/ "TPHO*ETS": "notice", // or use TPHOEUTS
 
     "HR-BG": "like", // use WELG for "welcome"
     "HR*BG": "{^like}", // use HR*PBG for "[l]ow i[nc]ome"
@@ -4899,11 +4898,12 @@
     "HRETS": "lets",
     "HR*ETS": "let's",
 
-    // Add * to insert schwa(s)
+    // Add * to insert schwa or weak vowel
     // Precedents: TKRAOEUF "drive" -> TKRAO*EUF "derive"
     //             TKRAOEUD "dried" -> TKRAO*EUD "deride"
     // (but KHRAPZ "claps" -> KHRAPS "collapse")
     "KRO*RPB": "coroner",   // from KRORPB "corner"; frees up KOERPB for "corny" [1]
+    "TPHO*ETS": "notice",   // from TPHOETS "notes"; or use TPHOEUTS
     "STPHO*RT": "sonority", // from STPHORT "snort"; use STPHOF for "and so forth"
     /*1*/ "KOERPB": "corny",
 
