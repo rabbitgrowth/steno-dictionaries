@@ -2822,21 +2822,6 @@
     "TWAOEU": "way to", // TWAOEUS is "twice"
     "TAOUFBD": "used to be",
 
-    // -F for "if" (instead of "of")
-    // Precedent: KWROEFPB "I don't know if"
-    // While "I don't know of" is valid English,
-    // "I don't know if" is much more frequent:
-    // I DO N'T KNOW IF  19988
-    // I DO N'T KNOW OF    960
-    // Instead of blindly always using -F for "of",
-    // let the context decide if it should be "if".
-    "AOEFPB": "even if", // TPAOEPB feels more like "if even"
-    "AOEFPBT": "even if the",
-    "AOEPBT": "even the",
-    "OEFPBL": "only if",  // which frees up ...
-    "TPOEPBL": "if only", // follow steno order
-    "WHAF": "what if",
-
     // "... a"
     // SA   "sa"
     // TKA  "da"
