@@ -2925,6 +2925,7 @@
     "P": "people",
     "P-R": "people are", // misstroke for "for"
     "P-RP": "people were",
+    "P-L": "people will",
     "P-BZ": "people say",
 
     // The P-P symmetry makes it feel natural to use -P for "people" too.
