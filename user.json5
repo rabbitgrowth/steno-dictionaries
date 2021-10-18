@@ -4662,6 +4662,7 @@
     "WAEU": "way", // already works
     "WAU": "away", // arbitrary; frees up ...
     "WA*EU": "{^way}",
+    "WA*EUZ": "{^ways}", // give up "Waze" (GPS company)
     "WA*U": "{^away}",
 
     // -- Easily confused words ------------------------------------------------
