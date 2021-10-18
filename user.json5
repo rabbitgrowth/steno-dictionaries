@@ -1489,6 +1489,7 @@
     "SKPHRAEUPB": "explain",     // or use KP-PB   (custom)
     "SKPHRAPBGS": "explanation", // or use KP-PBGS (custom)
     "SKPHREUFT": "explicit",
+    "SKPHREUFLT": "explicitly",
     "SKPHROED": "explode",
     "SKPHROETD": "exploded",
     "SKPHROEUT": "exploit",
