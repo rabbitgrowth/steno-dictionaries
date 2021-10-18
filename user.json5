@@ -3369,6 +3369,7 @@
     "SRAELS": "as real as",
     "SPHALS": "as small as",
     "SWAEBGS": "as weak as", // STROPBGS "as strong as" already works
+    "SWELS": "as well as", // use -Z for "swells"
 
     // "so that ..."
     "STHAO": "so that",
