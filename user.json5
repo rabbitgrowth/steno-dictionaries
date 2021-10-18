@@ -246,8 +246,8 @@
     /*3*/ "WAUPBD": "wand",
 
     "PWROE": "borrow",     // with SROE "sorrow"; use PWRO for "borough"
-    "PWROEG": "borrowing", // much nicer than PWO*ERPBG; overrides "brogue" [1]
-    /*1*/ "PWRO*EG": "brogue",
+    "PWROEG": "borrowing", // much nicer than PWO*ERPBG; overrides "brogue" 
+    "PWRO*EG": "brogue",
     // SROE  "sorrow" -- PWROE   "borrow"
     // SROEG "vogue"     PWROEG  "borrowing"
     //                   PWRO*EG "brogue"
