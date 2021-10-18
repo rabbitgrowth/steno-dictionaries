@@ -4480,6 +4480,32 @@
     "STKPWREPLT": "disagreement",
     /*1*/ "TKPWR*EG": "Greg", // give up "Gregg"
 
+    // "apprehend" family
+    "A/PREPBD": "apprehend", // already works
+    "A/PREBL": "apprehensible",
+    "A/PREBLT": "apprehensibility",
+    "A/PREPBGS": "apprehension",
+    "A/PREF": "apprehensive",
+    "A/PREFL": "apprehensively",
+    "A/PREFPBS": "apprehensiveness",
+    "A/PREPBS/-BL": "apprehensible",
+    "A/PREPBS/-BLT": "apprehensibility",
+    "A/PREPBS/EUF": "apprehensive",
+    "A/PREPBS/EUFL": "apprehensively",
+    "A/PREPBS/EUFPBS": "apprehensiveness",
+    "PRAEPBD": "apprehend",
+    "PRAEBL": "apprehensible",
+    "PRAEBLT": "apprehensibility",
+    "PRAEPBGS": "apprehension",
+    "PRAEF": "apprehensive",
+    "PRAEFL": "apprehensively",
+    "PRAEFPBS": "apprehensiveness",
+    "PRAEPBS/-BL": "apprehensible",
+    "PRAEPBS/-BLT": "apprehensibility",
+    "PRAEPBS/EUF": "apprehensive",
+    "PRAEPBS/EUFL": "apprehensively",
+    "PRAEPBS/EUFPBS": "apprehensiveness",
+
     // "comprehend" family
     // cf. SREUGS       "vision"
     //     SREUBL       "visible"
