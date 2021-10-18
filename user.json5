@@ -1999,8 +1999,10 @@
 
     // AEUPB for -aken
     // Precedent: SPHAEUPB "mistaken" (Plover used to require *)
-    "A/WAEUPB": "awaken",       // "aWayne"  is not a word
-    "TPAUR/SAEUPB": "forsaken", // "forsane" is not a word
+    "A/WAEUPB": "awaken",
+    "A/WAEUPBD": "awakened",
+    "A/WAEUPBG": "awakening",
+    "TPAUR/SAEUPB": "forsaken",
 
     // -T for -th (Indian accent?)
     "ERT": "earth", // which frees up ...
