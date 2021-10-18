@@ -3585,7 +3585,7 @@
     "SRABG/SEUPBZ": "vaccines",
     "WEUPBD/TPAULZ": "windfalls",
 
-    "AO*EZ": "{^ies}", // cf. AO*E {^ie}; use AOEZ for {^ese}
+    "AO*EZ": "{^ies}", // plural of AO*E {^ie}; use AOEZ for {^ese}
 
     // -f -> -ves
     "HAFZ": "halves",
