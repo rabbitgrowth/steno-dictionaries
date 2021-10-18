@@ -1805,6 +1805,7 @@
     "TPAOERT": "feature",            // or use TPAOEFP
     "TPRUFP": "infrastructure",      // cf. TPRUBGS
     "TPHUR/TUR": "nurture",          // or use TPHAOUFP
+    "PAS/TUR": "pasture",            // swap with "Pasteur" [1]
     "P-FP": "picture",               // misstroke for {.}
     "PEURBGT": "picture",            // or use P*EUFP
     "SKREURPT": "scripture",         // or use SKR*EUFP
@@ -1813,6 +1814,7 @@
     "TEFP": "temperature",           // use TEBG for "tech"
     "TEPL/TUR": "temperature",
     "TEFRP/TUR": "temperature",
+    /*1*/ "PAS/TAOUR": "Pasteur",
 
     "TUR": "{^ture}", // or use TAOUR, which is consistent with AOUR {^ure}
 
