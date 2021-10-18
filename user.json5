@@ -207,6 +207,8 @@
     "TPEUFR": "officer",        // with TPEURBL "official"
     "TP*EUFR": "Officer",
     "ORPB": "origin",           // with ORPBL "original"
+    "PAFRT": "part of",         // with SOFRT "sort of"; by default "part of the"
+    "PAFRTS": "parts of",
     "P-FGS": "perfection",      // with P-F "perfect"
     "PERP/TWAL": "perpetual",   // with PERP/TWAEUT "perpetuate" ("wrong" stress)
                                 //      PERP/TRAEUT "perpetrate" ("right" stress)
@@ -250,16 +252,6 @@
     //                   PWROED  "borrowed"
     //                   PWROER  "brother"  -- PHOER "mother"
     //                   PWRO*ER "borrower"    TPAER "father"
-
-    "PAFR": "part of", // with PAFRT "part of the"; use PAEUFR for "paver"
-    // SAEUF  "safe"   WAEUF  "waive"   PAEUF  "pave"
-    // SAEUFR "safer"  WAEUFR "waiver"  PAEUFR "paver"
-    // SAF    "save"   WAF    "wave"    PAF    also "pave"
-    // SAFR   "saver"  WAFR   "waver"   PAFR   also "paver" -> "part of"
-    // AF doesn't always work for -ave, even for common words:
-    // TKPWAF  "gaffe"    TKPWAEUF  "gave"
-    // TKPWRAF "graph"    TKPWRAEUF "grave"
-    // SHRAF   undefined  SHRAEUF   "slave"
 
     // Words with other words in them
     "PHEL/TKROEUPL": "melodrama",
