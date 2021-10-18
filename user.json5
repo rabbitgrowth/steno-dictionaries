@@ -184,6 +184,8 @@
     "HAPBT": "hasn't",          // with HAPBLT "has not"
                                 //   HAPBT "hasn't" + -L as bridge = "has not"
     "PHAGS": "imagination",     // with PHAPBLG "imagine"; use -Z for "magazines"
+    "PAEPBS": "independence",   // with PAEPBT "independent"
+                                //   use -Z for "panes"; frees up P*EPBS for "pence" [1]
     "TPH-FBGT": "infect",       // with TPH-FRPL "inform", TPH-FPBT "infinite", etc.
     "TERPGS": "interpretation", // with TERP "interpret"
     "TWAOEPB": "intervene",     // with TWEPBGS "intervention"; use TW for "between"
@@ -201,7 +203,7 @@
     "PHAOEUFB": "might have been",
                                 // with PHAEUFB "may have been"
     "PHEURL": "miracle",        // with ARL "article", SEURL "circle"
-                                //   overrides "Merrill" [1]
+                                //   overrides "Merrill" [2]
     "TPHAOERB": "nearby",       // with TPHAOER "near"; use TPHEURB for "niche"
     "KRURPBS": "occurrence",    // with KRUR "occur"
     "TPEUFR": "officer",        // with TPEURBL "official"
@@ -231,16 +233,17 @@
     "THOR": "thorough",         // with THORL "thoroughly"; use THORZ for "authorize"
     "TREUGS": "transmission",   // with TREUT "transmit"; use TRAPBGS for "transition"
     "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
-    "WAPBD": "wander",          // with WOPBD "wonder"; overrides "wand" [2]
+    "WAPBD": "wander",          // with WOPBD "wonder"; overrides "wand" [3]
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "SAEUGS": "{^isation}",     // with SA*EUGS {^ization}
     "O*UR": "{^our}",           // with O*R {^or}
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
-    /*1*/ "PH*ERL": "Merrill", // PHERL   "Meryl"
+    /*1*/ "P*EPBS": "pence",
+    /*2*/ "PH*ERL": "Merrill", // PHERL   "Meryl"
                                // PH*ERL  "Merrill" (custom)
                                // PHEURL  "miracle" (custom)
                                // PH*EURL "Miller"
-    /*2*/ "WAUPBD": "wand",
+    /*3*/ "WAUPBD": "wand",
 
     "PWROE": "borrow",     // with SROE "sorrow"; use PWRO for "borough"
     "PWROEG": "borrowing", // much nicer than PWO*ERPBG; overrides "brogue" [1]
