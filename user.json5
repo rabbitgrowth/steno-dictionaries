@@ -352,6 +352,7 @@
     "TAOEPBG": "teenage",
     "TAOERPBG": "teenager",
     "T*EPBT": "tenth", // use EPBT/TEU for "entity"
+    "T*EPBTS": "tenths",
     "T*ERS": "terrace", // - * = "terse"
     "TRAOEFPB": "treason",
     "TRAOEFPBS": "treasonous",
@@ -3577,6 +3578,7 @@
     "TKOPL/TPHOEZ": "dominoes",
     "EBG/OEZ": "echoes",
     "EPB/PHEUZ": "enemies",
+    "EPBT/TEUZ": "entities",
     "HOUS/WAOEUFZ": "housewives",
     "OD/TEUZ": "oddities",
     "POR/TRAEUZ": "portrays",
