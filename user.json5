@@ -111,15 +111,16 @@
     "TOTS": "to its",
     "W-TS": "with its",
 
-    "HR-BG": "like", // use WELG for "welcome"
+    "HR-BG": "like",    // use WELG for "welcome"
     "HR*BG": "{^like}", // use HR*PBG for "[l]ow i[nc]ome"
+    "HR-G": "liking",   // use WEULG for "willing"
     "HR-BGD": "liked",
+    "HR-LG": "likely",  // overrides {^ological} [1]
     "HR-BGT": "like the",
-    "HR-LG": "likely", // overrides {^ological} [1]
     "SHR-BG": "is like",
     "SHR-BGT": "is like the",
     "SHR-LG": "is likely",
-    "HRAOLG": "likelihood", // HR-LG + "oo"
+    "HRAOLG": "likelihood",
     /*1*/ "HR*LG": "{^ological}",
 
     "-RT": "right", // - physically stroked with the right hand
@@ -1121,7 +1122,7 @@
     /*3*/ "O*PL": "ohm", // feels consistent with O "oh" (custom)
     /*4*/ "SAELD": "salad", // AE for /æ/
 
-    "-LG": "{^ingly}", // use WEULG or even HR-G for "willing"
+    "-LG": "{^ingly}", // use WEULG for "willing"
 
     "HR-LS": "{^lessly}", // -LS  for -less + HR for -ly
     "HRELS": "{^lessly}", // HRES for -less + -L for -ly
