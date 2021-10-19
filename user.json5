@@ -1125,6 +1125,8 @@
     "HR-LS": "{^lessly}", // -LS  for -less + HR for -ly
     "HRELS": "{^lessly}", // HRES for -less + -L for -ly
 
+    "AERL": "{^arily}",
+
     // ... or use HR if -L is already used
     "PWHROELD": "boldly",
     "KHRAEUFRL": "carefully",
