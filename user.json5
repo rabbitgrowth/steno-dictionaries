@@ -1196,10 +1196,9 @@
     "ROEFRPB": "Roman",
     "SAFRPB": "salmon",
     "SAOEFRPB": "semen",
-    // But keep the default strokes for "common" and "summon":
-    // KPHOPB "common" (not KOFRPB, which is "conch";
-    //                  more importantly, KOFRPBS is "conference")
-    // SPHOPB "summon" (not SUFRPB; SUFRPBS is "sufferance")
+    "SUFRPB": "summon", // alternative to SPHOPB
+    // But "common" remains KPHOPB, since KOFRPB is "conch"
+    // (and KPHOPB has already become muscle memory anyway).
 
     // -FRB for -mb
     "KHRUFRB/KWRA": "Columbia",
