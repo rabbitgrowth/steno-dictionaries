@@ -4132,6 +4132,7 @@
     "SHOPT": "shouldn't",
     "WUPT": "wasn't",
     "WR-PT": "weren't", // use WR-P (custom) for "with respect"
+    "PR-PT": "weren't", // wildly experimental: -RP reflected along vertical axis
     "WOEPT": "won't",
     "WOPT": "wouldn't",
     /*1*/ "R-P": "respect", // misstroke for "reason"
