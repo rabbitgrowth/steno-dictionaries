@@ -3495,7 +3495,7 @@
     "TPOEPBL": "if only",
     "TPHORTD": "in order to", // TO is in TPHORD "in order", so use -T for "to"
     "TPHEUS": "in this",
-    "TPHURPB": "in turn", // instead of "turn in"; follow steno order
+    "TPHURPB": "in turn", // instead of "turn in"
     "STHAU": "is that you",
     "T-D": "it had", // give up {^ed it}
     "TPHOBT": "not be",
@@ -3508,13 +3508,13 @@
     "TKO*": "to do",
     "STKO*": "to do so",
     "TOFB": "to have been",
-    "WHABG": "what can", // - "what could/shall/should/will/would" all work
-                         // - swap with "whack" [1]
+    "WHABG": "what can", // "what could/shall/should/will/would" all work;
+                         // swap with "whack" [1]
     "WHAOER": "what other",
     "WHE": "when he", // use WH for "when"
     "TWH": "when it",
     "WHOER": "when other",
-    "WHRORPLT": "whether or not", // cf. ORPLT (custom); or just use WH[R]ORPB
+    "WHRORPLT": "whether or not", // cf. ORPLT (custom); or use WH[R]ORPB
     "WHOU": "who you", // bizarre misstroke for "how"
     "HR-F": "will have", // use HRUF for "love" (think "luv")
     "HR-FB": "will have been",
