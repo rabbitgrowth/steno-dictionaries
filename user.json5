@@ -4307,7 +4307,8 @@
     "TKPW-PBLG": "{;}",
 
     // Ellipsis
-    "-RGZ": "{^...}", // looks like three dots on the keyboard
+    "-RBGS": "{^...}", // lower right corner feels right if you're used to
+                       // reading text from top to bottom, left to right
 
     // Brackets
     // The closest thing that looks like an open bracket,
