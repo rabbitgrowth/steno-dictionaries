@@ -281,6 +281,8 @@
     "PWHREUPBG/WAL": "bilingual",
     "PWHREUPBLG": "bilingual", // PWHREUPBL + -G; "blingle"
     "PWEUS/TROE": "bistro", // /ˈbɪstrəʊ/; /ˈbiːs-/ already works: PWAOES/TROE
+    "PWOFPL": "bosom",
+    "PWUFPL": "bosom",
     "PWRAOD": "brood", // use PWROD for "broad"
     "PWRAOTD": "brooded",
     "KHRERPBD": "calendar",
@@ -334,6 +336,7 @@
     "PHRAFD": "placid",
     "PHRAFLD": "placidly",
     "PROP/TKPWAPB/TKEUFT": "propagandist", // alternative to PROP/TKPWAPBD/EUFT
+    "PEURPLD": "pyramid",
     "STHRAOEUT": "satellite",
     "SKAPBLD": "scandal",
     "SERBG/TREU": "secretary",
@@ -363,6 +366,7 @@
     "WAOERPBS": "weariness",
     "WAOPBD": "wooden",
     "WAOPB": "wooden", // shortcut to avoid -D
+    "KWROERGT": "yogurt",
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELZ for "sells"
     /*1*/ "STPHAT/SKWRA": "sonata", // or just use SO/TPHA/TA
@@ -464,6 +468,8 @@
     "TKPHEUGS": "admission",
     "HRARPL": "alarm",
     "ALG": "algorithm", // use ALGS for "additional"
+    "A/TPHAOEULT": "annihilate",
+    "A/TPHAOEULGS": "annihilation",
     "PHREUBGS": "application", // use -Z for "politics" [1]
     "AEURGS": "arrogance", // use -Z for "airings"
     "AEURGT": "arrogant",  // cf. AEURPT "airport"
@@ -975,6 +981,7 @@
     "APBLG/TAEURT": "agitator",
     "APB/PHAEURT": "animator",
     "A/TARBG": "attacker",
+    "A/SRERPBG": "avenger",
     "PWHRARB": "blabber",
     "PWHRAOERBG": "bleaker", // cf. PWAOERBG "beaker"
     "PWHRURPBD": "blunder",
@@ -993,6 +1000,7 @@
     "AOE/TPHARPL": "enamor",
     "EPB/HARPBS": "enhancer",
     "KP-R": "examiner",
+    "SKAOURGS": "executioner",
     "TPAEURPBT": "fainter",
     "TPAURLT": "falter", // cf. AURLT "alter"
     "TPEUL/PWUFRT": "filibuster",
@@ -1008,6 +1016,8 @@
     "PHAOERG": "meager",
     "PHAOERPBD": "meander",
     "TPH*ERT": "nether",
+    "OFRPBD": "offender",
+    "O/TPERPBD": "offender",
     "PAEURPBT": "painter", // use PARPBT for "parent"
     "PAEURPBTS": "painters",
     "POEUL/EFRT": "polyester", // EFRT is normally "effort" but "polyeffort" is not a word
@@ -5155,6 +5165,9 @@
     "HAOELZ/H-F": "heals",
     "HAEUR/H-F": "heir",            // from "hair"
     "HAEURZ/H-F": "heirs",
+    "HAOU/H-F": "hew",              // from "hue"
+    "HAOUD/H-F": "hewed",
+    "HAOUZ/H-F": "hews",
     "HAOEUR/H-F": "hire",           // from "higher"
     "HAOEURD/H-F": "hired",         // from {hydro^}
     "SKWREUPL/H-F": "Jim",          // from "gym"
