@@ -834,6 +834,8 @@
     "-PB": "{^en}",    // use APB for "an"
     "-PBD": "{^ened}", // use SKP for "and"
     "-PBG": "{^ening}",
+    "HRAEUD/-PB": "laden",
+    "HRAOEUBG/-PB": "lichen", // use HR-BG "like" (custom) + {^en} for "liken"
 
     "-LD": "{^land}", // use WO for "would", like HR, not -L, for "will"
     "TKPWARLD": "garland", // has nothing to do with "gar" (fish) but whatever
@@ -1190,8 +1192,10 @@
     "TKAOEFRPB": "demon", // alternative to TKPHOPB
     "TPAFRPB": "famine",
     "HREFRPB": "lemon",
+    "OEFRPB": "omen",
     "ROEFRPB": "Roman",
     "SAFRPB": "salmon",
+    "SAOEFRPB": "semen",
     // But keep the default strokes for "common" and "summon":
     // KPHOPB "common" (not KOFRPB, which is "conch";
     //                  more importantly, KOFRPBS is "conference")
