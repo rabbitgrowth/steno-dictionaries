@@ -1087,8 +1087,7 @@
     "ELZ": "easily",
     "TP-RBLT": "efficiently",
     "TPEURBLT": "efficiently",
-    "TPRAPBLG": "frankly", // from TPRAPBG "frank"
-                           // (no * because * is reserved for "Frank")
+    "TPRAPBLG": "frankly", // from TPRAPBG "frank" (* is reserved for "Frank");
                            // use TPRALG for "fragile"
     "TPREPBL": "friendly", // overrides "Fresnel" [2]
     "SKWREPB/WEUPBL": "genuinely",
