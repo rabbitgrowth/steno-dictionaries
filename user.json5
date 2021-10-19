@@ -4894,6 +4894,9 @@
     "KW-LT": "quietly",
     /*1*/ "STPH*UR": "insure",
 
+    // Use single hyphen as dash
+    "TK-RB": "-",
+
     // Don't hyphenate
     "KAFT/AOEURPB": "cast iron",
     "ROUPBD/TREUP": "round trip",
