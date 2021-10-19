@@ -1062,16 +1062,6 @@
     "SPROR": "supporter",
     "WRAOERD": "weirder",
 
-    // -L for -ly
-    // TPHAOED/-D "needed" feels nice. Why not HRAOEL/-L for "legally"?
-    "-L": "{^ly}",   // overrides {^'ll}
-    "AEL": "{^'ll}", // overrides "ale"
-    "AEUL": "ale",   // overrides "ail"
-    "A*EUL": "ail",
-    "AED": "{^'d}",  // to complete the set: AES AEL AED
-
-    "TAOEUT/-L": "tightly", // use TAOEULT for "title"
-
     // Fold in -L for -ly
     "KORLG": "accordingly",
     "PROELT": "appropriately", // overrides "protocol" [1]
@@ -1152,6 +1142,16 @@
     "HRUPLT": "ultimately",
     "HRURBL": "usually",
     "WHRUFL": "wonderfully",
+
+    // -L as a standalone suffix for -ly
+    // TPHAOED/-D "needed" feels nice. Why not HRAOEL/-L for "legally"?
+    "-L": "{^ly}",   // overrides {^'ll}
+    "AEL": "{^'ll}", // overrides "ale"
+    "AEUL": "ale",   // overrides "ail"
+    "A*EUL": "ail",
+    "AED": "{^'d}",  // to complete the set: AES AEL AED
+
+    "TAOEUT/-L": "tightly", // use TAOEULT for "title"
 
     // Fold in -LS for -less
     "PWOEPBLS": "boneless",
