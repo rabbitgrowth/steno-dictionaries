@@ -4131,7 +4131,7 @@
     "SR-PT": "haven't", // overrides "vice president" [5]
     "SHOPT": "shouldn't",
     "WUPT": "wasn't",
-    "WR-PT": "weren't", // use W-RPT (custom) for "we were the"
+    "WR-PT": "weren't", // use WR-P (custom) for "with respect"
     "WOEPT": "won't",
     "WOPT": "wouldn't",
     /*1*/ "R-P": "respect", // misstroke for "reason"
