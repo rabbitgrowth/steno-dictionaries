@@ -4360,6 +4360,8 @@
                      // use WR-B for "whereby"
                      // -> WR RB <- (visually sticking together)
 
+    "SKWR-RBGS": "{#command(a)}", // select all on Mac
+
     "SK-P": "{#Escape}", // instead of TPEFBG
 
     "WUZ": "{#}", // JUJ/(no-op)/*MT -> judgement
