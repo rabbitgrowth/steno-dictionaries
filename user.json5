@@ -4033,15 +4033,10 @@
 
     // -- Capitalization -------------------------------------------------------
 
-    // If a common noun is often capitalized, add * to capitalize:
+    // If a common noun is often capitalized, add * to capitalize it:
     //   TKPWOD  "god"      TKPWO*D  "God"
     //   SOET    "society"  SO*ET    "Society"
     //   TPHEUBG "nick"     TPH*EUBG "Nick"
-    // To capitalize a multi-stroke word, star the first syllable:
-    //   PEPBT/TKPWOPB "pentagon"  P*EPBT/TKPWOPB "Pentagon"
-    //   HAPL/HRET "hamlet"        HA*PL/HRET "Hamlet"
-    // This feels right because the first syllable is the part where the
-    // lowercase-to-uppercase change happens.
     "TKA*D": "Dad", // give up "ADA"
     "TKAO*EUPLD": "Diamond",
     "AO*EFL": "Evil",
@@ -4049,19 +4044,25 @@
     "STPH*ET": "Internet",
     "SKWR*UFS": "Justice",
     "TPHA*EUFT": "Native", // as in "Native American"
-    "TPH*EUR/SRAPB/SKWRA": "Nirvana", // instead of TPHEUR/SRAPB/KWRA*
     "PA*ERT": "Party",
     "PR*EUPB/SES": "Princess",
     "SHR*F": "Sheriff",
     "SKWA*EUR": "Square",
     "SAO*UPB": "Sunny",
-    "SAO*UP/PHAPB": "Superman", // instead of SAOUP/PHA*PB
     "SRAO*EUS": "Vice", // as in "Vice President"
 
     "STA*EUTS": "States", // - use STA*TS for "status"
                           //   (think of it as /ˈstætəs/, not /ˈsteɪtəs/)
                           // - cf. -T/STA*EUTS "the States",
                           //   which doesn't work with TPH-T "in the", etc.
+
+    // To capitalize a multi-stroke word, star the first syllable:
+    //   PEPBT/TKPWOPB "pentagon"  P*EPBT/TKPWOPB "Pentagon"
+    //   HAPL/HRET "hamlet"        HA*PL/HRET "Hamlet"
+    // This feels right because the first syllable is the part where the
+    // lowercase-to-uppercase change happens.
+    "TPH*EUR/SRAPB/SKWRA": "Nirvana", // instead of TPHEUR/SRAPB/KWRA*
+    "SAO*UP/PHAPB": "Superman",       // instead of SAOUP/PHA*PB
 
     // Add * to *not* capitalize
     "KHO*EUPB": "china",
