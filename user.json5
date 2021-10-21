@@ -4294,6 +4294,7 @@
     // with an odd mix of phonetic and orthographic.
 
     // French
+    "KAEF": "café",
     "TPEUPB/TKE/SELG": "fin de siècle",
 
     // German
