@@ -4032,6 +4032,9 @@
     "TPHORBG": "New York", // cf. TPHORBG/TAOEUPLS "New York Times"
                            // misstroke for "no{,}"
 
+    "PRAOU": "Peru",
+    "PRAOUFPB": "Peruvian",
+
     // -- Capitalization -------------------------------------------------------
 
     // If a common noun is often capitalized, add * to capitalize it:
