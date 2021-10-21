@@ -668,8 +668,7 @@
 
     // Use OEU
     // Precedents: PHOEUT "mighty", SPHOEUL "smelly", ROEUFBG "risky"
-    "PWHROEUD": "bloody", // use KPWHROEUD (custom) for "employed",
-                          // which makes this misstroke unlikely
+    "PWHROEUD": "bloody", // misstroke for PHROEUD "employed"; use KPWHROEUD (custom)
                           // (see also PHOEUD "media")
     "KOEURL": "curly",
     "TPO*EULT": "filthy",
@@ -1724,8 +1723,7 @@
     // OEU is just a general wildcard, but these words feel like
     // a family, probably because they all have to do with media.
     "SOEUPB": "cinema",
-    "PHOEUD": "media",  // use KPWHROEUD (custom) for "employed",
-                        // which makes this misstroke unlikely
+    "PHOEUD": "media",  // misstroke for PHROEUD "employed"; use KPWHROEUD (custom)
                         // (see also PWHROEUD "bloody")
     "STOEUD": "studio", // overrides "studied" [1]
     /*1*/ "STKEU": "study", // "studied" is then STKEUD
