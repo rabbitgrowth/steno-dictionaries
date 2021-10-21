@@ -4457,7 +4457,7 @@
 
     // Reflexive pronouns
     "W*UPBS": "oneself",  // use WUPB/AES for "one's"
-    "O*URS": "ourselves", // "ourself" is too rare
+    "O*URS": "ourselves", // "ourself" is rare
     "OUR/SEFL": "ourself",
     "TH*EPLS": "themself", // - * = "themselves"
     "THAO*EUS": "thyself",
@@ -4674,7 +4674,7 @@
     "OFBT": "objective",   // OBT  "object"  + -F
     "SUB/TEUFT": "subjectivity", // cf. OB/TEUFT  "objectivity"
     "OBT/EUFT": "objectivity",   // cf. SUBT/EUFT "subjectivity"
-                                 // "objectist" is very rare
+                                 // "objectist" is rare
     // or use SUFBT/-TEU ("subjective" + {^ity})
     //        OFBT/-TEU  ("objective"  + {^ity})
 
