@@ -365,6 +365,7 @@
     "SRAO*EUPBL": "violin", // - * = "vinyl"
     "SRURLG": "vulgar",
     "WAOERPBS": "weariness",
+    "WEURLD/-PBS": "wilderness",
     "WAOPBD": "wooden",
     "WAOPB": "wooden", // shortcut to avoid -D
     "KWROERGT": "yogurt",
