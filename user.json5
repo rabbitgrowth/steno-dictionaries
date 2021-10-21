@@ -558,7 +558,6 @@
     "SPOLT": "spotlight", // cf. SP-LT
     "SPHRAOEUT": "spotlight",
     "STRABG": "strategic", // cf. STRAPBLG "strategy"
-    "SPHEUF": "submissive", // cf. SPHEUT "submit"
     "STPEURBL": "superficial", // STPEUFL feels more like "sfifal"
     "SWAEUPBLS": "surveillance",
     "SWART": "sweetheart",
@@ -1765,8 +1764,9 @@
     /*1*/ "PW*URT": "Burt",
 
     // -F for -sive
-    "AOE/HRAOUF": "elusive",  // compare AOE/HRAOUGS "elusion"
-    "OB/TRAOUF": "obtrusive", //         OB/TRAOUGS "obtrusion"
+    "AOE/HRAOUF": "elusive",  // compare AOE/HRAOUD "elude"
+    "OB/TRAOUF": "obtrusive", //         OB/TRAOUD "obtrude"
+    "SPHEUF": "submissive",   //         SPHEUT "submit"
     // See also SKPEF "expensive", TKPWREF "aggressive", etc.
 
     // -FR for -ser, -zer, or even -zor
