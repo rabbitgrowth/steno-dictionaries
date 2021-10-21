@@ -906,7 +906,7 @@
     "HRAEPBLG": "allege",
     "PHAEPBD": "amend",
     "RAEFT": "arrest",
-    "SAEPBD": "ascend", // "scened" is too rare
+    "SAEPBD": "ascend", // use SKREPBD (custom) for "scened"
     "SAEFRBL": "assemble",
     "SAEPL/-BL": "assemble",
     "SAEPL/PWHRER": "assembler",
