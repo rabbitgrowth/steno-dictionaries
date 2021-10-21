@@ -4683,14 +4683,14 @@
     "STPHOPLS": "synonymous", // cf. TPHOPLS "anonymous"
 
     // "understand" family
-    // cf. URPBD    "understand"
-    //     *URPBD   "understood"    (add * for past tense)
-    //     URBGD    "understanding" (misstroke omitting -P)
-    //     PHURPBGD "misunderstanding"
-    "URPBD/-D": "understood",
-    "PHURPBD": "misunderstand",
+    "URPBD": "understand",         // already works
+    "URPBG": "understanding",      // "urning" is rare
+    "URPBD/-D": "understood",      // or use *URPBD
+    "PHURPBD": "misunderstand",    // cf. PHURPBGD "misunderstanding"
+    "PHURPBG": "misunderstanding",
+    "PHURBGD": "misunderstanding", // cf. URBGD (misstroke omitting -P)
     "PH*URPBD": "misunderstood",
-    "PHURBGD": "misunderstanding",
+    "PHURPBD/-D": "misunderstood",
 
     // "victor" family
     "SREURBGT": "victor",   // cf. SRERBGT "vector"
