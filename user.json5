@@ -270,7 +270,6 @@
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES and ABG/SEU
     "APBLG/TEUF": "adjective",
     "APBLG/TAOEUFL": "adjectival",
-    "A*PLZ": "Alps", // - * = "apples"
     "ARPB/KEU": "anarchy",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEUFPL": "anarchism",
