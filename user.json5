@@ -1728,6 +1728,15 @@
     "STOEUD": "studio", // overrides "studied" [1]
     /*1*/ "STKEU": "study", // "studied" is then STKEUD
 
+    // OUPB for -ound
+    "PWOUPB": "bound",
+    "TPOUPB": "found",     // give up "fun to"; or use TP-D (custom)
+    "TKPWROUPB": "ground", // use TKPWROEPB for "grown"
+    "HOUPB": "hound",      // use HOUPL for "how many"
+    "PHOUPB": "mound",     // use PHO*EPB for "mown"
+    "POUPB": "pound",
+    "SOUPB": "sound",      // use SOEPB for "sown"
+
     // OFT for -osity
     // Precedents: KAOUR/KWROFT "curiosity"
     //             SKWREPB/ROFT "generosity"
@@ -4481,7 +4490,6 @@
     "KURPT": "current",
     "EFPT": "event",
     "SKWRAOEUPT": "giant",
-    "TKPWROUPD": "ground", // use TKPW-PD for "grouped"
     "HUPT": "hunt",
     "SKWROEUPT": "joint",
     "PHRAPT": "plant",
@@ -4489,15 +4497,6 @@
     "RAOEPT": "recent", // use PRAOET for "repeat"
     "SPEPT": "spent",
     "W-PT": "went", // drop vowel like TKPW "go"; WEPT is "wept"
-    "WAOUPD": "wound",
-    "WOUPD": "wound",
-
-    // Drop -B in -PBD
-    "TPOUPD": "found",
-    "TPUPD": "fund",
-    "ROUPD": "round",
-    "SOUPD": "sound",
-    "WEUPD": "wind",
 
     // -- Word families --------------------------------------------------------
 
