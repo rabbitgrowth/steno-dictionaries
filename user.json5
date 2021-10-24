@@ -919,9 +919,12 @@
     "SAERT": "assert",
     "SAERGS": "assertion",
     "SAES": "assess",        // use -Z for "seas"
-    "SAEFG": "assessing",    // use SAEG or STPAOEUG for "satisfying"
+    "SAEFG": "assessing",    // use STPAOEUG for "satisfying"
     "SAEFPLT": "assessment", // or just use SEFPLT
     "SAET": "asset",
+    "SAEUFT": "assist",       // use SAEFT for "safety" [1]
+    "SAEUFPBS": "assistance", // or just use SEUFPBS
+    "SAEUFPBT": "assistant",  // or just use SEUFPBT
     "SHAUR": "assure",
     "SHAURPBS": "assurance",
     "TAEPLT": "attempt",
@@ -931,6 +934,8 @@
     "SRAERT": "avert",
     "SRAERS": "averse", // use -Z for "varies"
     "SRAERGS": "aversion",
+    /*1*/ "SAEF": "safe", // use STPAOEU for "satisfy"
+          "SAEFL": "safely",
 
     // ... or use S when folding in A leads to conflict or is confusing
     "SPWRAOD": "abroad",
