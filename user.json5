@@ -14,7 +14,6 @@
     "PW-L": "build",  // cf. PW-LG "building"
     "PW-LT": "built", // give up "brake light"
     "PW-RL": "builder",
-    "KH-G": "change",
     "STK-PT": "despite",  // all the consonants evenly spread out
     "TK-F": "detective",  // give up "def" (for programming?)
     "TK-FS": "difference",
@@ -63,6 +62,9 @@
 
     "ARD": "around",
     "-RD": "round", // R-D is "ready"
+
+    "KH-G": "change",
+    "SKH-G": "exchange",
 
     // Normally -DZ is used for -cide (S-DZ "suicide", H-DZ "homicide")
     // but -D is easier for inflections for a common verb like "decide".
