@@ -698,6 +698,7 @@
     "TPHORT/KRAOE": "North Korea",
 
     "SEUPBD/REL": "Cinderella",
+    "PHOEPB/HREUS": "Mona Lisa",
     "PHOET/ROEL": "Motorola",
 
     // -- Orthographic ---------------------------------------------------------
@@ -900,6 +901,7 @@
     "TKRAES": "address", // use R-DZ for "readies"
     "TKRAEFD": "addressed",
     "TKRAEFG": "addressing",
+    "TKRAEUFT": "adrift",
     "TPAEBGS": "affection", // alternative to AFBGS
     "TPHRAEUBGT": "afflict",
     "TPHRAEUBGS": "affliction", // use -Z for "flakes"
@@ -1028,6 +1030,7 @@
     "PAEURPBTS": "painters",
     "POEUL/EFRT": "polyester", // EFRT is normally "effort" but "polyeffort" is not a word
     "PRAOEFRP": "preacher",
+    "PREURBGT": "predictor",
     "PREUFRPB": "prisoner",
     "SERPBD": "sender",
     "SHAEURBG": "shaker",
@@ -1046,6 +1049,7 @@
     "SWEUFRT": "swifter",
     "TA*RPBG": "tanker",
     "TAEURT": "tater",
+    "TEURPBD": "tinder",
     "TRARBGT": "tractor",
     "THRAEURT": "translator",
     "TRAORP": "trooper",
@@ -1305,6 +1309,7 @@
     "KPWOPLT": "embodiment",
     "KPWRAEUS": "embrace",
     "KPWRAEUFD": "embraced",
+    "KPWRAEUFG": "embracing",
     "KPWROEURD": "embroider",
     "KPWROEUD/REU": "embroidery", // or use KPWROEURD/KWREU ("embroider" + {^y})
     "KPWROR": "emperor",
@@ -3775,6 +3780,7 @@
     "KAUPB/TPEFD": "confessed",
     "KAUPB/TPEFG": "confessing",
     "TKEUPL/WEUTD": "dimwitted",
+    "EL/PWOED": "elbowed",
     "EPB/HAFPBD": "enhanced",
     "EPB/HAPBGS": "enhancing",
     "SPWER/PRAOEUFG": "enterprising", // conflicts with "enter pricing"?
@@ -5209,6 +5215,7 @@
     "PHORPB/H-F": "mourn",          // from "morn"
     "PHORPBG/H-F": "mourning",
     "PHORPBZ/H-F": "mourns",
+    "PHOEPB/H-F": "mown",           // from "moan"
     "OR/H-F": "ore",                // from "or"
     "PAEUPB/H-F": "pane",           // from "pain"
     "PAEUPBZ/H-F": "panes",
@@ -5233,7 +5240,9 @@
     "ROEL/H-F": "roll",             // from "role"
     "ROELZ/H-F": "rolls",
     "ROEPL/H-F": "Rome",            // from "roam"
-    "SOEPB/H-F": "sewn",            // from "sown"
+    "SOE/H-F": "sew",               // from "sow"
+    "SOED/H-F": "sewed",
+    "SOEPB/H-F": "sewn",
     "SAOEUD/H-F": "sighed",         // from "side"
     "STAEUR/H-F": "stare",          // from "stair"
     "STAEURZ/H-F": "stares",
