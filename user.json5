@@ -1822,17 +1822,14 @@
     // [3] Long AOU is used although STRURBGT is not taken. Why?
     // [4] * is used since HREUFP is "lisp"
     "AG/TUR": "agriculture",         // cf. AG/KHUR
-    "ARG/KURLT": "agriculture",
+    "ARBG/TEFP": "architecture",
     "ARBG/TUR": "architecture",      // cf. ARBG/TEBG/KHUR
     "KAP/TUR": "capture",            // or use KA*FP
     "KAUPB/SKWREFP": "conjecture",
-    "KAUPB/SKWRERBGT": "conjecture",
-    "TPAOERT": "feature",            // or use TPAOEFP
     "TPRUFP": "infrastructure",      // cf. TPRUBGS
     "TPHUR/TUR": "nurture",          // or use TPHAOUFP
     "PAS/TUR": "pasture",            // swap with "Pasteur" [1]
     "P-FP": "picture",               // misstroke for {.}
-    "PEURBGT": "picture",            // or use P*EUFP
     "SKREURPT": "scripture",         // or use SKR*EUFP
     "SKR*EURPT": "Scripture",
     "SEUG/TUR": "signature",         // or use SEURG ("sigr")
