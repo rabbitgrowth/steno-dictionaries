@@ -3508,6 +3508,8 @@
     "TPHEUFT": "any of the", // use EUFT for {^ist}
     "SKHER": "ask her",
     "SKHEUPL": "ask him",
+    "-FRB": "ever be", // but TPHEFRB is "nerve", not "never be"
+    "-FRBT": "ever be the",
     "TPE": "if he", // give up "fe", which is not a word
     "TPOEPBL": "if only",
     "TPHORTD": "in order to", // TO is in TPHORD "in order", so use -T for "to"
