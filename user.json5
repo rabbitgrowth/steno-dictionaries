@@ -4902,9 +4902,11 @@
 
     // -- Ologies and ologists -------------------------------------------------
 
-    // ...OLG   -ology
+    // ...OLG   -ology    (usually works already)
     // ...OLGS  -ologist  (use -Z for -ologies)
-    // .../HR-L -ological (with different stress; cf. HR-L {^logical})
+    // .../HR-L -ological (by default -ological is HR-LG and -logical is HR-L,
+    //                     but we remapped HR-LG to "likely", so just borrow the
+    //                     -logical stroke)
 
     "A*RPBT/POLG": "anthropology", // more phonetic *and* easier to press with -R
     "A*RPBT/POLGS": "anthropologist",
