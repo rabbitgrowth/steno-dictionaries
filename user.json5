@@ -1959,6 +1959,7 @@
     "PWHRAEUBL": "bilabial",
     "PHAOEUBG/ROEBL": "microbial", // or just use PHROEBL
     "PRO/SRERBL": "proverbial",
+    // But "adverbial" remains AD/SRERB/KWRAL to prevent clash with "add verbal".
 
     // -BLT for -ability
     // Precedents: -BLT      {^ability}
