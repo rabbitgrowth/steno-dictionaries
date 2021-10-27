@@ -560,22 +560,24 @@
     /*1*/ "STO*RBG": "stork", // give up "State of New York"
     /*2*/ "A*UBG": "awk",     // give up "AUC"
 
-    "STRAEUGS": "administration",
+    "STRAEUGS": "administration", // or use TKPHEUPBGS ("admin-tion")
     "A/TPHAOEULT": "annihilate",
     "A/TPHAOEULGS": "annihilation",
-    "PHREUBGS": "application", // use -Z for "politics" [1]
-    "SEUFGS": "civilization",  // instead of SEUFLGS
+    "PHREUBGS": "application",  // use -Z for "politics" [1]
+    "SEUFGS": "civilization",   // instead of SEUFLGS
+    "KHRABGS": "collaboration", // "collab-tion"
     "KHRARBGS": "collaboration",
     "TAOERT": "deteriorate",
     "TAOERGS": "deterioration",
-    "SPWAOUGS": "intuition",   // use STUGS for "substitution",
-                               // which is consistent with STUT "substitute"
-    "SPWAOUF": "intuitive",    // cf. TWAOUF
-    "OEFRB": "observe",        // OEB has a slight problem: OEBG is "oak"
-    "OEFRBGS": "observation",  // cf. KWEFRB "conserve", KWEFRBGS "conservation"
-    "PUBGS": "publication",    // use -Z for "pucks"
+    "SPWAOUF": "intuitive",   // cf. TWAOUF
+    "SPWAOUGS": "intuition",  // use STUGS for "substitution",
+                              // which is consistent with STUT "substitute"
+    "OEFRB": "observe",       // OEB has a slight problem: OEBG is "oak"
+    "OEFRBGS": "observation", // cf. KWEFRB "conserve", KWEFRBGS "conservation"
+    "PUBGS": "publication",   // "pub-tion"; use -Z for "pucks"
     "SRAOEURBT": "vibrate",
-    "SRAOEUBGS": "vibration",  // "vibetion"
+    "SRAOEUBGS": "vibration", // "vibe-tion"
+    "SRAOEURBGS": "vibration",
     /*1*/ "PHREUBGZ": "politics", // but "politic" is POL/TEUBG, not PHREUBG; that's "public"
 
     "SKPAOPB": "and so on", // SKP + SO + OPB with AO for the doubled "o"
