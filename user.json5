@@ -3644,7 +3644,6 @@
     "EBG/OEZ": "echoes",
     "EPB/PHEUZ": "enemies",
     "EPBT/TEUZ": "entities",
-    "HOUS/WAOEUFZ": "housewives",
     "OD/TEUZ": "oddities",
     "POR/TRAEUZ": "portrays",
     "PREUF/KWREUZ": "privies",
@@ -3664,9 +3663,11 @@
     "HROEFZ": "loaves", // cf. HROEF "loaf"
     "SHEFLZ": "shelves",
     "THAOEFZ": "thieves",
-    "WAOEUFZ": "wives",
     "WOFLZ": "wolves", // cf. WOFL "wolf"
     "WOFZ": "wolves",  // cf. WOF  "wolf"
+
+    "WAOEUFZ": "wives",
+    "HOUS/WAOEUFZ": "housewives",
 
     // Always use -FS for "was", not to tack on -fs, -ves, etc.
     "HREUPL/-FS": "limb was", // use HREUFPLZ for "lymphs"
