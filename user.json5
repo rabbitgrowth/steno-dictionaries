@@ -1711,7 +1711,7 @@
     // when your mind is in phonetic mode. REU also follows steno order.
     // Precedents: TKEUBGS/AER or TKEUBGS/REU "dictionary"
     //             PHAPBD/TOER or PHAPBD/TREU "mandatory"
-    "ARB/TREU": "arbitrary",      // vs ARB/TRAER (conflicts with "ash try"?)
+    "ARB/TREU": "arbitrary",      // vs ARB/TRAER
     "TKORPL/TREU": "dormitory",   // vs TKORPL/TOER
     "EFGS/REU": "evolutionary",   // vs EFGS/AER
     "REFGS/REU": "revolutionary", // vs REFGS/AER
