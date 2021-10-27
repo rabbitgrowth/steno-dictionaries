@@ -4057,23 +4057,24 @@
     "AS/EUPL/OF": "Asimov", // AS/PHOF is "as move"
                             // ("he couldn't so much as move a finger")
     "PWAEUT/SREPB": "Beethoven",
-    "PWAO*EUPBD": "Biden", // - * = "bind"
     "PWOEB": "Bobby",
     "TKEFPLD": "Desmond",
     "TPRAOED/REUFP": "Friedrich",
-    "TKPWO*R": "Gore",
     "HEBG/TOR": "Hector",
-    "KAPL/HRA": "Kamala", // give up "Kamilah"
     "KAR/TKAGS": "Kardashian",
     "KEP/HRER": "Kepler",
     "KERPL": "Kepler",
     "PH*UFBG": "Musk",
-    "POPL/PAEU/KWROE": "Pompeo", // cf. TKPWAL/HRAEU/KWROE "Galileo"
     "RORPBLG": "Roger",
     "SPWAGS": "Sebastian", // cf. KREUGS "Christian"
     "STA*PBL": "Stalin", // - * = "substantial"
     "WEUL/HEPL": "Wilhelm",
     "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
+
+    "PWAO*EUPBD": "Biden", // - * = "bind"
+    "TKPWO*R": "Gore",
+    "KAPL/HRA": "Kamala", // give up "Kamilah"
+    "POPL/PAEU/KWROE": "Pompeo", // cf. TKPWAL/HRAEU/KWROE "Galileo"
 
     // Places
     "HROS/APBLGS": "Los Angeles", // invert L and G ("los anjls")
