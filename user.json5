@@ -2992,6 +2992,7 @@
 
     // "people ..."
     "P": "people",
+    "P-Z": "peoples",    // misstroke for 3-Z
     "P-R": "people are", // misstroke for "for"
     "P-RP": "people were",
     "P-L": "people will",
