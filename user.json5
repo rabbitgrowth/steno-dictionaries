@@ -1563,17 +1563,20 @@
     "TKPHEUBGS": "admix", // - use -Z for "academics"
                           // - add {^ture} for "admixture"
                           // - AD/PHEUBGS remains "add mix" ("add mix to the bowl")
-    "TKWEPBT": "advent",       // misstroke for "divinity"
-    "TKWEPBG": "adventure",    // frees up SREPBG for "venture" [1]
-    "TKWEPBGS": "adventurous", // use -Z for "adventures"
+    "TKWAPBG": "advantage",     // frees up SRAPBG for "vantage" [1]
+    "TKWAPBGS": "advantageous", // use -Z for "advantages"
+    "TKWEPBT": "advent",        // misstroke for "divinity"
+    "TKWEPBG": "adventure",     // frees up SREPBG for "venture" [2]
+    "TKWEPBGS": "adventurous",  // use -Z for "adventures"
     "TKWERB": "adverb",
     "TKWERBL": "adverbial", // now that we can use -BL for "adverbial" -- the only other
                             // alternative is AD/SRERB/KWRAL, since AD/SRERBL needs to be
                             // "add verbal" ("add verbal cues") -- it's natural to use -BL
                             // for "proverbial" and a bunch of other words too, following
-                            // the pattern of TEUB "tibia" -> TEUBL "tibial" [2]
-    /*1*/ "SREPBG": "venture",
-    /*2*/ "PRO/SRERBL": "proverbial",
+                            // the pattern of TEUB "tibia" -> TEUBL "tibial" [3]
+    /*1*/ "SRAPBG": "vantage",
+    /*2*/ "SREPBG": "venture",
+    /*3*/ "PRO/SRERBL": "proverbial",
           "PHAOEUBG/ROEBL": "microbial", // or just use PHROEBL
           "PWHRA*EUBL": "bilabial", // cf. HRA*EUBL "labial" (- * = "label")
           "PWHRAEUBL": "bilabial",
