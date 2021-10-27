@@ -4910,6 +4910,10 @@
     "A*RPBT/POLGS": "anthropologist",
     "A*RPBT/HR-L": "anthropological",
 
+    "EPBT/PHOLG": "entomology", // already works
+    "EPBT/PHOLGS": "entomologist",
+    "EPBT/HR-L": "entomological",
+
     "ORPB/THOLG": "ornithology", // already works
     "ORPB/THOLGS": "ornithologist",
     "O*RPBT/HR-L": "ornithological",
