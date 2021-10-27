@@ -1952,6 +1952,14 @@
     "REPLS": "redemption",  // use -Z for "recommends"
     "RUPLS": "resumption",  // use -Z for "rums"
 
+    // -BL for -bial
+    // Precedents: TEUB "tibia" -> TEUBL "tibial"
+    //             HRA*EUBL "labial" (- * = "label")
+    "PWHRA*EUBL": "bilabial",
+    "PWHRAEUBL": "bilabial",
+    "PHAOEUBG/ROEBL": "microbial", // or just use PHROEBL
+    "PRO/SRERBL": "proverbial",
+
     // -BLT for -ability
     // Precedents: -BLT      {^ability}
     //             ABLT      "ability"
