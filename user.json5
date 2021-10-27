@@ -4918,7 +4918,8 @@
 
     "ORPB/THOLG": "ornithology", // already works
     "ORPB/THOLGS": "ornithologist",
-    "O*RPBT/HR-L": "ornithological",
+    "ORPB/HR-L": "ornithological",
+    "O*RPBT/HR-L": "ornithological", // "ornthl...l"
 
     "SKOLG": "psychology", // already works
     "SKOLGS": "psychologist",
