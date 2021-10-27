@@ -2197,7 +2197,7 @@
     "PHAOUPLT": "municipality",
     "PEFRT": "pester",          // use P-F for "perfect"
     "TPOPB": "phenomenon",      // give up "phon" (unit of loudness)
-    "TPOPBS": "phenomena",
+    "TPOPBZ": "phenomena",
     "PREUPBL": "provisional",   // use PREUPB for "principle"
     "PHREUFT": "publicity",     // give up "plist"
     "REUPBD": "remind",         // like HEUPBD "behind"
