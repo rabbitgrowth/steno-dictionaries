@@ -4054,7 +4054,8 @@
     // -- Proper nouns ---------------------------------------------------------
 
     // Names
-    "AS/EUPL/OF": "Asimov", // AS/PHOF is "as move" ("he couldn't so much as move a finger")
+    "AS/EUPL/OF": "Asimov", // AS/PHOF is "as move"
+                            // ("he couldn't so much as move a finger")
     "PWAEUT/SREPB": "Beethoven",
     "PWAO*EUPBD": "Biden", // - * = "bind"
     "PWOEB": "Bobby",
@@ -4076,8 +4077,8 @@
 
     // Places
     "HROS/APBLGS": "Los Angeles", // invert L and G ("los anjls")
-    "TPHORBG": "New York", // cf. TPHORBG/TAOEUPLS "New York Times"
-                           // misstroke for "no{,}"
+    "TPHORBG": "New York", // - cf. TPHORBG/TAOEUPLS "New York Times"
+                           // - misstroke for "no{,}"
 
     "KWRAOURP/KWRAPB": "European", // cf. PHED/TRAEUPB/KWRAPB "Mediterranean"
 
