@@ -319,6 +319,7 @@
     "HAOURBS": "hubris",
     "EUFRPB": "inch", // use TPRAEUPB for {^infra}
     "SPWREUBGT": "intricate",
+    "EUFPB/TAEUGS": "invitation",
     "PHAOED/KWRORBGT": "mediocrity",
     "PHES/PHRAOEUZ": "mesmerize",
     "PHES/PHRAOEUFD": "mesmerized",
@@ -484,6 +485,7 @@
     "AUBG": "automatic", // overrides "awk" [3]
     "PWHRAEUPBT": "blatant",
     "KA*T/TKRAL": "cathedral",
+    "SEUFGS": "civilization", // instead of SEUFLGS
     "KHRARBT": "collaborate",
     "KHRARBGS": "collaboration",
     "SKAOEL": "conceal", // cf. SKERT "concert", SKEPT "concept"
@@ -566,6 +568,7 @@
     "SWART": "sweetheart",
     "STOPL": "symptom",
     "TPHAOEBG": "technique",
+    "TRAPBLG/TOER": "trajectory",
     "STPHAPL": "tsunami",
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // "vibetion"
@@ -1269,6 +1272,7 @@
     "SPWAOEUT": "indict",
     "SPWAOEUPLT": "indictment",
     "SPWAOE": "indie",
+    "SPWEUPBLG/TPHOUS": "indigenous",
     "SPWORBGT/TPHAEUT": "indoctrinate",
     "SPWORBGT/TPHAEUGS": "indoctrination",
     "SPWAOR": "indoor",
@@ -4626,6 +4630,7 @@
     "TP-RGT": "forget", // TP-R "for" + -GT "get"
     "TPROT": "forgot",
     "TPROPB": "forgotten",
+    "TPREFL": "forgetful",
 
     // "forgive" family
     "TPREUF": "forgive",
@@ -5238,6 +5243,7 @@
     "PHORPBG/H-F": "mourning",
     "PHORPBZ/H-F": "mourns",
     "PHOEPB/H-F": "mown",           // from "moan"
+    "TPHAOEUF/H-F": "naive",        // from "knife"
     "OR/H-F": "ore",                // from "or"
     "PAEUPB/H-F": "pane",           // from "pain"
     "PAEUPBZ/H-F": "panes",
