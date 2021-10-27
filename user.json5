@@ -468,26 +468,20 @@
     // -- Sound squeezing ------------------------------------------------------
 
     "A/KAOUFBG": "acoustic",
-    "STRAEUGS": "administration",
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "TKPHEUGS": "admission",
     "HRARPL": "alarm",
     "ALG": "algorithm", // use ALGS for "additional"
-    "A/TPHAOEULT": "annihilate",
-    "A/TPHAOEULGS": "annihilation",
-    "PHREUBGS": "application", // use -Z for "politics" [1]
     "AEURGS": "arrogance", // use -Z for "airings"
     "AEURGT": "arrogant",  // cf. AEURPT "airport"
     "STORB": "astonish",
-    "STORBG": "astonishing", // overrides "stork" [2]
+    "STORBG": "astonishing", // overrides "stork" [1]
     "STORBLG": "astonishingly",
     "TRAF": "attractive", // use TR-FR for "transfer"
-    "AUBG": "automatic", // overrides "awk" [3]
+    "AUBG": "automatic", // overrides "awk" [2]
     "PWHRAEUPBT": "blatant",
     "KA*T/TKRAL": "cathedral",
-    "SEUFGS": "civilization", // instead of SEUFLGS
     "KHRARBT": "collaborate",
-    "KHRARBGS": "collaboration",
     "SKAOEL": "conceal", // cf. SKERT "concert", SKEPT "concept"
                          // (different stress though)
     "KPRA*EUPBS": "contemporaneous", // KPRA*EURPBS - -R; - * = "extraneous"
@@ -495,8 +489,6 @@
     "KURPB": "curtain",
     "TKHRAOEUPB": "deadline", // use PHEUD/HRAOEUPB for "midline"
     "TKAOEFT": "defeat", // use TKEFBGT for "defect"
-    "TAOERT": "deteriorate",
-    "TAOERGS": "deterioration",
     "TKRAPB": "dragon",
     "AOELT": "elite",
     "TPHORPLT": "enormity", // misstroke for "format"
@@ -516,9 +508,6 @@
     "HOLDZ": "holidays",
     "HRAOUGS": "illusion", // use HRAOUFG for "losing"
     "TPHREPBZ": "influenza",
-    "SPWAOUGS": "intuition", // use STUGS for "substitution",
-                             // which is consistent with STUT "substitute"
-    "SPWAOUF": "intuitive",  // cf. TWAOUF
     "SHU": "issue",
     "SHUD": "issued", // use SHO for "should"
     "HRAOEUFPL": "lifetime", // "lifem"; TPHRAOEUPL "flime" doesn't make sense to me
@@ -527,8 +516,6 @@
     "PHOFT": "modest", // use PHOEFT for "most"
     "PHAOUFL": "musical",
     "TPHOUDZ": "nowadays",
-    "OEFRB": "observe",       // OEB has a slight problem: OEBG is "oak"
-    "OEFRBGS": "observation", // cf. KWEFRB "conserve", KWEFRBGS "conservation"
     "OP/TEUF": "operative", // OPT/EUF with a more natural break point
     "OFRPL": "organism", // "orsm"
     "PRABL": "parabola",
@@ -543,7 +530,6 @@
     "PREFT": "protest", // give up "previous to";
                         // -T is too strongly associated with "the" anyway
     "PREFRT": "protester",
-    "PUBGS": "publication", // use -Z for "pucks"
     "PURPT": "purport", // cf. AEURPT "airport"
     "PUZ": "puzzle", // cf. PEUZ "pizza"; alternative to PUFL
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
@@ -570,12 +556,27 @@
     "TPHAOEBG": "technique",
     "TRAPBLG/TOER": "trajectory",
     "STPHAPL": "tsunami",
-    "SRAOEURBT": "vibrate",
-    "SRAOEUBGS": "vibration", // "vibetion"
     "WORP": "worship", // give up "WordPress"
+    /*1*/ "STO*RBG": "stork", // give up "State of New York"
+    /*2*/ "A*UBG": "awk",     // give up "AUC"
+
+    "STRAEUGS": "administration",
+    "A/TPHAOEULT": "annihilate",
+    "A/TPHAOEULGS": "annihilation",
+    "PHREUBGS": "application", // use -Z for "politics" [1]
+    "SEUFGS": "civilization",  // instead of SEUFLGS
+    "KHRARBGS": "collaboration",
+    "TAOERT": "deteriorate",
+    "TAOERGS": "deterioration",
+    "SPWAOUGS": "intuition",   // use STUGS for "substitution",
+                               // which is consistent with STUT "substitute"
+    "SPWAOUF": "intuitive",    // cf. TWAOUF
+    "OEFRB": "observe",        // OEB has a slight problem: OEBG is "oak"
+    "OEFRBGS": "observation",  // cf. KWEFRB "conserve", KWEFRBGS "conservation"
+    "PUBGS": "publication",    // use -Z for "pucks"
+    "SRAOEURBT": "vibrate",
+    "SRAOEUBGS": "vibration",  // "vibetion"
     /*1*/ "PHREUBGZ": "politics", // but "politic" is POL/TEUBG, not PHREUBG; that's "public"
-    /*2*/ "STO*RBG": "stork",     // give up "State of New York"
-    /*3*/ "A*UBG": "awk",         // give up "AUC"
 
     "SKPAOPB": "and so on", // SKP + SO + OPB with AO for the doubled "o"
     "SKP-PB": "and then",
