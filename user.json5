@@ -2984,9 +2984,8 @@
     "SKWR-PBG": "just in case", // cf. the starless "junk" SKWRUPBG
 
     // "some ..."
-                             // Default strokes are inconsistent:
-    "SPH-F": "some of",      // SPHOF  "some of"
-    "SPH-FT": "some of the", // SOFPLT "some of the"
+    "SPH-F": "some of",      // instead of SPHOF  "some of"
+    "SPH-FT": "some of the", //            SOFPLT "some of the"
     "SPH-R": "some are",
     "SPH-RP": "some were",
 
