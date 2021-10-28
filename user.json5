@@ -3645,6 +3645,7 @@
     "KWEZ": "questions", // overrides "?" with spaces on both sides [1]
     /*1*/ "KW*PL": "?",
 
+    "A/TPHALGZ": "analogies",
     "KAPL/RAZ": "cameras",
     "KAT/KOEPLZ": "catacombs",
     "TKOPL/TPHOEZ": "dominoes",
