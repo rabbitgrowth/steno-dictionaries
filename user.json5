@@ -4671,6 +4671,18 @@
     "TPHROFZ": "philosophize", // compare TPHROEFZ "philosophies"
     // Or use TPHROS/TPEU, TPHROS/TPER, and TPHROS/TPAOEUZ.
 
+    // "plausible" family
+    "PHRAUBL": "plausible",        // already works
+    "PHRAUBLT": "plausibility",
+    "PHRAUS/-BL": "plausible",     // already works
+    "PHRAUS/-BLT": "plausibility", // already works
+    "PHRAUS/PWHREU": "plausibly",  // already works
+    "KPWHRAUBL": "implausible",
+    "KPWHRAUBLT": "implausibility",
+    "KPWHRAUS/-BL": "implausible",
+    "KPWHRAUS/-BLT": "implausibility",
+    "KPWHRAUS/PWHREU": "implausibly",
+
     // "positive" and "negative"
     "POF": "positive",
     "POFL": "positively",
