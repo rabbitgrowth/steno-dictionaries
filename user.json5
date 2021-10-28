@@ -397,7 +397,7 @@
     "EUPB/SEPBT": "innocent",      // to TPH-PBT; use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",         // to TR
     "TPHAEURB": "neighbor",        // to TPHAEUB
-    "PUB/HREUFT": "publicity",     // to PHREUFT (custom)
+    "PUB/HREUFT": "publicity",     // to P-BT (custom)
     "SHOP/HREUFRT": "shoplifter",  // to SHREUFRT
     "SEUFRT": "sister",            // to ST-R
 
@@ -576,7 +576,12 @@
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // "vibe-tion"
     "SRAOEURBGS": "vibration",
-    /*1*/ "PHREUBGZ": "politics", // but "politic" is POL/TEUBG, not PHREUBG; that's "public"
+    /*1*/ "PHREUBGZ": "politics",
+          "PHREUBG": "politic", // overrides "public"
+          "P-B": "public", // give up "peanut butter"
+          "P-BL": "publicly",
+          "P-BT": "publicity",
+          "PUBLG": "public", // cf. RUBLG "republic"
 
     "SKPAOPB": "and so on", // SKP + SO + OPB with AO for the doubled "o"
     "SKP-PB": "and then",
@@ -2022,7 +2027,6 @@
     // -LG  -kl  (further invert l and k, cancelling the *)
     "AULG": "automatically",  // from AUBG    "automatic" (custom)
     "TKRALG": "dramatically", // from TKRABG  "dramatic"
-    "PHREULG": "publicly",    // from PHREUBG "public"
     "STREULG": "strictly",
 
     // -LGS for -tional
@@ -2226,7 +2230,6 @@
     "TPOPB": "phenomenon",      // give up "phon" (unit of loudness)
     "TPOPBZ": "phenomena",
     "PREUPBL": "provisional",   // use PREUPB for "principle"
-    "PHREUFT": "publicity",     // give up "plist"
     "REUPBD": "remind",         // like HEUPBD "behind"
     "REUPBTD": "reminded",
     "REURPBD": "reminder",
@@ -4296,7 +4299,6 @@
     "PR*EP": "prepare",       // prep
     "PRO*": "professional",   // pro  (alternative to PREPBL)
     "P*UB": "publish",        // pub
-    "P*URB": "publisher",
     "R*EP": "representative", // rep
     "SR*ET": "veteran",       // vet
 
