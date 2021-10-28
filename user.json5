@@ -474,11 +474,8 @@
     "ALG": "algorithm", // use ALGS for "additional"
     "AEURGS": "arrogance", // use -Z for "airings"
     "AEURGT": "arrogant",  // cf. AEURPT "airport"
-    "STORB": "astonish",
-    "STORBG": "astonishing", // overrides "stork" [1]
-    "STORBLG": "astonishingly",
     "TRAF": "attractive", // use TR-FR for "transfer"
-    "AUBG": "automatic", // overrides "awk" [2]
+    "AUBG": "automatic", // overrides "awk" [1]
     "PWHRAEUPBT": "blatant",
     "KA*T/TKRAL": "cathedral",
     "KHRARBT": "collaborate",
@@ -558,8 +555,7 @@
     "TRAPBLG/TOER": "trajectory",
     "STPHAPL": "tsunami",
     "WORP": "worship", // give up "WordPress"
-    /*1*/ "STO*RBG": "stork", // give up "State of New York"
-    /*2*/ "A*UBG": "awk",     // give up "AUC"
+    /*1*/ "A*UBG": "awk", // give up "AUC"
 
     "STRAEUGS": "administration", // or use TKPHEUPBGS ("admin-tion")
     "A/TPHAOEULT": "annihilate",
@@ -5027,6 +5023,7 @@
     "PW-RB": "banish",
     "TP-RB": "finish",
     "SR-RB": "vanish",
+    "ST-RB": "astonish",
 
     // Swap base words to simplify inflections
     // STK*ERT  "desert"  -> STK*ERTD  "deserted"
