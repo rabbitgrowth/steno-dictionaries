@@ -473,15 +473,14 @@
     "AFD/SAER": "adversary", // AFRD feels too emphatic ("adVER...")
     "AFD/SAERL": "adversarial",
     "HRARPL": "alarm",
-    "ALG": "algorithm", // use ALGS for "additional"
+    "ALG": "algorithm",    // use ALGS for "additional"
     "AEURGS": "arrogance", // use -Z for "airings"
     "AEURGT": "arrogant",  // cf. AEURPT "airport"
-    "TRAF": "attractive", // use TR-FR for "transfer"
-    "AUBG": "automatic", // overrides "awk" [1]
+    "TRAF": "attractive",  // use TR-FR for "transfer"
+    "AUBG": "automatic",   // overrides "awk" [1]
     "PWHRAEUPBT": "blatant",
     "KA*T/TKRAL": "cathedral",
-    "SKAOEL": "conceal", // cf. SKERT "concert", SKEPT "concept"
-                         // (different stress though)
+    "SKAOEL": "conceal", // cf. SKERT "concert", SKEPT "concept" (different stress though)
     "KPRA*EUPBS": "contemporaneous", // KPRA*EURPBS - -R; - * = "extraneous"
     "KAUPLT": "contentment", // instead of KAUPBLT
     "KURPB": "curtain",
@@ -518,8 +517,7 @@
     "OP/TEUF": "operative", // OPT/EUF with a more natural break point
     "OFRPL": "organism", // "orsm"
     "PRABL": "parabola",
-    "PAEURT/KWROFPL": "patriotism", // - "patriosm"
-                                    // - cf. PAEURT/KWROT "patriot"
+    "PAEURT/KWROFPL": "patriotism", // - "patriosm"; cf. PAEURT/KWROT "patriot"
                                     // - or use the simpler but less phonetic
                                     //   PAEUT/ROT    "patriot"
                                     //   PAEURT/EUFPL "patriotism"
