@@ -478,7 +478,6 @@
     "AUBG": "automatic", // overrides "awk" [1]
     "PWHRAEUPBT": "blatant",
     "KA*T/TKRAL": "cathedral",
-    "KHRARBT": "collaborate",
     "SKAOEL": "conceal", // cf. SKERT "concert", SKEPT "concept"
                          // (different stress though)
     "KPRA*EUPBS": "contemporaneous", // KPRA*EURPBS - -R; - * = "extraneous"
@@ -560,8 +559,10 @@
     "STRAEUGS": "administration", // or use TKPHEUPBGS ("admin-tion")
     "A/TPHAOEULT": "annihilate",
     "A/TPHAOEULGS": "annihilation",
-    "PHREUBGS": "application",  // use -Z for "politics" [1]
-    "SEUFGS": "civilization",   // instead of SEUFLGS
+    "PHREUBGS": "application", // use -Z for "politics" [1]
+    "SEUFGS": "civilization", // instead of SEUFLGS
+    "KHRABT": "collaborate",
+    "KHRARBT": "collaborate",
     "KHRABGS": "collaboration", // "collab-tion"
     "KHRARBGS": "collaboration",
     "TAOERT": "deteriorate",
