@@ -4975,9 +4975,11 @@
     "EU/E": "i.e.",        // just "fingerspell" it
     "HRAO*EULG": "lilac",  // *LG for "lk" with a vowel in between
     "O/ER": "o'er",        // separate into two strokes since OER is "other"
-    "PO*EUPB": "piano",    // wildcard OEU with * since POEUPB is "appoint" already
+    "PO*EUPB": "piano",    // wildcard OEU with * since POEUPB is "appoint"
     "KW-T": "quiet",       // lack of vowels feels quiet; compare KWAOEUT "quite"
     "KW-LT": "quietly",
+    "SKRAO*EUT": "scythe", // with KR for "c" and * for the -th sound;
+                           // SAO*EUT is "site" since SAOEUT is "sight"
     /*1*/ "STPH*UR": "insure",
 
     // Use single hyphen as dash
