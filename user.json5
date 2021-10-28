@@ -5020,10 +5020,10 @@
 
     // Consonant + no vowel + -RB for -nish
     // cf. P-RB "punish"
+    "ST-RB": "astonish",
     "PW-RB": "banish",
     "TP-RB": "finish",
     "SR-RB": "vanish",
-    "ST-RB": "astonish",
 
     // Swap base words to simplify inflections
     // STK*ERT  "desert"  -> STK*ERTD  "deserted"
