@@ -5303,6 +5303,8 @@
     "SOED/H-F": "sewed",
     "SOEPB/H-F": "sewn",
     "SAOEUD/H-F": "sighed",         // from "side"
+    "SAOEUT/H-F": "site",           // from "sight"
+    "SAOEUTS/H-F": "sites",
     "STAEUR/H-F": "stare",          // from "stair"
     "STAEURZ/H-F": "stares",
     "STAOEL/H-F": "steal",          // from "steel"
