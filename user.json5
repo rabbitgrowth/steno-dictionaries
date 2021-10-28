@@ -511,6 +511,7 @@
     "SHU": "issue",
     "SHUD": "issued", // use SHO for "should"
     "HRAOEUFPL": "lifetime", // "lifem"; TPHRAOEUPL "flime" doesn't make sense to me
+    "PHRAUD": "maraud",
     "PHELG": "medical", // "mecal"
     "PHEUL/SHA": "militia",
     "PHOFT": "modest", // use PHOEFT for "most"
