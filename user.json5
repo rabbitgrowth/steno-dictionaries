@@ -470,6 +470,8 @@
     "A/KAOUFBG": "acoustic",
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "TKPHEUGS": "admission",
+    "AFD/SAER": "adversary", // AFRD feels too emphatic ("adVER...")
+    "AFD/SAERL": "adversarial",
     "HRARPL": "alarm",
     "ALG": "algorithm", // use ALGS for "additional"
     "AEURGS": "arrogance", // use -Z for "airings"
