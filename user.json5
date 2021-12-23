@@ -333,6 +333,7 @@
     "TPHAOERPBS": "nearness",
     "TPHEBLS": "nebulous",
     "TPHEUPL/ROD": "nimrod",
+    "TPHAOUFPBS": "nuisance",
     "TPHAOEUPBL": "nylon",
     "OB/HREUF/KWROUS": "oblivious",
     "OB/HREUF/KWROULS": "obliviously",
@@ -912,6 +913,7 @@
     "TKRAES": "address", // use R-DZ for "readies"
     "TKRAEFD": "addressed",
     "TKRAEFG": "addressing",
+    "SKWRAUFT": "adjust", // "ajust"
     "TKRAEUFT": "adrift",
     "TPAEBGS": "affection", // alternative to AFBGS
     "TPHRAEUBGT": "afflict",
@@ -1010,6 +1012,7 @@
     "PWHRAOERBG": "bleaker", // cf. PWAOERBG "beaker"
     "PWHRURPBD": "blunder",
     "KHARLG": "challenger",
+    "KHERBG": "checker",
     "SEURPBD": "cinder",
     "KPHARPBD": "commander",
     "KPHORPB": "commoner",
@@ -4347,6 +4350,7 @@
     // Current words
     "KROEPB/SRAOEURS": "coronavirus",
     "KRAOEURS": "coronavirus", // "crirus"
+    "KOEFD": "Covid",
     "KOEFD/1-9": "Covid-19",
     "PRUFRP": "President Trump",
 
