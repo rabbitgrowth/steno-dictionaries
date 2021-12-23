@@ -187,7 +187,9 @@
     "HAPBT": "hasn't",          // with HAPBLT "has not"
                                 //   HAPBT "hasn't" + -L as bridge = "has not"
     "PHAGS": "imagination",     // with PHAPBLG "imagine"; use -Z for "magazines"
-    "TPH-FBGT": "infect",       // with TPH-FRPL "inform", TPH-FPBT "infinite", etc.
+    "TPH-FBGT": "infect",       // with TPH-FRPL "inform", TPH-FPBT "infinite"
+    "TPEBGT": "infect",         // with TPEBGS "infection", TPERBS "infectious"
+                                //   use EFBG for "effect"
     "TERPGS": "interpretation", // with TERP "interpret"
     "TWAOEPB": "intervene",     // with TWEPBGS "intervention"; use TW for "between"
     "TRUBGS": "introduction",   // with PRUBGS "production", RUBGS "reduction", etc.
