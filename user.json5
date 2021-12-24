@@ -299,6 +299,8 @@
     "KOFPB/TKAPBT": "confidant",
     "KOFPB/TKA*PBT": "confidante",
     "KAUPB/STAPBS/KWREU": "constancy", // or use STAPBT/SEU ("constant" + {^cy})
+    "TKEUS/PEUBG/-BL": "despicable", // with EU instead of the orthographic E
+    "TKEUS/PEUBG/PWHREU": "despicably",
     "TKROEUD": "droid", // use STROEUD for "destroyed"
     "AOEPLT": "emit",
     "EFPBS": "essence", // add * for "Evans", which works because *EFPB is "Evan"
@@ -696,6 +698,7 @@
     "SHROEUPL": "slimy",
     "SPHOEUBG": "smoky",
     "SOEURL": "surly",
+    "THOEUFRT": "thirsty",
 
     // -- Drop final schwa -----------------------------------------------------
 
@@ -768,6 +771,8 @@
     "TO*ED": "towed",
     /*1*/ "TOD": "today",          // give up {^ed to}
           "AOUS/TOD": "use today", // by default "used to"
+
+    "TPEUPB/AEL": "finale", // also like "many" but with /ɑː/ instead of /ɛ/
 
     "HOELT": "hotel",
     "HO*ELT": "Hotel",
@@ -848,6 +853,8 @@
     "ABG": "{^atic}", // - cf. TKRABG "dramatic", PRO*B/ABG "problematic"
                       // - e.g., KROEPL/ABG "chromatic" ("chrome" + {^atic})
                       // - give up "ack"
+
+    "PWO*BGS": "{^box}",
 
     "-PB": "{^en}",    // use APB for "an"
     "-PBD": "{^ened}", // use SKP for "and"
@@ -3680,6 +3687,7 @@
 
     // -f -> -ves
     "HAFZ": "halves",
+    "HAOFZ": "hooves",
     "TPHAOEUFZ": "knives",
     "HRAOEFZ": "leaves", // or just use HREFZ
     "HRAOEUFZ": "lives", // or just use HREUFZ
@@ -4118,6 +4126,7 @@
     "H*EFPB": "Heaven",
     "STPH*ET": "Internet",
     "SKWR*UFS": "Justice",
+    "PHA*FRT": "Master",
     "TPHA*EUFT": "Native", // as in "Native American"
     "PA*ERT": "Party",
     "PR*EUPB/SES": "Princess",
@@ -5295,6 +5304,9 @@
     "PAEUPBZ/H-F": "panes",
     "PAOES/H-F": "peace",           // from "piece"
     "TPEUL/H-F": "Phil",            // from "fill"
+    "PAOEBG/H-F": "peak",           // from "peek"
+    "PAOEBGD/H-F": "peaked",
+    "PAOEBGZ/H-F": "peaks",
     "PHRAEUPB/H-F": "plane",        // from "plain"
     "PHRAEUPBZ/H-F": "planes",
     "POEL/H-F": "poll",             // from "pole"
