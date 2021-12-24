@@ -476,7 +476,8 @@
     "AFD/SAER": "adversary", // AFRD feels too emphatic ("adVER...")
     "AFD/SAERL": "adversarial",
     "HRARPL": "alarm",
-    "ALG": "algorithm",    // use ALGS for "additional"
+    "ALG": "algorithm", // use ALGS for "additional"
+    "ALT/TEUF": "alternative", // alternative to HR-FRPB (ltrn?)
     "AEURGS": "arrogance", // use -Z for "airings"
     "AEURGT": "arrogant",  // cf. AEURPT "airport"
     "TRAF": "attractive",  // use TR-FR for "transfer"
