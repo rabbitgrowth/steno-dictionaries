@@ -1011,7 +1011,7 @@
     "THAFL": "thankful",
     "WOEFL": "woeful", // use WUFL for "wonderful"
 
-    // Fold in -R for -er or -or
+    // Fold in -R for -er, -or, or even -ar
     "KHEFR": "achiever", // overrides "chevre" [1]
     "APBLG/TAEURT": "agitator",
     "APB/PHAEURT": "animator",
@@ -1049,6 +1049,7 @@
     "EUPB/KRAOEURT": "inciter",
     "HR*EURBG": "liquor", // - * = "lyric"
     "HROURPBG": "lounger",
+    "HRAOURPB": "lunar",
     "PHAOERG": "meager",
     "PHAOERPBD": "meander",
     "TPH*ERT": "nether",
