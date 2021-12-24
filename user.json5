@@ -4338,17 +4338,17 @@
     "TKO/TKO": "dodo",
     "TKOE/TKOE": "dodo",
     "TKO*PB": "don", // - * = "done"; prepend KPA for "Don"
-    "TKO*U": "Dow", // - * = "do you"
+    "TKO*U": "Dow",  // - * = "do you"
     "TKREBG": "dreck",
     "AOEF": "eve", // overrides "Eve" [1]
     "KEPB": "ken", // + * = "Ken"
-    "HRAO*EUT": "lithe", // give up "lite"
+    "HRAO*EUT": "lithe",  // give up "lite"
     "TPRAEUFL": "phrasal",
-    "WAOERG": "Uighur", // use W*R for "we're"
+    "WAOERG": "Uighur",   // use W*R for "we're"
     "STOLD": "stolid",    // cf. SOL/EUD "solid"
     "STOL/EUD": "stolid", // cf. SOLD    "solid"
-    "SR*EUZ": "viz.", // - * = "advise"
-    "W*URT": "wuther", // "Wuthering Heights"
+    "SR*EUZ": "viz.",     // - * = "advise"
+    "W*URT": "wuther",    // "Wuthering Heights"
     /*1*/ "AO*EF": "Eve", // use A*EF for "eave":
                           // AOEF  "eve"  AEF  "avenue"
                           // AO*EF "Eve"  A*EF "eave"
