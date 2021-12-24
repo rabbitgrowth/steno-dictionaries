@@ -4345,6 +4345,8 @@
     "HRAO*EUT": "lithe", // give up "lite"
     "TPRAEUFL": "phrasal",
     "WAOERG": "Uighur", // use W*R for "we're"
+    "STOLD": "stolid",    // cf. SOL/EUD "solid"
+    "STOL/EUD": "stolid", // cf. SOLD    "solid"
     "SR*EUZ": "viz.", // - * = "advise"
     "W*URT": "wuther", // "Wuthering Heights"
     /*1*/ "AO*EF": "Eve", // use A*EF for "eave":
