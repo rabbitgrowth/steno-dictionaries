@@ -181,7 +181,6 @@
     "KPROERD": "extraordinary", // with OERD "ordinary"
     "TPHREBLT": "flexibility",  // with TPHREBL "flexible"
     "TPREBGS": "for example",   // with TPREUPBS "for instance"; use -Z for "frequents"
-    "TP*PB": "fountain",        // with PH*PB "mountain"; give up "fn"
     "TKPWAEUFD": "gazed",       // with TKPWAEUFG "gazing"
     "H-B": "had been",          // with SR-B "have been"; misstroke for {^-^}
     "HAPBT": "hasn't",          // with HAPBLT "has not"
@@ -1780,14 +1779,18 @@
     "STOEUD": "studio", // overrides "studied" [1]
     /*1*/ "STKEU": "study", // "studied" is then STKEUD
 
-    // OUPB for -ound
-    "PWOUPB": "bound",
-    "TPOUPB": "found",     // give up "fun to"; or use TP-D (custom)
-    "TKPWROUPB": "ground", // use TKPWROEPB for "grown"
-    "HOUPB": "hound",      // use HOUPL for "how many"
-    "PHOUPB": "mound",     // use PHO*EPB for "mown"
-    "POUPB": "pound",
-    "SOUPB": "sound",      // use SOEPB for "sown"
+    // OUPB for -ountain
+    // The distinction between "machine" (no star) and "mountain" (starred)
+    // has always felt a bit arbitrary, and my far-fetched mnemonic of
+    // picturing the * as a shiny gemstone in a mountain cave didn't help.
+    // Using OUPB for -ountain feels right phonetically, especially if you
+    // pronounce it with a glottal "t". The trade-off is not being able to
+    // use OUPB for -ound, but I think I like
+    //   TPOUPBD "found"   PHOUPB "mountain"
+    // better than
+    //   TPOUPB  "found"   PH*PB  "mountain"
+    "TPOUPB": "fountain", // use TPOUPBD or TP-D (custom) for "found"
+    "PHOUPB": "mountain", // use PHO*EPB for "mown"
 
     // OFT for -osity
     // Precedents: KAOUR/KWROFT "curiosity"
