@@ -1078,7 +1078,6 @@
     "SWEUFRT": "swifter",
     "TA*RPBG": "tanker",
     "TAEURT": "tater",
-    "TEURPBD": "tinder",
     "TRARBGT": "tractor",
     "THRAEURT": "translator",
     "TRAORP": "trooper",
@@ -1088,6 +1087,10 @@
     /*1*/ "KH*EFR": "chèvre", // with proper diacritics
           "SH*EFR": "chèvre", // phonetic
     /*2*/ "WA*/WA*": "Washington, D.C.",
+
+    "TEURPBD": "tinder",
+    "T*EURPBD": "Tinder",
+    "TEURPBD/PWOBGS": "tinderbox",
 
     // ... or use R if -R is already used
     // Precedents: TPRORPL "former", RERL "earlier"
