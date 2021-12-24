@@ -1822,8 +1822,12 @@
     "TWEZ": "tweeze",
     "WHEZ": "wheeze",
 
-    "KREZ": "increase",
+    "KREZ": "increase",   // KRES is "cress"
+    "KREFD": "increased", // give up "credible evidence"
+    "KREFG": "increasing",
     "SKREZ": "decrease",
+    "SKREFD": "decreased",
+    "SKREFG": "decreasing",
 
     // URT for -utter
     "PWURT": "butter", // overrides "Burt" [1]
