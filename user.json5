@@ -1569,7 +1569,8 @@
     "SKRAEUPB": "constrain", // cf. SKRAEUPBT "constraint"
     "SKRUBGT": "construct",  // cf. SKRUBGS   "construction"
     "SKREUBGT": "constrict", // cf. SKREUBGS  "constriction"; frees up ...
-    "KREUBGT": "contradict", // instead of KR*BGT or KROEUBGT
+    "KREUBGT": "contradict",    // instead of KR*BGT or KROEUBGT
+    "KREUBGS": "contradiction", // use KREUFBGZ for "characteristics"
     // But you need to drop the S for brief forms due to conflicts:
     "KRUF": "constructive",  // SKRUF  is "scruff"
     "KREUF": "constrictive", // SKREUF is "sacrifice" (custom)
