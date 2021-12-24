@@ -1385,9 +1385,6 @@
     "KPWOES": "impose",
     "KPWOEFD": "imposed",
     "KPWOEFG": "imposing",
-    "KPWOB": "impossible",
-    "KPWOBL": "impossibly",
-    "KPWOBLT": "impossibility",
     "KPWRES": "impress",
     "KPWREFD": "impressed",
     "KPWREFG": "impressing",
@@ -4689,6 +4686,14 @@
     "AOEU/TKEULG": "idyllic",
     /*1*/ "TKHREFBG": "dyslexic",
           "TKHREBGS": "dyslexia",
+
+    // "impossible" and "improbable"
+    "KPWOB": "impossible",
+    "KPWOBL": "impossibly",
+    "KPWOBLT": "impossibility",
+    "KPWROB": "improbable",
+    "KPWROBL": "improbably",
+    "KPWROBLT": "improbability",
 
     // "introvert" and "extrovert"
     "SPWROE/SRERT": "introvert", // cf. EBGS/TROE/SRERT "extrovert"
