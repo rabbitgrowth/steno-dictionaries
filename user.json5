@@ -3356,6 +3356,28 @@
     "WHOES": "who he is",
     "WHO*ES": "who he's",
     "WHOEFS": "who he was",
+    "WHOEUF": "who I have",
+    "WHO*EUF": "who I've",
+    "WHOEUD": "who I had",
+    "WHOUF": "who you have",
+    "WHO*UF": "who you've",
+    "WHOUD": "who you had",
+    "WHOEZ": "who he has", // give up "whoas"
+    "WHOED": "who he had", // give up "whoaed"
+    "WHOEUBG": "who I can",
+    "WHOEUBGD": "who I could",
+    "WHOEURBD": "who I should",
+    "WHOEUL": "who I will",
+    "WHO*EUL": "who I'll",
+    "WHOEULD": "who I would",
+    "WHO*EUD": "who I'd",
+    "WHOUBG": "who you can",
+    "WHOUBGD": "who you could",
+    "WHOURBD": "who you should",
+    "WHOUL": "who you will",
+    "WHO*UL": "who you'll",
+    "WHOULD": "who you would",
+    "WHO*UD": "who you'd",
     /*1*/ "WHAOUS": "whose",
 
     // STP as stacking form of "if"
