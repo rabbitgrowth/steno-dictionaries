@@ -473,6 +473,7 @@
 
     // -- Sound squeezing ------------------------------------------------------
 
+    "SEPS": "acceptance", // use -Z for "accepts"
     "A/KAOUFBG": "acoustic",
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "TKPHEUGS": "admission",
