@@ -647,20 +647,19 @@
     "SRAEL": "valley", // overrides "vale" [1]
     /*1*/ "SRA*EL": "vale", // give up "eval"
 
-    "HROEB": "lobby",        // overrides "lobe"
-    "HROEBG": "lobbying",    // overrides "locate"
+    "HROEB": "lobby",       // overrides "lobe"
+    "HROEBG": "lobbying",   // overrides "locate"
     "HRO*EB": "lobe",
-    "KHRAEUT": "locate",     // overrides "calculate"
-    "KHRAEUTD": "located",   // overrides "calculated"
-    "KHRAEUGT": "locating",  // overrides "calculating"
-    "KHRAEUGS": "location",  // overrides "calculation"
-    "KAL": "calculate",      // overrides "cal" (calorie)
+    "KHRAEUT": "locate",    // overrides "calculate"
+    "KHRAEUTD": "located",  // overrides "calculated"
+    "KHRAEUGT": "locating", // overrides "calculating"
+    "KHRAEUGS": "location", // overrides "calculation"
+    "KAL": "calculate",     // overrides "cal" (calorie)
     "KALG": "calculating",
     "KALGS": "calculation",
-    "KARLT": "calculator",   // with -T because KARL is "Karl"
-                             // and feels like "callor" (if that was a word)
+    "KARLT": "calculator",
     "KAL/TOR": "calculator",
-    "KA*L": "cal",           // use KPAL for "capital"
+    "KA*L": "cal", // use KPAL for "capital"
 
     // Lengthen vowel
     // Precedent: TPUPB "fun" -> TPAOUPB "funny"
