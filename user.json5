@@ -3678,6 +3678,7 @@
     "AOEUZ": "eyes",      // vs "ice"; overrides {^ize} [1]
     "TPHREBGZ": "flecks", // vs "flex"; use TPHRETS (custom) for "reflects"
     "PAUZ": "paws",       // vs "pause"
+    "PRAEUZ": "prays",    // vs "praise"
     /*1*/ "EUZ": "{^ize}",
           "EUFD": "{^ized}",  // cf. AO*EUFD
           "EUSZ": "{^izes}",
@@ -5362,6 +5363,10 @@
     "PHRAEUPBZ/H-F": "planes",
     "POEL/H-F": "poll",             // from "pole"
     "POELZ/H-F": "polls",
+    "PRAEU/H-F": "prey",            // from "pray"
+    "PRAEUD/H-F": "preyed",
+    "PRAEUG/H-F": "preying",
+    "PRAEUZ/H-F": "preys",
     "PREUPB/H-F": "principal",      // from "principle"
     "PREUPBZ/H-F": "principals",
     "PROFT/H-F": "prophet",         // from "profit"
