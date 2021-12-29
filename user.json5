@@ -5391,6 +5391,8 @@
     "STRAEUTS/H-F": "straits",
     "SWAEUD/H-F": "suede",          // from "swayed"
     "SWAOET/H-F": "suite",          // from "sweet"
+    "S*EUPBG/H-F": "sync",          // from "sink"
+    "S*EUPBGZ/H-F": "syncs",
     "TAOE/H-F": "tea",              // from "tee"
     "TAOEZ/H-F": "teas",
     "TAOER/H-F": "tear",            // from "tier"
