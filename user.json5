@@ -268,6 +268,10 @@
     "PHEL/TKROEUPL": "melodrama",
     "SEUFRP/TOPB": "simpleton",
 
+    // Fingerspelling with dot (B-Y already work)
+    "A*FPLT": "{&A.}",
+    "STKPW*FPLT": "{&Z.}", // instead of SAO*EFPLT, like STKPW* and STKPW*P
+
     // -- Phonetic -------------------------------------------------------------
 
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES and ABG/SEU
