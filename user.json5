@@ -1283,6 +1283,13 @@
     "HAOUFRL/KWRAEUT": "humiliate",
     "HAOUFRL/KWRAEUGS": "humiliation",
 
+    "PHEUFRL": "minimal",
+    "PHEUFRPL": "minimum",
+    "PHAFRL": "maximal",  // use PHAFRBL for "marvel"
+    "PHAFRPL": "maximum", // frees up PHABGS for "max"
+    "PHABGS": "max",
+    "PHA*BGS": "Max",
+
     // -- Extensions -----------------------------------------------------------
 
     // SPW for [aeiou]n[dt]-
