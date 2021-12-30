@@ -1111,6 +1111,7 @@
     // Fold in -L for -ly
     "KORLG": "accordingly",
     "PROELT": "appropriately", // overrides "protocol" [1]
+    "PWHRAEUPBLT": "blatantly",
     "PWHRAOEUPBLD": "blindly",
     "PWRAFL": "bravely", // alternative to PWRAEUFL
     "K-RBLS": "consciously",
