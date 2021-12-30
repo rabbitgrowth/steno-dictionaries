@@ -4335,7 +4335,6 @@
     "TK-L": "download",    // dl
     "SKWR-P": "Japan",     // JP
     "SKWR-PS": "Japanese",
-    "KAOEB": "keyboard",   // keeb
     "PHO": "month",        // mo   (misstroke for "no")
     "PH-FT": "movement",   // mvt
     "P-PBLG": "pajama",    // PJ
@@ -4363,6 +4362,8 @@
     "SR*ET": "veteran",       // vet
 
     // If the full form is a very common word, add * for the short form
+    "KAOEB": "keyboard",
+    "KAO*EB": "keeb",
     "HOPB": "honey",
     "HO*PB": "hon",
     "SEBG": "second",
