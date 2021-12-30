@@ -4739,7 +4739,7 @@
 
     // "melancholy" family
     "PHEL/KOEL": "melancholy",  // PHEL/KOL/KWREU but with "many" rule
-    "PHEL/KOLG": "melancholic", // PHEPBL/KOLG    but omit -PB like "melancholy"
+    "PHEL/KOLG": "melancholic", // PHEPBL/KOLG but omit -PB like "melancholy"
 
     // "phenomenon" family
     "TPOPB": "phenomenon", // give up "phon" (unit of loudness)
