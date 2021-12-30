@@ -3794,7 +3794,6 @@
 
     // -- Opportunities opened up by using -Z for -s ---------------------------
 
-    // -S for -ous
     "STKAOEURS": "desirous",   // use -Z for "desires"
     "STKAFRS": "disastrous",   // use -Z for "disasters"
     "STKAFRTS": "disastrous",  // more phonetic ("dsastrs")
@@ -3825,7 +3824,6 @@
     "SREURG": "vigor",
     "SREURGS": "vigorous",      // use -Z for "vigors"
 
-    // -S for -us
     "PWOEGS": "bogus",
     "PWOEPBS": "bonus",   // use -Z for "bones"
     "KAFRPS": "campus",   // use -Z for "camps"
@@ -3842,11 +3840,9 @@
 
     "HOEBGS/POEBGS": "hocus pocus", // but HOEBGS on its own is "hoax"
 
-    // -S for -is
     "TPERS": "Ferris",
     "PAEURS": "Paris", // use -Z for "pairs"
 
-    // -S for -ace
     "PALS": "palace", // use -Z for "pals"
     "SOLS": "solace",
 
