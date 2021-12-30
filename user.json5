@@ -3849,8 +3849,8 @@
     "PORPLS": "performance", // use -Z for "performs"
 
     // Use *S for special three-way conflicts
-    "SKWRAO*EPBS": "genus", // with -S "genius", -Z "genes"
-    "T*EPBS": "tennis",     // with -S "tense",  -Z "tens"
+    "SKWRAO*EPBS": "genus", // -S "genius", -Z "genes"
+    "T*EPBS": "tennis",     // -S "tense",  -Z "tens"
 
     // -- Verb forms -----------------------------------------------------------
 
