@@ -2233,8 +2233,7 @@
     "PWUPBLD": "bundled",   // by default also "bundle"
     "PW*UPBLG": "bundling", // - * = "budge"
     "TKWEUPBL": "dwindle",
-    "TPOPBL": "fondle", // use TPA*L or TPO*PBL for "phenomenal"
-                        // for consistency with TPO*PB "phenomenon"
+    "TPOPBL": "fondle",    // use TPAL (custom) for "phenomenal"
     "TPOPBLG": "fondling", // by default "okay{.}"
     "KEUPBL": "kindle",
     "SWEUPBL": "swindle",
@@ -2268,8 +2267,6 @@
     "PHET/TPOR": "metaphor",    // use PHET/TP-R for "met for"
     "PHAOUPLT": "municipality",
     "PEFRT": "pester",          // use P-F for "perfect"
-    "TPOPB": "phenomenon",      // give up "phon" (unit of loudness)
-    "TPOPBZ": "phenomena",
     "PREUPBL": "provisional",   // use PREUPB for "principle"
     "REUPBD": "remind",         // like HEUPBD "behind"
     "REUPBTD": "reminded",
@@ -4743,6 +4740,11 @@
     // "melancholy" family
     "PHEL/KOEL": "melancholy",  // PHEL/KOL/KWREU but with "many" rule
     "PHEL/KOLG": "melancholic", // PHEPBL/KOLG    but omit -PB like "melancholy"
+
+    // "phenomenon" family
+    "TPOPB": "phenomenon", // give up "phon" (unit of loudness)
+    "TPOPBZ": "phenomena", // add -Z for irregular plural
+    "TPAL": "phenomenal",  // use TPAUL for "fall"
 
     // "philosophy" family
     "TPHROEF": "philosophy", // "flofy"; odd misstroke for "flow"
