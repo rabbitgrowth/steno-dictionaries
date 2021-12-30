@@ -308,6 +308,7 @@
     "KWRAOUBG/HREUP/TUS": "eucalyptus",
     "KWRAOUBG/HREUPT/US": "eucalyptus", // AOUBG/HREUPT/US with KWR in front
     "KWRAOUBG/HREUPTS": "eucalyptus",
+    "TPAULS": "false", // instead of TPALS; use -Z for "falls"
     "TPHREUFT": "felicity", // give up {^philicity} (obscure chemistry stuff)
     "TPHREUFT/OUS": "felicitous",
     "TPEPBGS": "fencing", // misstroke for "infection"
