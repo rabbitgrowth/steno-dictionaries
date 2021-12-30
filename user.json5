@@ -392,22 +392,22 @@
     "PAOEUPB/APL": "pineapple",
 
     // Phonetic alternatives to briefs
-    "SER/TEUFBGT": "certificate",  // to SER
-    "KAUPB/TKURBGT": "conductor",  // to KURBGT
-    "KUFPB": "cousin",             // to KUZ
-    "TKAOEUPBLG/EFT": "digest",    // to SKWR*EFT
-    "TKEUPL/TPHEURB": "diminish",  // to TKPHEURB
-    "TKEUS/SPEURT": "dispirit",    // to STKPEURT
-    "STKREUBGT": "district",       // to TKR-T; use TKR-BG(T) for "distributing"
-    "KPEBG/TEUF": "executive",     // to SKAOUF
-    "TPABG/TEU": "faculty",        // to TPA*BG
+    "SER/TEUFBGT": "certificate", // to SER
+    "KAUPB/TKURBGT": "conductor", // to KURBGT
+    "KUFPB": "cousin",            // to KUZ
+    "TKAOEUPBLG/EFT": "digest",   // to SKWR*EFT
+    "TKEUPL/TPHEURB": "diminish", // to TKPHEURB
+    "TKEUS/SPEURT": "dispirit",   // to STKPEURT
+    "STKREUBGT": "district",      // to TKR-T; use TKR-BG(T) for "distributing"
+    "KPEBG/TEUF": "executive",    // to SKAOUF
+    "TPABG/TEU": "faculty",       // to TPA*BG
     "TPABG/TEUZ": "faculties",
-    "TPORT/AOUPB": "fortune",      // to TP-RPB and TPAURPB
-    "EUPB/SEPBT": "innocent",      // to TPH-PBT; use EUPB/SEFPBT for "incessant"
-    "SPWREFT": "interest",         // to TR
-    "TPHAEURB": "neighbor",        // to TPHAEUB
-    "SHOP/HREUFRT": "shoplifter",  // to SHREUFRT
-    "SEUFRT": "sister",            // to ST-R
+    "TPORT/AOUPB": "fortune",     // to TP-RPB and TPAURPB
+    "EUPB/SEPBT": "innocent",     // to TPH-PBT; use EUPB/SEFPBT for "incessant"
+    "SPWREFT": "interest",        // to TR
+    "TPHAEURB": "neighbor",       // to TPHAEUB
+    "SHOP/HREUFRT": "shoplifter", // to SHREUFRT
+    "SEUFRT": "sister",           // to ST-R
 
     "SPWEUBGT": "indicate", // to KA*EUT
     "SPWEUBGD": "indicated",
