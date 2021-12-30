@@ -4732,6 +4732,11 @@
     "KPWROBL": "improbably",
     "KPWROBLT": "improbability",
 
+    // "incandesce" family
+    "EUPB/KAPB/TKES": "incandesce",
+    "EUPB/KAPB/TKEFPBT": "incandescent",
+    "EUPB/KAPB/TKEFPBS": "incandescence",
+
     // "introvert" and "extrovert"
     "SPWROE/SRERT": "introvert", // cf. EBGS/TROE/SRERT "extrovert"
     "EBGS/TROEFRT": "extrovert", // cf. SPWROEFRT       "introvert"
