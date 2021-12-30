@@ -407,7 +407,6 @@
     "EUPB/SEPBT": "innocent",      // to TPH-PBT; use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",         // to TR
     "TPHAEURB": "neighbor",        // to TPHAEUB
-    "PUB/HREUFT": "publicity",     // to P-BT (custom)
     "SHOP/HREUFRT": "shoplifter",  // to SHREUFRT
     "SEUFRT": "sister",            // to ST-R
 
@@ -591,6 +590,7 @@
           "P-BL": "publicly",
           "P-BT": "publicity",
           "PUBLG": "public", // cf. RUBLG "republic"
+          "PUB/HREUFT": "publicity",
 
     "SKPAOPB": "and so on", // SKP + SO + OPB with AO for the doubled "o"
     "SKP-PB": "and then",
