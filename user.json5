@@ -309,8 +309,6 @@
     "KWRAOUBG/HREUPT/US": "eucalyptus", // AOUBG/HREUPT/US with KWR in front
     "KWRAOUBG/HREUPTS": "eucalyptus",
     "TPAULS": "false", // use -Z for "falls"; frees up TPALS for "phallus" [1]
-    "TPHREUFT": "felicity", // give up {^philicity} (obscure chemistry stuff)
-    "TPHREUFT/OUS": "felicitous",
     "TPEPBGS": "fencing", // misstroke for "infection"
     "TPRAOEPBLS": "freelance",
     "TPREUFL": "frivol",
@@ -1823,6 +1821,20 @@
     "PHOPBS/TROFT": "monstrosity",
     "RE/HREUPBLG/KWROFT": "religiosity",
     "SRER/PWOFT": "verbosity",
+
+    // EUFT for -icity
+    // EUFT/OUS gives -icitious (with an extra "i") by default due to
+    // orthography rules, so define the -ous counterparts explicitly.
+    // Alternatively, use EUS/TOUS.
+    "TKAOU/PHREUFT": "duplicity",
+    "TKAOU/PHREUFT/OUS": "duplicitous",
+    "TPHREUFT": "felicity", // give up {^philicity} (chemical suffix)
+    "TPE/HREUFT": "felicity",
+    "TPHREUFT/OUS": "felicitous",
+    "TPHREUS/TOUS": "felicitous",
+    "TPE/HREUFT/OUS": "felicitous",
+    "TPE/HREUS/TOUS": "felicitous",
+    "PHULT/PHREUFT": "multiplicity",
 
     // EZ for -eeze
     // Like THEZ "these", although "these" is spelled with an "s".
