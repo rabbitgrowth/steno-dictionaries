@@ -3797,22 +3797,22 @@
 
     // -- Opportunities opened up by using -Z for -s ---------------------------
 
-    "STKAOEURS": "desirous",   // use -Z for "desires"
-    "STKAFRS": "disastrous",   // use -Z for "disasters"
-    "STKAFRTS": "disastrous",  // more phonetic ("dsastrs")
-    "TPHORPLS": "enormous",    // use -Z for "norms"
-    "TPAOEURBS": "fibrous",    // use -Z for "fibers" [1]
+    "STKAOEURS": "desirous",  // use -Z for "desires"
+    "STKAFRS": "disastrous",  // use -Z for "disasters"
+    "STKAFRTS": "disastrous", // more phonetic ("dsastrs")
+    "TPHORPLS": "enormous",   // use -Z for "norms"
+    "TPAOEURBS": "fibrous",   // use -Z for "fibers" [1]
     "SKWRERPBS": "generous",
-    "SKWRERPBGS": "generous",  // misstroke
-    "HAOURPLS": "humorous",    // use -Z for "humors"
-    "TPHAOURPLS": "numerous",  // phonetic alternative to TPHAOUPLS
-    "SKWRELS": "jealous",      // use -Z for "gels"
+    "SKWRERPBGS": "generous", // misstroke
+    "HAOURPLS": "humorous",   // use -Z for "humors"
+    "TPHAOURPLS": "numerous", // phonetic alternative to TPHAOUPLS
+    "SKWRELS": "jealous",     // use -Z for "gels"
     "SKWRAOELS": "jealousy",
-    "PO*RS": "porous",         // cf. PO*R "pore" (POR is "pour" and POUR is "power")
-    "PORS": "porous",          // allow dropping * since "pourous" is not a word
-    "RAOUPBS": "ruinous",      // use -Z for "ruins"
+    "PO*RS": "porous",        // cf. PO*R "pore" (POR is "pour" and POUR is "power")
+    "PORS": "porous",         // allow dropping * since "pourous" is not a word
+    "RAOUPBS": "ruinous",     // use -Z for "ruins"
     "TREFPS": "treacherous",
-    "TREFRPS": "treacherous",  // more phonetic ("trechs")
+    "TREFRPS": "treacherous", // more phonetic ("trechs")
     /*1*/ "TPAOEURBZ": "fibers", // by default "patients to" (mashup of PAEURBZ and TO)
 
     "KHRARPL": "clamor",
