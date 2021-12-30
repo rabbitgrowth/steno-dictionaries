@@ -476,7 +476,6 @@
 
     // -- Sound squeezing ------------------------------------------------------
 
-    "SEPS": "acceptance", // use -Z for "accepts"
     "A/KAOUFBG": "acoustic",
     "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "TKPHEUGS": "admission",
@@ -3845,6 +3844,9 @@
 
     "PALS": "palace", // use -Z for "pals"
     "SOLS": "solace",
+
+    "SEPS": "acceptance",    // use -Z for "accepts"
+    "PORPLS": "performance", // use -Z for "performs"
 
     // Use *S for special three-way conflicts
     "SKWRAO*EPBS": "genus", // with -S "genius", -Z "genes"
