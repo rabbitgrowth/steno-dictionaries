@@ -4333,7 +4333,6 @@
 
     // Emulate written abbreviations
     "TK-L": "download",     // dl
-    "TKPW-F": "girlfriend", // gf   (or use TKPWOEUF for symmetry with PWOEUF "boyfriend")
     "SKWR-P": "Japan",      // JP
     "SKWR-PS": "Japanese",
     "KAOEB": "keyboard",    // keeb
