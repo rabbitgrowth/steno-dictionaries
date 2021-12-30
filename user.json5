@@ -4331,7 +4331,7 @@
 
     // -- Abbreviations --------------------------------------------------------
 
-    // Non-steno abbreviations
+    // Emulate written abbreviations
     "TK-L": "download",     // dl
     "TKPW-F": "girlfriend", // gf   (or use TKPWOEUF for symmetry with PWOEUF "boyfriend")
     "SKWR-P": "Japan",      // JP
@@ -4343,14 +4343,12 @@
     "P-BGS": "pixel",       // px   (give up "People's Exhibit#G")
     "PREF": "previous",     // prev (give up "pref")
     "PREFL": "previously",
-    "SEBG": "second",       // sec  (overrides "sec" [1])
     "T-GT": "together",     // tgt  (use TAEUL/TKPWAEUT for "tailgate")
     "T-RPL": "tomorrow",    // tmr
-    /*1*/ "S*EBG": "sec",
 
     // Add * to expand to full form
     // Precedent: TPREUPBLG "fridge" -> TPR*EUPBLG "refrigerator"
-    // "Not an accident" -- Mirabai
+    // "Not an accident" - Mirabai
     "KHA*FRP": "champion",    // champ
     "KH*EUFRP": "chimpanzee", // chimp
     "TKO*RPL": "dormitory",   // dorm
@@ -4364,6 +4362,12 @@
     "P*UB": "publish",        // pub
     "R*EP": "representative", // rep
     "SR*ET": "veteran",       // vet
+
+    // If the full form is a very common word, add * for the short form
+    "HOPB": "honey",
+    "HO*PB": "hon",
+    "SEBG": "second",
+    "S*EBG": "sec",
 
     // -- Vocabulary -----------------------------------------------------------
 
