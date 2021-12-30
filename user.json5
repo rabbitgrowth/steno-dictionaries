@@ -393,7 +393,6 @@
 
     // Phonetic alternatives to briefs
     "SER/TEUFBGT": "certificate",  // to SER
-    "SERT/TPEUBGT": "certificate",
     "KAUPB/TKURBGT": "conductor",  // to KURBGT
     "KUFPB": "cousin",             // to KUZ
     "TKAOEUPBLG/EFT": "digest",    // to SKWR*EFT
