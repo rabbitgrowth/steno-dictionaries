@@ -139,6 +139,8 @@
     "KPEBL": "accessible",      // with KPES "access"
     "KPEBLT": "accessibility",
     "A/KUFPL": "accustom",      // with A/KUFPLD "accustomed"
+    "TKAPT": "adapt",           // with TKOPT "adopt"; by default just "dapt" -
+                                //   meant to be used together with {a^}?
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
     "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
@@ -855,6 +857,8 @@
 
     "PWO*BGS": "{^box}",
 
+    "TKERBG": "{^-decker}", // "double-decker"
+
     "-PB": "{^en}",    // use APB for "an"
     "-PBD": "{^ened}", // use SKP for "and"
     "-PBG": "{^ening}",
@@ -1107,6 +1111,7 @@
     // Fold in -L for -ly
     "KORLG": "accordingly",
     "PROELT": "appropriately", // overrides "protocol" [1]
+    "SHAURLD": "assuredly",
     "PWHRAEUPBLT": "blatantly",
     "PWHRAOEUPBLD": "blindly",
     "PWRAFL": "bravely", // alternative to PWRAEUFL
@@ -1885,6 +1890,7 @@
     "AD/SREFRT": "adversity",
     "KAOUFRT": "curiosity",
     "PER/SREFRT": "perversity",
+    "SKAEUFRT": "scarcity",
     "SPAFRT": "sparsity",
     "SRAFRT": "varsity", // consistent with AOUFRT "university"
 
@@ -4306,6 +4312,7 @@
                           // (why brief one and not the other?)
     "TKUPLT": "does not",
     "TK-PLT": "did not",  // give up {&d-}
+    "H-PLT": "had not",   // give up {&h-}
     "HR-PLT": "will not", // give up {&l-}
 
     // Use -PLT for "not" even when there's no -n't form
