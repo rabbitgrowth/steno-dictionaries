@@ -5116,9 +5116,12 @@
     // TPH-PB "under" never made sense to me. Why two Ns? Plus TPH-PBT
     // is "innocent" (which is consistent with TPH-PBS "innocence"),
     // making it impossible to one-stroke "under the".
-    "TPH-R": "under", // use TPHOR for "nor", which is consistent with OR "or"
+    "TPH-R": "under", // use TPHOR for "nor", which is consistent with OR "or";
+                      // frees up TPH-PB for "inn" [1]
     "TPH-RT": "under the",
     "TPH-RTS": "under its",
+    /*1*/ "TPH-PB": "inn",
+          "TPH*PB": "Inn",
 
     // Consonant + no vowel + -RB for -nish
     // cf. P-RB "punish"
