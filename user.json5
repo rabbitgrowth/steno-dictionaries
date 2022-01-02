@@ -5077,31 +5077,6 @@
                            // SAO*EUT is "site" since SAOEUT is "sight"
     /*1*/ "STPH*UR": "insure",
 
-    // Use single hyphen as dash
-    "TK-RB": "-",
-
-    // Don't hyphenate
-    "KAFT/AOEURPB": "cast iron",
-    "ROUPBD/TREUP": "round trip",
-    "SRAOEUS/PREZ": "vice president",
-
-    // Double to join with "and"
-    "TKPWEPB/TKPWEPB": "again and again",
-    "TKPWEPB/TKPWEPB/TKPWEPB": "again and again and again",
-    "PW-RT/PW-RT": "better and better",
-    "PW-RT/PW-RT/PW-RT": "better and better and better",
-    "HRES/HRES": "less and less",
-    "HRES/HRES/HRES": "less and less and less",
-    "PHOR/PHOR": "more and more",
-    "PHOR/PHOR/PHOR": "more and more and more",
-    "OPB/OPB": "on and on",
-    "OPB/OPB/OPB": "on and on and on",
-    "OEFR/OEFR": "over and over",
-    "OEFR/OEFR/OEFR": "over and over and over",
-
-    // Fictitious place names
-    "SREUL": "{*-|}{^ville}", // with retrospective capitalization
-
     // Pronounce TPH as en-
     // Precedents: TPH-PBLG "engine", TPH-RG "energy"
     "TPH-D": "end",     // easier to stroke than EPBD; give up {^ed in}
@@ -5134,6 +5109,27 @@
     /*1*/ "TPH-PB": "inn",
           "TPH*PB": "Inn",
 
+    // "life" is HRAOEUF and "live" is HREUF. For words spelled with "live"
+    // but pronounced like "life", allow using EU as an alternative to AOEU.
+    "HREUFL": "lively", // alternative to HRAOEUFL
+    "HREUFPB": "liven", // alternative to HRAOEUFPB, which is actually a
+                        // great phonetic stroke for "horizon" ("hrison");
+                        // but a brief is even better:
+    "H-RZ": "horizon",
+    "H-RL": "horizontal",
+
+    // Swap "swayed" and "suede"
+    // Require star for "suede" since it is less common and has a funny
+    // spelling-to-sound relation.
+    "SWAEUD": "swayed", // frequency on COCA: 3003
+    "SWA*EUD": "suede", //                    1312
+
+    // Don't waste so many strokes on "syrup"
+    // SURP, SEURP, SAOERP, and SEURPL are all "syrup" by default, but the
+    // last one is the only one that matches my pronunciation, /ˈsɪrəp/.
+    "SURP": "supper",
+    "SEURPL": "simmer",
+
     // Consonant + no vowel + -RB for -nish
     // cf. P-RB "punish"
     "ST-RB": "astonish",
@@ -5156,6 +5152,20 @@
     "STKERGS": "desertion",       // which frees up ...
     "TKE/SERGS": "desegregation", // consistent with SERGS "segregation"
 
+    // Double to join with "and"
+    "TKPWEPB/TKPWEPB": "again and again",
+    "TKPWEPB/TKPWEPB/TKPWEPB": "again and again and again",
+    "PW-RT/PW-RT": "better and better",
+    "PW-RT/PW-RT/PW-RT": "better and better and better",
+    "HRES/HRES": "less and less",
+    "HRES/HRES/HRES": "less and less and less",
+    "PHOR/PHOR": "more and more",
+    "PHOR/PHOR/PHOR": "more and more and more",
+    "OPB/OPB": "on and on",
+    "OPB/OPB/OPB": "on and on and on",
+    "OEFR/OEFR": "over and over",
+    "OEFR/OEFR/OEFR": "over and over and over",
+
     // Swap strokes such that * is used to contract or suppress space,
     // not the other way round.
     "KORP": "copper",
@@ -5174,26 +5184,16 @@
     "STPHO*RT": "sonority", // from STPHORT "snort"; use STPHOF for "and so forth"
     /*1*/ "KOERPB": "corny",
 
-    // "life" is HRAOEUF and "live" is HREUF. For words spelled with "live"
-    // but pronounced like "life", allow using EU as an alternative to AOEU.
-    "HREUFL": "lively", // alternative to HRAOEUFL
-    "HREUFPB": "liven", // alternative to HRAOEUFPB, which is actually a
-                        // great phonetic stroke for "horizon" ("hrison");
-                        // but a brief is even better:
-    "H-RZ": "horizon",
-    "H-RL": "horizontal",
+    // Use single hyphen as dash
+    "TK-RB": "-",
 
-    // Swap "swayed" and "suede"
-    // Require star for "suede" since it is less common and has a funny
-    // spelling-to-sound relation.
-    "SWAEUD": "swayed", // frequency on COCA: 3003
-    "SWA*EUD": "suede", //                    1312
+    // Don't hyphenate
+    "KAFT/AOEURPB": "cast iron",
+    "ROUPBD/TREUP": "round trip",
+    "SRAOEUS/PREZ": "vice president",
 
-    // Don't waste so many strokes on "syrup"
-    // SURP, SEURP, SAOERP, and SEURPL are all "syrup" by default, but the
-    // last one is the only one that matches my pronunciation, /ˈsɪrəp/.
-    "SURP": "supper",
-    "SEURPL": "simmer",
+    // Fictitious place names
+    "SREUL": "{*-|}{^ville}", // with retrospective capitalization
 
     // -- "sing later" and -arity ----------------------------------------------
 
