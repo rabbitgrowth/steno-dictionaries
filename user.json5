@@ -4545,15 +4545,11 @@
     "AO/AO/AO": "ooooh",
 
     // Existence
-    "THR-S": "there is", // advantage: neatly partitioned
-    "TH-RS": "there is", // advantage: easier to stroke
+    "THR-S": "there is",
     "THR-TS": "there is the",
-    "TH-RTS": "there is the",
-    "THR*S": "there's",    // already works
-    "TH*RS": "there's",
+    "THR*S": "there's", // already works
     "THR*TS": "there's the",
-    "TH*RTS": "there's the",
-    "THR-R": "there are",  // already works
+    "THR-R": "there are", // already works
     "THR-RT": "there are the",
     "THR*R": "there're",
     "THR*RT": "there're the",
