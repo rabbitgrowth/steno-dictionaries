@@ -4532,18 +4532,6 @@
 
     // -- Basics ---------------------------------------------------------------
 
-    // Exclamation
-    "O": "oh",           // the default O*ERBGS is just madness
-    "O/PHAPB": "oh man", // clashes with "Oman"
-    "O/PHAUPB": "Oman",  // with AU for /ɑː/
-    "OE/PHAUPB": "Oman", // fully phonetic with a nice OE-AU symmetry
-    // For the poetic "O" ("O say can you see..."),
-    // just use the fingerspelling O*P.
-    "AO": "ooh", // swap with "oo" (alternative spelling? Hawaiian bird?)
-    "AO*": "oo",
-    "AO/AO": "oooh",
-    "AO/AO/AO": "ooooh",
-
     // Existence
     "THR-S": "there is",
     "THR-TS": "there is the",
@@ -5122,6 +5110,19 @@
     "TPH-GD": "ending", // much easier to stroke than EPBGD
     /*1*/ "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
           "OUFD": "outside",  // "ousd"; for consistency
+
+    // By default "oh" is O*ERBGS, which has some logic to it:
+    //   OE      "owe"
+    //   OERBGS  "oh," (add -RBGS for comma)
+    //   O*ERBGS "oh"  (add * for the special case of "oh" without comma)
+    // But O*ERBGS feels like too many keys for such a simple word.
+    "O": "oh",
+    "O/PHAPB": "oh man", // clashes with "Oman"
+    "O*/PHAPB": "Oman",
+    // For the poetic "O" ("O say can you see..."), just fingerspell (O*P).
+    "AO": "ooh", // give up "oo" (Hawaiian bird?)
+    "AO/AO": "oooh",
+    "AO/AO/AO": "ooooh",
 
     // TPH-PB "under" never made sense to me. Why two Ns? Plus TPH-PBT
     // is "innocent" (which is consistent with TPH-PBS "innocence"),
