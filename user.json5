@@ -5077,7 +5077,7 @@
                            // SAO*EUT is "site" since SAOEUT is "sight"
     /*1*/ "STPH*UR": "insure",
 
-    // Pronounce TPH as en-
+    // A more ergonomic "end" with TPH for en-
     // Precedents: TPH-PBLG "engine", TPH-RG "energy"
     "TPH-D": "end",     // easier to stroke than EPBD; give up {^ed in}
     "TPH-DZ": "ends",   // overrides "inside" [1]
@@ -5086,11 +5086,11 @@
     /*1*/ "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
           "OUFD": "outside",  // "ousd"; for consistency
 
-    // By default "oh" is O*ERBGS, which has some logic to it:
+    // O*ERBGS "oh" seems crazy but actually has some logic to it:
     //   OE      "owe"
     //   OERBGS  "oh," (add -RBGS for comma)
     //   O*ERBGS "oh"  (add * for the special case of "oh" without comma)
-    // But O*ERBGS feels like too many keys for such a simple word.
+    // But it still feels like too many keys for such a simple word.
     "O": "oh",
     "O/PHAPB": "oh man", // clashes with "Oman"
     "O*/PHAPB": "Oman",
@@ -5112,21 +5112,21 @@
     // "life" is HRAOEUF and "live" is HREUF. For words spelled with "live"
     // but pronounced like "life", allow using EU as an alternative to AOEU.
     "HREUFL": "lively", // alternative to HRAOEUFL
-    "HREUFPB": "liven", // alternative to HRAOEUFPB, which is actually a
-                        // great phonetic stroke for "horizon" ("hrison");
-                        // but a brief is even better:
+    "HREUFPB": "liven", // alternative to HRAOEUFPB, which kind of matches
+                        // "horizon" too ("hrison"), but it matches "liven"
+                        // better so just use a brief for "horizon":
     "H-RZ": "horizon",
     "H-RL": "horizontal",
 
     // Swap "swayed" and "suede"
-    // Require star for "suede" since it is less common and has a funny
-    // spelling-to-sound relation.
-    "SWAEUD": "swayed", // frequency on COCA: 3003
-    "SWA*EUD": "suede", //                    1312
+    // Make "suede" the starred stroke since it's less common
+    // and has an unusual spelling-to-pronunciation relation.
+    "SWAEUD": "swayed",
+    "SWA*EUD": "suede",
 
     // Don't waste so many strokes on "syrup"
-    // SURP, SEURP, SAOERP, and SEURPL are all "syrup" by default, but the
-    // last one is the only one that matches my pronunciation, /ˈsɪrəp/.
+    // SURP, SEURP, SAOERP, and SEURPL are all "syrup" by default,
+    // but SEURP is the only one that matches my pronunciation.
     "SURP": "supper",
     "SEURPL": "simmer",
 
@@ -5138,11 +5138,11 @@
     "SR-RB": "vanish",
 
     // Swap base words to simplify inflections
-    // STK*ERT  "desert"  -> STK*ERTD  "deserted"
-    // STKERT   "dessert" -> STKERTD   "desserted" (not a word)
-    // TPHRO*UR "flower"  -> TPHRO*URS "flowers"
-    // TPHROUR  "flour"   -> TPHROURS  "flours"    (not a word)
-    // The nicer starless strokes STKERTD and TPHROURS are wasted on
+    //   STK*ERT  "desert"  -> STK*ERTD  "deserted"
+    //   STKERT   "dessert" -> STKERTD   "desserted" (not a word)
+    //   TPHRO*UR "flower"  -> TPHRO*URZ "flowers"
+    //   TPHROUR  "flour"   -> TPHROURZ  "flours"    (not a word)
+    // STKERTD and TPHROURZ, which are easier to stroke, are wasted on
     // non-existent words. Fix this by swapping the base words:
     "STKERT": "desert",
     "STK*ERT": "dessert", // mnemonic: add * for an extra s
