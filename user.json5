@@ -4559,6 +4559,13 @@
     "THR*RT": "there're the",
     "THR-FS": "there was", // already works
     "THR-FTS": "there was the",
+
+    "THR-F": "there have", // use THROF for "thereof";
+                           // cf. WR-F "where have", WROF "whereof"
+    "THR-FB": "there have been",
+    "THR-D": "there had", // use THR*D for "there'd"
+    "THR-BD": "there had been",
+
     "THR-L": "there will",
     "THR-BL": "there will be",
     "THR-BLT": "there will be the",
