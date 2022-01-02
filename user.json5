@@ -4559,13 +4559,13 @@
     "THR-F": "there have", // use THROF for "thereof";
                            // cf. WR-F "where have", WROF "whereof"
     "THR-FB": "there have been",
-    "THR-D": "there had", // use THR*D for "there'd"
+    "THR-D": "there had",
     "THR-BD": "there had been",
 
     "THR-L": "there will",
     "THR-BL": "there will be",
     "THR-BLT": "there will be the",
-    "THR*L": "there'll",   // already works
+    "THR*L": "there'll", // already works
     "THR*BL": "there'll be",
     "THR*BLT": "there'll be the",
 
@@ -4573,12 +4573,12 @@
     "THREUFS": "there I was",
     "THRUR": "there you are",
     "THRURP": "there you were",
-    "THRES": "there he is", // use THREZ for "threes"; see note at TRE "tree"
+    "THRES": "there he is", // use -Z for "threes"
     "THREFS": "there he was",
 
     "HAOERS": "here is",
     "HAOERTS": "here is the",
-    "HAO*ERS": "here's",   // already works
+    "HAO*ERS": "here's", // already works
     "HAO*ERTS": "here's the",
 
     // Amounts
