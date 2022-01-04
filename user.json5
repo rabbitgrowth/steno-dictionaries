@@ -513,7 +513,7 @@
     "TPHREPBZ": "influenza",
     "SHU": "issue",
     "SHUD": "issued", // use SHO for "should"
-    "HRAOEUFPL": "lifetime", // "lifem"; TPHRAOEUPL "flime" doesn't make sense to me
+    "HRAOEUFPL": "lifetime", // "lifem"; TPHRAOEUPL "flime" doesn't feel right
     "PHRAUD": "maraud",
     "PHELG": "medical", // "mecal"
     "PHEUL/SHA": "militia",
@@ -2127,7 +2127,7 @@
     // -T for -th (Indian accent?)
     "TKPWROET": "growth",
     "HELT": "health",
-    "HOEULT": "healthy", // use OEU for -y; HOEUFLT (?) - -F
+    "HOEULT": "healthy", // not sure what the -F is for in HOEUFLT
     "PHOUT": "mouth",
     "REUPLT": "rhythm",
     "SPHAOT": "smooth",
