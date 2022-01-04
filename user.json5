@@ -2133,6 +2133,9 @@
     "TKPWROET": "growth",
     "HELT": "health",
     "HOEULT": "healthy", // use OEU for -y; HOEUFLT (?) - -F
+    "PHETD": "method",
+    "PHETSDZ": "methods",
+    "PHETD/K-L": "methodical",
     "PHOUT": "mouth",
     "REUPLT": "rhythm",
     "SPHAOT": "smooth",
@@ -2141,12 +2144,6 @@
     "TRUL": "truly",
     "UPBD/TPHAOET": "underneath",
     "KWRAOUT": "youth",
-
-    "PHETD": "method",    // by default "meted" by accident ("met" + {^ed});
-                          // to write "meted" properly, use PHAO*ETD
-    "PHAOETD": "meted",   // ... whose * is droppable, because "meeted" is not a word
-    "PHETSDZ": "methods", // (PHETD + -S) + -Z; can't hit -TSD without hitting -Z too
-    "PHETD/K-L": "methodical",
 
     // -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
@@ -5305,6 +5302,7 @@
     "TKPWUPBZ": "guns",     // "beguns"
     "HAOEURZ": "hires",     // "highers"
     "HAOEURG": "hiring",    // "higherring"
+    "PHAOETD": "meted",     // "meeted"
     "PHORPBD": "mourned",   // "morned"
 
     // Nonsensical translations
