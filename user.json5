@@ -2125,25 +2125,28 @@
     "TPAUR/SAEUPB": "forsaken",
 
     // -T for -th (Indian accent?)
+    "TKPWROET": "growth",
+    "HELT": "health",
+    "HOEULT": "healthy", // use OEU for -y; HOEUFLT (?) - -F
+    "PHOUT": "mouth",
+    "REUPLT": "rhythm",
+    "SPHAOT": "smooth",
+    "UPBD/TPHAOET": "underneath",
+    "KWRAOUT": "youth",
+
     "ERT": "earth", // which frees up ...
     "*ERT": "Earth",
     "ERT/PWOUPBD": "earthbound",
     "ERT/KWAEUBG": "earthquake",
     "ERT/WORPL": "earthworm",
-    "TKPWROET": "growth",
-    "HELT": "health",
-    "HOEULT": "healthy", // use OEU for -y; HOEUFLT (?) - -F
+
     "PHETD": "method",
     "PHETSDZ": "methods",
     "PHETD/K-L": "methodical",
-    "PHOUT": "mouth",
-    "REUPLT": "rhythm",
-    "SPHAOT": "smooth",
+
     "TRUT": "truth", // from TR*UT; TRAOUT (from TRAO*UT) already works
     "TRU": "true",   // for consistency
     "TRUL": "truly",
-    "UPBD/TPHAOET": "underneath",
-    "KWRAOUT": "youth",
 
     // -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
