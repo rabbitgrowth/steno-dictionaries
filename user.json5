@@ -493,6 +493,7 @@
     "TKHRAOEUPB": "deadline", // use PHEUD/HRAOEUPB for "midline"
     "TKAOEFT": "defeat", // use TKEFBGT for "defect"
     "TKRAPB": "dragon",
+    "TKAOUBS": "dubious",
     "AOELT": "elite",
     "TPHORPLT": "enormity", // misstroke for "format"
     "SKHAOU": "eschew",
@@ -1049,6 +1050,7 @@
     "HEURPBGD": "hindering",
     "EUG/TPHAOEURT": "igniter",
     "EUPB/KRAOEURT": "inciter",
+    "SPWRAOURD": "intruder",
     "HR*EURBG": "liquor", // - * = "lyric"
     "HROURPBG": "lounger",
     "HRAOURPB": "lunar",
@@ -1176,6 +1178,7 @@
     "KHRAEUFRL": "carefully",
     "KHR-RBL": "considerably",
     "SHRERBL": "essentially",
+    "THRERPBL": "eternally",
     "TPHRUL": "fully", // use TP*UL for "fundamental"
     "TPHR*UL": "fundamentally",
     "HRORPBL": "originally",
