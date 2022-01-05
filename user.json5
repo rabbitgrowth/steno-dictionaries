@@ -5042,6 +5042,10 @@
     "EPBT/PHOLGS": "entomologist",
     "EPBT/HR-L": "entomological",
 
+    "ET/PHOLG": "etymology", // already works
+    "ET/PHOLGS": "etymologist",
+    "EPLT/HR-L": "etymological",
+
     "ORPB/THOLG": "ornithology", // already works
     "ORPB/THOLGS": "ornithologist",
     "ORPB/HR-L": "ornithological",
