@@ -5051,6 +5051,13 @@
     "ORPB/HR-L": "ornithological",
     "O*RPBT/HR-L": "ornithological", // "ornthl...l"
 
+    "TPO/TPHOLG": "phonology",  // already works
+    "TPOE/TPHOLG": "phonology", // already works
+    "TPO/TPHOLGS": "phonologist",
+    "TPOE/TPHOLGS": "phonologist",
+    "TPOPB/HR-L": "phonological",
+    "TPOEPB/HR-L": "phonological",
+
     "SKOLG": "psychology", // already works
     "SKOLGS": "psychologist",
     "SKOL": "psychological", // already works
