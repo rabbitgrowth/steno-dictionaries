@@ -215,6 +215,7 @@
     "PERP/TWAEL": "perpetually",
     "PROEUFD": "processed",     // with PROEUS "process", PROEUFG "processing"
     "RAELT": "reality",         // with RAEL "real"; use RELT for "relate"
+    "RAELTS": "realities",
     "R*URPB": "runner",         // with R*UPBG "running"
     "STEUFBG": "scientific",    // with STEUFT "scientist"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
@@ -1121,6 +1122,7 @@
     "KRAOEFL": "creatively",
     "TKELD": "deadly",
     "SKREUPL/TPHALT": "discriminately", // mostly for "indiscriminately"
+    "STKEUPBLG": "distinctly",
     "TKWAOEUPBL": "divinely",
     "TKRAOEUL": "dryly",
     "ELZ": "easily",
@@ -2342,6 +2344,7 @@
     "SED/-PLT": "sediment",
     "SEG/-PLT": "segment",
     "SEPBT/-PLT": "sentiment",
+    "TEPB/-PLT": "tenement",
 
     "PAEUT": "participate", // partici[pate] or [p]articip[ate]
     "PA*EUT": "pate",
@@ -3726,6 +3729,7 @@
     /*2*/ "KW*PL": "?",
 
     "A/TPHALGZ": "analogies",
+    "A/TPHOPL/HREUZ": "anomalies",
     "KAPL/RAZ": "cameras",
     "KAT/KOEPLZ": "catacombs",
     "TKOPL/TPHOEZ": "dominoes",
