@@ -3755,10 +3755,12 @@
     "HRAOEUFZ": "lives", // or just use HREUFZ
     "HRAOFZ": "loaves", // cf. HRAOF "loaf"
     "HROEFZ": "loaves", // cf. HROEF "loaf"
-    "SHEFLZ": "shelves",
     "THAOEFZ": "thieves",
     "WOFLZ": "wolves", // cf. WOFL "wolf"
     "WOFZ": "wolves",  // cf. WOF  "wolf"
+
+    "SHEFLZ": "shelves",
+    "PWAOBG/SHEFLZ": "bookshelves",
 
     "WAOEUFZ": "wives",
     "HOUS/WAOEUFZ": "housewives",
