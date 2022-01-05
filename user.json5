@@ -51,6 +51,7 @@
     "PR-B": "problem",
     "T-G": "thing",
     "SR-L": "value",
+    "SR-BL": "valuable",
 
     "PR": "appear",     // misstroke for "from"
     "PR-D": "appeared", // overrides "." with spaces on both sides
