@@ -286,7 +286,7 @@
     "PWHRAOEUD": "belied", // otherwise "belieed"
     "PWHREUPBG/WAL": "bilingual",
     "PWHREUPBLG": "bilingual", // PWHREUPBL + -G; "blingle"
-    "PWEUS/TROE": "bistro", // /ˈbɪstrəʊ/; /ˈbiːs-/ already works: PWAOES/TROE
+    "PWEUS/TROE": "bistro", // PWAOES/TROE already works
     "PWOFPL": "bosom",
     "PWUFPL": "bosom",
     "PWRAOD": "brood", // use PWROD for "broad"
