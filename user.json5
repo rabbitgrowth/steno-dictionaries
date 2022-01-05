@@ -1879,7 +1879,8 @@
     /*1*/ "PW*URT": "Burt",
 
     // -F for -sive
-    "AOE/HRAOUF": "elusive",  // compare AOE/HRAOUD "elude"
+    "STKAOEUF": "decisive",   // compare STKAOEUD "decide"
+    "AOE/HRAOUF": "elusive",  //         AOE/HRAOUD "elude"
     "OB/TRAOUF": "obtrusive", //         OB/TRAOUD "obtrude"
     "SPHEUF": "submissive",   //         SPHEUT "submit"
     // See also SKPEF "expensive", TKPWREF "aggressive", etc.
