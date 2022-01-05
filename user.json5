@@ -210,7 +210,6 @@
     "ORPB": "origin",           // with ORPBL "original"
     "PAFRT": "part of",         // with SOFRT "sort of"; by default "part of the"
     "PAFRTS": "parts of",
-    "P-FGS": "perfection",      // with P-F "perfect"
     "PERP/TWAL": "perpetual",   // with PERP/TWAEUT "perpetuate" ("wrong" stress)
                                 //      PERP/TRAEUT "perpetrate" ("right" stress)
     "PERP/TWAEL": "perpetually",
@@ -4089,9 +4088,6 @@
     "STPHOL": "abnormal",
     "SHRAOEL": "illegal",
     "SPHOFBL": "immovable",
-    "SP-F": "imperfect",
-    "SP-FL": "imperfectly",
-    "SP-FGS": "imperfection",
     "S*BGS": "inaction", // use S*EUBGS for "sixth"
     "SKHAOERPBT": "incoherent",
     "SKPHRAOET": "incomplete",
@@ -4757,6 +4753,14 @@
     // "melancholy" family
     "PHEL/KOEL": "melancholy",  // PHEL/KOL/KWREU but with "many" rule
     "PHEL/KOLG": "melancholic", // PHEPBL/KOLG but omit -PB like "melancholy"
+
+    // "perfect" family
+    "P-F": "perfect",    // already works
+    "P-FL": "perfectly", // already works
+    "P-FGS": "perfection",
+    "KPW-F": "imperfect",
+    "KPW-FL": "imperfectly",
+    "KPW-FGS": "imperfection",
 
     // "phenomenon" family
     "TPOPB": "phenomenon", // give up "phon" (unit of loudness)
