@@ -366,7 +366,6 @@
     "TAOERPBG": "teenager",
     "T*EPBT": "tenth", // use EPBT/TEU for "entity"
     "T*EPBTS": "tenths",
-    "T*ERS": "terrace", // - * = "terse"
     "TRAOEFPB": "treason",
     "TRAOEFPBS": "treasonous",
     "TROEL": "troll", // use PROL for "patrol"
@@ -5217,6 +5216,7 @@
     "KRO*RPB": "coroner",   // from KRORPB "corner"; frees up KOERPB for "corny" [1]
     "TPHO*ETS": "notice",   // from TPHOETS "notes"; or use TPHOEUTS
     "STPHO*RT": "sonority", // from STPHORT "snort"; use STPHOF for "and so forth"
+    "T*ERS": "terrace",     // from TERS "terse"
     /*1*/ "KOERPB": "corny",
 
     // Use single hyphen as dash
