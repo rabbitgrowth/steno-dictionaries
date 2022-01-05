@@ -2662,25 +2662,25 @@
                   // use SKWRA for {^a}
     // "I know"       KWR-PB  already works
     // "I don't know" KWROEPB already works
-    "KWR-BL": "I believe", // [b]e[l]ieve
+    "KWR-BL": "I believe",
     "KWROEBL": "I don't believe",
-    "KWR-FL": "I feel", // [f]ee[l]
+    "KWR-FL": "I feel",
     "KWR-FLT": "I felt",
     "KWROEFL": "I don't feel",
-    "KWR-FD": "I find", // [f]in[d]
+    "KWR-FD": "I find",
     "KWROEFD": "I don't find", // Plover uses KWROFPBD but that PB feels
                                // unnecessary; "find" is by far the most
                                // common "f*d" word to follow "I don't":
                                // I DO N'T FIND  1199
                                // I DO N'T FEED    30
                                // I DO N'T FIELD    3
-    "KWR-GT": "I get", // [g]e[t]
+    "KWR-GT": "I get",
     "KWROEGT": "I don't get",
     "TKWR-GT": "I get it",
     "TKWROEGT": "I don't get it",
     "KWR-LG": "I like", // [l]i[k]e - *
     "KWROELG": "I don't like",
-    "KWR-RPL": "I remember", // [r]e[m]ember; cf. EURPL "I remember"
+    "KWR-RPL": "I remember", // cf. EURPL "I remember"
     "KWROERPL": "I don't remember",
     "KWR-PBG": "I think", // thi[nk] - *
     "KWROEPBG": "I don't think",
