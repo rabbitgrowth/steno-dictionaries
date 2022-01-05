@@ -2664,6 +2664,8 @@
     // "I don't know" KWROEPB already works
     "KWR-BL": "I believe",
     "KWROEBL": "I don't believe",
+    "KWR-RBG": "I care",
+    "KWROERBG": "I don't care",
     "KWR-FL": "I feel",
     "KWR-FLT": "I felt",
     "KWROEFL": "I don't feel",
