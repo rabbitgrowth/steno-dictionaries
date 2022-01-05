@@ -482,6 +482,8 @@
     "AEURGS": "arrogance", // use -Z for "airings"
     "AEURGT": "arrogant",  // cf. AEURPT "airport"
     "TRAF": "attractive",  // use TR-FR for "transfer"
+    "A*UT/TEUBG": "authentic",
+    "A*UT/TEUFT": "authenticity",
     "AUBG": "automatic",   // overrides "awk" [1]
     "PWHRAEUPBT": "blatant",
     "KA*T/TKRAL": "cathedral",
@@ -1375,6 +1377,7 @@
     "KPWAEUR": "impair",
     "KPWARBL": "impartial",
     "KPWAEURBT": "impatient",
+    "KPWAEURBS": "impatience",
     "KPWAOEFP": "impeach",
     "KPWAOEFPLT": "impeachment", // cf. EUPL/PAOEFPLT
     "KPWAOED": "impede",
@@ -2102,6 +2105,7 @@
     "KOEULGS": "occasional",
     "KHROEULGS": "occasionally",
     "PRO/SREULGS": "provisional", // or use PREUPBL (custom)
+    "TRALGS": "traditional", // AS/TRAL "as traditional" clashes with "astral"
 
     // -LZ for -lize
     // Precedents: RAELZ "realize", STAEUBLZ "stabilize"
@@ -4150,6 +4154,8 @@
     "RORPBLG": "Roger",
     "SPWAGS": "Sebastian", // cf. KREUGS "Christian"
     "STA*PBL": "Stalin", // - * = "substantial"
+    "THAFP/ER": "Thatcher",
+    "THAFRP": "Thatcher",
     "WEUL/HEPL": "Wilhelm",
     "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
 
