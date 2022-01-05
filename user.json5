@@ -514,6 +514,12 @@
     "TPHREPBZ": "influenza",
     "SHU": "issue",
     "SHUD": "issued", // use SHO for "should"
+    "HREPB": "lesson", // - not to be confused with HREFPB "eleven"
+                       // - "lesson" gets the simpler stroke because
+                       //   it's more common (35048 vs 12791 on COCA)
+                       // - "len lernd" ("lesson learned")
+                       // - give up "len" (for programming?)
+    "HREPBZ": "lessons", // use -S for "lens"
     "HRAOEUFPL": "lifetime", // "lifem"; TPHRAOEUPL "flime" doesn't feel right
     "PHRAUD": "maraud",
     "PHELG": "medical", // "mecal"
