@@ -5325,6 +5325,7 @@
     "HAOEURG": "hiring",    // "higherring"
     "PHAOETD": "meted",     // "meeted"
     "PHORPBD": "mourned",   // "morned"
+    "SRAOEULZ": "vials",    // "viles"
 
     // Nonsensical translations
     "*FS": "was",    // "ofs"
@@ -5461,6 +5462,7 @@
     "THAOEU/H-F": "thy",            // from "thigh"
     "TAOEUD/H-F": "tied",           // from "tide"
     "SRAEUPB/H-F": "vein",          // from "vain"
+    "SRAOEUL/H-F": "vial",          // from "vile"
     "WAEUFT/H-F": "waste",          // from "waist"
     "WAEUFR/H-F": "waver",          // from "waiver"
     "WAEUFRD/H-F": "wavered",
