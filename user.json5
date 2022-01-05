@@ -4530,6 +4530,9 @@
 
     "SKWR-RBGS": "{#command(a)}", // select all on Mac
 
+    "T-B": "{#Tab}", // carries capitalization unlike "\t"; give up "it be"
+    "W-P": "{#Command(Tab)}", // "window push"? use WORD/PRES for "WordPress"
+
     "SK-P": "{#Escape}", // instead of TPEFBG
 
     "WUZ": "{#}", // JUJ/(no-op)/*MT -> judgement
