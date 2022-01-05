@@ -2742,7 +2742,7 @@
     "UFD": "you find",
     "H-FD": "he find",
     "SH-FD": "she find",
-    "T-FD": "it find",
+    "T-FDZ": "it finds", // T-FD is "find it", so include -Z as a special case
     "W-FD": "we find",
     "THEFD": "they find",
 
