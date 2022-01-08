@@ -4965,9 +4965,9 @@
     // PHEUFS "massive" -> "missive"
     "PHASZ": "masses",
     "PHAFS": "massive",
-    "PHEUFS": "missive", // come back for -S for "miffs",
+    "PHEUFS": "missive", // come back for -Z for "miffs",
                          // like all other inflections:
-                         // PHEUFS "missive"  PHEUF/-S "miffs"
+                         // PHEUFS "missive"  PHEUF/-Z "miffs"
                          // PHEUFD "missed"   PHEUF/-D "miffed"
                          // PHEUFG "missing"  PHEUF/-G "miffing"
 
