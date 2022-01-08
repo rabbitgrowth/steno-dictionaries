@@ -329,7 +329,6 @@
     "PHES/PHRAOEUFG": "mesmerizing",
     "PHEFRPBG": "messenger", // "mesnjr"; alternative to PHAEPBG
     "PHRAPBLG": "mirage", // misstroke for "planning"
-    "PHRAL": "morale", // use PHORL for "moral"
     "PHAOUFPL": "mutual",
     "TPHAFPBT": "nascent",
     "TPHAOERPBS": "nearness",
@@ -431,7 +430,6 @@
     "TKEUFLT": "difficulty",  // TKEUFL "difficult" + -T
     "PHERPL": "memory",
     "PHERPL/-BL": "memorable",
-    "PHORLT": "mortal",       // use PHRALT for "morality"
     "PHOEFGS": "motivation",
     "PARPLT": "parliament",   // use ARPLT for "apartment"
     "POERT": "poetry",
@@ -4972,6 +4970,13 @@
                          // PHEUFS "missive"  PHEUF/-S "miffs"
                          // PHEUFD "missed"   PHEUF/-D "miffed"
                          // PHEUFG "missing"  PHEUF/-G "miffing"
+
+    // PHORL  "moral"
+    // PHRAL  "moral"    -> "morale"
+    // PHORLT "morality" -> "mortal"
+    // PHRALT "morality"
+    "PHRAL": "morale",
+    "PHORLT": "mortal",
 
     // PER/EUL "peril"
     // PERL    "pearl"     -> "peril"
