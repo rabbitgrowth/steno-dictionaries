@@ -470,7 +470,6 @@
     "AFD/SAER": "adversary", // AFRD feels too emphatic ("adVER...")
     "AFD/SAERL": "adversarial",
     "HRARPL": "alarm",
-    "ALG": "algorithm", // use ALGS for "additional"
     "ALT/TEUF": "alternative", // alternative to HR-FRPB (ltrn?)
     "AEURGS": "arrogance", // use -Z for "airings"
     "AEURGT": "arrogant",  // cf. AEURPT "airport"
@@ -1126,8 +1125,6 @@
     "ELZ": "easily",
     "TP-RBLT": "efficiently",
     "TPEURBLT": "efficiently",
-    "TPRAPBLG": "frankly", // from TPRAPBG "frank" (* is reserved for "Frank");
-                           // use TPRALG for "fragile"
     "TPREPBL": "friendly", // overrides "Fresnel" [2]
     "SKWREPB/WEUPBL": "genuinely",
     "TKPWAFLT": "ghastly",
@@ -2089,6 +2086,16 @@
     "TKRALG": "dramatically", // from TKRABG  "dramatic"
     "STREULG": "strictly",
 
+    // -LG for -gile
+    // Could be thought of as a sort of inversion of -lj. -PBLG feels more
+    // phonetically complete but using -LG frees up -PBLG for other words:
+    //   ALG "agile"       APBLG {^age}
+    //   TPRALG "fragile"  TPRAPBLG "frankly" -- TPRAPBG  "frank"
+    //                                           TPRA*PBG "Frank"
+    "ALG": "agile",      // use ALGS for "additional"
+    "TPRALG": "fragile", // already works
+    "TPRAPBLG": "frankly",
+
     // -LGS for -tional
     // Precedents: TPUPBLGS "functional", STAOULGS "constitutional"
     "KAUPB/TKPWRELGS": "congressional",
@@ -2136,7 +2143,6 @@
     "HELT": "health",
     "HOEULT": "healthy", // not sure what the -F is for in HOEUFLT
     "PHOUT": "mouth",
-    "REUPLT": "rhythm",
     "SPHAOT": "smooth",
     "UPBD/TPHAOET": "underneath",
     "KWRAOUT": "youth",
@@ -2150,6 +2156,10 @@
     "PHETD": "method",
     "PHETSDZ": "methods",
     "PHETD/K-L": "methodical",
+
+    "REUPLT": "rhythm",
+    "TKPWREUPLT": "algorithm",
+    "TKPWR*EUPLT": "algorithm", // instead of TKPWR*EUFPL
 
     "TRUT": "truth", // from TR*UT; TRAOUT (from TRAO*UT) already works
     "TRU": "true",   // for consistency
