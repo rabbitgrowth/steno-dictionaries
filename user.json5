@@ -4820,6 +4820,15 @@
     "SEFD": "possessed",   // use SREFD for "invested"
     "SEFG": "possessing",
 
+    // "productive" family
+    "PRUF": "productive",
+    "PRUFL": "productively",
+    "PRUFT": "productivity",
+    "PRUFPBS": "productiveness",
+    "SPRUF": "unproductive",
+    "SPRUFL": "unproductively",
+    "SPRUFPBS": "unproductiveness",
+
     // "reflect" family
     "TPHRET": "reflect", // misstroke for "net"
     "TPHREGS": "reflection",
