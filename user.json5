@@ -2086,16 +2086,6 @@
     "TKRALG": "dramatically", // from TKRABG  "dramatic"
     "STREULG": "strictly",
 
-    // -LG for -gile
-    // Could be thought of as a sort of inversion of -lj. -PBLG feels more
-    // phonetically complete but using -LG frees up -PBLG for other words:
-    //   ALG "agile"       APBLG {^age}
-    //   TPRALG "fragile"  TPRAPBLG "frankly" -- TPRAPBG  "frank"
-    //                                           TPRA*PBG "Frank"
-    "ALG": "agile",      // use ALGS for "additional"
-    "TPRALG": "fragile", // already works
-    "TPRAPBLG": "frankly",
-
     // -LGS for -tional
     // Precedents: TPUPBLGS "functional", STAOULGS "constitutional"
     "KAUPB/TKPWRELGS": "congressional",
@@ -5164,6 +5154,13 @@
     "TPH-RTS": "under its",
     /*1*/ "TPH-PB": "inn",
           "TPH*PB": "Inn",
+
+    // "fragile" is TPRALG or TPRAPBLG. I like TPRAPBLG better,
+    // but since TPRAPBG is "frank" (* is reserved for "Frank"),
+    // TPRAPBLG might make more sense as "frankly". So embrace -LG
+    // as -gile; it could be thought of as an inversion of -lj.
+    "ALG": "agile", // use ALGS for "additional"
+    "TPRAPBLG": "frankly",
 
     // "license" is HR-PB or HR-PBS and "finance" is TP-PB or TP-PBS.
     // Don't waste two strokes on one word and make the -S mandatory.
