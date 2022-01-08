@@ -18,6 +18,7 @@
     "TK-F": "detective",  // give up "def" (for programming?)
     "TK-FS": "difference",
     "TK-FT": "different", // use TK-FD for "defendant"
+    "TK-FLT": "differently",
     "SR-PB": "event",
     "SR-FL": "eventful",
     "KP-T": "exact",      // cf. TKRET  "direct"
@@ -1349,6 +1350,7 @@
     "SPWO": "unto",
 
     // KPW for emb-, emp-, imb-, and imp-
+    "KPWAUPL": "embalm",
     "KPWARBG": "embark",
     "KPWAES": "embassy",
     "KPWED": "embed",
@@ -4079,6 +4081,7 @@
     "HAOEUFT": "highest", // cf. HROEFT "lowest"; overides "heist" [1]
     "HRAOEUFT": "lightest",
     "OEFT": "oldest",
+    "PAOUFRT": "purest",
     "KWEUFT": "quickest",
     "SHOFRT": "shortest",
     "SHRAOEUFT": "slightest",
