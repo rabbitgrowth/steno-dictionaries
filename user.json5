@@ -429,8 +429,6 @@
     // Don't alter vowel
     "AFRT": "artist",         // use SRAERT (custom) for "avert"
     "TKEUFLT": "difficulty",  // TKEUFL "difficult" + -T
-    "HEF": "heavy",           // cf. HEFL "heavily"; give up "Hef"
-    "HEFR": "heavier",        // overrides "heifer" [1]
     "PHERPL": "memory",
     "PHERPL/-BL": "memorable",
     "PHORLT": "mortal",       // use PHRALT for "morality"
@@ -440,7 +438,6 @@
     "THAOER": "theory",
     "THAOEFRT": "theorist",
     "THAOERL": "theoretical", // cf. the standard THOEURL
-    /*1*/ "H*EFR": "heifer",
 
     // Use simpler vowel
     // Precedents: TREU "try", THRE "three"
@@ -2282,6 +2279,7 @@
     "TPREUP": "friendship",     // feels more natural than TPREP
     "SKWRERPB": "German",
     "HARLD": "hardly",          // use HAEURLD or HAR/OLD for "Harold"
+    "HEFL": "helpful",          // use HOEUFL for "heavily"
     "HERD": "herd",             // use HAERD for "heard", like HAER for "hear"
     "EUPB/TPHREBGS": "inflection", // "inflex" is not a word
     "SPWREBGS": "intersection", // cf. SPWREBGT "intersect"
