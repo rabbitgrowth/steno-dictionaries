@@ -5155,21 +5155,21 @@
     /*1*/ "TPH-PB": "inn",
           "TPH*PB": "Inn",
 
+    // "finance" is TP-PB or TP-PBS and "license" is HR-PB or HR-PBS.
+    // Don't waste two strokes on one word and make the -S mandatory.
+    // The disadvantage is that for "finances" and "licenses" I'll
+    // have to use the slightly awkward -SZ or double-stroke -S/-S.
+    "HR-PB": "listen", // cf. HR-PBG "listening"
+    "HR-PBD": "listened",
+    "HR-RPB": "listener",
+    "TP-PB": "often",
+
     // "fragile" is TPRALG or TPRAPBLG. I like TPRAPBLG better,
     // but since TPRAPBG is "frank" (* is reserved for "Frank"),
     // TPRAPBLG might make more sense as "frankly". So embrace -LG
     // as -gile; it could be thought of as an inversion of -lj.
     "ALG": "agile", // use ALGS for "additional"
     "TPRAPBLG": "frankly",
-
-    // "license" is HR-PB or HR-PBS and "finance" is TP-PB or TP-PBS.
-    // Don't waste two strokes on one word and make the -S mandatory.
-    // The disadvantage is that for "licenses" and "finances" I'll
-    // have to use the slightly awkward -SZ or double-stroke -S/-S.
-    "HR-PB": "listen", // cf. HR-PBG "listening"
-    "HR-PBD": "listened",
-    "HR-RPB": "listener",
-    "TP-PB": "often",
 
     // "life" is HRAOEUF and "live" is HREUF. For words spelled with "live"
     // but pronounced like "life", allow using EU as an alternative to AOEU.
