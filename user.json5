@@ -5157,8 +5157,6 @@
 
     // "finance" is TP-PB or TP-PBS and "license" is HR-PB or HR-PBS.
     // Don't waste two strokes on one word and make the -S mandatory.
-    // The disadvantage is that for "finances" and "licenses" I'll
-    // have to use the slightly awkward -SZ or double-stroke -S/-S.
     "HR-PB": "listen", // cf. HR-PBG "listening"
     "HR-PBD": "listened",
     "HR-RPB": "listener",
