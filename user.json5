@@ -504,6 +504,7 @@
     "HOLD": "holiday", // use HOELD for "hold"
     "HOLDZ": "holidays",
     "HRAOUGS": "illusion", // use HRAOUFG for "losing"
+    "HRAOUS/REU": "illusory",
     "TPHREPBZ": "influenza",
     "SHU": "issue",
     "SHUD": "issued", // use SHO for "should"
@@ -1520,7 +1521,8 @@
     "STKORGS": "distortion", // already works
     "STKRUFT": "distrust",
 
-    "STKEPGS": "deception", // what matters is the pronunciation: /dɪˈs-/
+    "STKEPGS": "deception",
+    "STKEPT/EUF": "deceptive",
     "STKEPBD": "descend", // and get KAUPB/STKEPBGD "condescending" for free
     "STKHREBGT": "deselect",
     "STKPRAT": "desperate",
@@ -4977,6 +4979,7 @@
     // PHRALT "morality"
     "PHRAL": "morale",
     "PHORLT": "mortal",
+    "EUPL/PHORLT": "immortal",
 
     // PER/EUL "peril"
     // PERL    "pearl"     -> "peril"
