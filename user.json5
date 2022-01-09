@@ -4677,6 +4677,14 @@
     "PRAEPBS/EUFL": "apprehensively",
     "PRAEPBS/EUFPBS": "apprehensiveness",
 
+    // "assassin" family
+    "SAFPB": "assassin",
+    "SAFPBT": "assassinate",
+    "SAFPBGS": "assassination",
+    "A/SAFPB": "assassin",
+    "A/SAFPBT": "assassinate",
+    "A/SAFPBGS": "assassination",
+
     // "comprehend" family
     // cf. SREUGS       "vision"
     //     SREUBL       "visible"
