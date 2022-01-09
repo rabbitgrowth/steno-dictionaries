@@ -750,7 +750,8 @@
     "ROUF": "rough",    // already works
     "ROUFL": "roughly", // vs RUFL "ruffle"
 
-    "SKREPB": "scene", // "scen"; SAOEPB is "seen" and SKRAOEPB is "screen"
+    "SKREPB": "scene",     // SAOEPB is "seen" and SKRAOEPB is "screen"
+    "SKRAO*EUT": "scythe", // SAO*EUT is "site" since SAOEUT is "sight"
 
     "TAOFT": "toast",        // like RAOD "road" (ROED is "rode")
     "TAOFRT": "toaster",     // vs TOEFRT "effort to"
@@ -5136,8 +5137,6 @@
     "PO*EUPB": "piano",    // wildcard OEU with * since POEUPB is "appoint"
     "KW-T": "quiet",       // lack of vowels feels quiet; compare KWAOEUT "quite"
     "KW-LT": "quietly",
-    "SKRAO*EUT": "scythe", // with KR for "c" and * for the -th sound;
-                           // SAO*EUT is "site" since SAOEUT is "sight"
     /*1*/ "STPH*UR": "insure",
 
     // A more ergonomic "end" with TPH for en-
