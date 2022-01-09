@@ -1131,7 +1131,6 @@
     "TKPWAFLT": "ghastly",
     "TKPWHRALD": "gladly",
     "TKPWHREUBL": "glibly",
-    "HAEPL": "happily",
     "TPH-FPBLT": "infinitely",
     "STPHAPBLT": "instantly", // allow not omitting the -T
     "SPWEPBLS": "intensely",
@@ -4740,6 +4739,14 @@
     "TPREUFPB": "forgiven",
     "TPREUFPBS": "forgiveness",
 
+    // "happy" family
+    "HAEP": "happy", // works already
+    "HAEPL": "happily",
+    "HAEPBS": "happiness", // mashup of HAEP and -PBS
+    "SHAEP": "unhappy",
+    "SHAEPL": "unhappily",
+    "SHAEPBS": "unhappiness",
+
     // "idyll" family
     "EUD/-L": "idyll", // not to be confused with EULD "ideal" (custom)
     "TKHREUBG": "idyllic", // overrides "dyslexic" [1]
@@ -5114,7 +5121,6 @@
     "KREPB": "century",    // first three letters
     "KWOEBG": "echo",      // left side ("qo"?) "echoing" the right side visually
     "STPHUR": "ensure",    // "N-shur" (TPH + SH); overrides "insure" [1]
-    "HAEPBS": "happiness", // mashup of HAEP and -PBS
     "HA*RPL": "harmony",   // mnemonic: Jacob Collier's #IHarmYou
     "EU/E": "i.e.",        // just "fingerspell" it
     "HRAO*EULG": "lilac",  // *LG for "lk" with a vowel in between
