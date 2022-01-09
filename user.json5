@@ -644,6 +644,7 @@
     "PHO*EPBG": "monkey", // cf. PHO*PBG "monk"
     "PROEBGS": "proxy", // use PREBGS for "protection"
     "SKRAEPBT": "scanty",
+    "SHAEG": "shaggy",
     "SRAEL": "valley", // overrides "vale" [1]
     /*1*/ "SRA*EL": "vale", // give up "eval"
 
