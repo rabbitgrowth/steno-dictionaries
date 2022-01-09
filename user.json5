@@ -2958,45 +2958,20 @@
     "TAOUFBD": "used to be",
 
     // "... a"
-    // SA   "sa"
-    // TKA  "da"
-    // PWA  "ba"
-    // HRA  "la"
-    // TPA  "fa"
-    // TPRA "Fra"
-    // TPHA "that" (misstroke)
-    // WA   undefined
-    // These feel like huge missed opportunities for "is a", "did a",
-    // "about a", etc. I can understand "la" (French definite article)
-    // and "Fra" (Italian monk title), but "sa", "fa", "da", etc.
-    // aren't even real words.
-    "PWA": "about a", // PW-T  "about the"
-    "RA": "are a",    // R-T   "are the"  (swap with "Ra", sun god [1])
-    "TKA": "did a",   // TK-T  "did the"
-    "TPRA": "from a", // TPR-T "from the"
-    "TPA": "if a",    // TP-T  "if the"
-    "TPHA": "in a",   // TPH-T "in the"
-    "SA": "is a",     // S-T   "is the"
-    "AOPB": "on a",   // OPBT  "on the"   (use AUPB for {on^})
-    "HRA": "will a",  // HR-T  "will the"
-    "WA": "with a",   // W-T   "with the"
-    /*1*/ "RA*": "Ra",
-
-    "TA": "at a",
-    "T-T": "at the",
-
-    "PRA": "for a", // TPAR is "far" and TPAEUR is "fair",
-                    // so borrow from French "pour"
-    "PRU": "for you",
-
-    "HA": "had a",        // misstroke for "that"
-    "HA/HA": "haha",      // no hyphen
-    "HA/HA/HA": "hahaha", // no hyphen
-    "HA*": "ha",          // "Ha! That'll teach you."
-    "HA*/HA*": "haha",    // no hyphen
-    "HA*/HA*/HA*": "hahaha",
-
-    "TWAEU": "to a", // "w" from o->a; just use PA*T/WAEU for "pathway"
+    "PW-RGS": "about a",
+    "SKP-RGS": "and a",
+    "R-RGS": "are a",
+    "T-RGS": "at a",
+    "TK-RGS": "did a",
+    "TPR-RGS": "from a",
+    "H-RGS": "had a",
+    "SR-RGS": "have a",
+    "TP-RGS": "if a",
+    "TPH-RGS": "in a", // use -Z for "energies"
+    "S-RGS": "is a",   // use SORGS for "sourcing"
+    "SKWR-RGS": "just a",
+    "HR-RGS": "will a", // use -Z for "allergies"
+    "W-RGS": "with a",
 
     "AEUFS": "was a", // use AEU instead of A when the order is inverted,
                       // like AEUF "of a"; AF feels much more natural as
