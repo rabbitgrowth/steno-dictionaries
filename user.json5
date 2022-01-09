@@ -5124,7 +5124,7 @@
     "SPWAR": "bizarre",    // allow dropping * for "z" because of PW in between
     "PWOEUR": "bury",      // OEU to reflect weirdness of "u" being pronounced /ɛ/
     "KR-RG": "category",   // [c]ate[g]o[r]y; also symmetrical
-    "KPHOS": "cosmos",     // "s" shared between "cos" and "mos"
+    "KPHOS": "cosmos",     // "os" shared between "c" and "m"
     "KOURPB": "counter",   // think flap "t"; KOURPBT is {counter^}
     "KREPB": "century",    // first three letters
     "KWOEBG": "echo",      // left side ("qo"?) "echoing" the right side visually
