@@ -2961,7 +2961,6 @@
     "PW-RGS": "about a",
     "SKP-RGS": "and a",
     "R-RGS": "are a",
-    "T-RGS": "at a",
     "TK-RGS": "did a",
     "TPR-RGS": "from a",
     "H-RGS": "had a",
@@ -2974,6 +2973,9 @@
     "HR-RGS": "will a", // use -Z for "allergies"
     "W-RGS": "with a",
     /*1*/ "TO*RGS": "torsion",
+
+    "T-RGS": "at a",
+    "T-T": "at the", // use -T for "the"
 
     "AEUFS": "was a",
 
