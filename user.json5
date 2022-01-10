@@ -2973,6 +2973,9 @@
     "HR-RGS": "will a", // use -Z for "allergies"
     "W-RGS": "with a",
 
+    "TORGS": "to a", // overrides "torsion"
+    "TO*RGS": "torsion",
+
     "AEUFS": "was a",
 
     // "... the"
