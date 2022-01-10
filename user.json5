@@ -3335,19 +3335,13 @@
     "WH*UFT": "when you've the",
     "WHUD": "when you had",
     "WHUTD": "when you had the",
-    /*1*/ "WH-PL": "whim", // mnemonic: a whim, being insubstantial, is empty in the middle
-          "AEU/WHEUPL": "a whim", // safeguards for when I forget this mnemonic
-          "-T/WHEUPL": "the whim",
-          "TOT/WHEUPL": "to the whim",
-          "TA/WHEUPL": "at a whim",
-          "TE/WHEUPL": "at the whim",
-          "AOPB/WHEUPL": "on a whim",
-          "OPBT/WHEUPL": "on the whim",
-    /*2*/ "WH-F": "whiff", // mnemonic: a whiff, being insubstantial, is empty in the middle
-                           // give up "when have" since there are often better break points:
+    /*1*/ "WH-PL": "whim",
+          "WHEUPLZ": "whims",
+    /*2*/ "WH-F": "whiff", // give up "when have"; there are often better break points anyway:
                            // "when have I ever"   WH/SREU/-FR
                            // "when have you been" WH/SRUB
-          "WHEUF/-F": "whiff of", // safeguard for when I forget this mnemonic
+          "WHEUFZ": "whiffs",
+          // Mnemonic: whims and whiffs, being insubstantial, are empty in the middle
 
     // "where ..."
     "WREUPL": "where I am",
