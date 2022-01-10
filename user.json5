@@ -823,11 +823,6 @@
     "STEPG/STOEPB": "stepping stone",
 
     // Prevent word boundary errors
-    "TKPWOPB/TPHA": "gone in a", // use TKPW*G for "gonna"
-    "PHEUR/TPHA": "mirror in a", // give up "Myrna" (Irish name)
-    "PERPB/TPHA": "person in a", // overrides "persona" [1]
-    /*1*/ "PER/SOEPB": "persona", // or use {^a}: PERPB/SKWRA
-
     "PUT/T-GZ": "put things",  // otherwise "putting its" (PUT/T-G "putting it" + {^s})
     "SAOE/T-GZ": "see things", // otherwise "seeing its"  (SAOE/T-G "seeing it" + {^s})
 
