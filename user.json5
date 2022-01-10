@@ -2973,12 +2973,7 @@
     "HR-RGS": "will a", // use -Z for "allergies"
     "W-RGS": "with a",
 
-    "AEUFS": "was a", // use AEU instead of A when the order is inverted,
-                      // like AEUF "of a"; AF feels much more natural as
-                      // "after" than as "of a", and perhaps AFS is also
-                      // better reserved for "afters" ("we had apple pie
-                      // for afters", "befores and afters", "fairy tales
-                      // and their stupid happily ever afters", etc.)
+    "AEUFS": "was a",
 
     // "... the"
     "TH-TS": "this is the", // use THA*S for "that's"
