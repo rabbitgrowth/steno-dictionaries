@@ -3203,9 +3203,13 @@
     "THAEFS": "that he was",
     "THAEFTS": "that he was the",
     "THAEUF": "that I have",
+    "THAEUFB": "that I have been",
     "THAEUFT": "that I have the",
+    "THAEUFBT": "that I have been the",
     "THA*EUF": "that I've",
+    "THA*EUFB": "that I've been",
     "THA*EUFT": "that I've the",
+    "THA*EUFBT": "that I've been the",
     "THAEUD": "that I had", // use TH*ED for "they'd"
     "THAEUTD": "that I had the",
     "THAUF": "that you have",
