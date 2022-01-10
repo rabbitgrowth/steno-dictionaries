@@ -5140,7 +5140,6 @@
     "KREPB": "century",    // first three letters
     "KWOEBG": "echo",      // left side ("qo"?) "echoing" the right side visually
     "STPHUR": "ensure",    // "N-shur" (TPH + SH); overrides "insure" [1]
-    "HA*RPL": "harmony",   // mnemonic: Jacob Collier's #IHarmYou
     "EU/E": "i.e.",        // just "fingerspell" it
     "HRAO*EULG": "lilac",  // *LG for "lk" with a vowel in between
     "O/ER": "o'er",        // separate into two strokes since OER is "other"
