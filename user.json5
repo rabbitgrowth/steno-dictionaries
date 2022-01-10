@@ -4105,6 +4105,8 @@
 
     // S for negation
     "STPHOL": "abnormal",
+    "STKPWRAE": "disagree",
+    "STKPWRAEPLT": "disagreement",
     "SHRAOEL": "illegal",
     "SPHOFBL": "immovable",
     "S*BGS": "inaction", // use S*EUBGS for "sixth"
@@ -4653,14 +4655,6 @@
     "TKPWREF": "aggressive", // use TKPWRAO*EF for "grieve" (TKPWRAOEF "grief" + *)
     "TKPWREGS": "aggression",
     "TKPWREFR": "aggressor",
-
-    // "agree" family
-    "TKPWRE": "agree",
-    "TKPWREG": "agreeing", // overides "Greg" [1]
-    "TKPWREPLT": "agreement",
-    "STKPWRE": "disagree",
-    "STKPWREPLT": "disagreement",
-    /*1*/ "TKPWR*EG": "Greg", // give up "Gregg"
 
     // "apprehend" family
     "A/PREPBD": "apprehend", // already works
