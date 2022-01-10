@@ -1069,6 +1069,7 @@
     "PRAOEFRP": "preacher",
     "PREURBGT": "predictor",
     "PREUFRPB": "prisoner",
+    "SPORPBD": "responder",
     "SERPBD": "sender",
     "SHAEURBG": "shaker",
     "SHEURPL": "shimmer",
@@ -3749,6 +3750,7 @@
     "POR/TRAEUZ": "portrays",
     "PREUF/KWREUZ": "privies",
     "RAEU/SEUPBZ": "raisins",
+    "REF/SKWRAOEZ": "refugees",
     "TAP/STREUZ": "tapestries",
     "SRABG/SEUPBZ": "vaccines",
     "WEUPBD/TPAULZ": "windfalls",
@@ -4164,6 +4166,7 @@
     "KEP/HRER": "Kepler",
     "KERPL": "Kepler",
     "PH*UFBG": "Musk",
+    "RO*T/TPHAEPBT": "Rocinante",
     "RORPBLG": "Roger",
     "SPWAGS": "Sebastian", // cf. KREUGS "Christian"
     "STA*PBL": "Stalin", // - * = "substantial"
@@ -5426,6 +5429,7 @@
     "AS/H-F": "ass",                // from "as"
     "PWAPBD/H-F": "banned",         // from "band"
     "PWARD/H-F": "barred",          // from "bard"
+    "PWAOEFP/H-F": "beach",         // from "beech"
     "PWAOET/H-F": "beat",           // from "beet"
     "PWORD/H-F": "board",           // from "bored"
     "PWRAEUS/H-F": "braise",        // from "brace"
@@ -5478,6 +5482,7 @@
     "PHAEUPB/H-F": "Maine",         // from "main"
     "PHARBGS/H-F": "Marx",          // from "marks"
     "PHAER/H-F": "Mary",            // from "marry"
+    "HRAOUS/H-F": "loose",          // from "lose"
     "PHORPB/H-F": "mourn",          // from "morn"
     "PHORPBG/H-F": "mourning",
     "PHORPBZ/H-F": "mourns",
