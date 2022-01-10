@@ -6,9 +6,6 @@
     "TUL": "actually",
     "PW-RT": "better", // PWERT is "Bert" and PW*ERT is "berth"
     "PW-RPB": "better than",
-    "TW": "between",
-    "TW-RGS": "between a",
-    "TW-T": "between the",
     "PW-RD": "birthday",
     "PW*T": "both",
     "PW-L": "build",  // cf. PW-LG "building"
@@ -2969,8 +2966,15 @@
     "W-RGS": "with a",
     /*1*/ "TO*RGS": "torsion",
 
+    "S*RGS": "as a",
+    "S*T": "as the",
+
     "T-RGS": "at a",
     "T-T": "at the", // use -T for "the"
+
+    "TW": "between",
+    "TW-RGS": "between a",
+    "TW-T": "between the",
 
     "AEUFS": "was a",
 
@@ -3469,8 +3473,6 @@
     "KH-BD": "which had been",
 
     // "as ..."
-    "S*RGS": "as a",
-    "S*T": "as the",
     "S*EU": "as I", // give up "si"
     "S*EUBZ": "as I say",
     "S*U": "as you",
