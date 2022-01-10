@@ -1220,6 +1220,8 @@
     "SPAOEUPBLS": "spineless",
     /*1*/ "PRAOEULS": "precisely",
 
+    "WORLS": "worthless",
+
     // Use -FRLS for -mless with -FR as -m
     "AEUFRLS": "aimless",
     "HOEFRLS": "homeless",
