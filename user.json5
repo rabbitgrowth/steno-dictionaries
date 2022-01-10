@@ -5419,6 +5419,7 @@
 
     "AD/H-F": "ad",                 // from "add"
     "ADZ/H-F": "ads",
+    "AS/H-F": "ass",                // from "as"
     "PWAPBD/H-F": "banned",         // from "band"
     "PWARD/H-F": "barred",          // from "bard"
     "PWAOET/H-F": "beat",           // from "beet"
