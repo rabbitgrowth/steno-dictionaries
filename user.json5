@@ -367,8 +367,6 @@
     "TRAOEFPB": "treason",
     "TRAOEFPBS": "treasonous",
     "TROEL": "troll", // use PROL for "patrol"
-    "TPHULT": "tumult", // instead of TUPLT so that the stress is right
-                        // in TPHULT/WOUS "tumultuous" ("tumult" + {^uous})
     "SRAPBL/TAOEUPB": "valentine",
     "SRAO*EUPBL": "violin", // - * = "vinyl"
     "SRURLG": "vulgar",
