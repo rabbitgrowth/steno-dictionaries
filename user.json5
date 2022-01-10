@@ -2967,14 +2967,13 @@
     "H-RGS": "had a",
     "SR-RGS": "have a",
     "TP-RGS": "if a",
-    "TPH-RGS": "in a", // use -Z for "energies"
-    "S-RGS": "is a",   // use SORGS for "sourcing"
+    "TPH-RGS": "in a",  // use -Z for "energies"
+    "S-RGS": "is a",    // use SORGS for "sourcing"
     "SKWR-RGS": "just a",
+    "TORGS": "to a",    // overrides "torsion" [1]
     "HR-RGS": "will a", // use -Z for "allergies"
     "W-RGS": "with a",
-
-    "TORGS": "to a", // overrides "torsion"
-    "TO*RGS": "torsion",
+    /*1*/ "TO*RGS": "torsion",
 
     "AEUFS": "was a",
 
