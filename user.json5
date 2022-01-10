@@ -7,7 +7,7 @@
     "PW-RT": "better", // PWERT is "Bert" and PW*ERT is "berth"
     "PW-RPB": "better than",
     "TW": "between",
-    "TWA": "between a",
+    "TW-RGS": "between a",
     "TW-T": "between the",
     "PW-RD": "birthday",
     "PW*T": "both",
@@ -3135,20 +3135,20 @@
     "S-FR": "is ever", // use SR-FR for "server"
     "STP-RT": "is for the",
     "STPR": "is from",
-    "STPRA": "is from a",
+    "STPR-RGS": "is from a",
     "STPR-T": "is from the",
     "STPH": "is in",
-    "STPHA": "is in a",
+    "STPH-RGS": "is in a",
     "STPH-T": "is in the", // just two-stroke "isn't the"
     "SPHOR": "is more", // add * for "s'more"
     "STPHOU": "is now",
     "SOEPBL": "is only", // give up "only is"
                          // IS ONLY  36229
                          // ONLY IS   4945
-    "STHRA": "is there a",
+    "STHR-RGS": "is there a",
     "STOBT": "is to be the",
     "SW": "is with",
-    "SWA": "is with a",
+    "SW-RGS": "is with a",
     "SW-T": "is with the",
     "SWU": "is with you",
 
@@ -3469,7 +3469,7 @@
     "KH-BD": "which had been",
 
     // "as ..."
-    "SA*": "as a",
+    "S*RGS": "as a",
     "S*T": "as the",
     "S*EU": "as I", // give up "si"
     "S*EUBZ": "as I say",
