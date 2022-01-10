@@ -364,8 +364,6 @@
     "TRAOEFPB": "treason",
     "TRAOEFPBS": "treasonous",
     "TROEL": "troll", // use PROL for "patrol"
-    "TPHULT": "tumult", // instead of TUPLT so that the stress is right
-                        // in TPHULT/WOUS "tumultuous" ("tumult" + {^uous})
     "SRAPBL/TAOEUPB": "valentine",
     "SRAO*EUPBL": "violin", // - * = "vinyl"
     "SRURLG": "vulgar",
@@ -1061,6 +1059,7 @@
     "PRAOEFRP": "preacher",
     "PREURBGT": "predictor",
     "PREUFRPB": "prisoner",
+    "SPORPBD": "responder",
     "SERPBD": "sender",
     "SHAEURBG": "shaker",
     "SHEURPL": "shimmer",
@@ -1212,6 +1211,8 @@
     "SPAOEFPLS": "speechless",
     "SPAOEUPBLS": "spineless",
     /*1*/ "PRAOEULS": "precisely",
+
+    "WORLS": "worthless",
 
     // Use -FRLS for -mless with -FR as -m
     "AEUFRLS": "aimless",
@@ -3176,9 +3177,13 @@
     "THAEFS": "that he was",
     "THAEFTS": "that he was the",
     "THAEUF": "that I have",
+    "THAEUFB": "that I have been",
     "THAEUFT": "that I have the",
+    "THAEUFBT": "that I have been the",
     "THA*EUF": "that I've",
+    "THA*EUFB": "that I've been",
     "THA*EUFT": "that I've the",
+    "THA*EUFBT": "that I've been the",
     "THAEUD": "that I had", // use TH*ED for "they'd"
     "THAEUTD": "that I had the",
     "THAUF": "that you have",
@@ -3716,6 +3721,7 @@
     "POR/TRAEUZ": "portrays",
     "PREUF/KWREUZ": "privies",
     "RAEU/SEUPBZ": "raisins",
+    "REF/SKWRAOEZ": "refugees",
     "TAP/STREUZ": "tapestries",
     "SRABG/SEUPBZ": "vaccines",
     "WEUPBD/TPAULZ": "windfalls",
@@ -4070,6 +4076,8 @@
 
     // S for negation
     "STPHOL": "abnormal",
+    "STKPWRAE": "disagree",
+    "STKPWRAEPLT": "disagreement",
     "SHRAOEL": "illegal",
     "SPHOFBL": "immovable",
     "S*BGS": "inaction", // use S*EUBGS for "sixth"
@@ -4131,6 +4139,7 @@
     "KEP/HRER": "Kepler",
     "KERPL": "Kepler",
     "PH*UFBG": "Musk",
+    "RO*T/TPHAEPBT": "Rocinante",
     "RORPBLG": "Roger",
     "SPWAGS": "Sebastian", // cf. KREUGS "Christian"
     "STA*PBL": "Stalin", // - * = "substantial"
@@ -4618,14 +4627,6 @@
     "TKPWREGS": "aggression",
     "TKPWREFR": "aggressor",
 
-    // "agree" family
-    "TKPWRE": "agree",
-    "TKPWREG": "agreeing", // overides "Greg" [1]
-    "TKPWREPLT": "agreement",
-    "STKPWRE": "disagree",
-    "STKPWREPLT": "disagreement",
-    /*1*/ "TKPWR*EG": "Greg", // give up "Gregg"
-
     // "apprehend" family
     "A/PREPBD": "apprehend", // already works
     "A/PREBL": "apprehensible",
@@ -5093,23 +5094,22 @@
 
     // -- Miscellaneous --------------------------------------------------------
 
-    "SKW": "and",          // SKP with P moved down
-    "KWRAEUR": "area",     // /ˈɛːrj/
-    "TA*UL": "at all",     // symmetry makes * feel nice; give up {^-tall}
-    "SPWAR": "bizarre",    // allow dropping * for "z" because of PW in between
-    "PWOEUR": "bury",      // OEU to reflect weirdness of "u" being pronounced /ɛ/
-    "KR-RG": "category",   // [c]ate[g]o[r]y; also symmetrical
-    "KPHOS": "cosmos",     // "os" shared between "c" and "m"
-    "KOURPB": "counter",   // think flap "t"; KOURPBT is {counter^}
-    "KREPB": "century",    // first three letters
-    "KWOEBG": "echo",      // left side ("qo"?) "echoing" the right side visually
-    "STPHUR": "ensure",    // "N-shur" (TPH + SH); overrides "insure" [1]
-    "HA*RPL": "harmony",   // mnemonic: Jacob Collier's #IHarmYou
-    "EU/E": "i.e.",        // just "fingerspell" it
-    "HRAO*EULG": "lilac",  // *LG for "lk" with a vowel in between
-    "O/ER": "o'er",        // separate into two strokes since OER is "other"
-    "PO*EUPB": "piano",    // wildcard OEU with * since POEUPB is "appoint"
-    "KW-T": "quiet",       // lack of vowels feels quiet; compare KWAOEUT "quite"
+    "SKW": "and",         // SKP with P moved down
+    "KWRAEUR": "area",    // /ˈɛːrj/
+    "TA*UL": "at all",    // symmetry makes * feel nice; give up {^-tall}
+    "SPWAR": "bizarre",   // allow dropping * for "z" because of PW in between
+    "PWOEUR": "bury",     // OEU to reflect weirdness of "u" being pronounced /ɛ/
+    "KR-RG": "category",  // [c]ate[g]o[r]y; also symmetrical
+    "KPHOS": "cosmos",    // "os" shared between "c" and "m"
+    "KOURPB": "counter",  // think flap "t"; KOURPBT is {counter^}
+    "KREPB": "century",   // first three letters
+    "KWOEBG": "echo",     // left side ("qo"?) "echoing" the right side visually
+    "STPHUR": "ensure",   // "N-shur" (TPH + SH); overrides "insure" [1]
+    "EU/E": "i.e.",       // just "fingerspell" it
+    "HRAO*EULG": "lilac", // *LG for "lk" with a vowel in between
+    "O/ER": "o'er",       // separate into two strokes since OER is "other"
+    "PO*EUPB": "piano",   // wildcard OEU with * since POEUPB is "appoint"
+    "KW-T": "quiet",      // lack of vowels feels quiet; compare KWAOEUT "quite"
     "KW-LT": "quietly",
     /*1*/ "STPH*UR": "insure",
 
@@ -5390,8 +5390,10 @@
 
     "AD/H-F": "ad",                 // from "add"
     "ADZ/H-F": "ads",
+    "AS/H-F": "ass",                // from "as"
     "PWAPBD/H-F": "banned",         // from "band"
     "PWARD/H-F": "barred",          // from "bard"
+    "PWAOEFP/H-F": "beach",         // from "beech"
     "PWAOET/H-F": "beat",           // from "beet"
     "PWORD/H-F": "board",           // from "bored"
     "PWRAEUS/H-F": "braise",        // from "brace"
@@ -5444,6 +5446,7 @@
     "PHAEUPB/H-F": "Maine",         // from "main"
     "PHARBGS/H-F": "Marx",          // from "marks"
     "PHAER/H-F": "Mary",            // from "marry"
+    "HRAOUS/H-F": "loose",          // from "lose"
     "PHORPB/H-F": "mourn",          // from "morn"
     "PHORPBG/H-F": "mourning",
     "PHORPBZ/H-F": "mourns",
