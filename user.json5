@@ -505,7 +505,6 @@
     "HOLDZ": "holidays",
     "HRAOUGS": "illusion", // use HRAOUFG for "losing"
     "HRAOUS/REU": "illusory",
-    "TPHREPBZ": "influenza",
     "SHU": "issue",
     "SHUD": "issued", // use SHO for "should"
     "HREPB": "lesson", // - not to be confused with HREFPB "eleven"
@@ -4766,6 +4765,13 @@
     "EUPB/KAPB/TKES": "incandesce",
     "EUPB/KAPB/TKEFPBT": "incandescent",
     "EUPB/KAPB/TKEFPBS": "incandescence",
+
+    // "influence" family
+    "TPHRAOUPBS": "influence",   // already works; or use WEPBS
+    "TPHRAOUPBL": "influential", // or use WEPBL
+    "TPHRAOURBL": "influential", // with -RBL instead of -PBL
+    "TPHRAOURPBS": "influencer", // as on social media
+    "TPHRAOUPBZ": "influenza",
 
     // "introvert" and "extrovert"
     "SPWROE/SRERT": "introvert", // cf. EBGS/TROE/SRERT "extrovert"
