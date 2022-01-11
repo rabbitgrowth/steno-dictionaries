@@ -3581,12 +3581,14 @@
     "SWR-LS": "somewhere else",
 
     // "... of"
-    "TPRAEFD": "afraid of", // misstroke for "afraid"
     "STR-F": "center of",
     "SEFT": "set of",
     "SUFPL": "sum of",
     "TAOEUFPL": "time of",
     "WHOEFL": "whole of",
+
+    "TPRAEFD": "afraid of", // misstroke for "afraid"
+    "SKAEUFRD": "scared of",
 
     "TPROF": "in front of",
     "SPAOEUF": "in spite of", // with "in"
