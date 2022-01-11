@@ -3581,24 +3581,15 @@
     "SWR-LS": "somewhere else",
 
     // "... of"
-    "STPROFPBT": "in front of", //   STPRO PBT "in front"
-                                // +  TPROFPBT "front of"
-                                // -----------
-                                //   STPROFPBT "in front of"
-    "STPHAOEUFT": "in spite of",
-    "SPAOEUFT": "spite of", // "spite of" is almost always preceded by "in":
-                            //   IN SPITE OF  12598
-                            //   AND SPITE OF     4
-                            //   THE SPITE OF     3
-                            // But it's useful to have a stroke for "spite of"
-                            // for when you've already hit TPH for "in".
-
     "TPRAEFD": "afraid of", // misstroke for "afraid"
     "STR-F": "center of",
     "SEFT": "set of",
     "SUFPL": "sum of",
     "TAOEUFPL": "time of",
     "WHOEFL": "whole of",
+
+    "TPROF": "in front of",
+    "SPAOEUF": "in spite of", // with "in"
 
     // "... up"
     // Precedents: KHRUP "clean up", SKRUP "screw up", SHUP "shut up"
