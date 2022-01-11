@@ -4769,7 +4769,6 @@
     // "influence" family
     "TPHRAOUPBS": "influence",   // already works; or use WEPBS
     "TPHRAOUPBL": "influential", // or use WEPBL
-    "TPHRAOURBL": "influential",
     "TPHRAOURPBS": "influencer",
     "TPHRAOUPBZ": "influenza",
 
