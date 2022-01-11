@@ -2058,6 +2058,11 @@
     "TPHEFBLT": "inevitability", // - -T = "inevitable"
     "SRUBLT": "vulnerability",   // - -T = "vulnerable"
 
+    // -BGS for -case
+    "PWRAOEFBGS": "briefcase",
+    "SHOEBGS": "showcase",
+    "STAEURBGS": "staircase",
+
     // -LG for -gle
     // Precedents: TKPWAOLG "Google", STRULG "struggle"
     "AOELG": "eagle",      // use SERBL for "essential"
