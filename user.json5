@@ -2951,30 +2951,29 @@
     "TAOUFBD": "used to be",
 
     // "... a"
-    "PW-RGS": "about a",
-    "SKP-RGS": "and a",
-    "R-RGS": "are a",
-    "TK-RGS": "did a",
-    "TPR-RGS": "from a",
-    "H-RGS": "had a",
-    "SR-RGS": "have a",
-    "TP-RGS": "if a",
-    "TPH-RGS": "in a",  // use -Z for "energies"
-    "S-RGS": "is a",    // use SORGS for "sourcing"
-    "SKWR-RGS": "just a",
-    "TORGS": "to a",    // overrides "torsion" [1]
-    "HR-RGS": "will a", // use -Z for "allergies"
-    "W-RGS": "with a",
-    /*1*/ "TO*RGS": "torsion",
+    "PW-LGTS": "about a",
+    "SKP-LGTS": "and a",
+    "R-LGTS": "are a",
+    "TK-LGTS": "did a",
+    "TPR-LGTS": "from a",
+    "H-LGTS": "had a",
+    "SR-LGTS": "have a",
+    "TP-LGTS": "if a",
+    "TPH-LGTS": "in a",
+    "S-LGTS": "is a",
+    "SKWR-LGTS": "just a",
+    "TOLGTS": "to a",
+    "HR-LGTS": "will a",
+    "W-LGTS": "with a",
 
-    "S*RGS": "as a",
+    "S*LGTS": "as a",
     "S*T": "as the",
 
-    "T-RGS": "at a",
+    "T-LGTS": "at a",
     "T-T": "at the", // use -T for "the"
 
     "TW": "between",
-    "TW-RGS": "between a",
+    "TW-LGTS": "between a",
     "TW-T": "between the",
 
     "AEUFS": "was a",
