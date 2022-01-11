@@ -502,7 +502,6 @@
     "HOLDZ": "holidays",
     "HRAOUGS": "illusion", // use HRAOUFG for "losing"
     "HRAOUS/REU": "illusory",
-    "TPHREPBZ": "influenza",
     "SHU": "issue",
     "SHUD": "issued", // use SHO for "should"
     "HREPB": "lesson", // - not to be confused with HREFPB "eleven"
@@ -2051,6 +2050,11 @@
     "TPHEFBLT": "inevitability", // - -T = "inevitable"
     "SRUBLT": "vulnerability",   // - -T = "vulnerable"
 
+    // -BGS for -case
+    "PWRAOEFBGS": "briefcase",
+    "SHOEBGS": "showcase",
+    "STAEURBGS": "staircase",
+
     // -LG for -gle
     // Precedents: TKPWAOLG "Google", STRULG "struggle"
     "AOELG": "eagle",      // use SERBL for "essential"
@@ -3307,19 +3311,13 @@
     "WH*UFT": "when you've the",
     "WHUD": "when you had",
     "WHUTD": "when you had the",
-    /*1*/ "WH-PL": "whim", // mnemonic: a whim, being insubstantial, is empty in the middle
-          "AEU/WHEUPL": "a whim", // safeguards for when I forget this mnemonic
-          "-T/WHEUPL": "the whim",
-          "TOT/WHEUPL": "to the whim",
-          "TA/WHEUPL": "at a whim",
-          "TE/WHEUPL": "at the whim",
-          "AOPB/WHEUPL": "on a whim",
-          "OPBT/WHEUPL": "on the whim",
-    /*2*/ "WH-F": "whiff", // mnemonic: a whiff, being insubstantial, is empty in the middle
-                           // give up "when have" since there are often better break points:
+    /*1*/ "WH-PL": "whim",
+          "WHEUPLZ": "whims",
+    /*2*/ "WH-F": "whiff", // give up "when have"; there are often better break points anyway:
                            // "when have I ever"   WH/SREU/-FR
                            // "when have you been" WH/SRUB
-          "WHEUF/-F": "whiff of", // safeguard for when I forget this mnemonic
+          "WHEUFZ": "whiffs",
+          // Mnemonic: whims and whiffs, being insubstantial, are empty in the middle
 
     // "where ..."
     "WREUPL": "where I am",
@@ -3557,24 +3555,17 @@
     "SWR-LS": "somewhere else",
 
     // "... of"
-    "STPROFPBT": "in front of", //   STPRO PBT "in front"
-                                // +  TPROFPBT "front of"
-                                // -----------
-                                //   STPROFPBT "in front of"
-    "STPHAOEUFT": "in spite of",
-    "SPAOEUFT": "spite of", // "spite of" is almost always preceded by "in":
-                            //   IN SPITE OF  12598
-                            //   AND SPITE OF     4
-                            //   THE SPITE OF     3
-                            // But it's useful to have a stroke for "spite of"
-                            // for when you've already hit TPH for "in".
-
-    "TPRAEFD": "afraid of", // misstroke for "afraid"
     "STR-F": "center of",
     "SEFT": "set of",
     "SUFPL": "sum of",
     "TAOEUFPL": "time of",
     "WHOEFL": "whole of",
+
+    "TPRAEFD": "afraid of", // misstroke for "afraid"
+    "SKAEUFRD": "scared of",
+
+    "TPROF": "in front of",
+    "SPAOEUF": "in spite of", // with "in"
 
     // "... up"
     // Precedents: KHRUP "clean up", SKRUP "screw up", SHUP "shut up"
@@ -4138,6 +4129,7 @@
     "KEP/HRER": "Kepler",
     "KERPL": "Kepler",
     "PH*UFBG": "Musk",
+    "TPHOEUFRPB": "Neumann",
     "RO*T/TPHAEPBT": "Rocinante",
     "RORPBLG": "Roger",
     "SPWAGS": "Sebastian", // cf. KREUGS "Christian"
@@ -4749,6 +4741,12 @@
     "EUPB/KAPB/TKES": "incandesce",
     "EUPB/KAPB/TKEFPBT": "incandescent",
     "EUPB/KAPB/TKEFPBS": "incandescence",
+
+    // "influence" family
+    "TPHRAOUPBS": "influence",   // already works; or use WEPBS
+    "TPHRAOUPBL": "influential", // or use WEPBL
+    "TPHRAOURPBS": "influencer",
+    "TPHRAOUPBZ": "influenza",
 
     // "introvert" and "extrovert"
     "SPWROE/SRERT": "introvert", // cf. EBGS/TROE/SRERT "extrovert"
