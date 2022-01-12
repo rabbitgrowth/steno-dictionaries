@@ -2966,8 +2966,13 @@
     "TPH-LGTS": "in a",
     "S-LGTS": "is a",
     "TOLGTS": "to a",
-    "HR-LGTS": "will a",
     "W-LGTS": "with a",
+
+    "K-LGTS": "can a",
+    "KOLGTS": "could a",
+    "SHOLGTS": "should a",
+    "HR-LGTS": "will a",
+    "WOLGTS": "would a",
 
     "S*LGTS": "as a",
     "S*T": "as the",
