@@ -2974,6 +2974,13 @@
     "HR-LGTS": "will a",
     "WOLGTS": "would a",
 
+    "THALGTS": "that a",
+    "WHALGTS": "what a",
+    "WH-LGTS": "when a",
+    "WR-LGTS": "where a",
+    "KH-LGTS": "which a",
+    "WHOLGTS": "who a",
+
     "S*LGTS": "as a",
     "S*T": "as the",
 
