@@ -2965,7 +2965,6 @@
     "TP-LGTS": "if a",
     "TPH-LGTS": "in a",
     "S-LGTS": "is a",
-    "SKWR-LGTS": "just a",
     "TOLGTS": "to a",
     "HR-LGTS": "will a",
     "W-LGTS": "with a",
@@ -3026,8 +3025,9 @@
 
     // "just ..."
     "SKWR": "just",
-    "SKWR-B": "just be",
     "SKWR-T": "just the",
+    "SKWR-LGTS": "just a",
+    "SKWR-B": "just be",
     "SKWR-LG": "just like",
     "SKWR-PBG": "just in case", // cf. the starless "junk" SKWRUPBG
 
