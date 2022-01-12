@@ -3143,11 +3143,11 @@
     "S-FR": "is ever", // use SR-FR for "server"
     "STP-RT": "is for the",
     "STPR": "is from",
-    "STPR-LGTS": "is from a",
     "STPR-T": "is from the",
+    "STPR-LGTS": "is from a",
     "STPH": "is in",
-    "STPH-LGTS": "is in a",
     "STPH-T": "is in the", // just two-stroke "isn't the"
+    "STPH-LGTS": "is in a",
     "SPHOR": "is more", // add * for "s'more"
     "STPHOU": "is now",
     "SOEPBL": "is only", // give up "only is"
@@ -3156,8 +3156,8 @@
     "STHR-LGTS": "is there a",
     "STOBT": "is to be the",
     "SW": "is with",
-    "SW-LGTS": "is with a",
     "SW-T": "is with the",
+    "SW-LGTS": "is with a",
     "SWU": "is with you",
 
     // "that ..."
