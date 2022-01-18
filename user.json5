@@ -923,6 +923,7 @@
     "TPHRAEUBGS": "affliction", // use -Z for "flakes"
     "HAED": "ahead",
     "HRAEUF": "alive",
+    "HRAEUFPBS": "aliveness",
     "HRAEPBLG": "allege",
     "PHAEPBD": "amend",
     "RAEFT": "arrest",
