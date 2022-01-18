@@ -361,6 +361,7 @@
     "TAOERPBG": "teenager",
     "T*EPBT": "tenth", // use EPBT/TEU for "entity"
     "T*EPBTS": "tenths",
+    "TOEPL": "tome", // use TORPL or T-RPL (custom) for "tomorrow"
     "TRAOEFPB": "treason",
     "TRAOEFPBS": "treasonous",
     "TROEL": "troll", // use PROL for "patrol"
