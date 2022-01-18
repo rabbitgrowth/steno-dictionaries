@@ -4308,6 +4308,7 @@
     //   SR-PBLT "have not"
     //   KAPBT   "can't"
     //   KAPBLT  "cannot"
+    "R-PLT": "are not",   // give up {&r-}
     "K-PLT": "cannot",    // give up {&k-}
     "TKOPLT": "do not",   // use TKOPL/TPHAPBT for "dominant",
                           // which is consistent with TKOPL/TPHAEUT "dominate"
