@@ -4599,19 +4599,19 @@
     "HAO*ERTS": "here's the",
 
     // Amounts
-    "AEULT": "a lot", // The -L in HROELT seems to be completely arbitrary
+    "AEULT": "a lot", // the -L in HROELT seems to be completely arbitrary
     "AEUFLT": "a lot of",
     // Having "a lot of" makes HROFT "lot of" less useful because "lot of"
     // is almost always preceded by "a". Of course "a whole/awful lot of"
     // is possible, but "a lot of" is by far the most common:
-    // A LOT OF     334111
-    // WHOLE LOT OF   5508
-    // AWFUL LOT OF   3317
-    // HROFT is better suited to ...
-    "HROFT": "lost",
-    // Since we fixed HRO*S "lost", we might as well also fix HR*EUS "list":
-    "HREUS": "list", // give up "Lys-" (mnemonic: ls)
-    // HRAEUL "a little" already works
+    //   A LOT OF     334111
+    //   WHOLE LOT OF   5508
+    //   AWFUL LOT OF   3317
+    // HROFT is more useful as ...
+    "HROFT": "lost", // drop * in HRO*S "lost"
+    "HREUS": "list", // for consistency; give up "Lys-"
+
+    "HRAEUL": "a little",
     "HRAEUFL": "a little of",
     "HRAEUBT": "a little bit", // "alibit"
     "HRAEUFBT": "a little bit of",
