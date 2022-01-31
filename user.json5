@@ -12,7 +12,6 @@
     "PW-LT": "built", // give up "brake light"
     "PW-RL": "builder",
     "STK-PT": "despite",  // all the consonants evenly spread out
-    "TK-F": "detective",  // give up "def" (for programming?)
     "TK-FS": "difference",
     "TK-FT": "different", // use TK-FD for "defendant"
     "TK-FLT": "differently",
