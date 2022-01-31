@@ -841,7 +841,7 @@
     "SAEFG": "assessing",    // use STPAOEUG for "satisfying"
     "SAEFPLT": "assessment", // or just use SEFPLT
     "SAET": "asset",
-    "SAEUFT": "assist",       // use SAEFT for "safety" [1]
+    "SAEUFT": "assist", // use SAEFT for "safety" [1]
     "SAEUFPBS": "assistance", // or just use SEUFPBS
     "SAEUFPBT": "assistant",  // or just use SEUFPBT
     "SHAUR": "assure",
