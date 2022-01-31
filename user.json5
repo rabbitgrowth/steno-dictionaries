@@ -230,7 +230,6 @@
 
     // Words with other words in them
     "PHEL/TKROEUPL": "melodrama",
-    "SEUFRP/TOPB": "simpleton",
 
     // Fingerspelling with dot (B-Y already work)
     "A*FPLT": "{&A.}",
@@ -4820,12 +4819,14 @@
     "SREFLT": "irrelevant",
     "SREFLS": "irrelevance", // use -Z for "vessels"
 
+    "SEUFRP": "simp",
     "SEUFRPL": "simple", // already works
     "SPHREU": "simply",  // already works
     "SPHREUF": "simplify",
     "SPHREUFT": "simplicity", // already works
     "SPHREUFBG": "simplistic",
     "SPHREUFBGS": "simplification",
+    "SEUFRPL/TOPB": "simpleton",
 
     "SUFBT": "subjective", // SUBT "subject" + -F
     "OFBT": "objective",   // OBT  "object"  + -F
