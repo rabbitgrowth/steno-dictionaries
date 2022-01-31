@@ -359,7 +359,6 @@
     // -- Vowels ---------------------------------------------------------------
 
     // Don't alter vowel
-    "AFRT": "artist",         // use SRAERT (custom) for "avert"
     "TKEUFLT": "difficulty",  // TKEUFL "difficult" + -T
     "PHERPL": "memory",
     "PHERPL/-BL": "memorable",
@@ -406,6 +405,7 @@
     "ALT/TEUF": "alternative", // alternative to HR-FRPB (ltrn?)
     "AEURGS": "arrogance", // use -Z for "airings"
     "AEURGT": "arrogant",  // cf. AEURPT "airport"
+    "AFRT": "artist", // "arst"; use SRAERT (custom) for "avert"
     "TRAF": "attractive",  // use TR-FR for "transfer"
     "A*UT/TEUBG": "authentic",
     "A*UT/TEUFT": "authenticity",
