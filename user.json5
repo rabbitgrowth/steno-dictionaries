@@ -357,11 +357,6 @@
 
     "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
 
-    // -- Vowels ---------------------------------------------------------------
-
-    "SHREP": "sleep",
-    "SHRAEP": "asleep",
-
     // -- Sound squeezing ------------------------------------------------------
 
     "A/KAOUFBG": "acoustic",
@@ -860,6 +855,9 @@
     "SRAERGS": "aversion",
     /*1*/ "SAEF": "safe", // use STPAOEU for "satisfy"
           "SAEFL": "safely",
+
+    "SHRAEP": "asleep",
+    "SHREP": "sleep", // but prefer SHRAOEP
 
     // ... or use S when folding in A leads to conflict or is confusing
     "SPWRAOD": "abroad",
