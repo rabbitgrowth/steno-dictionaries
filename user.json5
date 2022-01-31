@@ -198,10 +198,11 @@
                                 //      SHRO*PBGS "so long as"
                                 //      SPHUFPS   "as much as"
     "STRUFPL": "structural",    // with STRUFP "structure"
-    "SPWOLG": "symbolic",       // with SPWOL "symbol"
-                                //   cf. KHOL "alcohol", KHOLG "alcoholic"
+    "SPWOLG": "symbolic",       // with KHOL  "alcohol"
+                                //      KHOLG "alcoholic"
+                                //      SPWOL "symbol"
                                 //   SPWOLG could also be "ontology" with SPW- as ont-,
-                                //   but "symbolic" is much more common
+                                //   but "symbolic" wins because it's much more common
     "THOR": "thorough",         // with THORL "thoroughly"; use THORZ for "authorize"
     "TREUGS": "transmission",   // with TREUT "transmit"; use TRAPBGS for "transition"
     "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
