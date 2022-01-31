@@ -60,12 +60,6 @@
     "KH-G": "change",
     "SKH-G": "exchange",
 
-    // Normally -DZ is used for -cide (S-DZ "suicide", H-DZ "homicide")
-    // but -D is easier for inflections for a common verb like "decide".
-    "TK-D": "decide",   // give up {^ded}
-    "TK-DZ": "decides", // by default "decide"
-    "TK-TD": "decided",
-
     "-FD": "find",
     "T-FD": "find it",
     "TP-D": "found", // give up "pharmacodynamic"
@@ -138,7 +132,6 @@
     "A/KUFPL": "accustom",      // with A/KUFPLD "accustomed"
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
-    "PW-D": "beside",           // with PW-DZ "besides"; give up "pwd"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
     "KPHREGS": "completion",
@@ -5188,6 +5181,13 @@
     "PW-RB": "banish",
     "TP-RB": "finish",
     "SR-RB": "vanish",
+
+    // Normally -cide is -DZ (S-DZ "suicide", H-DZ "homicide"),
+    // but use -D for very common words often suffixed with -s.
+    "PW-D": "beside",   // give up "pwd"
+    "PW-DZ": "besides", // already works
+    "TK-D": "decide",   // give up {^ded}
+    "TK-DZ": "decides", // by default "decide"
 
     // Swap base words to simplify inflections
     // Consider these standard strokes:
