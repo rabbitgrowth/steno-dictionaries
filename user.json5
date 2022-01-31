@@ -138,6 +138,7 @@
     "KWEPBL": "consequential",  // with KWEPBS "consequence"
     "KRAOEFT": "creativity",    // with KRAOEF "creative"
     "KRED/AOULT": "credulity",  // with EUPB/KRED/AOULT "incredulity"
+    "TKEUFLT": "difficulty",    // with TKEUFL "difficult"
     "STREUBGS": "distribution", // with STREUBT "distribute"
                                 //   use REUBGS for "restriction":
                                 //   REUBGT  "restrict"   -> REUBGS   "restriction"
@@ -359,7 +360,6 @@
     // -- Vowels ---------------------------------------------------------------
 
     // Don't alter vowel
-    "TKEUFLT": "difficulty",  // TKEUFL "difficult" + -T
     "PHERPL": "memory",
     "PHERPL/-BL": "memorable",
     "PHOEFGS": "motivation",
