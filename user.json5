@@ -328,10 +328,6 @@
     /*2*/ "PR-FRP": "purchaser", // from PR-FP "purchase"
     /*3*/ "STPHAT/SKWRA": "sonata", // or just use SO/TPHA/TA
 
-    "APL": "apple", // overrides "am"
-    "-PL": "am",    // cf. EU/-PL "I am"; use TP-PL for {.}
-    "PAOEUPB/APL": "pineapple",
-
     // Phonetic alternatives to briefs
     "SER/TEUFBGT": "certificate", // to SER
     "KAUPB/TKURBGT": "conductor", // to KURBGT
