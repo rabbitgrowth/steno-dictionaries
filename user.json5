@@ -360,14 +360,8 @@
     // -- Vowels ---------------------------------------------------------------
 
     // Don't alter vowel
-    "PHERPL": "memory",
-    "PHERPL/-BL": "memorable",
     "PHOEFGS": "motivation",
     "PARPLT": "parliament",   // use ARPLT for "apartment"
-    "POERT": "poetry",
-    "THAOER": "theory",
-    "THAOEFRT": "theorist",
-    "THAOERL": "theoretical", // cf. the standard THOEURL
 
     // Use simpler vowel
     // Precedents: TREU "try", THRE "three"
