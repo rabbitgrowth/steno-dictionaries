@@ -360,7 +360,6 @@
     // -- Vowels ---------------------------------------------------------------
 
     // Don't alter vowel
-    "PHOEFGS": "motivation",
     "PARPLT": "parliament",   // use ARPLT for "apartment"
 
     // Use simpler vowel
@@ -446,6 +445,7 @@
     "PHELG": "medical", // "mecal"
     "PHEUL/SHA": "militia",
     "PHOFT": "modest", // use PHOEFT for "most"
+    "PHOEFGS": "motivation",
     "TPHOUDZ": "nowadays",
     "OP/TEUF": "operative", // OPT/EUF with a more natural break point
     "OFRPL": "organism", // "orsm"
