@@ -116,7 +116,7 @@
     "SHR-BG": "is like",
     "SHR-BGT": "is like the",
     "SHR-LG": "is likely",
-    "HRAOLG": "likelihood",
+    "HR-LGD": "likelihood",
     /*1*/ "HR*LG": "{^ological}",
 
     "-RT": "right", // - physically stroked with the right hand
