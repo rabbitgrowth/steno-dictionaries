@@ -4651,17 +4651,14 @@
 
     // -- Word families --------------------------------------------------------
 
-    // "ad*pt"
     "TKOPT": "adopt",  // already works
     "TKAPT": "adapt",  // by default just "dapt" - meant to be used with {a^}?
     "TKAEPT": "adept", // A easily folded in; TKEPT is "department"
 
-    // "aggressive" family
     "TKPWREF": "aggressive", // use TKPWRAO*EF for "grieve" (TKPWRAOEF "grief" + *)
     "TKPWREGS": "aggression",
     "TKPWREFR": "aggressor",
 
-    // "apprehend" family
     "A/PREPBD": "apprehend", // already works
     "A/PREBL": "apprehensible",
     "A/PREBLT": "apprehensibility",
@@ -4687,7 +4684,6 @@
     "PRAEPBS/EUFL": "apprehensively",
     "PRAEPBS/EUFPBS": "apprehensiveness",
 
-    // "assassin" family
     "SAFPB": "assassin",
     "SAFPBT": "assassinate",
     "SAFPBGS": "assassination",
@@ -4695,11 +4691,6 @@
     "A/SAFPBT": "assassinate",
     "A/SAFPBGS": "assassination",
 
-    // "comprehend" family
-    // cf. SREUGS       "vision"
-    //     SREUBL       "visible"
-    //     SREUS/PWHREU "visibly"
-    //     SREUBLT      "visibility"
     "KPREPBD": "comprehend",     // already works
     "KPREPBGS": "comprehension", // already works
     "KPRERPBD": "comprehender",
@@ -4710,7 +4701,6 @@
     "KPREFL": "comprehensively",
     "KPREFPBS": "comprehensiveness",
 
-    // "credible" family
     "KREB": "credible",      // cf. PROB   "probable"
     "KREBL": "credibly",     // cf. PROBL  "probably";    use KRET/-BL for "creditable"
     "KREBLT": "credibility", // cf. PROBLT "probability"; already works
@@ -4718,7 +4708,6 @@
     "SKREBL": "incredibly",
     "SKREBLT": "incredibility",
 
-    // "critic" family
     "KREUBG": "critic",     // overrides "crick"   [1]
     "KREULG": "critical",   // overrides "acrylic" [2]
     "KREUFPL": "criticism", // come back for -L for "crisply"
@@ -4727,37 +4716,31 @@
           "KREUBGD": "cricked", // "criticced" is not a word
     /*2*/ "KRAEULG": "acrylic",
 
-    // "decent" family
     "TKAOEFPBT": "decent",
     "TKAOEFPBS": "decency",
     "SPWAOEFPBT": "indecent",
     "SPWAOEFPBS": "indecency",
 
-    // "dismiss" family
     "TKPHEUS": "dismiss", // dis/mis -> dmis; cf. TKPHEUFD "dismissed"
     "TKPHEUF": "dismissive",
     "TKPHEUFL": "dismissal",
     "TKPHEUFG": "dismissing",
 
-    // "err" family
     "*ER": "err",      // use ER (custom) for {^er}
     "ROER": "error",   // symmetrical and has all the letters
     "ERPBT": "errant", // but "errand" is ER/APBD since ERPBD is "earned"
 
-    // "forget" family
     "TP-RGT": "forget", // TP-R "for" + -GT "get"
     "TPROT": "forgot",
     "TPROPB": "forgotten",
     "TPREFL": "forgetful",
 
-    // "forgive" family
     "TPREUF": "forgive",
     "TPRAEUF": "forgave", // cf. TKPWAEUF "gave"
     "TPREUFD": "forgave",
     "TPREUFPB": "forgiven",
     "TPREUFPBS": "forgiveness",
 
-    // "happy" family
     "HAEP": "happy", // works already
     "HAEPL": "happily",
     "HAEPBS": "happiness", // mashup of HAEP and -PBS
@@ -4765,14 +4748,12 @@
     "SHAEPL": "unhappily",
     "SHAEPBS": "unhappiness",
 
-    // "idyll" family
     "EUD/-L": "idyll", // not to be confused with EULD "ideal" (custom)
     "TKHREUBG": "idyllic", // overrides "dyslexic" [1]
     "AOEU/TKEULG": "idyllic",
     /*1*/ "TKHREFBG": "dyslexic",
           "TKHREBGS": "dyslexia",
 
-    // "impossible" and "improbable"
     "KPWOB": "impossible",
     "KPWOBL": "impossibly",
     "KPWOBLT": "impossibility",
@@ -4780,27 +4761,22 @@
     "KPWROBL": "improbably",
     "KPWROBLT": "improbability",
 
-    // "incandesce" family
     "EUPB/KAPB/TKES": "incandesce",
     "EUPB/KAPB/TKEFPBT": "incandescent",
     "EUPB/KAPB/TKEFPBS": "incandescence",
 
-    // "influence" family
     "TPHRAOUPBS": "influence",   // already works; or use WEPBS
     "TPHRAOUPBL": "influential", // or use WEPBL
     "TPHRAOURPBS": "influencer",
     "TPHRAOUPBZ": "influenza",
 
-    // "introvert" and "extrovert"
     "SPWROE/SRERT": "introvert", // cf. EBGS/TROE/SRERT "extrovert"
     "EBGS/TROEFRT": "extrovert", // cf. SPWROEFRT       "introvert"
     "KPROEFRT": "extrovert",
 
-    // "melancholy" family
     "PHEL/KOEL": "melancholy",  // PHEL/KOL/KWREU but with "many" rule
     "PHEL/KOLG": "melancholic", // PHEPBL/KOLG but omit -PB like "melancholy"
 
-    // "perfect" family
     "P-F": "perfect",    // already works
     "P-FL": "perfectly", // already works
     "P-FGS": "perfection",
@@ -4808,19 +4784,16 @@
     "KPW-FL": "imperfectly",
     "KPW-FGS": "imperfection",
 
-    // "phenomenon" family
     "TPOPB": "phenomenon", // give up "phon" (unit of loudness)
-    "TPOPBZ": "phenomena", // add -Z for irregular plural
-    "TPAL": "phenomenal",  // use TPAUL for "fall"
+    "TPOPBZ": "phenomena",
+    "TPAL": "phenomenal", // use TPAUL for "fall"
 
-    // "philosophy" family
     "TPHROEF": "philosophy", // "flofy"; odd misstroke for "flow"
     "TPHROFR": "philosopher",
     "TPHROFL": "philosophical",
     "TPHROFZ": "philosophize", // compare TPHROEFZ "philosophies"
     // Or use TPHROS/TPEU, TPHROS/TPER, and TPHROS/TPAOEUZ.
 
-    // "plausible" family
     "PHRAUBL": "plausible",        // already works
     "PHRAUBLT": "plausibility",
     "PHRAUS/-BL": "plausible",     // already works
@@ -4832,14 +4805,12 @@
     "KPWHRAUS/-BLT": "implausibility",
     "KPWHRAUS/PWHREU": "implausibly",
 
-    // "positive" and "negative"
     "POF": "positive",
     "POFL": "positively",
     "TPHEF": "negative",
     "TPHEFL": "negatively", // overrides "nestle" [1]
     /*1*/ "TPHEFLT": "nestle", // cf. RUFLT "rustle"
 
-    // "possess" family
     "S*ES": "possess",     // use S*EFT for "zest"
     "S*EFD": "possessed",
     "S*EFG": "possessing",
@@ -4849,7 +4820,6 @@
     "SEFD": "possessed",   // use SREFD for "invested"
     "SEFG": "possessing",
 
-    // "productive" family
     "PRUF": "productive",
     "PRUFL": "productively",
     "PRUFT": "productivity",
@@ -4858,12 +4828,10 @@
     "SPRUFL": "unproductively",
     "SPRUFPBS": "unproductiveness",
 
-    // "reflect" family
     "TPHRET": "reflect", // misstroke for "net"
     "TPHREGS": "reflection",
     "TPHREF": "reflective",
 
-    // "regardless" family
     "RARLS": "regardless",
     "R-F": "regardless of",
     "R-FT": "regardless of the",
@@ -4871,13 +4839,11 @@
     "R*F": "irregardless of", // give up "reticular formation"
     "R*FT": "irregardless of the",
 
-    // "relevant" family
     "REFLT": "relevant",  // already works
     "REFLS": "relevance", // use -Z for "revels"
     "SREFLT": "irrelevant",
     "SREFLS": "irrelevance", // use -Z for "vessels"
 
-    // "simple" family
     "SEUFRPL": "simple", // already works
     "SPHREU": "simply",  // already works
     "SPHREUF": "simplify",
@@ -4885,7 +4851,6 @@
     "SPHREUFBG": "simplistic",
     "SPHREUFBGS": "simplification",
 
-    // "subject" and "object"
     "SUFBT": "subjective", // SUBT "subject" + -F
     "OFBT": "objective",   // OBT  "object"  + -F
     "SUB/TEUFT": "subjectivity", // cf. OB/TEUFT  "objectivity"
@@ -4894,11 +4859,9 @@
     // or use SUFBT/-TEU ("subjective" + {^ity})
     //        OFBT/-TEU  ("objective"  + {^ity})
 
-    // "synonym" family
     "STPHEUPL": "synonym",
     "STPHOPLS": "synonymous", // cf. TPHOPLS "anonymous"
 
-    // "understand" family
     "URPBD": "understand",         // already works
     "URPBG": "understanding",      // "urning" is rare
     "URPBD/-D": "understood",      // or use *URPBD
@@ -4908,14 +4871,12 @@
     "PH*URPBD": "misunderstood",
     "PHURPBD/-D": "misunderstood",
 
-    // "victor" family
     "SREURBGT": "victor",   // cf. SRERBGT "vector"
     "SR*EURBGT": "Victor",  // the name
     "SROEURBGT": "victory", // use OEU for -y
     "SREUBG/TORS": "victorious", // or use SREURBGT/KWROUS ("victor" + {^ious});
                                  // use SREURBGTS or SREUBG/TORZ for "victors"
 
-    // "way" and "away"
     "WAEU": "way", // already works
     "WAU": "away", // arbitrary; frees up ...
     "WA*EU": "{^way}",
