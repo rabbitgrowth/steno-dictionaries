@@ -136,8 +136,6 @@
     "KPEBL": "accessible",      // with KPES "access"
     "KPEBLT": "accessibility",
     "A/KUFPL": "accustom",      // with A/KUFPLD "accustomed"
-    "TKAPT": "adapt",           // with TKOPT "adopt"; by default just "dapt" -
-                                //   meant to be used together with {a^}?
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
     "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
@@ -4652,6 +4650,11 @@
     "W-PT": "went", // drop vowel like TKPW "go"; WEPT is "wept"
 
     // -- Word families --------------------------------------------------------
+
+    // "ad*pt"
+    "TKOPT": "adopt",  // already works
+    "TKAPT": "adapt",  // by default just "dapt" - meant to be used with {a^}?
+    "TKAEPT": "adept", // A easily folded in; TKEPT is "department"
 
     // "aggressive" family
     "TKPWREF": "aggressive", // use TKPWRAO*EF for "grieve" (TKPWRAOEF "grief" + *)
