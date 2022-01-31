@@ -188,7 +188,6 @@
     "PERP/TWAL": "perpetual",   // with PERP/TWAEUT "perpetuate" ("wrong" stress)
                                 //      PERP/TRAEUT "perpetrate" ("right" stress)
     "PERP/TWAEL": "perpetually",
-    "PROEUFD": "processed",     // with PROEUS "process", PROEUFG "processing"
     "RAELT": "reality",         // with RAEL "real"; use RELT for "relate"
     "RAELTS": "realities",
     "R*URPB": "runner",         // with R*UPBG "running"
@@ -3979,6 +3978,7 @@
     "PHOLDZ": "models",      // use PHOELDZ for "molds"
     "PASZ": "passes",        // misstroke for "pass"
     "PHREUFG": "policing",
+    "PROEUFD": "processed",  // use PROEFD for "provide"
     "RAEUPLD": "remained",   // overrides "Raymond" [1]
     "SAOEGZ": "seizing",
     "SOERBD": "sobered",     // use SOERBTD for "associated"
