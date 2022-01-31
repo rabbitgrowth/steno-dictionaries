@@ -359,9 +359,6 @@
 
     // -- Vowels ---------------------------------------------------------------
 
-    // Don't alter vowel
-    "PARPLT": "parliament",   // use ARPLT for "apartment"
-
     // Use simpler vowel
     // Precedents: TREU "try", THRE "three"
     "TKEP": "deep", // use TKEPGS for "deposition"
@@ -2282,6 +2279,7 @@
     "TPEUL/-PLT": "filament", // or just use TPEUPLT
     "TPEURPL/-PLT": "firmament",
     "ORPB/-PLT": "ornament",
+    "PARL/-PLT": "parliament",
     "PRE/TKEUBG/-PLT": "predicament",
     "REPBLG/-PLT": "regiment",
     "SED/-PLT": "sediment",
