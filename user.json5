@@ -20,7 +20,7 @@
     "KP-T": "exact",    // cf. TKRET  "direct"
     "KP-L": "exactly",  // cf. TKREL  "directly"; use KP-PL ("xm" or "xpl") for "example"
     "KP-LG": "exactly", // cf. TKRELG "directly", ELG "exactly"
-    "KP-P": "experience", // give up "XP"
+    "KP-P": "experience", // just fingerspell "XP"
     "KP-PB": "explain",       // use KP    for "examine"
     "KP-PBD": "explained",    // use KP-D  for "examined"
     "KP-PBG": "explaining",   // use KP-G  for "examining"
