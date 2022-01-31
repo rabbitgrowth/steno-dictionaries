@@ -257,6 +257,8 @@
     "KOFPB/TKAPBT": "confidant",
     "KOFPB/TKA*PBT": "confidante",
     "KAUPB/STAPBS/KWREU": "constancy", // or use STAPBT/SEU ("constant" + {^cy})
+    "TKHREURBT": "deliberate", // include -R
+    "TKHREURBLT": "deliberately",
     "TKEUS/PEUBG/-BL": "despicable", // with EU instead of the orthographic E
     "TKEUS/PEUBG/PWHREU": "despicably",
     "TKROEUD": "droid", // use STROEUD for "destroyed"
@@ -361,9 +363,6 @@
     "SKWRERPBL": "general", // SKWREPBL
     "HREURBL": "liberal",   // HREUBL
     "PHEURPBL": "mineral",  // PHEUPBL
-
-    "TKHREURBT": "deliberate", // TKHREUBT
-    "TKHREURBLT": "deliberately",
 
     // -- Vowels ---------------------------------------------------------------
 
