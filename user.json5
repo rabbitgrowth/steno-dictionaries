@@ -229,12 +229,6 @@
                               // - frees up P*EPBS for "pence"
     "P*EPBS": "pence",
 
-    "PHEURL": "miracle", // with ARL "article", SEURL "circle"; overrides "Merrill"
-    "PH*ERL": "Merrill", // PHERL   "Meryl"
-                         // PH*ERL  "Merrill" (custom)
-                         // PHEURL  "miracle" (custom)
-                         // PH*EURL "Miller"
-
     "WAPBD": "wander", // with WOPBD "wonder"; overrides "wand"
     "WAUPBD": "wand",
 
