@@ -157,19 +157,13 @@
                                 //                            KPEGS  "competition"
     "KP*EFL": "excessively",
     "KP*EFPBS": "excessiveness",
-    "KPEPL": "exemplify",       // with KP-PL "example"
     "KP-PGS": "expectation",    // with KP-PT "expect"
-    "KPR*ES": "express",        // with KPR*EGS "expression"
-    "KPR*EFG": "expressing",
     "STEPBD": "extend",         // with STEPBGS "extension"
     "STEPBD/-D": "extended",
     "KPROERD": "extraordinary", // with OERD "ordinary"
     "TPHREBLT": "flexibility",  // with TPHREBL "flexible"
     "TPREBGS": "for example",   // with TPREUPBS "for instance"; use -Z for "frequents"
-    "TKPWAEUFD": "gazed",       // with TKPWAEUFG "gazing"
     "H-B": "had been",          // with SR-B "have been"; misstroke for {^-^}
-    "HAPBT": "hasn't",          // with HAPBLT "has not"
-                                //   HAPBT "hasn't" + -L as bridge = "has not"
     "PHAGS": "imagination",     // with PHAPBLG "imagine"; use -Z for "magazines"
     "TPH-FBGT": "infect",       // with TPH-FRPL "inform", TPH-FPBT "infinite"
     "TPEBGT": "infect",         // with TPEBGS "infection", TPERBS "infectious"
@@ -181,9 +175,6 @@
     "EUR/SEUFT/PWHREU": "irresistibly",
                                 // with EUR/SEUFT/-BL "irresistible"
     "PH*EUBG": "mechanic",      // with PH*EUBGS "mechanics"; give up "MIC"
-    "PHOEUL": "mellow",         // with KWROEUL "yellow"
-                                //   but TPOEUL and PWOEUL are "foil" and "boil"
-                                //   instead of "fellow" and "bellow"
     "PHAOEUFB": "might have been",
                                 // with PHAEUFB "may have been"
     "TPHAOERB": "nearby",       // with TPHAOER "near"; use TPHEURB for "niche"
@@ -203,7 +194,6 @@
     "STEUFBG": "scientific",    // with STEUFT "scientist"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
     "SEURPB": "sinner",         // with TKEURPB "dinner", WEURPB "winner"
-    "SOPL": "so many",          // with SO "so", SOFP "so much"; use SPH for "some"
     "SPH*UFPS": "so much as",   // with SHROPBGS  "as long as"
                                 //      SHRO*PBGS "so long as"
                                 //      SPHUFPS   "as much as"
