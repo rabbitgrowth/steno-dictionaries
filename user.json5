@@ -138,8 +138,6 @@
     "A/KUFPL": "accustom",      // with A/KUFPLD "accustomed"
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
-    "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
-    "TPHOEUPBS": "annoyance",   //   use TPHOEUPB/AES for "no one's"
     "PW-D": "beside",           // with PW-DZ "besides"; give up "pwd"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
@@ -228,6 +226,9 @@
     "SAEUGS": "{^isation}",     // with SA*EUGS {^ization}
     "O*UR": "{^our}",           // with O*R {^or}
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
+
+    "TPHOEU": "annoy",        // with TPHOEUG "annoying", TPHOEUD "annoyed"
+    "TPHOEUPBS": "annoyance", // give up "no one's"
 
     "PWROE": "borrow",     // with SROE "sorrow"; use PWRO for "borough"
     "PWROEG": "borrowing", // much nicer than PWO*ERPBG; overrides "brogue"
