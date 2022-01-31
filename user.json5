@@ -50,8 +50,8 @@
     "SR-BL": "valuable",
 
     "PR": "appear",     // misstroke for "from"
-    "PR-D": "appeared", // overrides "." with spaces on both sides
-    "TP*PL": ".",       // for programming?
+    "PR-D": "appeared", // overrides "." (with spaces on both sides - for programming?)
+    "TP*PL": ".",
     "SPR": "disappear", // use SAOUP for {super^}
 
     "ARD": "around",
