@@ -354,15 +354,16 @@
 
     "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
 
-    // Allow not omitting -R in -ral and -rate
-                                  // Plover consistently omits -R:
-    "SRAOERBL": "cerebral",       // SRAOEBL
-    "TKHREURBT": "deliberate",    // TKHREUBT
+    // Include -R in -ral and -rate
+                            // Plover consistently omits -R:
+    "SRAOERBL": "cerebral", // SRAOEBL
+    "TPAOURPBL": "funeral", // TPAOUPBL
+    "SKWRERPBL": "general", // SKWREPBL
+    "HREURBL": "liberal",   // HREUBL
+    "PHEURPBL": "mineral",  // PHEUPBL
+
+    "TKHREURBT": "deliberate", // TKHREUBT
     "TKHREURBLT": "deliberately",
-    "TPAOURPBL": "funeral",       // TPAOUPBL
-    "SKWRERPBL": "general",       // SKWREPBL (use SKWHRERPBL for "generally")
-    "HREURBL": "liberal",         // HREUBL
-    "PHEURPBL": "mineral",        // PHEUPBL
 
     // -- Vowels ---------------------------------------------------------------
 
