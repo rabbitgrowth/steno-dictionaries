@@ -267,10 +267,6 @@
     "TPAULS": "false", // use -Z for "falls"; frees up TPALS for "phallus" [1]
     "TPEPBGS": "fencing", // misstroke for "infection"
     "TPRAOEPBLS": "freelance",
-    "TPREUFL": "frivol",
-    "TPREUFLT": "frivolity",
-    "TPREU/SROLT": "frivolity",
-    "TPREUFLS": "frivolous", // TPREUF/HROUS already works
     "TKPWAPBLT": "gallant",
     "TKPWAL/APBT": "gallant",
     "TKPWRAEUFT": "gravity", // TKPWRAFT is "graft"
@@ -4409,6 +4405,11 @@
     /*1*/ "AO*EF": "Eve", // use A*EF for "eave":
                           // AOEF  "eve"  AEF  "avenue"
                           // AO*EF "Eve"  A*EF "eave"
+
+    "TPREUFL": "frivol",
+    "TPREUFLS": "frivolous",
+    "TPREUFLT": "frivolity",
+    "TPREU/SROLT": "frivolity",
 
     "PAOULS/TPHEUPLT": "pusillanimity",
     "PAOUS/HRAPB/PHOUS": "pusillanimous",
