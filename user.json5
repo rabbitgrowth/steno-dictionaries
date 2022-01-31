@@ -165,6 +165,7 @@
     "TPREBGS": "for example",   // with TPREUPBS "for instance"; use -Z for "frequents"
     "H-B": "had been",          // with SR-B "have been"; misstroke for {^-^}
     "PHAGS": "imagination",     // with PHAPBLG "imagine"; use -Z for "magazines"
+    "PAEPBS": "independence",   // with PAEPBT "independent"; use -Z for "panes"
     "TPH-FBGT": "infect",       // with TPH-FRPL "inform", TPH-FPBT "infinite"
     "TPEBGT": "infect",         // with TPEBGS "infection", TPERBS "infectious"
                                 //   use EFBG for "effect"
@@ -223,11 +224,6 @@
     //                   PWROED  "borrowed"
     //                   PWROER  "brother"  -- PHOER "mother"
     //                   PWRO*ER "borrower"    TPAER "father"
-
-    "PAEPBS": "independence", // - with PAEPBT "independent"
-                              // - use -Z for "panes"
-                              // - frees up P*EPBS for "pence"
-    "P*EPBS": "pence",
 
     "WAPBD": "wander", // with WOPBD "wonder"; overrides "wand"
     "WAUPBD": "wand",
@@ -312,6 +308,7 @@
     "ORB": "orb", // misstroke for "or"
     "ORPB/TAEUGS": "orientation",
     "PAPL/TAEUT": "palpitate",
+    "PEPBS": "pence", // use -Z for "pens"
     "PHRAFD": "placid",
     "PHRAFLD": "placidly",
     "PROP/TKPWAPB/TKEUFT": "propagandist", // alternative to PROP/TKPWAPBD/EUFT
