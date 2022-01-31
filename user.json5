@@ -176,8 +176,8 @@
     "EUR/SEUFT/PWHREU": "irresistibly",
                                 // with EUR/SEUFT/-BL "irresistible"
     "PH*EUBG": "mechanic",      // with PH*EUBGS "mechanics"; give up "MIC"
-    "PHAOEUFB": "might have been",
-                                // with PHAEUFB "may have been"
+    "PHEL/TKROEUPL": "melodrama",  // with TKROEUPL "drama"
+    "PHAOEUFB": "might have been", // with PHAEUFB "may have been"
     "TPHAOERB": "nearby",       // with TPHAOER "near"; use TPHEURB for "niche"
     "KRURPBS": "occurrence",    // with KRUR "occur"
     "TPEUFR": "officer",        // with TPEURBL "official"
@@ -227,9 +227,6 @@
 
     "WAPBD": "wander", // with WOPBD "wonder"; overrides "wand"
     "WAUPBD": "wand",
-
-    // Words with other words in them
-    "PHEL/TKROEUPL": "melodrama",
 
     // Fingerspelling with dot (B-Y already work)
     "A*FPLT": "{&A.}",
