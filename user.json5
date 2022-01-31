@@ -356,14 +356,6 @@
 
     "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
 
-    // Include -R in -ral and -rate
-                            // Plover consistently omits -R:
-    "SRAOERBL": "cerebral", // SRAOEBL
-    "TPAOURPBL": "funeral", // TPAOUPBL
-    "SKWRERPBL": "general", // SKWREPBL
-    "HREURBL": "liberal",   // HREUBL
-    "PHEURPBL": "mineral",  // PHEUPBL
-
     // -- Vowels ---------------------------------------------------------------
 
     // Don't alter vowel
@@ -1914,6 +1906,14 @@
     "KPOERB": "composure",
     "AOE/RAEURB": "erasure",
     "TP*EURB": "fissure", // use TP-RB (custom) for "finish"
+
+    // -RBL for -bral and -RPBL for -nral
+                            // Plover consistently omits -R:
+    "SRAOERBL": "cerebral", // SRAOEBL
+    "TPAOURPBL": "funeral", // TPAOUPBL
+    "SKWRERPBL": "general", // SKWREPBL
+    "HREURBL": "liberal",   // HREUBL
+    "PHEURPBL": "mineral",  // PHEUPBL
 
     // *RT for -ther
     // Precedents: H*EURT "hither", TH*EURT "thither"
