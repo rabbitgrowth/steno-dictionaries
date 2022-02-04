@@ -365,7 +365,7 @@
     "AFD/SAER": "adversary", // AFRD feels too emphatic ("adVER...")
     "AFD/SAEURL": "adversarial",
     "HRARPL": "alarm",
-    "ALT/TEUF": "alternative", // alternative to HR-FRPB (ltrn?)
+    "ALT/TEUF": "alternative", // alternative to HR-FRPB ("lrnf")
     "AEURGS": "arrogance", // use -Z for "airings"
     "AEURGT": "arrogant",  // cf. AEURPT "airport"
     "AFRT": "artist", // "arst"; use SRAERT (custom) for "avert"
