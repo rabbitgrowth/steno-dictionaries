@@ -369,10 +369,10 @@
     "AEURGS": "arrogance", // use -Z for "airings"
     "AEURGT": "arrogant",  // cf. AEURPT "airport"
     "AFRT": "artist", // "arst"; use SRAERT (custom) for "avert"
-    "TRAF": "attractive",  // use TR-FR for "transfer"
+    "TRAF": "attractive", // use TR-FR for "transfer"
     "A*UT/TEUBG": "authentic",
     "A*UT/TEUFT": "authenticity",
-    "AUBG": "automatic",   // overrides "awk" [1]
+    "AUBG": "automatic", // overrides "awk" [1]
     "PWHRAEUPBT": "blatant",
     "KA*T/TKRAL": "cathedral",
     "SKAOEL": "conceal", // cf. SKERT "concert", SKEPT "concept" (different stress though)
