@@ -425,6 +425,8 @@
     "PREFRT": "protester",
     "PURPT": "purport",
     "PUZ": "puzzle", // cf. PEUZ "pizza"; alternative to PUFL
+    "SPOBL": "responsible",  // alternative to SPOPBL
+    "SPOEBL": "responsibly", //                SPOEPBL
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "ROPLS": "romance",
     "ROPLT": "romantic", // also the first stroke in ROPLT/EUBG
