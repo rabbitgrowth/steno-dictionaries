@@ -228,10 +228,6 @@
     "WAPBD": "wander", // with WOPBD "wonder"; overrides "wand"
     "WAUPBD": "wand",
 
-    // Fingerspelling with dot (B-Y already work)
-    "A*FPLT": "{&A.}",
-    "STKPW*FPLT": "{&Z.}", // instead of SAO*EFPLT, like STKPW* and STKPW*P
-
     // -- Phonetic -------------------------------------------------------------
 
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES and ABG/SEU
@@ -4425,6 +4421,35 @@
 
     "AU/RO/RA": "aurora",
     "PHAPB/TEUS": "mantis", // instead of PHAPBT/EUS
+
+    // -- Fingerspelling -------------------------------------------------------
+
+    // Left-hand fingerspelling
+    // SK, SKW, and WR are the only unused contiguous shapes in the
+    // lower left bank:
+    //   S    -> S
+    //    K   -> K
+    //     W  -> W
+    //      R -> R
+    //   SK
+    //    KW  -> Q
+    //     WR
+    //   SKW
+    //    KWR -> Y
+    //   SKWR -> J
+    // These can be mapped to E, I, and U in a way that visually
+    // corresponds to E, EU, and U.
+    "SK*": "{>}{&e}",
+    "SKW*": "{>}{&i}",
+    "WR*": "{>}{&u}",
+    "SK*P": "{&E}",
+    "SKW*P": "{&I}",
+    "WR*P": "{&U}",
+
+    // Letter with dot
+    "A*FPLT": "{&A.}",
+    // ... B through Y already work ...
+    "STKPW*FPLT": "{&Z.}", // instead of SAO*EFPLT, like STKPW* and STKPW*P
 
     // -- Punctuation as shapes ------------------------------------------------
 
