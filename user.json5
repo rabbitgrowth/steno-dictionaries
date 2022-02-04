@@ -475,7 +475,7 @@
           "PUBLG": "public", // cf. RUBLG "republic"
           "PUB/HREUFT": "publicity",
 
-    "SKPAOPB": "and so on", // SKP + SO + OPB with AO for the doubled "o"
+    "SKPAOPB": "and so on",
     "SKP-PB": "and then",
     "SKP-PBT": "and then the",
     "TPWEFT": "at best", // tricky to hit; mostly for consistency with "at worst"
