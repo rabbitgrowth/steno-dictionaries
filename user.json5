@@ -4270,6 +4270,8 @@
     "TKUPLT": "does not",
     "TK-PLT": "did not",  // give up {&d-}
     "H-PLT": "had not",   // give up {&h-}
+    "SR-PLT": "have not", // give up {&v-}
+    "SHOPLT": "should not",
     "HR-PLT": "will not", // give up {&l-}
 
     // Use -PLT for "not" even when there's no -n't form
