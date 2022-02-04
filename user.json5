@@ -1949,6 +1949,10 @@
     "TPHEFBLT": "inevitability", // - -T = "inevitable"
     "SRUBLT": "vulnerability",   // - -T = "vulnerable"
 
+    // -BGT for -cut
+    "HAEURBGT": "haircut",
+    "SHORBGT": "shortcut",
+
     // -BGS for -case
     "PWRAOEFBGS": "briefcase",
     "SHOEBGS": "showcase",
