@@ -493,12 +493,9 @@
     "HREPL": "let me",
     "HREPLZ": "let me see",
     "HRAOFRT": "look after", // "loofter"; HRAFRT is "laughter"
-    "SPOEFT": "supposed to",
-    "SPOEFBT": "supposed to be",
     "TAEUR": "take care",
     "TAEUFR": "take care of",
     "TRUF": "true love", // use TRUFT for "trust"
-    "WHOFPLT": "when it comes to", // "whomst"
     "KWRAOEUZ": "you guys",
 
     "AOEFRP": "each other",
@@ -3560,8 +3557,6 @@
     "THEFPBD": "they have no idea",
 
     // Miscellaneous
-    "TKORG": "according to", // mashup of KORG "according" and TO "to"
-    "TKORGT": "according to the",
     "PWU": "about you", // use PWUT for "but"
     "TPHEUFT": "any of the", // use EUFT for {^ist}
     "SKHER": "ask her",
@@ -3570,7 +3565,6 @@
     "-FRBT": "ever be the",
     "TPE": "if he", // give up "fe", which is not a word
     "TPOEPBL": "if only",
-    "TPHORTD": "in order to", // TO is in TPHORD "in order", so use -T for "to"
     "TPHEUS": "in this",
     "TPHURPB": "in turn", // instead of "turn in"
     "T-D": "it had", // give up {^ed it}
@@ -5093,6 +5087,20 @@
     // but SEURP is the only one that matches my pronunciation.
     "SURP": "supper",
     "SEURPL": "simmer",
+
+    // Two consonants + AO for "... to"
+    "KRAO": "according to",
+    "KRAOT": "according to the",
+    "TPHRAO": "in order to", // misstroke for "into"
+    "TPHRAOB": "in order to be",
+    "TPHRAOBT": "in order to be the",
+    "SPAO": "supposed to",
+    "SPAOB": "supposed to be",
+    "SPAOBT": "supposed to be the",
+    "SPAOFB": "supposed to have been",
+    "SPAOFBT": "supposed to have been the",
+    "WHAO": "when it comes to", // give up "whoo"
+    "WHAOT": "when it comes to the",
 
     // Consonant + no vowel + -RB for -nish
     // cf. P-RB "punish"
