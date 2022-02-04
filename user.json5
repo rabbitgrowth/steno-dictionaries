@@ -12,16 +12,15 @@
     "PW-LT": "built", // give up "brake light"
     "PW-RL": "builder",
     "STK-PT": "despite",  // all the consonants evenly spread out
-    "TK-F": "detective",  // give up "def" (for programming?)
     "TK-FS": "difference",
     "TK-FT": "different", // use TK-FD for "defendant"
     "TK-FLT": "differently",
     "SR-PB": "event",
     "SR-FL": "eventful",
-    "KP-T": "exact",      // cf. TKRET  "direct"
-    "KP-L": "exactly",    // cf. TKREL  "directly"; use KP-PL ("xm" or "xpl") for "example"
-    "KP-LG": "exactly",   // cf. TKRELG "directly", ELG "exactly"
-    "KP-P": "experience", // give up "XP"
+    "KP-T": "exact",    // cf. TKRET  "direct"
+    "KP-L": "exactly",  // cf. TKREL  "directly"; use KP-PL ("xm" or "xpl") for "example"
+    "KP-LG": "exactly", // cf. TKRELG "directly", ELG "exactly"
+    "KP-P": "experience", // just fingerspell "XP"
     "KP-PB": "explain",       // use KP    for "examine"
     "KP-PBD": "explained",    // use KP-D  for "examined"
     "KP-PBG": "explaining",   // use KP-G  for "examining"
@@ -39,7 +38,6 @@
     "TKPW-P": "group",
     "H-P": "hypothesis", // just fingerspell "HP"
     "H-PZ": "hypotheses",
-    "OL": "only",
     "P-T": "point",   // use P-P for {^.^}
     "P-TS": "points", // use PREZ/-Z for "presidents"
     "P-RT": "pointer",
@@ -52,8 +50,8 @@
     "SR-BL": "valuable",
 
     "PR": "appear",     // misstroke for "from"
-    "PR-D": "appeared", // overrides "." with spaces on both sides
-    "TP*PL": ".",       // for programming?
+    "PR-D": "appeared", // overrides "." (with spaces on both sides - for programming?)
+    "TP*PL": ".",
     "SPR": "disappear", // use SAOUP for {super^}
 
     "ARD": "around",
@@ -61,12 +59,6 @@
 
     "KH-G": "change",
     "SKH-G": "exchange",
-
-    // Normally -DZ is used for -cide (S-DZ "suicide", H-DZ "homicide")
-    // but -D is easier for inflections for a common verb like "decide".
-    "TK-D": "decide",   // give up {^ded}
-    "TK-DZ": "decides", // by default "decide"
-    "TK-TD": "decided",
 
     "-FD": "find",
     "T-FD": "find it",
@@ -118,7 +110,7 @@
     "SHR-BG": "is like",
     "SHR-BGT": "is like the",
     "SHR-LG": "is likely",
-    "HRAOLG": "likelihood",
+    "HR-LGD": "likelihood",
     /*1*/ "HR*LG": "{^ological}",
 
     "-RT": "right", // - physically stroked with the right hand
@@ -138,19 +130,16 @@
     "KPEBL": "accessible",      // with KPES "access"
     "KPEBLT": "accessibility",
     "A/KUFPL": "accustom",      // with A/KUFPLD "accustomed"
-    "TKAPT": "adapt",           // with TKOPT "adopt"; by default just "dapt" -
-                                //   meant to be used together with {a^}?
+    "TKPHRAL": "admiral",       // with TKPHAOEUR "admire"
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
-    "TPHOEU": "annoy",          // with TPHOEUG "annoying", TPHOEUD "annoyed"
-    "TPHOEUPBS": "annoyance",   //   use TPHOEUPB/AES for "no one's"
-    "PW-D": "beside",           // with PW-DZ "besides"; give up "pwd"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
     "KPHREGS": "completion",
     "KWEPBL": "consequential",  // with KWEPBS "consequence"
     "KRAOEFT": "creativity",    // with KRAOEF "creative"
     "KRED/AOULT": "credulity",  // with EUPB/KRED/AOULT "incredulity"
+    "TKEUFLT": "difficulty",    // with TKEUFL "difficult"
     "STREUBGS": "distribution", // with STREUBT "distribute"
                                 //   use REUBGS for "restriction":
                                 //   REUBGT  "restrict"   -> REUBGS   "restriction"
@@ -165,25 +154,20 @@
     "THUFBG": "enthusiastic",
     "KPES/EUF": "excessive",    // with KPES/EUFL "excessively"
     "KP*EF": "excessive",       // with KP*ES "excess"; use KPEF for "competitive",
-                                //   which is consistent with KPAOET "compete"
-                                //                            KPEPBT "competent"
-                                //                            KPEGS  "competition"
+                                //   cf. KPAOET "compete"
+                                //       KPEPBT "competent"
+                                //       KPEGS  "competition"
     "KP*EFL": "excessively",
     "KP*EFPBS": "excessiveness",
-    "KPEPL": "exemplify",       // with KP-PL "example"
     "KP-PGS": "expectation",    // with KP-PT "expect"
-    "KPR*ES": "express",        // with KPR*EGS "expression"
-    "KPR*EFG": "expressing",
     "STEPBD": "extend",         // with STEPBGS "extension"
     "STEPBD/-D": "extended",
     "KPROERD": "extraordinary", // with OERD "ordinary"
     "TPHREBLT": "flexibility",  // with TPHREBL "flexible"
     "TPREBGS": "for example",   // with TPREUPBS "for instance"; use -Z for "frequents"
-    "TKPWAEUFD": "gazed",       // with TKPWAEUFG "gazing"
     "H-B": "had been",          // with SR-B "have been"; misstroke for {^-^}
-    "HAPBT": "hasn't",          // with HAPBLT "has not"
-                                //   HAPBT "hasn't" + -L as bridge = "has not"
     "PHAGS": "imagination",     // with PHAPBLG "imagine"; use -Z for "magazines"
+    "PAEPBS": "independence",   // with PAEPBT "independent"; use -Z for "panes"
     "TPH-FBGT": "infect",       // with TPH-FRPL "inform", TPH-FPBT "infinite"
     "TPEBGT": "infect",         // with TPEBGS "infection", TPERBS "infectious"
                                 //   use EFBG for "effect"
@@ -194,11 +178,8 @@
     "EUR/SEUFT/PWHREU": "irresistibly",
                                 // with EUR/SEUFT/-BL "irresistible"
     "PH*EUBG": "mechanic",      // with PH*EUBGS "mechanics"; give up "MIC"
-    "PHOEUL": "mellow",         // with KWROEUL "yellow"
-                                //   but TPOEUL and PWOEUL are "foil" and "boil"
-                                //   instead of "fellow" and "bellow"
-    "PHAOEUFB": "might have been",
-                                // with PHAEUFB "may have been"
+    "PHEL/TKROEUPL": "melodrama",  // with TKROEUPL "drama"
+    "PHAOEUFB": "might have been", // with PHAEUFB "may have been"
     "TPHAOERB": "nearby",       // with TPHAOER "near"; use TPHEURB for "niche"
     "KRURPBS": "occurrence",    // with KRUR "occur"
     "TPEUFR": "officer",        // with TPEURBL "official"
@@ -209,22 +190,21 @@
     "PERP/TWAL": "perpetual",   // with PERP/TWAEUT "perpetuate" ("wrong" stress)
                                 //      PERP/TRAEUT "perpetrate" ("right" stress)
     "PERP/TWAEL": "perpetually",
-    "PROEUFD": "processed",     // with PROEUS "process", PROEUFG "processing"
     "RAELT": "reality",         // with RAEL "real"; use RELT for "relate"
     "RAELTS": "realities",
     "R*URPB": "runner",         // with R*UPBG "running"
     "STEUFBG": "scientific",    // with STEUFT "scientist"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
     "SEURPB": "sinner",         // with TKEURPB "dinner", WEURPB "winner"
-    "SOPL": "so many",          // with SO "so", SOFP "so much"; use SPH for "some"
     "SPH*UFPS": "so much as",   // with SHROPBGS  "as long as"
                                 //      SHRO*PBGS "so long as"
                                 //      SPHUFPS   "as much as"
     "STRUFPL": "structural",    // with STRUFP "structure"
-    "SPWOLG": "symbolic",       // with SPWOL "symbol"
-                                //   cf. KHOL "alcohol", KHOLG "alcoholic"
+    "SPWOLG": "symbolic",       // with KHOL  "alcohol"
+                                //      KHOLG "alcoholic"
+                                //      SPWOL "symbol"
                                 //   SPWOLG could also be "ontology" with SPW- as ont-,
-                                //   but "symbolic" is much more common
+                                //   but "symbolic" wins because it's much more common
     "THOR": "thorough",         // with THORL "thoroughly"; use THORZ for "authorize"
     "TREUGS": "transmission",   // with TREUT "transmit"; use TRAPBGS for "transition"
     "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
@@ -232,6 +212,9 @@
     "SAEUGS": "{^isation}",     // with SA*EUGS {^ization}
     "O*UR": "{^our}",           // with O*R {^or}
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
+
+    "TPHOEU": "annoy",        // with TPHOEUG "annoying", TPHOEUD "annoyed"
+    "TPHOEUPBS": "annoyance", // give up "no one's"
 
     "PWROE": "borrow",     // with SROE "sorrow"; use PWRO for "borough"
     "PWROEG": "borrowing", // much nicer than PWO*ERPBG; overrides "brogue"
@@ -244,23 +227,8 @@
     //                   PWROER  "brother"  -- PHOER "mother"
     //                   PWRO*ER "borrower"    TPAER "father"
 
-    "PAEPBS": "independence", // - with PAEPBT "independent"
-                              // - use -Z for "panes"
-                              // - frees up P*EPBS for "pence"
-    "P*EPBS": "pence",
-
-    "PHEURL": "miracle", // with ARL "article", SEURL "circle"; overrides "Merrill"
-    "PH*ERL": "Merrill", // PHERL   "Meryl"
-                         // PH*ERL  "Merrill" (custom)
-                         // PHEURL  "miracle" (custom)
-                         // PH*EURL "Miller"
-
     "WAPBD": "wander", // with WOPBD "wonder"; overrides "wand"
     "WAUPBD": "wand",
-
-    // Words with other words in them
-    "PHEL/TKROEUPL": "melodrama",
-    "SEUFRP/TOPB": "simpleton",
 
     // Fingerspelling with dot (B-Y already work)
     "A*FPLT": "{&A.}",
@@ -274,47 +242,38 @@
     "ARPB/KEU": "anarchy",
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEUFPL": "anarchism",
-    "APBGS/TEU": "angsty", // or use APBGS/KWREU ("angst" + {^y})
+    "APBGS/TEU": "angsty",
     "APLT/STPAOER": "atmosphere",
     "AUT/TPHOEPL": "autonomy", // cf. AUT/KRAES "autocracy"
     "AUT/TPHOPLS": "autonomous",
     "PWHRAOEU": "belie",
     "PWHRAOEUD": "belied", // otherwise "belieed"
-    "PWHREUPBG/WAL": "bilingual",
-    "PWHREUPBLG": "bilingual", // PWHREUPBL + -G; "blingle"
     "PWEUS/TROE": "bistro", // PWAOES/TROE already works
     "PWOFPL": "bosom",
     "PWUFPL": "bosom",
     "PWRAOD": "brood", // use PWROD for "broad"
-    "PWRAOTD": "brooded",
     "KHRERPBD": "calendar",
     "KAUFT": "caste",
-    "KHEUBG/EPB": "chicken",
     "KHRAPBD/STEUPB": "clandestine",
-    "KHRAPBD/STEUPBL": "clandestinely",
     "KHRAEURPBT": "clarinet",
-    "KAUPB/TKAOUFS": "conducive",
     "KOFPB/TKAPBT": "confidant",
     "KOFPB/TKA*PBT": "confidante",
     "KAUPB/STAPBS/KWREU": "constancy", // or use STAPBT/SEU ("constant" + {^cy})
+    "TKHREURBT": "deliberate", // include -R
+    "TKHREURBLT": "deliberately",
     "TKEUS/PEUBG/-BL": "despicable", // with EU instead of the orthographic E
     "TKEUS/PEUBG/PWHREU": "despicably",
     "TKROEUD": "droid", // use STROEUD for "destroyed"
-    "AOEPLT": "emit",
     "EFPBS": "essence", // add * for "Evans", which works because *EFPB is "Evan"
     "KWRAOUBG/HREUP/TUS": "eucalyptus",
-    "KWRAOUBG/HREUPT/US": "eucalyptus", // AOUBG/HREUPT/US with KWR in front
+    "KWRAOUBG/HREUPT/US": "eucalyptus", // cf. AOUBG/HREUPT/US
     "KWRAOUBG/HREUPTS": "eucalyptus",
     "TPAULS": "false", // use -Z for "falls"; frees up TPALS for "phallus" [1]
     "TPEPBGS": "fencing", // misstroke for "infection"
     "TPRAOEPBLS": "freelance",
-    "TPREUFL": "frivol",
-    "TPREUFLT": "frivolity",
-    "TPREU/SROLT": "frivolity",
-    "TPREUFLS": "frivolous", // TPREUF/HROUS already works
     "TKPWAPBLT": "gallant",
     "TKPWAL/APBT": "gallant",
-    "TKPWRAEUFT": "gravity", // consistent with TKPWRAEUF "grave"; TKPWRAFT is "graft"
+    "TKPWRAEUFT": "gravity", // TKPWRAFT is "graft"
     "HA*RT": "hearth", // give up "Hart"
     "HAOURBS": "hubris",
     "EUFRPB": "inch", // use TPRAEUPB for {^infra}
@@ -335,25 +294,22 @@
     "TPHAOEUPBL": "nylon",
     "OB/HREUF/KWROUS": "oblivious",
     "OB/HREUF/KWROULS": "obliviously",
+    "ORP/TEUF": "operative",
     "ORB": "orb", // misstroke for "or"
     "ORPB/TAEUGS": "orientation",
     "PAPL/TAEUT": "palpitate",
+    "PEPBS": "pence", // use -Z for "pens"
     "PHRAFD": "placid",
     "PHRAFLD": "placidly",
-    "PROP/TKPWAPB/TKEUFT": "propagandist", // alternative to PROP/TKPWAPBD/EUFT
     "PROF/SEU": "prophecy", // use PROF/SAOEU for "prophesy"
     "PUR": "purr", // overrides "purchaser" [2]
     "PEURPLD": "pyramid",
-    "STHRAOEUT": "satellite",
     "SKAPBLD": "scandal",
-    "SERBG/TREU": "secretary",
     "SRAOEPB": "serene", // use SRAOEPBT for "convenient"
     "SRAOES": "series",
     "SRAOEZ": "series",
     "S*EUBGT": "sixth", // alternative British pronunciation (/sɪkθ/)
-    "SOEPB/AR": "sonar",
     "SOPBT": "sonnet", // overrides "sonata" [3]
-    "STRAOEUTD": "strident",
     "TAOEPL": "teem",       // use TAEPL for "team"
     "TAOEPL/-G": "teeming", // by default "teaming"
     "TAOEPLD": "teemed",
@@ -364,16 +320,12 @@
     "TOEPL": "tome", // use TORPL or T-RPL (custom) for "tomorrow"
     "TRAOEFPB": "treason",
     "TRAOEFPBS": "treasonous",
-    "TROEL": "troll", // use PROL for "patrol"
     "SRAPBL/TAOEUPB": "valentine",
-    "SRAO*EUPBL": "violin", // - * = "vinyl"
     "SRURLG": "vulgar",
     "WEFBGT": "waistcoat",
     "WES/KEUT": "waistcoat",
     "WAOERPBS": "weariness",
     "WEURLD/-PBS": "wilderness",
-    "WAOPBD": "wooden",
-    "WAOPB": "wooden", // shortcut to avoid -D
     "KWROERGT": "yogurt",
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELZ for "sells"
@@ -381,12 +333,9 @@
     /*2*/ "PR-FRP": "purchaser", // from PR-FP "purchase"
     /*3*/ "STPHAT/SKWRA": "sonata", // or just use SO/TPHA/TA
 
-    "APL": "apple", // overrides "am"
-    "-PL": "am",    // cf. EU/-PL "I am"; use TP-PL for {.}
-    "PAOEUPB/APL": "pineapple",
-
     // Phonetic alternatives to briefs
     "SER/TEUFBGT": "certificate", // to SER
+    "STEUFBGT": "certificate",
     "KAUPB/TKURBGT": "conductor", // to KURBGT
     "KUFPB": "cousin",            // to KUZ
     "TKAOEUPBLG/EFT": "digest",   // to SKWR*EFT
@@ -396,7 +345,6 @@
     "KPEBG/TEUF": "executive",    // to SKAOUF
     "TPABG/TEU": "faculty",       // to TPA*BG
     "TPABG/TEUZ": "faculties",
-    "TPORT/AOUPB": "fortune",     // to TP-RPB and TPAURPB
     "EUPB/SEPBT": "innocent",     // to TPH-PBT; use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",        // to TR
     "TPHAEURB": "neighbor",       // to TPHAEUB
@@ -411,70 +359,20 @@
 
     "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
 
-    // Allow not omitting -R in -ral and -rate
-                                  // Plover consistently omits -R:
-    "SRAOERBL": "cerebral",       // SRAOEBL
-    "TKHREURBT": "deliberate",    // TKHREUBT
-    "TKHREURBLT": "deliberately",
-    "TPAOURPBL": "funeral",       // TPAOUPBL
-    "SKWRERPBL": "general",       // SKWREPBL (use SKWHRERPBL for "generally")
-    "HREURBL": "liberal",         // HREUBL
-    "PHEURPBL": "mineral",        // PHEUPBL
-
-    // -- Vowels ---------------------------------------------------------------
-
-    // Don't alter vowel
-    "AFRT": "artist",         // use SRAERT (custom) for "avert"
-    "TKEUFLT": "difficulty",  // TKEUFL "difficult" + -T
-    "PHERPL": "memory",
-    "PHERPL/-BL": "memorable",
-    "PHOEFGS": "motivation",
-    "PARPLT": "parliament",   // use ARPLT for "apartment"
-    "POERT": "poetry",
-    "THAOER": "theory",
-    "THAOEFRT": "theorist",
-    "THAOERL": "theoretical", // cf. the standard THOEURL
-
-    // Use simpler vowel
-    // Precedents: TREU "try", THRE "three"
-    "TKEP": "deep", // use TKEPGS for "deposition"
-    "TPRE": "free", // "land of the fre and the home of the brav (PWRAF)"
-    "TKPWRET": "greet", // misstroke for "get"
-    "HUPBLG": "huge",
-    "KEP": "keep",
-    "SWER": "swear",
-    "TRE": "tree",
-    "WEBG": "week", // use WEB/-G for "webbing"
-
-    "KPUT": "compute",
-    "KPUR": "computer",
-    "KPURT": "computer",
-
-    "TKPWREPB": "green", // "our blu (PWHRU) and gren planet"
-    "TKPWREPB/HOUS": "greenhouse",
-
-    "SHREP": "sleep",
-    "SHRAEP": "asleep",
-
-    "STRET": "street",
-    "STR*ET": "{*-|}Street",
-    "WAUL/STRET": "Wall Street",
-
-    // -- Sound squeezing ------------------------------------------------------
+    // -- Approximately phonetic -----------------------------------------------
 
     "A/KAOUFBG": "acoustic",
-    "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "TKPHEUGS": "admission",
-    "AFD/SAER": "adversary", // AFRD feels too emphatic ("adVER...")
-    "AFD/SAERL": "adversarial",
+    "AFD/SAER": "adversary", // AFRD would violate inversion rule
+    "AFD/SAEURL": "adversarial",
     "HRARPL": "alarm",
-    "ALT/TEUF": "alternative", // alternative to HR-FRPB (ltrn?)
+    "ALT/TEUF": "alternative", // alternative to HR-FRPB ("lrnf")
     "AEURGS": "arrogance", // use -Z for "airings"
-    "AEURGT": "arrogant",  // cf. AEURPT "airport"
-    "TRAF": "attractive",  // use TR-FR for "transfer"
+    "AEURGT": "arrogant", // cf. AEURPT "airport"
+    "TRAF": "attractive", // use TR-FR for "transfer"
     "A*UT/TEUBG": "authentic",
     "A*UT/TEUFT": "authenticity",
-    "AUBG": "automatic",   // overrides "awk" [1]
+    "AUBG": "automatic", // overrides "awk" [1]
     "PWHRAEUPBT": "blatant",
     "KA*T/TKRAL": "cathedral",
     "SKAOEL": "conceal", // cf. SKERT "concert", SKEPT "concept" (different stress though)
@@ -486,6 +384,7 @@
     "TKRAPB": "dragon",
     "TKAOUBS": "dubious",
     "AOELT": "elite",
+    "AOEPLT": "emit",
     "TPHORPLT": "enormity", // misstroke for "format"
     "SKHAOU": "eschew",
     "SKHAOUL": "eschewal",
@@ -494,7 +393,7 @@
     "KPELS": "excellence", // use -Z for "compels"
     "KPELT": "excellent",
     "TPAOPBLG": "footage", // cf. TPHOPBLG "knowledge"
-    "TPREFT": "forest", // would be TPOFRT (forst) if "foster" (fostr) wasn't a word
+    "TPREFT": "forest", // TPOFRT ("forst") is taken by "foster" ("fostr")
     "TKPWARPB": "garden",
     "TKPWREURPB": "grandchildren", // or just use TKPWR-PB
     "HAOUR/ST-BG": "heuristic", // cf. ST-BG {^istic}
@@ -505,32 +404,23 @@
     "HRAOUS/REU": "illusory",
     "SHU": "issue",
     "SHUD": "issued", // use SHO for "should"
-    "HREPB": "lesson", // - not to be confused with HREFPB "eleven"
-                       // - "lesson" gets the simpler stroke because
-                       //   it's more common (35048 vs 12791 on COCA)
-                       // - "len lernd" ("lesson learned")
-                       // - give up "len" (for programming?)
+    "HREPB": "lesson", // not to be confused with HREFPB "eleven"
     "HREPBZ": "lessons", // use -S for "lens"
-    "HRAOEUFPL": "lifetime", // "lifem"; TPHRAOEUPL "flime" doesn't feel right
+    "HRAOEUFPL": "lifetime", // "lifem"
     "PHRAUD": "maraud",
-    "PHELG": "medical", // "mecal"
+    "PHEL": "medical", // add * for "Mel"
     "PHEUL/SHA": "militia",
     "PHOFT": "modest", // use PHOEFT for "most"
+    "PHOEFGS": "motivation",
     "TPHOUDZ": "nowadays",
-    "OP/TEUF": "operative", // OPT/EUF with a more natural break point
     "OFRPL": "organism", // "orsm"
     "PRABL": "parabola",
-    "PAEURT/KWROFPL": "patriotism", // - "patriosm"; cf. PAEURT/KWROT "patriot"
-                                    // - or use the simpler but less phonetic
-                                    //   PAEUT/ROT    "patriot"
-                                    //   PAEURT/EUFPL "patriotism"
     "PAOEURPB": "pioneer",
     "POERBL": "potential",
     "PHROERBL": "potentially",
-    "PREFT": "protest", // give up "previous to";
-                        // -T is too strongly associated with "the" anyway
+    "PREFT": "protest", // give up "previous to"
     "PREFRT": "protester",
-    "PURPT": "purport", // cf. AEURPT "airport"
+    "PURPT": "purport",
     "PUZ": "puzzle", // cf. PEUZ "pizza"; alternative to PUFL
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "ROPLS": "romance",
@@ -538,18 +428,17 @@
     "REURB": "rubbish",
     "SKREUF": "sacrifice", // "scriff"; no -S to make inflections easier
     "SKREUFL": "sacrificial",
+    "STHRAOEUT": "satellite",
     "STAOEUT": "satiety",
     "STPOER": "satisfactory", // "sfory"
     "STPREU": "satisfactory", // "sfry"
     "SHORPBLG": "shortage",
-    "SOERLD": "soldier", // - SHRERPBLG is weird ("slerj"? probably meant
-                         //   to be "sljer", like TPHOEUPBLG "enjoy"?)
-                         // - not to be confused with SORLD "solder"
+    "SOERPBLG": "soldier",
     "SPOLT": "spotlight", // cf. SP-LT
     "SPHRAOEUT": "spotlight",
     "STRABG": "strategic", // cf. STRAPBLG "strategy"
     "STAOUPT": "stupidity", // misstroke for STAOUPBT "student"; use STAUPB
-    "STPEURBL": "superficial", // STPEUFL feels more like "sfifal"
+    "STPEURBL": "superficial",
     "SWAEUPBLS": "surveillance",
     "SWART": "sweetheart",
     "STOPL": "symptom",
@@ -571,8 +460,7 @@
     "TAOERT": "deteriorate",
     "TAOERGS": "deterioration",
     "SPWAOUF": "intuitive",   // cf. TWAOUF
-    "SPWAOUGS": "intuition",  // use STUGS for "substitution",
-                              // which is consistent with STUT "substitute"
+    "SPWAOUGS": "intuition",  // use STUGS for "substitution", cf. STUT "substitute"
     "OEFRB": "observe",       // OEB has a slight problem: OEBG is "oak"
     "OEFRBGS": "observation", // cf. KWEFRB "conserve", KWEFRBGS "conservation"
     "PUBGS": "publication",   // "pub-tion"; use -Z for "pucks"
@@ -587,7 +475,7 @@
           "PUBLG": "public", // cf. RUBLG "republic"
           "PUB/HREUFT": "publicity",
 
-    "SKPAOPB": "and so on", // SKP + SO + OPB with AO for the doubled "o"
+    "SKPAOPB": "and so on",
     "SKP-PB": "and then",
     "SKP-PBT": "and then the",
     "TPWEFT": "at best", // tricky to hit; mostly for consistency with "at worst"
@@ -605,12 +493,9 @@
     "HREPL": "let me",
     "HREPLZ": "let me see",
     "HRAOFRT": "look after", // "loofter"; HRAFRT is "laughter"
-    "SPOEFT": "supposed to",
-    "SPOEFBT": "supposed to be",
     "TAEUR": "take care",
     "TAEUFR": "take care of",
     "TRUF": "true love", // use TRUFT for "trust"
-    "WHOFPLT": "when it comes to", // "whomst"
     "KWRAOEUZ": "you guys",
 
     "AOEFRP": "each other",
@@ -940,7 +825,7 @@
     "SAEFG": "assessing",    // use STPAOEUG for "satisfying"
     "SAEFPLT": "assessment", // or just use SEFPLT
     "SAET": "asset",
-    "SAEUFT": "assist",       // use SAEFT for "safety" [1]
+    "SAEUFT": "assist", // use SAEFT for "safety" [1]
     "SAEUFPBS": "assistance", // or just use SEUFPBS
     "SAEUFPBT": "assistant",  // or just use SEUFPBT
     "SHAUR": "assure",
@@ -949,11 +834,15 @@
     "TAEPBD": "attend",
     "TAEPBTD": "attended",
     "SRAEPBG": "avenge",
-    "SRAERT": "avert",
+    "SRAERT": "avert", // frees up AFRT ("arst") for "artist" [2]
     "SRAERS": "averse", // use -Z for "varies"
     "SRAERGS": "aversion",
     /*1*/ "SAEF": "safe", // use STPAOEU for "satisfy"
           "SAEFL": "safely",
+    /*2*/ "AFRT": "artist",
+
+    "SHRAEP": "asleep",
+    "SHREP": "sleep", // but prefer SHRAOEP
 
     // ... or use S when folding in A leads to conflict or is confusing
     "SPWRAOD": "abroad",
@@ -1937,7 +1826,7 @@
     "TEFRP/TUR": "temperature",
     /*1*/ "PAS/TAOUR": "Pasteur",
 
-    "TUR": "{^ture}", // or use TAOUR, which is consistent with AOUR {^ure}
+    "TUR": "{^ture}", // or use TAOUR, cf. AOUR {^ure}
 
     // -FPL and -FT for -ism and -ist
     "KPHAOUFPL": "communism",
@@ -1969,6 +1858,14 @@
     "KPOERB": "composure",
     "AOE/RAEURB": "erasure",
     "TP*EURB": "fissure", // use TP-RB (custom) for "finish"
+
+    // -RBL for -bral and -RPBL for -nral
+                            // Plover consistently omits -R:
+    "SRAOERBL": "cerebral", // SRAOEBL
+    "TPAOURPBL": "funeral", // TPAOUPBL
+    "SKWRERPBL": "general", // SKWREPBL
+    "HREURBL": "liberal",   // HREUBL
+    "PHEURPBL": "mineral",  // PHEUPBL
 
     // *RT for -ther
     // Precedents: H*EURT "hither", TH*EURT "thither"
@@ -2343,6 +2240,7 @@
     "TPEUL/-PLT": "filament", // or just use TPEUPLT
     "TPEURPL/-PLT": "firmament",
     "ORPB/-PLT": "ornament",
+    "PARL/-PLT": "parliament",
     "PRE/TKEUBG/-PLT": "predicament",
     "REPBLG/-PLT": "regiment",
     "SED/-PLT": "sediment",
@@ -3659,8 +3557,6 @@
     "THEFPBD": "they have no idea",
 
     // Miscellaneous
-    "TKORG": "according to", // mashup of KORG "according" and TO "to"
-    "TKORGT": "according to the",
     "PWU": "about you", // use PWUT for "but"
     "TPHEUFT": "any of the", // use EUFT for {^ist}
     "SKHER": "ask her",
@@ -3669,7 +3565,6 @@
     "-FRBT": "ever be the",
     "TPE": "if he", // give up "fe", which is not a word
     "TPOEPBL": "if only",
-    "TPHORTD": "in order to", // TO is in TPHORD "in order", so use -T for "to"
     "TPHEUS": "in this",
     "TPHURPB": "in turn", // instead of "turn in"
     "T-D": "it had", // give up {^ed it}
@@ -4008,6 +3903,7 @@
     "PHOLDZ": "models",      // use PHOELDZ for "molds"
     "PASZ": "passes",        // misstroke for "pass"
     "PHREUFG": "policing",
+    "PROEUFD": "processed",  // use PROEFD for "provide"
     "RAEUPLD": "remained",   // overrides "Raymond" [1]
     "SAOEGZ": "seizing",
     "SOERBD": "sobered",     // use SOERBTD for "associated"
@@ -4356,7 +4252,7 @@
     "R-PLT": "are not",   // give up {&r-}
     "K-PLT": "cannot",    // give up {&k-}
     "TKOPLT": "do not",   // use TKOPL/TPHAPBT for "dominant",
-                          // which is consistent with TKOPL/TPHAEUT "dominate"
+                          // cf. TKOPL/TPHAEUT "dominate"
                           // (why brief one and not the other?)
     "TKUPLT": "does not",
     "TK-PLT": "did not",  // give up {&d-}
@@ -4454,6 +4350,11 @@
     /*1*/ "AO*EF": "Eve", // use A*EF for "eave":
                           // AOEF  "eve"  AEF  "avenue"
                           // AO*EF "Eve"  A*EF "eave"
+
+    "TPREUFL": "frivol",
+    "TPREUFLS": "frivolous",
+    "TPREUFLT": "frivolity",
+    "TPREU/SROLT": "frivolity",
 
     "PAOULS/TPHEUPLT": "pusillanimity",
     "PAOUS/HRAPB/PHOUS": "pusillanimous",
@@ -4655,6 +4556,10 @@
 
     // -- Word families --------------------------------------------------------
 
+    "TKOPT": "adopt",  // already works
+    "TKAPT": "adapt",  // by default just "dapt" - meant to be used with {a^}?
+    "TKAEPT": "adept", // A easily folded in; TKEPT is "department"
+
     "TKPWREF": "aggressive", // use TKPWRAO*EF for "grieve" (TKPWRAOEF "grief" + *)
     "TKPWREGS": "aggression",
     "TKPWREFR": "aggressor",
@@ -4844,12 +4749,14 @@
     "SREFLT": "irrelevant",
     "SREFLS": "irrelevance", // use -Z for "vessels"
 
+    "SEUFRP": "simp",
     "SEUFRPL": "simple", // already works
     "SPHREU": "simply",  // already works
     "SPHREUF": "simplify",
     "SPHREUFT": "simplicity", // already works
     "SPHREUFBG": "simplistic",
     "SPHREUFBGS": "simplification",
+    "SEUFRPL/TOPB": "simpleton",
 
     "SUFBT": "subjective", // SUBT "subject" + -F
     "OFBT": "objective",   // OBT  "object"  + -F
@@ -5137,9 +5044,9 @@
     "AO/AO/AO": "ooooh",
 
     // TPH-PB "under" never made sense to me. Why two Ns? Plus TPH-PBT
-    // is "innocent" (which is consistent with TPH-PBS "innocence"),
-    // making it impossible to one-stroke "under the".
-    "TPH-R": "under", // use TPHOR for "nor", which is consistent with OR "or";
+    // is "innocent" (cf. TPH-PBS "innocence"), making it impossible to
+    // one-stroke "under the".
+    "TPH-R": "under", // use TPHOR for "nor", cf. OR "or";
                       // frees up TPH-PB for "inn" [1]
     "TPH-RT": "under the",
     "TPH-RTS": "under its",
@@ -5181,12 +5088,33 @@
     "SURP": "supper",
     "SEURPL": "simmer",
 
+    // Two consonants + AO for "... to"
+    "KRAO": "according to",
+    "KRAOT": "according to the",
+    "TPHRAO": "in order to", // misstroke for "into"
+    "TPHRAOB": "in order to be",
+    "TPHRAOBT": "in order to be the",
+    "SPAO": "supposed to",
+    "SPAOB": "supposed to be",
+    "SPAOBT": "supposed to be the",
+    "SPAOFB": "supposed to have been",
+    "SPAOFBT": "supposed to have been the",
+    "WHAO": "when it comes to", // give up "whoo"
+    "WHAOT": "when it comes to the",
+
     // Consonant + no vowel + -RB for -nish
     // cf. P-RB "punish"
     "ST-RB": "astonish",
     "PW-RB": "banish",
     "TP-RB": "finish",
     "SR-RB": "vanish",
+
+    // Normally -cide is -DZ (S-DZ "suicide", H-DZ "homicide"),
+    // but use -D for very common words often suffixed with -s.
+    "PW-D": "beside",   // give up "pwd"
+    "PW-DZ": "besides", // already works
+    "TK-D": "decide",   // give up {^ded}
+    "TK-DZ": "decides", // by default "decide"
 
     // Swap base words to simplify inflections
     // Consider these standard strokes:
