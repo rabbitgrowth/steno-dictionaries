@@ -2,8 +2,6 @@
 
     // -- Skeletal briefs ------------------------------------------------------
 
-    "TU": "actual",
-    "TUL": "actually",
     "PW-RT": "better", // PWERT is "Bert" and PW*ERT is "berth"
     "PW-RPB": "better than",
     "PW-RD": "birthday",
@@ -4568,6 +4566,9 @@
     "W-PT": "went", // drop vowel like TKPW "go"; WEPT is "wept"
 
     // -- Word families --------------------------------------------------------
+
+    "TUL": "actual",
+    "TAOUL": "actually",
 
     "TKOPT": "adopt",  // already works
     "TKAPT": "adapt",  // by default just "dapt" - meant to be used with {a^}?
