@@ -154,9 +154,9 @@
     "THUFBG": "enthusiastic",
     "KPES/EUF": "excessive",    // with KPES/EUFL "excessively"
     "KP*EF": "excessive",       // with KP*ES "excess"; use KPEF for "competitive",
-                                //   which is consistent with KPAOET "compete"
-                                //                            KPEPBT "competent"
-                                //                            KPEGS  "competition"
+                                //   cf. KPAOET "compete"
+                                //       KPEPBT "competent"
+                                //       KPEGS  "competition"
     "KP*EFL": "excessively",
     "KP*EFPBS": "excessiveness",
     "KP-PGS": "expectation",    // with KP-PT "expect"
@@ -460,8 +460,7 @@
     "TAOERT": "deteriorate",
     "TAOERGS": "deterioration",
     "SPWAOUF": "intuitive",   // cf. TWAOUF
-    "SPWAOUGS": "intuition",  // use STUGS for "substitution",
-                              // which is consistent with STUT "substitute"
+    "SPWAOUGS": "intuition",  // use STUGS for "substitution", cf. STUT "substitute"
     "OEFRB": "observe",       // OEB has a slight problem: OEBG is "oak"
     "OEFRBGS": "observation", // cf. KWEFRB "conserve", KWEFRBGS "conservation"
     "PUBGS": "publication",   // "pub-tion"; use -Z for "pucks"
@@ -1830,7 +1829,7 @@
     "TEFRP/TUR": "temperature",
     /*1*/ "PAS/TAOUR": "Pasteur",
 
-    "TUR": "{^ture}", // or use TAOUR, which is consistent with AOUR {^ure}
+    "TUR": "{^ture}", // or use TAOUR, cf. AOUR {^ure}
 
     // -FPL and -FT for -ism and -ist
     "KPHAOUFPL": "communism",
@@ -4259,7 +4258,7 @@
     "R-PLT": "are not",   // give up {&r-}
     "K-PLT": "cannot",    // give up {&k-}
     "TKOPLT": "do not",   // use TKOPL/TPHAPBT for "dominant",
-                          // which is consistent with TKOPL/TPHAEUT "dominate"
+                          // cf. TKOPL/TPHAEUT "dominate"
                           // (why brief one and not the other?)
     "TKUPLT": "does not",
     "TK-PLT": "did not",  // give up {&d-}
@@ -5051,9 +5050,9 @@
     "AO/AO/AO": "ooooh",
 
     // TPH-PB "under" never made sense to me. Why two Ns? Plus TPH-PBT
-    // is "innocent" (which is consistent with TPH-PBS "innocence"),
-    // making it impossible to one-stroke "under the".
-    "TPH-R": "under", // use TPHOR for "nor", which is consistent with OR "or";
+    // is "innocent" (cf. TPH-PBS "innocence"), making it impossible to
+    // one-stroke "under the".
+    "TPH-R": "under", // use TPHOR for "nor", cf. OR "or";
                       // frees up TPH-PB for "inn" [1]
     "TPH-RT": "under the",
     "TPH-RTS": "under its",
