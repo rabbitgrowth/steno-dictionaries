@@ -3487,6 +3487,8 @@
     "AUBT": "all about the",
     "PWREUB": "bring about",
     "PWREUBT": "bring about the",
+    "PWRAUB": "brought about",
+    "PWRAUBT": "brought about the",
     "KAEURB": "care about",
     "KAEURBT": "care about the",
     "HOUB": "how about",      // already works
@@ -3497,6 +3499,8 @@
     "TAUBT": "talk about the",
     "THEUB": "think about",
     "THEUBT": "think about the", // by default "think about"
+    "THAUB": "thought about",
+    "THAUBT": "thought about the",
     "TOUB": "to you about",
     "TOUBT": "to you about the",
     "WHAB": "what about",
