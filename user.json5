@@ -368,7 +368,6 @@
     "ALT/TEUF": "alternative", // alternative to HR-FRPB ("lrnf")
     "AEURGS": "arrogance", // use -Z for "airings"
     "AEURGT": "arrogant",  // cf. AEURPT "airport"
-    "AFRT": "artist", // "arst"; use SRAERT (custom) for "avert"
     "TRAF": "attractive", // use TR-FR for "transfer"
     "A*UT/TEUBG": "authentic",
     "A*UT/TEUFT": "authenticity",
@@ -850,11 +849,12 @@
     "TAEPBD": "attend",
     "TAEPBTD": "attended",
     "SRAEPBG": "avenge",
-    "SRAERT": "avert",
+    "SRAERT": "avert", // frees up AFRT ("arst") for "artist" [2]
     "SRAERS": "averse", // use -Z for "varies"
     "SRAERGS": "aversion",
     /*1*/ "SAEF": "safe", // use STPAOEU for "satisfy"
           "SAEFL": "safely",
+    /*2*/ "AFRT": "artist",
 
     "SHRAEP": "asleep",
     "SHREP": "sleep", // but prefer SHRAOEP
