@@ -363,7 +363,7 @@
 
     "A/KAOUFBG": "acoustic",
     "TKPHEUGS": "admission",
-    "AFD/SAER": "adversary", // AFRD feels too emphatic ("adVER...")
+    "AFD/SAER": "adversary", // AFRD would violate inversion rule
     "AFD/SAEURL": "adversarial",
     "HRARPL": "alarm",
     "ALT/TEUF": "alternative", // alternative to HR-FRPB ("lrnf")
