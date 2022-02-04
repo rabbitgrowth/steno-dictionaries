@@ -368,7 +368,7 @@
     "HRARPL": "alarm",
     "ALT/TEUF": "alternative", // alternative to HR-FRPB ("lrnf")
     "AEURGS": "arrogance", // use -Z for "airings"
-    "AEURGT": "arrogant",  // cf. AEURPT "airport"
+    "AEURGT": "arrogant", // cf. AEURPT "airport"
     "TRAF": "attractive", // use TR-FR for "transfer"
     "A*UT/TEUBG": "authentic",
     "A*UT/TEUFT": "authenticity",
@@ -404,7 +404,7 @@
     "HRAOUS/REU": "illusory",
     "SHU": "issue",
     "SHUD": "issued", // use SHO for "should"
-    "HREPB": "lesson",   // not to be confused with HREFPB "eleven"
+    "HREPB": "lesson", // not to be confused with HREFPB "eleven"
     "HREPBZ": "lessons", // use -S for "lens"
     "HRAOEUFPL": "lifetime", // "lifem"
     "PHRAUD": "maraud",
