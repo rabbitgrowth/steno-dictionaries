@@ -130,6 +130,7 @@
     "KPEBL": "accessible",      // with KPES "access"
     "KPEBLT": "accessibility",
     "A/KUFPL": "accustom",      // with A/KUFPLD "accustomed"
+    "TKPHRAL": "admiral",       // with TKPHAOEUR "admire"
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
@@ -360,7 +361,6 @@
     // -- Approximately phonetic -----------------------------------------------
 
     "A/KAOUFBG": "acoustic",
-    "TKPHRAL": "admiral", // cf. TKPHAOEUR "admire"
     "TKPHEUGS": "admission",
     "AFD/SAER": "adversary", // AFRD feels too emphatic ("adVER...")
     "AFD/SAERL": "adversarial",
