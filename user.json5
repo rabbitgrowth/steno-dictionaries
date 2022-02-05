@@ -741,9 +741,9 @@
     "HRAOEUBG/-PB": "lichen", // use HR-BG/-PB (custom) for "liken"
 
     "-LD": "{^land}", // use WO for "would", like HR, not -L, for "will"
-    "TKPWARLD": "garland", // has nothing to do with "gar" (fish) but whatever
+    "TKPWARLD": "garland",
     "HAOEULD": "highland",
-    "HOEFRLD": "homeland", // with -FR as -m
+    "HOEFRLD": "homeland",
     "HROELD": "lowland",
     "PHAEUPBLD": "mainland",
 
