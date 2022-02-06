@@ -474,48 +474,6 @@
           "PUBLG": "public", // cf. RUBLG "republic"
           "PUB/HREUFT": "publicity",
 
-    "TPROUT": "figure out",
-    "TKPWOEPL": "go home",
-    "TKPWROELD": "grow old",
-    "TPHOEPBS": "known as", // use -Z for "knowns"
-    "HREPL": "let me",
-    "HREPLZ": "let me see",
-    "HRAOFRT": "look after", // "loofter"; HRAFRT is "laughter"
-    "TAEUR": "take care",
-    "TAEUFR": "take care of",
-    "TRUF": "true love", // use TRUFT for "trust"
-    "KWRAOEUZ": "you guys",
-
-    "SKPAF": "and a half",
-    "SKPAOPB": "and so on",
-    "SKP-PB": "and then",
-    "SKP-PBT": "and then the",
-
-    "TPWEFT": "at best", // tricky to hit; mostly for consistency with "at worst"
-    "THOEPL": "at home", // misstroke for "them"
-    "THRAFT": "at last", // cf. THRAOEFT "at least"
-    "TPHOEFT": "at most",
-    "TREFT": "at rest",
-    "TWAR": "at war",
-    "TWORBG": "at work",
-    "TWOFRT": "at worst",
-
-    "AOEFRP": "each other",
-    "WURPB": "one another",
-
-    "TPHUFP": "no such", // misstroke for "much"
-    "TPHUFPG": "no such thing",
-    "TPHUFPGS": "no such thing as",
-
-    "WHOELT": "whole lot",
-    "WHOEFLT": "whole lot of",
-    "WHAOELT": "a whole lot",
-    "WHAOEFLT": "a whole lot of",
-    "WHOEG": "whole thing",  // cf. T-G "thing" (custom)
-    "WHOEPT": "whole point", // cf. P-T "point" (custom)
-    "WHOERLD": "whole world",
-    "WHOERL": "whole world", // cf. WORL "world"
-
     // -- Final -y -------------------------------------------------------------
 
     // Extend "many" rule
@@ -3544,6 +3502,36 @@
     "THEFPBD": "they have no idea",
 
     // Miscellaneous
+    "SKPAF": "and a half",
+    "SKPAOPB": "and so on",
+    "SKP-PB": "and then",
+    "SKP-PBT": "and then the",
+
+    "TPWEFT": "at best", // tricky to hit; mostly for consistency with "at worst"
+    "THOEPL": "at home", // misstroke for "them"
+    "THRAFT": "at last", // cf. THRAOEFT "at least"
+    "TPHOEFT": "at most",
+    "TREFT": "at rest",
+    "TWAR": "at war",
+    "TWORBG": "at work",
+    "TWOFRT": "at worst",
+
+    "AOEFRP": "each other",
+    "WURPB": "one another",
+
+    "TPHUFP": "no such", // misstroke for "much"
+    "TPHUFPG": "no such thing",
+    "TPHUFPGS": "no such thing as",
+
+    "WHOELT": "whole lot",
+    "WHOEFLT": "whole lot of",
+    "WHAOELT": "a whole lot",
+    "WHAOEFLT": "a whole lot of",
+    "WHOEG": "whole thing",  // cf. T-G "thing" (custom)
+    "WHOEPT": "whole point", // cf. P-T "point" (custom)
+    "WHOERLD": "whole world",
+    "WHOERL": "whole world", // cf. WORL "world"
+
     "PWU": "about you", // use PWUT for "but"
     "TPHEUFT": "any of the", // use EUFT for {^ist}
     "SKHER": "ask her",
@@ -3552,8 +3540,6 @@
     "-FRBT": "ever be the",
     "TPE": "if he", // give up "fe", which is not a word
     "TPOEPBL": "if only",
-    "TPHEUS": "in this",
-    "TPHURPB": "in turn", // instead of "turn in"
     "T-D": "it had", // give up {^ed it}
     "WUPBD": "one day",
     "TWOR": "or two",
@@ -3571,6 +3557,20 @@
     "WHOR": "who are", // overrides "whore" [2]
     /*1*/ "WHA*BG": "whack",
     /*2*/ "WHO*R": "whore",
+
+    "TPROUT": "figure out",
+    "TKPWOEPL": "go home",
+    "TKPWROELD": "grow old",
+    "TPHEUS": "in this",
+    "TPHURPB": "in turn", // instead of "turn in"
+    "TPHOEPBS": "known as", // use -Z for "knowns"
+    "HREPL": "let me",
+    "HREPLZ": "let me see",
+    "HRAOFRT": "look after", // "loofter"; HRAFRT is "laughter"
+    "TAEUR": "take care",
+    "TAEUFR": "take care of",
+    "TRUF": "true love", // use TRUFT for "trust"
+    "KWRAOEUZ": "you guys",
 
     // -- Counting -------------------------------------------------------------
 
