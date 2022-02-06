@@ -478,23 +478,23 @@
 
     // There seem to be unwritten rules in Plover governing how to
     // transform vowels for -y:
-    //   A    -> AE
-    //    O   -> OE
-    //     E  -> OEU
-    //      U -> AOU
+    //   A    -> AE   (PHAPB "man"   -> PHAEPB  "many")
+    //    O   -> OE   (STOR  "store" -> STOER   "story")
+    //     E  -> OEU  (SPHEL "smell" -> SPHOEUL "smelly")
+    //      U -> AOU  (TPUPB "fun"   -> TPAOUPB "funny")
     //   AO   -> ?
     //   A E  -> ?
     //   A  U -> ?
-    //    OE  -> OEU
+    //    OE  -> OEU  (HOEL "hole" -> HOEUL "holy")
     //    O U -> ?
-    //     EU -> OEU
+    //     EU -> OEU  (REUFBG "risk" -> ROEUFBG "risky")
     //   AOE  -> ?
     //   AO U -> ?
     //   A EU -> ?
     //    OEU -> ?
-    //   AOEU -> OEU
+    //   AOEU -> OEU  (PHAOEUT "might" -> PHOEUT "mighty")
 
-    // A -> AE (PHAPB "man" -> PHAEPB "many")
+    // A -> AE
     "AERPBG": "angry",
     "SKRAEPBT": "scanty",
     "SHAEG": "shaggy",
@@ -502,7 +502,7 @@
     "SRAEL": "valley", // overrides "vale"
     "SRA*EL": "vale",  // give up "eval"
 
-    // O -> OE (STOR "store" -> STOER "story")
+    // O -> OE
     "TKPWOER": "gory", // compare TKPWHROER "glory"; use TKPWOR for "gore"
     "HOEB": "hobby",
     "PHO*EPBG": "monkey", // cf. PHO*PBG "monk"
@@ -522,10 +522,10 @@
     "KAL/TOR": "calculator",
     "KA*L": "cal", // use KPAL for "capital"
 
-    // E -> OEU (SPHEL "smell" -> SPHOEUL "smelly")
+    // E -> OEU
     "PHOEURS": "mercy", // give up "MRSA"
 
-    // U -> AOU (TPUPB "fun" -> TPAOUPB "funny")
+    // U -> AOU
     "PWAOUL": "bully", // overrides "boule" [1]
     "PWAOUPB": "bunny",
     "KAOURL": "curly",
@@ -533,10 +533,10 @@
     "SAOURL": "surly",
     /*1*/ "PWAO*UL": "boule",
 
-    // OE -> OEU (HOEL "hole" -> HOEUL "holy")
+    // OE -> OEU
     "SPHOEUBG": "smoky",
 
-    // EU -> OEU (REUFBG "risk" -> ROEUFBG "risky")
+    // EU -> OEU
     "TPO*EULT": "filthy",
     "TKPWOEULT": "guilty",
     "POEUT": "pity",    // give up "PO2"
@@ -544,7 +544,7 @@
     "SOEUFRL": "silvery",
     "THOEUFRT": "thirsty",
 
-    // AOEU -> OEU (PHAOEUT "might" -> PHOEUT "mighty")
+    // AOEU -> OEU
     "SHROEUPL": "slimy",
 
     // Other vowels
