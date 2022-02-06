@@ -715,16 +715,11 @@
     // Phoenix-style suffixes
     "-PB": "{^en}",    // use APB for "an"
     "-PBD": "{^ened}", // use SKP for "and"
-    "-PBG": "{^ening}",
-    "-PBZ": "{^ens}",
     "HRAEUD/-PB": "laden",
     "HRAOEUBG/-PB": "lichen", // use HR-BG/-PB (custom) for "liken"
 
     "-R": "{^er}", // use R for "are"
-    "-RD": "{^ered}",
-    "-RG": "{^ering}",
     "-RL": "{^erly}", // use RAUL for "recall"
-    "-RZ": "{^ers}",
     "TPAOEUR/KRABG/-R": "firecracker",
 
     // Use nicer prefixes for multistroke words
