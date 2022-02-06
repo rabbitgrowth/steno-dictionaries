@@ -725,7 +725,7 @@
     "-RG": "{^ering}",
     "-RL": "{^erly}", // use RAUL for "recall"
     "-RZ": "{^ers}",
-    "TPAOEUR/KRABG/ER": "firecracker",
+    "TPAOEUR/KRABG/-R": "firecracker",
 
     // Use nicer prefixes for multistroke words
     "SPWR/TPAOER": "interfere", // prefer SPWR to EUPBT
