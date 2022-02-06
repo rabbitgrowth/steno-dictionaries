@@ -478,21 +478,27 @@
 
     // There seem to be unwritten rules in Plover governing how to
     // transform vowels for -y:
-    //   A    -> AE   (PHAPB "man"   -> PHAEPB  "many")
-    //    O   -> OE   (STOR  "store" -> STOER   "story")
-    //     E  -> OEU  (SPHEL "smell" -> SPHOEUL "smelly")
-    //      U -> AOU  (TPUPB "fun"   -> TPAOUPB "funny")
+    //   A    -> A E   (PHAPB "man"   -> PHAEPB  "many")
+    //    O   ->  OE   (STOR  "store" -> STOER   "story")
+    //     E  ->  OEU  (SPHEL "smell" -> SPHOEUL "smelly")
+    //      U -> AO U  (TPUPB "fun"   -> TPAOUPB "funny")
     //   AO   -> ?
     //   A E  -> ?
     //   A  U -> ?
-    //    OE  -> OEU  (HOEL "hole" -> HOEUL "holy")
+    //    OE  ->  OEU  (HOEL "hole" -> HOEUL "holy")
     //    O U -> ?
-    //     EU -> OEU  (REUFBG "risk" -> ROEUFBG "risky")
+    //     EU ->  OEU  (REUFBG "risk" -> ROEUFBG "risky")
     //   AOE  -> ?
     //   AO U -> ?
     //   A EU -> ?
     //    OEU -> ?
-    //   AOEU -> OEU  (PHAOEUT "might" -> PHOEUT "mighty")
+    //   AOEU ->  OEU  (PHAOEUT "might" -> PHOEUT "mighty")
+    // although E -> AOE might be nicer; that way you're always adding
+    // E for the vowels on the left and AO for the vowels on the right:
+    //   A    -> A E
+    //    O   ->  OE
+    //     E  -> AOE
+    //      U -> AO U
 
     // A -> AE
     "AERPBG": "angry",
@@ -509,8 +515,8 @@
     "PHO*EPBG": "monkey", // cf. PHO*PBG "monk"
     "PROEBGS": "proxy",   // use PREBGS for "protection"
 
-    // E -> OEU
-    "PHOEURS": "mercy", // give up "MRSA"
+    // E -> AOE
+    "PHAOERS": "mercy",
 
     // U -> AOU
     "PWAOUL": "bully", // overrides "boule" [1]
