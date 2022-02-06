@@ -501,10 +501,9 @@
     "AOEFRP": "each other",
     "WURPB": "one another",
 
-    "TPHOEFPG": "no such thing", // cf. TPHOEFP "no such"
-    "TPHOUFPG": "no such thing", // cf. TPHOUFP "no such"
-    "TPHOEFPGS": "no such thing as",
-    "TPHOUFPGS": "no such thing as",
+    "TPHUFP": "no such", // misstroke for "much"
+    "TPHUFPG": "no such thing",
+    "TPHUFPGS": "no such thing as",
 
     "WHOELT": "whole lot",
     "WHOEFLT": "whole lot of",
