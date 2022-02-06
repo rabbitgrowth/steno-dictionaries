@@ -52,9 +52,6 @@
     "TP*PL": ".",
     "SPR": "disappear", // use SAOUP for {super^}
 
-    "ARD": "around",
-    "-RD": "round", // R-D is "ready"
-
     "KH-G": "change",
     "SKH-G": "exchange",
 
@@ -362,6 +359,7 @@
     "AFD/SAEURL": "adversarial",
     "HRARPL": "alarm",
     "ALT/TEUF": "alternative", // alternative to HR-FRPB ("lrnf")
+    "ARD": "around",
     "AEURGS": "arrogance", // use -Z for "airings"
     "AEURGT": "arrogant", // cf. AEURPT "airport"
     "TRAF": "attractive", // use TR-FR for "transfer"
@@ -589,8 +587,6 @@
     "HOR": "horror",
     "TER": "terror",
     "PHEUR": "mirror",
-    // By the same logic "error" should be ER,
-    // but ER is more useful as {^er}.
 
     "KRAOE": "Korea", // consistent with KRAOEPB "Korean"
                       // use SAOE/OE (custom) for "CEO"
@@ -734,18 +730,27 @@
     "WR*EUR": "{^writer}",
     "KWREFRT": "{yester^}",
 
-    "-PB": "{^en}",    // use APB for "an"
-    "-PBD": "{^ened}", // use SKP for "and"
-    "-PBG": "{^ening}",
-    "HRAEUD/-PB": "laden",
-    "HRAOEUBG/-PB": "lichen", // use HR-BG/-PB (custom) for "liken"
-
     "-LD": "{^land}", // use WO for "would", like HR, not -L, for "will"
     "TKPWARLD": "garland",
     "HAOEULD": "highland",
     "HOEFRLD": "homeland",
     "HROELD": "lowland",
     "PHAEUPBLD": "mainland",
+
+    // Phoenix-style suffixes
+    "-PB": "{^en}",    // use APB for "an"
+    "-PBD": "{^ened}", // use SKP for "and"
+    "-PBG": "{^ening}",
+    "-PBZ": "{^ens}",
+    "HRAEUD/-PB": "laden",
+    "HRAOEUBG/-PB": "lichen", // use HR-BG/-PB (custom) for "liken"
+
+    "-R": "{^er}", // use R for "are"
+    "-RD": "{^ered}",
+    "-RG": "{^ering}",
+    "-RL": "{^erly}", // use RAUL for "recall"
+    "-RZ": "{^ers}",
+    "TPAOEUR/KRABG/ER": "firecracker",
 
     // Use nicer prefixes for multistroke words
     "SPWR/TPAOER": "interfere", // prefer SPWR to EUPBT
@@ -893,6 +898,7 @@
     "TKRAOERPL": "dreamer",
     "TKREFR": "dresser",
     "TKREUR": "drinker",
+    "ERZ": "easier",
     "AOE/TPHARPL": "enamor",
     "EPB/HARPBS": "enhancer",
     "KP-R": "examiner",
@@ -2198,9 +2204,6 @@
     "TK*G": "diagnose",
     "TK*GS": "diagnosis", // just for consistency; TK-GS works too
     "TK*GZ": "diagnoses",
-
-    "ER": "{^er}", // give up {er^}
-    "TPAOEUR/KRABG/ER": "firecracker",
 
     "KPRAOEPL": "extreme",  // overrides "extremely"
     "KPRAOEL": "extremely", // sort of like PHAEUBG "make", PHAEUG "making"
@@ -3691,10 +3694,6 @@
     "TKPW-Z": "goes",
     "HOEURZ": "heroes",
 
-    // ERZ would make a good stroke for "easier" (EZ "easy" + -R for {^er}),
-    // but since ER is {^er} (custom), ERZ should be {^ers} for consistency.
-    "AOEFR": "easier", // cf. AO*ERS
-
     // For words ending with -T, use -TS instead of -TZ to avoid Philly shift:
     "ABGT/SREUFTS": "activists",
     "APB/HREUFTS": "analysts",
@@ -4647,8 +4646,8 @@
     "TKPHEUFL": "dismissal",
     "TKPHEUFG": "dismissing",
 
-    "*ER": "err",      // use ER (custom) for {^er}
-    "ROER": "error",   // symmetrical and has all the letters
+    "ER": "err",       // give up {er^}
+    "*ER": "error",    // use -R (custom) for {^er}
     "ERPBT": "errant", // but "errand" is ER/APBD since ERPBD is "earned"
 
     "TP-RGT": "forget", // TP-R "for" + -GT "get"
