@@ -474,18 +474,6 @@
           "PUBLG": "public", // cf. RUBLG "republic"
           "PUB/HREUFT": "publicity",
 
-    "SKPAF": "and a half",
-    "SKPAOPB": "and so on",
-    "SKP-PB": "and then",
-    "SKP-PBT": "and then the",
-    "TPWEFT": "at best", // tricky to hit; mostly for consistency with "at worst"
-    "THOEPL": "at home", // misstroke for "them"
-    "THRAFT": "at last", // cf. THRAOEFT "at least"
-    "TPHOEFT": "at most",
-    "TREFT": "at rest",
-    "TWAR": "at war",
-    "TWORBG": "at work",
-    "TWOFRT": "at worst",
     "TPROUT": "figure out",
     "TKPWOEPL": "go home",
     "TKPWROELD": "grow old",
@@ -497,6 +485,20 @@
     "TAEUFR": "take care of",
     "TRUF": "true love", // use TRUFT for "trust"
     "KWRAOEUZ": "you guys",
+
+    "SKPAF": "and a half",
+    "SKPAOPB": "and so on",
+    "SKP-PB": "and then",
+    "SKP-PBT": "and then the",
+
+    "TPWEFT": "at best", // tricky to hit; mostly for consistency with "at worst"
+    "THOEPL": "at home", // misstroke for "them"
+    "THRAFT": "at last", // cf. THRAOEFT "at least"
+    "TPHOEFT": "at most",
+    "TREFT": "at rest",
+    "TWAR": "at war",
+    "TWORBG": "at work",
+    "TWOFRT": "at worst",
 
     "AOEFRP": "each other",
     "WURPB": "one another",
