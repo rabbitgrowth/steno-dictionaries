@@ -3560,15 +3560,11 @@
     "TKO*": "to do",
     "STKO*": "to do so",
     "TOFB": "to have been",
-    "WHABG": "what can", // "what could/shall/should/will/would" all work;
-                         // swap with "whack" [1]
-    "WHAOER": "what other",
+    "WHABG": "what can", // all other modal verbs already work; swap with "whack" [1]
     "WHE": "when he", // use WH for "when"
-    "TWH": "when it",
-    "WHOER": "when other",
-    "WHRORPLT": "whether or not", // cf. ORPLT (custom); or use WH[R]ORPB
-    "WHOU": "who you", // bizarre misstroke for "how"
-    "HR-F": "will have", // use HRUF for "love" (think "luv")
+    "WHRORPLT": "whether or not", // cf. ORPLT (custom)
+    "WHOU": "who you", // misstroke for "how"
+    "HR-F": "will have", // use HRUF for "love"
     "HR-FB": "will have been",
     "WHOR": "who are", // overrides "whore" [2]
     /*1*/ "WHA*BG": "whack",
