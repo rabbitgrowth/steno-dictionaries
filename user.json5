@@ -503,24 +503,11 @@
     "SRA*EL": "vale",  // give up "eval"
 
     // O -> OE
-    "TKPWOER": "gory", // compare TKPWHROER "glory"; use TKPWOR for "gore"
+    "TKPWOER": "gory",    // compare TKPWHROER "glory"; use TKPWOR for "gore"
     "HOEB": "hobby",
+    "HRO*EB": "lobby",    // - * = "lobe"
     "PHO*EPBG": "monkey", // cf. PHO*PBG "monk"
-    "PROEBGS": "proxy", // use PREBGS for "protection"
-
-    "HROEB": "lobby",       // overrides "lobe"
-    "HROEBG": "lobbying",   // overrides "locate"
-    "HRO*EB": "lobe",
-    "KHRAEUT": "locate",    // overrides "calculate"
-    "KHRAEUTD": "located",  // overrides "calculated"
-    "KHRAEUGT": "locating", // overrides "calculating"
-    "KHRAEUGS": "location", // overrides "calculation"
-    "KAL": "calculate",     // overrides "cal" (calorie)
-    "KALG": "calculating",
-    "KALGS": "calculation",
-    "KARLT": "calculator",
-    "KAL/TOR": "calculator",
-    "KA*L": "cal", // use KPAL for "capital"
+    "PROEBGS": "proxy",   // use PREBGS for "protection"
 
     // E -> OEU
     "PHOEURS": "mercy", // give up "MRSA"
