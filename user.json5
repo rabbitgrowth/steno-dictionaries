@@ -718,7 +718,7 @@
     "HRAEUD/-PB": "laden",
     "HRAOEUBG/-PB": "lichen", // use HR-BG/-PB (custom) for "liken"
 
-    "-R": "{^er}", // use R for "are"
+    "-R": "{^er}",    // use R for "are"
     "-RL": "{^erly}", // use RAUL for "recall"
     "TPAOEUR/KRABG/-R": "firecracker",
 
