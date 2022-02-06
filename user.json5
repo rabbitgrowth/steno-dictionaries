@@ -474,20 +474,39 @@
           "PUBLG": "public", // cf. RUBLG "republic"
           "PUB/HREUFT": "publicity",
 
-    // -- Final -y -------------------------------------------------------------
+    // -- -y -------------------------------------------------------------------
 
-    // Extend "many" rule
-    // We have PHAEPB "many"   = MAEN = MANE = man-E.
-    // Why not SRAEL  "valley" = VAEL = VALE = val-E?
+    // There seem to be unwritten rules in Plover governing how to
+    // transform vowels for -y:
+    //   A    -> AE
+    //    O   -> OE
+    //     E  -> OEU
+    //      U -> AOU
+    //   AO   -> ?
+    //   A E  -> ?
+    //   A  U -> ?
+    //    OE  -> OEU
+    //    O U -> ?
+    //     EU -> OEU
+    //   AOE  -> ?
+    //   AO U -> ?
+    //   A EU -> ?
+    //    OEU -> ?
+    //   AOEU -> OEU
+
+    // A -> AE (PHAPB "man" -> PHAEPB "many")
     "AERPBG": "angry",
+    "SKRAEPBT": "scanty",
+    "SHAEG": "shaggy",
+
+    "SRAEL": "valley", // overrides "vale"
+    "SRA*EL": "vale",  // give up "eval"
+
+    // O -> OE (STOR "store" -> STOER "story")
     "TKPWOER": "gory", // compare TKPWHROER "glory"; use TKPWOR for "gore"
     "HOEB": "hobby",
     "PHO*EPBG": "monkey", // cf. PHO*PBG "monk"
     "PROEBGS": "proxy", // use PREBGS for "protection"
-    "SKRAEPBT": "scanty",
-    "SHAEG": "shaggy",
-    "SRAEL": "valley", // overrides "vale" [1]
-    /*1*/ "SRA*EL": "vale", // give up "eval"
 
     "HROEB": "lobby",       // overrides "lobe"
     "HROEBG": "lobbying",   // overrides "locate"
@@ -503,44 +522,47 @@
     "KAL/TOR": "calculator",
     "KA*L": "cal", // use KPAL for "capital"
 
-    // Lengthen vowel
-    // Precedent: TPUPB "fun" -> TPAOUPB "funny"
-    // See also:
-    // HELT "health"     -> HAOELT "healthy"
-    // SKWRELS "jealous" -> SKWRAOELS "jealousy"
-    "PWAOUL": "bully",  // overrides "boule" [1]
+    // E -> OEU (SPHEL "smell" -> SPHOEUL "smelly")
+    "PHOEURS": "mercy", // give up "MRSA"
+
+    // U -> AOU (TPUPB "fun" -> TPAOUPB "funny")
+    "PWAOUL": "bully", // overrides "boule" [1]
     "PWAOUPB": "bunny",
+    "KAOURL": "curly",
     "HAOURPBG": "hungry",
+    "SAOURL": "surly",
     /*1*/ "PWAO*UL": "boule",
 
-    // Drop it
-    // -D, -T, and -Z produce a "pronounce last letter" effect.
-    // For example, STURD = stur-D = "sturdy". A possibly accidental
-    // precedent is THORT = thor-T ~= "authority".
-    "PWOD": "body",    // overrides "bod"  [1]
-    "PWODZ": "bodies", // overrides "bods" [1]
-    "TKEUZ": "dizzy", // use TKEUS for {dis^}
-    "HUR": "hurry",
-    "HRAURPBD": "laundry",
-    "STURD": "sturdy",
-    /*1*/ "PWO*D": "bod",
+    // OE -> OEU (HOEL "hole" -> HOEUL "holy")
+    "SPHOEUBG": "smoky",
 
-    // Use OEU
-    // Precedents: PHOEUT "mighty", SPHOEUL "smelly", ROEUFBG "risky"
-    "PWHROEUD": "bloody", // misstroke for PHROEUD "employed"; use KPWHROEUD (custom)
-                          // (see also PHOEUD "media")
-    "KOEURL": "curly",
+    // EU -> OEU (REUFBG "risk" -> ROEUFBG "risky")
     "TPO*EULT": "filthy",
-    "TPROEUT": "fruity",
     "TKPWOEULT": "guilty",
-    "PHOEURS": "mercy", // give up "MRSA"
     "POEUT": "pity",    // give up "PO2"
     "SO*EULG": "silky",
     "SOEUFRL": "silvery",
-    "SHROEUPL": "slimy",
-    "SPHOEUBG": "smoky",
-    "SOEURL": "surly",
     "THOEUFRT": "thirsty",
+
+    // AOEU -> OEU (PHAOEUT "might" -> PHOEUT "mighty")
+    "SHROEUPL": "slimy",
+
+    // Other vowels
+    "PWHROEUD": "bloody", // AO   -> OEU?
+    "TPROEUT": "fruity",  // AO U -> OEU?
+
+    // Just drop the -y
+    "TKEUZ": "dizzy", // use TKEUS for {dis^}
+    "HUR": "hurry", // should not cause word boundary errors;
+                    //   HUR/KAEUPB "hurry cane" ("hurricane")
+                    //   HUR/RAEU   "hurry ray"  ("hurray")
+                    // don't seem possible
+    "HRAURPBD": "laundry",
+    "STURD": "sturdy", // "stur-D"
+
+    "PWOD": "body",    // overrides "bod"
+    "PWODZ": "bodies", // overrides "bods"
+    "PWO*D": "bod",
 
     // -- Drop final schwa -----------------------------------------------------
 
@@ -1627,8 +1649,7 @@
     // OEU is just a general wildcard, but these words feel like
     // a family, probably because they all have to do with media.
     "SOEUPB": "cinema",
-    "PHOEUD": "media",  // misstroke for PHROEUD "employed"; use KPWHROEUD (custom)
-                        // (see also PWHROEUD "bloody")
+    "PHOEUD": "media",
     "STOEUD": "studio", // overrides "studied" [1]
     /*1*/ "STKEU": "study", // "studied" is then STKEUD
 
@@ -3736,7 +3757,6 @@
     "HAOURPLS": "humorous",   // use -Z for "humors"
     "TPHAOURPLS": "numerous", // phonetic alternative to TPHAOUPLS
     "SKWRELS": "jealous",     // use -Z for "gels"
-    "SKWRAOELS": "jealousy",
     "PO*RS": "porous",        // cf. PO*R "pore" (POR is "pour" and POUR is "power")
     "PORS": "porous",         // allow dropping * since "pourous" is not a word
     "RAOUPBS": "ruinous",     // use -Z for "ruins"
