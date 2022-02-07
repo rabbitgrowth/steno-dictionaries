@@ -738,14 +738,12 @@
     "SPR/STEUGS": "superstition", // prefer SPR to SAOUP
     "SPR/STEURBS": "superstitious",
     // There's something ugly about using {inter^} for "interfere",
-    // because "fere" is not a word -- you aren't tacking "inter-" onto
+    // because "fere" is not a word - you aren't tacking "inter-" onto
     // "fere". In fact, TPAOER is "fear", so SPWR/TPAOER feels a bit
     // like it should be "interfear". However, Plover often allows
     // using prefixes even when the part after the prefix is not a word.
     // For example, although "ceal" is not a word, for "conceal" Plover
-    // allows (in addition to KOPB/SAOEL) KAUPB/SAOEL, which feels
-    // natural because "con-" is so common KAUPB becomes muscle memory
-    // pretty quickly.
+    // allows KAUPB/SAOEL (in addition to KOPB/SAOEL).
 
     // -- Folding in -----------------------------------------------------------
 
@@ -1452,9 +1450,9 @@
     "TKWEPBG": "adventure",     // frees up SREPBG for "venture" [2]
     "TKWEPBGS": "adventurous",  // use -Z for "adventures"
     "TKWERB": "adverb",
-    "TKWERBL": "adverbial", // now that we can use -BL for "adverbial" -- the only other
+    "TKWERBL": "adverbial", // now that we can use -BL for "adverbial" - the only other
                             // alternative is AD/SRERB/KWRAL, since AD/SRERBL needs to be
-                            // "add verbal" ("add verbal cues") -- it's natural to use -BL
+                            // "add verbal" ("add verbal cues") - it's natural to use -BL
                             // for "proverbial" and a bunch of other words too, following
                             // the pattern of TEUB "tibia" -> TEUBL "tibial" [3]
     /*1*/ "SRAPBG": "vantage",
