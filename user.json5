@@ -5283,6 +5283,10 @@
     // PWAR/TKPWAPB/-G "bagaaining" (typo)
     "PWAR/TKPWAPB/-G": "bargaining",
 
+    // KAT/HREUBG  "catholic"
+    // KA*T/HREUBG "Catholic"
+    "KAT/HREUBG": "cat lick",
+
     // KULD "culd"
     // "culd" is not a word (at least not in modern English;
     // apparently it's an obsolete form of "could").
