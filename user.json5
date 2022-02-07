@@ -5275,12 +5275,12 @@
 
     // -- Fix Plover's oddities ------------------------------------------------
 
-    // A/PHEPB/PHE(U) "anemone"
+    // A/PHEPB/PHE, A/PHEPB/PHEU "anemone"
     // That's "amenome", not "anemone".
     "A/TPHEPL/TPHE": "anemone",
     "A/TPHEPL/TPHEU": "anemone",
 
-    // PWAR/TKPWAPB/-G "bagaaining" (typo)
+    // PWAR/TKPWAPB/-G "bagaaining" (typo?)
     "PWAR/TKPWAPB/-G": "bargaining",
 
     // KAT/HREUBG  "catholic"
