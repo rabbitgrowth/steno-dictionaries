@@ -182,6 +182,9 @@
     "ORPB": "origin",           // with ORPBL "original"
     "PAFRT": "part of",         // with SOFRT "sort of"; by default "part of the"
     "PAFRTS": "parts of",
+    "PERPBLG": "percentage",    // with PWERS    "percent"    (misstroke?)
+                                //      PWERPBLG "percentage" (misstroke?)
+                                //      PERS     "percent"
     "PERP/TWAL": "perpetual",   // with PERP/TWAEUT "perpetuate" ("wrong" stress)
                                 //      PERP/TRAEUT "perpetrate" ("right" stress)
     "PERP/TWAEL": "perpetually",
@@ -5302,11 +5305,6 @@
     // TPHURGS  "nurse"   (extra G)
     // TPHURBGS "nursing" (extra B)
     "TPHURGS": "nursing",
-
-    // PWERS    "percent"
-    // PWERPBLG "percentage"
-    // PERS already works, so PERJ should, too.
-    "PERPBLG": "percentage",
 
     // RAEUGSZ "radiation"
     "RAEUGSZ": "regulations", // cf. RAEUGS "regulation"
