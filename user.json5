@@ -720,6 +720,10 @@
 
     "-R": "{^er}",    // use R for "are"
     "-RL": "{^erly}", // use RAUL for "recall"
+    // This means -RD is {^ered}. I would have liked to use -RD for "round",
+    // since I've defined ARD as "around". But even though ORPBG is "orange",
+    // that doesn't mean I have to use -RPBG for "range". Granted, "round"
+    // and "around" are much more closely related than "range" and "orange".
     "TPAOEUR/KRABG/-R": "firecracker",
 
     // Use nicer prefixes for multistroke words
