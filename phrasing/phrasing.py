@@ -42,6 +42,16 @@ for stroke, translation in main.items():
     main_reversed[translation].append(stroke)
 
 
+#             I     am 'm was    \       \           \
+#                                |       |           |
+#          /  you   \            |       | have 've  |
+# "people" |  we    | are 're    |       |           |
+#          \  they  /            | were  /           | had
+#                                |                   |
+#          /  he    \            |       \           |
+# "person" |  she   | is 's was  |       | has       |
+#          \  it    /            /       /           /
+
 i = {"KWR": "I"}
 
 people = {
