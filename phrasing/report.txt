@@ -1,3 +1,8 @@
+Idaho
+  *EUD -> id
+  *EUD/*EUD
+  AOEUD/HOE
+
 it's
   *TS
   EUT/AE
@@ -50,7 +55,7 @@ item -> TEPL
   AOEUT/EPL
   AOEUT/TEPL
 
-idea
+idea -> EUD
   AOEU/TKAOE/A
   AOEU/TKAOE/KWRA
   KWR-D -> I had
@@ -63,6 +68,13 @@ you've
   KWROU/AO*EF
   UF -> you have
   UF/AE
+
+id -> *EUD
+  EUD -> idea
+
+I would
+  EULD -> ideal
+  WOEU
 
 had had
   H-D -> he had

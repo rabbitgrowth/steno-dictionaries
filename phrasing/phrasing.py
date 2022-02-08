@@ -126,9 +126,15 @@ for pattern in patterns:
 
 remappings = {
     "TEPL": "item",
-    "WR": "where",
+
+    "WR":   "where",
     "WR-T": "where the",
-    "WRU": "where you",
+    "WRU":  "where you",
+
+    "EUD":    "idea",
+    "EULD":   "ideal",
+    "HREULD": "ideally",
+    "*EUD":   "id",
 }
 
 remappings_reversed = {
