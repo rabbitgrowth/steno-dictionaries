@@ -110,9 +110,6 @@ theft
 {^ed it}
   T-D -> it had
 
-TdT
-  T-TD -> it had the
-
 they'd
   THA*EUD
   THAEUD

@@ -109,8 +109,8 @@ patterns = [
 
     (i_have,        maybe_been, maybe_the),
     (people,  have, maybe_been, maybe_the),
-    (person,  has,  maybe_been, maybe_the),
-    (pronoun, had,  maybe_been, maybe_the),
+    (person,  has,  maybe_been), # -TZ requires Philly shift, and -BTZ is impossible
+    (pronoun, had,  maybe_been), # -TD feels weird, and -BTD violates inversion rule
 ]
 
 
