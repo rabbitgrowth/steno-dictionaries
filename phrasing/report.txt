@@ -1,0 +1,79 @@
+it's
+  *TS
+  EUT/AE
+  EUTS/AE
+  T*S
+  T-LS
+  T-S -> it is
+  T-S/AE
+  T-SZ
+  T-TS -> it is the
+  T/AES
+  TK-S
+  TP-S
+
+you are
+  *UR -> you're
+  R*U
+
+they're
+  24ER
+  THA*EUR
+  THER -> they are
+  THER/AE
+  THERB
+
+item
+  AOEU/TEPL
+  AOEUPLT -> I'm the
+  AOEUT/EPL
+  AOEUT/TEPL
+
+{^s}{?}
+  H-FS -> he was
+  STH-S
+  STP-S
+  STPH-S
+
+why was
+  KWR-FS -> I was
+
+I mean
+  KWR-PL -> I am
+
+{&y-}
+  KWR-PLT -> I am the
+
+you're
+  KWRAO*UR
+  KWRO*UR
+  UR -> you are
+  UR/AE
+  URB
+
+{>}ssh
+  SH-S -> she is
+
+with respect to
+  SPOEBGT
+  W*RT -> we're the
+  W-RBGS/SPEBGT/TO
+  W/SPEBGT/STO
+  W/STEBGT/TO
+  W/STPOEBGT
+
+you're the
+  URT -> you are the
+
+where
+  W*R -> we're
+  W-F
+  W-R -> we are
+  WHER
+
+with respect
+  W-RPT -> we were the
+  WR-PT
+
+where the
+  W-RT -> we are the
