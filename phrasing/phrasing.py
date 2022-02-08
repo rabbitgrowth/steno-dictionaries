@@ -106,6 +106,8 @@ for pattern in patterns:
         assert stroke not in dictionary
         dictionary[stroke] = translation
 
+dictionary['WUZ/WUZ'] = '{#}' # to ensure trailing comma after each real entry
+
 wrote = False
 
 with parent_dir.joinpath('report.txt').open('w') as f:
