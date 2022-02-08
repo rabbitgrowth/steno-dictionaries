@@ -44,17 +44,6 @@ for stroke, translation in main.items():
 
 i = {"KWR": "I"}
 
-i_am = {
-    "KWR-PL": "I am",
-    "AOEUPL": "I'm", # special case to avoid *
-    "KWR-FS": "I was",
-}
-
-i_have = {
-    "KWR-F": "I have",
-    "AOEUF": "I've", # special case to avoid *
-}
-
 people = {
     "U":   "you",
     "W":   "we",
@@ -69,6 +58,12 @@ person = {
 
 pronoun = i | people | person
 
+i_am = {
+    "KWR-PL": "I am",
+    "AOEUPL": "I'm", # special case to avoid *
+    "KWR-FS": "I was",
+}
+
 are = {
     "-R": "are",
     "*R": "^'re",
@@ -82,6 +77,16 @@ is_ = {
 
 were = {"-RP": "were"} # used with all pronouns in the subjunctive
 
+maybe_the = {
+    "":   "",
+    "-T": "the",
+}
+
+i_have = {
+    "KWR-F": "I have",
+    "AOEUF": "I've", # special case to avoid *
+}
+
 have = {
     "-F": "have",
     "*F": "^'ve",
@@ -90,11 +95,6 @@ have = {
 has = {"-Z": "has"}
 
 had = {"-D": "had"} # used with all pronouns
-
-maybe_the = {
-    "":   "",
-    "-T": "the",
-}
 
 maybe_been = {
     "":   "",
