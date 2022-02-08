@@ -42,9 +42,7 @@ for stroke, translation in main.items():
     main_reversed[translation].append(stroke)
 
 
-i = {
-    "KWR": "I",
-}
+i = {"KWR": "I"}
 
 i_am = {
     "KWR-PL": "I am",
@@ -77,9 +75,7 @@ is_ = {
     "-FS": "was",
 }
 
-were = {
-    "-RP": "were", # used with all pronouns in the subjunctive
-}
+were = {"-RP": "were"} # used with all pronouns in the subjunctive
 
 maybe_the = {
     "":   "",
