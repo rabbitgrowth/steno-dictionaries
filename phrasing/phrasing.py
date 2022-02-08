@@ -42,50 +42,50 @@ for stroke, translation in main.items():
     main_reversed[translation].append(stroke)
 
 
-nothing = ('', '')
+nothing = ("", "")
 
 i = [
-    ('KWR', 'I'),
+    ("KWR", "I"),
 ]
 
 i_am = [
-    ('KWR-PL', 'I am'),
-    ('AOEUPL', "I'm"), # special case to avoid *
-    ('KWR-FS', 'I was'),
+    ("KWR-PL", "I am"),
+    ("AOEUPL", "I'm"), # special case to avoid *
+    ("KWR-FS", "I was"),
 ]
 
 people = [
-    ('U',   'you'),
-    ('W',   'we'),
-    ('THE', 'they'),
+    ("U",   "you"),
+    ("W",   "we"),
+    ("THE", "they"),
 ]
 
 person = [
-    ('H',  'he'),
-    ('SH', 'she'),
-    ('T',  'it'), # or thing
+    ("H",  "he"),
+    ("SH", "she"),
+    ("T",  "it"), # or thing
 ]
 
 pronoun = i + people + person
 
 are = [
-    ('-R', 'are'),
-    ('*R', "^'re"),
+    ("-R", "are"),
+    ("*R", "^'re"),
 ]
 
 is_ = [
-    ('-S',  'is'),
-    ('*S',  "^'s"),
-    ('-FS', 'was'),
+    ("-S",  "is"),
+    ("*S",  "^'s"),
+    ("-FS", "was"),
 ]
 
 were = [
-    ('-RP', 'were'), # used with all pronouns in the subjunctive
+    ("-RP", "were"), # used with all pronouns in the subjunctive
 ]
 
 maybe_the = [
     nothing,
-    ('-T', 'the'),
+    ("-T", "the"),
 ]
 
 patterns = [
