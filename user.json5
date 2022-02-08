@@ -612,10 +612,6 @@
     "SKREPB": "scene",     // SAOEPB is "seen" and SKRAOEPB is "screen"
     "SKRAO*EUT": "scythe", // SAO*EUT is "site" since SAOEUT is "sight"
 
-    "TAOFT": "toast",        // like RAOD "road" (ROED is "rode")
-    "TAOFRT": "toaster",     // vs TOEFRT "effort to"
-    "TOEFRTS": "efforts to", // vs TAOFRTS "toasters"
-
     // -- Anagrams -------------------------------------------------------------
 
     // Swap "ate" and "eight"
@@ -923,6 +919,7 @@
     "SWEUFRT": "swifter",
     "TA*RPBG": "tanker",
     "TAEURT": "tater",
+    "TOEFRT": "toaster", // give up "effort to"
     "TRARBGT": "tractor",
     "THRAEURT": "translator",
     "TRAORP": "trooper",
