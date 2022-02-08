@@ -16,6 +16,14 @@ you are
   *UR -> you're
   R*U
 
+were
+  -RP
+  WR -> where
+
+were the
+  -RPT
+  WR-T -> where the
+
 they're
   24ER
   THA*EUR
@@ -23,7 +31,7 @@ they're
   THER/AE
   THERB
 
-item
+item -> TEPL
   AOEU/TEPL
   AOEUPLT -> I'm the
   AOEUT/EPL
@@ -62,10 +70,14 @@ with respect to
   W/STEBGT/TO
   W/STPOEBGT
 
+you were
+  URP
+  WRU -> where you
+
 you're the
   URT -> you are the
 
-where
+where -> WR
   W*R -> we're
   W-F
   W-R -> we are
@@ -75,5 +87,5 @@ with respect
   W-RPT -> we were the
   WR-PT
 
-where the
+where the -> WR-T
   W-RT -> we are the

@@ -106,6 +106,19 @@ for pattern in patterns:
         assert stroke not in dictionary
         dictionary[stroke] = translation
 
+remappings = {
+    "TEPL": "item",
+    "WR": "where",
+    "WR-T": "where the",
+    "WRU": "where you",
+}
+
+remappings_reversed = {
+    translation: stroke
+    for stroke, translation in remappings.items()
+}
+
+dictionary |= remappings
 dictionary['WUZ/WUZ'] = '{#}' # to ensure trailing comma after each real entry
 
 wrote = False
@@ -119,7 +132,8 @@ with parent_dir.joinpath('report.txt').open('w') as f:
         if remappings:
             if wrote:
                 f.write('\n')
-            f.write(f'{translation}\n')
+            suffix = '' if translation not in remappings_reversed else f' -> {remappings_reversed[translation]}'
+            f.write(f'{translation}{suffix}\n')
             wrote = True
             for stroke in strokes:
                 suffix = '' if stroke not in remappings else f' -> {remappings[stroke]}'
