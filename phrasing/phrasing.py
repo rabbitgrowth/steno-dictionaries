@@ -125,18 +125,18 @@ for pattern in patterns:
         dictionary[stroke] = translation
 
 remappings = {
-    "TEPL": "item",
-
-    "WR":   "where",
-    "WR-T": "where the",
-    "WRU":  "where you",
-
     "EUD":    "idea",
     "EULD":   "ideal",
     "HREULD": "ideally",
     "*EUD":   "id",
 
+    "TEPL": "item",
+
     "TH-FT": "theft", # E got stolen? or associate with TKPW-PB "gun"
+
+    "WR":   "where",
+    "WR-T": "where the",
+    "WRU":  "where you",
 }
 
 remappings_reversed = {
