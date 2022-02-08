@@ -12,6 +12,19 @@ it's
   TK-S
   TP-S
 
+you'd
+  *UD
+  AOUD
+  KWRO*UD
+  UD -> you had
+  UD/AE
+
+UV
+  *UF -> you've
+
+usb
+  *UFB -> you've been
+
 you are
   *UR -> you're
   R*U
@@ -37,6 +50,23 @@ item -> TEPL
   AOEUT/EPL
   AOEUT/TEPL
 
+idea
+  AOEU/TKAOE/A
+  AOEU/TKAOE/KWRA
+  KWR-D -> I had
+  KWRUD
+
+you've
+  AOUF
+  KWRAO*UF
+  KWRO*UF
+  KWROU/AO*EF
+  UF -> you have
+  UF/AE
+
+had had
+  H-D -> he had
+
 {^s}{?}
   H-FS -> he was
   STH-S
@@ -45,6 +75,9 @@ item -> TEPL
 
 why was
   KWR-FS -> I was
+
+yours very truly{,}
+  KWR-FT -> I have the
 
 I mean
   KWR-PL -> I am
@@ -70,6 +103,31 @@ with respect to
   W/STEBGT/TO
   W/STPOEBGT
 
+theft
+  STHEFT
+  THEFT -> they have the
+
+{^ed it}
+  T-D -> it had
+
+TdT
+  T-TD -> it had the
+
+they'd
+  THA*EUD
+  THAEUD
+  THED -> they had
+  THED/AE
+
+they've
+  THA*EUF
+  THAEU/AO*EF
+  THEF -> they have
+  THEF/AE
+
+USB
+  UFB -> you have been
+
 you were
   URP
   WRU -> where you
@@ -77,11 +135,20 @@ you were
 you're the
   URT -> you are the
 
+West Virginia
+  W*ES/SRAFPLT
+  W*ES/SREUR/SKWREUPB/KWRA
+  W*F -> we've
+  W*F/W*F
+
 where -> WR
   W*R -> we're
-  W-F
+  W-F -> we have
   W-R -> we are
   WHER
+
+{^ed with}
+  W-D -> we had
 
 with respect
   W-RPT -> we were the

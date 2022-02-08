@@ -50,6 +50,11 @@ i_am = {
     "KWR-FS": "I was",
 }
 
+i_have = {
+    "KWR-F": "I have",
+    "AOEUF": "I've", # special case to avoid *
+}
+
 people = {
     "U":   "you",
     "W":   "we",
@@ -77,9 +82,23 @@ is_ = {
 
 were = {"-RP": "were"} # used with all pronouns in the subjunctive
 
+have = {
+    "-F": "have",
+    "*F": "^'ve",
+}
+
+has = {"-Z": "has"}
+
+had = {"-D": "had"} # used with all pronouns
+
 maybe_the = {
     "":   "",
     "-T": "the",
+}
+
+maybe_been = {
+    "":   "",
+    "-B": "been",
 }
 
 patterns = [
@@ -87,6 +106,11 @@ patterns = [
     (people,  are,  maybe_the),
     (person,  is_,  maybe_the),
     (pronoun, were, maybe_the),
+
+    (i_have,        maybe_been, maybe_the),
+    (people,  have, maybe_been, maybe_the),
+    (person,  has,  maybe_been, maybe_the),
+    (pronoun, had,  maybe_been, maybe_the),
 ]
 
 
