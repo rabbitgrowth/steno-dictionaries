@@ -115,7 +115,7 @@ with respect to
   W/STEBGT/TO
   W/STPOEBGT
 
-theft
+theft -> TH-FT
   STHEFT
   THEFT -> they have the
 

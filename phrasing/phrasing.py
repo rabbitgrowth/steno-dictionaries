@@ -135,6 +135,8 @@ remappings = {
     "EULD":   "ideal",
     "HREULD": "ideally",
     "*EUD":   "id",
+
+    "TH-FT": "theft", # E got stolen? or associate with TKPW-PB "gun"
 }
 
 remappings_reversed = {
