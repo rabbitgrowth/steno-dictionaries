@@ -128,7 +128,7 @@ remappings = {
     "EUD":    "idea",
     "EULD":   "ideal",
     "HREULD": "ideally",
-    "*EUD":   "id",
+    "*EUD":   "id", # as in psychoanalysis
 
     "TEPL": "item",
 
