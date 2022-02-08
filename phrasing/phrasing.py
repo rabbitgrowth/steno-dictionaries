@@ -42,51 +42,49 @@ for stroke, translation in main.items():
     main_reversed[translation].append(stroke)
 
 
-nothing = ("", "")
+i = {
+    "KWR": "I",
+}
 
-i = [
-    ("KWR", "I"),
-]
+i_am = {
+    "KWR-PL": "I am",
+    "AOEUPL": "I'm", # special case to avoid *
+    "KWR-FS": "I was",
+}
 
-i_am = [
-    ("KWR-PL", "I am"),
-    ("AOEUPL", "I'm"), # special case to avoid *
-    ("KWR-FS", "I was"),
-]
+people = {
+    "U":   "you",
+    "W":   "we",
+    "THE": "they",
+}
 
-people = [
-    ("U",   "you"),
-    ("W",   "we"),
-    ("THE", "they"),
-]
+person = {
+    "H":  "he",
+    "SH": "she",
+    "T":  "it", # or thing
+}
 
-person = [
-    ("H",  "he"),
-    ("SH", "she"),
-    ("T",  "it"), # or thing
-]
+pronoun = i | people | person
 
-pronoun = i + people + person
+are = {
+    "-R": "are",
+    "*R": "^'re",
+}
 
-are = [
-    ("-R", "are"),
-    ("*R", "^'re"),
-]
+is_ = {
+    "-S":  "is",
+    "*S":  "^'s",
+    "-FS": "was",
+}
 
-is_ = [
-    ("-S",  "is"),
-    ("*S",  "^'s"),
-    ("-FS", "was"),
-]
+were = {
+    "-RP": "were", # used with all pronouns in the subjunctive
+}
 
-were = [
-    ("-RP", "were"), # used with all pronouns in the subjunctive
-]
-
-maybe_the = [
-    nothing,
-    ("-T", "the"),
-]
+maybe_the = {
+    "":   "",
+    "-T": "the",
+}
 
 patterns = [
     (i_am,          maybe_the),
@@ -99,7 +97,7 @@ patterns = [
 dictionary = {}
 
 for pattern in patterns:
-    for combination in itertools.product(*pattern):
+    for combination in itertools.product(*(p.items() for p in pattern)):
         strokes, phrase = zip(*combination)
         stroke = str(stack(map(Stroke, strokes)))
         translation = join(phrase)
