@@ -116,6 +116,19 @@ patterns.extend([
     (everyone,   had,  maybe_been), # -TD feels weird, and -BTD violates inversion rule
 ])
 
+# Modal verbs
+
+modal_verb_right = {
+    '-BG':  'can',
+    '-BGD': 'could',
+    '-RB':  'shall',
+    '-RBD': 'should',
+    '-L':   'will',
+    '-LD':  'would',
+}
+
+patterns.append((everyone, modal_verb_right))
+
 
 phrasing = {}
 

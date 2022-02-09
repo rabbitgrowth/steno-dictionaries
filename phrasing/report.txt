@@ -34,6 +34,22 @@ you are
   *UR -> you're
   R*U
 
+{,}
+  -BGS
+  -FRBGS
+  -RB
+  -RBG
+  -RBGS
+  -RBS
+  -RGS
+  KW-B
+  KW-BG
+  KWR-BG -> I can
+  KWR-BGS
+  TP-PL/-RBGS
+  TP-PL/KW-BG
+  W-BG -> we can
+
 were
   -RP
   WR -> where
@@ -47,7 +63,7 @@ they're
   THA*EUR
   THER -> they are
   THER/AE
-  THERB
+  THERB -> they shall
 
 item -> TEPL
   AOEU/TEPL
@@ -60,6 +76,16 @@ idea -> EUD
   AOEU/TKAOE/KWRA
   KWR-D -> I had
   KWRUD
+
+ideal -> EULD
+  AOEU/TKAOEL
+  AOEUD/AOEL
+  AOEUD/TKAOEL
+  KW-LD
+  KWR-D/A*L
+  KWR-D/AOEL
+  KWR-L -> I will
+  KWR-LD -> I would
 
 you've
   AOUF
@@ -76,6 +102,21 @@ I would
   EULD -> ideal
   WOEU
 
+it'll
+  EUT/AOEL
+  T*L
+  T-L -> it will
+
+hello
+  H*EL
+  H-L -> he will
+  HEL/HRO
+  HEL/HROE
+  HO*EL
+
+health care
+  H-BG -> he can
+
 had had
   H-D -> he had
 
@@ -84,6 +125,17 @@ had had
   STH-S
   STP-S
   STPH-S
+
+HDL
+  H-LD -> he would
+
+welcomed
+  HR-BGD
+  W*ELGD
+  W-BGD -> we could
+  WEL/KOPL/-D
+  WEL/KOPLD
+  WELGD
 
 Yours very truly{,}
   KWR*FT -> I've the
@@ -100,12 +152,19 @@ I mean
 {&y-}
   KWR-PLT -> I am the
 
+you'll
+  KWRAO*UL
+  KWRO*UL
+  KWROU/AOEL
+  UL -> you will
+  UL/AE
+
 you're
   KWRAO*UR
   KWRO*UR
   UR -> you are
   UR/AE
-  URB
+  URB -> you shall
 
 {>}ssh
   SH-S -> she is
@@ -137,6 +196,13 @@ they've
   THEF -> they have
   THEF/AE
 
+they'll
+  THA*EUL
+  THAEU/AOEL
+  THAEUL
+  THEL -> they will
+  THEL/AE
+
 USB
   UFB -> you have been
 
@@ -161,6 +227,13 @@ where -> WR
 
 {^ed with}
   W-D -> we had
+
+whereby
+  W-R/PWEU
+  W-RB -> we shall
+  WR*RB
+  WR-B
+  WR-RB
 
 with respect
   W-RPT -> we were the
