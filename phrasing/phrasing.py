@@ -144,6 +144,8 @@ negative = {
     "U":  "couldn't",
 }
 
+nt = {"-PBT": ""}
+
 verb = {
     "-BL":  "believe",
     "-FL":  "feel",
@@ -155,7 +157,10 @@ verb = {
     "-PT":  "want",
 }
 
-patterns.append((i, maybe(negative), verb))
+patterns.extend([
+    (i, negative, nt),
+    (i, maybe(negative), verb),
+])
 
 
 phrasing = {}
