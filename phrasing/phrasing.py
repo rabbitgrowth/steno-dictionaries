@@ -68,10 +68,10 @@ person = {
 
 pronoun = i | people | person
 
-i_am = {
-    "KWR-PL": "I am",
-    "AOEUPL": "I'm", # special case to avoid *
-    "KWR-FS": "I was",
+am = {
+    "-PL": "am",
+    "*PL": "am",
+    "-FS": "was",
 }
 
 are = {
@@ -87,16 +87,6 @@ is_ = {
 
 were = {"-RP": "were"} # used with all pronouns in the subjunctive
 
-maybe_the = {
-    "":   "",
-    "-T": "the",
-}
-
-i_have = {
-    "KWR-F": "I have",
-    "AOEUF": "I've", # special case to avoid *
-}
-
 have = {
     "-F": "have",
     "*F": "^'ve",
@@ -111,13 +101,18 @@ maybe_been = {
     "-B": "been",
 }
 
+maybe_the = {
+    "":   "",
+    "-T": "the",
+}
+
 patterns = [
-    (i_am,          maybe_the),
+    (i,       am,   maybe_the),
     (people,  are,  maybe_the),
     (person,  is_,  maybe_the),
     (pronoun, were, maybe_the),
 
-    (i_have,        maybe_been, maybe_the),
+    (i,       have, maybe_been, maybe_the),
     (people,  have, maybe_been, maybe_the),
     (person,  has,  maybe_been), # -TZ requires Philly shift, and -BTZ is impossible
     (pronoun, had,  maybe_been), # -TD feels weird, and -BTD violates inversion rule

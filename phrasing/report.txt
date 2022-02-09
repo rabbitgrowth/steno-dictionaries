@@ -49,12 +49,6 @@ they're
   THER/AE
   THERB
 
-item -> TEPL
-  AOEU/TEPL
-  AOEUPLT -> I'm the
-  AOEUT/EPL
-  AOEUT/TEPL
-
 idea -> EUD
   AOEU/TKAOE/A
   AOEU/TKAOE/KWRA
@@ -84,6 +78,9 @@ had had
   STH-S
   STP-S
   STPH-S
+
+Yours very truly{,}
+  KWR*FT -> I've the
 
 why was
   KWR-FS -> I was
