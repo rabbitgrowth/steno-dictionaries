@@ -234,12 +234,16 @@ with parent_dir.joinpath('report.txt').open('w') as f:
         if remaps:
             if wrote:
                 f.write('\n')
-            suffix = '' if translation not in remaps_reversed else f' -> {remaps_reversed[translation]}'
-            f.write(f'{translation}{suffix}\n')
+            f.write(translation)
+            if translation in remaps_reversed:
+                f.write(f' -> {remaps_reversed[translation]}')
+            f.write('\n')
             wrote = True
             for rtfcre in rtfcres:
-                suffix = '' if rtfcre not in remaps else f' -> {remaps[rtfcre]}'
-                f.write(f'  {rtfcre}{suffix}\n')
+                f.write(f'  {rtfcre}')
+                if rtfcre in remaps:
+                    f.write(f' -> {remaps[rtfcre]}')
+                f.write('\n')
 
 with parent_dir.joinpath('phrasing.json').open('w') as f:
     json.dump(phrasing, f, indent=4)
