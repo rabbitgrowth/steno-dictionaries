@@ -140,7 +140,7 @@ for pattern in patterns:
             update(phrasing, stroke, translation)
 
 
-remappings = {
+remaps = {
     "EUD":    "idea",
     "EULD":   "ideal",
     "HREULD": "ideally",
@@ -155,12 +155,12 @@ remappings = {
     "WRU":  "where you",
 }
 
-remappings_reversed = {
+remaps_reversed = {
     translation: rtfcre
-    for rtfcre, translation in remappings.items()
+    for rtfcre, translation in remaps.items()
 }
 
-for rtfcre, translation in remappings.items():
+for rtfcre, translation in remaps.items():
     stroke = Stroke(rtfcre)
     update(phrasing, stroke, translation)
 
@@ -183,18 +183,18 @@ wrote = False
 
 with parent_dir.joinpath('report.txt').open('w') as f:
     for translation, rtfcres in main_reversed.items():
-        remappings = {}
+        remaps = {}
         for rtfcre in rtfcres:
             if rtfcre in phrasing and phrasing[rtfcre] != translation:
-                remappings[rtfcre] = phrasing[rtfcre]
-        if remappings:
+                remaps[rtfcre] = phrasing[rtfcre]
+        if remaps:
             if wrote:
                 f.write('\n')
-            suffix = '' if translation not in remappings_reversed else f' -> {remappings_reversed[translation]}'
+            suffix = '' if translation not in remaps_reversed else f' -> {remaps_reversed[translation]}'
             f.write(f'{translation}{suffix}\n')
             wrote = True
             for rtfcre in rtfcres:
-                suffix = '' if rtfcre not in remappings else f' -> {remappings[rtfcre]}'
+                suffix = '' if rtfcre not in remaps else f' -> {remaps[rtfcre]}'
                 f.write(f'  {rtfcre}{suffix}\n')
 
 with parent_dir.joinpath('phrasing.json').open('w') as f:
