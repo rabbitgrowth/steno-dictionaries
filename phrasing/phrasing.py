@@ -168,15 +168,11 @@ remaps = {
     "EULD":   "ideal",
     "HREULD": "ideally",
     "*EUD":   "id", # as in psychoanalysis
-
-    "TEPL": "item",
-
-    "TH-FT": "theft", # E got stolen? or associate with TKPW-PB "gun"
-
-    "WR":   "where",
-    "WR-T": "where the",
-    "WRU":  "where you",
-
+    "TEPL":   "item",
+    "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
+    "WR":     "where",
+    "WR-T":   "where the",
+    "WRU":    "where you",
     "WHAOUS": "whose",
 }
 
