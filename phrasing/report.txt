@@ -143,6 +143,16 @@ welcomed
   WEL/KOPLD
   WELGD
 
+what's
+  KWHATS
+  WHA*S
+  WHAES
+  WHALTS
+  WHAS/AE
+  WHATS -> what is the
+  WHATSZ
+  WHRATS
+
 why was
   KWR-FS -> I was
 
@@ -290,3 +300,7 @@ with respect
 
 where the -> WR-T
   W-RT -> we are the
+
+whore
+  WHOER
+  WHOR -> who are

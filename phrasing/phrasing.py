@@ -112,6 +112,19 @@ patterns.extend([
     (pronoun,            had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
 ])
 
+# wh-words
+
+wh_word = {
+    "WHA": "what",
+    "WH":  "when",
+    "WR":  "where",
+    "KH":  "which",
+    "WHO": "who",
+    # TODO: figure out what to do with "why"
+}
+
+patterns.append((wh_word, is_ | are | was, maybe(the)))
+
 # Modal verbs
 
 modal_verb = {
