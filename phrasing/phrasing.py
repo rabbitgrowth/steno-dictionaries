@@ -153,12 +153,14 @@ verb = {
     "-GT":  "get",
     "-LG":  "like",
     "-RPL": "remember",
+    "-BZ":  "say",
     "-PBG": "think",
     "-PT":  "want",
 }
 
 verb_past_tense = {
     "-FLT": "felt",
+    "-BS":  "said",
 }
 
 patterns.extend([
