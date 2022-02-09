@@ -75,7 +75,7 @@ everyone = i | people | person
 
 am = {
     "-PL": "am",
-    "*PL": "am",
+    "*PL": "^'m",
     "-FS": "was",
 }
 
