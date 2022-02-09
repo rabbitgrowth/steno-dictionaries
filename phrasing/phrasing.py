@@ -125,6 +125,8 @@ modal_verb_right = {
     "-RBD": "should",
     "-L":   "will",
     "-LD":  "would",
+    "*L":   "^'ll",
+    "*D":   "^'d", # could be short for "had" too, so use *D instead of *LD
 }
 
 patterns.append((pronoun_left, modal_verb_right))
