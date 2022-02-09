@@ -52,6 +52,11 @@ for stroke, translation in main.items():
 # "person" |  she   | is 's was  |       | has       |
 #          \  it    /            /       /           /
 
+
+# "be"
+
+patterns = []
+
 i = {"KWR": "I"}
 
 people = {
@@ -87,13 +92,27 @@ is_ = {
 
 were = {"-RP": "were"} # used with all pronouns in the subjunctive
 
+maybe_the = {
+    "":   "",
+    "-T": "the",
+}
+
+patterns.extend([
+    (i,        am,   maybe_the),
+    (people,   are,  maybe_the),
+    (person,   is_,  maybe_the),
+    (everyone, were, maybe_the),
+])
+
+
+# "have"
+
 have = {
     "-F": "have",
     "*F": "^'ve",
 }
 
 has = {"-Z": "has"}
-
 had = {"-D": "had"} # used with all pronouns
 
 maybe_been = {
@@ -101,21 +120,11 @@ maybe_been = {
     "-B": "been",
 }
 
-maybe_the = {
-    "":   "",
-    "-T": "the",
-}
-
-patterns = [
-    (i,        am,   maybe_the),
-    (people,   are,  maybe_the),
-    (person,   is_,  maybe_the),
-    (everyone, were, maybe_the),
-
+patterns.extend([
     (i | people, have, maybe_been, maybe_the),
     (person,     has,  maybe_been), # -TZ requires Philly shift, and -BTZ is impossible
     (everyone,   had,  maybe_been), # -TD feels weird, and -BTD violates inversion rule
-]
+])
 
 
 dictionary = {}
