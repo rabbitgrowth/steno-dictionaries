@@ -50,19 +50,19 @@ patterns = []
 
 i = {"KWR": "I"}
 
-plural_pronoun_left = {
+plural_pronoun = {
     "U":   "you",
     "W":   "we",
     "THE": "they",
 }
 
-singular_pronoun_left = {
+singular_pronoun = {
     "H":  "he",
     "SH": "she",
     "T":  "it", # or thing
 }
 
-pronoun_left = i | plural_pronoun_left | singular_pronoun_left
+pronoun = i | plural_pronoun | singular_pronoun
 
 am = {
     "-PL": "am",
@@ -89,10 +89,10 @@ maybe_the = {
 }
 
 patterns.extend([
-    (i,                     am,   maybe_the),
-    (plural_pronoun_left,   are,  maybe_the),
-    (singular_pronoun_left, is_,  maybe_the),
-    (pronoun_left,          were, maybe_the),
+    (i,                am,   maybe_the),
+    (plural_pronoun,   are,  maybe_the),
+    (singular_pronoun, is_,  maybe_the),
+    (pronoun,          were, maybe_the),
 ])
 
 # "have"
@@ -111,14 +111,14 @@ maybe_been = {
 }
 
 patterns.extend([
-    (i | plural_pronoun_left, have, maybe_been, maybe_the),
-    (singular_pronoun_left,   has,  maybe_been), # -TZ requires Philly shift, and -BTZ is impossible
-    (pronoun_left,            had,  maybe_been), # -TD feels weird, and -BTD violates inversion rule
+    (i | plural_pronoun, have, maybe_been, maybe_the),
+    (singular_pronoun,   has,  maybe_been), # -TZ requires Philly shift, and -BTZ is impossible
+    (pronoun,            had,  maybe_been), # -TD feels weird, and -BTD violates inversion rule
 ])
 
 # Modal verbs
 
-modal_verb_right = {
+modal_verb = {
     "-BG":  "can",
     "-BGD": "could",
     "-RB":  "shall",
@@ -129,7 +129,7 @@ modal_verb_right = {
     "*D":   "^'d", # could be short for "had" too, so use *D instead of *LD
 }
 
-patterns.append((pronoun_left, modal_verb_right))
+patterns.append((pronoun, modal_verb))
 
 
 phrasing = {}
