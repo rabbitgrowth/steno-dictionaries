@@ -117,7 +117,7 @@ patterns.extend([
 ])
 
 
-dictionary = {}
+phrasing = {}
 
 def update(dictionary, stroke, translation):
     rtfcre = str(stroke)
@@ -132,12 +132,12 @@ for pattern in patterns:
         strokes, phrase = zip(*combination)
         stroke = stack(map(Stroke, strokes))
         translation = join(phrase)
-        update(dictionary, stroke, translation)
+        update(phrasing, stroke, translation)
 
         # "I'*" special case
         if Stroke('KWR*') in stroke and translation.startswith("I'"):
             stroke = stroke - Stroke('KWR*') + Stroke('AOEU')
-            update(dictionary, stroke, translation)
+            update(phrasing, stroke, translation)
 
 
 remappings = {
@@ -162,11 +162,11 @@ remappings_reversed = {
 
 for rtfcre, translation in remappings.items():
     stroke = Stroke(rtfcre)
-    update(dictionary, stroke, translation)
+    update(phrasing, stroke, translation)
 
 
 # Add dummy entry to ensure trailing comma after each real entry
-dictionary['WUZ/WUZ'] = '{#}'
+phrasing['WUZ/WUZ'] = '{#}'
 
 
 parent_dir = pathlib.Path(__file__).parent
@@ -185,8 +185,8 @@ with parent_dir.joinpath('report.txt').open('w') as f:
     for translation, rtfcres in main_reversed.items():
         remappings = {}
         for rtfcre in rtfcres:
-            if rtfcre in dictionary and dictionary[rtfcre] != translation:
-                remappings[rtfcre] = dictionary[rtfcre]
+            if rtfcre in phrasing and phrasing[rtfcre] != translation:
+                remappings[rtfcre] = phrasing[rtfcre]
         if remappings:
             if wrote:
                 f.write('\n')
@@ -198,4 +198,4 @@ with parent_dir.joinpath('report.txt').open('w') as f:
                 f.write(f'  {rtfcre}{suffix}\n')
 
 with parent_dir.joinpath('phrasing.json').open('w') as f:
-    json.dump(dictionary, f, indent=4)
+    json.dump(phrasing, f, indent=4)
