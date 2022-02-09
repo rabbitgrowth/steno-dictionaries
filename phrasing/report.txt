@@ -180,12 +180,39 @@ with respect to
   W/STEBGT/TO
   W/STPOEBGT
 
+that's
+  STHATS
+  TH-TS -> this is the
+  THA*S
+  THA*TS -> that's the
+  THALGTS
+  THALTS
+  THAS/-TS
+  THAS/AE
+  THAS/AOE
+  THATS -> that is the
+  THATS/AE
+  THATSZ
+  THRATS
+  TPHATS
+
 theft -> TH-FT
   STHEFT
   THEFT -> they have the
 
 {^ed it}
   T-D -> it had
+
+third degree
+  TH*D -> this'd
+
+this'll
+  TH*L
+  TH-L -> this will
+  TH-L/AE
+
+third-degree
+  TH-D -> this had
 
 they'd
   THA*EUD
@@ -205,6 +232,25 @@ they'll
   THAEUL
   THEL -> they will
   THEL/AE
+
+that'll
+  THA*L
+  THA/AOEL
+  THAL -> that will
+  THAL/AE
+  THALT
+  THAO*EL
+
+thank
+  THA*PBG
+  THABG -> that can
+  THAPB/*BG
+  THAPBG
+  THAPG
+  THRA*PBG
+
+{^ed that}
+  THAD -> that had
 
 USB
   UFB -> you have been
