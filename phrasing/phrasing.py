@@ -69,6 +69,11 @@ singular_pronoun = {
 
 pronoun = i | plural_pronoun | singular_pronoun
 
+is_ = {
+    "-S":  "is",
+    "*S":  "^'s",
+}
+
 am = {
     "-PL": "am",
     "*PL": "^'m",
@@ -77,11 +82,6 @@ am = {
 are = {
     "-R": "are",
     "*R": "^'re",
-}
-
-is_ = {
-    "-S":  "is",
-    "*S":  "^'s",
 }
 
 was  = {"-FS": "was"}
