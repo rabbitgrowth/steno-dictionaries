@@ -157,9 +157,14 @@ verb = {
     "-PT":  "want",
 }
 
+verb_past_tense = {
+    "-FLT": "felt",
+}
+
 patterns.extend([
     (i, negative, nt),
     (i, maybe(negative), verb),
+    (i, verb_past_tense),
 ])
 
 
