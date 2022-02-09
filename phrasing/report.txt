@@ -143,6 +143,17 @@ welcomed
   WEL/KOPLD
   WELGD
 
+CHF
+  KH-F -> which have
+
+whatever
+  KWHAFR
+  WHA*FR
+  WHAEFR
+  WHAF -> what have
+  WHAFR
+  WHRAFR
+
 what's
   KWHATS
   WHA*S
@@ -301,6 +312,17 @@ where the -> WR-T
 When were
   WH-RP -> when were
 
+who've
+  WHO*F
+  WHO/AO*EF
+  WHOF -> who have
+
+who say
+  WHOBZ -> who has been
+
 whore
   WHOER
   WHOR -> who are
+
+whose
+  WHOZ -> who has

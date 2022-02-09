@@ -123,6 +123,8 @@ wh_word = {
 
 patterns.extend([
     (wh_word, is_ | are | was, maybe(the)),
+    (wh_word, have, maybe(been), maybe(the)),
+    (wh_word, has,  maybe(been)),
     (pronoun | wh_word, were, maybe(the)),
     (pronoun | wh_word, had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
 ])
