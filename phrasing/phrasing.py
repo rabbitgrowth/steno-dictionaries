@@ -66,7 +66,7 @@ person = {
     "T":  "it", # or thing
 }
 
-pronoun = i | people | person
+everyone = i | people | person
 
 am = {
     "-PL": "am",
@@ -107,15 +107,15 @@ maybe_the = {
 }
 
 patterns = [
-    (i,       am,   maybe_the),
-    (people,  are,  maybe_the),
-    (person,  is_,  maybe_the),
-    (pronoun, were, maybe_the),
+    (i,        am,   maybe_the),
+    (people,   are,  maybe_the),
+    (person,   is_,  maybe_the),
+    (everyone, were, maybe_the),
 
-    (i,       have, maybe_been, maybe_the),
-    (people,  have, maybe_been, maybe_the),
-    (person,  has,  maybe_been), # -TZ requires Philly shift, and -BTZ is impossible
-    (pronoun, had,  maybe_been), # -TD feels weird, and -BTD violates inversion rule
+    (i,        have, maybe_been, maybe_the),
+    (people,   have, maybe_been, maybe_the),
+    (person,   has,  maybe_been), # -TZ requires Philly shift, and -BTZ is impossible
+    (everyone, had,  maybe_been), # -TD feels weird, and -BTD violates inversion rule
 ]
 
 
