@@ -65,6 +65,18 @@ they're
   THER/AE
   THERB -> they shall
 
+atrium
+  AEURPLT
+  AEURT/KWRUPL
+  AEURT/KWRURPL
+  AEUT/RAOE/KWRUPL
+  AEUT/RAOE/UPL
+  AEUT/RUPL
+  AEUT/TRAOE/KWRUPL
+  AEUT/TRAOE/UPL
+  AT/REU/KWRUPL
+  KWRURPL -> I couldn't remember
+
 item -> TEPL
   AOEU/TEPL
   AOEUPLT -> I'm the
@@ -94,6 +106,10 @@ you've
   KWROU/AO*EF
   UF -> you have
   UF/AE
+
+audiology
+  AUD/KWROLG
+  KWROLG -> I don't like
 
 id -> *EUD
   EUD -> idea
@@ -164,6 +180,9 @@ what's
   WHATSZ
   WHRATS
 
+idea of
+  KWR-FD -> I find
+
 why was
   KWR-FS -> I was
 
@@ -175,6 +194,9 @@ I mean
 
 {&y-}
   KWR-PLT -> I am the
+
+I can't have had
+  KWRAFD -> I can't find
 
 you'll
   KWRAO*UL
@@ -189,6 +211,20 @@ you're
   UR -> you are
   UR/AE
   URB -> you shall
+
+Yang
+  KWRAPBG -> I can't think
+
+I don't think
+  KWREUPBG -> I didn't think
+  KWREUPG
+  KWROEUPBG
+  KWROPBG
+  SKWREUPBG
+
+young
+  KWROUPBG
+  KWRUPBG -> I couldn't think
 
 {>}ssh
   SH-S -> she is

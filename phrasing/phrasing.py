@@ -135,6 +135,28 @@ modal_verb = {
 
 patterns.append((pronoun | wh_word, modal_verb))
 
+# Verbs
+
+negative = {
+    "O":  "don't",
+    "EU": "didn't",
+    "A":  "can't",
+    "U":  "couldn't",
+}
+
+verb = {
+    "-BL":  "believe",
+    "-FL":  "feel",
+    "-FD":  "find",
+    "-GT":  "get",
+    "-LG":  "like",
+    "-RPL": "remember",
+    "-PBG": "think",
+    "-PT":  "want",
+}
+
+patterns.append((i, maybe(negative), verb))
+
 
 phrasing = {}
 
