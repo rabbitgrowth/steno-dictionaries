@@ -185,6 +185,8 @@ remaps = {
     "WR":   "where",
     "WR-T": "where the",
     "WRU":  "where you",
+
+    "WHAOUS": "whose",
 }
 
 remaps_reversed = {

@@ -324,5 +324,5 @@ whore
   WHOER
   WHOR -> who are
 
-whose
+whose -> WHAOUS
   WHOZ -> who has
