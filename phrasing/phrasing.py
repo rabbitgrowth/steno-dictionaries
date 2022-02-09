@@ -17,7 +17,9 @@ Stroke.setup(
 )
 
 
-stack = functools.partial(functools.reduce, operator.add)
+def stack(strokes):
+    return functools.reduce(operator.add, strokes)
+
 # sum() doesn't work as expected:
 # >>> stack((Stroke('THA'), Stroke('AEU')))
 #     THAEU
