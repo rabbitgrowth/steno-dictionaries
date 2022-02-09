@@ -62,7 +62,7 @@ plural_pronoun = {
 singular_pronoun = {
     "H":   "he",
     "SH":  "she",
-    "T":   "it", # or thing
+    "T":   "it",
     "TH":  "this",
     "THA": "that",
 }
