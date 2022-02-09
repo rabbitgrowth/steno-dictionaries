@@ -213,9 +213,6 @@ theft -> TH-FT
 {^ed it}
   T-D -> it had
 
-third degree
-  TH*D -> this'd
-
 this'll
   TH*L
   TH-L -> this will

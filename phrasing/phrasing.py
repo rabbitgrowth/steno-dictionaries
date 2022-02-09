@@ -157,7 +157,11 @@ for pattern in patterns:
         stroke = stack(map(Stroke, strokes))
         translation = join(phrase)
 
-        # "I'*" special case
+        # Filter out "this's", "which're", etc.
+        if "s'" in translation or "ch'" in translation:
+            continue
+
+        # Use AOEU instead of KWR* for "I'*" to avoid *
         if Stroke('KWR*') in stroke and translation.startswith("I'"):
             stroke = stroke - Stroke('KWR*') + Stroke('AOEU')
 
