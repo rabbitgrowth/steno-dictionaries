@@ -49,6 +49,12 @@ they're
   THER/AE
   THERB
 
+item -> TEPL
+  AOEU/TEPL
+  AOEUPLT -> I'm the
+  AOEUT/EPL
+  AOEUT/TEPL
+
 idea -> EUD
   AOEU/TKAOE/A
   AOEU/TKAOE/KWRA

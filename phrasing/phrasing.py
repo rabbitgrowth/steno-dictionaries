@@ -127,6 +127,19 @@ patterns.extend([
 ])
 
 
+# "I'*" special case
+
+i_special = {"AOEU": "I"}
+
+i_special_contractions = {
+    "-PL": "^'m",
+    "-F":  "^'ve",
+    "-FB": "^'ve been",
+}
+
+patterns.append((i_special, i_special_contractions, maybe_the))
+
+
 dictionary = {}
 
 for pattern in patterns:
