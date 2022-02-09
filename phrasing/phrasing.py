@@ -131,7 +131,10 @@ for pattern in patterns:
         strokes, phrase = zip(*combination)
         stroke = str(stack(map(Stroke, strokes)))
         translation = join(phrase)
-        assert stroke not in dictionary
+        assert stroke not in dictionary, (
+            f'Trying to define {stroke} as "{translation}" '
+            f'but that\'s already defined as "{dictionary[stroke]}"'
+        )
         dictionary[stroke] = translation
 
 remappings = {
