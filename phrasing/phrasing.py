@@ -147,12 +147,12 @@ for pattern in patterns:
         strokes, phrase = zip(*combination)
         stroke = stack(map(Stroke, strokes))
         translation = join(phrase)
-        update(phrasing, stroke, translation)
 
         # "I'*" special case
         if Stroke('KWR*') in stroke and translation.startswith("I'"):
             stroke = stroke - Stroke('KWR*') + Stroke('AOEU')
-            update(phrasing, stroke, translation)
+
+        update(phrasing, stroke, translation)
 
 
 remaps = {

@@ -143,12 +143,6 @@ welcomed
   WEL/KOPLD
   WELGD
 
-why'd
-  KWR*D -> I'd
-
-Yours very truly{,}
-  KWR*FT -> I've the
-
 why was
   KWR-FS -> I was
 
