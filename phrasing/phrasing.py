@@ -37,16 +37,6 @@ def maybe(component):
     return {"": "", **component}
 
 
-# I     am 'm was    \       \           \
-#                    |       |           |
-# you   \            |       | have 've  |
-# we    | are 're    |       |           |
-# they  /            | were  /           | had
-#                    |                   |
-# he    \            |       \           |
-# she   | is 's was  |       | has       |
-# it    /            /       /           /
-
 patterns = []
 
 # "be"
