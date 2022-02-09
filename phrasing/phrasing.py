@@ -74,9 +74,8 @@ are = {
     "*R": "^'re",
 }
 
-was  = {"-FS": "was"}
-were = {"-RP": "were"} # used with all pronouns in the subjunctive
-the  = {"-T":  "the"}
+was = {"-FS": "was"}
+the = {"-T":  "the"}
 
 patterns.extend([
     (i,                am  | was, maybe(the)),
@@ -92,7 +91,6 @@ have = {
 }
 
 has  = {"-Z": "has"}
-had  = {"-D": "had"} # used with all pronouns
 been = {"-B": "been"}
 
 patterns.extend([
@@ -110,6 +108,9 @@ wh_word = {
     "WHO": "who",
     # TODO: figure out what to do with "why"
 }
+
+were = {"-RP": "were"}
+had  = {"-D":  "had"}
 
 patterns.extend([
     (wh_word, is_ | are | was, maybe(the)),
