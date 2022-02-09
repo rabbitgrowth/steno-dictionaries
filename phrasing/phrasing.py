@@ -67,7 +67,6 @@ pronoun = i | plural_pronoun | singular_pronoun
 am = {
     "-PL": "am",
     "*PL": "^'m",
-    "-FS": "was",
 }
 
 are = {
@@ -78,9 +77,9 @@ are = {
 is_ = {
     "-S":  "is",
     "*S":  "^'s",
-    "-FS": "was",
 }
 
+was  = {"-FS": "was"}
 were = {"-RP": "were"} # used with all pronouns in the subjunctive
 
 maybe_the = {
@@ -89,10 +88,10 @@ maybe_the = {
 }
 
 patterns.extend([
-    (i,                am,   maybe_the),
-    (plural_pronoun,   are,  maybe_the),
-    (singular_pronoun, is_,  maybe_the),
-    (pronoun,          were, maybe_the),
+    (i,                am  | was, maybe_the),
+    (plural_pronoun,   are,       maybe_the),
+    (singular_pronoun, is_ | was, maybe_the),
+    (pronoun,          were,      maybe_the),
 ])
 
 # "have"
