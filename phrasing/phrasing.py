@@ -17,7 +17,7 @@ Stroke.setup(
 )
 
 
-stack = functools.partial(functools.reduce, operator.or_)
+stack = functools.partial(functools.reduce, operator.add)
 # sum() doesn't work as expected:
 # >>> stack((Stroke('THA'), Stroke('AEU')))
 #     THAEU
@@ -38,8 +38,8 @@ with parent_dir.parent.joinpath('main.json').open() as f:
     main = json.load(f)
 
 main_reversed = collections.defaultdict(list)
-for stroke, translation in main.items():
-    main_reversed[translation].append(stroke)
+for rtfcre, translation in main.items():
+    main_reversed[translation].append(rtfcre)
 
 
 #             I     am 'm was    \       \           \
@@ -127,31 +127,28 @@ patterns.extend([
 ])
 
 
-# "I'*" special case
-
-i_special = {"AOEU": "I"}
-
-i_special_contractions = {
-    "-PL": "^'m",
-    "-F":  "^'ve",
-    "-FB": "^'ve been",
-}
-
-patterns.append((i_special, i_special_contractions, maybe_the))
-
-
 dictionary = {}
+
+def update(dictionary, stroke, translation):
+    rtfcre = str(stroke)
+    assert rtfcre not in dictionary, (
+        f'Trying to define {rtfcre} as "{translation}" '
+        f'but that\'s already defined as "{dictionary[rtfcre]}"'
+    )
+    dictionary[rtfcre] = translation
 
 for pattern in patterns:
     for combination in itertools.product(*(p.items() for p in pattern)):
         strokes, phrase = zip(*combination)
-        stroke = str(stack(map(Stroke, strokes)))
+        stroke = stack(map(Stroke, strokes))
         translation = join(phrase)
-        assert stroke not in dictionary, (
-            f'Trying to define {stroke} as "{translation}" '
-            f'but that\'s already defined as "{dictionary[stroke]}"'
-        )
-        dictionary[stroke] = translation
+        update(dictionary, stroke, translation)
+
+        # "I'*" special case
+        if Stroke('KWR*') in stroke and translation.startswith("I'"):
+            stroke = stroke - Stroke('KWR*') + Stroke('AOEU')
+            update(dictionary, stroke, translation)
+
 
 remappings = {
     "EUD":    "idea",
@@ -169,30 +166,33 @@ remappings = {
 }
 
 remappings_reversed = {
-    translation: stroke
-    for stroke, translation in remappings.items()
+    translation: rtfcre
+    for rtfcre, translation in remappings.items()
 }
 
-dictionary |= remappings
+for rtfcre, translation in remappings.items():
+    stroke = Stroke(rtfcre)
+    update(dictionary, stroke, translation)
+
 dictionary['WUZ/WUZ'] = '{#}' # to ensure trailing comma after each real entry
 
 wrote = False
 
 with parent_dir.joinpath('report.txt').open('w') as f:
-    for translation, strokes in main_reversed.items():
+    for translation, rtfcres in main_reversed.items():
         remappings = {}
-        for stroke in strokes:
-            if stroke in dictionary and dictionary[stroke] != translation:
-                remappings[stroke] = dictionary[stroke]
+        for rtfcre in rtfcres:
+            if rtfcre in dictionary and dictionary[rtfcre] != translation:
+                remappings[rtfcre] = dictionary[rtfcre]
         if remappings:
             if wrote:
                 f.write('\n')
             suffix = '' if translation not in remappings_reversed else f' -> {remappings_reversed[translation]}'
             f.write(f'{translation}{suffix}\n')
             wrote = True
-            for stroke in strokes:
-                suffix = '' if stroke not in remappings else f' -> {remappings[stroke]}'
-                f.write(f'  {stroke}{suffix}\n')
+            for rtfcre in rtfcres:
+                suffix = '' if rtfcre not in remappings else f' -> {remappings[rtfcre]}'
+                f.write(f'  {rtfcre}{suffix}\n')
 
 with parent_dir.joinpath('phrasing.json').open('w') as f:
     json.dump(dictionary, f, indent=4)
