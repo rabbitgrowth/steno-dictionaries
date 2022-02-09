@@ -33,6 +33,9 @@ def stack(strokes):
 def join(chunks):
     return ' '.join(filter(None, chunks)).replace(' ^', '')
 
+def maybe(component):
+    return {"": "", **component}
+
 
 # I     am 'm was    \       \           \
 #                    |       |           |
@@ -82,16 +85,13 @@ is_ = {
 was  = {"-FS": "was"}
 were = {"-RP": "were"} # used with all pronouns in the subjunctive
 
-maybe_the = {
-    "":   "",
-    "-T": "the",
-}
+the = {"-T": "the"}
 
 patterns.extend([
-    (i,                am  | was, maybe_the),
-    (plural_pronoun,   are,       maybe_the),
-    (singular_pronoun, is_ | was, maybe_the),
-    (pronoun,          were,      maybe_the),
+    (i,                am  | was, maybe(the)),
+    (plural_pronoun,   are,       maybe(the)),
+    (singular_pronoun, is_ | was, maybe(the)),
+    (pronoun,          were,      maybe(the)),
 ])
 
 # "have"
@@ -104,15 +104,12 @@ have = {
 has = {"-Z": "has"}
 had = {"-D": "had"} # used with all pronouns
 
-maybe_been = {
-    "":   "",
-    "-B": "been",
-}
+been = {"-B": "been"}
 
 patterns.extend([
-    (i | plural_pronoun, have, maybe_been, maybe_the),
-    (singular_pronoun,   has,  maybe_been), # -TZ requires Philly shift, and -BTZ is impossible
-    (pronoun,            had,  maybe_been), # -TD feels weird, and -BTD violates inversion rule
+    (i | plural_pronoun, have, maybe(been), maybe(the)),
+    (singular_pronoun,   has,  maybe(been)), # -TZ requires Philly shift, and -BTZ is impossible
+    (pronoun,            had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
 ])
 
 # Modal verbs
