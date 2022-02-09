@@ -34,15 +34,15 @@ def join(chunks):
     return ' '.join(filter(None, chunks)).replace(' ^', '')
 
 
-#             I     am 'm was    \       \           \
-#                                |       |           |
-#          /  you   \            |       | have 've  |
-# "people" |  we    | are 're    |       |           |
-#          \  they  /            | were  /           | had
-#                                |                   |
-#          /  he    \            |       \           |
-# "person" |  she   | is 's was  |       | has       |
-#          \  it    /            /       /           /
+# I     am 'm was    \       \           \
+#                    |       |           |
+# you   \            |       | have 've  |
+# we    | are 're    |       |           |
+# they  /            | were  /           | had
+#                    |                   |
+# he    \            |       \           |
+# she   | is 's was  |       | has       |
+# it    /            /       /           /
 
 patterns = []
 
@@ -50,19 +50,19 @@ patterns = []
 
 i = {"KWR": "I"}
 
-people = {
+plural_pronoun_left = {
     "U":   "you",
     "W":   "we",
     "THE": "they",
 }
 
-person = {
+singular_pronoun_left = {
     "H":  "he",
     "SH": "she",
     "T":  "it", # or thing
 }
 
-everyone = i | people | person
+pronoun_left = i | plural_pronoun_left | singular_pronoun_left
 
 am = {
     "-PL": "am",
@@ -89,10 +89,10 @@ maybe_the = {
 }
 
 patterns.extend([
-    (i,        am,   maybe_the),
-    (people,   are,  maybe_the),
-    (person,   is_,  maybe_the),
-    (everyone, were, maybe_the),
+    (i,                     am,   maybe_the),
+    (plural_pronoun_left,   are,  maybe_the),
+    (singular_pronoun_left, is_,  maybe_the),
+    (pronoun_left,          were, maybe_the),
 ])
 
 # "have"
@@ -111,9 +111,9 @@ maybe_been = {
 }
 
 patterns.extend([
-    (i | people, have, maybe_been, maybe_the),
-    (person,     has,  maybe_been), # -TZ requires Philly shift, and -BTZ is impossible
-    (everyone,   had,  maybe_been), # -TD feels weird, and -BTD violates inversion rule
+    (i | plural_pronoun_left, have, maybe_been, maybe_the),
+    (singular_pronoun_left,   has,  maybe_been), # -TZ requires Philly shift, and -BTZ is impossible
+    (pronoun_left,            had,  maybe_been), # -TD feels weird, and -BTD violates inversion rule
 ])
 
 # Modal verbs
@@ -127,7 +127,7 @@ modal_verb_right = {
     '-LD':  'would',
 }
 
-patterns.append((everyone, modal_verb_right))
+patterns.append((pronoun_left, modal_verb_right))
 
 
 phrasing = {}
