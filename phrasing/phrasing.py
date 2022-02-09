@@ -142,7 +142,7 @@ modal_verb = {
     "*D":   "^'d", # could be short for "had" too, so use *D instead of *LD
 }
 
-patterns.append((pronoun, modal_verb))
+patterns.append((pronoun | wh_word, modal_verb))
 
 
 phrasing = {}

@@ -300,7 +300,7 @@ whereby
   W-RB -> we shall
   WR*RB
   WR-B
-  WR-RB
+  WR-RB -> where shall
 
 with respect
   W-RPT -> we were the
@@ -312,10 +312,23 @@ where the -> WR-T
 When were
   WH-RP -> when were
 
+what'll
+  WHA*L
+  WHA/AOEL
+  WHAL -> what will
+
+whack
+  WHABG -> what can
+
 who've
   WHO*F
   WHO/AO*EF
   WHOF -> who have
+
+who'll
+  WHO*L
+  WHO/AOEL
+  WHOL -> who will
 
 who say
   WHOBZ -> who has been
