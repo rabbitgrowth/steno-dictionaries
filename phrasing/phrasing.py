@@ -34,16 +34,6 @@ def join(chunks):
     return ' '.join(filter(None, chunks)).replace(' ^', '')
 
 
-parent_dir = pathlib.Path(__file__).parent
-
-with parent_dir.parent.joinpath('main.json').open() as f:
-    main = json.load(f)
-
-main_reversed = collections.defaultdict(list)
-for rtfcre, translation in main.items():
-    main_reversed[translation].append(rtfcre)
-
-
 #             I     am 'm was    \       \           \
 #                                |       |           |
 #          /  you   \            |       | have 've  |
@@ -54,10 +44,9 @@ for rtfcre, translation in main.items():
 # "person" |  she   | is 's was  |       | has       |
 #          \  it    /            /       /           /
 
+patterns = []
 
 # "be"
-
-patterns = []
 
 i = {"KWR": "I"}
 
@@ -105,7 +94,6 @@ patterns.extend([
     (person,   is_,  maybe_the),
     (everyone, were, maybe_the),
 ])
-
 
 # "have"
 
@@ -176,7 +164,20 @@ for rtfcre, translation in remappings.items():
     stroke = Stroke(rtfcre)
     update(dictionary, stroke, translation)
 
-dictionary['WUZ/WUZ'] = '{#}' # to ensure trailing comma after each real entry
+
+# Add dummy entry to ensure trailing comma after each real entry
+dictionary['WUZ/WUZ'] = '{#}'
+
+
+parent_dir = pathlib.Path(__file__).parent
+
+with parent_dir.parent.joinpath('main.json').open() as f:
+    main = json.load(f)
+
+main_reversed = collections.defaultdict(list)
+for rtfcre, translation in main.items():
+    main_reversed[translation].append(rtfcre)
+
 
 wrote = False
 
