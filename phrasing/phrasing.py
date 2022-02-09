@@ -92,7 +92,6 @@ patterns.extend([
     (i,                am  | was, maybe(the)),
     (plural_pronoun,   are,       maybe(the)),
     (singular_pronoun, is_ | was, maybe(the)),
-    (pronoun,          were,      maybe(the)),
 ])
 
 # "have"
@@ -109,7 +108,6 @@ been = {"-B": "been"}
 patterns.extend([
     (i | plural_pronoun, have, maybe(been), maybe(the)),
     (singular_pronoun,   has,  maybe(been)), # -TZ requires Philly shift, and -BTZ is impossible
-    (pronoun,            had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
 ])
 
 # wh-words
@@ -123,7 +121,11 @@ wh_word = {
     # TODO: figure out what to do with "why"
 }
 
-patterns.append((wh_word, is_ | are | was, maybe(the)))
+patterns.extend([
+    (wh_word, is_ | are | was, maybe(the)),
+    (pronoun | wh_word, were, maybe(the)),
+    (pronoun | wh_word, had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
+])
 
 # Modal verbs
 

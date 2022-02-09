@@ -298,6 +298,9 @@ with respect
 where the -> WR-T
   W-RT -> we are the
 
+When were
+  WH-RP -> when were
+
 whore
   WHOER
   WHOR -> who are
