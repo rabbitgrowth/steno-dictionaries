@@ -112,10 +112,9 @@ patterns = [
     (person,   is_,  maybe_the),
     (everyone, were, maybe_the),
 
-    (i,        have, maybe_been, maybe_the),
-    (people,   have, maybe_been, maybe_the),
-    (person,   has,  maybe_been), # -TZ requires Philly shift, and -BTZ is impossible
-    (everyone, had,  maybe_been), # -TD feels weird, and -BTD violates inversion rule
+    (i | people, have, maybe_been, maybe_the),
+    (person,     has,  maybe_been), # -TZ requires Philly shift, and -BTZ is impossible
+    (everyone,   had,  maybe_been), # -TD feels weird, and -BTD violates inversion rule
 ]
 
 
