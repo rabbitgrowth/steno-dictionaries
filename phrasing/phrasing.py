@@ -43,12 +43,6 @@ patterns = []
 
 i = {"KWR": "I"}
 
-plural_pronoun = {
-    "U":   "you",
-    "W":   "we",
-    "THE": "they",
-}
-
 singular_pronoun = {
     "H":   "he",
     "SH":  "she",
@@ -57,7 +51,13 @@ singular_pronoun = {
     "THA": "that",
 }
 
-pronoun = i | plural_pronoun | singular_pronoun
+plural_pronoun = {
+    "U":   "you",
+    "W":   "we",
+    "THE": "they",
+}
+
+pronoun = i | singular_pronoun | plural_pronoun
 
 is_ = {
     "-S":  "is",
@@ -79,8 +79,8 @@ the = {"-T":  "the"}
 
 patterns.extend([
     (i,                am  | was, maybe(the)),
-    (plural_pronoun,   are,       maybe(the)),
     (singular_pronoun, is_ | was, maybe(the)),
+    (plural_pronoun,   are,       maybe(the)),
 ])
 
 # "have"
@@ -94,8 +94,8 @@ has  = {"-Z": "has"}
 been = {"-B": "been"}
 
 patterns.extend([
-    (i | plural_pronoun, have, maybe(been), maybe(the)),
     (singular_pronoun,   has,  maybe(been)), # -TZ requires Philly shift, and -BTZ is impossible
+    (i | plural_pronoun, have, maybe(been), maybe(the)),
 ])
 
 # wh-words
