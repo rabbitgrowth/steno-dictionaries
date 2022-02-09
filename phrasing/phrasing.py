@@ -119,12 +119,12 @@ patterns.extend([
 # Modal verbs
 
 modal_verb_right = {
-    '-BG':  'can',
-    '-BGD': 'could',
-    '-RB':  'shall',
-    '-RBD': 'should',
-    '-L':   'will',
-    '-LD':  'would',
+    "-BG":  "can",
+    "-BGD": "could",
+    "-RB":  "shall",
+    "-RBD": "should",
+    "-L":   "will",
+    "-LD":  "would",
 }
 
 patterns.append((pronoun_left, modal_verb_right))
