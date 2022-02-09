@@ -84,8 +84,7 @@ is_ = {
 
 was  = {"-FS": "was"}
 were = {"-RP": "were"} # used with all pronouns in the subjunctive
-
-the = {"-T": "the"}
+the  = {"-T":  "the"}
 
 patterns.extend([
     (i,                am  | was, maybe(the)),
@@ -101,9 +100,8 @@ have = {
     "*F": "^'ve",
 }
 
-has = {"-Z": "has"}
-had = {"-D": "had"} # used with all pronouns
-
+has  = {"-Z": "has"}
+had  = {"-D": "had"} # used with all pronouns
 been = {"-B": "been"}
 
 patterns.extend([
