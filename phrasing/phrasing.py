@@ -226,10 +226,11 @@ wrote = False
 
 with parent_dir.joinpath('report.txt').open('w') as f:
     for translation, rtfcres in main_reversed.items():
-        remaps = {}
-        for rtfcre in rtfcres:
-            if rtfcre in phrasing and phrasing[rtfcre] != translation:
-                remaps[rtfcre] = phrasing[rtfcre]
+        remaps = {
+            rtfcre: phrasing[rtfcre]
+            for rtfcre in rtfcres
+            if rtfcre in phrasing and phrasing[rtfcre] != translation
+        }
         if remaps:
             if wrote:
                 f.write('\n')
