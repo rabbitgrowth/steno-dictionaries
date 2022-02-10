@@ -114,7 +114,7 @@ negative = {
     "U":  "couldn't",
 }
 
-nt = {"-PBT": ""}
+extra_nt = {"-PBT": ""}
 
 verb = {
     "-BL":  "believe",
@@ -133,7 +133,7 @@ verb_past_tense = {
 }
 
 patterns.extend([
-    (i, negative, nt),
+    (i, negative, extra_nt),
     (i, negative, verb),
     (pronoun | relative_pronoun, verb | verb_past_tense),
 ])
