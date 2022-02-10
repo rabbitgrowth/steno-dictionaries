@@ -183,16 +183,18 @@ for pattern in patterns:
 
 
 remaps = {
+    "TEPL":   "item",
+    "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
+    "WHAOUS": "whose",
+
     "EUD":    "idea",
     "EULD":   "ideal",
     "HREULD": "ideally",
     "*EUD":   "id", # as in psychoanalysis
-    "TEPL":   "item",
-    "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
+
     "WR":     "where",
     "WR-T":   "where the",
     "WRU":    "where you",
-    "WHAOUS": "whose",
 
     "UFRT":   "unfortunate",
     "UFRL":   "unfortunately",
