@@ -43,25 +43,27 @@ patterns = []
 
 i = {"KWR": "I"}
 
-singular_pronoun = {
-    "H":   "he",
-    "SH":  "she",
-    "T":   "it",
-    "TH":  "this",
-    "THA": "that",
-}
-
-plural_pronoun = {
+people = {
     "U":   "you",
     "W":   "we",
     "THE": "they",
 }
 
-pronoun = i | singular_pronoun | plural_pronoun
+person = {
+    "H":  "he",
+    "SH": "she",
+    "T":  "it",
+}
+
+this = {"TH":  "this"}
+that = {"THA": "that"} # multirole
+thing = this | that
+
+everyone = i | people | person | thing
 
 is_ = {
-    "-S":  "is",
-    "*S":  "^'s",
+    "-S": "is",
+    "*S": "^'s",
 }
 
 am = {
@@ -74,13 +76,15 @@ are = {
     "*R": "^'re",
 }
 
-was = {"-FS": "was"}
-the = {"-T":  "the"}
+was  = {"-FS": "was"}
+were = {"-RP": "were"}
+the  = {"-T":  "the"}
 
 patterns.extend([
-    (i,                am  | was, maybe(the)),
-    (singular_pronoun, is_ | was, maybe(the)),
-    (plural_pronoun,   are,       maybe(the)),
+    (i,              am  | was, maybe(the)),
+    (people,         are,       maybe(the)),
+    (person | thing, is_ | was, maybe(the)),
+    (everyone,       were,      maybe(the)),
 ])
 
 # "have"
@@ -91,33 +95,31 @@ have = {
 }
 
 has  = {"-Z": "has"}
+had  = {"-D": "had"} # save ^'d for later
 been = {"-B": "been"}
 
 patterns.extend([
-    (singular_pronoun,   has,  maybe(been)), # -TZ requires Philly shift, and -BTZ is impossible
-    (i | plural_pronoun, have, maybe(been), maybe(the)),
+    (i | people,     have, maybe(been), maybe(the)),
+    (person | thing, has,  maybe(been)), # -TZ requires Philly shift, and -BTZ is impossible
+    (everyone,       had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
 ])
 
 # wh-words
 
-wh_word = {
-    "WHA": "what",
-    "WH":  "when",
-    "WR":  "where",
-    "KH":  "which",
-    "WHO": "who",
-    # TODO: figure out what to do with "why"
-}
+which = {"KH":  "which"}
+who   = {"WHO": "who"}
+what  = {"WHA": "what"}
+when  = {"WH":  "when"}
+where = {"WR":  "where"}
+wh_word = which | who | what | when | where
+# TODO: figure out what to do with "why"
 
-were = {"-RP": "were"}
-had  = {"-D":  "had"}
+be = is_ | are | was | were
 
 patterns.extend([
-    (wh_word, is_ | are | was, maybe(the)),
+    (wh_word, be, maybe(the)),
     (wh_word, have, maybe(been), maybe(the)),
-    (wh_word, has,  maybe(been)),
-    (pronoun | wh_word, were, maybe(the)),
-    (pronoun | wh_word, had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
+    (wh_word, has | had, maybe(been)),
 ])
 
 # Modal verbs
@@ -133,7 +135,7 @@ modal_verb = {
     "*D":   "^'d", # could be short for "had" too, so use *D instead of *LD
 }
 
-patterns.append((pronoun | wh_word, modal_verb))
+patterns.append((everyone | wh_word, modal_verb))
 
 # Verbs
 
