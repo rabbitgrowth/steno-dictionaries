@@ -593,3 +593,9 @@ whore
 
 whose -> WHAOUS
   WHOZ -> who has
+
+whether
+  WHR -> where
+
+whether the
+  WHR-T -> where the

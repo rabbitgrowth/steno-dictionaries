@@ -93,8 +93,10 @@ wh_word = {
     "KWH": "why",
 }
 
+be = is_ | are | was | were # exclude "am" and keep WHOPL as "whom"
+
 patterns.extend([
-    (wh_word, is_ | are | was | were, maybe(the)), # exclude "am" and keep WHOPL as "whom"
+    (wh_word, maybe(be),              maybe(the)),
     (wh_word, have,      maybe(been), maybe(the)),
     (wh_word, has | had, maybe(been)),
 ])
