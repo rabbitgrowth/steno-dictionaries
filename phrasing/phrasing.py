@@ -126,13 +126,6 @@ verb_past_tense = {
     "-BS":  "said",
 }
 
-patterns.extend([
-    (i, negative, extra_nt | verb),
-    (pronoun | wh_word, verb | verb_past_tense),
-])
-
-# Modal verbs
-
 medial_pronoun = {
     "EU": "I",
     "E":  "he",
@@ -151,8 +144,9 @@ modal_verb = {
 }
 
 patterns.extend([
-    (pronoun | wh_word, modal_verb),
-    (that | wh_word, medial_pronoun, modal_verb | verb),
+    (i, negative, extra_nt | verb),
+    (pronoun | wh_word, verb | verb_past_tense | modal_verb),
+    (that | wh_word, medial_pronoun, verb | modal_verb),
 ])
 
 
