@@ -167,7 +167,7 @@ modal_verb = {
 
 patterns.extend([
     (pronoun | wh_word, modal_verb),
-    (that, medial, modal_verb | verb),
+    (that | wh_word, medial, modal_verb | verb),
 ])
 
 

@@ -92,6 +92,23 @@ atrium
   AT/REU/KWRUPL
   KWRURPL -> I couldn't remember
 
+economic
+  AOEBG/TPHOPL/EUBG
+  EBG/TPHOPL/EUBG
+  KPH*EBG
+  KPHEBG -> which he can
+  KPHEUBG -> which I can
+
+economical
+  AOEBG/TPHOPL/KAL
+  EBG/TPHOPL/KAL
+  KPHAL
+  KPHE/K-L
+  KPHEBG/K-L
+  KPHEL -> which he will
+  KPHEUBG/AL
+  KPHEUBG/KAL
+
 item -> TEPL
   AOEU/TEPL
   AOEUPLT -> I'm the
@@ -179,6 +196,26 @@ welcomed
   WEL/KOPLD
   WELGD
 
+coming
+  KO*G
+  KO*PL/-G
+  KOPBLG
+  KOPL/-G
+  KOPL/-G/-G
+  KOPLG
+  KPHEUPBG -> which I think
+
+committing
+  KPHEUG
+  KPHEUGT -> which I get
+  KPHEUT/-G
+
+withhold
+  KPOELD
+  W/HOELD
+  WHOELD -> who he would
+  WOLD
+
 whatever
   KWHAFR
   WHA*FR
@@ -196,6 +233,10 @@ what's
   WHATS -> what is the
   WHATSZ
   WHRATS
+
+whole
+  KWHOEL
+  WHOEL -> who he will
 
 idea of
   KWR-FD -> I find
@@ -477,6 +518,18 @@ with respect
 where the -> WR-T
   W-RT -> we are the
 
+withheld
+  W/HELD
+  WHELD -> when he would
+
+whistle
+  WEUFL
+  WH*EUS/-L
+  WHEUFG
+  WHEUFL -> when I feel
+  WHEUS/*L
+  WHEUS/-L
+
 When were
   WH-RP -> when were
 
@@ -491,8 +544,19 @@ what'll
 whack -> WHA*BG
   WHABG -> what can
 
+wheal
+  WHAEL -> what he will
+  WHAO*EL
+
+whale
+  WHAEUL -> what I will
+  WHRAEUL
+
 what part
   WHAPT -> what want
+
+what you'll
+  WHAUL -> what you will
 
 who've
   WHO*F
