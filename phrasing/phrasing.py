@@ -54,9 +54,8 @@ singular_pronoun = {
     "SH": "she",
     "T":  "it",
     "TH": "this",
+    "THA": "that",
 }
-that = {"THA": "that"} # multirole
-singular_pronoun |= that
 
 pronoun = i | plural_pronoun | singular_pronoun
 
