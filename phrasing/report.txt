@@ -92,6 +92,12 @@ atrium
   AT/REU/KWRUPL
   KWRURPL -> I couldn't remember
 
+economy
+  AOE/KOPB/PH*EU
+  EBG/KOPB/PH*EU
+  KPHE -> which he
+  KPHEU -> which I
+
 economist
   AOE/KOPB/PH*EUS
   AOE/KOPB/PHEUFT
@@ -204,6 +210,11 @@ who
   WHO
   WHRO
 
+how
+  HOU
+  PHOU
+  WHOU -> who you
+
 welcomed
   HR-BGD
   W*ELGD
@@ -249,6 +260,16 @@ what's
   WHATS -> what is the
   WHATSZ
   WHRATS
+
+when
+  KWHEPB
+  PWHEPB
+  WH
+  WHE -> when he
+  WHEB
+  WHEP
+  WHEPB
+  WHREPB
 
 whole -> HO
   KWHOEL
@@ -587,6 +608,9 @@ who'll
 who say
   WHOBZ -> who has been
 
+whoa
+  WHOE -> who he
+
 whore
   WHOER
   WHOR -> who are
@@ -599,3 +623,12 @@ whether
 
 whether the
   WHR-T -> where the
+
+When
+  WHRE -> where he
+
+whether I
+  WHREU -> where I
+
+whether you
+  WHRU -> where you

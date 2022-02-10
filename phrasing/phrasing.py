@@ -150,8 +150,8 @@ modal_verb = {
 any_verb = verb | verb_past_tense | modal_verb
 
 patterns.extend([
-    (pronoun | wh_word,              any_verb),
-    (that | wh_word, medial_pronoun, any_verb),
+    (pronoun | wh_word,                       any_verb ),
+    (that    | wh_word, medial_pronoun, maybe(any_verb)),
 ])
 
 
