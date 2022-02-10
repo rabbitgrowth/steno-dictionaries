@@ -93,8 +93,15 @@ who   = {"WHO": "who"}
 what  = {"WHA": "what"}
 when  = {"WH":  "when"}
 where = {"WR":  "where"}
-wh_word = which | who | what | when | where
 # TODO: figure out what to do with "why"
+
+wh_word = which | who | what | when | where
+
+relative_pronoun = which | who | what
+# "that" is a special case; in addition to being a regular pronoun:
+#   "That feels nice."
+# It also does double duty as a *relative* pronoun:
+#   "a texture that feels nice"
 
 be = is_ | are | was | were
 # Don't include "am" to keep WHOPL as "whom" for example
@@ -131,12 +138,6 @@ verb_past_tense = {
     "-FLT": "felt",
     "-BS":  "said",
 }
-
-relative_pronoun = which | who | what
-# "that" is a special case; in addition to being a regular pronoun:
-#   "That feels nice."
-# It also does double duty as a *relative* pronoun:
-#   "a texture that feels nice"
 
 patterns.extend([
     (i, negative, nt),
