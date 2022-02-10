@@ -148,7 +148,7 @@ patterns.extend([
 
 # Modal verbs
 
-medial = {
+medial_pronoun = {
     "EU": "I",
     "E":  "he",
     "U":  "you",
@@ -167,7 +167,7 @@ modal_verb = {
 
 patterns.extend([
     (pronoun | wh_word, modal_verb),
-    (that | wh_word, medial, modal_verb | verb),
+    (that | wh_word, medial_pronoun, modal_verb | verb),
 ])
 
 
