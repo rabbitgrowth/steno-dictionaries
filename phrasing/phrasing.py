@@ -98,6 +98,7 @@ wh_word = which | who | what | when | where
 # TODO: figure out what to do with "why"
 
 be = is_ | are | was | were
+# Don't include "am" to keep WHOPL as "whom" for example
 
 patterns.extend([
     (wh_word, be, maybe(the)),
