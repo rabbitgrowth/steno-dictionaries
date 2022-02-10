@@ -182,6 +182,9 @@ welcomed
 CHF
   KH-F -> which have
 
+which part
+  KH-PT -> which want
+
 whatever
   KWHAFR
   WHA*FR
@@ -444,6 +447,9 @@ what'll
 
 whack
   WHABG -> what can
+
+what part
+  WHAPT -> what want
 
 who've
   WHO*F

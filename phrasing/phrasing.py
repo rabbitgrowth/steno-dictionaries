@@ -148,10 +148,17 @@ verb_past_tense = {
     "-BS":  "said",
 }
 
+relative = which | who | what
+# Relative pronouns. "that" is a special case;
+# in addition to being a regular pronoun:
+#   "That feels nice."
+# It also does double duty as a *relative* pronoun:
+#   "a texture that feels nice"
+
 patterns.extend([
     (i, negative, nt),
     (i, negative, verb),
-    (subject, verb | verb_past_tense),
+    (subject | relative, verb | verb_past_tense),
 ])
 
 
