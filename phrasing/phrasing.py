@@ -93,12 +93,6 @@ why   = {"KWH": "why"}
 
 wh_word = which | who | what | when | where | why
 
-relative_pronoun = which | who | what
-# "that" is a special case; in addition to being a regular pronoun:
-#   "That feels nice."
-# It also does double duty as a *relative* pronoun:
-#   "a texture that feels nice"
-
 patterns.extend([
     (wh_word, is_ | are | was | were, maybe(the)), # exclude "am" and keep WHOPL as "whom"
     (wh_word, have,      maybe(been), maybe(the)),
@@ -134,7 +128,7 @@ verb_past_tense = {
 
 patterns.extend([
     (i, negative, extra_nt | verb),
-    (pronoun | relative_pronoun, verb | verb_past_tense),
+    (pronoun | wh_word, verb | verb_past_tense),
 ])
 
 # Modal verbs
