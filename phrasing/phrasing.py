@@ -105,21 +105,6 @@ patterns.extend([
     (wh_word, has | had, maybe(been)),
 ])
 
-# Modal verbs
-
-modal_verb = {
-    "-BG":  "can",
-    "-BGD": "could",
-    "-RB":  "shall",
-    "-RBD": "should",
-    "-L":   "will",
-    "-LD":  "would",
-    "*L":   "^'ll",
-    "*D":   "^'d", # could be short for "had" too, so use *D instead of *LD
-}
-
-patterns.append((pronoun | wh_word, modal_verb))
-
 # Verbs
 
 negative = {
@@ -158,6 +143,21 @@ patterns.extend([
     (i, negative, verb),
     (pronoun | relative_pronoun, verb | verb_past_tense),
 ])
+
+# Modal verbs
+
+modal_verb = {
+    "-BG":  "can",
+    "-BGD": "could",
+    "-RB":  "shall",
+    "-RBD": "should",
+    "-L":   "will",
+    "-LD":  "would",
+    "*L":   "^'ll",
+    "*D":   "^'d", # could be short for "had" too, so use *D instead of *LD
+}
+
+patterns.append((pronoun | wh_word, modal_verb))
 
 
 phrasing = {}
