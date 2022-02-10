@@ -133,8 +133,7 @@ verb_past_tense = {
 }
 
 patterns.extend([
-    (i, negative, extra_nt),
-    (i, negative, verb),
+    (i, negative, extra_nt | verb),
     (pronoun | relative_pronoun, verb | verb_past_tense),
 ])
 
