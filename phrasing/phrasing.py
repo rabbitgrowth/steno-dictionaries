@@ -43,22 +43,22 @@ patterns = []
 
 i = {"KWR": "I"}
 
-plural = {
+plural_pronoun = {
     "U":   "you",
     "W":   "we",
     "THE": "they",
 }
 
-singular = {
+singular_pronoun = {
     "H":  "he",
     "SH": "she",
     "T":  "it",
     "TH": "this",
 }
 that = {"THA": "that"} # multirole
-singular |= that
+singular_pronoun |= that
 
-pronoun = i | plural | singular
+pronoun = i | plural_pronoun | singular_pronoun
 
 is_  = {"-S":  "is",  "*S":  "^'s"}
 am   = {"-PL": "am",  "*PL": "^'m"}
@@ -68,10 +68,10 @@ were = {"-RP": "were"}
 the  = {"-T":  "the"}
 
 patterns.extend([
-    (i,        am  | was, maybe(the)),
-    (plural,   are,       maybe(the)),
-    (singular, is_ | was, maybe(the)),
-    (pronoun,  were,      maybe(the)),
+    (i,                am  | was, maybe(the)),
+    (plural_pronoun,   are,       maybe(the)),
+    (singular_pronoun, is_ | was, maybe(the)),
+    (pronoun,          were,      maybe(the)),
 ])
 
 # "have"
@@ -82,9 +82,9 @@ had  = {"-D": "had"} # would -> ^'d
 been = {"-B": "been"}
 
 patterns.extend([
-    (i | plural, have, maybe(been),  maybe(the)),
-    (singular,   has,  maybe(been)), # -TZ requires Philly shift, and -BTZ is impossible
-    (pronoun,    had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
+    (i | plural_pronoun, have, maybe(been), maybe(the)),
+    (singular_pronoun,   has,  maybe(been)), # -TZ requires Philly shift, and -BTZ is impossible
+    (pronoun,            had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
 ])
 
 # wh-words
