@@ -84,14 +84,14 @@ patterns.extend([
 
 # wh-words
 
-which = {"KPH": "which"}
-who   = {"WHO": "who"}
-what  = {"WHA": "what"}
-when  = {"WH":  "when"}
-where = {"WHR": "where"}
-why   = {"KWH": "why"}
-
-wh_word = which | who | what | when | where | why
+wh_word = {
+    "KPH": "which",
+    "WHO": "who",
+    "WHA": "what",
+    "WH":  "when",
+    "WHR": "where",
+    "KWH": "why",
+}
 
 patterns.extend([
     (wh_word, is_ | are | was | were, maybe(the)), # exclude "am" and keep WHOPL as "whom"
