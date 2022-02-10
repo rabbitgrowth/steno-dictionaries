@@ -199,25 +199,25 @@ for pattern in patterns:
 
 
 remaps = {
-    "TEPL":   "item",
-    "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
+    "TEPL":    "item",
+    "TH-FT":   "theft", # E got stolen? or associate with TKPW-PB "gun"
     "THAUFLT": "thoughtful",
-    "WHA*BG": "whack",
-    "WHAOUS": "whose",
+    "WHA*BG":  "whack",
+    "WHAOUS":  "whose",
 
     "EUD":    "idea",
     "EULD":   "ideal",
     "HREULD": "ideally",
     "*EUD":   "id", # as in psychoanalysis
 
-    "WR":     "where",
-    "WR-T":   "where the",
-    "WRU":    "where you",
+    "WR":   "where",
+    "WR-T": "where the",
+    "WRU":  "where you",
 
-    "UFRT":   "unfortunate",
-    "UFRL":   "unfortunately",
-    "-FRT":   "fortunate",
-    "-FRL":   "fortunately",
+    "UFRT": "unfortunate",
+    "UFRL": "unfortunately",
+    "-FRT": "fortunate",
+    "-FRL": "fortunately",
 }
 
 remaps_reversed = {
