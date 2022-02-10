@@ -440,12 +440,15 @@ where the -> WR-T
 When were
   WH-RP -> when were
 
+what can
+  WHA*BG -> whack
+
 what'll
   WHA*L
   WHA/AOEL
   WHAL -> what will
 
-whack
+whack -> WHA*BG
   WHABG -> what can
 
 what part
