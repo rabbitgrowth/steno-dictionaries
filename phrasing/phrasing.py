@@ -201,6 +201,7 @@ for pattern in patterns:
 remaps = {
     "TEPL":   "item",
     "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
+    "THAUFLT": "thoughtful",
     "WHA*BG": "whack",
     "WHAOUS": "whose",
 

@@ -411,7 +411,7 @@ that{.}
   THAPL
   TPHAPL
 
-thoughtful
+thoughtful -> THAUFLT
   THAUFL -> that you feel
   THAUT/*FL
   THAUT/-FL
