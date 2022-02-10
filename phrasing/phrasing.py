@@ -58,7 +58,7 @@ singular = {
 that = {"THA": "that"} # multirole
 singular |= that
 
-subject = i | plural | singular
+pronoun = i | plural | singular
 
 is_  = {"-S":  "is",  "*S":  "^'s"}
 am   = {"-PL": "am",  "*PL": "^'m"}
@@ -71,7 +71,7 @@ patterns.extend([
     (i,        am  | was, maybe(the)),
     (plural,   are,       maybe(the)),
     (singular, is_ | was, maybe(the)),
-    (subject,  were,      maybe(the)),
+    (pronoun,  were,      maybe(the)),
 ])
 
 # "have"
@@ -84,7 +84,7 @@ been = {"-B": "been"}
 patterns.extend([
     (i | plural, have, maybe(been),  maybe(the)),
     (singular,   has,  maybe(been)), # -TZ requires Philly shift, and -BTZ is impossible
-    (subject,    had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
+    (pronoun,    had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
 ])
 
 # wh-words
@@ -119,7 +119,7 @@ modal_verb = {
     "*D":   "^'d", # could be short for "had" too, so use *D instead of *LD
 }
 
-patterns.append((subject | wh_word, modal_verb))
+patterns.append((pronoun | wh_word, modal_verb))
 
 # Verbs
 
@@ -148,9 +148,8 @@ verb_past_tense = {
     "-BS":  "said",
 }
 
-relative = which | who | what
-# Relative pronouns. "that" is a special case;
-# in addition to being a regular pronoun:
+relative_pronoun = which | who | what
+# "that" is a special case; in addition to being a regular pronoun:
 #   "That feels nice."
 # It also does double duty as a *relative* pronoun:
 #   "a texture that feels nice"
@@ -158,7 +157,7 @@ relative = which | who | what
 patterns.extend([
     (i, negative, nt),
     (i, negative, verb),
-    (subject | relative, verb | verb_past_tense),
+    (pronoun | relative_pronoun, verb | verb_past_tense),
 ])
 
 
