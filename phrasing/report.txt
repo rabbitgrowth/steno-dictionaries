@@ -66,7 +66,7 @@ were the
 them
   24E78
   THEFL -> they feel
-  THEFPL
+  THEFPL -> they like
   THEP
   THEPL
   THEUPL
@@ -156,6 +156,9 @@ had had
 had felt
   H-FLT -> he felt
 
+hmpf
+  H-FPL -> he like
+
 {^s}{?}
   H-FS -> he was
   STH-S
@@ -231,6 +234,10 @@ you're
 
 Yang
   KWRAPBG -> I can't think
+
+{^y}{.}
+  KWREUFP
+  KWREUFPL -> I didn't like
 
 I don't think
   KWREUPBG -> I didn't think
