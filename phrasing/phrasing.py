@@ -41,24 +41,19 @@ patterns = []
 
 # "be"
 
-i = {"KWR": "I"}
+i    = {"KWR": "I"}
+you  = {"U":   "you"}
+he   = {"H":   "he"}
+she  = {"SH":  "she"}
+it   = {"T":   "it"}
+we   = {"W":   "we"}
+they = {"THE": "they"}
+this = {"TH":  "this"}
+that = {"THA": "that"}
 
-plural_pronoun = {
-    "U":   "you",
-    "W":   "we",
-    "THE": "they",
-}
-
-singular_pronoun = {
-    "H":   "he",
-    "SH":  "she",
-    "T":   "it",
-    "TH":  "this",
-}
-that = {"THA": "that"} # multirole
-singular_pronoun |= that
-
-pronoun = i | plural_pronoun | singular_pronoun
+plural_pronoun   = you | we | they
+singular_pronoun = he | she | it | this | that
+pronoun          = i | plural_pronoun | singular_pronoun
 
 is_  = {"-S":  "is",  "*S":  "^'s"}
 am   = {"-PL": "am",  "*PL": "^'m"}
