@@ -60,21 +60,9 @@ singular |= that
 
 subject = i | plural | singular
 
-is_ = {
-    "-S": "is",
-    "*S": "^'s",
-}
-
-am = {
-    "-PL": "am",
-    "*PL": "^'m",
-}
-
-are = {
-    "-R": "are",
-    "*R": "^'re",
-}
-
+is_  = {"-S":  "is",  "*S":  "^'s"}
+am   = {"-PL": "am",  "*PL": "^'m"}
+are  = {"-R":  "are", "*R":  "^'re"}
 was  = {"-FS": "was"}
 were = {"-RP": "were"}
 the  = {"-T":  "the"}
@@ -88,13 +76,9 @@ patterns.extend([
 
 # "have"
 
-have = {
-    "-F": "have",
-    "*F": "^'ve",
-}
-
-has  = {"-Z": "has"}
-had  = {"-D": "had"} # save ^'d for later
+have = {"-F": "have", "*F": "^'ve"}
+has  = {"-Z": "has"} # is    -> ^'s
+had  = {"-D": "had"} # would -> ^'d
 been = {"-B": "been"}
 
 patterns.extend([
