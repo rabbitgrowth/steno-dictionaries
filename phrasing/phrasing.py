@@ -202,8 +202,14 @@ remaps = {
     "TEPL":    "item",
     "TH-FT":   "theft", # E got stolen? or associate with TKPW-PB "gun"
     "THAUFLT": "thoughtful",
+
     "WHA*BG":  "whack",
+    "WHAOL":   "whale", # arbitrary vowel
+    "HO":      "whole",
     "WHAOUS":  "whose",
+
+    "TPHOFRBG": "economic",
+    "TPHOFRL":  "economical",
 
     "EUD":    "idea",
     "EULD":   "ideal",

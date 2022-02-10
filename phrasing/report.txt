@@ -92,14 +92,14 @@ atrium
   AT/REU/KWRUPL
   KWRURPL -> I couldn't remember
 
-economic
+economic -> TPHOFRBG
   AOEBG/TPHOPL/EUBG
   EBG/TPHOPL/EUBG
   KPH*EBG
   KPHEBG -> which he can
   KPHEUBG -> which I can
 
-economical
+economical -> TPHOFRL
   AOEBG/TPHOPL/KAL
   EBG/TPHOPL/KAL
   KPHAL
@@ -188,6 +188,12 @@ HDL
 hrm
   H-RPL -> he remember
 
+who
+  HO -> whole
+  KWHO
+  WHO
+  WHRO
+
 welcomed
   HR-BGD
   W*ELGD
@@ -234,7 +240,7 @@ what's
   WHATSZ
   WHRATS
 
-whole
+whole -> HO
   KWHOEL
   WHOEL -> who he will
 
@@ -548,7 +554,7 @@ wheal
   WHAEL -> what he will
   WHAO*EL
 
-whale
+whale -> WHAOL
   WHAEUL -> what I will
   WHRAEUL
 
