@@ -193,6 +193,11 @@ remaps = {
     "WR-T":   "where the",
     "WRU":    "where you",
     "WHAOUS": "whose",
+
+    "UFRT":   "unfortunate",
+    "UFRL":   "unfortunately",
+    "-FRT":   "fortunate",
+    "-FRL":   "fortunately",
 }
 
 remaps_reversed = {

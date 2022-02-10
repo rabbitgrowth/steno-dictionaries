@@ -50,6 +50,11 @@ you are
   TP-PL/KW-BG
   W-BG -> we can
 
+ester
+  -FRT -> fortunate
+  EFT/*ER
+  ES/TER
+
 were
   -RP
   WR -> where
@@ -370,7 +375,7 @@ that{.}
 therm
   THERPL -> they remember
 
-unfortunately
+unfortunately -> UFRL
   TPHORPBLT
   TPHORPBLTD
   UFL -> you feel
