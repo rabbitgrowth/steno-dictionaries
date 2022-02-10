@@ -276,6 +276,14 @@ with respect to
   W/STEBGT/TO
   W/STPOEBGT
 
+their
+  STHAEUR
+  THAER
+  THAEUFR
+  THAEUR
+  THAEURB -> that I shall
+  THRAEUR
+
 that's
   STHATS
   TH-TS -> this is the
@@ -316,6 +324,12 @@ continuing
 the president
   T-PT -> it want
 
+take
+  TAEBG
+  TAEUBG
+  THAEUBG -> that I can
+  TKAEUBG
+
 this'll
   TH*L
   TH-L -> this will
@@ -328,7 +342,7 @@ third-degree
   TH-FL -> this feel
 
 they'd
-  THA*EUD
+  THA*EUD -> that I'd
   THAEUD
   THED -> they had
   THED/AE
@@ -340,9 +354,9 @@ they've
   THEF/AE
 
 they'll
-  THA*EUL
+  THA*EUL -> that I'll
   THAEU/AOEL
-  THAEUL
+  THAEUL -> that I will
   THEL -> they will
   THEL/AE
 
@@ -362,11 +376,30 @@ thank
   THAPG
   THRA*PBG
 
+thawed
+  THA*UD -> that you'd
+
+thank you
+  THA*UPBG
+  THAOUPBG
+  THAUG
+  THAUPBG -> that you think
+  THAUPG
+
+that's correct
+  THABGT/AOES
+  THAEBG -> that he can
+  THAEBGT
+  THAERBG
+  THAERBGT
+  THARBGT/AOES
+  THREBGT
+
 {^ed that}
   THAD -> that had
 
 thing
-  THAEUPBG
+  THAEUPBG -> that I think
   THAOEUPBG
   THEPBG -> they think
   THEUPBG
@@ -377,6 +410,19 @@ that{.}
   THAFPLT
   THAPL
   TPHAPL
+
+thoughtful
+  THAUFL -> that you feel
+  THAUT/*FL
+  THAUT/-FL
+  THAUT/TPUL
+
+thought
+  THAUGT -> that you get
+  THAULT
+  THAUT
+  THOUT
+  THRAUT
 
 therm
   THERPL -> they remember

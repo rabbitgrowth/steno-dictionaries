@@ -54,8 +54,9 @@ singular_pronoun = {
     "SH":  "she",
     "T":   "it",
     "TH":  "this",
-    "THA": "that",
 }
+that = {"THA": "that"} # multirole
+singular_pronoun |= that
 
 pronoun = i | plural_pronoun | singular_pronoun
 
@@ -147,6 +148,12 @@ patterns.extend([
 
 # Modal verbs
 
+medial = {
+    "EU": "I",
+    "E":  "he",
+    "U":  "you",
+}
+
 modal_verb = {
     "-BG":  "can",
     "-BGD": "could",
@@ -158,7 +165,10 @@ modal_verb = {
     "*D":   "^'d", # could be short for "had" too, so use *D instead of *LD
 }
 
-patterns.append((pronoun | wh_word, modal_verb))
+patterns.extend([
+    (pronoun | wh_word, modal_verb),
+    (that, medial, modal_verb | verb),
+])
 
 
 phrasing = {}
