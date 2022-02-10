@@ -99,12 +99,9 @@ relative_pronoun = which | who | what
 # It also does double duty as a *relative* pronoun:
 #   "a texture that feels nice"
 
-be = is_ | are | was | were
-# Don't include "am" to keep WHOPL as "whom" for example
-
 patterns.extend([
-    (wh_word, be, maybe(the)),
-    (wh_word, have, maybe(been), maybe(the)),
+    (wh_word, is_ | are | was | were, maybe(the)), # exclude "am" and keep WHOPL as "whom"
+    (wh_word, have,      maybe(been), maybe(the)),
     (wh_word, has | had, maybe(been)),
 ])
 
