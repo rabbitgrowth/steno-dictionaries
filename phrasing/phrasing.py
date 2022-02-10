@@ -139,7 +139,6 @@ verb = {
     "-GT":  "get",
     "-LG":  "like",
     "-RPL": "remember",
-    "-BZ":  "say",
     "-PBG": "think",
     "-PT":  "want",
 }
@@ -151,8 +150,8 @@ verb_past_tense = {
 
 patterns.extend([
     (i, negative, nt),
-    (i, maybe(negative), verb),
-    (i, verb_past_tense),
+    (i, negative, verb),
+    (subject, verb | verb_past_tense),
 ])
 
 

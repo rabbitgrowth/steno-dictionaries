@@ -58,6 +58,16 @@ were the
   -RPT
   WR-T -> where the
 
+them
+  24E78
+  THEFL -> they feel
+  THEFPL
+  THEP
+  THEPL
+  THEUPL
+  THOEPL
+  TWHEPL
+
 they're
   24ER
   THA*EUR
@@ -142,6 +152,9 @@ health care
 had had
   H-D -> he had
 
+had felt
+  H-FLT -> he felt
+
 {^s}{?}
   H-FS -> he was
   STH-S
@@ -150,6 +163,9 @@ had had
 
 HDL
   H-LD -> he would
+
+hrm
+  H-RPL -> he remember
 
 welcomed
   HR-BGD
@@ -226,6 +242,18 @@ young
   KWROUPBG
   KWRUPBG -> I couldn't think
 
+shall believe
+  SH-BL -> she believe
+
+shall feel
+  SH-FL -> she feel
+
+shall want
+  SH-PT -> she want
+
+shall remember
+  SH-RPL -> she remember
+
 {>}ssh
   SH-S -> she is
 
@@ -257,8 +285,25 @@ theft -> TH-FT
   STHEFT
   THEFT -> they have the
 
+tablespoon
+  T-BS -> it said
+  TAEUBL/SPAO*PB
+  TAEUBL/SPAOPB
+
 {^ed it}
   T-D -> it had
+
+tailgate
+  T-GT -> it get
+  TAEUL/TKPWAET
+  TAEUL/TKPWAEUT
+
+continuing
+  T-PB/-G
+  T-PBG -> it think
+
+the president
+  T-PT -> it want
 
 this'll
   TH*L
@@ -267,6 +312,9 @@ this'll
 
 third-degree
   TH-D -> this had
+
+{^;^}
+  TH-FL -> this feel
 
 they'd
   THA*EUD
@@ -299,15 +347,47 @@ thank
   THA*PBG
   THABG -> that can
   THAPB/*BG
-  THAPBG
+  THAPBG -> that think
   THAPG
   THRA*PBG
 
 {^ed that}
   THAD -> that had
 
+thing
+  THAEUPBG
+  THAOEUPBG
+  THEPBG -> they think
+  THEUPBG
+  THEUPG
+
+that{.}
+  THAFLT -> that felt
+  THAFPLT
+  THAPL
+  TPHAPL
+
+therm
+  THERPL -> they remember
+
+unfortunately
+  TPHORPBLT
+  TPHORPBLTD
+  UFL -> you feel
+  UPB/TPOERT/TPHET/HREU
+  UPB/TPOFRPBT/HREU
+  UPB/TPORPBL
+  UPB/TPORPBLT
+  UPB/TPORPBT/HREU
+  UPB/TPORT/TPHET/HREU
+
 USB
   UFB -> you have been
+
+ugly
+  UG/HREU
+  UL/HREU
+  ULG -> you like
 
 you were
   URP
@@ -330,6 +410,12 @@ where -> WR
 
 {^ed with}
   W-D -> we had
+
+winning
+  W-G
+  W-PBG -> we think
+  WAO*EPBG
+  WEUPB/-G
 
 whereby
   W-R/PWEU
