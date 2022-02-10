@@ -43,23 +43,22 @@ patterns = []
 
 i = {"KWR": "I"}
 
-people = {
+plural = {
     "U":   "you",
     "W":   "we",
     "THE": "they",
 }
 
-person = {
+singular = {
     "H":  "he",
     "SH": "she",
     "T":  "it",
+    "TH": "this",
 }
-
-this = {"TH":  "this"}
 that = {"THA": "that"} # multirole
-thing = this | that
+singular |= that
 
-everyone = i | people | person | thing
+subject = i | plural | singular
 
 is_ = {
     "-S": "is",
@@ -81,10 +80,10 @@ were = {"-RP": "were"}
 the  = {"-T":  "the"}
 
 patterns.extend([
-    (i,              am  | was, maybe(the)),
-    (people,         are,       maybe(the)),
-    (person | thing, is_ | was, maybe(the)),
-    (everyone,       were,      maybe(the)),
+    (i,        am  | was, maybe(the)),
+    (plural,   are,       maybe(the)),
+    (singular, is_ | was, maybe(the)),
+    (subject,  were,      maybe(the)),
 ])
 
 # "have"
@@ -99,9 +98,9 @@ had  = {"-D": "had"} # save ^'d for later
 been = {"-B": "been"}
 
 patterns.extend([
-    (i | people,     have, maybe(been), maybe(the)),
-    (person | thing, has,  maybe(been)), # -TZ requires Philly shift, and -BTZ is impossible
-    (everyone,       had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
+    (i | plural, have, maybe(been),  maybe(the)),
+    (singular,   has,  maybe(been)), # -TZ requires Philly shift, and -BTZ is impossible
+    (subject,    had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
 ])
 
 # wh-words
@@ -135,7 +134,7 @@ modal_verb = {
     "*D":   "^'d", # could be short for "had" too, so use *D instead of *LD
 }
 
-patterns.append((everyone | wh_word, modal_verb))
+patterns.append((subject | wh_word, modal_verb))
 
 # Verbs
 
