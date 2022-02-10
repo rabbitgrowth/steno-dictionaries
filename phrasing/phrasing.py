@@ -137,7 +137,7 @@ verb = {
     "-FL":  "feel",
     "-FD":  "find",
     "-GT":  "get",
-    "-LG":  "like",
+    "-BLG": "like", # add extra -B (stack -L and -BG) to avoid conflicts
     "-RPL": "remember",
     "-PBG": "think",
     "-PT":  "want",

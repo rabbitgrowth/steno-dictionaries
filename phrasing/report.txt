@@ -122,10 +122,6 @@ you've
   UF -> you have
   UF/AE
 
-audiology
-  AUD/KWROLG
-  KWROLG -> I don't like
-
 id -> *EUD
   EUD -> idea
 
@@ -388,11 +384,6 @@ unfortunately -> UFRL
 
 USB
   UFB -> you have been
-
-ugly
-  UG/HREU
-  UL/HREU
-  ULG -> you like
 
 you were
   URP
