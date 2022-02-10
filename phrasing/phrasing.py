@@ -199,10 +199,6 @@ remaps = {
     "HREULD": "ideally",
     "*EUD":   "id", # as in psychoanalysis
 
-    "WR":   "where",
-    "WR-T": "where the",
-    "WRU":  "where you",
-
     "UFRT": "unfortunate",
     "UFRL": "unfortunately",
     "-FRT": "fortunate",

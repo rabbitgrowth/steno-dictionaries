@@ -55,14 +55,6 @@ ester
   EFT/*ER
   ES/TER
 
-were
-  -RP
-  WR -> where
-
-were the
-  -RPT
-  WR-T -> where the
-
 them
   24E78
   THEFL -> they feel
@@ -513,10 +505,6 @@ unfortunately -> UFRL
 USB
   UFB -> you have been
 
-you were
-  URP
-  WRU -> where you
-
 you're the
   URT -> you are the
 
@@ -526,7 +514,7 @@ West Virginia
   W*F -> we've
   W*F/W*F
 
-where -> WR
+where
   W*R -> we're
   W-F -> we have
   W-R -> we are
@@ -552,7 +540,7 @@ with respect
   W-RPT -> we were the
   WR-PT
 
-where the -> WR-T
+where the
   W-RT -> we are the
 
 withheld
