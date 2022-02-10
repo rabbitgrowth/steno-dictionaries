@@ -84,13 +84,13 @@ atrium
   AT/REU/KWRUPL
   KWRURPL -> I couldn't remember
 
-economy
+economy -> KPH*EU
   AOE/KOPB/PH*EU
   EBG/KOPB/PH*EU
   KPHE -> which he
   KPHEU -> which I
 
-economist
+economist -> KPH*EUFT
   AOE/KOPB/PH*EUS
   AOE/KOPB/PHEUFT
   EBG/KOPB/PH*EUS
@@ -100,14 +100,14 @@ economist
   KPHEUFLT -> which I felt
   KPHEUFT
 
-economic -> TPHOFRBG
+economic -> KPH*EUBG
   AOEBG/TPHOPL/EUBG
   EBG/TPHOPL/EUBG
   KPH*EBG
   KPHEBG -> which he can
   KPHEUBG -> which I can
 
-economical -> TPHOFRL
+economical -> KPHA*L
   AOEBG/TPHOPL/KAL
   EBG/TPHOPL/KAL
   KPHAL

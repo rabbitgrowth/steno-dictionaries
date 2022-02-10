@@ -191,8 +191,10 @@ remaps = {
     "HO":      "whole",
     "WHAOUS":  "whose",
 
-    "TPHOFRBG": "economic",
-    "TPHOFRL":  "economical",
+    "KPH*EU":   "economy",
+    "KPH*EUFT": "economist",
+    "KPH*EUBG": "economic",
+    "KPHA*L":   "economical",
 
     "EUD":    "idea",
     "EULD":   "ideal",
