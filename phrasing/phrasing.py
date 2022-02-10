@@ -89,11 +89,11 @@ patterns.extend([
 
 # wh-words
 
-which = {"KH":  "which"}
+which = {"KPH": "which"}
 who   = {"WHO": "who"}
 what  = {"WHA": "what"}
 when  = {"WH":  "when"}
-where = {"WR":  "where"}
+where = {"WHR": "where"}
 # TODO: figure out what to do with "why"
 
 wh_word = which | who | what | when | where

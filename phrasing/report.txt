@@ -179,12 +179,6 @@ welcomed
   WEL/KOPLD
   WELGD
 
-CHF
-  KH-F -> which have
-
-which part
-  KH-PT -> which want
-
 whatever
   KWHAFR
   WHA*FR
@@ -474,7 +468,7 @@ whereby
   W-RB -> we shall
   WR*RB
   WR-B
-  WR-RB -> where shall
+  WR-RB
 
 with respect
   W-RPT -> we were the
