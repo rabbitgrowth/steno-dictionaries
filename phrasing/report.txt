@@ -92,6 +92,16 @@ atrium
   AT/REU/KWRUPL
   KWRURPL -> I couldn't remember
 
+economist
+  AOE/KOPB/PH*EUS
+  AOE/KOPB/PHEUFT
+  EBG/KOPB/PH*EUS
+  KPH*EUS
+  KPHE/EUFT
+  KPHEFT
+  KPHEUFLT -> which I felt
+  KPHEUFT
+
 economic -> TPHOFRBG
   AOEBG/TPHOPL/EUBG
   EBG/TPHOPL/EUBG
@@ -452,7 +462,7 @@ that{.}
   THAPL
   TPHAPL
 
-thoughtful -> THAUFLT
+thoughtful
   THAUFL -> that you feel
   THAUT/*FL
   THAUT/-FL

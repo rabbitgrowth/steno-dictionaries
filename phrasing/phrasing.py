@@ -101,6 +101,12 @@ patterns.extend([
 
 # Verbs
 
+medial_pronoun = {
+    "EU": "I",
+    "E":  "he",
+    "U":  "you",
+}
+
 negative = {
     "O":  "don't",
     "EU": "didn't",
@@ -121,15 +127,11 @@ verb = {
     "-PT":  "want",
 }
 
+patterns.append((i, negative, extra_nt | verb))
+
 verb_past_tense = {
     "-FLT": "felt",
     "-BS":  "said",
-}
-
-medial_pronoun = {
-    "EU": "I",
-    "E":  "he",
-    "U":  "you",
 }
 
 modal_verb = {
@@ -143,10 +145,11 @@ modal_verb = {
     "*D":   "^'d", # could be short for "had" too, so use *D instead of *LD
 }
 
+any_verb = verb | verb_past_tense | modal_verb
+
 patterns.extend([
-    (i, negative, extra_nt | verb),
-    (pronoun | wh_word, verb | verb_past_tense | modal_verb),
-    (that | wh_word, medial_pronoun, verb | modal_verb),
+    (pronoun | wh_word,              any_verb),
+    (that | wh_word, medial_pronoun, any_verb),
 ])
 
 
@@ -178,9 +181,8 @@ for pattern in patterns:
 
 
 remaps = {
-    "TEPL":    "item",
-    "TH-FT":   "theft", # E got stolen? or associate with TKPW-PB "gun"
-    "THAUFLT": "thoughtful",
+    "TEPL":  "item",
+    "TH-FT": "theft", # E got stolen? or associate with TKPW-PB "gun"
 
     "WHA*BG":  "whack",
     "WHAOL":   "whale", # arbitrary vowel
