@@ -89,9 +89,9 @@ who   = {"WHO": "who"}
 what  = {"WHA": "what"}
 when  = {"WH":  "when"}
 where = {"WHR": "where"}
-# TODO: figure out what to do with "why"
+why   = {"KWH": "why"}
 
-wh_word = which | who | what | when | where
+wh_word = which | who | what | when | where | why
 
 relative_pronoun = which | who | what
 # "that" is a special case; in addition to being a regular pronoun:
