@@ -136,6 +136,8 @@ verb = verb_infinitive | verb_past_tense | modal_verb
 
 patterns.append((pronoun | wh_word, verb))
 
+# "I *n't verb"
+
 negative = {
     "O":  "don't",
     "EU": "didn't",
@@ -146,6 +148,8 @@ negative = {
 extra_nt = {"-PBT": ""}
 
 patterns.append((i, negative, extra_nt | verb_infinitive))
+
+# Three-part phrases with medial pronouns
 
 medial_i   = {"EU": "I"}
 medial_you = {"U":  "you"}
