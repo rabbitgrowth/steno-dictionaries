@@ -169,6 +169,7 @@ patterns.extend([
 
 starter = {
     "R":     "are",
+    "TW":    "between",
     "TK":    "did",
     "TPO":   "for", # instead of TP-R
     "TPR":   "from",
