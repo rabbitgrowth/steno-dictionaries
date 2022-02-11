@@ -416,6 +416,11 @@ they'll
   THEL -> they will
   THEL/AE
 
+that've
+  THA*F
+  THA/AO*EF
+  THAF -> that have
+
 that'll
   THA*L
   THA/AOEL

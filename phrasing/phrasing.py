@@ -41,19 +41,22 @@ patterns = []
 
 # "be"
 
-i    = {"KWR": "I"}
-you  = {"U":   "you"}
-he   = {"H":   "he"}
-she  = {"SH":  "she"}
-it   = {"T":   "it"}
-we   = {"W":   "we"}
-they = {"THE": "they"}
-this = {"TH":  "this"}
-that = {"THA": "that"}
+i = {"KWR": "I"}
 
-plural_pronoun   = you | we | they
-singular_pronoun = he | she | it | this | that
-pronoun          = i | plural_pronoun | singular_pronoun
+plural_pronoun = {
+    "U":   "you",
+    "W":   "we",
+    "THE": "they",
+}
+
+singular_pronoun = {
+    "H":  "he",
+    "SH": "she",
+    "T":  "it",
+    "TH": "this",
+}
+
+pronoun = i | plural_pronoun | singular_pronoun
 
 is_  = {"-S":  "is",  "*S":  "^'s"}
 am   = {"-PL": "am",  "*PL": "^'m"}
@@ -85,6 +88,7 @@ patterns.extend([
 # wh-words
 
 wh_word = {
+    "THA":  "that",
     "WHA":  "what",
     "WH":   "when",
     "WHR":  "where",
@@ -152,14 +156,14 @@ medial_he  = {"E":  "he"}
 medial_pronoun = medial_i | medial_you | medial_he
 
 patterns.extend([
-    (that | wh_word, medial_pronoun, maybe(verb)),
-    (that | wh_word, medial_i,               am  | was,         maybe(the)),
-    (that | wh_word, medial_you,             are,               maybe(the)),
-    (that | wh_word, medial_he,              is_ | was,         maybe(the)),
-    (that | wh_word, medial_pronoun,         were,              maybe(the)),
-    (that | wh_word, medial_i  | medial_you, have, maybe(been), maybe(the)),
-    (that | wh_word, medial_he,              has,  maybe(been)),
-    (that | wh_word, medial_pronoun,         had,  maybe(been)),
+    (wh_word, medial_pronoun, maybe(verb)),
+    (wh_word, medial_i,               am  | was,         maybe(the)),
+    (wh_word, medial_you,             are,               maybe(the)),
+    (wh_word, medial_he,              is_ | was,         maybe(the)),
+    (wh_word, medial_pronoun,         were,              maybe(the)),
+    (wh_word, medial_i  | medial_you, have, maybe(been), maybe(the)),
+    (wh_word, medial_he,              has,  maybe(been)),
+    (wh_word, medial_pronoun,         had,  maybe(been)),
 ])
 
 
