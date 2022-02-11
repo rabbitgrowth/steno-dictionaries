@@ -103,11 +103,11 @@ patterns.extend([
 
 # Verbs
 
-medial_pronoun = {
-    "EU": "I",
-    "E":  "he",
-    "U":  "you",
-}
+medial_i   = {"EU": "I"}
+medial_he  = {"E":  "he"}
+medial_you = {"U":  "you"}
+
+medial_pronoun = medial_i | medial_he | medial_you
 
 negative = {
     "O":  "don't",
@@ -152,6 +152,13 @@ any_verb = verb | verb_past_tense | modal_verb
 patterns.extend([
     (pronoun | wh_word,                       any_verb ),
     (that    | wh_word, medial_pronoun, maybe(any_verb)),
+    (that    | wh_word, medial_i,               am  | was,         maybe(the)),
+    (that    | wh_word, medial_you,             are,               maybe(the)),
+    (that    | wh_word, medial_he,              is_ | was,         maybe(the)),
+    (that    | wh_word, medial_pronoun,         were,              maybe(the)),
+    (that    | wh_word, medial_i  | medial_you, have, maybe(been), maybe(the)),
+    (that    | wh_word, medial_he,              has,  maybe(been)),
+    (that    | wh_word, medial_pronoun,         had,  maybe(been)),
 ])
 
 
@@ -190,11 +197,6 @@ remaps = {
     "WHAOL":   "whale", # arbitrary vowel
     "HO":      "whole",
     "WHAOUS":  "whose",
-
-    "KPH*EU":   "economy",
-    "KPH*EUFT": "economist",
-    "KPH*EUBG": "economic",
-    "KPHA*L":   "economical",
 
     "EUD":    "idea",
     "EULD":   "ideal",

@@ -84,13 +84,13 @@ atrium
   AT/REU/KWRUPL
   KWRURPL -> I couldn't remember
 
-economy -> KPH*EU
+economy
   AOE/KOPB/PH*EU
   EBG/KOPB/PH*EU
   KPHE -> which he
   KPHEU -> which I
 
-economist -> KPH*EUFT
+economist
   AOE/KOPB/PH*EUS
   AOE/KOPB/PHEUFT
   EBG/KOPB/PH*EUS
@@ -98,16 +98,16 @@ economist -> KPH*EUFT
   KPHE/EUFT
   KPHEFT
   KPHEUFLT -> which I felt
-  KPHEUFT
+  KPHEUFT -> which I have the
 
-economic -> KPH*EUBG
+economic
   AOEBG/TPHOPL/EUBG
   EBG/TPHOPL/EUBG
   KPH*EBG
   KPHEBG -> which he can
   KPHEUBG -> which I can
 
-economical -> KPHA*L
+economical
   AOEBG/TPHOPL/KAL
   EBG/TPHOPL/KAL
   KPHAL
@@ -202,6 +202,14 @@ who
   WHO
   WHRO
 
+who's
+  HOS/AE
+  WHO*LS
+  WHO*S
+  WHO/AES
+  WHOES -> who he is
+  WHOS/AE
+
 how
   HOU
   PHOU
@@ -215,6 +223,14 @@ welcomed
   WEL/KOPLD
   WELGD
 
+condominium
+  KAUPB/TKOE/PHEUPB/KWRUPL
+  KAUPBD/PHEUPB/KWRUPL
+  KOPB/TKO/PHEUPB/KWRUPL
+  KOPB/TKOE/PHEUPB/KWRUPL
+  KOPBD/PHEUPB/KWRUPL
+  KPHEUPL -> which I am
+
 coming
   KO*G
   KO*PL/-G
@@ -224,10 +240,21 @@ coming
   KOPLG
   KPHEUPBG -> which I think
 
+economies
+  KPHES -> which he is
+
+economists
+  KPHEUFTS -> which I was the
+
 committing
   KPHEUG
   KPHEUGT -> which I get
   KPHEUT/-G
+
+commitment
+  KPHEUPLT -> which I am the
+  KPHEUT/*PLT
+  KPHUPLT
 
 withhold
   KPOELD
@@ -246,7 +273,7 @@ whatever
 what's
   KWHATS
   WHA*S
-  WHAES
+  WHAES -> what he is
   WHALTS
   WHAS/AE
   WHATS -> what is the
@@ -394,6 +421,16 @@ take
   THAEUBG -> that I can
   TKAEUBG
 
+therapy
+  TH*ERP
+  THAERP -> that he were
+  THAEURP -> that I were
+  THAOEURP
+  THER/PEU
+  THER/RA/PEU
+  THEURP
+  THOEURP
+
 this'll
   TH*L
   TH-L -> this will
@@ -407,12 +444,12 @@ third-degree
 
 they'd
   THA*EUD -> that I'd
-  THAEUD
+  THAEUD -> that I had
   THED -> they had
   THED/AE
 
 they've
-  THA*EUF
+  THA*EUF -> that I've
   THAEU/AO*EF
   THEF -> they have
   THEF/AE
@@ -462,6 +499,13 @@ that's correct
 {^ed that}
   THAD -> that had
 
+thesis
+  THAES -> that he is
+  THAES/EUS
+  THAOE/SEUS
+  THAOES/SEUS
+  THES/SEUS
+
 thing
   THAEUPBG -> that I think
   THAOEUPBG
@@ -475,6 +519,9 @@ that{.}
   THAPL
   TPHAPL
 
+that you've
+  THAUF -> that you have
+
 thoughtful
   THAUFL -> that you feel
   THAUT/*FL
@@ -487,6 +534,9 @@ thought
   THAUT
   THOUT
   THRAUT
+
+that you're
+  THAUR -> that you are
 
 therm
   THERPL -> they remember
@@ -580,8 +630,20 @@ whale -> WHAOL
 what part
   WHAPT -> what want
 
+what you've
+  WHAUF -> what you have
+
 what you'll
   WHAUL -> what you will
+
+what you're
+  WHAUR -> what you are
+
+whiff
+  WHEUF -> when I have
+
+whim
+  WHEUPL -> when I am
 
 who've
   WHO*F
@@ -603,6 +665,9 @@ whore
   WHOER
   WHOR -> who are
 
+who you're
+  WHOUR -> who you are
+
 whose -> WHAOUS
   WHOZ -> who has
 
@@ -620,3 +685,6 @@ whether I
 
 whether you
   WHRU -> where you
+
+when you're
+  WHUR -> when you are
