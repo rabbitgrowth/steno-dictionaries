@@ -370,6 +370,9 @@ continuing
 the president
   T-PT -> it want
 
+TdT
+  T-TD -> it had the
+
 take
   TAEBG
   TAEUBG
@@ -396,6 +399,11 @@ third-degree
 
 {^;^}
   TH-FL -> this feel
+
+that'd
+  THA*D
+  THAO*ED
+  THATD -> that had the
 
 they'd
   THA*EUD -> that I'd
@@ -567,6 +575,10 @@ whistle -> KWHEUFL
 
 When were
   WH-RP -> when were
+
+what'd
+  WHA*D
+  WHATD -> what had the
 
 what'll
   WHA*L

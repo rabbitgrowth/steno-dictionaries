@@ -80,9 +80,8 @@ had  = {"-D": "had"} # would -> ^'d
 been = {"-B": "been"}
 
 patterns.extend([
-    (i | plural_pronoun, have, maybe(been), maybe(the)),
-    (singular_pronoun,   has,  maybe(been)), # -TZ requires Philly shift, and -BTZ is impossible
-    (pronoun,            had,  maybe(been)), # -TD feels weird, and -BTD violates inversion rule
+    (i | plural_pronoun, have | had, maybe(been), maybe(the)),
+    (singular_pronoun,   has  | had, maybe(been), maybe(the)),
 ])
 
 # wh-words
@@ -100,9 +99,8 @@ wh_word = {
 be = is_ | are | was | were # exclude "am" and keep WHOPL as "whom"
 
 patterns.extend([
-    (wh_word, maybe(be),              maybe(the)),
-    (wh_word, have,      maybe(been), maybe(the)),
-    (wh_word, has | had, maybe(been)),
+    (wh_word,                   maybe(be),   maybe(the)),
+    (wh_word, have | has | had, maybe(been), maybe(the)),
 ])
 
 # Verbs
@@ -157,13 +155,12 @@ medial_pronoun = medial_i | medial_you | medial_he
 
 patterns.extend([
     (wh_word, medial_pronoun, maybe(verb)),
-    (wh_word, medial_i,               am  | was,         maybe(the)),
-    (wh_word, medial_you,             are,               maybe(the)),
-    (wh_word, medial_he,              is_ | was,         maybe(the)),
-    (wh_word, medial_pronoun,         were,              maybe(the)),
-    (wh_word, medial_i  | medial_you, have, maybe(been), maybe(the)),
-    (wh_word, medial_he,              has,  maybe(been)),
-    (wh_word, medial_pronoun,         had,  maybe(been)),
+    (wh_word, medial_i,       am  | was, maybe(the)),
+    (wh_word, medial_you,     are,       maybe(the)),
+    (wh_word, medial_he,      is_ | was, maybe(the)),
+    (wh_word, medial_pronoun, were,      maybe(the)),
+    (wh_word, medial_i | medial_you, have | had, maybe(been), maybe(the)),
+    (wh_word, medial_he,             has  | had, maybe(been), maybe(the)),
 ])
 
 
