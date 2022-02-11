@@ -329,6 +329,12 @@ and she
 and she can
   SKPHEBG -> which he can
 
+object and
+  SKPOBT -> and to be the
+
+off and
+  SKPOF -> and to have
+
 with respect to
   SPOEBGT
   W*RT -> we're the
