@@ -184,12 +184,6 @@ HDL
 hrm
   H-RPL -> he remember
 
-who
-  HO -> whole
-  KWHO
-  WHO
-  WHRO
-
 who's
   HOS/AE
   WHO*LS
@@ -245,7 +239,7 @@ when
   WHEPB
   WHREPB
 
-whole -> HO
+whole -> KWHOEL
   KWHOEL
   WHOEL -> who he will
 
@@ -569,22 +563,19 @@ whistle
 When were
   WH-RP -> when were
 
-what can
-  WHA*BG -> whack
-
 what'll
   WHA*L
   WHA/AOEL
   WHAL -> what will
 
-whack -> WHA*BG
+whack -> KWHABG
   WHABG -> what can
 
 wheal
   WHAEL -> what he will
   WHAO*EL
 
-whale -> WHAOL
+whale -> KWHAEUL
   WHAEUL -> what I will
   WHRAEUL
 

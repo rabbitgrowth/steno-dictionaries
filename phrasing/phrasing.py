@@ -190,13 +190,14 @@ for pattern in patterns:
 
 
 remaps = {
-    "TEPL":  "item",
-    "TH-FT": "theft", # E got stolen? or associate with TKPW-PB "gun"
+    "TEPL":   "item",
+    "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
+    "WHAOUS": "whose",
 
-    "WHA*BG":  "whack",
-    "WHAOL":   "whale", # arbitrary vowel
-    "HO":      "whole",
-    "WHAOUS":  "whose",
+    # Ugly compromise: add arbitrary K to words beginning with wh-
+    "KWHABG":  "whack",
+    "KWHAEUL": "whale",
+    "KWHOEL":  "whole",
 
     "EUD":    "idea",
     "EULD":   "ideal",
