@@ -103,12 +103,6 @@ patterns.extend([
 
 # Verbs
 
-medial_i   = {"EU": "I"}
-medial_you = {"U":  "you"}
-medial_he  = {"E":  "he"}
-
-medial_pronoun = medial_i | medial_you | medial_he
-
 negative = {
     "O":  "don't",
     "EU": "didn't",
@@ -118,7 +112,7 @@ negative = {
 
 extra_nt = {"-PBT": ""}
 
-verb = {
+verb_infinitive = {
     "-BL":  "believe",
     "-FL":  "feel",
     "-FD":  "find",
@@ -129,7 +123,13 @@ verb = {
     "-PT":  "want",
 }
 
-patterns.append((i, negative, extra_nt | verb))
+patterns.append((i, negative, extra_nt | verb_infinitive))
+
+medial_i   = {"EU": "I"}
+medial_you = {"U":  "you"}
+medial_he  = {"E":  "he"}
+
+medial_pronoun = medial_i | medial_you | medial_he
 
 verb_past_tense = {
     "-FLT": "felt",
@@ -147,11 +147,11 @@ modal_verb = {
     "*D":   "^'d", # could be short for "had" too, so use *D instead of *LD
 }
 
-any_verb = verb | verb_past_tense | modal_verb
+verb = verb_infinitive | verb_past_tense | modal_verb
 
 patterns.extend([
-    (pronoun | wh_word,                       any_verb ),
-    (that    | wh_word, medial_pronoun, maybe(any_verb)),
+    (pronoun | wh_word,                       verb ),
+    (that    | wh_word, medial_pronoun, maybe(verb)),
     (that    | wh_word, medial_i,               am  | was,         maybe(the)),
     (that    | wh_word, medial_you,             are,               maybe(the)),
     (that    | wh_word, medial_he,              is_ | was,         maybe(the)),
