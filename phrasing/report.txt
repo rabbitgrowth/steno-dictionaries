@@ -239,7 +239,7 @@ when
   WHEPB
   WHREPB
 
-whole -> SWHOEL
+whole -> KWHOEL
   KWHOEL
   WHOEL -> who he will
 
@@ -552,7 +552,7 @@ withheld
   W/HELD
   WHELD -> when he would
 
-whistle -> SWHEUFL
+whistle -> KWHEUFL
   WEUFL
   WH*EUS/-L
   WHEUFG
@@ -568,14 +568,14 @@ what'll
   WHA/AOEL
   WHAL -> what will
 
-whack -> SWHABG
+whack -> KWHABG
   WHABG -> what can
 
 wheal
   WHAEL -> what he will
   WHAO*EL
 
-whale -> SWHAEUL
+whale -> KWHAEUL
   WHAEUL -> what I will
   WHRAEUL
 
@@ -591,10 +591,10 @@ what you'll
 what you're
   WHAUR -> what you are
 
-whiff -> SWHEUF
+whiff -> KWHEUF
   WHEUF -> when I have
 
-whim -> SWHEUPL
+whim -> KWHEUPL
   WHEUPL -> when I am
 
 who've
@@ -613,7 +613,7 @@ who say
 whoa
   WHOE -> who he
 
-whore -> SWHOR
+whore -> KWHOR
   WHOER
   WHOR -> who are
 
