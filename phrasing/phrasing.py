@@ -85,12 +85,12 @@ patterns.extend([
 # wh-words
 
 wh_word = {
-    "KPH": "which",
-    "WHO": "who",
-    "WHA": "what",
-    "WH":  "when",
-    "WHR": "where",
-    "KWH": "why",
+    "SKPH": "which",
+    "WHO":  "who",
+    "WHA":  "what",
+    "WH":   "when",
+    "WHR":  "where",
+    "KWH":  "why",
 }
 
 be = is_ | are | was | were # exclude "am" and keep WHOPL as "whom"

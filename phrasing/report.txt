@@ -55,6 +55,27 @@ ester
   EFT/*ER
   ES/TER
 
+and
+  -PBD
+  -PBDZ
+  57BD
+  A/APBD
+  ABD
+  APBD
+  APBD/-DZ
+  APBDZ
+  APBGD
+  APBLD
+  APBLDZ
+  APBTD
+  APD
+  SKP
+  SKPH -> which
+  SKPW
+  SP
+  STK
+  STKP
+
 them
   24E78
   THEFL -> they feel
@@ -83,39 +104,6 @@ atrium
   AEUT/TRAOE/UPL
   AT/REU/KWRUPL
   KWRURPL -> I couldn't remember
-
-economy
-  AOE/KOPB/PH*EU
-  EBG/KOPB/PH*EU
-  KPHE -> which he
-  KPHEU -> which I
-
-economist
-  AOE/KOPB/PH*EUS
-  AOE/KOPB/PHEUFT
-  EBG/KOPB/PH*EUS
-  KPH*EUS
-  KPHE/EUFT
-  KPHEFT
-  KPHEUFLT -> which I felt
-  KPHEUFT -> which I have the
-
-economic
-  AOEBG/TPHOPL/EUBG
-  EBG/TPHOPL/EUBG
-  KPH*EBG
-  KPHEBG -> which he can
-  KPHEUBG -> which I can
-
-economical
-  AOEBG/TPHOPL/KAL
-  EBG/TPHOPL/KAL
-  KPHAL
-  KPHE/K-L
-  KPHEBG/K-L
-  KPHEL -> which he will
-  KPHEUBG/AL
-  KPHEUBG/KAL
 
 item -> TEPL
   AOEU/TEPL
@@ -223,39 +211,6 @@ welcomed
   WEL/KOPLD
   WELGD
 
-condominium
-  KAUPB/TKOE/PHEUPB/KWRUPL
-  KAUPBD/PHEUPB/KWRUPL
-  KOPB/TKO/PHEUPB/KWRUPL
-  KOPB/TKOE/PHEUPB/KWRUPL
-  KOPBD/PHEUPB/KWRUPL
-  KPHEUPL -> which I am
-
-coming
-  KO*G
-  KO*PL/-G
-  KOPBLG
-  KOPL/-G
-  KOPL/-G/-G
-  KOPLG
-  KPHEUPBG -> which I think
-
-economies
-  KPHES -> which he is
-
-economists
-  KPHEUFTS -> which I was the
-
-committing
-  KPHEUG
-  KPHEUGT -> which I get
-  KPHEUT/-G
-
-commitment
-  KPHEUPLT -> which I am the
-  KPHEUT/*PLT
-  KPHUPLT
-
 withhold
   KPOELD
   W/HOELD
@@ -358,6 +313,12 @@ shall remember
 
 {>}ssh
   SH-S -> she is
+
+and she
+  SKPHE -> which he
+
+and she can
+  SKPHEBG -> which he can
 
 with respect to
   SPOEBGT
