@@ -165,6 +165,12 @@ patterns.extend([
     (wh_word, medial_he,             has  | had, maybe(been), maybe(the)),
 ])
 
+# "a"
+
+a = {"-LGTS": "a"}
+
+patterns.append((wh_word, maybe(a | the)))
+
 
 phrasing = {}
 

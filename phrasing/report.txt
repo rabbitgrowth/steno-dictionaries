@@ -55,6 +55,27 @@ ester
   EFT/*ER
   ES/TER
 
+and
+  -PBD
+  -PBDZ
+  57BD
+  A/APBD
+  ABD
+  APBD
+  APBD/-DZ
+  APBDZ
+  APBGD
+  APBLD
+  APBLDZ
+  APBTD
+  APD
+  SKP
+  SKPH -> which
+  SKPW
+  SP
+  STK
+  STKP
+
 them
   24E78
   THEFL -> they feel
@@ -314,7 +335,7 @@ that's
   TH-TS -> this is the
   THA*S
   THA*TS -> that's the
-  THALGTS
+  THALGTS -> that a
   THALTS
   THAS/-TS
   THAS/AE
@@ -618,6 +639,12 @@ who you're
 
 whose -> WHAOUS
   WHOZ -> who has
+
+whether
+  WHR -> where
+
+whether the
+  WHR-T -> where the
 
 When
   WHRE -> where he
