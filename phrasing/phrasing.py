@@ -167,9 +167,22 @@ patterns.extend([
 
 # "a"
 
+starter = {
+    "R":     "are",
+    "TK":    "did",
+    "TPO":   "for", # instead of TP-R
+    "TPR":   "from",
+    "TPH":   "in",
+    "TPHAO": "into",
+    "S":     "is",
+    "OPB":   "on",
+    "THRU":  "through",
+    "W":     "with",
+}
+
 a = {"-LGTS": "a"}
 
-patterns.append((wh_word, maybe(a | the)))
+patterns.append((wh_word | starter, maybe(a | the)))
 
 
 phrasing = {}

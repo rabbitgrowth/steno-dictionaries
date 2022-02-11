@@ -76,6 +76,16 @@ and
   STK
   STKP
 
+not
+  23409
+  PHOT
+  TPHOLT
+  TPHOPT
+  TPHOT
+  TPHOTD
+  TPHOTS
+  TPOT -> for the
+
 them
   24E78
   THEFL -> they feel
@@ -292,6 +302,11 @@ I don't think
 young
   KWROUPBG
   KWRUPBG -> I couldn't think
+
+to
+  O
+  TO
+  TPO -> for
 
 shall believe
   SH-BL -> she believe
