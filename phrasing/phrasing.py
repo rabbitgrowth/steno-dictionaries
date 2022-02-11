@@ -99,7 +99,7 @@ wh_word = {
 be = is_ | are | was | were # exclude "am" and keep WHOPL as "whom"
 
 patterns.extend([
-    (wh_word,                   maybe(be),   maybe(the)),
+    (wh_word, be, maybe(the)),
     (wh_word, have | has | had, maybe(been), maybe(the)),
 ])
 
