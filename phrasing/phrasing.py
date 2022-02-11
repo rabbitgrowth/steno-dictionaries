@@ -194,10 +194,14 @@ remaps = {
     "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
     "WHAOUS": "whose",
 
-    # Ugly compromise: add arbitrary K to words beginning with wh-
-    "KWHABG":  "whack",
-    "KWHAEUL": "whale",
-    "KWHOEL":  "whole",
+    # Ugly compromise: add arbitrary S to words beginning with wh-
+    "SWHABG":  "whack",
+    "SWHAEUL": "whale",
+    "SWHEUF":  "whiff",
+    "SWHEUPL": "whim",
+    "SWHEUFL": "whistle",
+    "SWHOEL":  "whole",
+    "SWHOR":   "whore",
 
     "EUD":    "idea",
     "EULD":   "ideal",
