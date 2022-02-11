@@ -103,15 +103,6 @@ patterns.extend([
 
 # Verbs
 
-negative = {
-    "O":  "don't",
-    "EU": "didn't",
-    "A":  "can't",
-    "U":  "couldn't",
-}
-
-extra_nt = {"-PBT": ""}
-
 verb_infinitive = {
     "-BL":  "believe",
     "-FL":  "feel",
@@ -122,14 +113,6 @@ verb_infinitive = {
     "-PBG": "think",
     "-PT":  "want",
 }
-
-patterns.append((i, negative, extra_nt | verb_infinitive))
-
-medial_i   = {"EU": "I"}
-medial_you = {"U":  "you"}
-medial_he  = {"E":  "he"}
-
-medial_pronoun = medial_i | medial_you | medial_he
 
 verb_past_tense = {
     "-FLT": "felt",
@@ -149,16 +132,34 @@ modal_verb = {
 
 verb = verb_infinitive | verb_past_tense | modal_verb
 
+patterns.append((pronoun | wh_word, verb))
+
+negative = {
+    "O":  "don't",
+    "EU": "didn't",
+    "A":  "can't",
+    "U":  "couldn't",
+}
+
+extra_nt = {"-PBT": ""}
+
+patterns.append((i, negative, extra_nt | verb_infinitive))
+
+medial_i   = {"EU": "I"}
+medial_you = {"U":  "you"}
+medial_he  = {"E":  "he"}
+
+medial_pronoun = medial_i | medial_you | medial_he
+
 patterns.extend([
-    (pronoun | wh_word,                       verb ),
-    (that    | wh_word, medial_pronoun, maybe(verb)),
-    (that    | wh_word, medial_i,               am  | was,         maybe(the)),
-    (that    | wh_word, medial_you,             are,               maybe(the)),
-    (that    | wh_word, medial_he,              is_ | was,         maybe(the)),
-    (that    | wh_word, medial_pronoun,         were,              maybe(the)),
-    (that    | wh_word, medial_i  | medial_you, have, maybe(been), maybe(the)),
-    (that    | wh_word, medial_he,              has,  maybe(been)),
-    (that    | wh_word, medial_pronoun,         had,  maybe(been)),
+    (that | wh_word, medial_pronoun, maybe(verb)),
+    (that | wh_word, medial_i,               am  | was,         maybe(the)),
+    (that | wh_word, medial_you,             are,               maybe(the)),
+    (that | wh_word, medial_he,              is_ | was,         maybe(the)),
+    (that | wh_word, medial_pronoun,         were,              maybe(the)),
+    (that | wh_word, medial_i  | medial_you, have, maybe(been), maybe(the)),
+    (that | wh_word, medial_he,              has,  maybe(been)),
+    (that | wh_word, medial_pronoun,         had,  maybe(been)),
 ])
 
 
