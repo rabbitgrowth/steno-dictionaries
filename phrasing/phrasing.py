@@ -104,10 +104,10 @@ patterns.extend([
 # Verbs
 
 medial_i   = {"EU": "I"}
-medial_he  = {"E":  "he"}
 medial_you = {"U":  "you"}
+medial_he  = {"E":  "he"}
 
-medial_pronoun = medial_i | medial_he | medial_you
+medial_pronoun = medial_i | medial_you | medial_he
 
 negative = {
     "O":  "don't",
