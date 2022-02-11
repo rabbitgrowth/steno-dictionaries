@@ -184,10 +184,13 @@ a = {"-LGTS": "a"}
 
 patterns.append((wh_word | starter, maybe(a | the)))
 
-# "and"
+# "to"
 
 and_ = {"SKP": "and"}
 to   = {"O":   "to"}
+
+have_starter = {"SR": "have"}
+full_to      = {"TO": "to"}
 
 be = {
     "-B":  "be",
@@ -195,7 +198,11 @@ be = {
     "-FB": "have been",
 }
 
-patterns.append((and_, maybe(to), maybe(be), maybe(a | the)))
+patterns.extend([
+    (and_,         maybe(to), maybe(be), maybe(a | the)),
+    (have_starter, full_to,   maybe(be), maybe(a | the)),
+    (have_starter,            been,      maybe(a | the)),
+])
 
 
 phrasing = {}
