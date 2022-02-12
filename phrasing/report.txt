@@ -55,6 +55,11 @@ ester
   EFT/*ER
   ES/TER
 
+willing
+  -LG
+  HR-G -> altogether
+  WEULG
+
 and
   -PBD
   -PBDZ
@@ -379,6 +384,9 @@ tablespoon
 {^ed it}
   T-D -> it had
 
+{^ing it}
+  T-G -> together
+
 tailgate
   T-GT -> it get
   TAEUL/TKPWAET
@@ -524,7 +532,7 @@ tomorrow -> TPHRO
   TOEPL
   TORPL -> to remember
 
-together -> TOEG
+together -> T-G
   TO/TKPW*ERT
   TO/TKPW*ET/ER
   TOGT -> to get
@@ -533,10 +541,6 @@ together -> TOEG
 {^ed to}
   TOD -> today
   TOTD
-
-towing
-  TOE/-G
-  TOEG -> together
 
 topping
   TOP/-G

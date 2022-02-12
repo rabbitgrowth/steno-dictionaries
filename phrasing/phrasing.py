@@ -224,11 +224,13 @@ for pattern in patterns:
 remaps = {
     "TEPL":   "item",
     "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
-    "TOEG":   "together",
     "WHAOUS": "whose",
 
     "TOD":   "today",
     "TPHRO": "tomorrow",
+
+    "T-G":  "together",
+    "HR-G": "altogether",
 
     # Ugly compromise: add arbitrary K to words beginning with wh-
     "KWHABG":  "whack",

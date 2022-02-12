@@ -43,7 +43,7 @@
     "P-FT": "point of",
     "P-FTS": "points of",
     "PR-B": "problem",
-    "T-G": "thing",
+    "TH-G": "thing", // TH/TH-G "this thing" and TH-GZ "things" are nice
     "SR-L": "value",
     "SR-BL": "valuable",
 
@@ -98,7 +98,6 @@
 
     "HR-BG": "like",    // use WELG for "welcome"
     "HR*BG": "{^like}", // use HR*PBG for "[l]ow i[nc]ome"
-    "HR-G": "liking",   // use WEULG for "willing"
     "HR-BGD": "liked",
     "HR-LG": "likely",  // overrides {^ological} [1]
     "HR-BGT": "like the",
@@ -675,9 +674,6 @@
     "STEPG/STOEPB": "stepping stone",
 
     // Prevent word boundary errors
-    "PUT/T-GZ": "put things",  // otherwise "putting its" (PUT/T-G "putting it" + {^s})
-    "SAOE/T-GZ": "see things", // otherwise "seeing its"  (SAOE/T-G "seeing it" + {^s})
-
     "KAOUP/OPB": "coup on", // use KAOU/POPB or KAOUPB for "coupon"
                             // ("The military launched a coup on Monday")
     "HAOEU/KWROE": "high I don't", // use HO*EU for "Ohio"
@@ -3540,8 +3536,8 @@
     "WHOEFLT": "whole lot of",
     "WHAOELT": "a whole lot",
     "WHAOEFLT": "a whole lot of",
-    "WHOEG": "whole thing",  // cf. T-G "thing" (custom)
-    "WHOEPT": "whole point", // cf. P-T "point" (custom)
+    "WHOEG": "whole thing",  // cf. TH-G "thing" (custom)
+    "WHOEPT": "whole point", // cf. P-T  "point" (custom)
     "WHOERLD": "whole world",
     "WHOERL": "whole world", // cf. WORL "world"
 
@@ -3601,7 +3597,7 @@
     "TPAOEUFP": "five people", // phonetic
     "TPEUFP": "five people",   // simpler vowel
 
-    // T-G "thing"
+    // TH-G "thing"
     "WUPBG": "one thing",
     "TWOGZ": "two things",
     "THRAOEGZ": "three things",
@@ -4294,8 +4290,6 @@
     "P-BGS": "pixel",      // px   (give up "People's Exhibit#G")
     "PREF": "previous",    // prev (give up "pref")
     "PREFL": "previously",
-    "T-GT": "together",    // tgt  (use TAEUL/TKPWAEUT for "tailgate")
-    "T-RPL": "tomorrow",   // tmr
 
     // Add * to expand to full form
     // Precedent: TPREUPBLG "fridge" -> TPR*EUPBLG "refrigerator"
