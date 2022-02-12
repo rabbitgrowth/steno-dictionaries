@@ -58,6 +58,7 @@ singular_pronoun = {
 pronoun = i | plural_pronoun | singular_pronoun
 
 wh_word = {
+    "SKP":  "and",
     "THA":  "that",
     "WHA":  "what",
     "WH":   "when",
@@ -67,7 +68,6 @@ wh_word = {
     "TWH":  "why",   # looks like Y
 }
 
-and_ = {"SKP": "and"}
 if_  = {"TKP": "if"} # looks like F
 
 to = {
@@ -99,12 +99,12 @@ patterns.extend([
     (plural_pronoun,   are,       maybe(the)),
     (singular_pronoun, is_ | was, maybe(the)),
     (pronoun,          were,      maybe(the)),
-    (wh_word | and_,   be_forms,  maybe(the)),
+    (wh_word,          be_forms,  maybe(the)),
     (to,               be,        maybe(the)),
 
     (i | plural_pronoun, have | had, maybe(been), maybe(the)),
     (singular_pronoun,   has  | had, maybe(been), maybe(the)),
-    (wh_word | and_,     have_forms, maybe(been), maybe(the)),
+    (wh_word,            have_forms, maybe(been), maybe(the)),
     (to,                 have,       maybe(been), maybe(the)),
 ])
 
@@ -149,14 +149,14 @@ negative = {
 extra_nt = {"-PBT": ""}
 
 patterns.extend([
-    (pronoun | wh_word | and_, verb),
+    (pronoun | wh_word, verb),
     (i, negative, extra_nt | verb_infinitive),
     (to,                     verb_infinitive),
 ])
 
 # Three-part phrases with medial pronouns
 
-starter = wh_word | and_ | if_
+starter = wh_word | if_
 
 medial_i   = {"EU": "I"}
 medial_you = {"U":  "you"}
