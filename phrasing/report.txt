@@ -221,6 +221,10 @@ withhold
   WHOELD -> who he would
   WOLD
 
+NKRO
+  KRO*FR
+  TPHRO -> tomorrow
+
 whatever
   KWHAFR
   WHA*FR
@@ -515,7 +519,7 @@ that you're
 therm
   THERPL -> they remember
 
-tomorrow
+tomorrow -> TPHRO
   TO/PHOR/ROE
   TOEPL
   TORPL -> to remember
@@ -525,6 +529,10 @@ together
   TO/TKPW*ET/ER
   TOGT -> to get
   TOLGT
+
+{^ed to}
+  TOD -> today
+  TOTD
 
 topping
   TOP/-G

@@ -226,6 +226,9 @@ remaps = {
     "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
     "WHAOUS": "whose",
 
+    "TOD":   "today",
+    "TPHRO": "tomorrow",
+
     # Ugly compromise: add arbitrary K to words beginning with wh-
     "KWHABG":  "whack",
     "KWHAEUL": "whale",
