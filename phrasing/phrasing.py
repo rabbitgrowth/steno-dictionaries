@@ -118,7 +118,7 @@ verb_infinitive = {
     "-GT":  "get",
     "-FPL": "like", # borrowed from Stanley Sakai
     "-RPL": "remember",
-    "-PBG": "think",
+    "-PG":  "think",
     "-PT":  "want",
 }
 

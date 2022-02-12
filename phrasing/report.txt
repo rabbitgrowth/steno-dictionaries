@@ -285,23 +285,16 @@ you're
   UR/AE
   URB -> you shall
 
-Yang
-  KWRAPBG -> I can't think
-
 {^y}{.}
   KWREUFP
   KWREUFPL -> I didn't like
 
 I don't think
-  KWREUPBG -> I didn't think
-  KWREUPG
+  KWREUPBG
+  KWREUPG -> I didn't think
   KWROEUPBG
   KWROPBG
   SKWREUPBG
-
-young
-  KWROUPBG
-  KWRUPBG -> I couldn't think
 
 to
   O
@@ -374,9 +367,6 @@ theft -> TH-FT
   STHEFT
   THEFT -> they have the
 
-strong
-  STROPBG -> have to think
-
 tablespoon
   T-BS -> it said
   TAEUBL/SPAO*PB
@@ -389,10 +379,6 @@ tailgate
   T-GT -> it get
   TAEUL/TKPWAET
   TAEUL/TKPWAEUT
-
-continuing
-  T-PB/-G
-  T-PBG -> it think
 
 the president
   T-PT -> it want
@@ -468,8 +454,8 @@ thank
   THA*PBG
   THABG -> that can
   THAPB/*BG
-  THAPBG -> that think
-  THAPG
+  THAPBG
+  THAPG -> that think
   THRA*PBG
 
 thawed
@@ -479,8 +465,8 @@ thank you
   THA*UPBG
   THAOUPBG
   THAUG
-  THAUPBG -> that you think
-  THAUPG
+  THAUPBG
+  THAUPG -> that you think
 
 that's correct
   THABGT/AOES
@@ -500,13 +486,6 @@ thesis
   THAOE/SEUS
   THAOES/SEUS
   THES/SEUS
-
-thing
-  THAEUPBG -> that I think
-  THAOEUPBG
-  THEPBG -> they think
-  THEUPBG
-  THEUPG
 
 that{.}
   THAFLT -> that felt
@@ -547,8 +526,9 @@ together
   TOGT -> to get
   TOLGT
 
-tong
-  TOPBG -> to think
+topping
+  TOP/-G
+  TOPG -> to think
 
 unfortunately -> UFRL
   TPHORPBLT
@@ -563,6 +543,10 @@ unfortunately -> UFRL
 
 USB
   UFB -> you have been
+
+upping
+  UP/-G
+  UPG -> you think
 
 you're the
   URT -> you are the
@@ -581,12 +565,6 @@ where
 
 {^ed with}
   W-D -> we had
-
-winning
-  W-G
-  W-PBG -> we think
-  WAO*EPBG
-  WEUPB/-G
 
 whereby
   W-R/PWEU
@@ -651,6 +629,10 @@ what you're
 
 whiff -> KWHEUF
   WHEUF -> when I have
+
+whipping
+  WHEUP/-G
+  WHEUPG -> when I think
 
 whim -> KWHEUPL
   WHEUPL -> when I am
