@@ -91,7 +91,7 @@ had  = {"-D": "had"} # would -> ^'d
 
 have_forms = have | has | had
 
-the  = {"-T": "the"}
+the = {"-T": "the"}
 
 patterns.extend([
     (i,                am  | was, maybe(the)),
