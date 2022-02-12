@@ -1,0 +1,775 @@
+Idaho
+  *EUD -> id
+  *EUD/*EUD
+  AOEUD/HOE
+
+it's
+  *TS
+  EUT/AE
+  EUTS/AE
+  T*S
+  T-LS
+  T-S -> it is
+  T-S/AE
+  T-SZ
+  T-TS -> it is the
+  T/AES
+  TK-S
+  TP-S
+
+you'd
+  *UD
+  AOUD
+  KWRO*UD
+  UD -> you had
+  UD/AE
+
+UV
+  *UF -> you've
+
+usb
+  *UFB -> you've been
+
+you are
+  *UR -> you're
+  R*U
+
+{,}
+  -BGS
+  -FRBGS
+  -RB
+  -RBG
+  -RBGS
+  -RBS
+  -RGS
+  KW-B
+  KW-BG
+  KWR-BG -> I can
+  KWR-BGS
+  TP-PL/-RBGS
+  TP-PL/KW-BG
+  W-BG -> we can
+
+ester
+  -FRT -> fortunate
+  EFT/*ER
+  ES/TER
+
+willing
+  -LG
+  HR-G -> altogether
+  WEULG
+
+and
+  -PBD
+  -PBDZ
+  57BD
+  A/APBD
+  ABD
+  APBD
+  APBD/-DZ
+  APBDZ
+  APBGD
+  APBLD
+  APBLDZ
+  APBTD
+  APD
+  SKP
+  SKPH -> which
+  SKPW
+  SP
+  STK
+  STKP
+
+not
+  23409
+  PHOT
+  TPHOLT
+  TPHOPT
+  TPHOT
+  TPHOTD
+  TPHOTS
+  TPOT -> for the
+
+them
+  24E78
+  THEFL -> they feel
+  THEFPL -> they like
+  THEP
+  THEPL
+  THEUPL
+  THOEPL
+  TWHEPL
+
+they're
+  24ER
+  THA*EUR
+  THER -> they are
+  THER/AE
+  THERB -> they shall
+
+atrium
+  AEURPLT
+  AEURT/KWRUPL
+  AEURT/KWRURPL
+  AEUT/RAOE/KWRUPL
+  AEUT/RAOE/UPL
+  AEUT/RUPL
+  AEUT/TRAOE/KWRUPL
+  AEUT/TRAOE/UPL
+  AT/REU/KWRUPL
+  KWRURPL -> I couldn't remember
+
+he'd
+  AOED
+  ED/AE
+  HAOED -> heed
+
+item -> TEPL
+  AOEU/TEPL
+  AOEUPLT -> I'm the
+  AOEUT/EPL
+  AOEUT/TEPL
+
+idea -> EUD
+  AOEU/TKAOE/A
+  AOEU/TKAOE/KWRA
+  KWR-D -> I had
+  KWRUD
+
+ideal -> EULD
+  AOEU/TKAOEL
+  AOEUD/AOEL
+  AOEUD/TKAOEL
+  KW-LD
+  KWR-D/A*L
+  KWR-D/AOEL
+  KWR-L -> I will
+  KWR-LD -> I would
+
+you've
+  AOUF
+  KWRAO*UF
+  KWRO*UF
+  KWROU/AO*EF
+  UF -> you have
+  UF/AE
+
+id -> *EUD
+  EUD -> idea
+
+I would
+  EULD -> ideal
+  WOEU
+
+it'll
+  EUT/AOEL
+  T*L
+  T-L -> it will
+
+Hodgkin's disease
+  H*D -> he'd
+
+hello
+  H*EL
+  H-L -> he will
+  HEL/HRO
+  HEL/HROE
+  HO*EL
+
+{?}
+  H*F
+  H-F
+  H-FPB
+  KW-PL
+  STH/PHOEUFP
+  STKPH
+  STP -> if
+  STPH
+  STPH*
+  STPHA
+  TP-PL/STPH-RB
+
+Hodgkin's lymphoma
+  H*L -> he'll
+
+health care
+  H-BG -> he can
+
+had had
+  H-D -> he had
+
+had felt
+  H-FLT -> he felt
+
+hmpf
+  H-FPL -> he like
+
+{^s}{?}
+  H-FS -> he was
+  STH-S
+  STP-S
+  STPH-S
+
+HDL
+  H-LD -> he would
+
+hrm
+  H-RPL -> he remember
+
+who's
+  HOS/AE
+  WHO*LS
+  WHO*S
+  WHO/AES
+  WHOES -> who he is
+  WHOS/AE
+
+how
+  HOU
+  PHOU
+  WHOU -> who you
+
+welcomed
+  HR-BGD
+  W*ELGD
+  W-BGD -> we could
+  WEL/KOPL/-D
+  WEL/KOPLD
+  WELGD
+
+withhold
+  KPOELD
+  W/HOELD
+  WHOELD -> who he would
+  WOLD
+
+NKRO
+  KRO*FR
+  TPHRO -> tomorrow
+
+whatever
+  KWHAFR
+  WHA*FR
+  WHAEFR
+  WHAF -> what have
+  WHAFR
+  WHRAFR
+
+what's
+  KWHATS
+  WHA*S
+  WHAES -> what he is
+  WHALTS
+  WHAS/AE
+  WHATS -> what is the
+  WHATSZ
+  WHRATS
+
+when
+  KWHEPB
+  PWHEPB
+  WH
+  WHE -> when he
+  WHEB
+  WHEP
+  WHEPB
+  WHREPB
+
+whole -> KWHOEL
+  KWHOEL
+  WHOEL -> who he will
+
+idea of
+  KWR-FD -> I find
+
+why was
+  KWR-FS -> I was
+
+yours very truly{,}
+  KWR-FT -> I have the
+
+I mean
+  KWR-PL -> I am
+
+{&y-}
+  KWR-PLT -> I am the
+
+I can't have had
+  KWRAFD -> I can't find
+
+you'll
+  KWRAO*UL
+  KWRO*UL
+  KWROU/AOEL
+  UL -> you will
+  UL/AE
+
+you're
+  KWRAO*UR
+  KWRO*UR
+  UR -> you are
+  UR/AE
+  URB -> you shall
+
+{^y}{.}
+  KWREUFP
+  KWREUFPL -> I didn't like
+
+I don't think
+  KWREUPBG
+  KWREUPG -> I didn't think
+  KWROEUPBG
+  KWROPBG
+  SKWREUPBG
+
+to
+  O
+  TO
+  TPO -> for
+
+superficial
+  SAO*UP/TPEURBL
+  SAOUP/TPEURB
+  SAOUP/TPEURBL
+  SAUP/TPEURBL
+  STPEUFL -> if I feel
+  SU/PER/TPEURBL
+
+shall believe
+  SH-BL -> she believe
+
+shall feel
+  SH-FL -> she feel
+
+shall want
+  SH-PT -> she want
+
+shall remember
+  SH-RPL -> she remember
+
+{>}ssh
+  SH-S -> she is
+
+{^s and the}
+  SKP-TS -> and is the
+
+easy and
+  SKPEZ -> and he has
+
+and she
+  SKPHE -> which he
+
+and she can
+  SKPHEBG -> which he can
+
+object and
+  SKPOBT -> and to be the
+
+off and
+  SKPOF -> and to have
+
+and you'll
+  SKPUL -> and you will
+
+and you're
+  SKPUR -> and you are
+
+{^e}
+  SKWR*E
+  SKWRE
+  STPE -> if he
+
+{^i}
+  SKWREU
+  STPEU -> if I
+
+{^u}
+  SKWRU
+  STPU -> if you
+
+with respect to
+  SPOEBGT
+  W*RT -> we're the
+  W-RBGS/SPEBGT/TO
+  W/SPEBGT/STO
+  W/STEBGT/TO
+  W/STPOEBGT
+
+still
+  STEUL
+  STKEUL
+  STPEUL -> if I will
+  STUL
+
+their
+  STHAEUR
+  THAER
+  THAEUFR
+  THAEUR
+  THAEURB -> that I shall
+  THRAEUR
+
+that's
+  STHATS
+  TH-TS -> this is the
+  THA*S
+  THA*TS -> that's the
+  THALGTS -> that a
+  THALTS
+  THAS/-TS
+  THAS/AE
+  THAS/AOE
+  THATS -> that is the
+  THATS/AE
+  THATSZ
+  THRATS
+  TPHATS
+
+theft -> TH-FT
+  STHEFT
+  THEFT -> they have the
+
+fantastic -> TPAFBG
+  STPEUBG -> if I can
+  TPAPB/T-FBG
+  TPAPB/TA*S/EUBG
+  TPAPB/TAFBG
+  TPAPB/TAFT/EUBG
+  TPAPB/TAS/TEUBG
+  TPAPB/TPAFBG
+
+as fuck
+  STPUBG -> if you can
+
+tablespoon
+  T-BS -> it said
+  TAEUBL/SPAO*PB
+  TAEUBL/SPAOPB
+
+{^ed it}
+  T-D -> it had
+
+{^ing it}
+  T-G -> together
+
+tailgate
+  T-GT -> it get
+  TAEUL/TKPWAET
+  TAEUL/TKPWAEUT
+
+the president
+  T-PT -> it want
+
+TdT
+  T-TD -> it had the
+
+take
+  TAEBG
+  TAEUBG
+  THAEUBG -> that I can
+  TKAEUBG
+
+therapy
+  TH*ERP
+  THAERP -> that he were
+  THAEURP -> that I were
+  THAOEURP
+  THER/PEU
+  THER/RA/PEU
+  THEURP
+  THOEURP
+
+this'll
+  TH*L
+  TH-L -> this will
+  TH-L/AE
+
+third-degree
+  TH-D -> this had
+
+{^;^}
+  TH-FL -> this feel
+
+that'd
+  THA*D
+  THAO*ED
+  THATD -> that had the
+
+they'd
+  THA*EUD -> that I'd
+  THAEUD -> that I had
+  THED -> they had
+  THED/AE
+
+they've
+  THA*EUF -> that I've
+  THAEU/AO*EF
+  THEF -> they have
+  THEF/AE
+
+they'll
+  THA*EUL -> that I'll
+  THAEU/AOEL
+  THAEUL -> that I will
+  THEL -> they will
+  THEL/AE
+
+that've
+  THA*F
+  THA/AO*EF
+  THAF -> that have
+
+that'll
+  THA*L
+  THA/AOEL
+  THAL -> that will
+  THAL/AE
+  THALT
+  THAO*EL
+
+thank
+  THA*PBG
+  THABG -> that can
+  THAPB/*BG
+  THAPBG
+  THAPG -> that think
+  THRA*PBG
+
+thawed
+  THA*UD -> that you'd
+
+thank you
+  THA*UPBG
+  THAOUPBG
+  THAUG
+  THAUPBG
+  THAUPG -> that you think
+
+that's correct
+  THABGT/AOES
+  THAEBG -> that he can
+  THAEBGT
+  THAERBG
+  THAERBGT
+  THARBGT/AOES
+  THREBGT
+
+{^ed that}
+  THAD -> that had
+
+thesis
+  THAES -> that he is
+  THAES/EUS
+  THAOE/SEUS
+  THAOES/SEUS
+  THES/SEUS
+
+that{.}
+  THAFLT -> that felt
+  THAFPLT
+  THAPL
+  TPHAPL
+
+that you've
+  THAUF -> that you have
+
+thoughtful
+  THAUFL -> that you feel
+  THAUT/*FL
+  THAUT/-FL
+  THAUT/TPUL
+
+thought
+  THAUGT -> that you get
+  THAULT
+  THAUT
+  THOUT
+  THRAUT
+
+that you're
+  THAUR -> that you are
+
+therm
+  THERPL -> they remember
+
+tomorrow -> TPHRO
+  TO/PHOR/ROE
+  TOEPL
+  TORPL -> to remember
+
+together -> T-G
+  TO/TKPW*ERT
+  TO/TKPW*ET/ER
+  TOGT -> to get
+  TOLGT
+
+{^ed to}
+  TOD -> today
+  TOTD
+
+topping
+  TOP/-G
+  TOPG -> to think
+
+unfortunately -> UFRL
+  TPHORPBLT
+  TPHORPBLTD
+  UFL -> you feel
+  UPB/TPOERT/TPHET/HREU
+  UPB/TPOFRPBT/HREU
+  UPB/TPORPBL
+  UPB/TPORPBLT
+  UPB/TPORPBT/HREU
+  UPB/TPORT/TPHET/HREU
+
+USB
+  UFB -> you have been
+
+upping
+  UP/-G
+  UPG -> you think
+
+you're the
+  URT -> you are the
+
+we've
+  W*EF
+  WAOEF -> weave
+  WAOEF/AE
+  WE/AO*EF
+  WRAOEF
+
+West Virginia
+  W*ES/SRAFPLT
+  W*ES/SREUR/SKWREUPB/KWRA
+  W*F -> we've
+  W*F/W*F
+
+where
+  W*R -> we're
+  W-F -> we have
+  W-R -> we are
+  WHER
+
+{^ed with}
+  W-D -> we had
+
+whereby
+  W-R/PWEU
+  W-RB -> we shall
+  WR*RB
+  WR-B
+  WR-RB
+
+with respect
+  W-RPT -> we were the
+  WR-PT
+
+where the
+  W-RT -> we are the
+
+withheld
+  W/HELD
+  WHELD -> when he would
+
+we'd
+  WAOED -> weed
+  WAOED/AE
+
+whistle -> KWHEUFL
+  WEUFL
+  WH*EUS/-L
+  WHEUFG
+  WHEUFL -> when I feel
+  WHEUS/*L
+  WHEUS/-L
+
+When were
+  WH-RP -> when were
+
+what'd
+  WHA*D
+  WHATD -> what had the
+
+what'll
+  WHA*L
+  WHA/AOEL
+  WHAL -> what will
+
+whack -> KWHABG
+  WHABG -> what can
+
+wheal
+  WHAEL -> what he will
+  WHAO*EL
+
+whale -> KWHAEUL
+  WHAEUL -> what I will
+  WHRAEUL
+
+what part
+  WHAPT -> what want
+
+what you've
+  WHAUF -> what you have
+
+what you'll
+  WHAUL -> what you will
+
+what you're
+  WHAUR -> what you are
+
+whiff -> KWHEUF
+  WHEUF -> when I have
+
+whipping
+  WHEUP/-G
+  WHEUPG -> when I think
+
+whim -> KWHEUPL
+  WHEUPL -> when I am
+
+who've
+  WHO*F
+  WHO/AO*EF
+  WHOF -> who have
+
+who'll
+  WHO*L
+  WHO/AOEL
+  WHOL -> who will
+
+who say
+  WHOBZ -> who has been
+
+whoa
+  WHOE -> who he
+
+whore -> KWHOR
+  WHOER
+  WHOR -> who are
+
+who you're
+  WHOUR -> who you are
+
+whose -> WHAOUS
+  WHOZ -> who has
+
+whether
+  WHR -> where
+
+whether the
+  WHR-T -> where the
+
+When
+  WHRE -> where he
+
+whether I
+  WHREU -> where I
+
+whether you
+  WHRU -> where you
+
+when you're
+  WHUR -> when you are
