@@ -40,8 +40,6 @@ def maybe(component):
 
 patterns = []
 
-# "be" and "have"
-
 i = {"KWR": "I"}
 
 plural_pronoun = {
