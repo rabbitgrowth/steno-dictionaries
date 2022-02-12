@@ -222,15 +222,25 @@ for pattern in patterns:
 
 
 remaps = {
-    "TEPL":   "item",
-    "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
-    "WHAOUS": "whose",
+    "EUD":    "idea",
+    "EULD":   "ideal",
+    "HREULD": "ideally",
+    "*EUD":   "id", # as in psychoanalysis
 
     "TOD":   "today",
     "TPHRO": "tomorrow",
+    "T-G":   "together",
+    "HR-G":  "altogether",
 
-    "T-G":  "together",
-    "HR-G": "altogether",
+    "UFRT": "unfortunate",
+    "UFRL": "unfortunately",
+    "-FRT": "fortunate",
+    "-FRL": "fortunately",
+
+    # Miscellaneous
+    "TEPL":   "item",
+    "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
+    "WHAOUS": "whose",
 
     # Ugly compromise: add arbitrary K to words beginning with wh-
     "KWHABG":  "whack",
@@ -240,16 +250,6 @@ remaps = {
     "KWHEUFL": "whistle",
     "KWHOEL":  "whole",
     "KWHOR":   "whore",
-
-    "EUD":    "idea",
-    "EULD":   "ideal",
-    "HREULD": "ideally",
-    "*EUD":   "id", # as in psychoanalysis
-
-    "UFRT": "unfortunate",
-    "UFRL": "unfortunately",
-    "-FRT": "fortunate",
-    "-FRL": "fortunately",
 }
 
 remaps_reversed = {
