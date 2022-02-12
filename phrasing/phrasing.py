@@ -139,7 +139,9 @@ modal_verb = {
 
 verb = verb_infinitive | verb_past_tense | modal_verb
 
-patterns.append((pronoun | wh_word, verb))
+patterns.extend([
+    (pronoun | wh_word | and_, verb),
+])
 
 # "I *n't verb"
 
