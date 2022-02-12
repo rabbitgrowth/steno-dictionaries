@@ -4,6 +4,7 @@ import itertools
 import json
 import operator
 import pathlib
+import re
 
 from plover_stroke import BaseStroke
 
@@ -211,8 +212,8 @@ for pattern in patterns:
         stroke = stack(map(Stroke, strokes))
         translation = join(phrase)
 
-        # Filter out "this's", "which're", etc.
-        if "s'" in translation or "ch'" in translation:
+        # Filter out "this's", "which're", "and'd", etc.
+        if re.search(r"(ch|d|s)'", translation):
             continue
 
         # Use AOEU instead of KWR* for "I'*" to avoid *
