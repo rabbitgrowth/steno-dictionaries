@@ -226,6 +226,13 @@ withhold
   WHOELD -> who he would
   WOLD
 
+give
+  KPWEUF
+  TKPEUF -> if I have
+  TKPWEUF
+  TKPWUF
+  TPWEUF
+
 NKRO
   KRO*FR
   TPHRO -> tomorrow
@@ -328,6 +335,9 @@ shall remember
 {^s and the}
   SKP-TS -> and is the
 
+easy and
+  SKPEZ -> and he has
+
 and she
   SKPHE -> which he
 
@@ -339,6 +349,12 @@ object and
 
 off and
   SKPOF -> and to have
+
+and you'll
+  SKPUL -> and you will
+
+and you're
+  SKPUR -> and you are
 
 with respect to
   SPOEBGT
@@ -526,6 +542,18 @@ that you're
 
 therm
   THERPL -> they remember
+
+did
+  TK
+  TKEUD
+  TKPEUD -> if I had
+
+getting
+  TKPEGT -> if he get
+  TKPWEGT
+  TKPWELT/-G
+  TKPWET/-G
+  TKWET/-G
 
 tomorrow -> TPHRO
   TO/PHOR/ROE

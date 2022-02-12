@@ -68,6 +68,7 @@ wh_word = {
 }
 
 and_ = {"SKP": "and"}
+if_  = {"TKP": "if"} # looks like F
 
 to = {
     "TO":   "to",
@@ -155,6 +156,8 @@ patterns.extend([
 
 # Three-part phrases with medial pronouns
 
+starter = wh_word | and_ | if_
+
 medial_i   = {"EU": "I"}
 medial_you = {"U":  "you"}
 medial_he  = {"E":  "he"}
@@ -162,20 +165,20 @@ medial_he  = {"E":  "he"}
 medial_pronoun = medial_i | medial_you | medial_he
 
 patterns.extend([
-    (wh_word, medial_i,       am  | was, maybe(the)),
-    (wh_word, medial_you,     are,       maybe(the)),
-    (wh_word, medial_he,      is_ | was, maybe(the)),
-    (wh_word, medial_pronoun, were,      maybe(the)),
+    (starter, medial_i,       am  | was, maybe(the)),
+    (starter, medial_you,     are,       maybe(the)),
+    (starter, medial_he,      is_ | was, maybe(the)),
+    (starter, medial_pronoun, were,      maybe(the)),
 
-    (wh_word, medial_i | medial_you, have | had, maybe(been), maybe(the)),
-    (wh_word, medial_he,             has  | had, maybe(been), maybe(the)),
+    (starter, medial_i | medial_you, have | had, maybe(been), maybe(the)),
+    (starter, medial_he,             has  | had, maybe(been), maybe(the)),
 
-    (wh_word, medial_pronoun, maybe(verb)),
+    (starter, medial_pronoun, maybe(verb)),
 ])
 
 # "a"
 
-starter = {
+word_with_article = {
     "R":     "are",
     "TW":    "between",
     "TK":    "did",
@@ -191,7 +194,7 @@ starter = {
 
 a = {"-LGTS": "a"}
 
-patterns.append((wh_word | starter, maybe(a | the)))
+patterns.append((starter | word_with_article, maybe(a | the)))
 
 
 phrasing = {}
