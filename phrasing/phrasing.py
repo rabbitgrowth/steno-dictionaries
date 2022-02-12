@@ -77,12 +77,13 @@ to = {
     "STRO": "have to",
 }
 
-be   = {"-B":  "be"}
 is_  = {"-S":  "is",  "*S":  "^'s"}
 am   = {"-PL": "am",  "*PL": "^'m"}
 are  = {"-R":  "are", "*R":  "^'re"}
 was  = {"-FS": "was"}
 were = {"-RP": "were"}
+be   = {"-B":  "be"}
+been = {"-B":  "been"}
 
 be_forms = is_ | are | was | were # exclude "am"
 
@@ -92,7 +93,6 @@ had  = {"-D": "had"} # would -> ^'d
 
 have_forms = have | has | had
 
-been = {"-B": "been"}
 the  = {"-T": "the"}
 
 patterns.extend([
