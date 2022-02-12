@@ -374,6 +374,9 @@ theft -> TH-FT
   STHEFT
   THEFT -> they have the
 
+strong
+  STROPBG -> have to think
+
 tablespoon
   T-BS -> it said
   TAEUBL/SPAO*PB
@@ -532,6 +535,20 @@ that you're
 
 therm
   THERPL -> they remember
+
+tomorrow
+  TO/PHOR/ROE
+  TOEPL
+  TORPL -> to remember
+
+together
+  TO/TKPW*ERT
+  TO/TKPW*ET/ER
+  TOGT -> to get
+  TOLGT
+
+tong
+  TOPBG -> to think
 
 unfortunately -> UFRL
   TPHORPBLT
