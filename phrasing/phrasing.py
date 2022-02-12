@@ -150,7 +150,7 @@ extra_nt = {"-PBT": ""}
 patterns.extend([
     (pronoun | wh_word | and_, verb),
     (i, negative, extra_nt | verb_infinitive),
-    (to, verb_infinitive),
+    (to,                     verb_infinitive),
 ])
 
 # Three-part phrases with medial pronouns
@@ -162,13 +162,15 @@ medial_he  = {"E":  "he"}
 medial_pronoun = medial_i | medial_you | medial_he
 
 patterns.extend([
-    (wh_word, medial_pronoun, maybe(verb)),
     (wh_word, medial_i,       am  | was, maybe(the)),
     (wh_word, medial_you,     are,       maybe(the)),
     (wh_word, medial_he,      is_ | was, maybe(the)),
     (wh_word, medial_pronoun, were,      maybe(the)),
+
     (wh_word, medial_i | medial_you, have | had, maybe(been), maybe(the)),
     (wh_word, medial_he,             has  | had, maybe(been), maybe(the)),
+
+    (wh_word, medial_pronoun, maybe(verb)),
 ])
 
 # "a"
