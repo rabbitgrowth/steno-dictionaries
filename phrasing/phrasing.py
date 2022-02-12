@@ -154,7 +154,7 @@ patterns.extend([
 
 # Three-part phrases with medial pronouns
 
-if_ = {"TKP": "if"} # looks like F
+if_ = {"STP": "if"} # with arbitrary S
 
 medial_i   = {"EU": "I"}
 medial_you = {"U":  "you"}

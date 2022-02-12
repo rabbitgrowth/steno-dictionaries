@@ -172,6 +172,19 @@ hello
   HEL/HROE
   HO*EL
 
+{?}
+  H*F
+  H-F
+  H-FPB
+  KW-PL
+  STH/PHOEUFP
+  STKPH
+  STP -> if
+  STPH
+  STPH*
+  STPHA
+  TP-PL/STPH-RB
+
 Hodgkin's lymphoma
   H*L -> he'll
 
@@ -225,13 +238,6 @@ withhold
   W/HOELD
   WHOELD -> who he would
   WOLD
-
-give
-  KPWEUF
-  TKPEUF -> if I have
-  TKPWEUF
-  TKPWUF
-  TPWEUF
 
 NKRO
   KRO*FR
@@ -317,6 +323,14 @@ to
   TO
   TPO -> for
 
+superficial
+  SAO*UP/TPEURBL
+  SAOUP/TPEURB
+  SAOUP/TPEURBL
+  SAUP/TPEURBL
+  STPEUFL -> if I feel
+  SU/PER/TPEURBL
+
 shall believe
   SH-BL -> she believe
 
@@ -356,6 +370,19 @@ and you'll
 and you're
   SKPUR -> and you are
 
+{^e}
+  SKWR*E
+  SKWRE
+  STPE -> if he
+
+{^i}
+  SKWREU
+  STPEU -> if I
+
+{^u}
+  SKWRU
+  STPU -> if you
+
 with respect to
   SPOEBGT
   W*RT -> we're the
@@ -363,6 +390,12 @@ with respect to
   W/SPEBGT/STO
   W/STEBGT/TO
   W/STPOEBGT
+
+still
+  STEUL
+  STKEUL
+  STPEUL -> if I will
+  STUL
 
 their
   STHAEUR
@@ -391,6 +424,18 @@ that's
 theft -> TH-FT
   STHEFT
   THEFT -> they have the
+
+fantastic
+  STPEUBG -> if I can
+  TPAPB/T-FBG
+  TPAPB/TA*S/EUBG
+  TPAPB/TAFBG
+  TPAPB/TAFT/EUBG
+  TPAPB/TAS/TEUBG
+  TPAPB/TPAFBG
+
+as fuck
+  STPUBG -> if you can
 
 tablespoon
   T-BS -> it said
@@ -542,18 +587,6 @@ that you're
 
 therm
   THERPL -> they remember
-
-did
-  TK
-  TKEUD
-  TKPEUD -> if I had
-
-getting
-  TKPEGT -> if he get
-  TKPWEGT
-  TKPWELT/-G
-  TKPWET/-G
-  TKWET/-G
 
 tomorrow -> TPHRO
   TO/PHOR/ROE
