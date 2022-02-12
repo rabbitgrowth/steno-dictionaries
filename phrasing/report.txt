@@ -323,6 +323,9 @@ shall remember
 {>}ssh
   SH-S -> she is
 
+{^s and the}
+  SKP-TS -> and is the
+
 and she
   SKPHE -> which he
 

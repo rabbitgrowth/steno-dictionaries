@@ -39,7 +39,7 @@ def maybe(component):
 
 patterns = []
 
-# "be"
+# "be" and "have"
 
 i = {"KWR": "I"}
 
@@ -58,34 +58,6 @@ singular_pronoun = {
 
 pronoun = i | plural_pronoun | singular_pronoun
 
-is_  = {"-S":  "is",  "*S":  "^'s"}
-am   = {"-PL": "am",  "*PL": "^'m"}
-are  = {"-R":  "are", "*R":  "^'re"}
-was  = {"-FS": "was"}
-were = {"-RP": "were"}
-the  = {"-T":  "the"}
-
-patterns.extend([
-    (i,                am  | was, maybe(the)),
-    (plural_pronoun,   are,       maybe(the)),
-    (singular_pronoun, is_ | was, maybe(the)),
-    (pronoun,          were,      maybe(the)),
-])
-
-# "have"
-
-have = {"-F": "have", "*F": "^'ve"}
-has  = {"-Z": "has"} # is    -> ^'s
-had  = {"-D": "had"} # would -> ^'d
-been = {"-B": "been"}
-
-patterns.extend([
-    (i | plural_pronoun, have | had, maybe(been), maybe(the)),
-    (singular_pronoun,   has  | had, maybe(been), maybe(the)),
-])
-
-# wh-words
-
 wh_word = {
     "THA":  "that",
     "WHA":  "what",
@@ -96,9 +68,44 @@ wh_word = {
     "TWH":  "why",   # looks like Y
 }
 
+and_ = {"SKP": "and"}
+
+to = {
+    "TO":   "to",
+    "SKPO": "and to",
+    "STRO": "have to",
+}
+
+be   = {"-B":  "be"}
+is_  = {"-S":  "is",  "*S":  "^'s"}
+am   = {"-PL": "am",  "*PL": "^'m"}
+are  = {"-R":  "are", "*R":  "^'re"}
+was  = {"-FS": "was"}
+were = {"-RP": "were"}
+
+be_forms = is_ | are | was | were # exclude "am"
+
+have = {"-F": "have", "*F": "^'ve"}
+has  = {"-Z": "has"} # is    -> ^'s
+had  = {"-D": "had"} # would -> ^'d
+
+have_forms = have | has | had
+
+been = {"-B": "been"}
+the  = {"-T": "the"}
+
 patterns.extend([
-    (wh_word, is_ | are | was | were, maybe(the)), # exclude "am"
-    (wh_word, have | has | had, maybe(been), maybe(the)),
+    (i,                am  | was, maybe(the)),
+    (plural_pronoun,   are,       maybe(the)),
+    (singular_pronoun, is_ | was, maybe(the)),
+    (pronoun,          were,      maybe(the)),
+    (wh_word | and_,   be_forms,  maybe(the)),
+    (to,               be,        maybe(the)),
+
+    (i | plural_pronoun, have | had, maybe(been), maybe(the)),
+    (singular_pronoun,   has  | had, maybe(been), maybe(the)),
+    (wh_word | and_,     have_forms, maybe(been), maybe(the)),
+    (to,                 have,       maybe(been), maybe(the)),
 ])
 
 # Verbs
@@ -184,26 +191,6 @@ starter = {
 a = {"-LGTS": "a"}
 
 patterns.append((wh_word | starter, maybe(a | the)))
-
-# "to"
-
-and_ = {"SKP": "and"}
-to   = {"O":   "to"}
-
-have_starter = {"SR": "have"}
-full_to      = {"TO": "to"}
-
-be = {
-    "-B":  "be",
-    "-F":  "have",
-    "-FB": "have been",
-}
-
-patterns.extend([
-    (and_,         maybe(to), maybe(be), maybe(a | the)),
-    (have_starter, full_to,   maybe(be), maybe(a | the)),
-    (have_starter,            been,      maybe(a | the)),
-])
 
 
 phrasing = {}
