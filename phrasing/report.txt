@@ -524,7 +524,7 @@ tomorrow -> TPHRO
   TOEPL
   TORPL -> to remember
 
-together
+together -> TOEG
   TO/TKPW*ERT
   TO/TKPW*ET/ER
   TOGT -> to get
@@ -533,6 +533,10 @@ together
 {^ed to}
   TOD -> today
   TOTD
+
+towing
+  TOE/-G
+  TOEG -> together
 
 topping
   TOP/-G
