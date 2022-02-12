@@ -57,7 +57,7 @@ singular_pronoun = {
 
 pronoun = i | plural_pronoun | singular_pronoun
 
-wh_word = {
+starter = {
     "SKP":  "and",
     "THA":  "that",
     "WHA":  "what",
@@ -67,8 +67,6 @@ wh_word = {
     "WHO":  "who",
     "TWH":  "why",   # looks like Y
 }
-
-if_  = {"TKP": "if"} # looks like F
 
 to = {
     "TO":   "to",
@@ -99,12 +97,12 @@ patterns.extend([
     (plural_pronoun,   are,       maybe(the)),
     (singular_pronoun, is_ | was, maybe(the)),
     (pronoun,          were,      maybe(the)),
-    (wh_word,          be_forms,  maybe(the)),
+    (starter,          be_forms,  maybe(the)),
     (to,               be,        maybe(the)),
 
     (i | plural_pronoun, have | had, maybe(been), maybe(the)),
     (singular_pronoun,   has  | had, maybe(been), maybe(the)),
-    (wh_word,            have_forms, maybe(been), maybe(the)),
+    (starter,            have_forms, maybe(been), maybe(the)),
     (to,                 have,       maybe(been), maybe(the)),
 ])
 
@@ -149,14 +147,14 @@ negative = {
 extra_nt = {"-PBT": ""}
 
 patterns.extend([
-    (pronoun | wh_word, verb),
+    (pronoun | starter,      verb),
     (i, negative, extra_nt | verb_infinitive),
     (to,                     verb_infinitive),
 ])
 
 # Three-part phrases with medial pronouns
 
-starter = wh_word | if_
+if_ = {"TKP": "if"} # looks like F
 
 medial_i   = {"EU": "I"}
 medial_you = {"U":  "you"}
@@ -165,15 +163,15 @@ medial_he  = {"E":  "he"}
 medial_pronoun = medial_i | medial_you | medial_he
 
 patterns.extend([
-    (starter, medial_i,       am  | was, maybe(the)),
-    (starter, medial_you,     are,       maybe(the)),
-    (starter, medial_he,      is_ | was, maybe(the)),
-    (starter, medial_pronoun, were,      maybe(the)),
+    (starter | if_, medial_i,       am  | was, maybe(the)),
+    (starter | if_, medial_you,     are,       maybe(the)),
+    (starter | if_, medial_he,      is_ | was, maybe(the)),
+    (starter | if_, medial_pronoun, were,      maybe(the)),
 
-    (starter, medial_i | medial_you, have | had, maybe(been), maybe(the)),
-    (starter, medial_he,             has  | had, maybe(been), maybe(the)),
+    (starter | if_, medial_i | medial_you, have | had, maybe(been), maybe(the)),
+    (starter | if_, medial_he,             has  | had, maybe(been), maybe(the)),
 
-    (starter, medial_pronoun, maybe(verb)),
+    (starter | if_, medial_pronoun, maybe(verb)),
 ])
 
 # "a"
@@ -195,7 +193,7 @@ word_with_article = {
 a = {"-LGTS": "a"}
 article = the | a
 
-patterns.append((starter | word_with_article, maybe(article)))
+patterns.append((starter | if_ | word_with_article, maybe(article)))
 
 
 phrasing = {}
