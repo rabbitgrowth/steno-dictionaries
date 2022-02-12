@@ -1786,6 +1786,7 @@
     "UFRL": "unfortunately",
     "-FRT": "fortunate",
     "-FRL": "fortunately",
+    "TPAFBG": "fantastic",
     "TEPL": "item",
     "TH-FT": "theft",
     "WHAOUS": "whose",
@@ -1796,5 +1797,8 @@
     "KWHEUFL": "whistle",
     "KWHOEL": "whole",
     "KWHOR": "whore",
+    "HAOED": "heed",
+    "WAOED": "weed",
+    "WAOEF": "weave",
     "WUZ/WUZ": "{#}"
 }

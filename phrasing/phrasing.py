@@ -240,6 +240,7 @@ remaps = {
     "-FRL": "fortunately",
 
     # Miscellaneous
+    "TPAFBG": "fantastic",
     "TEPL":   "item",
     "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
     "WHAOUS": "whose",
@@ -252,6 +253,11 @@ remaps = {
     "KWHEUFL": "whistle",
     "KWHOEL":  "whole",
     "KWHOR":   "whore",
+
+    # Strokes that have been freed up
+    "HAOED": "heed",
+    "WAOED": "weed",
+    "WAOEF": "weave",
 }
 
 remaps_reversed = {

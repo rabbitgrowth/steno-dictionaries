@@ -120,6 +120,11 @@ atrium
   AT/REU/KWRUPL
   KWRURPL -> I couldn't remember
 
+he'd
+  AOED
+  ED/AE
+  HAOED -> heed
+
 item -> TEPL
   AOEU/TEPL
   AOEUPLT -> I'm the
@@ -425,7 +430,7 @@ theft -> TH-FT
   STHEFT
   THEFT -> they have the
 
-fantastic
+fantastic -> TPAFBG
   STPEUBG -> if I can
   TPAPB/T-FBG
   TPAPB/TA*S/EUBG
@@ -628,6 +633,13 @@ upping
 you're the
   URT -> you are the
 
+we've
+  W*EF
+  WAOEF -> weave
+  WAOEF/AE
+  WE/AO*EF
+  WRAOEF
+
 West Virginia
   W*ES/SRAFPLT
   W*ES/SREUR/SKWREUPB/KWRA
@@ -660,6 +672,10 @@ where the
 withheld
   W/HELD
   WHELD -> when he would
+
+we'd
+  WAOED -> weed
+  WAOED/AE
 
 whistle -> KWHEUFL
   WEUFL
