@@ -3755,14 +3755,12 @@
     "TPHEFL": "negatively", // overrides "nestle" [1]
     /*1*/ "TPHEFLT": "nestle", // cf. RUFLT "rustle"
 
-    "S*ES": "possess",     // use S*EFT for "zest"
-    "S*EFD": "possessed",
-    "S*EFG": "possessing",
-    "S*EGS": "possession", // use SEGS for "session"
-    "S*EF": "possessive",  // use SEFL (custom) for "self"
-    "SES": "possess",      // allow dropping * when there's no conflict
-    "SEFD": "possessed",   // use SREFD for "invested"
-    "SEFG": "possessing",
+    "SPES": "possess",     // invert S and P
+    "SPEFD": "possessed",  // overrides "specified"
+    "SPEFG": "possessing", // overrides "specifying"
+    "SPEGS": "possession",
+    "SPEF": "possessive",  // overrides "specify"
+    /*1*/ "SPOEUF": "specify",
 
     "PRUF": "productive",
     "PRUFL": "productively",
