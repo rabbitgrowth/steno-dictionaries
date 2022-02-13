@@ -2562,12 +2562,9 @@
 
     "WHOELT": "whole lot",
     "WHOEFLT": "whole lot of",
-    "WHAOELT": "a whole lot",
-    "WHAOEFLT": "a whole lot of",
     "WHOEG": "whole thing",  // cf. TH-G "thing" (custom)
     "WHOEPT": "whole point", // cf. P-T  "point" (custom)
     "WHOERLD": "whole world",
-    "WHOERL": "whole world", // cf. WORL "world"
 
     "PWU": "about you", // use PWUT for "but"
     "TPHEUFT": "any of the", // use EUFT for {^ist}
