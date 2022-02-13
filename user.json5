@@ -2808,6 +2808,7 @@
 
     "SEPS": "acceptance",    // use -Z for "accepts"
     "PORPLS": "performance", // use -Z for "performs"
+    "RERS": "remembrance",   // use -Z for "remembers"
 
     // Use *S for special three-way conflicts
     "SKWRAO*EPBS": "genus", // -S "genius", -Z "genes"
