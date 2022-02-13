@@ -145,11 +145,12 @@ negative = {
 }
 
 extra_nt = {"-PBT": ""}
+really   = {"-RL": "really"}
 
 patterns.extend([
-    (pronoun | starter,      verb),
-    (i, negative, extra_nt | verb_infinitive),
-    (to,                     verb_infinitive),
+    (pronoun | starter,      verb            | really),
+    (i, negative, extra_nt | verb_infinitive | really),
+    (to,                     verb_infinitive | really),
 ])
 
 # Three-part phrases with medial pronouns
@@ -171,7 +172,7 @@ patterns.extend([
     (starter | if_, medial_i | medial_you, have | had, maybe(been), maybe(the)),
     (starter | if_, medial_he,             has  | had, maybe(been), maybe(the)),
 
-    (starter | if_, medial_pronoun, maybe(verb)),
+    (starter | if_, medial_pronoun, maybe(verb | really)),
 ])
 
 # "a"
@@ -250,9 +251,11 @@ remaps = {
     "KWHAEUL": "whale",
     "KWHEUF":  "whiff",
     "KWHEUPL": "whim",
+    "KWHEURL": "whirl",
     "KWHEUFL": "whistle",
     "KWHOEL":  "whole",
     "KWHOR":   "whore",
+    "KWHORL":  "whorl",
 
     # Strokes that have been freed up
     "HAOED": "heed",

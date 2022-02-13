@@ -34,6 +34,10 @@ you are
   *UR -> you're
   R*U
 
+URL
+  *URL
+  URL -> you really
+
 {,}
   -BGS
   -FRBGS
@@ -312,6 +316,9 @@ you're
   UR/AE
   URB -> you shall
 
+I can't recall
+  KWRARL -> I can't really
+
 {^y}{.}
   KWREUFP
   KWREUFPL -> I didn't like
@@ -322,6 +329,12 @@ I don't think
   KWROEUPBG
   KWROPBG
   SKWREUPBG
+
+I didn't recall
+  KWREURL -> I didn't really
+
+{^iorly}
+  KWRORL -> I don't really
 
 to
   O
@@ -345,11 +358,17 @@ shall feel
 shall want
   SH-PT -> she want
 
+shall recall
+  SH-RL -> she really
+
 shall remember
   SH-RPL -> she remember
 
 {>}ssh
   SH-S -> she is
+
+and recall
+  SKP-RL -> and really
 
 {^s and the}
   SKP-TS -> and is the
@@ -395,6 +414,17 @@ with respect to
   W/SPEBGT/STO
   W/STEBGT/TO
   W/STPOEBGT
+
+sterile
+  STE/REUL
+  STER/*L
+  STER/AOEUL
+  STER/EUL
+  STER/RAOEUL
+  STER/REUL
+  STERBL
+  STERL
+  STPERL -> if he really
 
 still
   STEUL
@@ -590,6 +620,9 @@ thought
 that you're
   THAUR -> that you are
 
+they recall
+  THERL -> they really
+
 therm
   THERPL -> they remember
 
@@ -611,6 +644,9 @@ together -> T-G
 topping
   TOP/-G
   TOPG -> to think
+
+Editorial
+  TORL -> to really
 
 unfortunately -> UFRL
   TPHORPBLT
@@ -730,6 +766,9 @@ whipping
 whim -> KWHEUPL
   WHEUPL -> when I am
 
+whirl -> KWHEURL
+  WHEURL -> when I really
+
 who've
   WHO*F
   WHO/AO*EF
@@ -749,6 +788,9 @@ whoa
 whore -> KWHOR
   WHOER
   WHOR -> who are
+
+whorl -> KWHORL
+  WHORL -> who really
 
 who you're
   WHOUR -> who you are
