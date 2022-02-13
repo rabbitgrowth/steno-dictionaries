@@ -2556,6 +2556,11 @@
     "AOEFRP": "each other",
     "WURPB": "one another",
 
+    "HOUBD": "how bad",
+    "HOUGD": "how good",
+    "SREBD": "very bad",
+    "SREGD": "very good",
+
     "TPHUFP": "no such", // misstroke for "much"
     "TPHUFPG": "no such thing",
     "TPHUFPGS": "no such thing as",
