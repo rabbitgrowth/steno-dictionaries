@@ -193,7 +193,7 @@ word_with_article = {
 a = {"-LGTS": "a"}
 article = the | a
 
-patterns.append((starter | if_ | word_with_article, maybe(article)))
+patterns.append((starter | to | if_ | word_with_article, maybe(article)))
 
 
 phrasing = {}
