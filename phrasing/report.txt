@@ -98,7 +98,7 @@ not
 them
   24E78
   THEFL -> they feel
-  THEFPL
+  THEFPL -> they know
   THEP
   THEPL
   THEUPL
@@ -205,6 +205,9 @@ had had
 
 had felt
   H-FLT -> he felt
+
+hmpf
+  H-FPL -> he know
 
 {^s}{?}
   H-FS -> he was
@@ -318,6 +321,10 @@ Yang
 
 I can't recall
   KWRARL -> I can't really
+
+{^y}{.}
+  KWREUFP
+  KWREUFPL -> I didn't know
 
 I don't think
   KWREUPBG -> I didn't think
