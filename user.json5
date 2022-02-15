@@ -2505,14 +2505,13 @@
     "SWR-LS": "somewhere else",
 
     // "... of"
+    "TPRAEFD": "afraid of", // misstroke for "afraid"
     "STR-F": "center of",
+    "SKAEUFRD": "scared of",
     "SEFT": "set of",
     "SUFPL": "sum of",
     "TAOEUFPL": "time of",
     "WHOEFL": "whole of",
-
-    "TPRAEFD": "afraid of", // misstroke for "afraid"
-    "SKAEUFRD": "scared of",
 
     // "... up"
     // Precedents: KHRUP "clean up", SKRUP "screw up", SHUP "shut up"
