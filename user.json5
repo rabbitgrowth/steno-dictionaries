@@ -162,6 +162,7 @@
     "TPREBGS": "for example",   // with TPREUPBS "for instance"; use -Z for "frequents"
     "H-B": "had been",          // with SR-B "have been"; misstroke for {^-^}
     "PHAGS": "imagination",     // with PHAPBLG "imagine"; use -Z for "magazines"
+    "STPROF": "in front of",    // with STPROPBT "in front"
     "PAEPBS": "independence",   // with PAEPBT "independent"; use -Z for "panes"
     "TPH-FBGT": "infect",       // with TPH-FRPL "inform", TPH-FPBT "infinite"
     "TPEBGT": "infect",         // with TPEBGS "infection", TPERBS "infectious"
@@ -2512,9 +2513,6 @@
 
     "TPRAEFD": "afraid of", // misstroke for "afraid"
     "SKAEUFRD": "scared of",
-
-    "TPROF": "in front of",
-    "SPAOEUF": "in spite of", // with "in"
 
     // "... up"
     // Precedents: KHRUP "clean up", SKRUP "screw up", SHUP "shut up"
