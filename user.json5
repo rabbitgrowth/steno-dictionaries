@@ -139,6 +139,7 @@
                                 //   REUBGT  "restrict"   -> REUBGS   "restriction"
                                 //   STREUBT "distribute" -> STREUBGS "distribution"
                                 //   (TKR-BT and TKR-BGS are nice briefy alternatives)
+    "TK-Z": "dizzy",            // with PW-Z "busy"; use STAOES for "disease"
     "ERLD": "elder",            // with OERLD "older"; overrides "elderly"
     "HRERLD": "elderly",
     "SPWRAEUPB": "entertain",   // with SPWRAEUPBG "entertaining"; use EPB/TRAEUPB for "entrain"
@@ -548,7 +549,6 @@
     "TPROEUT": "fruity",  // AO U -> OEU?
 
     // Just drop the -y
-    "TKEUZ": "dizzy", // use TKEUS for {dis^}
     "HUR": "hurry", // should not cause word boundary errors;
                     //   HUR/KAEUPB "hurry cane" ("hurricane")
                     //   HUR/RAEU   "hurry ray"  ("hurray")
