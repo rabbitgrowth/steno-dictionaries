@@ -69,9 +69,9 @@ starter = {
 }
 
 to = {
-    "TO":   "to",
-    "SKPO": "and to",
-    "STRO": "have to",
+    "TO":    "to",
+    "SKPAO": "and to",
+    "SRAO":  "have to",
 }
 
 is_  = {"-S":  "is",  "*S":  "^'s"}
@@ -109,14 +109,14 @@ patterns.extend([
 # Verbs
 
 verb_infinitive = {
-    "-BL":  "believe",
-    "-FL":  "feel",
-    "-FD":  "find",
-    "-GT":  "get",
-    "-FPL": "like", # borrowed from Stanley Sakai
-    "-RPL": "remember",
-    "-PG":  "think",
-    "-PT":  "want",
+    "-BL":   "believe",
+    "-FL":   "feel",
+    "-FD":   "find",
+    "-GT":   "get",
+    "-FRBG": "like",
+    "-RPL":  "remember",
+    "-PBG":  "think",
+    "-PT":   "want",
 }
 
 verb_past_tense = {

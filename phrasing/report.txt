@@ -98,7 +98,7 @@ not
 them
   24E78
   THEFL -> they feel
-  THEFPL -> they like
+  THEFPL
   THEP
   THEPL
   THEUPL
@@ -205,9 +205,6 @@ had had
 
 had felt
   H-FLT -> he felt
-
-hmpf
-  H-FPL -> he like
 
 {^s}{?}
   H-FS -> he was
@@ -316,16 +313,15 @@ you're
   UR/AE
   URB -> you shall
 
+Yang
+  KWRAPBG -> I can't think
+
 I can't recall
   KWRARL -> I can't really
 
-{^y}{.}
-  KWREUFP
-  KWREUFPL -> I didn't like
-
 I don't think
-  KWREUPBG
-  KWREUPG -> I didn't think
+  KWREUPBG -> I didn't think
+  KWREUPG
   KWROEUPBG
   KWROPBG
   SKWREUPBG
@@ -335,6 +331,10 @@ I didn't recall
 
 {^iorly}
   KWRORL -> I don't really
+
+young
+  KWROUPBG
+  KWRUPBG -> I couldn't think
 
 to
   O
@@ -381,12 +381,6 @@ and she
 
 and she can
   SKPHEBG -> which he can
-
-object and
-  SKPOBT -> and to be the
-
-off and
-  SKPOF -> and to have
 
 and you'll
   SKPUL -> and you will
@@ -488,6 +482,10 @@ tailgate
   TAEUL/TKPWAET
   TAEUL/TKPWAEUT
 
+continuing
+  T-PB/-G
+  T-PBG -> it think
+
 the president
   T-PT -> it want
 
@@ -562,8 +560,8 @@ thank
   THA*PBG
   THABG -> that can
   THAPB/*BG
-  THAPBG
-  THAPG -> that think
+  THAPBG -> that think
+  THAPG
   THRA*PBG
 
 thawed
@@ -573,8 +571,8 @@ thank you
   THA*UPBG
   THAOUPBG
   THAUG
-  THAUPBG
-  THAUPG -> that you think
+  THAUPBG -> that you think
+  THAUPG
 
 that's correct
   THABGT/AOES
@@ -594,6 +592,13 @@ thesis
   THAOE/SEUS
   THAOES/SEUS
   THES/SEUS
+
+thing
+  THAEUPBG -> that I think
+  THAOEUPBG
+  THEPBG -> they think
+  THEUPBG
+  THEUPG
 
 that{.}
   THAFLT -> that felt
@@ -641,9 +646,8 @@ together -> T-G
   TOD -> today
   TOTD
 
-topping
-  TOP/-G
-  TOPG -> to think
+tong
+  TOPBG -> to think
 
 Editorial
   TORL -> to really
@@ -661,10 +665,6 @@ unfortunately -> UFRL
 
 USB
   UFB -> you have been
-
-upping
-  UP/-G
-  UPG -> you think
 
 you're the
   URT -> you are the
@@ -690,6 +690,12 @@ where
 
 {^ed with}
   W-D -> we had
+
+winning
+  W-G
+  W-PBG -> we think
+  WAO*EPBG
+  WEUPB/-G
 
 whereby
   W-R/PWEU
@@ -758,10 +764,6 @@ what you're
 
 whiff -> KWHEUF
   WHEUF -> when I have
-
-whipping
-  WHEUP/-G
-  WHEUPG -> when I think
 
 whim -> KWHEUPL
   WHEUPL -> when I am
