@@ -243,7 +243,7 @@
     "AUT/TPHOPLS": "autonomous",
     "PWHRAOEU": "belie",
     "PWHRAOEUD": "belied", // otherwise "belieed"
-    "PWEUS/TROE": "bistro", // PWAOES/TROE already works
+    "PWEUS/TROE": "bistro", // cf. PWAOES/TROE
     "PWOFPL": "bosom",
     "PWUFPL": "bosom",
     "PWRAOD": "brood", // use PWROD for "broad"
@@ -632,8 +632,8 @@
     "PWEURT/SWAOET": "bittersweet",
     "PWRAED/TPRAOUT": "breadfruit",
     "PWRAED/TPRAOUTS": "breadfruits",
-    "PWROD/PWAPBD": "broadband", // PWRAOD/PWAPBD already works
-    "PWROD/KAFT": "broadcast",   // PWRAOD/KAFT   already works
+    "PWROD/PWAPBD": "broadband", // cf. PWRAOD/PWAPBD
+    "PWROD/KAFT": "broadcast",   // cf. PWRAOD/KAFT
     "PW-Z/PWOD": "busybody", // with PWOD "body" (custom); "B-Z-bo-D"
     "KHOEBG/HOELD": "chokehold",
     "KHOEBG/HOELDZ": "chokeholds",
@@ -1994,8 +1994,8 @@
     "TKPWREUPLT": "algorithm",
     "TKPWR*EUPLT": "algorithm", // instead of TKPWR*EUFPL
 
-    "TRUT": "truth", // from TR*UT; TRAOUT (from TRAO*UT) already works
-    "TRU": "true",   // for consistency
+    "TRUT": "truth", // cf. TRAOUT
+    "TRU": "true",
     "TRUL": "truly",
 
     // -LT for -tle
@@ -2147,12 +2147,10 @@
 
     "AL": "{^al}", // swap with "al"
     "A*L": "al",
-    "A*L/TKEPB/TE": "al dente",
-    "A*L/TKPWOR": "Al Gore",
+    "A*L/TKEPB/TE": "al dente", // cf. AL/TKEPB/TE
+    "A*L/TKPWOR": "Al Gore",    // cf. AL/TKPWOR
     "A*L/KAOEU/TKA": "al-Qaeda",
     "AL/KAOEU/TKA": "al-Qaeda", // or skip the * and just keep on typing
-    // AL/TKEPB/TE "al dente" already works
-    // AL/TKPWOR   "Al Gore"  already works
 
     "PWEUPBG": "binge", // overrides "bing"
     "PW*EUPBG": "Bing", // name of search engine
@@ -2434,7 +2432,7 @@
     "STKPWRAETS": "as great as",
     "SRAELS": "as real as",
     "SPHALS": "as small as",
-    "SWAEBGS": "as weak as", // STROPBGS "as strong as" already works
+    "SWAEBGS": "as weak as", // cf. STROPBGS "as strong as"
     "SWELS": "as well as", // use -Z for "swells"
 
     // "so that ..."
@@ -3637,8 +3635,8 @@
     "KPREFPBS": "comprehensiveness",
 
     "KREB": "credible",      // cf. PROB   "probable"
-    "KREBL": "credibly",     // cf. PROBL  "probably";    use KRET/-BL for "creditable"
-    "KREBLT": "credibility", // cf. PROBLT "probability"; already works
+    "KREBL": "credibly",     // cf. PROBL  "probably"; use KRET/-BL for "creditable"
+    "KREBLT": "credibility", // cf. PROBLT "probability"; standard
     "SKREB": "incredible",
     "SKREBL": "incredibly",
     "SKREBLT": "incredibility",
@@ -3953,7 +3951,7 @@
     "TKPWOD/KHAOEULD": "godchild",
     "TKPWOD/KHEURPB": "godchildren",
     "TKPWOD/SOPB": "godson",
-    "TKPWOD/TKAURT": "goddaughter", // TKPWOD/TKAUR already works
+    "TKPWOD/TKAURT": "goddaughter", // cf. TKPWOD/TKAUR
 
     // The superrich
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
