@@ -2150,7 +2150,6 @@
     "A*L/TKEPB/TE": "al dente", // cf. AL/TKEPB/TE
     "A*L/TKPWOR": "Al Gore",    // cf. AL/TKPWOR
     "A*L/KAOEU/TKA": "al-Qaeda",
-    "AL/KAOEU/TKA": "al-Qaeda", // or skip the * and just keep on typing
 
     "PWEUPBG": "binge", // overrides "bing"
     "PW*EUPBG": "Bing", // name of search engine
