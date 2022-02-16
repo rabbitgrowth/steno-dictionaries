@@ -606,7 +606,7 @@
     "THROEUFT": "thrifty", // use OEU for -y
     "THRAES": "Tesla",     // "tlaes"
 
-    "ROUF": "rough",    // already works
+    "ROUF": "rough",    // standard
     "ROUFL": "roughly", // vs RUFL "ruffle"
 
     "SKREPB": "scene",     // SAOEPB is "seen" and SKRAOEPB is "screen"
@@ -1321,8 +1321,8 @@
     "STKPHRAEUFPLT": "displacement", // cf. PHRAEUFPLT "placement"
     "STKPHRAOES": "displease",
     "STKPHRERB": "displeasure",
-    "STKPOES": "dispose",   // already works
-    "STKPOEFL": "disposal", // already works; or just use TKOEFL
+    "STKPOES": "dispose",   // standard
+    "STKPOEFL": "disposal", // standard; or just use TKOEFL
     "STKPOEFD": "disposed",
     "STKPOEFG": "disposing",
     "STKPOEFBL": "disposable", // or just use TKOEBL
@@ -1343,7 +1343,7 @@
     "STKWAEUD": "dissuade",
     "STKWAEUGS": "dissuasion",
     "STKORT": "distort",     // give up "accident report"
-    "STKORGS": "distortion", // already works
+    "STKORGS": "distortion", // standard
     "STKRUFT": "distrust",
 
     "STKEPGS": "deception",
@@ -1605,7 +1605,7 @@
     // OEUR for -erior
     "TPOEUR": "inferior", // overrides "foyer" [1]
     "TPOEURT": "inferiority",
-    "SPOEUR": "superior", // already works
+    "SPOEUR": "superior", // standard
     "SPOEURT": "superiority",
     "SPWOEUR": "interior",
     "KPOEUR": "exterior",
@@ -2073,7 +2073,7 @@
     "HRAEULD": "ladle", // overrides "Long Island" [1]
     "HRA*EULD": "ladle",
     "TPHAOLD": "noodle",
-    "TPHAO*LD": "noodle", // already works
+    "TPHAO*LD": "noodle", // standard
     "SAOEULD": "sidle",
     "SAO*EULD": "sidle",
     /*1*/ "HRAOEUFLD": "Long Island",
@@ -2093,7 +2093,7 @@
     // But this is not unprecedented:
     //   THA  "that"      WHA  "what"
     //   THAT "that the"  WHAT "what the"
-    "PWUPBL": "bundle",     // already works
+    "PWUPBL": "bundle",     // standard
     "PWUPBLD": "bundled",   // by default also "bundle"
     "PW*UPBLG": "bundling", // - * = "budge"
     "TKWEUPBL": "dwindle",
@@ -2244,7 +2244,7 @@
     // Modal verb + "be"
     "PHAEUB": "may be", // overrides "maybe" [1]
     "PHAEUBT": "may be the",
-    "PHAOEUB": "might be", // already works
+    "PHAOEUB": "might be", // standard
     "PHAOEUBT": "might be the",
     "PHUFB": "must be",
     "PHUFBT": "must be the",
@@ -2252,8 +2252,8 @@
     "KOBT": "could be the",
     "SH-BT": "shall be the",
     "SHOBT": "should be the",
-    "HR-BT": "will be the", // already works
-    "WOBT": "would be the", // already works
+    "HR-BT": "will be the", // standard
+    "WOBT": "would be the", // standard
     /*1*/ "PH-B": "maybe", // give up "Mapbox"
 
     // Modal verb + "have"
@@ -2459,7 +2459,7 @@
     "PWRAUBT": "brought about the",
     "KAEURB": "care about",
     "KAEURBT": "care about the",
-    "HOUB": "how about",      // already works
+    "HOUB": "how about",      // standard
     "HOUBT": "how about the", // by default "how about"
     "TPHOEB": "know about",      // use TPH-B for "nobody"
     "TPHOEBT": "know about the", // by default "know about"
@@ -2475,8 +2475,8 @@
     "WHABT": "what about the", // by default "what about"
 
     // "... else"
-    "TPHEUBLS": "anybody else", // already works
-    "TPHEUPBLS": "anyone else", // already works
+    "TPHEUBLS": "anybody else", // standard
+    "TPHEUPBLS": "anyone else", // standard
     "TPHEULGS": "anything else",
     "EFBLS": "everybody else",  // cf. EFB  "everybody"
     "EFRBLS": "everybody else", // cf. EFRB "everybody"
@@ -2488,7 +2488,7 @@
     "TPHOLGS": "nothing else",
     "TPHO*ERLS": "nowhere else",
     "S-BLS": "somebody else",
-    "SWUPBLS": "someone else", // already works
+    "SWUPBLS": "someone else", // standard
     "SPHRAEULS": "someplace else",
     "S-LGS": "something else",
     "SWR-LS": "somewhere else",
@@ -2545,7 +2545,7 @@
     "HOUBD": "how bad",
     "HOUGD": "how good",
     "PREUBD": "pretty bad",  // use PRAOEUBD for "prescribed"
-    "PREUGD": "pretty good", // already works
+    "PREUGD": "pretty good", // standard
     "SREBD": "very bad",
     "SREGD": "very good",
 
@@ -3166,7 +3166,7 @@
     "HOBT": "hobbit",
     "HO*BT": "Hobbit",
     "HURPBT": "hunter",
-    "H*URPBT": "Hunter", // already works
+    "H*URPBT": "Hunter", // standard
     "TWEURT": "twitter",
     "TW*EURT": "Twitter",
 
@@ -3231,7 +3231,7 @@
     "WOEPT": "won't",
     "WOPT": "wouldn't",
     /*1*/ "R-P": "respect", // misstroke for "reason"
-          "R-FL": "respectful", // already works
+          "R-FL": "respectful", // standard
           "STKR-FL": "disrespectful",
           "STKR-P": "disrespect",
     /*2*/ "KAPBT": "cant",
@@ -3492,13 +3492,13 @@
     // Existence
     "THR-S": "there is",
     "THR-TS": "there is the",
-    "THR*S": "there's", // already works
+    "THR*S": "there's", // standard
     "THR*TS": "there's the",
-    "THR-R": "there are", // already works
+    "THR-R": "there are", // standard
     "THR-RT": "there are the",
     "THR*R": "there're",
     "THR*RT": "there're the",
-    "THR-FS": "there was", // already works
+    "THR-FS": "there was", // standard
     "THR-FTS": "there was the",
 
     "THR-F": "there have", // use THROF for "thereof";
@@ -3510,7 +3510,7 @@
     "THR-L": "there will",
     "THR-BL": "there will be",
     "THR-BLT": "there will be the",
-    "THR*L": "there'll", // already works
+    "THR*L": "there'll", // standard
     "THR*BL": "there'll be",
     "THR*BLT": "there'll be the",
 
@@ -3523,7 +3523,7 @@
 
     "HAOERS": "here is",
     "HAOERTS": "here is the",
-    "HAO*ERS": "here's", // already works
+    "HAO*ERS": "here's", // standard
     "HAO*ERTS": "here's the",
 
     // Amounts
@@ -3586,7 +3586,7 @@
     "TUL": "actual",
     "TAOUL": "actually",
 
-    "TKOPT": "adopt",  // already works
+    "TKOPT": "adopt",  // standard
     "TKAPT": "adapt",  // by default just "dapt" - meant to be used with {a^}?
     "TKAEPT": "adept", // A easily folded in; TKEPT is "department"
 
@@ -3594,7 +3594,7 @@
     "TKPWREGS": "aggression",
     "TKPWREFR": "aggressor",
 
-    "A/PREPBD": "apprehend", // already works
+    "A/PREPBD": "apprehend", // standard
     "A/PREBL": "apprehensible",
     "A/PREBLT": "apprehensibility",
     "A/PREPBGS": "apprehension",
@@ -3626,8 +3626,8 @@
     "A/SAFPBT": "assassinate",
     "A/SAFPBGS": "assassination",
 
-    "KPREPBD": "comprehend",     // already works
-    "KPREPBGS": "comprehension", // already works
+    "KPREPBD": "comprehend",     // standard
+    "KPREPBGS": "comprehension", // standard
     "KPRERPBD": "comprehender",
     "KPREBL": "comprehensible",
     "KPREPBS/PWHREU": "comprehensibly",
@@ -3700,7 +3700,7 @@
     "EUPB/KAPB/TKEFPBT": "incandescent",
     "EUPB/KAPB/TKEFPBS": "incandescence",
 
-    "TPHRAOUPBS": "influence",   // already works; or use WEPBS
+    "TPHRAOUPBS": "influence",   // standard; or use WEPBS
     "TPHRAOUPBL": "influential", // or use WEPBL
     "TPHRAOURPBS": "influencer",
     "TPHRAOUPBZ": "influenza",
@@ -3712,8 +3712,8 @@
     "PHEL/KOEL": "melancholy",  // PHEL/KOL/KWREU but with "many" rule
     "PHEL/KOLG": "melancholic", // PHEPBL/KOLG but omit -PB like "melancholy"
 
-    "P-F": "perfect",    // already works
-    "P-FL": "perfectly", // already works
+    "P-F": "perfect",    // standard
+    "P-FL": "perfectly", // standard
     "P-FGS": "perfection",
     "KPW-F": "imperfect",
     "KPW-FL": "imperfectly",
@@ -3729,11 +3729,11 @@
     "TPHROFZ": "philosophize", // compare TPHROEFZ "philosophies"
     // Or use TPHROS/TPEU, TPHROS/TPER, and TPHROS/TPAOEUZ.
 
-    "PHRAUBL": "plausible",        // already works
+    "PHRAUBL": "plausible",        // standard
     "PHRAUBLT": "plausibility",
-    "PHRAUS/-BL": "plausible",     // already works
-    "PHRAUS/-BLT": "plausibility", // already works
-    "PHRAUS/PWHREU": "plausibly",  // already works
+    "PHRAUS/-BL": "plausible",     // standard
+    "PHRAUS/-BLT": "plausibility", // standard
+    "PHRAUS/PWHREU": "plausibly",  // standard
     "KPWHRAUBL": "implausible",
     "KPWHRAUBLT": "implausibility",
     "KPWHRAUS/-BL": "implausible",
@@ -3772,16 +3772,16 @@
     "R*F": "irregardless of", // give up "reticular formation"
     "R*FT": "irregardless of the",
 
-    "REFLT": "relevant",  // already works
+    "REFLT": "relevant",  // standard
     "REFLS": "relevance", // use -Z for "revels"
     "SREFLT": "irrelevant",
     "SREFLS": "irrelevance", // use -Z for "vessels"
 
     "SEUFRP": "simp",
-    "SEUFRPL": "simple", // already works
-    "SPHREU": "simply",  // already works
+    "SEUFRPL": "simple", // standard
+    "SPHREU": "simply",  // standard
     "SPHREUF": "simplify",
-    "SPHREUFT": "simplicity", // already works
+    "SPHREUFT": "simplicity", // standard
     "SPHREUFBG": "simplistic",
     "SPHREUFBGS": "simplification",
     "SEUFRPL/TOPB": "simpleton",
@@ -3797,7 +3797,7 @@
     "STPHEUPL": "synonym",
     "STPHOPLS": "synonymous", // cf. TPHOPLS "anonymous"
 
-    "URPBD": "understand",         // already works
+    "URPBD": "understand",         // standard
     "URPBG": "understanding",      // "urning" is rare
     "URPBD/-D": "understood",      // or use *URPBD
     "PHURPBD": "misunderstand",    // cf. PHURPBGD "misunderstanding"
@@ -3812,7 +3812,7 @@
     "SREUBG/TORS": "victorious", // or use SREURBGT/KWROUS ("victor" + {^ious});
                                  // use SREURBGTS or SREUBG/TORZ for "victors"
 
-    "WAEU": "way", // already works
+    "WAEU": "way", // standard
     "WAU": "away", // arbitrary; frees up ...
     "WA*EU": "{^way}",
     "WA*EUZ": "{^ways}", // give up "Waze" (GPS company)
@@ -3821,8 +3821,8 @@
     // -- Easily confused words ------------------------------------------------
 
     // "accident" vs "incident"
-    "STKEPB": "accident",    // already works
-    "STKEPBL": "accidental", // already works
+    "STKEPB": "accident",    // standard
+    "STKEPBL": "accidental", // standard
     "STKHREPBL": "accidentally",
     "STK*EPB": "incident",    // with STKEPB "accident"
     "STK*EPBL": "incidental", // by default "incidentally"
@@ -3989,34 +3989,34 @@
     "A*RPBT/POLGS": "anthropologist",
     "A*RPBT/HR-L": "anthropological",
 
-    "EPBT/PHOLG": "entomology", // already works
+    "EPBT/PHOLG": "entomology", // standard
     "EPBT/PHOLGS": "entomologist",
     "EPBT/HR-L": "entomological",
 
-    "ET/PHOLG": "etymology", // already works
+    "ET/PHOLG": "etymology", // standard
     "ET/PHOLGS": "etymologist",
     "EPLT/HR-L": "etymological",
 
-    "ORPB/THOLG": "ornithology", // already works
+    "ORPB/THOLG": "ornithology", // standard
     "ORPB/THOLGS": "ornithologist",
     "ORPB/HR-L": "ornithological",
     "O*RPBT/HR-L": "ornithological", // "ornthl...l"
 
-    "TPO/TPHOLG": "phonology",  // already works
-    "TPOE/TPHOLG": "phonology", // already works
+    "TPO/TPHOLG": "phonology",  // standard
+    "TPOE/TPHOLG": "phonology", // standard
     "TPO/TPHOLGS": "phonologist",
     "TPOE/TPHOLGS": "phonologist",
     "TPOPB/HR-L": "phonological",
     "TPOEPB/HR-L": "phonological",
 
-    "SKOLG": "psychology", // already works
+    "SKOLG": "psychology", // standard
     "SKOLGS": "psychologist",
-    "SKOL": "psychological", // already works
+    "SKOL": "psychological", // standard
     "SKHROL": "psychologically",
 
-    "SOES/KWROLG": "sociology", // already works
+    "SOES/KWROLG": "sociology", // standard
     "SOES/KWROLGS": "sociologist",
-    "SOES/HR-L": "sociological", // already works
+    "SOES/HR-L": "sociological", // standard
 
     // -- Fiction --------------------------------------------------------------
 
@@ -4140,7 +4140,7 @@
     // Normally -cide is -DZ (S-DZ "suicide", H-DZ "homicide"),
     // but use -D for very common words often suffixed with -s.
     "PW-D": "beside",   // give up "pwd"
-    "PW-DZ": "besides", // already works
+    "PW-DZ": "besides", // standard
     "TK-D": "decide",   // give up {^ded}
     "TK-DZ": "decides", // by default "decide"
 
