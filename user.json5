@@ -2544,6 +2544,8 @@
 
     "HOUBD": "how bad",
     "HOUGD": "how good",
+    "PREUBD": "pretty bad",  // use PRAOEUBD for "prescribed"
+    "PREUGD": "pretty good", // already works
     "SREBD": "very bad",
     "SREGD": "very good",
 
