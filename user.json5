@@ -3438,14 +3438,12 @@
     // -- Punctuation as shapes ------------------------------------------------
 
     // Semicolon
-    // STPH-FPLT {:} makes a lot of sense because it's like TP-PL {.} doubled.
-    // Following this pattern, the natural thing to do for {;} is to "add"
-    // TP-PL {.} and KW-BG {,}.
+    // TP-PL {.} * 2         = STPH-FPLT {:}
+    // TP-PL {.} + KW-BG {,} = TKPW-PBLG {;}
     "TKPW-PBLG": "{;}",
 
     // Ellipsis
-    "-RBGS": "{^...}", // lower right corner feels right if you're used to
-                       // reading text from top to bottom, left to right
+    "-RBGS": "{^...}",
 
     // Brackets
     // The closest thing that looks like an open bracket,
@@ -3459,8 +3457,6 @@
 
     // Quotation marks
     // Use the same fingers you would use for making air quotes.
-    // The upper row is used to mimic making the gesture up in the air
-    // and for the practical reason that WR is "where".
     "PH": "{~|\"^}",  // open quote;  use PAEUFP for "pH"
     "-FP": "{^~|\"}", // close quote; use TP-PL  for {.}
 
