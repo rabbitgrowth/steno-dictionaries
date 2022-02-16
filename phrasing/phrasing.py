@@ -231,24 +231,10 @@ remaps = {
     "HREULD": "ideally",
     "*EUD":   "id", # as in psychoanalysis
 
-    "T-RPL":    "tomorrow",
-    "T-RPLZ":   "it remembers",
-    "T-RPL/-S": "it remembers",
-    "T-RPL/-Z": "it remembers",
-    "T-GT":     "together",
-    "T-GTS":    "it gets",
-    "T-GT/-S":  "it gets",
-
     "UFRT": "unfortunate",
     "UFRL": "unfortunately",
     "-FRT": "fortunate",
     "-FRL": "fortunately",
-
-    # Miscellaneous
-    "TPAFBG": "fantastic",
-    "TEPL":   "item",
-    "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
-    "WHAOUS": "whose",
 
     # Ugly compromise: add arbitrary K to words beginning with wh-
     "KWHABG":  "whack",
@@ -260,6 +246,21 @@ remaps = {
     "KWHOEL":  "whole",
     "KWHOR":   "whore",
     "KWHORL":  "whorl",
+
+    # Override phrasing and hard-code inflection as special case
+    "T-RPL":    "tomorrow",
+    "T-RPLZ":   "it remembers",
+    "T-RPL/-S": "it remembers",
+    "T-RPL/-Z": "it remembers",
+    "T-GT":     "together",
+    "T-GTS":    "it gets",
+    "T-GT/-S":  "it gets",
+
+    # Miscellaneous
+    "TPAFBG": "fantastic",
+    "TEPL":   "item",
+    "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
+    "WHAOUS": "whose",
 
     # Strokes that have been freed up
     "HAOED": "heed",
