@@ -614,11 +614,10 @@
 
     // -- Anagrams -------------------------------------------------------------
 
-    // Swap "ate" and "eight"
-    "AET": "ate",
+    "AET": "ate", // swap with "eight"
     "AEUT": "eight",
 
-    "TPEUPB/AEL": "finale", // also like "many" but with /ɑː/ instead of /ɛ/
+    "TPEUPB/AEL": "finale",
 
     "HOELT": "hotel",
     "HO*ELT": "Hotel",
