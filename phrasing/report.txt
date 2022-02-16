@@ -59,11 +59,6 @@ ester
   EFT/*ER
   ES/TER
 
-willing
-  -LG
-  HR-G -> altogether
-  WEULG
-
 and
   -PBD
   -PBDZ
@@ -247,10 +242,6 @@ withhold
   W/HOELD
   WHOELD -> who he would
   WOLD
-
-NKRO
-  KRO*FR
-  TPHRO -> tomorrow
 
 whatever
   KWHAFR
@@ -481,13 +472,13 @@ tablespoon
 {^ed it}
   T-D -> it had
 
-{^ing it}
-  T-G -> together
-
 tailgate
-  T-GT -> it get
+  T-GT -> together
   TAEUL/TKPWAET
   TAEUL/TKPWAEUT
+
+tailgates
+  T-GTS -> it gets
 
 continuing
   T-PB/-G
@@ -638,20 +629,16 @@ they recall
 therm
   THERPL -> they remember
 
-tomorrow -> TPHRO
+tomorrow -> T-RPL
   TO/PHOR/ROE
   TOEPL
   TORPL -> to remember
 
-together -> T-G
+together -> T-GT
   TO/TKPW*ERT
   TO/TKPW*ET/ER
   TOGT -> to get
   TOLGT
-
-{^ed to}
-  TOD -> today
-  TOTD
 
 tong
   TOPBG -> to think

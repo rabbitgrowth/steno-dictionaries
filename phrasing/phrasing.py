@@ -231,10 +231,13 @@ remaps = {
     "HREULD": "ideally",
     "*EUD":   "id", # as in psychoanalysis
 
-    "TOD":   "today",
-    "TPHRO": "tomorrow",
-    "T-G":   "together",
-    "HR-G":  "altogether",
+    "T-RPL":    "tomorrow",
+    "T-RPLZ":   "it remembers",
+    "T-RPL/-S": "it remembers",
+    "T-RPL/-Z": "it remembers",
+    "T-GT":     "together",
+    "T-GTS":    "it gets",
+    "T-GT/-S":  "it gets",
 
     "UFRT": "unfortunate",
     "UFRL": "unfortunately",
@@ -269,10 +272,7 @@ remaps_reversed = {
     for rtfcre, translation in remaps.items()
 }
 
-for rtfcre, translation in remaps.items():
-    stroke = Stroke(rtfcre)
-    update(phrasing, stroke, translation)
-
+phrasing |= remaps
 
 # Add dummy entry to ensure trailing comma after each real entry
 phrasing['WUZ/WUZ'] = '{#}'

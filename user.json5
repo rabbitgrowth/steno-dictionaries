@@ -313,7 +313,7 @@
     "TAOERPBG": "teenager",
     "T*EPBT": "tenth", // use EPBT/TEU for "entity"
     "T*EPBTS": "tenths",
-    "TOEPL": "tome", // use TORPL or T-RPL (custom) for "tomorrow"
+    "TOEPL": "tome", // use T-RPL (custom) for "tomorrow"
     "TRAOEFPB": "treason",
     "TRAOEFPBS": "treasonous",
     "SRAPBL/TAOEUPB": "valentine",
