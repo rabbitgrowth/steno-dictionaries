@@ -4181,6 +4181,15 @@
     // Double to turn spaces into hyphens
     "AEUF/AEUF": "{^-of-a-^}",
 
+    // Don't hyphenate
+    "KAFT/AOEURPB": "cast iron",
+    "TPUL/TAOEUPL": "full time",
+    "ROUPBD/TREUP": "round trip",
+    "SRAOEUS/PREZ": "vice president",
+
+    // Use single hyphen as dash
+    "TK-RB": "-",
+
     // Swap strokes such that * is used to contract or suppress space,
     // not the other way round.
     "KORP": "copper",
@@ -4199,15 +4208,6 @@
     "STPHO*RT": "sonority", // from "snort"; use STPHOF for "and so forth"
     "T*ERS": "terrace",     // from "terse"
     /*1*/ "KOERPB": "corny",
-
-    // Use single hyphen as dash
-    "TK-RB": "-",
-
-    // Don't hyphenate
-    "KAFT/AOEURPB": "cast iron",
-    "TPUL/TAOEUPL": "full time",
-    "ROUPBD/TREUP": "round trip",
-    "SRAOEUS/PREZ": "vice president",
 
     // Comma + open quote + capitalization after reporting verb
     // Precedents: SAEU/SAEU   "say, \"{^}{-|}"
