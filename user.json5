@@ -4178,6 +4178,9 @@
     "OEFR/OEFR": "over and over",
     "OEFR/OEFR/OEFR": "over and over and over",
 
+    // Double to turn spaces into hyphens
+    "AEUF/AEUF": "{^-of-a-^}",
+
     // Swap strokes such that * is used to contract or suppress space,
     // not the other way round.
     "KORP": "copper",
