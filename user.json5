@@ -527,6 +527,7 @@
     "PWAOUL": "bully", // overrides "boule" [1]
     "PWAOUPB": "bunny",
     "KAOURL": "curly",
+    "KAOURPBS": "currency", // use KRURPBS (custom) for "occurrence"
     "HAOURPBG": "hungry",
     "SAOURL": "surly",
     /*1*/ "PWAO*UL": "boule",
@@ -679,6 +680,9 @@
     "SPWEUBT": "antibiotic", // cf. AEBT
     "SPWEUBD": "antibody",
     "SPWEUTD": "antidote",
+
+    "KRO*EUPT": "{crypto^}",
+    "KROEUPT": "crypto",
 
     // Suffixes
     "ABG": "{^atic}", // - cf. TKRABG "dramatic", PRO*B/ABG "problematic"
