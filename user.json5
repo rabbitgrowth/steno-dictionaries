@@ -703,6 +703,12 @@
     "HROELD": "lowland",
     "PHAEUPBLD": "mainland",
 
+    "*D": "{^'d}",  // standard
+    "*L": "{^'ll}", // swap with {^le} [1]
+    "*S": "{^'s}",  // use -S for {^s}
+    "*F": "{^'ve}", // use -F for "of"
+    /*1*/ "-L": "{^le}",
+
     // Phoenix-style suffixes
     "-PB": "{^en}",    // use APB for "an"
     "-PBD": "{^ened}", // use SKP for "and"
@@ -1019,16 +1025,6 @@
     "HRUPLT": "ultimately",
     "HRURBL": "usually",
     "WHRUFL": "wonderfully",
-
-    // -L as a standalone suffix for -ly
-    // TPHAOED/-D "needed" feels nice. Why not HRAOEL/-L for "legally"?
-    "-L": "{^ly}",   // overrides {^'ll}
-    "AEL": "{^'ll}", // overrides "ale"
-    "AEUL": "ale",   // overrides "ail"
-    "A*EUL": "ail",
-    "AED": "{^'d}",  // to complete the set: AES AEL AED
-
-    "TAOEUT/-L": "tightly", // use TAOEULT for "title"
 
     // Fold in -LS for -less
     "PWOEPBLS": "boneless",
