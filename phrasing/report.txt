@@ -680,7 +680,7 @@ where
   W*R -> we're
   W-F -> we have
   W-R -> we are
-  WHER
+  WHER -> whether
 
 {^ed with}
   W-D -> we had
@@ -794,7 +794,7 @@ who you're
 whose -> WHAOUS
   WHOZ -> who has
 
-whether
+whether -> WH*ERT
   WHR -> where
 
 whether the

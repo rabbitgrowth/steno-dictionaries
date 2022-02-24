@@ -62,7 +62,7 @@ starter = {
     "THA":  "that",
     "WHA":  "what",
     "WH":   "when",
-    "WHR":  "where",
+    "WHR":  "where", # overrides "whether"
     "SKPH": "which", # KH doubled horizontally
     "WHO":  "who",
     "TWH":  "why",   # looks like Y
@@ -235,6 +235,10 @@ remaps = {
     "UFRL": "unfortunately",
     "-FRT": "fortunate",
     "-FRL": "fortunately",
+
+    "WHER":   "whether",
+    "WHERT":  "whether",
+    "WH*ERT": "whether",
 
     # Ugly compromise: add arbitrary K to words beginning with wh-
     "KWHABG":  "whack",
