@@ -122,6 +122,7 @@ verb_infinitive = {
 
 verb_past_tense = {
     "-FLT": "felt",
+    "-GD":  "got",
     "-BS":  "said",
 }
 
