@@ -30,7 +30,7 @@
     "SKWR-PL": "gentleman",
     "SKWR-PLZ": "gentlemen",
     "TKPW-D": "good", // give up "good day"
-    "TKPW-T": "great", // use TKPWET for "get" for symmetry with TKPWOT "got"
+    "TKPW-T": "great", // use -GT (custom) for "get"
     "TKPW-RT": "greater",
     "TKPW-LT": "greatly", // use TKPWOEULT (custom) for "guilty"
     "TKPW-P": "group",
@@ -3645,16 +3645,19 @@
     "*ER": "error",    // use -R (custom) for {^er}
     "ERPBT": "errant", // but "errand" is ER/APBD since ERPBD is "earned"
 
-    "TPORGT": "forget", // standard
-    "TPROT": "forgot",
-    "TPROPB": "forgotten",
-    "TPREFL": "forgetful",
-
     "TPREUF": "forgive",
     "TPRAEUF": "forgave", // cf. TKPWAEUF "gave"
     "TPREUFD": "forgave",
     "TPREUFPB": "forgiven",
     "TPREUFPBS": "forgiveness",
+
+    "-GT": "get",
+    "-GD": "got",
+    "TPORGT": "forget", // standard
+    "TPORGD": "forgot",
+    "TPROT": "forgot",
+    "TPROPB": "forgotten",
+    "TPREFL": "forgetful",
 
     "HAEP": "happy", // works already
     "HAEPL": "happily",
