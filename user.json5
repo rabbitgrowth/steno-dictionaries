@@ -3645,7 +3645,7 @@
     "*ER": "error",    // use -R (custom) for {^er}
     "ERPBT": "errant", // but "errand" is ER/APBD since ERPBD is "earned"
 
-    "TP-RGT": "forget", // TP-R "for" + -GT "get"
+    "TPORGT": "forget", // standard
     "TPROT": "forgot",
     "TPROPB": "forgotten",
     "TPREFL": "forgetful",
