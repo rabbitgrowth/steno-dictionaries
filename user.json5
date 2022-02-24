@@ -2990,9 +2990,6 @@
 
     // -- Adjective forms ------------------------------------------------------
 
-    // Comparatives
-    "SOER/ER": "sorrier", // use SOR/ER for "sorer"
-
     // Superlatives
     // You can often drop the final consonant (typically /t/)
     // in the base adjective.
@@ -3087,7 +3084,7 @@
     "RO*T/TPHAEPBT": "Rocinante",
     "RORPBLG": "Roger",
     "SPWAGS": "Sebastian", // cf. KREUGS "Christian"
-    "THAFP/ER": "Thatcher",
+    "THAFP/-R": "Thatcher",
     "THAFRP": "Thatcher",
     "WEUL/HEPL": "Wilhelm",
     "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
