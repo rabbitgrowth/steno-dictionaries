@@ -3639,14 +3639,6 @@
     "SKREBL": "incredibly",
     "SKREBLT": "incredibility",
 
-    "KREUBG": "critic",     // overrides "crick"   [1]
-    "KREULG": "critical",   // overrides "acrylic" [2]
-    "KREUFPL": "criticism", // come back for -L for "crisply"
-    "KRAOEUZ": "criticize",
-    /*1*/ "KR*EUBG": "crick",   // use KREUFBG for "characteristic"
-          "KREUBGD": "cricked", // "criticced" is not a word
-    /*2*/ "KRAEULG": "acrylic",
-
     "TKAOEFPBT": "decent",
     "TKAOEFPBS": "decency",
     "SPWAOEFPBT": "indecent",
