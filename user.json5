@@ -2796,8 +2796,9 @@
     "PHAOEUPBS": "minus", // use -Z for "mines"
     "OEPBS": "onus",      // use -Z for "owns"
     "OEPS": "opus",       // use -Z for "opens"
-    // Plover already uses -PBS for -nus but requires *:
-    // PWO*EPBS "bonus", PHAO*EUPBS "minus", O*EPBS "onus"
+    // Plover uses *PBS for -nus: PWO*EPBS   "bonus"
+    //                            PHAO*EUPBS "minus"
+    //                            O*EPBS     "onus"
 
     "HOEBGS/POEBGS": "hocus pocus", // but HOEBGS on its own is "hoax"
 
