@@ -361,8 +361,6 @@
     "HRARPL": "alarm",
     "ALT/TEUF": "alternative", // alternative to HR-FRPB ("lrnf")
     "ARD": "around",
-    "AEURGS": "arrogance", // use -Z for "airings"
-    "AEURGT": "arrogant", // cf. AEURPT "airport"
     "TRAF": "attractive", // use TR-FR for "transfer"
     "A*UT/TEUBG": "authentic",
     "A*UT/TEUFT": "authenticity",
@@ -388,8 +386,6 @@
     "SKHAOUL": "eschewal",
     "AOEFPL": "eventual", // ERBL is unphonetic and EFPBL is tricky to hit
     "HRAOEFPL": "eventually",
-    "KPELS": "excellence", // use -Z for "compels"
-    "KPELT": "excellent",
     "TPAOPBLG": "footage", // cf. TPHOPBLG "knowledge"
     "TPREFT": "forest", // TPOFRT ("forst") is taken by "foster" ("fostr")
     "TKPWARPB": "garden",
@@ -2799,6 +2795,10 @@
     "SOLS": "solace",
 
     "SEPS": "acceptance",    // use -Z for "accepts"
+    "AEURGS": "arrogance",   // use -Z for "airings"
+    "AEURGT": "arrogant",
+    "KPELS": "excellence",   // use -Z for "compels"
+    "KPELT": "excellent",
     "PORPLS": "performance", // use -Z for "performs"
     "RERS": "remembrance",   // use -Z for "remembers"
 
