@@ -2802,6 +2802,11 @@
     "PORPLS": "performance", // use -Z for "performs"
     "RERS": "remembrance",   // use -Z for "remembers"
 
+    "REFLS": "relevance",    // use -Z for "revels"
+    "REFLT": "relevant",     // standard
+    "SREFLS": "irrelevance", // use -Z for "vessels"
+    "SREFLT": "irrelevant",
+
     // Use *S for special three-way conflicts
     "SKWRAO*EPBS": "genus", // -S "genius", -Z "genes"
     "T*EPBS": "tennis",     // -S "tense",  -Z "tens"
@@ -3756,11 +3761,6 @@
     "RA*RLS": "irregardless",
     "R*F": "irregardless of", // give up "reticular formation"
     "R*FT": "irregardless of the",
-
-    "REFLT": "relevant",  // standard
-    "REFLS": "relevance", // use -Z for "revels"
-    "SREFLT": "irrelevant",
-    "SREFLS": "irrelevance", // use -Z for "vessels"
 
     "SEUFRP": "simp",
     "SEUFRPL": "simple", // standard
