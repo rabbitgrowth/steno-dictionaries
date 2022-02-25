@@ -3548,25 +3548,6 @@
     "TAURD": "toward",
     /*1*/ "PWA*RD": "barred",
 
-    // -- Ergonomics -----------------------------------------------------------
-
-    // Drop -B in -PBT
-    // Precedents: "isn't" S-PT, "want" WAPT
-    // (although these are probably just misstrokes,
-    //  not deliberate attempts to avoid -PBT)
-    "AUPT": "aunt",
-    "KOUPT": "count", // "could want" could be KOPT
-    "KURPT": "current",
-    "EFPT": "event",
-    "SKWRAOEUPT": "giant",
-    "HUPT": "hunt",
-    "SKWROEUPT": "joint",
-    "PHRAPT": "plant",
-    "PREUPT": "print",
-    "RAOEPT": "recent", // use PRAOET for "repeat"
-    "SPEPT": "spent",
-    "W-PT": "went", // drop vowel like TKPW "go"; WEPT is "wept"
-
     // -- Word families --------------------------------------------------------
 
     "TUL": "actual",
