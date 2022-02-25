@@ -83,7 +83,7 @@
     "TPR-TS": "from its",
     "SR-TS": "have its", // give up "very truly yours{,}"
     "TP-TS": "if its",
-    "TPH-TS": "in its", // use TPHO*ETS (custom) for "notice"
+    "TPH-TS": "in its", // use TPHOEUTS for "notice"
     "TPHAOTS": "into its",
     "OPBTS": "on its",
     "ORTS": "or its",
