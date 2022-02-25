@@ -71,7 +71,6 @@
     /*2*/ "PH*D": "PhD", // use PHAER/HRAPBD for "Maryland" (or use "Mary" + {^land})
     /*3*/ "PHAOEUPBD": "mined",
     /*4*/ "PHEFRPBDZ": "merchandise",
-          "PH*EFRPB": "merchandise", // add * to expand "merch" to full form
 
     "-TS": "its",
     "*TS": "itself",
