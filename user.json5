@@ -3206,14 +3206,13 @@
     "K-PT": "can't", // - KAPT is "captain"
                      // - cf. K-PBT "can't"
                      // - give up "can want"
-                     // - frees up KAPBT for "cant" [2]
-    "KOPT": "couldn't", // frees up KOPBT for "cotton" [3]
+    "KOPT": "couldn't", // frees up KOPBT for "cotton"
     "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
-    "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION} [4]
+    "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION} [2]
     "TKOEPT": "don't",
     "H-PT": "hadn't",
     "HAPT": "hasn't",
-    "SR-PT": "haven't", // overrides "vice president" [5]
+    "SR-PT": "haven't", // overrides "vice president" [3]
     "SHOPT": "shouldn't",
     "WUPT": "wasn't",
     "WR-PT": "weren't", // use WR-P (custom) for "with respect"
@@ -3224,11 +3223,9 @@
           "R-FL": "respectful", // standard
           "STKR-FL": "disrespectful",
           "STKR-P": "disrespect",
-    /*2*/ "KAPBT": "cant",
-    /*3*/ "KOPBT": "cotton",
-    /*4*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
+    /*2*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
           "HRUP": "{PLOVER:LOOKUP}", // give up "line up"
-    /*5*/ "SREZ": "vice president",  // cf. PREZ  "president"
+    /*3*/ "SREZ": "vice president",  // cf. PREZ  "president"
           "SR*EZ": "Vice President", // cf. PR*EZ "President"
 
     // Add -L as "bridge" to expand to full form
