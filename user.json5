@@ -2608,12 +2608,11 @@
 
     // -- -Z for -s ------------------------------------------------------------
 
-    // Plover uses -S for the detachable suffix -s (plurals and present tense),
-    // except when there's a conflict, in which case it switches to -Z for that
-    // and uses -S for the other word, where -s is often an integral part:
-    //   TPHOES "nose"   TKAOEUS "dice"  PULS "pulse"  (undetachable -s)
-    //   TPHOEZ "knows"  TKAOEUZ "dies"  PULZ "pulls"  (detachable   -s)
-    // This is a good rule, so make it work consistently.
+    // Plover uses -S for detachable -s, except when there's a conflict,
+    // in which case it uses -S for undetachable -s and -Z for detachable -s:
+    //   TPHOES "nose"   TKAOEUS "dice"  PULS "pulse"  (undetachable)
+    //   TPHOEZ "knows"  TKAOEUZ "dies"  PULZ "pulls"  (detachable)
+    // Make this rule always apply.
     // (Mnemonic: -Z, being further away to the right, feels more detachable.)
 
     "PWROUZ": "brows",    // vs "browse"
@@ -2633,11 +2632,6 @@
     "ROEZ": "rows",
     "OERS": "otherwise",
     "OERZ": "others",
-
-    // The result of this system is that using -S for -s works most of the time
-    // (it feels like 95%), but you'll have to memorize the other 5% of words
-    // where you have to use -Z instead. A solution is to just always use -Z.
-    // It's more work for the pinky, but the consistency you gain is worth it.
 
     "AULZ": "alls",      // "know-it-alls"; use AULS for "always"
     "PWURPBZ": "burns",  // swap with "Burns" [1]
