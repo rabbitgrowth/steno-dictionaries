@@ -2809,8 +2809,9 @@
     "SOLS": "solace",
 
     // Use *S for special three-way conflicts
-    "SKWRAO*EPBS": "genus", // -S "genius", -Z "genes"
-    "T*EPBS": "tennis",     // -S "tense",  -Z "tens"
+                            // -S       -Z
+    "SKWRAO*EPBS": "genus", // "genius" "genes"
+    "T*EPBS": "tennis",     // "tense"  "tens"
 
     // -- Verb forms -----------------------------------------------------------
 
