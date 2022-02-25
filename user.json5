@@ -2104,7 +2104,6 @@
 
     // Miscellaneous
     "THRAOET": "athlete",
-    "PWAOEUS": "bias",          // use -Z for "buys"
     "AOEGS": "emotion",         // use SERBL   for "essential"
     "AOELGS": "emotional",      // use SHRERBL for "essentially"
     "HRAOELGS": "emotionally",
@@ -2738,6 +2737,7 @@
 
     // -- Opportunities opened up by using -Z for -s ---------------------------
 
+    "PWAOEUS": "bias",     // use -Z for "buys"
     "TPAULS": "false",     // use -Z for "falls"; frees up TPALS for "phallus" [1]
     "PEPBS": "pence",      // use -Z for "pens"
     "SAOEUPBS": "science", // use -Z for "signs"
