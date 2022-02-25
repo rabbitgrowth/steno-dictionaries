@@ -3809,13 +3809,6 @@
     "KAUPB/TPHRAEUTD": "conflated",
     "KAUPBT/PHRAEUGS": "contemplation",
 
-    // "logic" vs "magic"
-    "SKWREUBG": "logic",   // overrides "magic"
-    "SKWREULG": "logical", // "gical"
-    "PHABG": "magic",      // overrides "Mac" [1]
-    "PHALG": "magical",    // "macal"
-    /*1*/ "PHA*BG": "Mac", // give up "MAC"
-
     // "race" vs "raise"
     // RAF  "rave"*   RAEUS  "race"    RAEUZ   "raise"
     // RAFS "raves"   RAEUSZ "races"   RA*EUFS "raises"
