@@ -2742,8 +2742,9 @@
 
     // -- Opportunities opened up by using -Z for -s ---------------------------
 
-    "TPAULS": "false", // use -Z for "falls"; frees up TPALS for "phallus" [1]
-    "PEPBS": "pence",  // use -Z for "pens"
+    "TPAULS": "false",     // use -Z for "falls"; frees up TPALS for "phallus" [1]
+    "PEPBS": "pence",      // use -Z for "pens"
+    "SAOEUPBS": "science", // use -Z for "signs"
     /*1*/ "TPALS": "phallus",
 
     "STKAOEURS": "desirous",  // use -Z for "desires"
