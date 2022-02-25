@@ -324,7 +324,7 @@
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELZ for "sells"
     /*1*/ "PR-FRP": "purchaser", // from PR-FP "purchase"
-    /*2*/ "STPHAT/SKWRA": "sonata", // or just use SO/TPHA/TA
+    /*2*/ "STPHAT/KWRA": "sonata", // or just use SO/TPHA/TA
 
     // Phonetic alternatives to briefs
     "SER/TEUFBGT": "certificate", // to SER
@@ -3136,8 +3136,8 @@
     //   HAPL/HRET "hamlet"        HA*PL/HRET "Hamlet"
     // This feels right because the first syllable is the part where the
     // lowercase-to-uppercase change happens.
-    "TPH*EUR/SRAPB/SKWRA": "Nirvana", // instead of TPHEUR/SRAPB/KWRA*
-    "SAO*UP/PHAPB": "Superman",       // instead of SAOUP/PHA*PB
+    "TPH*EUR/SRAPB/KWRA": "Nirvana", // instead of TPHEUR/SRAPB/KWRA*
+    "SAO*UP/PHAPB": "Superman",      // instead of SAOUP/PHA*PB
 
     // Add * to *not* capitalize
     "KHO*EUPB": "china",
