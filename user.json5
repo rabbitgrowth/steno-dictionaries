@@ -2743,6 +2743,19 @@
     "SAOEUPBS": "science", // use -Z for "signs"
     /*1*/ "TPALS": "phallus",
 
+    "SEPS": "acceptance",    // use -Z for "accepts"
+    "AEURGS": "arrogance",   // use -Z for "airings"
+    "AEURGT": "arrogant",
+    "KPELS": "excellence",   // use -Z for "compels"
+    "KPELT": "excellent",
+    "PORPLS": "performance", // use -Z for "performs"
+    "RERS": "remembrance",   // use -Z for "remembers"
+
+    "REFLS": "relevance",    // use -Z for "revels"
+    "REFLT": "relevant",     // standard
+    "SREFLS": "irrelevance", // use -Z for "vessels"
+    "SREFLT": "irrelevant",
+
     "STKAOEURS": "desirous",  // use -Z for "desires"
     "STKAFRS": "disastrous",  // use -Z for "disasters"
     "STKAFRTS": "disastrous", // more phonetic ("dsastrs")
@@ -2793,19 +2806,6 @@
 
     "PALS": "palace", // use -Z for "pals"
     "SOLS": "solace",
-
-    "SEPS": "acceptance",    // use -Z for "accepts"
-    "AEURGS": "arrogance",   // use -Z for "airings"
-    "AEURGT": "arrogant",
-    "KPELS": "excellence",   // use -Z for "compels"
-    "KPELT": "excellent",
-    "PORPLS": "performance", // use -Z for "performs"
-    "RERS": "remembrance",   // use -Z for "remembers"
-
-    "REFLS": "relevance",    // use -Z for "revels"
-    "REFLT": "relevant",     // standard
-    "SREFLS": "irrelevance", // use -Z for "vessels"
-    "SREFLT": "irrelevant",
 
     // Use *S for special three-way conflicts
     "SKWRAO*EPBS": "genus", // -S "genius", -Z "genes"
