@@ -2770,7 +2770,7 @@
     "PORS": "porous",         // allow dropping * since "pourous" is not a word
     "RAOUPBS": "ruinous",     // use -Z for "ruins"
     "TREFPS": "treacherous",
-    "TREFRPS": "treacherous", // more phonetic ("trechs")
+    "TREFRPS": "treacherous", // more phonetic ("trechrs")
     /*1*/ "TPAOEURBZ": "fibers", // by default "patients to" (mashup of PAEURBZ and TO)
 
     "KHRARPL": "clamor",
