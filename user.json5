@@ -2633,7 +2633,7 @@
     "OERS": "otherwise",
     "OERZ": "others",
 
-    "AULZ": "alls",      // "know-it-alls"; use AULS for "always"
+    "AULZ": "alls",      // use AULS for "always"
     "PWURPBZ": "burns",  // swap with "Burns" [1]
     "KHAOUZ": "chews",   // use KHAOS for "choose"
     "TKRAUZ": "draws",   // give up "direct cause"
@@ -2641,7 +2641,7 @@
     "HUPBZ": "hundreds", // use 0Z for {&00}
     "HRAOEUZ": "lies",   // give up {^alize}
     "PAEURZ": "pairs",   // use PAEURBTS for "patients"
-    "KWEZ": "questions", // overrides "?" with spaces on both sides [2]
+    "KWEZ": "questions", // overrides "?" [2]
     /*1*/ "PWURPBS": "Burns",
     /*2*/ "KW*PL": "?",
 
