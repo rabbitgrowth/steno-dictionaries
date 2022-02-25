@@ -58,9 +58,7 @@
     "-FD": "find",
     "T-FD": "find it",
     "TP-D": "found", // give up "pharmacodynamic"
-    "K-D": "kind", // use A/KORD for "accord"; Plover even allows A/K-D
-                   // KIND   416980
-                   // ACCORD   6864
+    "K-D": "kind", // use A/KORD for "accord"
     "K-FD": "kind of",   // overrides "confidence"      [1]
     "K-FDZ": "kinds of", // use K-FSZ for "confidences" [1]
     "PH-D": "mind", // - overrides "PhD" [2]
