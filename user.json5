@@ -2765,8 +2765,9 @@
     "HAOURPLS": "humorous",   // use -Z for "humors"
     "TPHAOURPLS": "numerous", // phonetic alternative to TPHAOUPLS
     "SKWRELS": "jealous",     // use -Z for "gels"
-    "PO*RS": "porous",        // cf. PO*R "pore" (POR is "pour" and POUR is "power")
-    "PORS": "porous",         // allow dropping * since "pourous" is not a word
+    "PORS": "porous",
+    "PO*RS": "porous",        // cf. PO*R "pore"
+    "POERS": "porous",        // cf. POER "pore"
     "RAOUPBS": "ruinous",     // use -Z for "ruins"
     "TREFPS": "treacherous",
     "TREFRPS": "treacherous", // more phonetic ("trechrs")
