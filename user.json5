@@ -57,12 +57,12 @@
 
     "-FD": "find",
     "T-FD": "find it",
-    "TP-D": "found",     // give up "pharmacodynamic"
-    "K-D": "kind",       // use A/KORD for "accord"
-    "K-FD": "kind of",   // overrides "confidence"      [1]
-    "K-FDZ": "kinds of", // use K-FSZ for "confidences" [1]
-    "PH-D": "mind",      // overrides "PhD" [2]; frees up PHAOEUPBD for "mined" [3]
-    "PH-DZ": "minds",    // overrides "merchandise" [4]
+    "TP-D": "found",   // give up "pharmacodynamic"
+    "K-D": "kind",     // use A/KORD for "accord"
+    "K-FD": "kind of", // overrides "confidence" [1]
+    "K-FDZ": "kinds of",
+    "PH-D": "mind",   // overrides "PhD" [2]; frees up PHAOEUPBD for "mined" [3]
+    "PH-DZ": "minds", // overrides "merchandise" [4]
     "PH-TD": "minded",
     "PH-GD": "minding",
     /*1*/ "K-FS": "confidence", // cf. PREPBT "present"
