@@ -108,7 +108,7 @@ patterns.extend([
 
 # Verbs
 
-verb_infinitive = {
+verb = {
     "-BL":   "believe",
     "-FL":   "feel",
     "-FD":   "find",
@@ -121,7 +121,20 @@ verb_infinitive = {
     "-PT":   "want",
 }
 
-verb_past_tense = {
+verbs = {
+    "-BLZ":   "believes",
+    "-FLZ":   "feels",
+    "-FDZ":   "finds",
+    "-GTS":   "gets",
+    "-FPLZ":  "knows",
+    "-FRBGZ": "likes",
+    "-FBLZ":  "loves",
+    "-RPLZ":  "remembers",
+    "-PBGZ":  "thinks",
+    "-PTS":   "wants",
+}
+
+verbed = {
     "-FLT": "felt",
     "-GD":  "got",
     "-BS":  "said",
@@ -141,8 +154,6 @@ modal_verb = {
     "*D":    "^'d", # could be short for "had" too, so use *D instead of *LD
 }
 
-verb = verb_infinitive | verb_past_tense | modal_verb
-
 negative = {
     "O":  "don't",
     "EU": "didn't",
@@ -154,9 +165,11 @@ extra_nt = {"-PBT": ""}
 really   = {"-RL": "really"}
 
 patterns.extend([
-    (pronoun | starter,      verb            | really),
-    (i, negative, extra_nt | verb_infinitive | really),
-    (to,                     verb_infinitive | really),
+    (i | plural_pronoun, verb         | verbed | modal_verb | really),
+    (singular_pronoun,          verbs | verbed | modal_verb | really),
+    (starter,            verb | verbs | verbed | modal_verb | really),
+    (i, negative,        verb | really | extra_nt),
+    (to,                 verb | really),
 ])
 
 # Three-part phrases with medial pronouns
@@ -178,7 +191,8 @@ patterns.extend([
     (starter | if_, medial_i | medial_you, have | had, maybe(been), maybe(the)),
     (starter | if_, medial_he,             has  | had, maybe(been), maybe(the)),
 
-    (starter | if_, medial_pronoun, maybe(verb | really)),
+    (starter | if_, medial_i | medial_you, maybe(verb  | verbed | modal_verb | really)),
+    (starter | if_, medial_he,             maybe(verbs | verbed | modal_verb | really)),
 ])
 
 # "a"

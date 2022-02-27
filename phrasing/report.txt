@@ -202,9 +202,6 @@ had had
 had felt
   H-FLT -> he felt
 
-hmpf
-  H-FPL -> he know
-
 {^s}{?}
   H-FS -> he was
   STH-S
@@ -213,9 +210,6 @@ hmpf
 
 HDL
   H-LD -> he would
-
-hrm
-  H-RPL -> he remember
 
 who's
   HOS/AE
@@ -348,20 +342,8 @@ superficial
   STPEUFL -> if I feel
   SU/PER/TPEURBL
 
-shall believe
-  SH-BL -> she believe
-
-shall feel
-  SH-FL -> she feel
-
-shall want
-  SH-PT -> she want
-
 shall recall
   SH-RL -> she really
-
-shall remember
-  SH-RPL -> she remember
 
 {>}ssh
   SH-S -> she is
@@ -481,13 +463,6 @@ tailgate
 tailgates
   T-GTS -> it gets
 
-continuing
-  T-PB/-G
-  T-PBG -> it think
-
-the president
-  T-PT -> it want
-
 TdT
   T-TD -> it had the
 
@@ -514,9 +489,6 @@ this'll
 
 third-degree
   TH-D -> this had
-
-{^;^}
-  TH-FL -> this feel
 
 therefore
   TH-FR -> this may
