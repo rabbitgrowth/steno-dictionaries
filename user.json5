@@ -3747,12 +3747,15 @@
     "STPHEUPL": "synonym",
     "STPHOPLS": "synonymous", // cf. TPHOPLS "anonymous"
 
-    "URPBD": "understand",         // standard
-    "URPBG": "understanding",      // "urning" is rare
-    "URPBD/-D": "understood",      // or use *URPBD
-    "PHURPBD": "misunderstand",    // cf. PHURPBGD "misunderstanding"
+    "URPBD": "understand",  // standard
+    "URPBG": "understanding",
+    "*URPBD": "understood", // standard
+    "URPBD/-D": "understood",
+    "STKAPBD": "understand",
+    "STKAPBG": "understanding",
+    "STKAOD": "understood",
+    "PHURPBD": "misunderstand", // cf. PHURPBGD "misunderstanding"
     "PHURPBG": "misunderstanding",
-    "PHURBGD": "misunderstanding", // cf. URBGD (misstroke omitting -P)
     "PH*URPBD": "misunderstood",
     "PHURPBD/-D": "misunderstood",
 
