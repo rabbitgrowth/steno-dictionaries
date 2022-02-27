@@ -619,9 +619,6 @@ together
   TOGT -> to get
   TOLGT
 
-obviously it
-  TOFBL -> to love
-
 tong
   TOPBG -> to think
 
@@ -712,7 +709,7 @@ we'd
   WAOED -> weed
   WAOED/AE
 
-whistle -> KWHEUFL
+whistle -> KWHEULS
   WEUFL
   WH*EUS/-L
   WHEUFG
@@ -734,6 +731,9 @@ whenever -> WHEF
   WH-FR -> when may
   WHEFR -> when he may
   WHREFR -> where he may
+
+whiffle -> KWHEUFL
+  WH*EUFL -> when I love
 
 When were
   WH-RP -> when were
