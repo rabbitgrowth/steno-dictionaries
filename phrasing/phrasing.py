@@ -128,6 +128,7 @@ verbs = {
     "-FLZ":   "feels",
     "-FDZ":   "finds",
     "-GTS":   "gets",
+    "-GSZ":   "guesses",
     "-FPLZ":  "knows",
     "-LGZ":   "likes",
     "*FLZ":   "loves",
