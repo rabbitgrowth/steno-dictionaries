@@ -317,8 +317,8 @@ remaps = {
     "WHAOUS": "whose",
 
     # Override the overrides
-    "TOFRPB":  "torch",
-    "TO*FRPB": "to mean",
+    "TOPBG":  "tong",
+    "TOFRPB": "torch",
 
     # Strokes that have been freed up
     "HAOED": "heed",

@@ -667,9 +667,6 @@ togs
 {^otology}
   TOLG -> to like
 
-tong
-  TOPBG -> to think
-
 Editorial
   TORL -> to really
 
