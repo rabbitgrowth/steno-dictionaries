@@ -46,6 +46,7 @@
     "TH-G": "thing", // TH/TH-G "this thing" and TH-GZ "things" are nice
     "SR-L": "value",
     "SR-BL": "valuable",
+    "SR-LGS": "valuation",
 
     "PR": "appear",     // misstroke for "from"
     "PR-D": "appeared", // overrides "." (with spaces on both sides - for programming?)
