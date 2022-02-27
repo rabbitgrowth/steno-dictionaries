@@ -161,15 +161,14 @@ negative = {
     "U":  "couldn't",
 }
 
-extra_nt = {"-PBT": ""}
-really   = {"-RL": "really"}
+really = {"-RL": "really"}
 
 patterns.extend([
     (i | plural_pronoun, verb         | verbed | modal_verb | really),
     (singular_pronoun,          verbs | verbed | modal_verb | really),
     (starter,            verb | verbs | verbed | modal_verb | really),
-    (i, negative,        verb | really | extra_nt),
-    (to,                 verb | really),
+    (i, negative,        verb                               | really),
+    (to,                 verb                               | really),
 ])
 
 # Three-part phrases with medial pronouns
