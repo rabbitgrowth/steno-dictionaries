@@ -113,6 +113,7 @@ verb = {
     "-FL":   "feel",
     "-FD":   "find",
     "-GT":   "get",
+    "-GS":   "guess",
     "-FPL":  "know",
     "-FRBG": "like",
     "*FL":   "love",

@@ -462,6 +462,14 @@ fantastic -> TPAFBG
   TPAPB/TAS/TEUBG
   TPAPB/TPAFBG
 
+fission
+  STPEUGS -> if I guess
+  TP*EUGZ
+  TPAO*EGS
+  TPEURB/O*PB
+  TPEURB/SHOPB
+  TPEURB/SHUPB
+
 as fuck
   STPUBG -> if you can
 
@@ -646,6 +654,9 @@ together
   TOGT -> to get
   TOLGT
 
+togs
+  TOGS -> to guess
+
 tong
   TOPBG -> to think
 
@@ -673,6 +684,10 @@ USB
 
 you ever
   UFR -> you may
+
+us
+  UGS -> you guess
+  US
 
 you're the
   URT -> you are the
