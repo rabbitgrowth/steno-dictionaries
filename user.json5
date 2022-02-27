@@ -3284,6 +3284,8 @@
     "PRO*": "professional",   // pro  (alternative to PREPBL)
     "P*UB": "publish",        // pub
     "R*EP": "representative", // rep
+    "T-GT": "together",       // tgt
+    "T-RPL": "tomorrow",      // tmr
     "SR*ET": "veteran",       // vet
 
     // If the full form is a very common word, add * for the short form

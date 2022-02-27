@@ -288,15 +288,6 @@ remaps = {
     "KWHOR":    "whore",
     "KWHORL":   "whorl",
 
-    # Override phrasing and hard-code inflection as special case
-    "T-RPL":    "tomorrow",
-    "T-RPLZ":   "it remembers",
-    "T-RPL/-S": "it remembers",
-    "T-RPL/-Z": "it remembers",
-    "T-GT":     "together",
-    "T-GTS":    "it gets",
-    "T-GT/-S":  "it gets",
-
     # Miscellaneous
     "TPAFBG": "fantastic",
     "TEPL":   "item",

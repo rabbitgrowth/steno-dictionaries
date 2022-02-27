@@ -455,11 +455,6 @@ tablespoon
 {^ed it}
   T-D -> it had
 
-tailgate
-  T-GT -> together
-  TAEUL/TKPWAET
-  TAEUL/TKPWAEUT
-
 tailgates
   T-GTS -> it gets
 
@@ -613,12 +608,12 @@ they recall
 therm
   THERPL -> they remember
 
-tomorrow -> T-RPL
+tomorrow
   TO/PHOR/ROE
   TOEPL
   TORPL -> to remember
 
-together -> T-GT
+together
   TO/TKPW*ERT
   TO/TKPW*ET/ER
   TOGT -> to get
