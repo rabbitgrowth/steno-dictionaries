@@ -128,14 +128,17 @@ verb_past_tense = {
 }
 
 modal_verb = {
-    "-BG":  "can",
-    "-BGD": "could",
-    "-RB":  "shall",
-    "-RBD": "should",
-    "-L":   "will",
-    "-LD":  "would",
-    "*L":   "^'ll",
-    "*D":   "^'d", # could be short for "had" too, so use *D instead of *LD
+    "-BG":   "can",
+    "-BGD":  "could",
+    "-RB":   "shall",
+    "-RBD":  "should",
+    "-L":    "will",
+    "-LD":   "would",
+    "-FR":   "may", # overrides "ever"
+    "-FRT":  "might",
+    "-FRTS": "must",
+    "*L":    "^'ll",
+    "*D":    "^'d", # could be short for "had" too, so use *D instead of *LD
 }
 
 verb = verb_infinitive | verb_past_tense | modal_verb
@@ -233,25 +236,43 @@ remaps = {
     "HREULD": "ideally",
     "*EUD":   "id", # as in psychoanalysis
 
-    "UFRT": "unfortunate",
-    "UFRL": "unfortunately",
-    "-FRT": "fortunate",
-    "-FRL": "fortunately",
+    "TPORPBT":  "fortunate",
+    "TPORPBL":  "fortunately",
+    "STPORPBT": "unfortunate",
+    "STPORPBL": "unfortunately",
 
     "WHER":   "whether",
     "WHERT":  "whether",
     "WH*ERT": "whether",
 
+    # EF "ever" is asymmetrical with TPHEFR "never", but -FR isn't
+    # perfectly symmetrical either. EF/AF "ever after" is nice.
+    "EF":      "ever",
+    "TPOEF":   "forever",
+    "HOUF":    "however", # standard
+    "HOUFT":   "however the",
+    "WHAEF":   "whatever",
+    "WHAEFT":  "whatever the",
+    "WHEF":    "whenever",
+    "WHEFT":   "whenever the",
+    "WHREF":   "wherever",
+    "WHREFT":  "wherever the",
+    "SKPHEF":  "whichever",
+    "SKPHEFT": "whichever the",
+    "WHOEF":   "whoever",
+    "WHOEFT":  "whoever the",
+
     # Ugly compromise: add arbitrary K to words beginning with wh-
-    "KWHABG":  "whack",
-    "KWHAEUL": "whale",
-    "KWHEUF":  "whiff",
-    "KWHEUPL": "whim",
-    "KWHEURL": "whirl",
-    "KWHEUFL": "whistle",
-    "KWHOEL":  "whole",
-    "KWHOR":   "whore",
-    "KWHORL":  "whorl",
+    "KWHABG":   "whack",
+    "KWHAEUL":  "whale",
+    "KWHEUF":   "whiff",
+    "KWHEUPL":  "whim",
+    "KWHEURL":  "whirl",
+    "KWHEUFL":  "whistle",
+    "KWHEUFRP": "whisper",
+    "KWHOEL":   "whole",
+    "KWHOR":    "whore",
+    "KWHORL":   "whorl",
 
     # Override phrasing and hard-code inflection as special case
     "T-RPL":    "tomorrow",

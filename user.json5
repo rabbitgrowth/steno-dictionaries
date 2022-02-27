@@ -2246,20 +2246,6 @@
     "SHOUFT": "should have the", // cf. SHOUF "should have"
     "WOUFT": "would have the",   // cf. WOUF  "would have"
 
-    // -FPLT for "must"
-    // It's phonetic with an inversion (FMT -> MST),
-    // and four keys in a row feels emphatic ("you MUST...").
-    "KWR-FPLT": "I must", // give up "why{.}"
-    "UFPLT": "you must",  // give up "{.}you" (why not "you{.}"?)
-    "H-FPLT": "he must",
-    "SH-FPLT": "she must",
-    "W-FPLT": "we must",  // overrides "www." [1]
-    "THEFPLT": "they must",
-    /*1*/ "W-S": "{>}www.{^}", // give up {^s with}
-                               // nicely symmetrical with KROPL {^.com}
-                               // in the absence of . in the stroke
-                               // (mnemonic: "(three) Ws")
-
     // Stack "to" as TO or O
     "TKPWO": "go to", // use TKPW for "go"
     "TKPWOG": "going to", // TKPWOS "goes to", TWOEPBT "went to" already work
@@ -2305,13 +2291,6 @@
     "OUFT": "out of the", // add * for "oust"
     "SEUPBTS": "since the",
     "-FTS": "was the",
-
-    "HOUFRT": "however the",
-    "WHAFRT": "whatever the",
-    "WH-FRT": "whenever the",
-    "WR-FRT": "wherever the",
-    "WEUFRT": "whichever the",
-    "WHOFRT": "whoever the",
 
     // "just ..."
     "SKWR": "just",
