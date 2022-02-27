@@ -3415,6 +3415,10 @@
     // TP-PL {.} + KW-BG {,} = TKPW-PBLG {;}
     "TKPW-PBLG": "{;}",
 
+    // Hyphen and dash
+    "-FPL": "{^-^}", // use TP-PL for {.}
+    "-FPLT": "-",    // use TP-PL for {.}
+
     // Ellipsis
     "-RBGS": "{^...}",
 
@@ -4117,9 +4121,6 @@
     "TPUL/TAOEUPL": "full time",
     "ROUPBD/TREUP": "round trip",
     "SRAOEUS/PREZ": "vice president",
-
-    // Use single hyphen as dash
-    "TK-RB": "-",
 
     // Swap strokes such that * is used to contract or suppress space,
     // not the other way round.
