@@ -610,6 +610,9 @@ that{.}
   THAPL
   TPHAPL
 
+that afternoon
+  THAFRPB -> that mean
+
 these
   THAO*ES
   THAOEGS

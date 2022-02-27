@@ -117,6 +117,7 @@ verb = {
     "-FPL":  "know",
     "-LG":   "like",
     "*FL":   "love",
+    "-FRPB": "mean",
     "-RPL":  "remember",
     "-PBG":  "think",
     "-PT":   "want",
@@ -130,6 +131,7 @@ verbs = {
     "-FPLZ":  "knows",
     "-LGZ":   "likes",
     "*FLZ":   "loves",
+    "-FRPBZ": "means",
     "-RPLZ":  "remembers",
     "-PBGZ":  "thinks",
     "-PTS":   "wants",
@@ -313,6 +315,10 @@ remaps = {
     "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
     "AOULG":  "ugly",
     "WHAOUS": "whose",
+
+    # Override the overrides
+    "TOFRPB":  "torch",
+    "TO*FRPB": "to mean",
 
     # Strokes that have been freed up
     "HAOED": "heed",
