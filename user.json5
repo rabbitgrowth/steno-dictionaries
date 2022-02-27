@@ -138,6 +138,7 @@
     "TK-Z": "dizzy",            // with PW-Z "busy"; use STAOES for "disease"
     "ERLD": "elder",            // with OERLD "older"; overrides "elderly"
     "HRERLD": "elderly",
+    "TPHABL": "enable",         // with ABL "able"
     "SPWRAEUPB": "entertain",   // with SPWRAEUPBG "entertaining"; use EPB/TRAEUPB for "entrain"
     "SPWRAEURPB": "entertainer",
     "SPWRAEUPLT": "entertainment",
@@ -373,6 +374,7 @@
     "KURPB": "curtain",
     "TKHRAOEUPB": "deadline", // use PHEUD/HRAOEUPB for "midline"
     "TKAOEFT": "defeat", // use TKEFBGT for "defect"
+    "TKOPBT": "donate", // use TKUPT (custom) for "doesn't"
     "TKRAPB": "dragon",
     "TKAOUBS": "dubious",
     "AOELT": "elite",
@@ -509,6 +511,7 @@
     "HRO*EB": "lobby",    // - * = "lobe"
     "PHO*EPBG": "monkey", // cf. PHO*PBG "monk"
     "PROEBGS": "proxy",   // use PREBGS for "protection"
+    "STPHOEB": "snobby",
 
     // E -> AOE
     "PHAOERS": "mercy",
@@ -691,6 +694,12 @@
     "HOEFRLD": "homeland",
     "HROELD": "lowland",
     "PHAEUPBLD": "mainland",
+
+    "-FRPB": "{^man}",
+
+    "SHO*P": "{^shop}",
+    "SHO*RP": "{^shopper}",
+    "SHORP": "shopper",
 
     "*D": "{^'d}",  // standard
     "*L": "{^'ll}", // swap with {^le} [1]
@@ -1052,6 +1061,7 @@
 
     // -FRPB for -mən
     "TKAOEFRPB": "demon", // alternative to TKPHOPB
+    "KPAFRPB": "examine",
     "TPAFRPB": "famine",
     "HREFRPB": "lemon",
     "OEFRPB": "omen",
@@ -1059,8 +1069,7 @@
     "SAFRPB": "salmon",
     "SAOEFRPB": "semen",
     "SUFRPB": "summon", // alternative to SPHOPB
-    // But "common" remains KPHOPB, since KOFRPB is "conch"
-    // (and KPHOPB has already become muscle memory anyway).
+    // But "common" remains KPHOPB, since KOFRPB is "conch".
 
     // -FRB for -mb
     "KHRUFRB/KWRA": "Columbia",
@@ -4295,6 +4304,7 @@
     "AD/H-F": "ad",                 // from "add"
     "ADZ/H-F": "ads",
     "AS/H-F": "ass",                // from "as"
+    "AOEU/H-F": "aye",              // from "eye"
     "PWAPBD/H-F": "banned",         // from "band"
     "PWARD/H-F": "barred",          // from "bard"
     "PWAOEFP/H-F": "beach",         // from "beech"
