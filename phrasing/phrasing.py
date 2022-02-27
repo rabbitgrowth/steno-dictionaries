@@ -115,7 +115,7 @@ verb = {
     "-GT":   "get",
     "-GS":   "guess",
     "-FPL":  "know",
-    "-FRBG": "like",
+    "-LG":   "like",
     "*FL":   "love",
     "-RPL":  "remember",
     "-PBG":  "think",
@@ -128,7 +128,7 @@ verbs = {
     "-FDZ":   "finds",
     "-GTS":   "gets",
     "-FPLZ":  "knows",
-    "-FRBGZ": "likes",
+    "-LGZ":   "likes",
     "*FLZ":   "loves",
     "-RPLZ":  "remembers",
     "-PBGZ":  "thinks",
@@ -311,6 +311,7 @@ remaps = {
     "TPAFBG": "fantastic",
     "TEPL":   "item",
     "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
+    "AOULG":  "ugly",
     "WHAOUS": "whose",
 
     # Strokes that have been freed up

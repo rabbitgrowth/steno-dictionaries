@@ -155,6 +155,10 @@ you've
   UF -> you have
   UF/AE
 
+audiology
+  AUD/KWROLG
+  KWROLG -> I don't like
+
 id -> *EUD
   EUD -> idea
 
@@ -657,6 +661,9 @@ together
 togs
   TOGS -> to guess
 
+{^otology}
+  TOLG -> to like
+
 tong
   TOPBG -> to think
 
@@ -684,6 +691,11 @@ USB
 
 you ever
   UFR -> you may
+
+ugly -> AOULG
+  UG/HREU
+  UL/HREU
+  ULG -> you like
 
 us
   UGS -> you guess
