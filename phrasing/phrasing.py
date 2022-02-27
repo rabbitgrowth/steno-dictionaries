@@ -194,6 +194,24 @@ patterns.extend([
     (starter | if_, medial_he,             maybe(verbs | verbed | modal_verb | really)),
 ])
 
+# Special verbs
+
+can = {"-BG": "can"}
+see = {"-Z":  "see"} # clashes with "has"
+say = {"-BZ": "say"} # clashes with "has been"
+
+patterns.extend([
+    (i | plural_pronoun,         maybe(can), see),
+    (i | plural_pronoun,         say),
+    (singular_pronoun | starter, can, see),
+    (i, negative,                see | say),
+    (to,                         see | say),
+
+    (starter | if_, medial_i | medial_you, maybe(can), see),
+    (starter | if_, medial_i | medial_you, say),
+    (starter | if_, medial_he,             can, see),
+])
+
 # "a"
 
 word_with_article = {
