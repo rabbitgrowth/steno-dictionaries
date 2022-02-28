@@ -112,6 +112,7 @@ verb = {
     "-BL":   "believe",
     "-FL":   "feel",
     "-FD":   "find",
+    "-FRGT": "forget",
     "-GT":   "get",
     "-GS":   "guess",
     "-FPL":  "know",
@@ -127,6 +128,7 @@ verbs = {
     "-BLZ":   "believes",
     "-FLZ":   "feels",
     "-FDZ":   "finds",
+    "-FRGTS": "forgets",
     "-GTS":   "gets",
     "-GSZ":   "guesses",
     "-FPLZ":  "knows",
@@ -139,9 +141,10 @@ verbs = {
 }
 
 verbed = {
-    "-FLT": "felt",
-    "-GD":  "got",
-    "-BS":  "said",
+    "-FLT":  "felt",
+    "-FRGD": "forgot",
+    "-GD":   "got",
+    "-BS":   "said",
 }
 
 modal_verb = {
