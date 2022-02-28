@@ -3523,14 +3523,12 @@
     "AEUFBT": "a bit of",
 
     // Reflexive pronouns
-    "W*UPBS": "oneself",  // use WUPB/AES for "one's"
-    "O*URS": "ourselves", // "ourself" is rare
-    "OUR/SEFL": "ourself",
+    "W*UPBS": "oneself", // use WUPB/AES for "one's"
+    "O*URS": "ourselves",
     "TH*EPLS": "themself", // - * = "themselves"
     "THAO*EUS": "thyself",
-    "SEFL": "self", // since all possibilities have been exhausted
-                    // ("myself", "yourself", ... and even "thyself"),
-                    // -self as a suffix becomes useless
+    "S*EFL": "{^self}", // swap with "self"
+    "SEFL": "self",
 
     // Direction
     "AFRD": "afterward",  // use STPORD (custom) for "afford"
