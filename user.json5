@@ -672,7 +672,6 @@
     // Prevent word boundary errors
     "KAOUP/OPB": "coup on", // use KAOU/POPB or KAOUPB for "coupon"
                             // ("The military launched a coup on Monday")
-    "HAOEU/KWROE": "high I don't", // use HO*EU for "Ohio"
     "PAS/SO": "pass so", // give up "Paso"; there's EL/PA/SOE for "El Paso"
 
     // -- Affixes --------------------------------------------------------------
