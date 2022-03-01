@@ -2479,6 +2479,56 @@
     "W-FPBD": "we have no idea",
     "THEFPBD": "they have no idea",
 
+    // Existence
+    "THR-S": "there is",
+    "THR-TS": "there is the",
+    "THR*S": "there's", // standard
+    "THR*TS": "there's the",
+    "THR-R": "there are", // standard
+    "THR-RT": "there are the",
+    "THR*R": "there're",
+    "THR*RT": "there're the",
+    "THR-FS": "there was", // standard
+    "THR-FTS": "there was the",
+    "THR-F": "there have", // use THROF for "thereof"; cf. WR-F "where have", WROF "whereof"
+    "THR-FB": "there have been",
+    "THR-D": "there had",
+    "THR-BD": "there had been",
+    "THR-L": "there will",
+    "THR*L": "there'll", // standard
+
+    "THREUPL": "there I am",
+    "THREUFS": "there I was",
+    "THRUR": "there you are",
+    "THRURP": "there you were",
+    "THRES": "there he is", // use -Z for "threes"
+    "THREFS": "there he was",
+
+    "HAOERS": "here is",
+    "HAOERTS": "here is the",
+    "HAO*ERS": "here's", // standard
+    "HAO*ERTS": "here's the",
+
+    // Amounts
+    "AEULT": "a lot", // the -L in HROELT seems to be completely arbitrary
+    "AEUFLT": "a lot of",
+    // Having "a lot of" makes HROFT "lot of" less useful because "lot of"
+    // is almost always preceded by "a". Of course "a whole/awful lot of"
+    // is possible, but "a lot of" is by far the most common:
+    //   A LOT OF     334111
+    //   WHOLE LOT OF   5508
+    //   AWFUL LOT OF   3317
+    // HROFT is more useful as ...
+    "HROFT": "lost", // drop * in HRO*S "lost"
+    "HREUS": "list", // for consistency; give up "Lys-"
+
+    "HRAEUL": "a little",
+    "HRAEUFL": "a little of",
+    "HRAEUBT": "a little bit", // "alibit"
+    "HRAEUFBT": "a little bit of",
+    "AEUBT": "a bit",
+    "AEUFBT": "a bit of",
+
     // Miscellaneous
     "SKPAF": "and a half",
     "SKPAOPB": "and so on",
@@ -3395,56 +3445,6 @@
     "WUZ": "{#}", // JUJ/(no-op)/*MT -> judgement
 
     // -- Basics ---------------------------------------------------------------
-
-    // Existence
-    "THR-S": "there is",
-    "THR-TS": "there is the",
-    "THR*S": "there's", // standard
-    "THR*TS": "there's the",
-    "THR-R": "there are", // standard
-    "THR-RT": "there are the",
-    "THR*R": "there're",
-    "THR*RT": "there're the",
-    "THR-FS": "there was", // standard
-    "THR-FTS": "there was the",
-    "THR-F": "there have", // use THROF for "thereof"; cf. WR-F "where have", WROF "whereof"
-    "THR-FB": "there have been",
-    "THR-D": "there had",
-    "THR-BD": "there had been",
-    "THR-L": "there will",
-    "THR*L": "there'll", // standard
-
-    "THREUPL": "there I am",
-    "THREUFS": "there I was",
-    "THRUR": "there you are",
-    "THRURP": "there you were",
-    "THRES": "there he is", // use -Z for "threes"
-    "THREFS": "there he was",
-
-    "HAOERS": "here is",
-    "HAOERTS": "here is the",
-    "HAO*ERS": "here's", // standard
-    "HAO*ERTS": "here's the",
-
-    // Amounts
-    "AEULT": "a lot", // the -L in HROELT seems to be completely arbitrary
-    "AEUFLT": "a lot of",
-    // Having "a lot of" makes HROFT "lot of" less useful because "lot of"
-    // is almost always preceded by "a". Of course "a whole/awful lot of"
-    // is possible, but "a lot of" is by far the most common:
-    //   A LOT OF     334111
-    //   WHOLE LOT OF   5508
-    //   AWFUL LOT OF   3317
-    // HROFT is more useful as ...
-    "HROFT": "lost", // drop * in HRO*S "lost"
-    "HREUS": "list", // for consistency; give up "Lys-"
-
-    "HRAEUL": "a little",
-    "HRAEUFL": "a little of",
-    "HRAEUBT": "a little bit", // "alibit"
-    "HRAEUFBT": "a little bit of",
-    "AEUBT": "a bit",
-    "AEUFBT": "a bit of",
 
     // Reflexive pronouns
     "W*UPBS": "oneself", // use WUPB/AES for "one's"
