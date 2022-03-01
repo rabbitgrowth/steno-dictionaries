@@ -4,6 +4,13 @@ every
   EF/REU
   EFR
 
+everybody
+  *EFRB
+  AEFRB
+  EFB -> ever been
+  EFRB
+  EFRBG
+
 Idaho
   *EUD -> id
   *EUD/*EUD

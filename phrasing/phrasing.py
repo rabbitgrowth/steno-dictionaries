@@ -288,6 +288,8 @@ remaps = {
     # EF "ever" is asymmetrical with TPHEFR "never", but -FR isn't
     # perfectly symmetrical either. EF/AF "ever after" is nice.
     "EF":      "ever",
+    "EFB":     "ever been",
+    "EFBT":    "ever been the",
     "TPOEF":   "forever",
     "HOUF":    "however", # standard
     "HOUFT":   "however the",
