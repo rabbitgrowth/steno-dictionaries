@@ -330,6 +330,10 @@ remaps = {
     "HAOED": "heed",
     "WAOED": "weed",
     "WAOEF": "weave",
+
+    # Fix word boundary error caused by TPO "for"
+    "TPO/TPHO": "for no",
+    "TPO*PB": "{phono^}", # cf. PHO*PB {mono^}
 }
 
 remaps_reversed = {
