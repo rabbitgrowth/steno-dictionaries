@@ -3335,7 +3335,23 @@
     "TKUFRPT": "Dumpty",
     "TKHUFRPT": "Humpty Dumpty",
 
-    // Current words
+    // -- Topics ---------------------------------------------------------------
+
+    // US political parties
+    "RUP": "Republican",
+    "RE/PUBL/KAPB": "republican", // "republican with a small r"
+                                  // is less common and doesn't need a brief
+    "TK*EPL": "Dem", // cf. TKEPL "dem" ("dem big bucks"); overrides {demi^} [1]
+    "TKPHAT": "democrat",
+    "TKPHABG": "democratic",
+    "TKPHALG": "democratically",
+    "TKPHA*T": "Democrat",
+    "TKPHA*BG": "Democratic",
+    "TKPHOERBGS": "democracy", // try to squeeze in all the sounds: "dmokrsy"
+    "TKPHOBGS": "democracy",   // shortcut ("dmox")
+    /*1*/ "TKPHEU": "{demi^}", // consistent with SPHEU {semi^}
+
+    // Covid-19
     "KROEPB/SRAOEURS": "coronavirus",
     "KRAOEURS": "coronavirus", // "crirus"
     "KOEFD": "Covid",
@@ -3872,22 +3888,6 @@
     "KWRE": "yeah",
     "KWR*E": "ye",
     "KWRES": "yes",
-
-    // -- Topics ---------------------------------------------------------------
-
-    // US political parties
-    "RUP": "Republican",
-    "RE/PUBL/KAPB": "republican", // "republican with a small r"
-                                  // is less common and doesn't need a brief
-    "TK*EPL": "Dem", // cf. TKEPL "dem" ("dem big bucks"); overrides {demi^} [1]
-    "TKPHAT": "democrat",
-    "TKPHABG": "democratic",
-    "TKPHALG": "democratically",
-    "TKPHA*T": "Democrat",
-    "TKPHA*BG": "Democratic",
-    "TKPHOERBGS": "democracy", // try to squeeze in all the sounds: "dmokrsy"
-    "TKPHOBGS": "democracy",   // shortcut ("dmox")
-    /*1*/ "TKPHEU": "{demi^}", // consistent with SPHEU {semi^}
 
     // -- Ologies and ologists -------------------------------------------------
 
