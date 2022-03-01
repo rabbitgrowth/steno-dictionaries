@@ -123,6 +123,7 @@
     "TKPHRAL": "admiral",       // with TKPHAOEUR "admire"
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
+    "TKPWR*EUPLT": "algorithm", // with R*EUPLT "rhythm"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
     "KPHREGS": "completion",
@@ -402,6 +403,7 @@
     "HRAOEUFPL": "lifetime", // "lifem"
     "PHRAUD": "maraud",
     "PHEL": "medical", // add * for "Mel"
+    "THOD": "method",
     "PHEUL/SHA": "militia",
     "PHOFT": "modest", // use PHOEFT for "most"
     "PHOEFGS": "motivation",
@@ -1966,33 +1968,6 @@
     "A/WAEUPBD": "awakened",
     "A/WAEUPBG": "awakening",
     "TPAUR/SAEUPB": "forsaken",
-
-    // -T for -th (Indian accent?)
-    "TKPWROET": "growth",
-    "HELT": "health",
-    "HOEULT": "healthy", // not sure what the -F is for in HOEUFLT
-    "PHOUT": "mouth",
-    "SPHAOT": "smooth",
-    "UPBD/TPHAOET": "underneath",
-    "KWRAOUT": "youth",
-
-    "ERT": "earth", // which frees up ...
-    "*ERT": "Earth",
-    "ERT/PWOUPBD": "earthbound",
-    "ERT/KWAEUBG": "earthquake",
-    "ERT/WORPL": "earthworm",
-
-    "PHETD": "method",
-    "PHETSDZ": "methods",
-    "PHETD/K-L": "methodical",
-
-    "REUPLT": "rhythm",
-    "TKPWREUPLT": "algorithm",
-    "TKPWR*EUPLT": "algorithm", // instead of TKPWR*EUFPL
-
-    "TRUT": "truth", // cf. TRAOUT
-    "TRU": "true",
-    "TRUL": "truly",
 
     // -LT for -tle
     // Precedents: SELT "settle", TAOEULT "title"
