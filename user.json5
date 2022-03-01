@@ -2237,17 +2237,6 @@
     "SHOUFT": "should have the", // cf. SHOUF "should have"
     "WOUFT": "would have the",   // cf. WOUF  "would have"
 
-    // Stack "to" as TO or O
-    "TKPWO": "go to", // use TKPW for "go"
-    "TKPWOG": "going to",
-    "TKPWOBG": "going to be",
-    "TKPWOGT": "going to the",
-    "TKPWOBGT": "going to be the",
-    "STKPWOG": "is going to",
-    "STKPWOBG": "is going to be",
-    "STKPWOGT": "is going to the",
-    "STKPWOBGT": "is going to be the",
-
     // "... a"
     "S*LGTS": "as a",
     "S*T": "as the",
@@ -2263,6 +2252,17 @@
     "OUFT": "out of the", // add * for "oust"
     "SEUPBTS": "since the",
     "-FTS": "was the",
+
+    // "go to ..."
+    "TKPWO": "go to", // use TKPW for "go"
+    "TKPWOG": "going to",
+    "TKPWOBG": "going to be",
+    "TKPWOGT": "going to the",
+    "TKPWOBGT": "going to be the",
+    "STKPWOG": "is going to",
+    "STKPWOBG": "is going to be",
+    "STKPWOGT": "is going to the",
+    "STKPWOBGT": "is going to be the",
 
     // "just ..."
     "SKWR": "just",
