@@ -3407,19 +3407,12 @@
     "THR*RT": "there're the",
     "THR-FS": "there was", // standard
     "THR-FTS": "there was the",
-
-    "THR-F": "there have", // use THROF for "thereof";
-                           // cf. WR-F "where have", WROF "whereof"
+    "THR-F": "there have", // use THROF for "thereof"; cf. WR-F "where have", WROF "whereof"
     "THR-FB": "there have been",
     "THR-D": "there had",
     "THR-BD": "there had been",
-
     "THR-L": "there will",
-    "THR-BL": "there will be",
-    "THR-BLT": "there will be the",
     "THR*L": "there'll", // standard
-    "THR*BL": "there'll be",
-    "THR*BLT": "there'll be the",
 
     "THREUPL": "there I am",
     "THREUFS": "there I was",
