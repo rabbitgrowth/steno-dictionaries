@@ -669,10 +669,16 @@
     "SPH/WAEU": "some way",     // use SPH/WA*EU ("some" + {^way}) for "someway"
     "STEPG/STOEPB": "stepping stone",
 
-    // Prevent word boundary errors
+    // -- Fix word boundary errors ---------------------------------------------
+
     "KAOUP/OPB": "coup on", // use KAOU/POPB or KAOUPB for "coupon"
                             // ("The military launched a coup on Monday")
-    "PAS/SO": "pass so", // give up "Paso"; there's EL/PA/SOE for "El Paso"
+
+    "EL/PA/SO": "El Paso",
+    "PAS/SO": "pass so", // give up "Paso" on its own
+
+    "TOPL/KWREU": "Tommy", // cf. SKWREUPL/KWREU "Jimmy"; give up {^tomy}
+    "TOPL/PHEU": "Tom my", // "I gave Tom my number"
 
     // -- Affixes --------------------------------------------------------------
 
@@ -3093,9 +3099,6 @@
     "TKPWO*R": "Gore",
     "KAPL/HRA": "Kamala", // give up "Kamilah"
     "POPL/PAEU/KWROE": "Pompeo", // cf. TKPWAL/HRAEU/KWROE "Galileo"
-
-    "TOPL/KWREU": "Tommy", // cf. SKWREUPL/KWREU "Jimmy"; give up {^tomy}
-    "TOPL/PHEU": "Tom my", // "I gave Tom my number"
 
     // Places
     "KWRAOURP/KWRAPB": "European",
