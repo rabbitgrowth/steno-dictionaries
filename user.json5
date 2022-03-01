@@ -3288,75 +3288,6 @@
     "SEBG": "second",
     "S*EBG": "sec",
 
-    // -- Vocabulary -----------------------------------------------------------
-
-    // Missing words
-    "ART/SEU/TPART/SEU": "artsy-fartsy",
-    "TKO/TKO": "dodo",
-    "TKOE/TKOE": "dodo",
-    "TKO*PB": "don", // - * = "done"; prepend KPA for "Don"
-    "TKO*U": "Dow",  // - * = "do you"
-    "TKREBG": "dreck",
-    "AOEF": "eve", // overrides "Eve" [1]
-    "KEPB": "ken", // + * = "Ken"
-    "HRAO*EUT": "lithe",  // give up "lite"
-    "TPRAEUFL": "phrasal",
-    "WAOERG": "Uighur",   // use W*R for "we're"
-    "STOLD": "stolid",    // cf. SOL/EUD "solid"
-    "STOL/EUD": "stolid", // cf. SOLD    "solid"
-    "SR*EUZ": "viz.",     // - * = "advise"
-    "W*URT": "wuther",    // "Wuthering Heights"
-    /*1*/ "AO*EF": "Eve", // use A*EF for "eave":
-                          // AOEF  "eve"  AEF  "avenue"
-                          // AO*EF "Eve"  A*EF "eave"
-
-    "TPREUFL": "frivol",
-    "TPREUFLS": "frivolous",
-    "TPREUFLT": "frivolity",
-    "TPREU/SROLT": "frivolity",
-
-    "PAOULS/TPHEUPLT": "pusillanimity",
-    "PAOUS/HRAPB/PHOUS": "pusillanimous",
-    "PAOUS/HRAPB/PHOULS": "pusillanimously",
-
-    "PAOU/TREFPBT": "putrescent", // cf. PAOU/TREUD "putrid"
-    "PAOUT/REFPBT": "putrescent", // cf. PAOUT/REUD "putrid"
-    "PAOU/TREFPBS": "putrescence",
-    "PAOUT/REFPBS": "putrescence",
-
-    "SPAPBLG": "spangle",
-    "SPAPBG/-L": "spangle",
-    "SPAPBG/-LD": "spangled",
-    "SPAPBG/-LG": "spangling",
-
-    "HUFRP/TEU": "Humpty",
-    "TKUFRP/TEU": "Dumpty",
-    "HUFRPT": "Humpty",
-    "TKUFRPT": "Dumpty",
-    "TKHUFRPT": "Humpty Dumpty",
-
-    // -- Topics ---------------------------------------------------------------
-
-    // US political parties
-    "RUP": "Republican",
-    "RE/PUBL/KAPB": "republican", // "republican with a small r"
-                                  // is less common and doesn't need a brief
-    "TK*EPL": "Dem", // cf. TKEPL "dem" ("dem big bucks"); overrides {demi^} [1]
-    "TKPHAT": "democrat",
-    "TKPHABG": "democratic",
-    "TKPHALG": "democratically",
-    "TKPHA*T": "Democrat",
-    "TKPHA*BG": "Democratic",
-    "TKPHOERBGS": "democracy", // try to squeeze in all the sounds: "dmokrsy"
-    "TKPHOBGS": "democracy",   // shortcut ("dmox")
-    /*1*/ "TKPHEU": "{demi^}", // consistent with SPHEU {semi^}
-
-    // Covid-19
-    "KROEPB/SRAOEURS": "coronavirus",
-    "KRAOEURS": "coronavirus", // "crirus"
-    "KOEFD": "Covid",
-    "KOEFD/1-9": "Covid-19",
-
     // -- Foreign languages ----------------------------------------------------
 
     // It's hard to be phonetically accurate all the time when you're writing
@@ -3888,6 +3819,75 @@
     "KWRE": "yeah",
     "KWR*E": "ye",
     "KWRES": "yes",
+
+    // -- Vocabulary -----------------------------------------------------------
+
+    // Missing words
+    "ART/SEU/TPART/SEU": "artsy-fartsy",
+    "TKO/TKO": "dodo",
+    "TKOE/TKOE": "dodo",
+    "TKO*PB": "don", // - * = "done"; prepend KPA for "Don"
+    "TKO*U": "Dow",  // - * = "do you"
+    "TKREBG": "dreck",
+    "AOEF": "eve", // overrides "Eve" [1]
+    "KEPB": "ken", // + * = "Ken"
+    "HRAO*EUT": "lithe",  // give up "lite"
+    "TPRAEUFL": "phrasal",
+    "WAOERG": "Uighur",   // use W*R for "we're"
+    "STOLD": "stolid",    // cf. SOL/EUD "solid"
+    "STOL/EUD": "stolid", // cf. SOLD    "solid"
+    "SR*EUZ": "viz.",     // - * = "advise"
+    "W*URT": "wuther",    // "Wuthering Heights"
+    /*1*/ "AO*EF": "Eve", // use A*EF for "eave":
+                          // AOEF  "eve"  AEF  "avenue"
+                          // AO*EF "Eve"  A*EF "eave"
+
+    "TPREUFL": "frivol",
+    "TPREUFLS": "frivolous",
+    "TPREUFLT": "frivolity",
+    "TPREU/SROLT": "frivolity",
+
+    "PAOULS/TPHEUPLT": "pusillanimity",
+    "PAOUS/HRAPB/PHOUS": "pusillanimous",
+    "PAOUS/HRAPB/PHOULS": "pusillanimously",
+
+    "PAOU/TREFPBT": "putrescent", // cf. PAOU/TREUD "putrid"
+    "PAOUT/REFPBT": "putrescent", // cf. PAOUT/REUD "putrid"
+    "PAOU/TREFPBS": "putrescence",
+    "PAOUT/REFPBS": "putrescence",
+
+    "SPAPBLG": "spangle",
+    "SPAPBG/-L": "spangle",
+    "SPAPBG/-LD": "spangled",
+    "SPAPBG/-LG": "spangling",
+
+    "HUFRP/TEU": "Humpty",
+    "TKUFRP/TEU": "Dumpty",
+    "HUFRPT": "Humpty",
+    "TKUFRPT": "Dumpty",
+    "TKHUFRPT": "Humpty Dumpty",
+
+    // -- Topics ---------------------------------------------------------------
+
+    // US political parties
+    "RUP": "Republican",
+    "RE/PUBL/KAPB": "republican", // "republican with a small r"
+                                  // is less common and doesn't need a brief
+    "TK*EPL": "Dem", // cf. TKEPL "dem" ("dem big bucks"); overrides {demi^} [1]
+    "TKPHAT": "democrat",
+    "TKPHABG": "democratic",
+    "TKPHALG": "democratically",
+    "TKPHA*T": "Democrat",
+    "TKPHA*BG": "Democratic",
+    "TKPHOERBGS": "democracy", // try to squeeze in all the sounds: "dmokrsy"
+    "TKPHOBGS": "democracy",   // shortcut ("dmox")
+    /*1*/ "TKPHEU": "{demi^}", // consistent with SPHEU {semi^}
+
+    // Covid-19
+    "KROEPB/SRAOEURS": "coronavirus",
+    "KRAOEURS": "coronavirus", // "crirus"
+    "KOEFD": "Covid",
+    "KOEFD/1-9": "Covid-19",
 
     // -- Ologies and ologists -------------------------------------------------
 
