@@ -271,6 +271,7 @@ for pattern in patterns:
 
 
 remaps = {
+    # Remap overridden words
     "EUD":    "idea",
     "EULD":   "ideal",
     "HREULD": "ideally",
@@ -284,6 +285,10 @@ remaps = {
     "WHER":   "whether",
     "WHERT":  "whether",
     "WH*ERT": "whether",
+
+    # Remap related words for consistency
+    "WHRELS": "elsewhere",
+    "SWHR":   "somewhere",
 
     # Ugly compromise: add arbitrary K to words beginning with wh-
     "KWHABG":   "whack",
