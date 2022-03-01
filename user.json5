@@ -3652,8 +3652,7 @@
     "TPHROEF": "philosophy", // "flofy"; odd misstroke for "flow"
     "TPHROFR": "philosopher",
     "TPHROFL": "philosophical",
-    "TPHROFZ": "philosophize", // compare TPHROEFZ "philosophies"
-    // Or use TPHROS/TPEU, TPHROS/TPER, and TPHROS/TPAOEUZ.
+    "TPHROFZ": "philosophize",
 
     "PHRAUBL": "plausible",        // standard
     "PHRAUBLT": "plausibility",
