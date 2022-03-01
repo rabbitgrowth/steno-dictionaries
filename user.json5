@@ -671,9 +671,6 @@
 
     // -- Fix word boundary errors ---------------------------------------------
 
-    "KAOUP/OPB": "coup on", // use KAOU/POPB or KAOUPB for "coupon"
-                            // ("The military launched a coup on Monday")
-
     "EL/PA/SO": "El Paso",
     "PAS/SO": "pass so", // give up "Paso" on its own
 
