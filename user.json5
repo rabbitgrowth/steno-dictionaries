@@ -2239,7 +2239,7 @@
 
     // Stack "to" as TO or O
     "TKPWO": "go to", // use TKPW for "go"
-    "TKPWOG": "going to", // TKPWOS "goes to", TWOEPBT "went to" already work
+    "TKPWOG": "going to",
     "TKPWOBG": "going to be",
     "TKPWOGT": "going to the",
     "TKPWOBGT": "going to be the",
@@ -2247,25 +2247,6 @@
     "STKPWOBG": "is going to be",
     "STKPWOGT": "is going to the",
     "STKPWOBGT": "is going to be the",
-    "THOU": "how to", // give up "how it"
-                      // HOW TO  183508
-                      // HOW IT   46993
-    "THOUB": "how to be",
-    "THOUBT": "how to be the",
-    "TPWO": "about to",
-    "TPWOB": "about to be", // needs T to avoid conflict with "bob"
-    "TOFS": "was to",
-    "TOFBS": "was to be",
-    "TOFBTS": "was to be the", // requires finger twisting
-    "STKWRO": "just to", // from SKWR "just" (custom)
-    "STKWROB": "just to be",
-    "STKWROT": "just to the", // ("just to the right of the...")
-    "STKWROBT": "just to be the",
-    "TOBT": "to be the",
-    "TROEFR": "refer to",
-    "TROEFRS": "refers to",
-    "TWAOEU": "way to", // TWAOEUS is "twice"
-    "TAOUFBD": "used to be",
 
     // "... a"
     "S*LGTS": "as a",
