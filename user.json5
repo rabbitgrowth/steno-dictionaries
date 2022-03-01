@@ -652,6 +652,15 @@
     "SWEUPL/SAOUT": "swimsuit",
     "SWEUPL/SAOUTS": "swimsuits",
 
+    "TKPWOD/PARPBT": "godparent",
+    "TKPWOD/KHAOEULD": "godchild",
+    "TKPWOD/KHEURPB": "godchildren",
+    "TKPWOD/SOPB": "godson",
+    "TKPWOD/TKAURT": "goddaughter", // cf. TKPWOD/TKAUR
+
+    "HAPL/PWRURG": "hamburger",
+    "KHAOES/PWRURG": "cheeseburger",
+
     // Don't glue together
     "SAOE/KWRA": "see ya",
     "SPH/TKAEU": "some day",    // use SPH-D    for "someday"
@@ -3864,20 +3873,9 @@
 
     // -- Topics ---------------------------------------------------------------
 
-    // Godparenthood
-    "TKPWOD/PARPBT": "godparent",
-    "TKPWOD/KHAOEULD": "godchild",
-    "TKPWOD/KHEURPB": "godchildren",
-    "TKPWOD/SOPB": "godson",
-    "TKPWOD/TKAURT": "goddaughter", // cf. TKPWOD/TKAUR
-
     // The superrich
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
-
-    // Burgers
-    "HAPL/PWRURG": "hamburger",
-    "KHAOES/PWRURG": "cheeseburger",
 
     // US political parties
     "RUP": "Republican",
