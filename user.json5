@@ -3094,6 +3094,9 @@
     "KAPL/HRA": "Kamala", // give up "Kamilah"
     "POPL/PAEU/KWROE": "Pompeo", // cf. TKPWAL/HRAEU/KWROE "Galileo"
 
+    "TOPL/KWREU": "Tommy", // cf. SKWREUPL/KWREU "Jimmy"; give up {^tomy}
+    "TOPL/PHEU": "Tom my", // "I gave Tom my number"
+
     // Places
     "KWRAOURP/KWRAPB": "European",
     "TPEUL/PEUPB/KWRO": "Filipino",
