@@ -285,8 +285,23 @@ remaps = {
     "WHERT":  "whether",
     "WH*ERT": "whether",
 
-    # EF "ever" is asymmetrical with TPHEFR "never", but -FR isn't
-    # perfectly symmetrical either. EF/AF "ever after" is nice.
+    # Ugly compromise: add arbitrary K to words beginning with wh-
+    "KWHABG":   "whack",
+    "KWHAEUL":  "whale",
+    "KWHEUF":   "whiff",
+    "KWHEUFL":  "whiffle",
+    "KWHEUPL":  "whim",
+    "KWHEURL":  "whirl",
+    "KWHEUFRP": "whisper",
+    "KWHEULS":  "whistle",
+    "KWHOEL":   "whole",
+    "KWHOR":    "whore",
+    "KWHORL":   "whorl",
+
+    # -FR is used for "may", so I'll need another way to stroke "ever".
+    # EF, which is like EFR "every" shortened, seems like a good choice.
+    # It's inconsistent with TPHEFR "never", but -FR isn't perfectly
+    # consistent either. Also, EF/AF "ever after" is nice.
     "EF":      "ever",
     "EFB":     "ever been",
     "EFBT":    "ever been the",
@@ -303,19 +318,6 @@ remaps = {
     "SKPHEFT": "whichever the",
     "WHOEF":   "whoever",
     "WHOEFT":  "whoever the",
-
-    # Ugly compromise: add arbitrary K to words beginning with wh-
-    "KWHABG":   "whack",
-    "KWHAEUL":  "whale",
-    "KWHEUF":   "whiff",
-    "KWHEUFL":  "whiffle",
-    "KWHEUPL":  "whim",
-    "KWHEURL":  "whirl",
-    "KWHEUFRP": "whisper",
-    "KWHEULS":  "whistle",
-    "KWHOEL":   "whole",
-    "KWHOR":    "whore",
-    "KWHORL":   "whorl",
 
     # Miscellaneous
     "TPAFBG": "fantastic",
