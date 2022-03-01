@@ -4238,11 +4238,7 @@
     // Strokes I don't mind giving up
     "KHROER": "clear", // just use OBG/HRAR for "ocular"
 
-    // -- Cycling through similar-sounding words -------------------------------
-
-    // Phoenix uses R-R to cycle through alternatives,
-    // but that's newline in Plover already,
-    // so move that up to H-F. (Use KW-PL for {?}.)
+    // -- Phoenix-style homophone disambiguation -------------------------------
 
     "AD/H-F": "ad",                 // from "add"
     "ADZ/H-F": "ads",
