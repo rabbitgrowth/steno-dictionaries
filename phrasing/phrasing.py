@@ -227,6 +227,8 @@ word_with_article = {
     "TK":    "did",
     "TPO":   "for", # instead of TP-R
     "TPR":   "from",
+    "H":     "had",
+    "SR":    "have",
     "TPH":   "in",
     "TPHAO": "into",
     "S":     "is",
