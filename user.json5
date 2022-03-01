@@ -3726,6 +3726,9 @@
     "STPHEUPL": "synonym",
     "STPHOPLS": "synonymous", // cf. TPHOPLS "anonymous"
 
+    "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
+    "SO*EUPB/AEUR": "zillionaire",
+
     "URPBD": "understand",  // standard
     "URPBG": "understanding",
     "*URPBD": "understood", // standard
@@ -3872,10 +3875,6 @@
     "KWRES": "yes",
 
     // -- Topics ---------------------------------------------------------------
-
-    // The superrich
-    "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
-    "SO*EUPB/AEUR": "zillionaire",
 
     // US political parties
     "RUP": "Republican",
