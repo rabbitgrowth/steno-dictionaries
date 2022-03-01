@@ -193,6 +193,7 @@
     "STEUFBG": "scientific",    // with STEUFT "scientist"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
     "SEURPB": "sinner",         // with TKEURPB "dinner", WEURPB "winner"
+    "SOPL": "so many",          // with SOFP "so much"; use SPH for "some"
     "SPH*UFPS": "so much as",   // with SHROPBGS  "as long as"
                                 //      SHRO*PBGS "so long as"
                                 //      SPHUFPS   "as much as"
