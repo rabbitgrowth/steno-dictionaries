@@ -173,6 +173,18 @@ I would
   EULD -> ideal
   WOEU
 
+understand
+  EURPBD
+  UFRPBD -> you mind
+  UPBD/STAPB
+  UPBD/STAPBD
+  UPBDZ/STAPB
+  UPBLD/STAPBD
+  UPBS
+  URPBD
+  URPBTD
+  URPD
+
 it'll
   EUT/AOEL
   T*L
