@@ -172,7 +172,6 @@
                                 //   use -Z for "trucks"
     "EUR/SEUFT/PWHREU": "irresistibly",
                                 // with EUR/SEUFT/-BL "irresistible"
-    "HRA*S": "last",            // with HR*ES "lest", HR*EUS "list", HRO*S "lost", HR*US "lust"
     "PH*EUBG": "mechanic",      // with PH*EUBGS "mechanics"; give up "MIC"
     "PHEL/TKROEUPL": "melodrama",  // with TKROEUPL "drama"
     "PHAOEUFB": "might have been", // with PHAEUFB "may have been"
@@ -2496,16 +2495,6 @@
     // Amounts
     "AEULT": "a lot", // the -L in HROELT seems to be completely arbitrary
     "AEUFLT": "a lot of",
-    // Having "a lot of" makes HROFT "lot of" less useful because "lot of"
-    // is almost always preceded by "a". Of course "a whole/awful lot of"
-    // is possible, but "a lot of" is by far the most common:
-    //   A LOT OF     334111
-    //   WHOLE LOT OF   5508
-    //   AWFUL LOT OF   3317
-    // HROFT is more useful as ...
-    "HROFT": "lost", // drop * in HRO*S "lost"
-    "HREUS": "list", // for consistency; give up "Lys-"
-
     "HRAEUL": "a little",
     "HRAEUFL": "a little of",
     "HRAEUBT": "a little bit", // "alibit"
@@ -3573,6 +3562,15 @@
     "SPWROE/SRERT": "introvert", // cf. EBGS/TROE/SRERT "extrovert"
     "EBGS/TROEFRT": "extrovert", // cf. SPWROEFRT       "introvert"
     "KPROEFRT": "extrovert",
+
+    "HRA*S": "last",
+    "HR*ES": "lest",  // standard
+    "HR*EUS": "list", // standard
+    "HRO*S": "lost",  // standard
+    "HR*US": "lust",  // standard
+    "HREFT": "left",  // standard
+    "HROFT": "loft",  // give up "lot of" without "a"
+    "HREUFT": "lift", // standard
 
     "PHEL/KOEL": "melancholy",  // PHEL/KOL/KWREU but with "many" rule
     "PHEL/KOLG": "melancholic", // PHEPBL/KOLG but omit -PB like "melancholy"
