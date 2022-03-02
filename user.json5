@@ -2,6 +2,7 @@
 
     // -- Skeletal briefs ------------------------------------------------------
 
+    "-PL": "am", // use TP-PL for {.}
     "PW-RT": "better", // PWERT is "Bert" and PW*ERT is "berth"
     "PW-RPB": "better than",
     "PW-RD": "birthday",
