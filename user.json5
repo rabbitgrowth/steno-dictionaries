@@ -3761,7 +3761,6 @@
     // PAERL   "parole"    -> "pearl"
     // PROEL   "proposal"  -> "parole"
     // PROELS  "proposals" -> "proposal"
-    //                        "proposals" PROELS/-S
     "PERL": "peril",
     "PAERL": "pearl",
     "PROEL": "parole",
@@ -3787,9 +3786,8 @@
     "SEL/HRAR": "cellular",
 
     // KWRE  "yes"      -> "yeah"
-    // KWR*E "yeah"     -> "ye" (new)
+    // KWR*E "yeah"     -> "ye"
     // KWRES "yes, sir" -> "yes"
-    //                     "yes sir" KWRES/SEUR
     "KWRE": "yeah",
     "KWR*E": "ye",
     "KWRES": "yes",
