@@ -568,11 +568,6 @@
     "TER": "terror",
     "PHEUR": "mirror",
 
-    "KRAOE": "Korea", // consistent with KRAOEPB "Korean"
-                      // use SAOE/OE (custom) for "CEO"
-    "SOUT/KRAOE": "South Korea", // allow dropping *
-    "TPHORT/KRAOE": "North Korea",
-
     "SEUPBD/REL": "Cinderella",
     "PHOEPB/HREUS": "Mona Lisa",
     "PHOET/ROEL": "Motorola",
