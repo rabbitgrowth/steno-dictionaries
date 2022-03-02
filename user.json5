@@ -3712,7 +3712,7 @@
     // -- Group reassignments --------------------------------------------------
 
     // TKPWRAT     "aggregate"
-    // TKPWRAGS    undefined     -> "aggregation"
+    // TKPWRAGS                  -> "aggregation"
     // TKPWRA*EUT  "integrate"
     // TKPWRA*EUGS "aggregation" -> "integration"
     "TKPWRAGS": "aggregation",
@@ -3780,7 +3780,7 @@
     // SEL       "sell"
     // SERL      "seller"
     // KREL      "cell"
-    // KRERL     undefined  -> "cellar"
+    // KRERL                -> "cellar"
     // SEL/HRAR  "cellar"   -> "cellular"
     // KREL/HRAR "cellular"
     "KRERL": "cellar",
