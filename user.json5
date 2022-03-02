@@ -225,6 +225,9 @@
     //                   PWROER  "brother"  -- PHOER "mother"
     //                   PWRO*ER "borrower"    TPAER "father"
 
+    "SRAEUPB": "vain",  // with RAEUPB  "rain" (and "main", "pain", "brain", "train", etc.)
+    "SRA*EUPB": "vein", // with RA*EUPB "rein"
+
     "WAPBD": "wander", // with WOPBD "wonder"; overrides "wand"
     "WAUPBD": "wand",
 
@@ -3765,16 +3768,6 @@
     "PAERL": "pearl",
     "PROEL": "parole",
     "PROELS": "proposal", // PROEFL is "profile"
-
-    // RAEUPB   "rain"
-    // RA*EUPB  "rein"
-    // SRAEUPB  "vein" -> "vain"
-    // SRA*EUPB "vain" -> "vein"
-    "SRAEUPB": "vain", // also consistent with PHAEUPB  "main"
-                       //                      PAEUPB   "pain"
-                       //                      PWRAEUPB "brain"
-                       //                      TRAEUPB  "train" etc.
-    "SRA*EUPB": "vein",
 
     // SEL       "sell"
     // SERL      "seller"
