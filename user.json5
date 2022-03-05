@@ -1139,9 +1139,9 @@
     //   S W   B
     //  *nt-   -nt
     "SPWET": "indebt",
-    "SPWAOED": "indeed", // beats TPHAOEPBD imo
-    "SPW*EPBT": "indent", // - * = "intent" (default to int-)
-    "SPWEBGS": "index", // beats TKEUPBGS imo
+    "SPWAOED": "indeed",
+    "SPW*EPBT": "indent", // - * = "intent"
+    "SPWEBGS": "index",
     "SPWAOEUT": "indict",
     "SPWAOEUPLT": "indictment",
     "SPWAOE": "indie",
