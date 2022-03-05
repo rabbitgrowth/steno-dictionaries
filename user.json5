@@ -3574,6 +3574,15 @@
     "PHEL/KOEL": "melancholy",  // PHEL/KOL/KWREU but with "many" rule
     "PHEL/KOLG": "melancholic", // PHEPBL/KOLG but omit -PB like "melancholy"
 
+    "PHOEURPB": "millionaire",
+    "PWOEURPB": "billionaire",
+    "TROEURPB": "trillionaire",
+    "SO*EURPB": "zillionaire", // use SAOERPB for "senior"
+    "PHOEUPB/AEUR": "millionaire", // standard
+    "PWOEUPB/AEUR": "billionaire", // standard
+    "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
+    "SO*EUPB/AEUR": "zillionaire",
+
     "P-F": "perfect",    // standard
     "P-FL": "perfectly", // standard
     "P-FGS": "perfection",
@@ -3652,9 +3661,6 @@
 
     "STPHEUPL": "synonym",
     "STPHOPLS": "synonymous", // cf. TPHOPLS "anonymous"
-
-    "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
-    "SO*EUPB/AEUR": "zillionaire",
 
     "URPBD": "understand",  // standard
     "URPBG": "understanding",
