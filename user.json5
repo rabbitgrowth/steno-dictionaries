@@ -1153,6 +1153,7 @@
     "SPWUBGT": "induct",
     "SPWUBGS": "induction", // use STAR/PWUBGS for "Starbucks"
     "SPWULG": "indulge",
+    "SPWULGS": "indulgence", // use -Z for "indulges"
 
     "SPWEFR": "endeavor",
     "SPWEFRBG": "endemic",
