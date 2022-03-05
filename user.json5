@@ -1151,7 +1151,7 @@
     "SPWAOR": "indoor",
     "SPWAOUS": "induce",
     "SPWUBGT": "induct",
-    "SPWUBGS": "induction", // use STAR/PWUBGS for "Starbucks"
+    "SPWUBGS": "induction", // use STAR/PWUBGZ for "Starbucks"
     "SPWULG": "indulge",
     "SPWULGS": "indulgence", // use -Z for "indulges"
 
