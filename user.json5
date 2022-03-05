@@ -1135,7 +1135,7 @@
     // SPW for [aeiou]n[dt]-
     // Why limit yourself to int- and ent-?
     // SPW can be thought of as a mirror image of -PBT:
-    //     P   P T
+    //   S P   P T
     //   S W   B
     //  *nt-   -nt
     "SPWET": "indebt",
