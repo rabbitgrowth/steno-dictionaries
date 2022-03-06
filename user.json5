@@ -252,6 +252,7 @@
     "PWRAOD": "brood", // use PWROD for "broad"
     "KHRERPBD": "calendar",
     "KAUFT": "caste",
+    "KREUFPLS": "Christmas",
     "KHRAPBD/STEUPB": "clandestine",
     "KHRAEURPBT": "clarinet",
     "KOFPB/TKAPBT": "confidant",
@@ -3096,8 +3097,6 @@
     "PRAOU": "Peru",
     "PRAOUFPB": "Peruvian",
     "RUGS": "Russian", // use -Z for "rugs"
-
-    "KREUFPLS": "Christmas",
 
     // -- Capitalization -------------------------------------------------------
 
