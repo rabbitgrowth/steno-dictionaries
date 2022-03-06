@@ -3442,8 +3442,9 @@
     "TKAPT": "adapt",  // by default just "dapt" - meant to be used with {a^}?
     "TKAEPT": "adept", // A easily folded in; TKEPT is "department"
 
-    "AFRD": "afterward",  // use STPORD (custom) for "afford"
-    "PWAURD": "backward", // cf. TPAURD "forward"
+    "AFRD": "afterward", // use STPORD (custom) for "afford"
+    "PWAURD": "backward",
+    "TPAURD": "forward", // standard
     "TAURD": "toward",
 
     "TKPWREF": "aggressive", // use TKPWRAO*EF for "grieve" (TKPWRAOEF "grief" + *)
