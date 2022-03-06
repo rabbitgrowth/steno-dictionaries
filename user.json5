@@ -82,7 +82,7 @@
     "PW-FTS": "before its",
     "TPOTS": "for its",
     "TPR-TS": "from its",
-    "SR-TS": "have its", // give up "very truly yours{,}"
+    "SR-TS": "have its", // give up "very truly yours,"
     "TP-TS": "if its",
     "TPH-TS": "in its", // use TPHOEUTS for "notice"
     "TPHAOTS": "into its",
@@ -3092,7 +3092,7 @@
     "TPEUL/PEUPB/KWRO": "Filipino",
     "HRAS/SRAEUGS": "Las Vegas",
     "HROS/APBLGS": "Los Angeles",
-    "TPHORBG": "New York", // misstroke for "no{,}"; cf. TPHORBG/TAOEUPLS "New York Times"
+    "TPHORBG": "New York", // misstroke for "no,"; cf. TPHORBG/TAOEUPLS "New York Times"
     "PRAOU": "Peru",
     "PRAOUFPB": "Peruvian",
     "RUGS": "Russian", // use -Z for "rugs"
