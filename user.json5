@@ -662,10 +662,12 @@
 
     // Don't glue together
     "SAOE/KWRA": "see ya",
-    "SPH/TKAEU": "some day",    // use SPH-D    for "someday"
-    "SPH/TAOEUPL": "some time", // use STAOEUPL for "sometime"
-    "SPH/WAEU": "some way",     // use SPH/WA*EU ("some" + {^way}) for "someway"
     "STEPG/STOEPB": "stepping stone",
+
+    "SPH/TKAEU": "some day",     // use SPH-D    for "someday"
+    "SPH/PHRAEUS": "some place", // use SPHRAEUS for "someplace"
+    "SPH/TAOEUPL": "some time",  // use STAOEUPL for "sometime"
+    "SPH/WAEU": "some way",      // use SPH/WA*EU ("some" + {^way}) for "someway"
 
     // -- Fix word boundary errors ---------------------------------------------
 
