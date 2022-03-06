@@ -2638,6 +2638,7 @@
 
     "A/TPHALGZ": "analogies",
     "A/TPHOPL/HREUZ": "anomalies",
+    "AZ/TEBGZ": "Aztecs",
     "KAPL/RAZ": "cameras",
     "KAT/KOEPLZ": "catacombs",
     "TKOPL/TPHOEZ": "dominoes",
@@ -2652,8 +2653,6 @@
     "TAP/STREUZ": "tapestries",
     "SRABG/SEUPBZ": "vaccines",
     "WEUPBD/TPAULZ": "windfalls",
-
-    "AZ/TEBGZ": "Aztecs",
 
     "AO*EZ": "{^ies}", // plural of AO*E {^ie}; use AOEZ for {^ese}
 
