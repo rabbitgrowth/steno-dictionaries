@@ -3563,6 +3563,11 @@
     "SPWAOEFPBT": "indecent",
     "SPWAOEFPBS": "indecency",
 
+    "STKERT": "desert", // verb; swap with "dessert"
+    "TKEFRT": "desert", // noun
+    "STK*ERT": "dessert",
+    "STKERGS": "desertion",
+
     "TKPHEUS": "dismiss", // dis/mis -> dmis; cf. TKPHEUFD "dismissed"
     "TKPHEUF": "dismissive",
     "TKPHEUFL": "dismissal",
@@ -4077,23 +4082,6 @@
     "PW-DZ": "besides", // standard
     "TK-D": "decide",   // give up {^ded}
     "TK-DZ": "decides", // by default "decide"
-
-    // Swap base words to simplify inflections
-    // Consider these standard strokes:
-    //   STK*ERT "desert"  -> STK*ERTD "deserted"
-    //   STKERT  "dessert" -> STKERTD  "desserted" (not a word)
-    // STKERTD, which is easier to stroke, is wasted on
-    // a non-word. Fix this by swapping the base words:
-    "STKERT": "desert",   // [1]
-    "STK*ERT": "dessert", // mnemonic: add * for an extra s
-    /*1*/ // This leads to a nice side effect:
-          "STKERGS": "desertion",       // which frees up ...
-          "TKE/SERGS": "desegregation", // consistent with SERGS "segregation"
-    // Only swap when it isn't obvious which word should be starred.
-    // For example, don't swap "vile" (unstarred) and "vial" (starred)
-    // even though "vials" is a word and "viles" is not, because there
-    // are good reasons for "vial" to be the starred one (make "vile"
-    // consistent with "file", etc.; "vial" is less common; etc.).
 
     // Double to join with "and"
     "TKPWEPB/TKPWEPB": "again and again",
