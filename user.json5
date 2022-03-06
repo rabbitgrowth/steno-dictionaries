@@ -479,6 +479,68 @@
           "PUBLG": "public", // cf. RUBLG "republic"
           "PUB/HREUFT": "publicity",
 
+    // -- -ore -----------------------------------------------------------------
+
+    // In Plover, -ore can be OR:
+    //   PWOR   "bore"
+    //   KHOR   "chore"
+    //   TKPWOR "gore"
+    //   HROR   "lore"
+    //   PHOR   "more"
+    //   SKOR   "score"
+    //   SHOR   "shore"
+    //   SOR    "sore"
+    //   STOR   "store"
+    //   WHOR   "whore"
+    //   WOR    "wore"
+    // O*R:
+    //   POR  "pour"   TOR  "tour"
+    //   PO*R "pore"   TO*R "tore"
+    //   POUR "power"  TOUR "tower"
+    // OER:
+    //   STPHOR  "senator"
+    //   STPHO*R "Senator"
+    //   STPHOER "snore"
+    // or O*ER:
+    //  (TP-R   "for")
+    //   TPOR   "for"    OR "or"
+    //   TPO*R  "for"    O*R {^or}
+    //   TPOER  {fore^}  OER "other"
+    //   TPO*ER "fore"   O*ER "ore"
+    // Make -ore more consistently OR.
+
+    // Plover usually uses OUR for -our, whether it's pronounced /ɔːr/ or /aʊər/:
+    //   OUR    "our"
+    //   TPOUR  "four"
+    //   HOUR   "hour"
+    //   SOUR   "sour"
+    //   KWROUR "your"
+    // and O*UR for -ower /aʊər/:
+    //   KO*UR  "cower"
+    //   SHO*UR "shower"
+    // although the * can be dropped:
+    //   KOUR  "cower"
+    //   SHOUR "shower"
+    // The pattern holds when -our and -ower form homophones:
+    //   TPHROUR "flour"  TPHRO*UR "flower"
+    // So for consistency, in three-way conflicts between -ore, -our, and -ower,
+    // use OUR for -our and O*UR for -ower.
+    "POR": "pore",
+    "POUR": "pour",
+    "PO*UR": "power", // standard
+    "TOR": "tore",
+    "TOUR": "tour",
+    "TO*UR": "tower", // standard
+
+    "STPHOR": "snore", // use STPHART for "senator"
+    "SPOR": "spore",   // use SPO*RT  for "support"
+
+    "TPOR": "fore", // use TPO for "for" (see phrasing)
+    "TPO*R": "{fore^}",
+
+    "KWRO*R": "yore",      // give up "I know, right?"
+    "-F/KWROR": "of yore", // "yore" cannot be preceded by any other word
+
     // -- -y -------------------------------------------------------------------
 
     // There seem to be unwritten rules in Plover governing how to
@@ -954,7 +1016,7 @@
     "PHRURD": "murderer",
     "RORP": "reporter", // embrace ORP
     "SHRORT": "shorter",
-    "SPROR": "supporter",
+    "SPRO*RT": "supporter",
     "WRAOERD": "weirder",
 
     // Fold in -L for -ly
@@ -4018,16 +4080,12 @@
 
     // Swap base words to simplify inflections
     // Consider these standard strokes:
-    //   STK*ERT  "desert"  -> STK*ERTD  "deserted"
-    //   STKERT   "dessert" -> STKERTD   "desserted" (not a word)
-    //   TPHRO*UR "flower"  -> TPHRO*URZ "flowers"
-    //   TPHROUR  "flour"   -> TPHROURZ  "flours"    (not a word)
-    // STKERTD and TPHROURZ, which are easier to stroke, are wasted on
-    // non-words. Fix this by swapping the base words:
+    //   STK*ERT "desert"  -> STK*ERTD "deserted"
+    //   STKERT  "dessert" -> STKERTD  "desserted" (not a word)
+    // STKERTD, which is easier to stroke, is wasted on
+    // a non-word. Fix this by swapping the base words:
     "STKERT": "desert",   // [1]
     "STK*ERT": "dessert", // mnemonic: add * for an extra s
-    "TPHROUR": "flower",
-    "TPHRO*UR":  "flour",
     /*1*/ // This leads to a nice side effect:
           "STKERGS": "desertion",       // which frees up ...
           "TKE/SERGS": "desegregation", // consistent with SERGS "segregation"
@@ -4072,6 +4130,7 @@
     // Add * to insert schwa or weak vowel
     // Precedents: TKRAOEUF "drive" -> TKRAO*EUF "derive"
     //             TKRAOEUD "dried" -> TKRAO*EUD "deride"
+    //             SPORT    "sport" -> SPO*RT    "support"
     // (but KHRAPZ "claps" -> KHRAPS "collapse")
     "KRO*RPB": "coroner",   // from "corner"; frees up KOERPB for "corny" [1]
     "TPHO*ETS": "notice",   // from "notes"; or use TPHOEUTS
