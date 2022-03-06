@@ -75,7 +75,6 @@
     /*4*/ "PHEFRPBDZ": "merchandise",
 
     "-TS": "its",
-    "*TS": "itself",
     "PW-TS": "about its",
     "AULTS": "all its",
     "SKP-TS": "and its", // give up {^s and the}
@@ -3416,15 +3415,21 @@
 
     "WUZ": "{#}", // JUJ/(no-op)/*MT -> judgement
 
-    // -- Basics ---------------------------------------------------------------
+    // -- Reflexive pronouns ---------------------------------------------------
 
-    // Reflexive pronouns
+    "PHEUFL": "myself", // overrides "missile" [1]
+    "KWROUFRL": "yourself",
+    "KWROUFRLZ": "yourselves", // vs KWRO*URSZ
+    "HEUPLS": "himself", // standard
+    "HEFRL": "herself",
+    "*TS": "itself",
+    "THEPLS": "themselves", // standard
+    "OUFRLZ": "ourselves",
     "W*UPBS": "oneself", // use WUPB/AES for "one's"
-    "O*URS": "ourselves",
-    "TH*EPLS": "themself", // - * = "themselves"
-    "THAO*EUS": "thyself",
-    "S*EFL": "{^self}", // swap with "self"
-    "SEFL": "self",
+    /*1*/ "PHEULS": "missile", // use -Z for "mills"
+
+    "SEFL": "self", // swap with {^self}
+    "S*EFL": "{^self}",
 
     // -- Word families --------------------------------------------------------
 
