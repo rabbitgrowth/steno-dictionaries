@@ -755,6 +755,16 @@
     "KRO*EUPT": "{crypto^}",
     "KROEUPT": "crypto",
 
+    "SPWR": "{inter^}", // standard
+    "SPWR/TPAOER": "interfere",
+    "SPWR/TPAOERZ": "interferes",
+    "SPWR/TPAOERG": "interfering",
+    "SPWR/TPAOERD": "interfered",
+    "SPWR/TPAOERPBS": "interference",
+    "SPWR/PHAOED": "intermediate",
+    "SPWR/SRAOEPB": "intervene",    // alternative to TWAOEPB (custom)
+    "SPWR/SREPBGS": "intervention", // alternative to TWEPBGS
+
     // Suffixes
     "ABG": "{^atic}", // - cf. TKRABG "dramatic", PRO*B/ABG "problematic"
                       // - e.g., KROEPL/ABG "chromatic" ("chrome" + {^atic})
@@ -798,23 +808,6 @@
     // that doesn't mean I have to use -RPBG for "range". Granted, "round"
     // and "around" are much more closely related than "range" and "orange".
     "TPAOEUR/KRABG/-R": "firecracker",
-
-    // Use nicer prefixes for multistroke words
-    "SPWR/TPAOER": "interfere", // prefer SPWR to EUPBT
-    "SPWR/TPAOERZ": "interferes",
-    "SPWR/TPAOERG": "interfering",
-    "SPWR/TPAOERD": "interfered",
-    "SPWR/TPAOERPBS": "interference",
-    "SPWR/PHAOED": "intermediate",
-    "SPWR/SRAOEPB": "intervene",    // alternative to TWAOEPB (custom)
-    "SPWR/SREPBGS": "intervention", // alternative to TWEPBGS
-    // There's something ugly about using {inter^} for "interfere",
-    // because "fere" is not a word - you aren't tacking "inter-" onto
-    // "fere". In fact, TPAOER is "fear", so SPWR/TPAOER feels a bit
-    // like it should be "interfear". However, Plover often allows
-    // using prefixes even when the part after the prefix is not a word.
-    // For example, although "ceal" is not a word, for "conceal" Plover
-    // allows KAUPB/SAOEL (in addition to KOPB/SAOEL).
 
     // -- Folding in -----------------------------------------------------------
 
