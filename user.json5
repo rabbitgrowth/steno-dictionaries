@@ -2910,10 +2910,6 @@
     // Precedents: PHAEUG "making", HRAOG "looking"
     "AEUG": "aching",
     "A/TAG": "attacking",
-    "PWAEUG": "baking", // come back for -G for "baying"
-                        // ("a jackal baying at the moon")
-                        // BAKING  16613
-                        // BAYING    242
     "KHOEG": "choking",
     "KHREUG": "clicking",
     "TPAEUG": "faking",
@@ -2926,16 +2922,9 @@
     "PAG": "packing",
     "PARG": "parking", // use PA*ERG for "paring" (PA*ER is "pare")
     "POEG": "poking",
-    "PRO/SROEG": "provoking",
-    "RAEUG": "raking", // come back for -G for "raying"
-                       // RAKING  1302
-                       // RAYING     7 (basically a non-word)
     "ROG": "rocking",
     "SHOG": "shocking",
-    "SHRAO*EG": "shrieking",
     "WORG": "working", // alternative to WOG
-
-    "TPOEUG": "focusing", // FOIK "focus" -> FOIKING "focusing"
 
     // -BGD as shortcut for -BGTD
     // Precedents: ABGD "acted", KREBGD "corrected", PRE/TKEUBGD "predicted"
