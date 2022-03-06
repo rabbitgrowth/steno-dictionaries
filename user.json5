@@ -3443,9 +3443,8 @@
     "TKAEPT": "adept", // A easily folded in; TKEPT is "department"
 
     "AFRD": "afterward",  // use STPORD (custom) for "afford"
-    "PWAURD": "backward", // cf. TPAURD "forward"; frees up PWA*RD for "barred" [1]
+    "PWAURD": "backward", // cf. TPAURD "forward"
     "TAURD": "toward",
-    /*1*/ "PWA*RD": "barred",
 
     "TKPWREF": "aggressive", // use TKPWRAO*EF for "grieve" (TKPWRAOEF "grief" + *)
     "TKPWREGS": "aggression",
