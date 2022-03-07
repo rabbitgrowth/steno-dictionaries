@@ -154,6 +154,13 @@ ideal -> EULD
   KWR-L -> I will
   KWR-LD -> I would
 
+identity
+  AOEU/TKEPBT/EUT
+  AOEU/TKEPBT/TEU
+  AOEUD/TEU
+  AOEUTD -> I'd the
+  KWRAOEUD/TEU
+
 you've
   AOUF
   KWRAO*UF
@@ -495,6 +502,9 @@ fission
 
 as fuck
   STPUBG -> if you can
+
+terminal deoxynucleotidyl transferase
+  T*TD -> it'd the
 
 tablespoon
   T-BS -> it said
@@ -881,6 +891,11 @@ who'll
   WHO*L
   WHO/AOEL
   WHOL -> who will
+
+who has
+  WHO*Z -> who's
+  WHO/HRAS
+  WHRO/HRAS
 
 who say
   WHOBZ -> who has been

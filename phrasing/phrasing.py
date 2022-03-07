@@ -85,8 +85,8 @@ been = {"-B":  "been"}
 be_forms = is_ | are | was | were # exclude "am"
 
 have = {"-F": "have", "*F": "^'ve"}
-has  = {"-Z": "has"} # is    -> ^'s
-had  = {"-D": "had"} # would -> ^'d
+has  = {"-Z": "has",  "*Z": "^'s"}
+had  = {"-D": "had",  "*D": "^'d"}
 
 have_forms = have | has | had
 
@@ -160,7 +160,6 @@ modal_verb = {
     "-FRT":  "might",
     "-FRTS": "must",
     "*L":    "^'ll",
-    "*D":    "^'d", # could be short for "had" too, so use *D instead of *LD
 }
 
 negative = {
