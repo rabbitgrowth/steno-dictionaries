@@ -1671,21 +1671,17 @@
     "SPWOEUR": "interior",
     "KPOEUR": "exterior",
     "EBGS/TOEUR": "exterior",
-    "APB/TOEUR": "anterior", // should probably be APBT/OEUR according to the
-                             // greedy principle, but I like the consistency of
-                             // the second stroke always being TOEUR
+    "APB/TOEUR": "anterior",
     "POS/TOEUR": "posterior",
     "UL/TOEUR": "ulterior",
     "ULT/OEUR": "ulterior", // prevents UL "you will" (custom) from flashing past
     /*1*/ "TPO*EUR": "foyer",
 
-    // OEUD for -dio, -dia (and other vaguely media-related words)
+    // OEUD for -dio and -dia
     // Precedents: O*EUD   "audio" (- * = {^oid})
     //             SRO*EUD "video" (- * = "void")
     //             ROEUD   "radio" (+ * = {radio^})
     //             PHO*EUD "media" (* is droppable)
-    // OEU is just a general wildcard, but these words feel like
-    // a family, probably because they all have to do with media.
     "SOEUPB": "cinema",
     "PHOEUD": "media",
     "STOEUD": "studio", // overrides "studied" [1]
@@ -1695,12 +1691,6 @@
     // The distinction between "machine" (no star) and "mountain" (starred)
     // has always felt a bit arbitrary, and my far-fetched mnemonic of
     // picturing the * as a shiny gemstone in a mountain cave didn't help.
-    // Using OUPB for -ountain feels right phonetically, especially if you
-    // pronounce it with a glottal "t". The trade-off is not being able to
-    // use OUPB for -ound, but I think I like
-    //   TPOUPBD "found"   PHOUPB "mountain"
-    // better than
-    //   TPOUPB  "found"   PH*PB  "mountain"
     "TPOUPB": "fountain", // use TPOUPBD or TP-D (custom) for "found"
     "PHOUPB": "mountain", // use PHO*EPB for "mown"
 
