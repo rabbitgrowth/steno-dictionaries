@@ -1605,22 +1605,13 @@
     "WROEBG": "revoke",
     "WROELT": "revolt",
     "WROLT": "revolt",
+    "WROF": "revolve", // use WHROF (custom) for "whereof"
     // "review" would be WRAOU, but that's "withdrew" already.
     //   WRAU  "withdraw"
     //   WRAOU "withdrew"
     // This pair is too nice to override.
     "WRAOE": "review", // cf. RE/SRAOE "review"
                        // feels ugly though, so maybe just use RE/SRAOU
-    // "revolve" would be WROF, but that's "whereof" already.
-    // So include the /l/ in "revolve", even though adding -L
-    // is usually optional in other -olve words:
-    //   SROF     or SROFL     "involve"
-    //   AOE/SROF or AOE/SROFL "evolve"
-    //   SOF      or SOFL      "solve"
-    // There are precedents for not allowing this flexibility:
-    //   ROF       "resolve" (ROFL is "Rolf"; "ROFL" is undefined)
-    //   TKE/SROFL "devolve" (TKE/SROF is undefined)
-    "WROFL": "revolve",
 
     // R for re- with inversion
     // Precedent: PRAOET "repeat"
@@ -2488,7 +2479,7 @@
     "SWUPBLS": "someone else", // standard
     "SPHRAEULS": "someplace else",
     "S-LGS": "something else",
-    "SWR-LS": "somewhere else",
+    "SWHR-LS": "somewhere else",
 
     // "... of"
     "TPRAEFD": "afraid of", // misstroke for "afraid"
@@ -3716,6 +3707,13 @@
 
     "STPHEUPL": "synonym",
     "STPHOPLS": "synonymous", // cf. TPHOPLS "anonymous"
+
+    "WHR": "where", // see phrasing
+    "WHRELS": "elsewhere",
+    "SWHR": "somewhere",
+    "WHRAS": "whereas",
+    "WHR-B": "whereby",
+    "WHROF": "whereof",
 
     "URPBD": "understand",  // standard
     "URPBG": "understanding",
