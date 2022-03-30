@@ -1476,8 +1476,10 @@
                          // SPRES  "suppress"
                          // KPRES  "compress"
                          // SKPRES "express"
+    "SKPREFD": "expressed",
     "SKPREFG": "expressing",
     "SKPREGS": "expression",
+    "SKPREF": "expressive",
 
     // SKH for exch-
     "SKHAEUPBG": "exchange", // give up "change is"
