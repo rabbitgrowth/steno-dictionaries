@@ -33,7 +33,7 @@
     "TKPW-D": "good", // give up "good day"
     "TKPW-T": "great",
     "TKPW-RT": "greater",
-    "TKPW-LT": "greatly", // use TKPWOEULT (custom) for "guilty"
+    "TKPW-LT": "greatly", // use TKPWOEULT for "guilty" (custom)
     "TKPW-P": "group",
     "H-P": "hypothesis", // just fingerspell "HP"
     "H-PZ": "hypotheses",
@@ -316,7 +316,7 @@
     "TAOERPBG": "teenager",
     "T*EPBT": "tenth", // use EPBT/TEU for "entity"
     "T*EPBTS": "tenths",
-    "TOEPL": "tome", // use T-RPL (custom) for "tomorrow"
+    "TOEPL": "tome", // use T-RPL for "tomorrow" (custom)
     "TRAOEFPB": "treason",
     "TRAOEFPBS": "treasonous",
     "SRAPBL/TAOEUPB": "valentine",
@@ -382,7 +382,7 @@
     "KURPB": "curtain",
     "TKHRAOEUPB": "deadline", // use PHEUD/HRAOEUPB for "midline"
     "TKAOEFT": "defeat", // use TKEFBGT for "defect"
-    "TKOPBT": "donate", // use TKUPT (custom) for "doesn't"
+    "TKOPBT": "donate", // use TKUPT for "doesn't" (custom)
     "TKRAPB": "dragon",
     "TKAOUBS": "dubious",
     "AOELT": "elite",
@@ -591,7 +591,7 @@
     "PWAOUL": "bully", // overrides "boule" [1]
     "PWAOUPB": "bunny",
     "KAOURL": "curly",
-    "KAOURPBS": "currency", // use KRURPBS (custom) for "occurrence"
+    "KAOURPBS": "currency", // use KRURPBS for "occurrence" (custom)
     "HAOURPBG": "hungry",
     "SAOURL": "surly",
     /*1*/ "PWAO*UL": "boule",
@@ -800,7 +800,7 @@
     "-PB": "{^en}",    // use APB for "an"
     "-PBD": "{^ened}", // use SKP for "and"
     "HRAEUD/-PB": "laden",
-    "HRAOEUBG/-PB": "lichen", // use HR-BG/-PB (custom) for "liken"
+    "HRAOEUBG/-PB": "lichen", // use HR-BG/-PB for "liken" (custom)
 
     "-R": "{^er}",    // use R for "are"
     "-RL": "{^erly}", // use RAUL for "recall"
@@ -829,7 +829,7 @@
     "HRAEPBLG": "allege",
     "PHAEPBD": "amend",
     "RAEFT": "arrest",
-    "SAEPBD": "ascend", // use SKREPBD (custom) for "scened"
+    "SAEPBD": "ascend", // use SKREPBD for "scened" (custom)
     "SAEFRBL": "assemble",
     "SAEPL/-BL": "assemble",
     "SAEPL/PWHRER": "assembler",
@@ -1167,7 +1167,7 @@
     "STUFRBL": "stumble",
 
     // -FRL for -məl
-    "AFRL": "animal", // use SRAOEUFL (custom) for "arrival"
+    "AFRL": "animal", // use SRAOEUFL for "arrival" (custom)
     "KAFRL": "camel",
     "AOE/TPHAFRL": "enamel",
     "PRAOEUFRL": "primal",
@@ -1420,7 +1420,7 @@
     "STKHREBGT": "deselect",
     "STKPRAT": "desperate",
     "STKPRALT": "desperately",
-    "STKPRAEUGS": "desperation", // use STRAEUGS (custom) for "administration"
+    "STKPRAEUGS": "desperation", // use STRAEUGS for "administration" (custom)
     "STKPOPBS": "despondency",
     "STKPOPBT": "despondent",
 
@@ -1691,7 +1691,7 @@
     // The distinction between "machine" (no star) and "mountain" (starred)
     // has always felt a bit arbitrary, and my far-fetched mnemonic of
     // picturing the * as a shiny gemstone in a mountain cave didn't help.
-    "TPOUPB": "fountain", // use TPOUPBD or TP-D (custom) for "found"
+    "TPOUPB": "fountain", // use TPOUPBD or TP-D for "found" (custom)
     "PHOUPB": "mountain", // use PHO*EPB for "mown"
 
     // OFT for -osity
@@ -1846,7 +1846,7 @@
     "KHROERB": "closure", // and get EPB/KHROERB "enclosure" for free
     "KPOERB": "composure",
     "AOE/RAEURB": "erasure",
-    "TP*EURB": "fissure", // use TP-RB (custom) for "finish"
+    "TP*EURB": "fissure", // use TP-RB for "finish" (custom)
 
     // -RBL for -bral and -RPBL for -nral
                             // Plover consistently omits -R:
@@ -2121,7 +2121,7 @@
     "PWUPBLD": "bundled",   // by default also "bundle"
     "PW*UPBLG": "bundling", // - * = "budge"
     "TKWEUPBL": "dwindle",
-    "TPOPBL": "fondle",    // use TPAL (custom) for "phenomenal"
+    "TPOPBL": "fondle",    // use TPAL for "phenomenal" (custom)
     "TPOPBLG": "fondling", // by default "okay{.}"
     "KEUPBL": "kindle",
     "SWEUPBL": "swindle",
@@ -2490,7 +2490,7 @@
     "KPHUP": "come up",
     "TKPWUP": "go up",      // instead of "give up"
     "TKPWRUP": "grow up",   // instead of "grown up"
-    "TKPWRAOUP": "grew up", // use TKPW-P (custom) for "group"
+    "TKPWRAOUP": "grew up", // use TKPW-P for "group" (custom)
     "PHUP": "make up",
     "PH*UP": "makeup",
     "STUP": "set up",       // by default "setup"
@@ -2501,7 +2501,7 @@
 
     // "... have no idea"
     "KWR-FPBD": "I have no idea", // cf. EUFPBD
-    "UFPBD": "you have no idea",  // use UFD (custom) for "you find"
+    "UFPBD": "you have no idea",  // use UFD for "you find" (custom)
     "W-FPBD": "we have no idea",
     "THEFPBD": "they have no idea",
 
@@ -2646,7 +2646,7 @@
 
     "PWROUZ": "brows",    // vs "browse"
     "AOEUZ": "eyes",      // vs "ice"; overrides {^ize} [1]
-    "TPHREBGZ": "flecks", // vs "flex"; use TPHRETS (custom) for "reflects"
+    "TPHREBGZ": "flecks", // vs "flex"; use TPHRETS for "reflects" (custom)
     "PAUZ": "paws",       // vs "pause"
     "PRAEUZ": "prays",    // vs "praise"
     /*1*/ "EUZ": "{^ize}",
@@ -2915,7 +2915,7 @@
     "TR-BGT": "attributing", // give up "trial court"
     "PW*PBD": "buttoned",    // use PWA*PBD/AEUD for "Band-Aid"
     "PW*PBG": "buttoning",   // give up "!!Con" (tech conference Mirabai captions for)
-    "KOERGS": "coercing",    // use KR-RGS (custom) for "categories"
+    "KOERGS": "coercing",    // use KR-RGS for "categories" (custom)
     "KRAETD": "created",     // use KRET for "credit"
     "TKAPBGS": "dancing",    // use TKEUS/TKWAPBGZ for "disadvantages"
     "TKRETD": "directed",    // give up "indirect credit"
@@ -3030,7 +3030,7 @@
     "SHUFRT": "surest",
     "SWAOEFT": "sweetest",
     "TAUFT": "tallest",
-    "THEUFT": "thickest", // use A*EUT/EUFT (custom) for "atheist"
+    "THEUFT": "thickest", // use A*EUT/EUFT for "atheist" (custom)
     "WAOEFRT": "weirdest",
     "WAOEUFT": "wisest",
     /*1*/ "HAO*EUFT": "heist",
@@ -3237,7 +3237,7 @@
     "SR-PT": "haven't", // overrides "vice president" [3]
     "SHOPT": "shouldn't",
     "WUPT": "wasn't",
-    "WR-PT": "weren't", // use WR-P (custom) for "with respect"
+    "WR-PT": "weren't", // use WR-P for "with respect" (custom)
     "PR-PT": "weren't", // wildly experimental: -RP reflected along vertical axis
     "WOEPT": "won't",
     "WOPT": "wouldn't",
@@ -3320,7 +3320,7 @@
     "KP*EBG": "executive",    // exec
     "TP*EFT": "festival",     // fest
     "HRA*B": "laboratory",    // lab
-    "PO*F": "point of view",  // POV  (use POF (custom) for "positive")
+    "PO*F": "point of view",  // POV  (use POF for "positive" (custom))
     "PO*P": "popular",        // pop
     "PR*EP": "prepare",       // prep
     "PRO*": "professional",   // pro  (alternative to PREPBL)
@@ -3476,7 +3476,7 @@
     "TKAPT": "adapt",  // by default just "dapt" - meant to be used with {a^}?
     "TKAEPT": "adept", // A easily folded in; TKEPT is "department"
 
-    "AFRD": "afterward", // use STPORD (custom) for "afford"
+    "AFRD": "afterward", // use STPORD for "afford" (custom)
     "PWAURD": "backward",
     "TPAURD": "forward", // standard
     "TAURD": "toward",
@@ -3550,7 +3550,7 @@
     "TKPHEUFG": "dismissing",
 
     "ER": "err",       // give up {er^}
-    "*ER": "error",    // use -R (custom) for {^er}
+    "*ER": "error",    // use -R for {^er} (custom)
     "ERPBT": "errant", // but "errand" is ER/APBD since ERPBD is "earned"
 
     "TPREUF": "forgive",
@@ -3968,7 +3968,7 @@
     // Precedents: TPH-PBLG "engine", TPH-RG "energy"
     "TPH-D": "end",     // easier to stroke than EPBD; give up {^ed in}
     "TPH-DZ": "ends",   // overrides "inside" [1]
-    "TPH-TD": "ended",  // use TPHO*ETS/-D (custom) for "noticed"
+    "TPH-TD": "ended",  // use TPHO*ETS/-D for "noticed" (custom)
     "TPH-GD": "ending", // much easier to stroke than EPBGD
     /*1*/ "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
           "OUFD": "outside",  // "ousd"; for consistency
