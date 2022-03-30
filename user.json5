@@ -3708,13 +3708,6 @@
     "STPHEUPL": "synonym",
     "STPHOPLS": "synonymous", // cf. TPHOPLS "anonymous"
 
-    "WHR": "where", // see phrasing
-    "WHRELS": "elsewhere",
-    "SWHR": "somewhere",
-    "WHRAS": "whereas",
-    "WHR-B": "whereby",
-    "WHROF": "whereof",
-
     "URPBD": "understand",  // standard
     "URPBG": "understanding",
     "*URPBD": "understood", // standard

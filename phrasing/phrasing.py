@@ -287,6 +287,13 @@ remaps = {
     "WHERT":  "whether",
     "WH*ERT": "whether",
 
+    # Remap words with "where" in them
+    "WHRAS":  "whereas",
+    "WHR-B":  "whereby",
+    "WHROF":  "whereof",
+    "WHRELS": "elsewhere",
+    "SWHR":   "somewhere",
+
     # Ugly compromise: add arbitrary K to words beginning with wh-
     "KWHABG":   "whack",
     "KWHAEUL":  "whale",
