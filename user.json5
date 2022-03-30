@@ -1605,7 +1605,7 @@
     "WROEBG": "revoke",
     "WROELT": "revolt",
     "WROLT": "revolt",
-    "WROF": "revolve", // use WHROF (custom) for "whereof"
+    "WROF": "revolve", // use WHROF for "whereof" (see phrasing)
     // "review" would be WRAOU, but that's "withdrew" already.
     //   WRAU  "withdraw"
     //   WRAOU "withdrew"
@@ -2479,7 +2479,7 @@
     "SWUPBLS": "someone else", // standard
     "SPHRAEULS": "someplace else",
     "S-LGS": "something else",
-    "SWHR-LS": "somewhere else",
+    "SWHR-LS": "somewhere else", // cf. WHR "where" (see phrasing)
 
     // "... of"
     "TPRAEFD": "afraid of", // misstroke for "afraid"
