@@ -124,6 +124,7 @@
     "AFBG": "affect",           // with EFBG "effect"
     "AFT": "after the",         // with PW-FT "before the"
     "TKPWR*EUPLT": "algorithm", // with R*EUPLT "rhythm"
+    "A*EUT/EUFT": "atheist",    // with A*EUT/EUFPL "atheism"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
     "KPHREGS": "completion",
@@ -3046,6 +3047,7 @@
     "SHUFRT": "surest",
     "SWAOEFT": "sweetest",
     "TAUFT": "tallest",
+    "THEUFT": "thickest", // use A*EUT/EUFT (custom) for "atheist"
     "WAOEFRT": "weirdest",
     "WAOEUFT": "wisest",
     /*1*/ "HAO*EUFT": "heist",
