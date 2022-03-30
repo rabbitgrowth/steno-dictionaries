@@ -122,6 +122,7 @@ verb = {
     "-FRPBD": "mind",
     "-RPL":   "remember",
     "-PBG":   "think",
+    "-PBDZ":  "understand",
     "-PT":    "want",
 }
 

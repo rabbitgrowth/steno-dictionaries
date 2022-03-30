@@ -371,6 +371,11 @@ young
   KWROUPBG
   KWRUPBG -> I couldn't think
 
+{under^}
+  KWRUPBD
+  UPBD
+  UPBDZ -> you understand
+
 to
   O
   TO
@@ -780,6 +785,9 @@ winning
   W-PBG -> we think
   WAO*EPBG
   WEUPB/-G
+
+witness stands
+  W-PBDZ -> we understand
 
 whereby -> WHR-B
   W-R/PWEU
