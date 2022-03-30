@@ -31,7 +31,7 @@
     "SKWR-PL": "gentleman",
     "SKWR-PLZ": "gentlemen",
     "TKPW-D": "good", // give up "good day"
-    "TKPW-T": "great", // use -GT (custom) for "get"
+    "TKPW-T": "great",
     "TKPW-RT": "greater",
     "TKPW-LT": "greatly", // use TKPWOEULT (custom) for "guilty"
     "TKPW-P": "group",
