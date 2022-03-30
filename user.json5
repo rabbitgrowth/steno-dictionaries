@@ -1674,7 +1674,6 @@
     "APB/TOEUR": "anterior",
     "POS/TOEUR": "posterior",
     "UL/TOEUR": "ulterior",
-    "ULT/OEUR": "ulterior", // prevents UL "you will" (custom) from flashing past
     /*1*/ "TPO*EUR": "foyer",
 
     // OEUD for -dio and -dia
