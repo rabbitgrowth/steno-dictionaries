@@ -1629,6 +1629,14 @@
     "SREUFPBT": "resistant",  //             REUFPBT
     "SREUFTD": "resisted",
 
+    // ROR for -erior
+    "TPROR": "inferior",
+    "TPRORT": "inferiority",
+    "SPROR": "superior",
+    "SPRORT": "superiority",
+    "SPWROR": "interior",
+    "KPROR": "exterior",
+
     // REU for -ary, -ery, and -ory
     // It's probably more "correct" to use prefixes like AER {^ary} and
     // TOER {^tory}, but -ary, -ery, and -ory all sound the same (REU),
@@ -1662,19 +1670,6 @@
     "HAURB": "harsh",
     "HAURBL": "harshly",
     "PHAURB": "marsh",
-
-    // OEUR for -erior
-    "TPOEUR": "inferior", // overrides "foyer" [1]
-    "TPOEURT": "inferiority",
-    "SPOEUR": "superior", // standard
-    "SPOEURT": "superiority",
-    "SPWOEUR": "interior",
-    "KPOEUR": "exterior",
-    "EBGS/TOEUR": "exterior",
-    "APB/TOEUR": "anterior",
-    "POS/TOEUR": "posterior",
-    "UL/TOEUR": "ulterior",
-    /*1*/ "TPO*EUR": "foyer",
 
     // OEUD for -dio and -dia
     // Precedents: O*EUD   "audio" (- * = {^oid})
