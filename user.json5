@@ -401,6 +401,8 @@
     "HEUPB": "hidden",
     "HOLD": "holiday", // use HOELD for "hold"
     "HOLDZ": "holidays",
+    "EURG": "ignore",
+    "EURGS": "ignorance",
     "HRAOUGS": "illusion", // use HRAOUFG for "losing"
     "HRAOUS/REU": "illusory",
     "SHU": "issue",
