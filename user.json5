@@ -754,6 +754,7 @@
     "SPWEUBT": "antibiotic", // cf. AEBT
     "SPWEUBD": "antibody",
     "SPWEUTD": "antidote",
+    "SPWEUFRL": "antiviral",
 
     "KRO*EUPT": "{crypto^}",
     "KROEUPT": "crypto",
@@ -2132,6 +2133,7 @@
 
     // Miscellaneous
     "THRAOET": "athlete",
+    "PWRER": "barrier",         // give up "breast cancer"
     "AOEGS": "emotion",         // use SERBL   for "essential"
     "AOELGS": "emotional",      // use SHRERBL for "essentially"
     "HRAOELGS": "emotionally",
