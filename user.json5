@@ -3152,6 +3152,8 @@
     "TPH*EUR/SRAPB/KWRA": "Nirvana", // instead of TPHEUR/SRAPB/KWRA*
     "SAO*UP/PHAPB": "Superman",      // instead of SAOUP/PHA*PB
 
+    "PWHRA*BG/HRAOEUFZ/PHAERT": "Black Lives Matter",
+
     // Add * to *not* capitalize
     "KHO*EUPB": "china",
 
