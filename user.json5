@@ -380,7 +380,7 @@
     "KOERPBD": "correspond",
     "KOERPBT": "correspondent",
     "KURPB": "curtain",
-    "TKHRAOEUPB": "deadline", // use PHEUD/HRAOEUPB for "midline"
+    "TKHRAOEUPB": "decline", // use PHEUD/HRAOEUPB for "midline"
     "TKAOEFT": "defeat", // use TKEFBGT for "defect"
     "TKOPBT": "donate", // use TKUPT for "doesn't" (custom)
     "TKRAPB": "dragon",
