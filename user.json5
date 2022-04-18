@@ -3140,13 +3140,9 @@
     "PR*EUPB/SES": "Princess",
     "SHR*F": "Sheriff",
     "SKWA*EUR": "Square",
+    "STA*EUTS": "States", // use STA*TS for "status" (/ˈstætəs/ instead of /ˈsteɪtəs/)
     "SAO*UPB": "Sunny",
     "SRAO*EUS": "Vice", // as in "Vice President"
-
-    "STA*EUTS": "States", // - use STA*TS for "status"
-                          //   (think of it as /ˈstætəs/, not /ˈsteɪtəs/)
-                          // - cf. -T/STA*EUTS "the States",
-                          //   which doesn't work with TPH-T "in the", etc.
 
     // To capitalize a multi-stroke word, star the first syllable:
     //   PEPBT/TKPWOPB "pentagon"  P*EPBT/TKPWOPB "Pentagon"
