@@ -3169,6 +3169,8 @@
     "KO*RPBG": "Congress",
     "KAUPB/TKPWRES": "congress",
     "KA*UPB/TKPWRES": "Congress",
+    "KAURPBGS": "congress", // shortcut
+    "KA*URPBGS": "Congress",
     "TKAR/PHA": "dharma",
     "TKARPL/KWRA": "dharma",
     "HOBT": "hobbit",
