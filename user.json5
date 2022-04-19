@@ -782,6 +782,16 @@
     "KWREFRT": "{yester^}",
 
     "-FRPB": "{^man}",
+    "PWOEFRPB": "bowman", // archer
+    "PWOUFRPB": "bowman", // rower
+    "TPRAOEFRPB": "freeman",
+    "HAOUFRPB": "human", // alternative to HAOUPL
+    "HRAEUFRPB": "layman",
+    "PHROUFRPB": "plowman",
+    "SAEFRPB": "seaman",
+    "SHAFRPB": "shaman",
+    "SHOEFRPB": "showman",
+    "STPHOEFRPB": "snowman",
 
     "SHO*P": "{^shop}",
     "SHO*RP": "{^shopper}",
