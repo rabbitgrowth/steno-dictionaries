@@ -918,8 +918,6 @@
 
     // Fold in -R for -er, -or, or even -ar
     "KHEFR": "achiever", // overrides "chevre" [1]
-    "APBLG/TAEURT": "agitator",
-    "APB/PHAEURT": "animator",
     "A/TARBG": "attacker",
     "A/SRERPBG": "avenger",
     "PWHRARB": "blabber",
@@ -932,15 +930,12 @@
     "KPHARPBD": "commander",
     "KPHORPB": "commoner",
     "KAUPB/SAOERL": "concealer",
-    "TKERT": "debtor",
-    "STKRAEURT": "demonstrator",
     "TKEURG": "digger",
     "TKRAERPL": "dreamer",
     "TKRAOERPL": "dreamer",
     "TKREFR": "dresser",
     "TKREUR": "drinker",
     "ERZ": "easier",
-    "AOE/TPHARPL": "enamor",
     "EPB/HARPBS": "enhancer",
     "KP-R": "examiner",
     "SKAOURGS": "executioner",
@@ -948,17 +943,13 @@
     "TPAURLT": "falter", // cf. AURLT "alter"
     "TPEUL/PWUFRT": "filibuster",
     "TPRAEURPL": "framer",
-    "SKWRAEURT": "generator",
-    "TKPWHRAEUD/KWRAEURT": "gladiator",
     "HEURPBD": "hinder",
     "HEURPBTD": "hindered",
     "HEURPBGD": "hindering",
     "EUG/TPHAOEURT": "igniter",
     "EUPB/KRAOEURT": "inciter",
     "SPWRAOURD": "intruder",
-    "HR*EURBG": "liquor", // - * = "lyric"
     "HROURPBG": "lounger",
-    "HRAOURPB": "lunar",
     "PHAOERG": "meager",
     "PHAOERPBD": "meander",
     "TPH*ERT": "nether",
@@ -968,10 +959,8 @@
     "PAEURPBTS": "painters",
     "POEUL/EFRT": "polyester", // EFRT is normally "effort" but "polyeffort" is not a word
     "PRAOEFRP": "preacher",
-    "PREURBGT": "predictor",
     "PREUFRPB": "prisoner",
     "SPORPBD": "responder",
-    "SKORL": "scholar",
     "SERPBD": "sender",
     "SHAEURBG": "shaker",
     "SHEURPL": "shimmer",
@@ -981,17 +970,13 @@
     "STPHAOEURP": "sniper",
     "SPARPB": "spanner",
     "SKWARPBD": "squander",
-    "SKEFR": "successor", // misstroke for "cancer"
     "SURBG": "sucker",
     "SRERPBD": "surrender", // use SREPB/TKOR for "vendor"
-    "SWAOEUFR": "survivor",
     "SWERLT": "swelter",
     "SWEUFRT": "swifter",
     "TA*RPBG": "tanker",
     "TAEURT": "tater",
     "TOEFRT": "toaster", // give up "effort to"
-    "TRARBGT": "tractor",
-    "THRAEURT": "translator",
     "TRAORP": "trooper",
     "UPB/TPERT": "unfetter",
     "WAEURPBLG": "wager",
@@ -1003,6 +988,23 @@
     "TEURPBD": "tinder",
     "T*EURPBD": "Tinder",
     "TEURPBD/PWOBGS": "tinderbox",
+
+    "APBLG/TAEURT": "agitator",
+    "APB/PHAEURT": "animator",
+    "TKERT": "debtor",
+    "STKRAEURT": "demonstrator",
+    "AOE/TPHARPL": "enamor",
+    "SKWRAEURT": "generator",
+    "TKPWHRAEUD/KWRAEURT": "gladiator",
+    "HR*EURBG": "liquor", // - * = "lyric"
+    "PREURBGT": "predictor",
+    "SKEFR": "successor", // misstroke for "cancer"
+    "SWAOEUFR": "survivor",
+    "TRARBGT": "tractor",
+    "THRAEURT": "translator",
+
+    "HRAOURPB": "lunar",
+    "SKORL": "scholar",
 
     // ... or use R if -R is already used
     // Precedents: TPRORPL "former", RERL "earlier"
