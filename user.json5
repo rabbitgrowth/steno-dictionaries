@@ -2170,7 +2170,6 @@
     "T-FGS": "television",
     "WHOUS": "White House",        // misstroke for "us who"
     "TRAEURPBS": "transparency",   // use -Z for "trainers"
-    "-PT": "want",                 // use standard phrase ender on its own
     "KWRUP": "yup",                // use AUP for {up^}
     "THOEUPB": "{^,000}",          // avoids 3/2/1/THO*EUPB outputting "32 1,000"
 
@@ -3966,6 +3965,7 @@
     "PO*EUPB": "piano",   // wildcard OEU with * since POEUPB is "appoint"
     "KW-T": "quiet",      // lack of vowels feels quiet; compare KWAOEUT "quite"
     "KW-LT": "quietly",
+    "-PT": "want",        // use standard phrase ender on its own
     /*1*/ "STPH*UR": "insure",
 
     // A more ergonomic "end" with TPH for en-
