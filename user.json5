@@ -3181,16 +3181,18 @@
     "TWEURT": "twitter",
     "TW*EURT": "Twitter",
 
-    // ... or doubled; can't star when already starred
+    // ... or doubled, if the word is already starred
     "KP*EL": "excel",
     "KP*EL/KP*EL": "Excel",
 
-    // Never capitalize; use KPA if really needed
+    // Don't capitalize; use KPA if needed
     "PHABGS/EUPL": "maxim",
     "PHOR/ROE": "morrow",
     "OP/ED": "op-ed",
     "RUF/KWRAPB": "ruffian",
     "AUP/STAEUT": "upstate",
+    "WOPBD/HRAPBD": "wonderland",
+    "WOPBD/HRA*PBD": "wonderland",
 
     "TKPWRAPBD/PHA": "grandma",     // uses HR instead of R by default:
                                     //   TKPWRAPBD/PHA  "Grandma"
