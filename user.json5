@@ -3172,8 +3172,6 @@
     "KA*UPB/TKPWRES": "Congress",
     "KAURPBGS": "congress", // shortcut
     "KA*URPBGS": "Congress",
-    "TKAR/PHA": "dharma",
-    "TKARPL/KWRA": "dharma",
     "HOBT": "hobbit",
     "HO*BT": "Hobbit",
     "HURPBT": "hunter",
@@ -3186,6 +3184,8 @@
     "KP*EL/KP*EL": "Excel",
 
     // Don't capitalize; use KPA if needed
+    "TKAR/PHA": "dharma",
+    "TKARPL/KWRA": "dharma",
     "PHABGS/EUPL": "maxim",
     "PHOR/ROE": "morrow",
     "OP/ED": "op-ed",
