@@ -191,6 +191,7 @@
     "PERP/TWAEL": "perpetually",
     "RAELT": "reality",         // with RAEL "real"; use RELT for "relate"
     "RAELTS": "realities",
+    "RAOEDZ": "reeds",          // with RAOED "reed"; use RAEDZ for "reads"
     "R*URPB": "runner",         // with R*UPBG "running"
     "STEUFBG": "scientific",    // with STEUFT "scientist"
     "SWAUBG": "sidewalk",       // with SWAUBGS "sidewalks"
@@ -2725,7 +2726,7 @@
     "TKPW-Z": "goes",
     "HOEURZ": "heroes",
 
-    // For words ending with -T, use -TS instead of -TZ to avoid Philly shift:
+    // Use -TS instead of -TZ to avoid Philly shift
     "ABGT/SREUFTS": "activists",
     "APB/HREUFTS": "analysts",
     "KOEBG/TPHUTS": "coconuts",
@@ -2742,15 +2743,7 @@
     "RAPL/PARTS": "ramparts",
     "TEPB/ETS": "tenets",
 
-    // For words ending with -D, use -DZ, of course:
-    "RAOEDZ": "reeds", // use RAEDZ for "reads"
-    "TK*ET/PWEDZ": "deathbeds",
-
-    // For -ses, use -SZ, which can be thought of as -S + -Z or -Z + -S:
-    "SKWRUFSZ": "justices", // otherwise "justifieses" (SKWRUFZ + -S)
-    "STAEUR/KAEUSZ": "staircases",
-
-    // For undetachable -s, prefer -S over -Z. It's just easier to stroke.
+    // Use -S instead of -Z for undetachable -s
     "KPROPLS": "compromise",
     "STKPAOEUS": "despise",
     "RES/TPHAEUGS": "resignation",
