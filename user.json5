@@ -2144,7 +2144,7 @@
     "TERPBL": "eternal",
     "TERPBT": "eternity",
     "EFLT": "evaluate",            // misstroke for {^est}
-    "TPREUP": "friendship",        // feels more natural than TPREP
+    "TPREUP": "friendship",
     "SKWRERPB": "German",
     "HARLD": "hardly",             // use HAEURLD or HAR/OLD for "Harold"
     "HEFL": "helpful",             // use HOEUFL for "heavily"
@@ -2156,11 +2156,11 @@
     "HRAEDZ": "ladies",
     "HRA*ED": "Lady",
     "HRERB": "leisure",
-    "PHET/TPOR": "metaphor",       // use PHET/TP-R for "met for"
+    "PHET/TPOR": "metaphor",       // use PHET/TPO for "met for"
     "PHAOUPLT": "municipality",
     "PEFRT": "pester",             // use P-F for "perfect"
     "PREUPBL": "provisional",      // use PREUPB for "principle"
-    "REUPBD": "remind",            // like HEUPBD "behind"
+    "REUPBD": "remind",            // cf. HEUPBD "behind"
     "REUPBTD": "reminded",
     "REURPBD": "reminder",
     "ROPBT": "rotten",
@@ -2168,11 +2168,11 @@
     "SEPLT": "segment",            // use SPHEPBT for "cement"
     "STOEPBL": "stolen",
     "T-FGS": "television",
-    "WHOUS": "White House",        // just two-stroke "us who"
+    "WHOUS": "White House",        // misstroke for "us who"
     "TRAEURPBS": "transparency",   // use -Z for "trainers"
     "-PT": "want",                 // use standard phrase ender on its own
     "KWRUP": "yup",                // use AUP for {up^}
-    "THOEUPB": "{^,000}",          // also avoids 3/2/1/THO*EUPB outputting "32 1,000"
+    "THOEUPB": "{^,000}",          // avoids 3/2/1/THO*EUPB outputting "32 1,000"
 
     "AL": "{^al}", // swap with "al"
     "A*L": "al",
