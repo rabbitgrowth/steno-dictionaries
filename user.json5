@@ -4049,6 +4049,7 @@
     // cf. P-RB "punish"
     "ST-RB": "astonish",
     "PW-RB": "banish",
+    "TK-RB": "diminish", // use -FPLT for dash (custom)
     "TP-RB": "finish",
     "SR-RB": "vanish",
 
