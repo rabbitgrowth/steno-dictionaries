@@ -2590,29 +2590,28 @@
     "TPHEUFT": "any of the", // use EUFT for {^ist}
     "SKHER": "ask her",
     "SKHEUPL": "ask him",
-    "TPE": "if he", // give up "fe", which is not a word
-    "TPOEPBL": "if only",
-    "WUPBD": "one day",
-    "TWOR": "or two",
-    "RAERB": "rather be",
-    "SAUFP": "such a",
-    "TKO*": "to do",
-    "STKO*": "to do so",
-    "HR-F": "will have", // use HRUF for "love"
-    "HR-FB": "will have been",
-
     "TPROUT": "figure out",
     "TKPWOEPL": "go home",
     "TKPWROELD": "grow old",
+    "TPE": "if he", // give up "fe", which is not a word
+    "TPOEPBL": "if only",
     "TPHEUS": "in this",
     "TPHURPB": "in turn", // instead of "turn in"
     "TPHOEPBS": "known as", // use -Z for "knowns"
     "HREPL": "let me",
     "HREPLZ": "let me see",
     "HRAOFRT": "look after", // "loofter"; HRAFRT is "laughter"
+    "WUPBD": "one day",
+    "TWOR": "or two",
+    "RAERB": "rather be",
+    "SAUFP": "such a",
     "TAEUR": "take care",
     "TAEUFR": "take care of",
+    "TKO*": "to do",
+    "STKO*": "to do so",
     "TRUF": "true love", // use TRUFT for "trust"
+    "HR-F": "will have", // use HRUF for "love"
+    "HR-FB": "will have been",
     "KWRAOEUZ": "you guys",
 
     // -- Counting -------------------------------------------------------------
