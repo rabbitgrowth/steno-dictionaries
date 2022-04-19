@@ -2750,9 +2750,6 @@
     "SKHRAUS": "Santa Claus",
     "THOUS": "thousand",
 
-    // Capitalization
-    "TPHORBG/TAOEUPLZ": "New York Times",
-
     // -- Opportunities opened up by using -Z for -s ---------------------------
 
     "PWAOEUS": "bias",     // use -Z for "buys"
@@ -3212,6 +3209,11 @@
     "-T/HRORD/AES/PRAEUR": "the Lord's Prayer",
     "-T/STPHA*T": "the Senate", // I can be lazy and drop the *, because
                                 // -T/STPHAT is defined by default as "the Senate"
+
+    // Standard capitalizations stroked differently
+    "TPHORBG/TAOEUPLZ": "New York Times",
+    "SEUL/KOPB/SRAEL": "Silicon Valley",
+    "SHRAEL": "Silicon Valley",
 
     // -- Contractions ---------------------------------------------------------
 
