@@ -2933,9 +2933,7 @@
     "SOERBG": "sobering",    // give up "social work"
     "SKAOEGD": "succeeding",
     "TAOEFD": "teased",
-    "TREUG": "trying",       // overrides "trig" [2]
     /*1*/ "RAEUFRPBD": "Raymond", // with -FR as -m
-    /*2*/ "TR*EUG": "trig",
 
     // -G as shortcut for -BG/-G
     // You can't fold in -G when the verb already ends with -BG.
