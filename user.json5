@@ -1159,6 +1159,7 @@
     // -FRBL for -mble
     "PWRAFRBL": "bramble",
     "TKPWAFRBL": "gamble",
+    "TPHEUFRBL": "nimble",
     "SKRAFRBL": "scramble",
     "SKWRUFRBL": "jumble",
     "PHUFRBL": "mumble",
@@ -1310,6 +1311,7 @@
     "KPWRAS": "embarrass", // cf. EPL/PWRAS; form for easier inflection
     "KPWRAFD": "embarrassed",
     "KPWRAFG": "embarrassing",
+    "KPWRAFLG": "embarrassingly",
     "KPWRAPLT": "embarrassment",  // cf. EPL/PWRAPLT
     "KPWRAFPLT": "embarrassment", // cf. EPL/PWRAFPLT
 
@@ -1694,6 +1696,7 @@
     // Precedents: KAOUR/KWROFT "curiosity"
     //             SKWREPB/ROFT "generosity"
     //             APB/PHOFT    "animosity"
+    "A/TROFT": "atrocity",
     "TKPWRAPBD/KWROFT": "grandiosity",
     "PHOPB/STROFT": "monstrosity",
     "PHOPBS/TROFT": "monstrosity",
@@ -2677,6 +2680,7 @@
     /*1*/ "PWURPBS": "Burns",
     /*2*/ "KW*PL": "?",
 
+    "SPWURD/TEUZ": "absurdities",
     "A/TPHALGZ": "analogies",
     "A/TPHOPL/HREUZ": "anomalies",
     "AZ/TEBGZ": "Aztecs",
