@@ -2750,6 +2750,9 @@
     "SKHRAUS": "Santa Claus",
     "THOUS": "thousand",
 
+    // Capitalization
+    "TPHORBG/TAOEUPLZ": "New York Times",
+
     // -- Opportunities opened up by using -Z for -s ---------------------------
 
     "PWAOEUS": "bias",     // use -Z for "buys"
