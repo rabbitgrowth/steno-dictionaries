@@ -781,13 +781,6 @@
     "WR*EUR": "{^writer}",
     "KWREFRT": "{yester^}",
 
-    "-LD": "{^land}", // use WO for "would", like HR, not -L, for "will"
-    "TKPWARLD": "garland",
-    "HAOEULD": "highland",
-    "HOEFRLD": "homeland",
-    "HROELD": "lowland",
-    "PHAEUPBLD": "mainland",
-
     "-FRPB": "{^man}",
 
     "SHO*P": "{^shop}",
@@ -2000,6 +1993,13 @@
     "KHROEULGS": "occasionally",
     "PRO/SREULGS": "provisional", // or use PREUPBL (custom)
     "TRALGS": "traditional", // AS/TRAL "as traditional" clashes with "astral"
+
+    // -LD for -land
+    "TKPWARLD": "garland",
+    "HAOEULD": "highland",
+    "HOEFRLD": "homeland",
+    "HROELD": "lowland",
+    "PHAEUPBLD": "mainland",
 
     // -LZ for -lize
     // Precedents: RAELZ "realize", STAEUBLZ "stabilize"
