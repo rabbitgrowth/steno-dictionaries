@@ -1709,8 +1709,7 @@
 
     // EUFT for -icity
     // EUFT/OUS gives -icitious (with an extra "i") by default due to
-    // orthography rules, so define the -ous counterparts explicitly.
-    // Alternatively, use EUS/TOUS.
+    // orthography rules, so define the -ous forms explicitly.
     "TKAOU/PHREUFT": "duplicity",
     "TKAOU/PHREUFT/OUS": "duplicitous",
     "TPHREUFT": "felicity", // give up {^philicity} (chemical suffix)
