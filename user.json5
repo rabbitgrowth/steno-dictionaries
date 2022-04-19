@@ -1145,14 +1145,10 @@
     "TPAFRPB": "famine",
     "HREFRPB": "lemon",
     "OEFRPB": "omen",
-    "ROEFRPB": "Roman",
     "SAFRPB": "salmon",
     "SAOEFRPB": "semen",
     "SUFRPB": "summon", // alternative to SPHOPB
     // But "common" remains KPHOPB, since KOFRPB is "conch".
-
-    // -FRB for -mb
-    "KHRUFRB/KWRA": "Columbia",
 
     // -FRB for -mber
     "AFRB": "amber",
@@ -1196,6 +1192,10 @@
     "PHAFRPL": "maximum", // frees up PHABGS for "max"
     "PHABGS": "max",
     "PHA*BGS": "Max",
+
+    "KHRUFRB/KWRA": "Columbia",
+    "HAFRL/TOPB": "Hamilton",
+    "ROEFRPB": "Roman",
 
     // -- Extensions -----------------------------------------------------------
 
@@ -2933,7 +2933,7 @@
     "SOERBG": "sobering",    // give up "social work"
     "SKAOEGD": "succeeding",
     "TAOEFD": "teased",
-    /*1*/ "RAEUFRPBD": "Raymond", // with -FR as -m
+    /*1*/ "RAEUFRPBD": "Raymond",
 
     // -G as shortcut for -BG/-G
     // You can't fold in -G when the verb already ends with -BG.
