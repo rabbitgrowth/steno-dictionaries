@@ -244,6 +244,7 @@
     "ARPB/KEUFPL": "anarchism",
     "APBGS/TEU": "angsty",
     "APLT/STPAOER": "atmosphere",
+    "AU/RO/RA": "aurora",
     "AUT/TPHOEPL": "autonomy", // cf. AUT/KRAES "autocracy"
     "AUT/TPHOPLS": "autonomous",
     "PWHRAOEU": "belie",
@@ -279,6 +280,7 @@
     "EUFRPB": "inch", // use TPRAEUPB for {^infra}
     "SPWREUBGT": "intricate",
     "EUFPB/TAEUGS": "invitation",
+    "PHAPB/TEUS": "mantis",
     "PHAOED/KWRORBGT": "mediocrity",
     "PHES/PHRAOEUZ": "mesmerize",
     "PHES/PHRAOEUFD": "mesmerized",
@@ -3368,18 +3370,6 @@
 
     // Latin
     "STATS/KWOE": "status quo",
-
-    // -- Flout greedy rule ----------------------------------------------------
-
-    // Normally, in deciding where to break multistroke words,
-    // the "correct" thing to do is to be as greedy as possible,
-    // i.e. to cram as much as possible into the first stroke.
-    // But blind obedience of this rule leads to absurd strokes
-    // like AUR/KWROR/KWRA "aurora". So feel free to violate
-    // this rule when it feels right.
-
-    "AU/RO/RA": "aurora",
-    "PHAPB/TEUS": "mantis", // instead of PHAPBT/EUS
 
     // -- Fingerspelling -------------------------------------------------------
 
