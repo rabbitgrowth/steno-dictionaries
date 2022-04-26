@@ -3239,7 +3239,7 @@
     //   H-PBT  "hadn't"
     //   KAPBT  "can't"
     //   KOPBT  "couldn't"
-    // ... use -PT which is easier to stroke. (See "Ergonomics".)
+    // ... use -PT, which is easier to stroke.
     "AEUPT": "ain't",
     "R-PT": "aren't", // overrides "respect" [1]
     "K-PT": "can't", // - KAPT is "captain"
@@ -3268,13 +3268,13 @@
           "SR*EZ": "Vice President", // cf. PR*EZ "President"
 
     // Add -L as "bridge" to expand to full form
-    // Standard Plover also does this, but without dropping the -B:
-    //   SR-PBT  "haven't"
-    //   SR-PBLT "have not"
-    //   KAPBT   "can't"
-    //   KAPBLT  "cannot"
+    // cf. SR-PBT  "haven't"
+    //     SR-PBLT "have not"
+    //     KAPBT   "can't"
+    //     KAPBLT  "cannot"
     "R-PLT": "are not",   // give up {&r-}
     "K-PLT": "cannot",    // give up {&k-}
+    "KOPLT": "could not", // use KPHEPBT for "comment"
     "TKOPLT": "do not",   // use TKOPL/TPHAPBT for "dominant",
                           // cf. TKOPL/TPHAEUT "dominate"
                           // (why brief one and not the other?)
@@ -3286,15 +3286,14 @@
     "HR-PLT": "will not", // give up {&l-}
 
     // Use -PLT for "not" even when there's no -n't form
-    // Again, this is not unprecedented:
-    //   TP-PBLT  "if not"   (there's no "ifn't"
-    //   KWR-PBLT "why not"              "whyn't")
-    "SKP-PLT": "and not",  // there's no "andn't"
-    "ORPLT": "or not",     //            "orn't"
-    "PHAEUPLT": "may not", //            "mayn't"
+    // cf. TP-PBLT  "if not"
+    //     KWR-PBLT "why not"
+    "SKP-PLT": "and not",
+    "ORPLT": "or not",
+    "PHAEUPLT": "may not",
 
     // Informal contractions
-    // Following the pattern of TKPW*T "gotta"
+    // cf. TKPW*T "gotta"
     "K*D": "kinda",
     "TKPW*PB": "gonna", // use TKPWOPBT for "gotten"
     "W*PB": "wanna",
