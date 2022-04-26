@@ -349,7 +349,9 @@
     "EUPB/SEPBT": "innocent",     // to TPH-PBT; use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",        // to TR
     "TPHAEURB": "neighbor",       // to TPHAEUB
-    "SHOP/HREUFRT": "shoplifter", // to SHREUFRT
+    "PROFBGT": "prosecute",       // to PR-T
+    "PROFBGS": "prosecution",
+    "PROFRBGT": "prosecutor",
     "SEUFRT": "sister",           // to ST-R
 
     "SPWEUBGT": "indicate", // to KA*EUT
@@ -395,6 +397,10 @@
     "SKHAOUL": "eschewal",
     "AOEFPL": "eventual", // ERBL is unphonetic and EFPBL is tricky to hit
     "HRAOEFPL": "eventually",
+    "KPAFRBT": "exacerbate",
+    "KPAFRBGS": "exacerbation",
+    "SKPOERBL": "exponential",
+    "SKPHROERBL": "exponentially",
     "TPAOPBLG": "footage", // cf. TPHOPBLG "knowledge"
     "TPREFT": "forest", // TPOFRT ("forst") is taken by "foster" ("fostr")
     "TKPWARPB": "garden",
@@ -440,8 +446,8 @@
     "SKREUFL": "sacrificial",
     "STHRAOEUT": "satellite",
     "STAOEUT": "satiety",
-    "STPOER": "satisfactory", // "sfory"
-    "STPREU": "satisfactory", // "sfry"
+    "STPOER": "satisfactory",
+    "STPOERL": "satisfactorily",
     "SHORPBLG": "shortage",
     "SOERPBLG": "soldier",
     "SPOLT": "spotlight", // cf. SP-LT
@@ -590,6 +596,7 @@
     "STPHOEB": "snobby",
 
     // E -> AOE
+    "HAO*ELT": "healthy",
     "PHAOERS": "mercy",
 
     // U -> AOU
@@ -935,6 +942,7 @@
     "KPHARPBD": "commander",
     "KPHORPB": "commoner",
     "KAUPB/SAOERL": "concealer",
+    "KAUPB/SAOURPL": "consumer",
     "TKEURG": "digger",
     "TKRAERPL": "dreamer",
     "TKRAOERPL": "dreamer",
@@ -953,6 +961,7 @@
     "HEURPBGD": "hindering",
     "EUG/TPHAOEURT": "igniter",
     "EUPB/KRAOEURT": "inciter",
+    "STRURBGT": "instructor",
     "SPWRAOURD": "intruder",
     "HROURPBG": "lounger",
     "PHAOERG": "meager",
@@ -969,6 +978,7 @@
     "SERPBD": "sender",
     "SHAEURBG": "shaker",
     "SHEURPL": "shimmer",
+    "SHOP/HREUFRT": "shoplifter",
     "SHRAURT": "slaughter",
     "SHREURP": "slipper",
     "SPHURLG": "smuggler",
@@ -986,6 +996,7 @@
     "UPB/TPERT": "unfetter",
     "WAEURPBLG": "wager",
     "WAURBG": "walker", // overrides "Washington, D.C."
+    "WAFRP": "watcher",
     /*1*/ "KH*EFR": "chèvre", // with proper diacritics
           "SH*EFR": "chèvre", // phonetic
     /*2*/ "WA*/WA*": "Washington, D.C.",
@@ -995,9 +1006,11 @@
     "TEURPBD/PWOBGS": "tinderbox",
 
     "APBLG/TAEURT": "agitator",
+    "APB/SEFRT": "ancestor",
     "APB/PHAEURT": "animator",
     "TKERT": "debtor",
     "STKRAEURT": "demonstrator",
+    "EL/SRAEURT": "elevator",
     "AOE/TPHARPL": "enamor",
     "SKWRAEURT": "generator",
     "TKPWHRAEUD/KWRAEURT": "gladiator",
@@ -1070,6 +1083,7 @@
     "SALD": "sadly", // overrides "salad" [4]
     "STAUFRPBL": "staunchly",
     "STRAEUPBLG": "strangely", // use STRAEUPBG for "strange"
+    "STURPBL": "stubbornly",
     "STAOUPLD": "stupidly",
     "SPRAOEUFLG": "surprisingly",
     "SWEUFLT": "swiftly",
@@ -2834,7 +2848,8 @@
     "HOEBGS/POEBGS": "hocus pocus", // but HOEBGS on its own is "hoax"
 
     "TPERS": "Ferris",
-    "PAEURS": "Paris", // use -Z for "pairs"
+    "HAEURS": "Harris", // use -Z for "hairs"
+    "PAEURS": "Paris",  // use -Z for "pairs"
 
     "PALS": "palace", // use -Z for "pals"
     "SOLS": "solace",
@@ -3938,8 +3953,9 @@
     "TKPHALG": "democratically",
     "TKPHA*T": "Democrat",
     "TKPHA*BG": "Democratic",
-    "TKPHOERBGS": "democracy", // try to squeeze in all the sounds: "dmokrsy"
-    "TKPHOBGS": "democracy",   // shortcut ("dmox")
+    "TKPHOERBGS": "democracy", // "dmokrsy"
+    "TKPHOBGS": "democracy",   // "dmox"
+    "TKPHORBG/TAOEUZ": "democratize",
     /*1*/ "TKPHEU": "{demi^}", // consistent with SPHEU {semi^}
 
     // Covid-19
@@ -4156,8 +4172,9 @@
     // (but KHRAPZ "claps" -> KHRAPS "collapse")
     "KRO*RPB": "coroner",   // from "corner"; frees up KOERPB for "corny" [1]
     "TPHO*ETS": "notice",   // from "notes"; or use TPHOEUTS
-    "STPHO*RT": "sonority", // from "snort"; use STPHOF for "and so forth"
+    "STPHO*RT": "sonority", // from "snort"; use SKPO*RT for "and so forth"
     "T*ERS": "terrace",     // from "terse"
+    "TRA*EUD": "tirade",    // from "trade"; /tɪˈreɪd/
     /*1*/ "KOERPB": "corny",
 
     // Comma + open quote + capitalization after reporting verb
