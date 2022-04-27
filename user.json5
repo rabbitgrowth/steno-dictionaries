@@ -988,7 +988,7 @@
     "SKWARPBD": "squander",
     "SURBG": "sucker",
     "SURPBD": "sunder", // misstroke for "understand is"
-    "SRERPBD": "surrender", // use SREPB/TKOR for "vendor"
+    "SR*ERPBD": "surrender", // - * = "vendor"; cf. SRAOEL "veal", SRAO*EL "surreal"
     "SWERLT": "swelter",
     "SWEUFRT": "swifter",
     "TA*RPBG": "tanker",
