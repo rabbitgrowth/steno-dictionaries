@@ -1985,6 +1985,11 @@
     "STPHULG": "snuggle",  // cf. SPHULG "smuggle"
     "WREULG": "wriggle",
 
+    // -LG for -lege
+    // Precedents: SREULG "village", PREUFLG "privilege"
+    "KOLG": "college",     // alternative to KHREPBLG
+    "TPHOLG": "knowledge", // alternative to TPHOPBLG
+
     // -LG for -lic
     // Precedents: KHOLG "alcoholic", PHET/PWOLG "metabolic"
     "APB/SKWRELG": "angelic",
