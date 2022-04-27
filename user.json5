@@ -3110,10 +3110,6 @@
     "SPHAERT": "no matter",
     "SPR-B": "no problem",
 
-    "SKHRU": "exclude",    // S (negation) + KHRU "include" or /ɪkˈ[sklu]ːd/
-    "SKHRUF": "exclusive", // cf. KHRUF "inclusive"
-    "SKHRUGS": "exclusion",
-
     // -- Proper nouns ---------------------------------------------------------
 
     // Names
@@ -3663,6 +3659,17 @@
     "EUPB/KAPB/TKES": "incandesce",
     "EUPB/KAPB/TKEFPBT": "incandescent",
     "EUPB/KAPB/TKEFPBS": "incandescence",
+
+    "KHRU": "include",     // standard
+    "KHRUGS": "inclusion", // standard
+    "KHRUF": "inclusive",  // standard
+    "KHRUFL": "inclusively",
+    "KHRUFPBS": "inclusiveness",
+    "SKHRU": "exclude", // S + KHRU "include" or /ɪkˈ[sklu]ːd/
+    "SKHRUGS": "exclusion",
+    "SKHRUF": "exclusive",
+    "SKHRUFL": "exclusively",
+    "SKHRUFPBS": "exclusiveness",
 
     "TPHRAOUPBS": "influence",   // standard; or use WEPBS
     "TPHRAOUPBL": "influential", // or use WEPBL
