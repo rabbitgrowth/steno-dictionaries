@@ -862,6 +862,7 @@
     "SAEUFPBT": "assistant",  // or just use SEUFPBT
     "SHAUR": "assure",
     "SHAURPBS": "assurance",
+    "SAURPBD": "asunder",
     "TAEPLT": "attempt",
     "TAEPBD": "attend",
     "TAEPBTD": "attended",
@@ -986,12 +987,13 @@
     "SPARPB": "spanner",
     "SKWARPBD": "squander",
     "SURBG": "sucker",
+    "SURPBD": "sunder", // misstroke for "understand is"
     "SRERPBD": "surrender", // use SREPB/TKOR for "vendor"
     "SWERLT": "swelter",
     "SWEUFRT": "swifter",
     "TA*RPBG": "tanker",
     "TAEURT": "tater",
-    "TOEFRT": "toaster", // give up "effort to"
+    "TOEFRT": "toaster", // misstroke for "effort to"
     "TRAORP": "trooper",
     "UPB/TPERT": "unfetter",
     "WAEURPBLG": "wager",
