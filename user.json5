@@ -2261,16 +2261,6 @@
     // "autocomplete" to a word that begins with the stroke. Precedents:
     //   TPEUS "physical" ("autocompletes" to TPEUS/K-L)
     //   PED "pedestrian" ("autocompletes" to PED/STRAOEPB)
-    // This sometimes has the added benefit of preventing distracting garbage
-    // from flashing past on screen. For example, since SREU is "have I",
-    // if I write SREUG/ROUS for "vigorous", "have Iing" would briefly appear
-    // before getting replaced by "vigorous":
-    //   SREUG      "have Iing"
-    //   SREUG/ROUS "vigorous"
-    // If I make SREUG "vigor", then I (or my potential client) would simply
-    // see -ous being tacked onto "vigor", which looks much smoother visually:
-    //   SREUG      "vigor"
-    //   SREUG/ROUS "vigorous"
 
     // Nonsensical translations
     "KHEUPL": "chimney",  // "Chim"
