@@ -63,16 +63,15 @@
     "K-D": "kind",     // use A/KORD for "accord"
     "K-FD": "kind of", // overrides "confidence" [1]
     "K-FDZ": "kinds of",
-    "PH-D": "mind",   // overrides "PhD" [2]; frees up PHAOEUPBD for "mined" [3]
-    "PH-DZ": "minds", // overrides "merchandise" [4]
+    "PH-D": "mind",   // overrides "PhD" [2]
+    "PH-DZ": "minds", // overrides "merchandise" [3]
     "PH-TD": "minded",
     "PH-GD": "minding",
     /*1*/ "K-FS": "confidence", // cf. PREPBT "present"
                                 //     PREPBS "presence"
                                 //     K-FT   "confident"
     /*2*/ "PH*D": "PhD", // use PHAER/HRAPBD for "Maryland" (or use "Mary" + {^land})
-    /*3*/ "PHAOEUPBD": "mined",
-    /*4*/ "PHEFRPBDZ": "merchandise",
+    /*3*/ "PHEFRPBDZ": "merchandise",
 
     "-TS": "its",
     "PW-TS": "about its",
