@@ -128,8 +128,6 @@
     "KPHRET": "complete",       // with KPHRELT "completely"
     "KPHREGS": "completion",
     "KWEPBL": "consequential",  // with KWEPBS "consequence"
-    "KOURPBT": "counter",       // with OEUT  "auto"
-    "KO*URPBT": "{counter^}",   //      O*EUT {auto^}
     "KRAOEFT": "creativity",    // with KRAOEF "creative"
     "KRED/AOULT": "credulity",  // with EUPB/KRED/AOULT "incredulity"
     "TKOEUPBL": "denial",       // with TKOEUPB "deny"
@@ -767,8 +765,15 @@
     "SPWEUTD": "antidote",
     "SPWEUFRL": "antiviral",
 
-    "KRO*EUPT": "{crypto^}",
+    "KOURPBT": "counter",     // cf. OEUT  "auto"
+    "KO*URPBT": "{counter^}", // cf. O*EUT {auto^}
+    "KOURPBT/TPEUT": "counterfeit", // standard
+    "KOURPBT/TPAOET": "counterfeit",
+    "KO*URPBT/TPEUT": "counterfeit",
+    "KO*URPBT/TPAOET": "counterfeit",
+
     "KROEUPT": "crypto",
+    "KRO*EUPT": "{crypto^}",
 
     "SPWR": "{inter^}", // standard
     "SPWR/TPAOER": "interfere",
