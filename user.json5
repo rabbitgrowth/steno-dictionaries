@@ -776,8 +776,8 @@
 
     // Add * for prefix
     // Precedent: OEUT "auto", O*EUT {auto^}
-    "KOURPBT": "counter",     // by default {counter^}
-    "KO*URPBT": "{counter^}", // by default "counter"
+    "KOURPBT": "counter", // swap with {counter^}
+    "KO*URPBT": "{counter^}",
     "KOURPBT/TPEUT": "counterfeit", // standard
     "KOURPBT/TPAOET": "counterfeit",
     "KO*URPBT/TPEUT": "counterfeit",
@@ -810,11 +810,16 @@
     "SHOEFRPB": "showman",
     "STPHOEFRPB": "snowman",
 
+    // Add * for suffix
+    "SEFL": "self", // swap with {^self}
+    "S*EFL": "{^self}",
+
     "SHOP": "shop", // standard
     "SHORP": "shopper",
     "SHO*P": "{^shop}",
     "SHO*RP": "{^shopper}",
 
+    // Contractions
     "*D": "{^'d}",  // standard
     "*L": "{^'ll}", // swap with {^le} [1]
     "*S": "{^'s}",  // use -S for {^s}
@@ -3528,9 +3533,6 @@
     "OUFRLZ": "ourselves",
     "W*UPBS": "oneself", // use WUPB/AES for "one's"
     /*1*/ "PHEULS": "missile", // use -Z for "mills"
-
-    "SEFL": "self", // swap with {^self}
-    "S*EFL": "{^self}",
 
     // -- Word families --------------------------------------------------------
 
