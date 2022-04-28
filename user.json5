@@ -3119,7 +3119,7 @@
 
     // -- Proper nouns ---------------------------------------------------------
 
-    // Names
+    // People
     "AS/EUPL/OF": "Asimov", // AS/PHOF is "as move" ("he couldn't so much as move a finger")
     "PWAEUT/SREPB": "Beethoven",
     "PWOEB": "Bobby",
@@ -3128,7 +3128,6 @@
     "TPRAOED/REUFP": "Friedrich",
     "KAR/TKAGS": "Kardashian",
     "KEP/HRER": "Kepler",
-    "PH*UFBG": "Musk",
     "TPHOEUFRPB": "Neumann",
     "OFRBG": "Oscar",
     "RO*T/TPHAEPBT": "Rocinante",
@@ -3137,12 +3136,17 @@
     "THAFP/-R": "Thatcher",
     "THAFRP": "Thatcher",
     "WEUL/HEPL": "Wilhelm",
-    "S*URBG": "Zucker", // mostly for "Mark Zuckerberg"
 
     "PWAOEUD/-PB": "Biden",
     "TKPWO*R": "Gore",
     "KAPL/HRA": "Kamala", // give up "Kamilah"
     "POPL/PAEU/KWROE": "Pompeo", // cf. TKPWAL/HRAEU/KWROE "Galileo"
+
+    // Drop * for full names
+    "AOE/HROPB": "Elon",
+    "PH*UFBG": "Musk",
+    "AOE/HROPB/PHUFBG": "Elon Musk",
+    "PHARBG/S*URBG/PWERG": "Mark Zuckerberg",
 
     // Places
     "KWRAOURP/KWRAPB": "European",
