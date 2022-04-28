@@ -802,7 +802,6 @@
     "PWOEFRPB": "bowman", // archer
     "PWOUFRPB": "bowman", // rower
     "TPRAOEFRPB": "freeman",
-    "HAOUFRPB": "human", // alternative to HAOUPL
     "HRAEUFRPB": "layman",
     "PHROUFRPB": "plowman",
     "SAEFRPB": "seaman",
