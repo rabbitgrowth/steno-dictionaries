@@ -3520,7 +3520,29 @@
 
     "WUZ": "{#}", // JUJ/(no-op)/*MT -> judgement
 
-    // -- Reflexive pronouns ---------------------------------------------------
+    // -- Important word families ----------------------------------------------
+
+    "AFRD": "afterward", // use STPORD for "afford" (custom)
+    "PWAURD": "backward",
+    "TPAURD": "forward", // standard
+    "TAURD": "toward",
+
+    "AOEFT": "east",        // standard
+    "AO*EFT": "East",       // standard
+    "AOERPB": "eastern",    // capitalized by default
+    "AO*ERPB": "Eastern",   // standard
+    "SOUT": "south",        // standard
+    "SO*UT": "South",       // standard
+    "SOURPB": "southern",   // standard
+    "SO*URPB": "Southern",  // standard
+    "TPHORT": "north",      // standard
+    "TPHO*RT": "North",     // standard
+    "TPHORPB": "northern",  // capitalized   by default
+    "TPHO*RPB": "Northern", // uncapitalized by default
+    "WEFT": "west",         // standard
+    "W*EFT": "West",        // standard
+    "WERPB": "western",     // capitalized by default
+    "W*ERPB": "Western",    // standard
 
     "PHEUFL": "myself", // overrides "missile" [1]
     "KWROUFRL": "yourself",
@@ -3548,11 +3570,6 @@
     "TKOPT": "adopt",  // standard
     "TKAPT": "adapt",  // by default just "dapt" - meant to be used with {a^}?
     "TKAEPT": "adept", // A easily folded in; TKEPT is "department"
-
-    "AFRD": "afterward", // use STPORD for "afford" (custom)
-    "PWAURD": "backward",
-    "TPAURD": "forward", // standard
-    "TAURD": "toward",
 
     "TKPWREF": "aggressive", // use TKPWRAO*EF for "grieve" (TKPWRAOEF "grief" + *)
     "TKPWREGS": "aggression",
