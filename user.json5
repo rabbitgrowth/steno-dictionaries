@@ -383,6 +383,7 @@
     "KOERPBD": "correspond",
     "KOERPBT": "correspondent",
     "KURPB": "curtain",
+    "TKHRAEUR": "declare",
     "TKHRAOEUPB": "decline", // could also be "deadline"; "midline" seems too obscure
     "TKAOEFT": "defeat", // use TKEFBGT for "defect"
     "TKOPBT": "donate", // use TKUPT for "doesn't" (custom)
@@ -429,6 +430,7 @@
     "POERBL": "potential",
     "PHROERBL": "potentially",
     "PROFBL": "profitable",
+    "PROPGD": "propaganda",
     "PREFT": "protest", // give up "previous to"
     "PREFRT": "protester",
     "PURPT": "purport",
@@ -1079,6 +1081,7 @@
     "SPWEPBLS": "intensely",
     "HRAOUD/KROULS": "ludicrously",
     "PHAFPBLT": "magnificently",
+    "PHEUL/TAERL": "militarily",
     "PHRABG/HROULS": "miraculously",
     "PHEUFT/KWROULS": "mysteriously",
     "TPHAOELT": "neatly",
@@ -1391,6 +1394,8 @@
     "STKAFBGS": "disaffection",
     "STKARPL": "disarm",
     "STKARPLT": "disarmament",
+    "STKPWHRAOEF": "disbelief", // uses every key on the left
+    "STKPWHREF": "disbelieve",
     "STKARD": "discard", // TK+S+K, cf. STKORD "discord"
     "STKERPB": "discern",
     "STKERPLT": "discernment", // drop "n", cf. A/HRAOEUPLT "alignment"
