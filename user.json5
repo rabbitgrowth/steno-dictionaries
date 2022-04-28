@@ -786,7 +786,7 @@
     "KROEUPT": "crypto",
     "KRO*EUPT": "{crypto^}",
 
-    "EBGS": "ex",
+    "EBGS": "ex",      // former partner
     "*EBGS": "{ex-^}", // with hyphen
 
     // Suffixes
