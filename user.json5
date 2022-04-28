@@ -790,13 +790,11 @@
     "*EBGS": "{ex-^}", // with hyphen
 
     // Suffixes
-    "ABG": "{^atic}", // - cf. TKRABG "dramatic", PRO*B/ABG "problematic"
-                      // - e.g., KROEPL/ABG "chromatic" ("chrome" + {^atic})
-                      // - give up "ack"
+    "ABG": "{^atic}", // cf. TKRABG "dramatic", PRO*B/ABG "problematic"; give up "ack"
     "PWO*BGS": "{^box}",
     "TKERBG": "{^-decker}", // "double-decker"
     "HRAO*D": "{^load}",    // "truckload", "boatload", "shitload", etc.
-    "WAO*EUD": "{^wide}",   // instead of {^-wide}
+    "WAO*EUD": "{^wide}",   // without hyphen
     "WR*EUR": "{^writer}",
     "KWREFRT": "{yester^}",
 
@@ -812,9 +810,10 @@
     "SHOEFRPB": "showman",
     "STPHOEFRPB": "snowman",
 
+    "SHOP": "shop", // standard
+    "SHORP": "shopper",
     "SHO*P": "{^shop}",
     "SHO*RP": "{^shopper}",
-    "SHORP": "shopper",
 
     "*D": "{^'d}",  // standard
     "*L": "{^'ll}", // swap with {^le} [1]
