@@ -285,7 +285,6 @@
     "PHES/PHRAOEUFD": "mesmerized",
     "PHES/PHRAOEUFG": "mesmerizing",
     "PHEFRPBG": "messenger", // "mesnjr"; alternative to PHAEPBG
-    "PHRAPBLG": "mirage", // misstroke for "planning"
     "PHAOUFPL": "mutual",
     "TPHAFPBT": "nascent",
     "TPHAOERPBS": "nearness",
@@ -419,10 +418,13 @@
     "HREPBZ": "lessons", // use -S for "lens"
     "HRAOEUFPL": "lifetime", // "lifem"
     "PHRAUD": "maraud",
+    "PHRAOPB": "maroon",
     "PHEL": "medical", // add * for "Mel"
     "THOD": "method",
     "PHEUL/SHA": "militia",
+    "PHRAPBLG": "mirage", // misstroke for "planning"
     "PHOFT": "modest", // use PHOEFT for "most"
+    "PHRAS": "morass",
     "PHOEFGS": "motivation",
     "TPHOUDZ": "nowadays",
     "OFRPL": "organism", // "orsm"
