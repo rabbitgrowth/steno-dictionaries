@@ -3504,21 +3504,17 @@
 
     "TK-LG": "{^^}", // TK-LS but vertically aligned
 
-    "SK-GS": "{*?}", // retrospectively add space
-                     // use S/SK-G for "is asking"
-                     // SK <- -> GS (visually torn apart)
-    "WR-RB": "{*!}", // retrospectively delete space
-                     // use WR-B for "whereby"
-                     // -> WR RB <- (visually sticking together)
+    "SK-GS": "{*?}", // retrospectively add    space; use S/SK-G for "is asking"
+    "WR-RB": "{*!}", // retrospectively delete space; use WR-B   for "whereby"
 
-    "SKWR-RBGS": "{#command(a)}", // select all on Mac
+    "SKWR-RBGS": "{#command(a)}", // select all on macOS
 
-    "T-B": "{#Tab}", // carries capitalization unlike "\t"; give up "it be"
-    "W-P": "{#Command(Tab)}", // "window push"? use WORD/PRES for "WordPress"
+    "T-B": "{#tab}", // carries capitalization unlike "\t"; give up "it be"
+    "W-P": "{#command(tab)}", // "window push"? use WORD/PRES for "WordPress"
 
-    "SK-P": "{#Escape}", // instead of TPEFBG
+    "SK-P": "{#escape}",
 
-    "WUZ": "{#}", // JUJ/(no-op)/*MT -> judgement
+    "WUZ": "{#}", // no-op
 
     // -- Important word families ----------------------------------------------
 
