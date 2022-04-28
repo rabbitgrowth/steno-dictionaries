@@ -128,6 +128,8 @@
     "KPHRET": "complete",       // with KPHRELT "completely"
     "KPHREGS": "completion",
     "KWEPBL": "consequential",  // with KWEPBS "consequence"
+    "KOURPBT": "counter",       // with OEUT  "auto"
+    "KO*URPBT": "{counter^}",   //      O*EUT {auto^}
     "KRAOEFT": "creativity",    // with KRAOEF "creative"
     "KRED/AOULT": "credulity",  // with EUPB/KRED/AOULT "incredulity"
     "TKOEUPBL": "denial",       // with TKOEUPB "deny"
@@ -4026,7 +4028,6 @@
     "PWOEUR": "bury",     // OEU to reflect weirdness of "u" being pronounced /ɛ/
     "KR-RG": "category",  // [c]ate[g]o[r]y; also symmetrical
     "KPHOS": "cosmos",    // "os" shared between "c" and "m"
-    "KOURPB": "counter",  // think flap "t"; KOURPBT is {counter^}
     "KREPB": "century",   // first three letters
     "KWOEBG": "echo",     // left side ("qo"?) "echoing" the right side visually
     "STPHUR": "ensure",   // "N-shur" (TPH + SH); overrides "insure" [1]
