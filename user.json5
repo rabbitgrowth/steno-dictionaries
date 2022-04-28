@@ -1343,6 +1343,8 @@
     "KPWREF": "impressive", // cf. EUPL/PREF
     "KPWREUPBT": "imprint",
     "KPWREUPT": "imprint",
+    "KPWREUFPB": "imprison",
+    "KPWREUFPLT": "imprisonment",
     "KPWROF": "improve",        // cf. EUPL/PROF
     "KPWROFPLT": "improvement", // or just use PROFPLT
     "KPWULS": "impulse",
