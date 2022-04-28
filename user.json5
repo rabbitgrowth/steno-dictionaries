@@ -417,14 +417,10 @@
     "HREPB": "lesson", // not to be confused with HREFPB "eleven"
     "HREPBZ": "lessons", // use -S for "lens"
     "HRAOEUFPL": "lifetime", // "lifem"
-    "PHRAUD": "maraud",
-    "PHRAOPB": "maroon",
     "PHEL": "medical", // add * for "Mel"
     "THOD": "method",
     "PHEUL/SHA": "militia",
-    "PHRAPBLG": "mirage", // misstroke for "planning"
     "PHOFT": "modest", // use PHOEFT for "most"
-    "PHRAS": "morass",
     "PHOEFGS": "motivation",
     "TPHOUDZ": "nowadays",
     "OFRPL": "organism", // "orsm"
@@ -1635,6 +1631,12 @@
     "PWHELD": "beheld",
     "PWHOEF": "behove",  // British English
     "PWHAOF": "behoove", // American English
+
+    // PHR for mər-
+    "PHRAUD": "maraud",
+    "PHRAOPB": "maroon",
+    "PHRAPBLG": "mirage", // misstroke for "planning"
+    "PHRAS": "morass",
 
     // WR for rev-
     // Precedents for using W for /v/: TKWAOEUS "device"
