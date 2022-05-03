@@ -3791,6 +3791,12 @@
     "R*F": "irregardless of", // give up "reticular formation"
     "R*FT": "irregardless of the",
 
+    "RERP/HEPBD": "reprehend", // with -R
+    "RERP/HEPBGS": "reprehension",
+    "RERP/HEPBS/-BL": "reprehensible", // standard
+    "RERP/HEPBS/-BLT": "reprehensibility",
+    "RERP/HEPBS/PWHREU": "reprehensibly",
+
     "SEUFRP": "simp",
     "SEUFRPL": "simple", // standard
     "SPHREU": "simply",  // standard
