@@ -3806,13 +3806,14 @@
     "SPHREUFBGS": "simplification",
     "SEUFRPL/TOPB": "simpleton",
 
-    "SUFBT": "subjective", // SUBT "subject" + -F
-    "OFBT": "objective",   // OBT  "object"  + -F
-    "SUB/TEUFT": "subjectivity", // cf. OB/TEUFT  "objectivity"
-    "OBT/EUFT": "objectivity",   // cf. SUBT/EUFT "subjectivity"
-                                 // "objectist" is rare
-    // or use SUFBT/-TEU ("subjective" + {^ity})
-    //        OFBT/-TEU  ("objective"  + {^ity})
+    "SUBT": "subject", // standard
+    "OBT": "object",   // standard
+    "SUFBT": "subjective",
+    "OFBT": "objective",
+    "SUB/TEUFT": "subjectivity",
+    "SUBT/EUFT": "subjectivity", // standard
+    "OB/TEUFT": "objectivity",   // standard
+    "OBT/EUFT": "objectivity",
 
     "STPHEUPL": "synonym",
     "STPHOPLS": "synonymous", // cf. TPHOPLS "anonymous"
