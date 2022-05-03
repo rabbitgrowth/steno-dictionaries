@@ -1296,6 +1296,8 @@
     "KPWRAEUFG": "embracing",
     "KPWROEURD": "embroider",
     "KPWROEUD/REU": "embroidery", // or use KPWROEURD/KWREU ("embroider" + {^y})
+    "KPWRO": "embryo",  // cf. EPL/PWRO
+    "KPWROE": "embryo", // cf. EPL/PWROE
     "KPWROR": "emperor",
     "KPWRO*R": "Emperor",
     "KPWAOEUR": "empire",
@@ -2855,6 +2857,7 @@
     "KAFRPS": "campus",   // use -Z for "camps"
     "KHORS": "chorus",    // use -Z for "chores"
     "SEURBGS": "circus",  // use -Z for "circumstances"
+    "TPAOETS": "fetus",   // "feets" is not a word
     "TPOEBGS": "focus",   // use -Z for "folks"
     "HUPLS": "hummus",    // use -Z for "hums"
     "PHARBGS": "Marcus",  // use -Z for "marks"
