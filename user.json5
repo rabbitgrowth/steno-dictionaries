@@ -304,6 +304,7 @@
     "PROF/SEU": "prophecy", // use PROF/SAOEU for "prophesy"
     "PUR": "purr", // overrides "purchaser" [1]
     "PEURPLD": "pyramid",
+    "RE/PUBL/KAPB": "republican",
     "SKAPBLD": "scandal",
     "SRAOEPB": "serene", // use SRAOEPBT for "convenient"
     "SRAOES": "series",
@@ -1822,7 +1823,7 @@
     "PER/SREFRT": "perversity",
     "SKAEUFRT": "scarcity",
     "SPAFRT": "sparsity",
-    "SRAFRT": "varsity", // consistent with AOUFRT "university"
+    "SRAFRT": "varsity",
 
     // -FRD for -rsed
     // Precedents: KUFRD "cursed", TPOFRD "forced"
@@ -3642,6 +3643,17 @@
     "SPWAOEFPBT": "indecent",
     "SPWAOEFPBS": "indecency",
 
+    "TK*EPL": "Dem", // overrides {demi^} [1]
+    "TKPHAT": "democrat",
+    "TKPHABG": "democratic",
+    "TKPHALG": "democratically",
+    "TKPHA*T": "Democrat",
+    "TKPHA*BG": "Democratic",
+    "TKPHOERBGS": "democracy", // "dmokrsy"
+    "TKPHOBGS": "democracy",   // "dmox"
+    "TKPHORBG/TAOEUZ": "democratize",
+    /*1*/ "TKPHEU": "{demi^}", // cf. SPHEU {semi^}
+
     "STKERT": "desert", // verb; swap with "dessert"
     "TKEFRT": "desert", // noun
     "STK*ERT": "dessert",
@@ -3946,7 +3958,6 @@
 
     // -- Vocabulary -----------------------------------------------------------
 
-    // Missing words
     "ART/SEU/TPART/SEU": "artsy-fartsy",
     "TKO/TKO": "dodo",
     "TKOE/TKOE": "dodo",
@@ -3991,26 +4002,8 @@
     "TKUFRPT": "Dumpty",
     "TKHUFRPT": "Humpty Dumpty",
 
-    // -- Topics ---------------------------------------------------------------
-
-    // US political parties
-    "RUP": "Republican",
-    "RE/PUBL/KAPB": "republican", // "republican with a small r"
-                                  // is less common and doesn't need a brief
-    "TK*EPL": "Dem", // cf. TKEPL "dem" ("dem big bucks"); overrides {demi^} [1]
-    "TKPHAT": "democrat",
-    "TKPHABG": "democratic",
-    "TKPHALG": "democratically",
-    "TKPHA*T": "Democrat",
-    "TKPHA*BG": "Democratic",
-    "TKPHOERBGS": "democracy", // "dmokrsy"
-    "TKPHOBGS": "democracy",   // "dmox"
-    "TKPHORBG/TAOEUZ": "democratize",
-    /*1*/ "TKPHEU": "{demi^}", // consistent with SPHEU {semi^}
-
-    // Covid-19
     "KROEPB/SRAOEURS": "coronavirus",
-    "KRAOEURS": "coronavirus", // "crirus"
+    "KRAOEURS": "coronavirus",
     "KOEFD": "Covid",
     "KOEFD/1-9": "Covid-19",
 
