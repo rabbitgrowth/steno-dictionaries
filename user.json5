@@ -4002,6 +4002,8 @@
     "TKUFRPT": "Dumpty",
     "TKHUFRPT": "Humpty Dumpty",
 
+    "PWREBGS/EUT": "Brexit",
+    "PWREGT": "Brexit", // cf. TEGT "text"
     "KROEPB/SRAOEURS": "coronavirus",
     "KRAOEURS": "coronavirus",
     "KOEFD": "Covid",
