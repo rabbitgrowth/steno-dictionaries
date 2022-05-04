@@ -2250,10 +2250,6 @@
     "TK*GS": "diagnosis", // just for consistency; TK-GS works too
     "TK*GZ": "diagnoses",
 
-    "KPRAOEPL": "extreme",  // overrides "extremely"
-    "KPRAOEL": "extremely", // sort of like PHAEUBG "make", PHAEUG "making"
-                            // where -G swallows -BG; here -L swallows -PL
-
     "TREUPBG": "intrinsic", // the * is probably for the -nk sound,
                             // but I think briefs don't have to be
                             // so phonetically strict
@@ -3667,6 +3663,10 @@
     "ER": "err",       // give up {er^}
     "*ER": "error",    // use -R for {^er} (custom)
     "ERPBT": "errant", // but "errand" is ER/APBD since ERPBD is "earned"
+
+    "KPRAOEPL": "extreme", // by default "extremely"
+    "KPRAOEL": "extremely",
+    "KPREPLT": "extremity",
 
     "TPREUF": "forgive",
     "TPRAEUF": "forgave", // cf. TKPWAEUF "gave"
