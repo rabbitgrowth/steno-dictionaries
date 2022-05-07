@@ -1611,20 +1611,18 @@
     "SRER/TPEUG": "verifying",
 
     // KW for conv-
-    // This is standard in Plover, and works very consistently:
-    //   KWAOEPBT "convenient"
-    //   KWEPBGS  "convention"
-    //   KWERPBLG "converge"
-    //   KWERS    "converse"
-    //   KWERGS   "conversion"
-    //   KWERT    "convert"
-    //   KWEUBGT  "convict"
-    //   KWEUBGS  "conviction"
-    //   KWEUPBS  "convince"
-    //   KWULS    "convulse"
-    //   KWULGS   "convulsion"
-    // "convene" is KAUPB/SRAOEPB, since KWAOEPB is "queen" already.
-    // KWAEU "convey" doesn't work for some reason.
+    // Precedents: KWAOEPBT "convenient"
+    //             KWEPBGS  "convention"
+    //             KWERPBLG "converge"
+    //             KWERS    "converse"
+    //             KWERGS   "conversion"
+    //             KWERT    "convert"
+    //             KWEUBGT  "convict"
+    //             KWEUBGS  "conviction"
+    //             KWEUPBS  "convince"
+    //             KWULS    "convulse"
+    //             KWULGS   "convulsion"
+    // But "convene" is KAUPB/SRAOEPB, since KWAOEPB is taken by "queen".
     "KWAEU": "convey",
     "KWAEUD": "conveyed", // give up "Quade"
     "KWAEUR": "conveyor",
@@ -1644,9 +1642,7 @@
     "PHRAS": "morass",
 
     // WR for rev-
-    // Precedents for using W for /v/: TKWAOEUS "device"
-    //                                 TKWOET   "devote"
-    // (mnemonic: Hong Kong accent)
+    // Precedents for using W for "v": TKWAOEUS "device", TKWOET "devote"
     "WRA*PL": "revamp",
     "WRAOEL": "reveal",
     "WREPBG": "revenge",
