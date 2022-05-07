@@ -875,6 +875,7 @@
     "SAERT": "assert",
     "SAERGS": "assertion",
     "SAES": "assess",        // use -Z for "seas"
+    "SAEFD": "assessed",     // use STPAOEUD for "satisfied"
     "SAEFG": "assessing",    // use STPAOEUG for "satisfying"
     "SAEFPLT": "assessment", // or just use SEFPLT
     "SAET": "asset",
