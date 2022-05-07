@@ -882,12 +882,12 @@
     "TAEPBD": "attend",
     "TAEPBTD": "attended",
     "SRAEPBG": "avenge",
-    "SRAERT": "avert", // frees up AFRT ("arst") for "artist" [2]
+    "SRAERT": "avert", // frees up AFRT for "artist" [2]
     "SRAERS": "averse", // use -Z for "varies"
     "SRAERGS": "aversion",
     /*1*/ "SAEF": "safe", // use STPAOEU for "satisfy"
           "SAEFL": "safely",
-    /*2*/ "AFRT": "artist",
+    /*2*/ "AFRT": "artist", // "arst"
 
     "SHRAEP": "asleep",
     "SHREP": "sleep", // but prefer SHRAOEP
