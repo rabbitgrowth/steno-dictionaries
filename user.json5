@@ -899,19 +899,23 @@
     "SHRAEP": "asleep",
     "SHREP": "sleep", // but prefer SHRAOEP
 
-    // ... or use S when folding in A leads to conflict or is confusing
+    // ... or use S when
+    // 1) there's already A; can't fold in A if it's already there.
+    // 2) there's O; even when there's no conflict, the physical adjacency
+    //    of A and O makes AO feel like one inseparable unit. For example,
+    //    PWRAOD feels much more like "brood" than "abrod".
     "SPWRAOD": "abroad",
     "SPWROD": "abroad",
     "SKROS": "across",
     "STPORD": "afford",
     "SHROEPB": "alone", // HRAOEPB is "lean"; overrides "Sloan" [1]
-    "SHROUD": "aloud",  // add * for "shroud", like SHRUG "slug" vs SHR*UG "shrug"
-    "SPART": "apart",   // can't fold in A when there's already an A
+    "SHROUD": "aloud",  // add * for "shroud", like SHRUG "slug", SHR*UG "shrug"
+    "SPART": "apart",
     "SRAOEUF": "arrive",
     "SRAOEUFL": "arrival",
-    "SWOEUD": "avoid",  // SRAOEUD is "vied"
-    "SWOU": "avow",     // SRAOU is "view"
-    "SWOUL": "avowal",  // SRAOUL is "value"
+    "SWOEUD": "avoid", // SRAOEUD is "vied"
+    "SWOU": "avow",    // SRAOU is "view"
+    "SWOUL": "avowal", // SRAOUL is "value"
     "SWAEUBG": "awake",
     "SWOEBG": "awoke",
     /*1*/ "SHRO*EPB": "Sloan",
