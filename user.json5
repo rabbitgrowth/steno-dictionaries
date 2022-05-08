@@ -1196,7 +1196,7 @@
     "SAFRPB": "salmon",
     "SAOEFRPB": "semen",
     "SUFRPB": "summon", // alternative to SPHOPB
-    // But "common" remains KPHOPB, since KOFRPB is "conch".
+    // But KOFRPB "conch", KPHOPB "common"
 
     // -FRB for -mber
     "AFRB": "amber",
@@ -1627,7 +1627,7 @@
     //             KWEUPBS  "convince"
     //             KWULS    "convulse"
     //             KWULGS   "convulsion"
-    // But "convene" is KAUPB/SRAOEPB, since KWAOEPB is taken by "queen".
+    // But KWAOEPB "queen", KAUPB/SRAOEPB "convene"
     "KWAEU": "convey",
     "KWAEUD": "conveyed", // give up "Quade"
     "KWAEUR": "conveyor",
@@ -1836,6 +1836,13 @@
     "SOFRD": "sourced",
     "TRA/SREFRD": "traversed",
     "SREFRD": "versed",
+
+    // -FRD for -zard
+    // Precedent: WEUFRD "wizard"
+    "PWHREUFRD": "blizzard",
+    "HAFRD": "hazard",
+    "HREUFRD": "lizard",
+    // But PWUFRD "buffered", PWUZ/ARD "buzzard"
 
     // -FP, -RT, or TUR for -ture
     //               -FP          -RT         TUR  (and KHUR, -GS, -BGS...)
