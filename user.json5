@@ -116,8 +116,6 @@
 
     // -- Consistency ----------------------------------------------------------
 
-    "KPEBL": "accessible",      // with KPES "access"
-    "KPEBLT": "accessibility",
     "A/KUFPL": "accustom",      // with A/KUFPLD "accustomed"
     "TKPHRAL": "admiral",       // with TKPHAOEUR "admire"
     "AFBG": "affect",           // with EFBG "effect"
@@ -3575,6 +3573,10 @@
     /*1*/ "PHEULS": "missile", // use -Z for "mills"
 
     // -- Word families --------------------------------------------------------
+
+    "KPES": "access", // standard
+    "KPEBL": "accessible",
+    "KPEBLT": "accessibility",
 
     "STKEPB": "accident",    // standard
     "STKEPBL": "accidental", // standard
