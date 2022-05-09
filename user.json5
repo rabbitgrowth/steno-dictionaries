@@ -3409,7 +3409,10 @@
     "TPEUPB/TKE/SELG": "fin de siècle",
 
     // German
-    "SRELT/SPHERZ": "Weltschmerz",
+    "SRELT/SPHERZ": "Weltschmerz", // /ʃm/ not possible so use /s/
+
+    // Italian
+    "KAR/SKAOUR/KWRO": "chiaroscuro", // /kj/ not possible so drop /j/
 
     // Latin
     "STATS/KWO": "status quo",
