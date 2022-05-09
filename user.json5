@@ -3174,13 +3174,16 @@
 
     // Places
     "KWRAOURP/KWRAPB": "European",
-    "TPEUL/PEUPB/KWRO": "Filipino",
     "HRAS/SRAEUGS": "Las Vegas",
     "HROS/APBLGS": "Los Angeles",
     "TPHORBG": "New York", // misstroke for "no,"; cf. TPHORBG/TAOEUPLS "New York Times"
     "PRAOU": "Peru",
     "PRAOUFPB": "Peruvian",
     "RUGS": "Russian", // use -Z for "rugs"
+
+    // Demonyms
+    "TPEUL/PEUPB/KWRA": "Filipina",
+    "TPEUL/PEUPB/KWRO": "Filipino",
 
     // -- Capitalization -------------------------------------------------------
 
