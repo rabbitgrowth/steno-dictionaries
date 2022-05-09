@@ -1567,6 +1567,12 @@
     "KREUF": "constrictive", // SKREUF is "sacrifice" (custom)
     // And "construe" remains KAUPB/STRAOU, since SKRAOU is taken by "screw".
 
+    // SPW for interr-
+    // Precedent: SPWRUPT "interrupt"
+    "SPWRAEURBL": "interracial",
+    "SPWRELGS": "interrelation", // cf. RELGS "relation"
+    "SPWRELT": "interrelate",    // cf. RELT  "relate"
+
     // TK for ad-
     "TKPHEUBGS": "admix", // use -Z for "academics"; AD/PHEUBGS remains "add mix" ("add mix to the bowl")
     "TKWAPBG": "advantage",     // frees up SRAPBG for "vantage" [1]
