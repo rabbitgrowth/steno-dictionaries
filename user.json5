@@ -1299,7 +1299,22 @@
     "SPWAOEBG": "antique",
     "SPWHRER": "antler",
 
-    // KPW for emb-, emp-, imb-, and imp-
+    // KPW for [aei]m[bp]-
+    "KPWEUPBS": "ambience", // misstroke for "convince"
+    "KPWEUPBT": "ambient",
+    "KPWEUG/AOUT": "ambiguity", // or use TKPWAOUT
+    "KPWEUG/WOUS": "ambiguous", // or use TKPWOUS
+    "KPWEUGS": "ambition",
+    "KPWEURBS": "ambitious",
+    "KPWEUFLS": "ambivalence", // cf. APL/PWEUFLS
+    "KPWEUFLT": "ambivalent",  // cf. APL/PWEUFLT
+    "KPWHRAPBS": "ambulance", // or use PWHRAPBS
+    "KPWURB": "ambush",
+
+    "KPWHREUF": "amplify", // cf. SPEF "specify"
+    "KPWHREUTD": "amplitude",
+    "KPWHREUFBGS": "amplification",
+
     "KPWAUPL": "embalm",
     "KPWARBG": "embark",
     "KPWAES": "embassy",
@@ -1317,6 +1332,15 @@
     "KPWROEUD/REU": "embroidery", // or use "embroider" + {^y}
     "KPWRO": "embryo",  // cf. EPL/PWRO
     "KPWROE": "embryo", // cf. EPL/PWROE
+
+    "KPWARS": "embarrass", // cf. EPL/PWARS
+    "KPWRAS": "embarrass", // cf. EPL/PWRAS; form for easier inflections
+    "KPWRAFD": "embarrassed",
+    "KPWRAFG": "embarrassing",
+    "KPWRAFLG": "embarrassingly",
+    "KPWRAPLT": "embarrassment",  // cf. EPL/PWRAPLT
+    "KPWRAFPLT": "embarrassment", // cf. EPL/PWRAFPLT
+
     "KPWROR": "emperor",
     "KPWRO*R": "Emperor",
     "KPWAOEUR": "empire",
@@ -1327,9 +1351,12 @@
     "KPWHROEUPLT": "employment",
     "KPWOUR": "empower",
     "KPWOURPLT": "empowerment",
+    /*1*/ "PHROEU": "ploy",
+
     "KPWEFL": "imbecile", // /ˈɪmbəsəl/
     "KPWAOEUB": "imbibe",
     "KPWAOU": "imbue",
+
     "KPWABGT": "impact",
     "KPWAEUR": "impair",
     "KPWARBL": "impartial",
@@ -1370,36 +1397,8 @@
     "KPWROF": "improve",        // cf. EUPL/PROF
     "KPWROFPLT": "improvement", // or use PROFPLT
     "KPWULS": "impulse",
-    /*1*/ "PHROEU": "ploy",
 
-    "KPWARS": "embarrass", // cf. EPL/PWARS
-    "KPWRAS": "embarrass", // cf. EPL/PWRAS; form for easier inflections
-    "KPWRAFD": "embarrassed",
-    "KPWRAFG": "embarrassing",
-    "KPWRAFLG": "embarrassingly",
-    "KPWRAPLT": "embarrassment",  // cf. EPL/PWRAPLT
-    "KPWRAFPLT": "embarrassment", // cf. EPL/PWRAFPLT
-
-    // Stretch KPW to mean amb- and amp-
-    "KPWEUPBS": "ambience", // misstroke for "convince"
-    "KPWEUPBT": "ambient",
-    "KPWEUG/AOUT": "ambiguity", // or use TKPWAOUT
-    "KPWEUG/WOUS": "ambiguous", // or use TKPWOUS
-    "KPWEUGS": "ambition",
-    "KPWEURBS": "ambitious",
-    "KPWEUFLS": "ambivalence", // cf. APL/PWEUFLS
-    "KPWEUFLT": "ambivalent",  // cf. APL/PWEUFLT
-    "KPWHRAPBS": "ambulance", // or use PWHRAPBS
-    "KPWURB": "ambush",
-    "KPWHREUFBGS": "amplification",
-    "KPWHREUF": "amplify", // cf. SPEF "specify"
-    "KPWHREUTD": "amplitude",
-
-    // Stretch KPW even further to mean inp-
-    // The only two English words that begin with inp- are "input"
-    // and "inpatient". But KPWAEURBT is already "i*m*patient",
-    // so just use EUPB/PAEURBT for "inpatient".
-    "KPWUT": "input", // misstroke for "gut"
+    "KPWUT": "input", // can be pronounced /ˈɪmpʊt/; misstroke for "gut"
 
     // -- Sound patterns -------------------------------------------------------
 
