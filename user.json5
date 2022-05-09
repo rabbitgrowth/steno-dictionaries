@@ -604,7 +604,6 @@
     "PWAOUL": "bully", // overrides "boule" [1]
     "PWAOUPB": "bunny",
     "KAOURL": "curly",
-    "KAOURPBS": "currency", // use KRURPBS for "occurrence" (custom)
     "HAOURPBG": "hungry",
     "SAOURL": "surly",
     /*1*/ "PWAO*UL": "boule",
@@ -2813,6 +2812,7 @@
     "SAOEUPBS": "science", // use -Z for "signs"
     /*1*/ "TPALS": "phallus",
 
+    // -S for -əns
     "SEPS": "acceptance",    // use -Z for "accepts"
     "AEURGS": "arrogance",   // use -Z for "airings"
     "AEURGT": "arrogant",
@@ -2827,6 +2827,7 @@
     "SREFLS": "irrelevance", // use -Z for "vessels"
     "SREFLT": "irrelevant",
 
+    // -S for -əs
     "STKAOEURS": "desirous",  // use -Z for "desires"
     "STKAFRS": "disastrous",  // use -Z for "disasters"
     "STKAFRTS": "disastrous", // more phonetic ("dsastrs")
@@ -2881,9 +2882,12 @@
     "SOLS": "solace",
 
     // Use *S for special three-way conflicts
-                            // -S       -Z
-    "SKWRAO*EPBS": "genus", // "genius" "genes"
-    "T*EPBS": "tennis",     // "tense"  "tens"
+    "SKWRAO*EPBS": "genus", // -S "genius", -Z "genes"
+    "T*EPBS": "tennis",     // -S "tense",  -Z "tens"
+
+    // -S for -cy
+    "KURPBS": "currency",    // cf. KURPBT  "current";   use -Z for "curtains"
+    "TPEURBS": "efficiency", // cf. TPEURBT "efficient"; use -Z for "fishes"
 
     // -- Verb forms -----------------------------------------------------------
 
