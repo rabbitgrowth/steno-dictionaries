@@ -2812,21 +2812,6 @@
     "SAOEUPBS": "science", // use -Z for "signs"
     /*1*/ "TPALS": "phallus",
 
-    // -S for -əns
-    "SEPS": "acceptance",    // use -Z for "accepts"
-    "AEURGS": "arrogance",   // use -Z for "airings"
-    "AEURGT": "arrogant",
-    "TKURBS": "disturbance", // use -Z for "disturbs"
-    "KPELS": "excellence",   // use -Z for "compels"
-    "KPELT": "excellent",
-    "PORPLS": "performance", // use -Z for "performs"
-    "RERS": "remembrance",   // use -Z for "remembers"
-
-    "REFLS": "relevance",    // use -Z for "revels"
-    "REFLT": "relevant",     // standard
-    "SREFLS": "irrelevance", // use -Z for "vessels"
-    "SREFLT": "irrelevant",
-
     // -S for -əs
     "STKAOEURS": "desirous",  // use -Z for "desires"
     "STKAFRS": "disastrous",  // use -Z for "disasters"
@@ -2884,6 +2869,21 @@
     // Use *S for special three-way conflicts
     "SKWRAO*EPBS": "genus", // -S "genius", -Z "genes"
     "T*EPBS": "tennis",     // -S "tense",  -Z "tens"
+
+    // -S for -əns
+    "SEPS": "acceptance",    // use -Z for "accepts"
+    "AEURGS": "arrogance",   // use -Z for "airings"
+    "AEURGT": "arrogant",
+    "TKURBS": "disturbance", // use -Z for "disturbs"
+    "KPELS": "excellence",   // use -Z for "compels"
+    "KPELT": "excellent",
+    "PORPLS": "performance", // use -Z for "performs"
+    "RERS": "remembrance",   // use -Z for "remembers"
+
+    "REFLS": "relevance",    // use -Z for "revels"
+    "REFLT": "relevant",     // standard
+    "SREFLS": "irrelevance", // use -Z for "vessels"
+    "SREFLT": "irrelevant",
 
     // -S for -cy
     "KURPBS": "currency",    // cf. KURPBT  "current";   use -Z for "curtains"
