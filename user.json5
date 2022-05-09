@@ -2836,6 +2836,7 @@
     "KHRAPL/ROUS": "clamorous", // cf. TKPWHRAPL/ROUS "glamorous"
     "TKAEURPBG": "danger",      // use TKAEURG for "daring"
     "TKAEURPBGS": "dangerous",  // use -Z for "dangers"
+    "TKAEURPBLGS": "dangerously",
     "TKPWHRARPL": "glamor",
     "TKPWHRARPLS": "glamorous", // use -Z for "glamors"
     "REURG": "rigor",
