@@ -3067,10 +3067,10 @@
     // -- Adjective forms ------------------------------------------------------
 
     // Superlatives
-    // You can often drop the final consonant (typically "t") in the base adjective.
+    // The final consonant in the base adjective can often be dropped.
     // Precedents: HRAEUFT "latest", TKPWRAEFT "greatest"
     //                        ^ dropped             ^ dropped
-    "PWEUFT": "biggest", // PWEUG, PWEURG, PWEUFT ("big, bigr, bist")
+    "PWEUFT": "biggest",
     "PWRAOEUFT": "brightest",
     "KHROEFT": "closest",
     "TKAFRT": "darkest",
