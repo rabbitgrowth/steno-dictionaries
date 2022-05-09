@@ -4041,11 +4041,18 @@
 
     // -- Ologies and ologists -------------------------------------------------
 
-    // ...OLG   -ology    (standard)
-    // ...OLGS  -ologist  (use -Z for -ologies)
-    // .../HR-L -ological (by default -ological is HR-LG and -logical is HR-L,
-    //                     but we remapped HR-LG to "likely", so just borrow the
-    //                     -logical stroke)
+    // Plover:
+    //  HR-L       {^logical}
+    //  HR-LG      {^ological}
+    //  ~OLG       -ology      (e.g., PWOLG       "biology"     )
+    //  ~OLG/EUFT  -ologist    (e.g., PWOLG/EUFT  "biologist"   )
+    //  ~OLG/K-L   -ological   (e.g., PWOLG/K-L   "biological"  )
+    //  ~HR-LG     -ological   (e.g., PWHR-LG     "biological"  )
+    //  ~OLG/KHREU -ologically (e.g., PWOLG/KHREU "biologically")
+    // Changes:
+    //  ~OLGS -ologist    (use -Z for -ologies)
+    //  HR-L  -ological   (HR-LG is remapped to "likely")
+    //  HR*L  -ologically (no more Ls to fold in, so add *)
 
     "A*RPBT/POLG": "anthropology", // more phonetic *and* easier to press with -R
     "A*RPBT/POLGS": "anthropologist",
