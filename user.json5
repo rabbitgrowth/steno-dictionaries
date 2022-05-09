@@ -2889,8 +2889,9 @@
     "SREFLT": "irrelevant",
 
     // -S for -cy
-    "KURPBS": "currency",    // cf. KURPBT  "current";   use -Z for "curtains"
-    "TPEURBS": "efficiency", // cf. TPEURBT "efficient"; use -Z for "fishes"
+    "KURPBS": "currency",    // cf. KURPBT   "current";   use -Z for "curtains"
+    "TPEURBS": "efficiency", // cf. TPEURBT  "efficient"; use -Z for "fishes"
+    "PRAOEUFS": "privacy",   // cf. PRAOEUFT "private"
 
     // -- Verb forms -----------------------------------------------------------
 
