@@ -3792,6 +3792,13 @@
     "KPWHRAUS/-BLT": "implausibility",
     "KPWHRAUS/PWHREU": "implausibly",
 
+    "PHREPL/EUBG": "polemic",      // standard
+    "PHREPL/K-L": "polemical",     // standard
+    "PHREPL/KHREU": "polemically", // standard
+    "PHREPL/SEUFT": "polemicist",
+    "PHREPL/SEUFTS": "polemicists",
+    "PHREPL/SAOEUZ": "polemicize",
+
     "POF": "positive",
     "POFL": "positively",
     "TPHEF": "negative",
