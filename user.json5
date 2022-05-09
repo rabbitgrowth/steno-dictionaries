@@ -1314,7 +1314,7 @@
     "KPWRAEUFD": "embraced",
     "KPWRAEUFG": "embracing",
     "KPWROEURD": "embroider",
-    "KPWROEUD/REU": "embroidery", // or use KPWROEURD/KWREU ("embroider" + {^y})
+    "KPWROEUD/REU": "embroidery", // or use "embroider" + {^y}
     "KPWRO": "embryo",  // cf. EPL/PWRO
     "KPWROE": "embryo", // cf. EPL/PWROE
     "KPWROR": "emperor",
@@ -1322,7 +1322,7 @@
     "KPWAOEUR": "empire",
     "KPWAO*EUR": "Empire",
     "KPWHROEU": "employ",  // frees up PHROEU for "ploy" [1]
-    "KPWHROE": "employee", // "emplo-E"; cf. PHROE
+    "KPWHROE": "employee", // "emplo-e"; cf. PHROE
     "KPWHROEUR": "employer",
     "KPWHROEUPLT": "employment",
     "KPWOUR": "empower",
@@ -1373,7 +1373,7 @@
     /*1*/ "PHROEU": "ploy",
 
     "KPWARS": "embarrass", // cf. EPL/PWARS
-    "KPWRAS": "embarrass", // cf. EPL/PWRAS; form for easier inflection
+    "KPWRAS": "embarrass", // cf. EPL/PWRAS; form for easier inflections
     "KPWRAFD": "embarrassed",
     "KPWRAFG": "embarrassing",
     "KPWRAFLG": "embarrassingly",
@@ -1392,8 +1392,8 @@
     "KPWHRAPBS": "ambulance", // or just use PWHRAPBS
     "KPWURB": "ambush",
     "KPWHREUFBGS": "amplification",
-    "KPWHREUF": "amplify",    // cf. SPEF "specify"
-    "KPWHREUTD": "amplitude", // bit of a stretch to use -TD for -tude?
+    "KPWHREUF": "amplify", // cf. SPEF "specify"
+    "KPWHREUTD": "amplitude",
 
     // Stretch KPW even further to mean inp-
     // The only two English words that begin with inp- are "input"
