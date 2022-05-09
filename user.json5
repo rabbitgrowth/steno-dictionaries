@@ -1185,11 +1185,10 @@
     // -- -FR as -m ------------------------------------------------------------
 
     // -FRP for -mp
-    // This already works quite consistently in Plover:
-    //   HRAFRP   "lamp"   as an alternative to HRA*PL
-    //   SKWRUFRP "jump"                        SKWR*UPL
-    //   SHREUFRP "shrimp"                      SHR*EUPL
-    "PWUFRP/KEUPB": "bumpkin",  // or don't pronounce the "p": PWUPL/KEUPB
+    // Precedents: HRAFRP   "lamp"   as an alternative to HRA*PL
+    //             SKWRUFRP "jump"                        SKWR*UPL
+    //             SHREUFRP "shrimp"                      SHR*EUPL
+    "PWUFRP/KEUPB": "bumpkin",  // or use PWUPL/KEUPB (silent "p")
     "EFRP/THEBG": "empathetic", // cf. *EPL/THEBG
 
     // -FRPB for -mən
@@ -3706,7 +3705,7 @@
     "TPROPB": "forgotten",
     "TPREFL": "forgetful",
 
-    "HAEP": "happy", // works already
+    "HAEP": "happy", // standard
     "HAEPL": "happily",
     "HAEPBS": "happiness", // mashup of HAEP and -PBS
     "SHAEP": "unhappy",
@@ -4042,7 +4041,7 @@
 
     // -- Ologies and ologists -------------------------------------------------
 
-    // ...OLG   -ology    (usually works already)
+    // ...OLG   -ology    (standard)
     // ...OLGS  -ologist  (use -Z for -ologies)
     // .../HR-L -ological (by default -ological is HR-LG and -logical is HR-L,
     //                     but we remapped HR-LG to "likely", so just borrow the
