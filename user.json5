@@ -1499,25 +1499,16 @@
     "STKERPBT": "dissenter",
 
     // SKP for exp-
-    // Plover often uses SP for exp- when there's no conflict,
-    // so you can actually omit the K in some of the words below.
-    // "experience" SKPAOERPBS (custom)
-    //              SPAOERPBS  (default)
-    // "experiment" SKPERPLT   (custom)
-    //              SPERPLT    (default) etc.
-    // But there might be some merit in being consistent and
-    // always using SKP for exp-.
     "SKPAPBD": "expand",
-    "SKPAPBS": "expanse", // and get SKPAPBS/EUF "expansive" for free
+    "SKPAPBS": "expanse", // add {^ive} for "expansive"
     "SKPAPBGS": "expansion",
     "SKPAOED/KWREPBS": "expedience",
     "SKPAOED/KWREPBT": "expedient",
-    "SKPEPBD": "expend", // give up "end and"
+    "SKPEPBD": "expend", // misstroke for "end and"
     "SKPEPBD/TUR": "expenditure",
     "SKPEPBS": "expense",
     "SKPEF": "expensive", // cf. SP*EF
-    "SKPAOERPBS": "experience",
-    "SKPAOERPBD": "experienced", // cf. SPAOERPBD
+    "SKPAOERPBS": "experience", // or use KP-P (custom)
     "SKPERPLT": "experiment",
     "SKPERT": "expert",
     "SKPERT/EUS": "expertise",  // cf. SPERT/EUS
@@ -1536,16 +1527,14 @@
     "SKPHROEGS": "explosion",
     "SKPHROEF": "explosive",
     "SKPHROES/EUF": "explosive", // cf. SPHROES/EUF
-    "SKPOES": "expose", // a nice trio:
-                        // SPOES  "suppose"
-                        // KPOES  "compose"
-                        // SKPOES "expose"
+    "SKPOES": "expose", // a nice trio: SPOES  "suppose"
+                        //              KPOES  "compose"
+                        //              SKPOES "expose"
     "SKPOEFD": "exposed",
     "SKPOERB": "exposure",
-    "SKPRES": "express", // another nice trio:
-                         // SPRES  "suppress"
-                         // KPRES  "compress"
-                         // SKPRES "express"
+    "SKPRES": "express", // another nice trio: SPRES  "suppress"
+                         //                    KPRES  "compress"
+                         //                    SKPRES "express"
     "SKPREFD": "expressed",
     "SKPREFG": "expressing",
     "SKPREGS": "expression",
