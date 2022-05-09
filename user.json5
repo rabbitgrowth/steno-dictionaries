@@ -4057,6 +4057,7 @@
     "A*RPBT/POLG": "anthropology", // more phonetic *and* easier to press with -R
     "A*RPBT/POLGS": "anthropologist",
     "A*RPBT/HR-L": "anthropological",
+    "A*RPBT/HR*L": "anthropologically",
 
     "PWOLG": "biology", // standard
     "PWOLGS": "biologist",
@@ -4066,15 +4067,17 @@
     "EPBT/PHOLG": "entomology", // standard
     "EPBT/PHOLGS": "entomologist",
     "EPBT/HR-L": "entomological",
+    "EPBT/HR*L": "entomologically",
 
     "ET/PHOLG": "etymology", // standard
     "ET/PHOLGS": "etymologist",
     "EPLT/HR-L": "etymological",
+    "EPLT/HR*L": "etymologically",
 
     "ORPB/THOLG": "ornithology", // standard
     "ORPB/THOLGS": "ornithologist",
-    "ORPB/HR-L": "ornithological",
-    "O*RPBT/HR-L": "ornithological", // "ornthl...l"
+    "O*RPBT/HR-L": "ornithological",
+    "O*RPBT/HR*L": "ornithologically",
 
     "TPO/TPHOLG": "phonology",  // standard
     "TPOE/TPHOLG": "phonology", // standard
@@ -4082,15 +4085,20 @@
     "TPOE/TPHOLGS": "phonologist",
     "TPOPB/HR-L": "phonological",
     "TPOEPB/HR-L": "phonological",
+    "TPOPB/HR*L": "phonologically",
+    "TPOEPB/HR*L": "phonologically",
 
     "SKOLG": "psychology", // standard
     "SKOLGS": "psychologist",
     "SKOL": "psychological", // standard
     "SKHROL": "psychologically",
+    "SKHR-L": "psychological", // use SKEL/TAL for "skeletal"
+    "SKHR*L": "psychologically",
 
     "SOES/KWROLG": "sociology", // standard
     "SOES/KWROLGS": "sociologist",
     "SOES/HR-L": "sociological", // standard
+    "SOES/HR*L": "sociologically",
 
     // -- Fiction --------------------------------------------------------------
 
