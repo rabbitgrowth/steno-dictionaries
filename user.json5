@@ -3404,10 +3404,6 @@
 
     // -- Foreign languages ----------------------------------------------------
 
-    // It's hard to be phonetically accurate all the time when you're writing
-    // non-English using an English layout; occasionally you'll have to settle
-    // with an odd mix of phonetic and orthographic.
-
     // French
     "KAEF": "café",
     "TPEUPB/TKE/SELG": "fin de siècle",
@@ -3416,7 +3412,7 @@
     "SRELT/SPHERZ": "Weltschmerz",
 
     // Latin
-    "STATS/KWOE": "status quo",
+    "STATS/KWO": "status quo",
 
     // -- Fingerspelling -------------------------------------------------------
 
