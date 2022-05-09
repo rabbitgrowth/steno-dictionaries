@@ -402,6 +402,8 @@
     "KPAFRBGS": "exacerbation",
     "SKPOERBL": "exponential",
     "SKPHROERBL": "exponentially",
+    "KPRAPLT": "extrapolate",
+    "KPRAPLGS": "extrapolation",
     "TPAOPBLG": "footage", // cf. TPHOPBLG "knowledge"
     "TPREFT": "forest", // TPOFRT ("forst") is taken by "foster" ("fostr")
     "TKPWARPB": "garden",
@@ -864,6 +866,7 @@
     "PHAEPBT": "amenity",
     "RAEFT": "arrest",
     "SAEPBD": "ascend", // use SKREPBD for "scened" (custom)
+    "SAEPBGS": "ascension",
     "SAEFRBL": "assemble",
     "SAEPL/-BL": "assemble",
     "SAEPL/PWHRER": "assembler",
@@ -948,6 +951,7 @@
     "TPRAOEUFLT": "frightful",
     "TKPWRAEUFLS": "graceful", // cannot omit -S
     "TKPWRAEUFLT": "grateful", // cannot omit -T
+    "SROEFL": "sorrowful",
     "TAEFRL": "tearful",
     "THAFL": "thankful",
     "WOEFL": "woeful", // use WUFL for "wonderful"
@@ -987,6 +991,7 @@
     "EUPB/KRAOEURT": "inciter",
     "STRURBGT": "instructor",
     "SPWRAOURD": "intruder",
+    "HROEURT": "loiter",
     "HROURPBG": "lounger",
     "PHAOERG": "meager",
     "PHAOERPBD": "meander",
@@ -1089,6 +1094,7 @@
     "TPH-FPBLT": "infinitely",
     "STPHAPBLT": "instantly", // allow not omitting the -T
     "SPWEPBLS": "intensely",
+    "HROULD": "loudly",
     "HRAOUD/KROULS": "ludicrously",
     "PHAFPBLT": "magnificently",
     "PHEUL/TAERL": "militarily",
@@ -1211,6 +1217,7 @@
     // -FRBL for -mble
     "PWRAFRBL": "bramble",
     "TKPWAFRBL": "gamble",
+    "TKPWRUFRBL": "grumble",
     "TPHEUFRBL": "nimble",
     "SKRAFRBL": "scramble",
     "SKWRUFRBL": "jumble",
@@ -2640,6 +2647,7 @@
     "SKHER": "ask her",
     "SKHEUPL": "ask him",
     "TPROUT": "figure out",
+    "TPOU": "for you",
     "TKPWOEPL": "go home",
     "TKPWROELD": "grow old",
     "TPE": "if he", // give up "fe", which is not a word
