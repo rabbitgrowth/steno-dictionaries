@@ -1016,6 +1016,7 @@
     "STPHAOEURP": "sniper",
     "SPARPB": "spanner",
     "SKWARPBD": "squander",
+    "STAURBG": "stalker",
     "SURBG": "sucker",
     "SURPBD": "sunder", // misstroke for "understand is"
     "SR*ERPBD": "surrender", // - * = "vendor"; cf. SRAOEL "veal", SRAO*EL "surreal"
@@ -1115,6 +1116,7 @@
     "RAOUPBLT": "routinely", // phonetic
     "ROEUPBL": "routinely",  // brief
     "SALD": "sadly", // overrides "salad" [4]
+    "SWAOERL": "severely",
     "STAUFRPBL": "staunchly",
     "STRAEUPBLG": "strangely", // use STRAEUPBG for "strange"
     "STURPBL": "stubbornly",
