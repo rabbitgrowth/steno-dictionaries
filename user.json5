@@ -1260,6 +1260,25 @@
     //   S P   P T
     //   S W   B
     //  *nt-   -nt
+    "SPWEUBG": "antic", // add -Z for "antics"
+    "SPWEUFPT": "anticipate",
+    "SPWEUFPGS": "anticipation",
+    "SPWAOEBG": "antique",
+    "SPWHRER": "antler",
+
+    "SPWEFR": "endeavor",
+    "SPWEFRBG": "endemic",
+    "SPWHRES": "endless",
+    "SPWHRELS": "endlessly",
+    "SPWORS": "endorse",
+    "SPWOFRD": "endorsed",
+    "SPWORPLT": "endorsement", // cf. EPB/TKORPLT
+    "SPWOU": "endow",
+    "SPWAOUR": "endure",       // cf. EPB/TKAOUR
+    "SPWUR": "endure",         // cf. EPB/TKUR
+    "SPWAOURPBS": "endurance", // cf. EPB/TKAOURPBS
+    "SPWURPBS": "endurance",   // cf. EPB/TKURPBS
+
     "SPWET": "indebt",
     "SPWAOED": "indeed",
     "SPW*EPBT": "indent", // - * = "intent"
@@ -1277,27 +1296,8 @@
     "SPWULG": "indulge",
     "SPWULGS": "indulgence", // use -Z for "indulges"
 
-    "SPWEFR": "endeavor",
-    "SPWEFRBG": "endemic",
-    "SPWHRES": "endless",
-    "SPWHRELS": "endlessly",
-    "SPWORS": "endorse",
-    "SPWOFRD": "endorsed",
-    "SPWORPLT": "endorsement", // cf. EPB/TKORPLT
-    "SPWOU": "endow",
-    "SPWAOUR": "endure",       // cf. EPB/TKAOUR
-    "SPWUR": "endure",         // cf. EPB/TKUR
-    "SPWAOURPBS": "endurance", // cf. EPB/TKAOURPBS
-    "SPWURPBS": "endurance",   // cf. EPB/TKURPBS
-
     "SPWHRAEUT": "undulate",
     "SPWHRAEUGS": "undulation",
-
-    "SPWEUBG": "antic", // and get SPWEUBGZ "antics" for free
-    "SPWEUFPT": "anticipate",
-    "SPWEUFPGS": "anticipation",
-    "SPWAOEBG": "antique",
-    "SPWHRER": "antler",
 
     // KPW for [aei]m[bp]-
     "KPWEUPBS": "ambience", // misstroke for "convince"
