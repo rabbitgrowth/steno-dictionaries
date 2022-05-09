@@ -4052,6 +4052,11 @@
     "A*RPBT/POLGS": "anthropologist",
     "A*RPBT/HR-L": "anthropological",
 
+    "PWOLG": "biology", // standard
+    "PWOLGS": "biologist",
+    "PWHR-L": "biological",
+    "PWHR*L": "biologically",
+
     "EPBT/PHOLG": "entomology", // standard
     "EPBT/PHOLGS": "entomologist",
     "EPBT/HR-L": "entomological",
