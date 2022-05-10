@@ -194,7 +194,7 @@ understand
   UPBDZ/STAPB
   UPBLD/STAPBD
   UPBS
-  URPBD
+  URPBD -> you understand
   URPBTD
   URPD
 
@@ -384,7 +384,7 @@ young
 {under^} -> TPH*R
   KWRUPBD -> I couldn't need
   UPBD -> you need
-  UPBDZ -> you understand
+  UPBDZ
 
 to
   O
@@ -548,6 +548,14 @@ take
   THAEUBG -> that I can
   TKAEUBG
 
+tornado
+  TAUR/TPHAEU/TKOE
+  TOR/TPHAEU/TKO
+  TOR/TPHAEU/TKOE
+  TORPB/TKO
+  TORPB/TPHAD/TKOE
+  TORPBD -> to understand
+
 therapy
   TH*ERP
   THAERP -> that he were
@@ -695,6 +703,9 @@ thought
 that you're
   THAUR -> that you are
 
+understand that
+  THAURPBD -> that you understand
+
 they ever
   THEFR -> they may
 
@@ -812,9 +823,6 @@ winning
 witness stand
   W-PBD -> we need
 
-witness stands
-  W-PBDZ -> we understand
-
 whereby -> WHR-B
   W-R/PWEU
   W-RB -> we shall
@@ -901,6 +909,9 @@ what you'll
 
 what you're
   WHAUR -> what you are
+
+understand what
+  WHAURPBD -> what you understand
 
 whiff -> KWHEUF
   WHEUF -> when I have

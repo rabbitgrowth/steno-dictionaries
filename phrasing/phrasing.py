@@ -123,7 +123,7 @@ verb = {
     "-PBD":   "need",
     "-RPL":   "remember",
     "-PBG":   "think",
-    "-PBDZ":  "understand",
+    "-RPBD":  "understand",
     "-PT":    "want",
 }
 
@@ -142,6 +142,7 @@ verbs = {
     "-PBDZ":   "needs",
     "-RPLZ":   "remembers",
     "-PBGZ":   "thinks",
+    "-RPBDZ":  "understands",
     "-PTS":    "wants",
 }
 
