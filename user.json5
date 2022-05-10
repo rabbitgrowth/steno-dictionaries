@@ -1402,6 +1402,21 @@
 
     "KPWUT": "input", // can be pronounced /ˈɪmpʊt/; misstroke for "gut"
 
+    // -FRB for -rf
+    // Precedent: SUFRB "surf"
+    "PWAFRB": "barf",
+    "TKWAFRB": "dwarf",
+    "TKWAFRBZ": "dwarves", // use -S for -fs
+    "SKAFRB": "scarf",
+    "SKAFRBZ": "scarves",
+    "SKUFRB": "scurf",
+    "STPHAFRB": "snarf",
+    "TUFRB": "turf",
+    "TUFRBZ": "turves",
+    "WHAFRB": "wharf",
+    "WHAFRBZ": "wharves",
+    // But SEFRB "serve", S*EFRB "serf"
+
     // -- Sound patterns -------------------------------------------------------
 
     // STK for dis- and des-
