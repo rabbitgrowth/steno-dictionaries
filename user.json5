@@ -1256,9 +1256,8 @@
 
     // -- Extensions -----------------------------------------------------------
 
-    // SPW for [aeiou]n[dt]-
-    // Why limit yourself to int- and ent-?
-    // SPW can be thought of as a mirror image of -PBT:
+    // SPW for [aeiou]n[dt]- in addition to int- and ent-
+    // It can be thought of as a mirror image of -PBT:
     //   S P   P T
     //   S W   B
     //  *nt-   -nt
@@ -1402,7 +1401,7 @@
 
     "KPWUT": "input", // can be pronounced /ˈɪmpʊt/; misstroke for "gut"
 
-    // -FRB for -rf
+    // -FRB for -rf in addition to -rve
     // Precedent: SUFRB "surf"
     "PWAFRB": "barf",
     "TKWAFRB": "dwarf",
