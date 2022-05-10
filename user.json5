@@ -1406,6 +1406,7 @@
     "PWAFRB": "barf",
     "TKWAFRB": "dwarf",
     "TKWAFRBZ": "dwarves", // use -S for -fs
+    "PHOFRB": "morph",
     "SKAFRB": "scarf",
     "SKAFRBZ": "scarves",
     "SKUFRB": "scurf",
