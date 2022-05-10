@@ -120,6 +120,7 @@ verb = {
     "*FL":    "love",
     "-FRPB":  "mean",
     "-FRPBD": "mind",
+    "-PBD":   "need",
     "-RPL":   "remember",
     "-PBG":   "think",
     "-PBDZ":  "understand",
@@ -138,6 +139,7 @@ verbs = {
     "*FLZ":    "loves",
     "-FRPBZ":  "means",
     "-FRPBDZ": "minds",
+    "-PBDZ":   "needs",
     "-RPLZ":   "remembers",
     "-PBGZ":   "thinks",
     "-PTS":    "wants",
@@ -287,6 +289,9 @@ remaps = {
     "WHER":   "whether",
     "WHERT":  "whether",
     "WH*ERT": "whether",
+
+    "KWR-PB": "beyond",
+    "TPH*R": "{under^}",
 
     # Remap words with "where" in them
     "WHRAS":  "whereas",

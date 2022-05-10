@@ -173,6 +173,12 @@ audiology
   AUD/KWROLG
   KWROLG -> I don't like
 
+I know
+  EU/TPHOEU
+  KWR*PB
+  KWR-PB -> beyond
+  KWRO*
+
 id -> *EUD
   EUD -> idea
 
@@ -364,6 +370,10 @@ I don't say
   KWROS
   KWROZ -> I don't see
 
+beyond -> KWR-PB
+  KWROPBD -> I don't need
+  PWE/KWROPBD
+
 {^iorly}
   KWRORL -> I don't really
 
@@ -371,9 +381,9 @@ young
   KWROUPBG
   KWRUPBG -> I couldn't think
 
-{under^}
-  KWRUPBD
-  UPBD
+{under^} -> TPH*R
+  KWRUPBD -> I couldn't need
+  UPBD -> you need
   UPBDZ -> you understand
 
 to
@@ -388,6 +398,9 @@ superficial
   SAUP/TPEURBL
   STPEUFL -> if I feel
   SU/PER/TPEURBL
+
+shall understand
+  SH-PBDZ -> she needs
 
 shall recall
   SH-RL -> she really
@@ -461,6 +474,10 @@ their
   THAEUR
   THAEURB -> that I shall
   THRAEUR
+
+and this
+  STHAPBD
+  THAPBD -> that need
 
 that's
   STHATS
@@ -631,6 +648,9 @@ thesis
   THAOES/SEUS
   THES/SEUS
 
+behind that
+  THAEUPBD -> that I need
+
 thing
   THAEUPBG -> that I think
   THAOEUPBG
@@ -700,6 +720,9 @@ togs
 
 {^otology}
   TOLG -> to like
+
+continued to
+  TOPBD -> to need
 
 Editorial
   TORL -> to really
@@ -785,6 +808,9 @@ winning
   W-PBG -> we think
   WAO*EPBG
   WEUPB/-G
+
+witness stand
+  W-PBD -> we need
 
 witness stands
   W-PBDZ -> we understand
@@ -914,6 +940,9 @@ whoa
 whore -> KWHOR
   WHOER
   WHOR -> who are
+
+who understand
+  WHOPBDZ -> who needs
 
 whorl -> KWHORL
   WHORL -> who really
