@@ -356,22 +356,20 @@ phrasing |= {
     "TPO*PB": "{phono^}", # cf. PHO*PB {mono^}
 }
 
-phrasing_reversed = collections.defaultdict(list)
-for rtfcre, translation in phrasing.items():
-    phrasing_reversed[translation].append(rtfcre)
-
-# Add dummy entry to ensure trailing comma after each real entry
-phrasing['WUZ/WUZ'] = '{#}'
-
 
 parent_dir = pathlib.Path(__file__).parent
 
 with parent_dir.parent.joinpath('main.json').open() as f:
     main = json.load(f)
 
-main_reversed = collections.defaultdict(list)
-for rtfcre, translation in main.items():
-    main_reversed[translation].append(rtfcre)
+def reverse(dictionary):
+    dictionary_reversed = collections.defaultdict(list)
+    for rtfcre, translation in dictionary.items():
+        dictionary_reversed[translation].append(rtfcre)
+    return dictionary_reversed
+
+phrasing_reversed = reverse(phrasing)
+main_reversed     = reverse(main)
 
 
 written = False
@@ -399,6 +397,9 @@ with parent_dir.joinpath('report.txt').open('w') as f:
                 f.write('\n')
             if not written:
                 written = True
+
+# Add dummy entry to ensure trailing comma after each real entry
+phrasing['WUZ/WUZ'] = '{#}'
 
 with parent_dir.joinpath('phrasing.json').open('w') as f:
     json.dump(phrasing, f, indent=4)
