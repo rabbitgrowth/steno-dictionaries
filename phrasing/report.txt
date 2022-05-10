@@ -16,7 +16,7 @@ Idaho
   *EUD/*EUD
   AOEUD/HOE
 
-it's
+it's -> T*Z
   *TS
   EUT/AE
   EUTS/AE
@@ -43,7 +43,7 @@ UV
 usb
   *UFB -> you've been
 
-you are
+you are -> UR
   *UR -> you're
   R*U
 
@@ -108,7 +108,7 @@ them
   THOEPL
   TWHEPL
 
-they're
+they're -> TH*ER
   24ER
   THA*EUR
   THER -> they are
@@ -127,7 +127,7 @@ atrium
   AT/REU/KWRUPL
   KWRURPL -> I couldn't remember
 
-he'd
+he'd -> H*D
   AOED
   ED/AE
   HAOED -> heed
@@ -161,7 +161,7 @@ identity
   AOEUTD -> I'd the
   KWRAOEUD/TEU
 
-you've
+you've -> *UF
   AOUF
   KWRAO*UF
   KWRO*UF
@@ -173,7 +173,7 @@ audiology
   AUD/KWROLG
   KWROLG -> I don't like
 
-I know
+I know -> KWR-FPL
   EU/TPHOEU
   KWR*PB
   KWR-PB -> beyond
@@ -182,7 +182,7 @@ I know
 id -> *EUD
   EUD -> idea
 
-I would
+I would -> KWR-LD
   EULD -> ideal
   WOEU
 
@@ -247,7 +247,7 @@ had felt
 HDL
   H-LD -> he would
 
-who's
+who's -> WHO*Z
   HOS/AE
   WHO*LS
   WHO*S
@@ -282,7 +282,7 @@ whatever -> WHAEF
   WHAFR -> what may
   WHRAFR
 
-what's
+what's -> WHA*Z
   KWHATS
   WHA*S
   WHAES -> what he is
@@ -302,20 +302,20 @@ when
   WHEPB
   WHREPB
 
-whole -> KWHOEL
+whole
   KWHOEL
   WHOEL -> who he will
 
 idea of
   KWR-FD -> I find
 
-why was
+why was -> TWH-FS
   KWR-FS -> I was
 
 yours very truly{,}
   KWR-FT -> I have the
 
-I mean
+I mean -> KWR-FRPB
   KWR-PL -> I am
 
 {&y-}
@@ -324,14 +324,14 @@ I mean
 I can't have had
   KWRAFD -> I can't find
 
-you'll
+you'll -> *UL
   KWRAO*UL
   KWRO*UL
   KWROU/AOEL
   UL -> you will
   UL/AE
 
-you're
+you're -> *UR
   KWRAO*UR
   KWRO*UR
   UR -> you are
@@ -423,10 +423,10 @@ and she
 and she can
   SKPHEBG -> which he can
 
-and you'll
+and you'll -> SKP*UL
   SKPUL -> and you will
 
-and you're
+and you're -> SKP*UR
   SKPUR -> and you are
 
 {^e}
@@ -479,7 +479,7 @@ and this
   STHAPBD
   THAPBD -> that need
 
-that's
+that's -> THA*Z
   STHATS
   TH-TS -> this is the
   THA*S
@@ -587,19 +587,19 @@ that'd
   THAO*ED
   THATD -> that had the
 
-they'd
+they'd -> TH*ED
   THA*EUD -> that I'd
   THAEUD -> that I had
   THED -> they had
   THED/AE
 
-they've
+they've -> TH*EF
   THA*EUF -> that I've
   THAEU/AO*EF
   THEF -> they have
   THEF/AE
 
-they'll
+they'll -> TH*EL
   THA*EUL -> that I'll
   THAEU/AOEL
   THAEUL -> that I will
@@ -684,7 +684,7 @@ these
   THAOEZ
   THEZ -> they see
 
-that you've
+that you've -> THA*UF
   THAUF -> that you have
 
 thoughtful
@@ -700,7 +700,7 @@ thought
   THOUT
   THRAUT
 
-that you're
+that you're -> THA*UR
   THAUR -> that you are
 
 understand that
@@ -780,10 +780,10 @@ us
   UGS -> you guess
   US
 
-you're the
+you're the -> *URT
   URT -> you are the
 
-we've
+we've -> W*F
   W*EF
   WAOEF -> weave
   WAOEF/AE
@@ -796,7 +796,7 @@ West Virginia
   W*F -> we've
   W*F/W*F
 
-where
+where -> WHR
   W*R -> we're
   W-F -> we have
   W-R -> we are
@@ -834,14 +834,14 @@ with respect
   W-RPT -> we were the
   WR-PT
 
-where the
+where the -> WHR-T
   W-RT -> we are the
 
 withheld
   W/HELD
   WHELD -> when he would
 
-we'd
+we'd -> W*D
   WAOED -> weed
   WAOED/AE
 
@@ -901,13 +901,13 @@ whale -> KWHAEUL
 what part
   WHAPT -> what want
 
-what you've
+what you've -> WHA*UF
   WHAUF -> what you have
 
-what you'll
+what you'll -> WHA*UL
   WHAUL -> what you will
 
-what you're
+what you're -> WHA*UR
   WHAUR -> what you are
 
 understand what
@@ -937,7 +937,7 @@ who'll
   WHO/AOEL
   WHOL -> who will
 
-who has
+who has -> WHOZ
   WHO*Z -> who's
   WHO/HRAS
   WHRO/HRAS
@@ -952,13 +952,13 @@ whore -> KWHOR
   WHOER
   WHOR -> who are
 
-who understand
+who understand -> WHORPBD
   WHOPBDZ -> who needs
 
 whorl -> KWHORL
   WHORL -> who really
 
-who you're
+who you're -> WHO*UR
   WHOUR -> who you are
 
 whose -> WHAOUS
@@ -979,5 +979,5 @@ whether I
 whether you
   WHRU -> where you
 
-when you're
+when you're -> WH*UR
   WHUR -> when you are

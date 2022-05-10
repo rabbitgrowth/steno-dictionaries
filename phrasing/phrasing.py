@@ -275,7 +275,7 @@ for pattern in patterns:
         update(phrasing, stroke, translation)
 
 
-remaps = {
+phrasing |= {
     # Remap overridden words
     "EUD":    "idea",
     "EULD":   "ideal",
@@ -356,12 +356,10 @@ remaps = {
     "TPO*PB": "{phono^}", # cf. PHO*PB {mono^}
 }
 
-remaps_reversed = {
+phrasing_reversed = {
     translation: rtfcre
-    for rtfcre, translation in remaps.items()
+    for rtfcre, translation in phrasing.items()
 }
-
-phrasing |= remaps
 
 # Add dummy entry to ensure trailing comma after each real entry
 phrasing['WUZ/WUZ'] = '{#}'
@@ -377,7 +375,7 @@ for rtfcre, translation in main.items():
     main_reversed[translation].append(rtfcre)
 
 
-wrote = False
+written = False
 
 with parent_dir.joinpath('report.txt').open('w') as f:
     for translation, rtfcres in main_reversed.items():
@@ -387,18 +385,22 @@ with parent_dir.joinpath('report.txt').open('w') as f:
             if rtfcre in phrasing and phrasing[rtfcre] != translation
         }
         if remaps:
-            if wrote:
+            if written:
                 f.write('\n')
             f.write(translation)
-            if translation in remaps_reversed:
-                f.write(f' -> {remaps_reversed[translation]}')
+            if (
+                translation in phrasing_reversed
+                and phrasing_reversed[translation] not in rtfcres
+            ):
+                f.write(f' -> {phrasing_reversed[translation]}')
             f.write('\n')
-            wrote = True
             for rtfcre in rtfcres:
                 f.write(f'  {rtfcre}')
                 if rtfcre in remaps:
                     f.write(f' -> {remaps[rtfcre]}')
                 f.write('\n')
+            if not written:
+                written = True
 
 with parent_dir.joinpath('phrasing.json').open('w') as f:
     json.dump(phrasing, f, indent=4)
