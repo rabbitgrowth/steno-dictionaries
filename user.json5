@@ -138,7 +138,7 @@
                                 //   REUBGT  "restrict"   -> REUBGS   "restriction"
                                 //   STREUBT "distribute" -> STREUBGS "distribution"
                                 //   (TKR-BT and TKR-BGS are nice briefy alternatives)
-    "TK-Z": "dizzy",            // with PW-Z "busy"; use STAOES for "disease"
+    "TK-Z": "dizzy",            // with PW-Z "busy"; use STKAOES for "disease"
     "ERLD": "elder",            // with OERLD "older"; overrides "elderly"
     "HRERLD": "elderly",
     "TPHABL": "enable",         // with ABL "able"
