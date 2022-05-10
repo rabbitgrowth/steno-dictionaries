@@ -16,7 +16,7 @@ Idaho
   *EUD/*EUD
   AOEUD/HOE
 
-it's -> T*Z
+it's -> T*S, T*Z
   *TS
   EUT/AE
   EUTS/AE
@@ -247,7 +247,7 @@ had felt
 HDL
   H-LD -> he would
 
-who's -> WHO*Z
+who's -> WHO*S, WHO*Z
   HOS/AE
   WHO*LS
   WHO*S
@@ -282,7 +282,7 @@ whatever -> WHAEF
   WHAFR -> what may
   WHRAFR
 
-what's -> WHA*Z
+what's -> WHA*S, WHA*Z
   KWHATS
   WHA*S
   WHAES -> what he is
@@ -479,7 +479,7 @@ and this
   STHAPBD
   THAPBD -> that need
 
-that's -> THA*Z
+that's -> THA*S, THA*Z
   STHATS
   TH-TS -> this is the
   THA*S
@@ -964,7 +964,7 @@ who you're -> WHO*UR
 whose -> WHAOUS
   WHOZ -> who has
 
-whether -> WH*ERT
+whether -> WHER, WHERT, WH*ERT
   WHR -> where
 
 whether the

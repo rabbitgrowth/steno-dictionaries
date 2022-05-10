@@ -356,10 +356,9 @@ phrasing |= {
     "TPO*PB": "{phono^}", # cf. PHO*PB {mono^}
 }
 
-phrasing_reversed = {
-    translation: rtfcre
-    for rtfcre, translation in phrasing.items()
-}
+phrasing_reversed = collections.defaultdict(list)
+for rtfcre, translation in phrasing.items():
+    phrasing_reversed[translation].append(rtfcre)
 
 # Add dummy entry to ensure trailing comma after each real entry
 phrasing['WUZ/WUZ'] = '{#}'
@@ -388,11 +387,10 @@ with parent_dir.joinpath('report.txt').open('w') as f:
             if written:
                 f.write('\n')
             f.write(translation)
-            if (
-                translation in phrasing_reversed
-                and phrasing_reversed[translation] not in rtfcres
-            ):
-                f.write(f' -> {phrasing_reversed[translation]}')
+            new_rtfcres = phrasing_reversed.get(translation)
+            if new_rtfcres is not None and set(new_rtfcres) - set(rtfcres):
+                f.write(' -> ')
+                f.write(', '.join(new_rtfcres))
             f.write('\n')
             for rtfcre in rtfcres:
                 f.write(f'  {rtfcre}')
