@@ -368,6 +368,7 @@
 
     // -- Approximately phonetic -----------------------------------------------
 
+    "ABD": "abandon",
     "A/KAOUFBG": "acoustic",
     "TKPHEUGS": "admission",
     "AFD/SAER": "adversary", // AFRD would violate inversion rule
@@ -457,6 +458,7 @@
     "STPOERL": "satisfactorily",
     "SHORPBLG": "shortage",
     "SOERPBLG": "soldier",
+    "SPHREPBD": "splendid",
     "SPOLT": "spotlight", // cf. SP-LT
     "SPHRAOEUT": "spotlight",
     "STRABG": "strategic", // cf. STRAPBLG "strategy"
@@ -660,6 +662,7 @@
     "HRAEP": "leap",
     "HRAERB": "leash",
     "TPHAET": "neat",
+    "PHRAED": "plead",
     "RAEFP": "reach",
     "SKRAEPL": "scream",
     "STRAEPL": "stream",
@@ -954,6 +957,7 @@
     "KHEFR": "achiever", // overrides "chevre" [1]
     "A/TARBG": "attacker",
     "A/SRERPBG": "avenger",
+    "PWA*RPBG": "banker",
     "PWHRARB": "blabber",
     "PWHRAOERBG": "bleaker", // cf. PWAOERBG "beaker"
     "PWHRURPBD": "blunder",
@@ -978,6 +982,8 @@
     "TPAURLT": "falter", // cf. AURLT "alter"
     "TPEUL/PWUFRT": "filibuster",
     "TPRAEURPL": "framer",
+    "TKPW-RPB": "gunner", // from TKPW-PB "gun"
+    "TKPWURPB": "gunner",
     "HEURPBD": "hinder",
     "HEURPBTD": "hindered",
     "HEURPBGD": "hindering",
@@ -1082,6 +1088,7 @@
     "ELZ": "easily",
     "TP-RBLT": "efficiently",
     "TPEURBLT": "efficiently",
+    "AEFLT": "evidently",
     "TPREPBL": "friendly", // overrides "Fresnel" [2]
     "SKWREPB/WEUPBL": "genuinely",
     "TKPWAFLT": "ghastly",
@@ -2663,6 +2670,7 @@
     "HREPL": "let me",
     "HREPLZ": "let me see",
     "HRAOFRT": "look after", // "loofter"; cf. HRAFRT "laughter"
+    "PHORLS": "more or less",
     "WUPBD": "one day",
     "TWOR": "or two",
     "RAERB": "rather be",
@@ -3005,6 +3013,8 @@
     "SOERBD": "sobered",     // use SOERBTD for "associated"
     "SOERBG": "sobering",    // give up "social work"
     "SKAOEGD": "succeeding",
+    "STPAOEUFD": "sufficed",
+    "STPAOEUFG": "sufficing",
     "TAOEFD": "teased",
     /*1*/ "RAEUFRPBD": "Raymond",
 
@@ -3086,6 +3096,7 @@
     "HAFRT": "hardest", // misstroke for "heart"
     "HAOEUFT": "highest", // cf. HROEFT "lowest"; overides "heist" [1]
     "HRAOEUFT": "lightest",
+    "PHAOEFRT": "merest",
     "OEFT": "oldest",
     "PAOUFRT": "purest",
     "KWEUFT": "quickest",
@@ -3564,6 +3575,7 @@
     "AFRD": "afterward", // use STPORD for "afford" (custom)
     "PWAURD": "backward",
     "TPAURD": "forward", // standard
+    "STRAURD": "straightforward",
     "TAURD": "toward",
 
     "AOEFT": "east",        // standard
