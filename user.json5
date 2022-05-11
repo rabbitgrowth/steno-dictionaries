@@ -644,16 +644,6 @@
     "PWODZ": "bodies", // overrides "bods"
     "PWO*D": "bod",
 
-    // -- Drop final schwa -----------------------------------------------------
-
-    "HOR": "horror",
-    "TER": "terror",
-    "PHEUR": "mirror",
-
-    "SEUPBD/REL": "Cinderella",
-    "PHOEPB/HREUS": "Mona Lisa",
-    "PHOET/ROEL": "Motorola",
-
     // -- Orthographic ---------------------------------------------------------
 
     // Use AE for "ea" as an orthographic alternative
