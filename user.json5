@@ -570,14 +570,12 @@
     // EUFT for -icity
     // EUFT/OUS gives -icitious (with an extra "i") due to orthography rules.
     "TKPHREUFT": "duplicity",
-    "TKAOU/PHREUFT": "duplicity",
-    "TKAOU/PHREUFT/OUS": "duplicitous",
+    "TKAOUP/HREUFT": "duplicity",
+    "TKAOUP/HREUFT/OUS": "duplicitous",
     "TPHREUFT": "felicity", // give up {^philicity} (chemical suffix)
-    "TPE/HREUFT": "felicity",
     "TPHREUFT/OUS": "felicitous",
-    "TPHREUS/TOUS": "felicitous",
+    "TPE/HREUFT": "felicity",
     "TPE/HREUFT/OUS": "felicitous",
-    "TPE/HREUS/TOUS": "felicitous",
     "PHULT/PHREUFT": "multiplicity",
 
     // OFT for -osity
