@@ -590,6 +590,7 @@
 
     // A -> AE
     "AERPBG": "angry",
+    "TPAERBGT": "factory", // use TPARBGT for "factor"
     "SKRAEPBT": "scanty",
     "SHAEG": "shaggy",
 
@@ -737,6 +738,7 @@
     "KHAOES/PWRURG": "cheeseburger",
 
     // Don't glue together
+    "SKWRET/HRAG": "jet lag",
     "SAOE/KWRA": "see ya",
     "STEPG/STOEPB": "stepping stone",
 
@@ -996,6 +998,7 @@
     "PHAOERG": "meager",
     "PHAOERPBD": "meander",
     "TPH*ERT": "nether",
+    "TPHEURG": "nigger",
     "OFRPBD": "offender",
     "O/TPERPBD": "offender",
     "PAEURPBT": "painter", // use PARPBT for "parent"
@@ -1009,6 +1012,7 @@
     "SHAEURBG": "shaker",
     "SHEURPL": "shimmer",
     "SHOP/HREUFRT": "shoplifter",
+    "SHURD": "shudder",
     "SHRAURT": "slaughter",
     "SHREURP": "slipper",
     "SPHURLG": "smuggler",
@@ -1316,6 +1320,7 @@
     "KPWHREUFBGS": "amplification",
 
     "KPWAUPL": "embalm",
+    "KPWARG": "embargo",
     "KPWARBG": "embark",
     "KPWAES": "embassy",
     "KPWED": "embed",
@@ -1797,9 +1802,11 @@
     "KREZ": "increase",   // KRES is "cress"
     "KREFD": "increased", // give up "credible evidence"
     "KREFG": "increasing",
+    "KREFLG": "increasingly",
     "SKREZ": "decrease",
     "SKREFD": "decreased",
     "SKREFG": "decreasing",
+    "SKREFLG": "decreasingly",
 
     // URT for -utter
     "PWURT": "butter", // overrides "Burt" [1]
@@ -2645,6 +2652,9 @@
     "TPHUFP": "no such", // misstroke for "much"
     "TPHUFPG": "no such thing",
     "TPHUFPGS": "no such thing as",
+
+    "PAEFPLD": "peace of mind",
+    "STAEUFPLD": "state of mind",
 
     "WHOELT": "whole lot",
     "WHOEFLT": "whole lot of",
