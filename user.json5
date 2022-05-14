@@ -130,10 +130,8 @@
     "KPHREGS": "completion",
     "KWEPBL": "consequential",  // with KWEPBS "consequence"
     "STAOUT": "constitute",     // with STAOUGS "constitution"; use STAUT for "statute"
-    "KRAOEFT": "creativity",    // with KRAOEF "creative"
     "KRED/AOULT": "credulity",  // with EUPB/KRED/AOULT "incredulity"
     "TKOEUPBL": "denial",       // with TKOEUPB "deny"
-    "TKEUFLT": "difficulty",    // with TKEUFL "difficult"
     "STREUBGS": "distribution", // with STREUBT "distribute"
                                 //   use REUBGS for "restriction":
                                 //   REUBGT  "restrict"   -> REUBGS   "restriction"
@@ -159,7 +157,6 @@
     "STEPBD": "extend",         // with STEPBGS "extension"
     "STEPBD/-D": "extended",
     "KPROERD": "extraordinary", // with OERD "ordinary"
-    "TPHREBLT": "flexibility",  // with TPHREBL "flexible"
     "TPREBGS": "for example",   // with TPREUPBS "for instance"; use -Z for "frequents"
     "H-B": "had been",          // with SR-B "have been"; misstroke for {^-^}
     "PHAGS": "imagination",     // with PHAPBLG "imagine"; use -Z for "magazines"
@@ -190,8 +187,6 @@
     "PERP/TWAL": "perpetual",   // with PERP/TWAEUT "perpetuate" ("wrong" stress)
                                 //      PERP/TRAEUT "perpetrate" ("right" stress)
     "PERP/TWAEL": "perpetually",
-    "RAELT": "reality",         // with RAEL "real"; use RELT for "relate"
-    "RAELTS": "realities",
     "RAOEDZ": "reeds",          // with RAOED "reed"; use RAEDZ for "reads"
     "R*URPB": "runner",         // with R*UPBG "running"
     "STEUFBG": "scientific",    // with STEUFT "scientist"
@@ -276,7 +271,6 @@
     "TPRAOEPBLS": "freelance",
     "TKPWAPBLT": "gallant",
     "TKPWAL/APBT": "gallant",
-    "TKPWRAEUFT": "gravity", // TKPWRAFT is "graft"
     "HA*RT": "hearth", // give up "Hart"
     "HEPBG": "henge", // give up "he think"; use H-PBGZ for "he thinks" (custom)
     "HAOURBS": "hubris",
@@ -284,7 +278,6 @@
     "SPWREUBGT": "intricate",
     "EUFPB/TAEUGS": "invitation",
     "PHAPB/TEUS": "mantis",
-    "PHAOED/KWRORBGT": "mediocrity",
     "PHES/PHRAOEUZ": "mesmerize",
     "PHES/PHRAOEUFD": "mesmerized",
     "PHES/PHRAOEUFG": "mesmerizing",
@@ -398,7 +391,6 @@
     "TKAOUBS": "dubious",
     "AOELT": "elite",
     "AOEPLT": "emit",
-    "TPHORPLT": "enormity", // misstroke for "format"
     "SKHAOU": "eschew",
     "SKHAOUL": "eschewal",
     "AOEFPL": "eventual", // ERBL is unphonetic and EFPBL is tricky to hit
@@ -462,7 +454,6 @@
     "SPOLT": "spotlight", // cf. SP-LT
     "SPHRAOEUT": "spotlight",
     "STRABG": "strategic", // cf. STRAPBLG "strategy"
-    "STAOUPT": "stupidity", // misstroke for STAOUPBT "student"; use STAUPB
     "STPEURBL": "superficial",
     "SWAEUPBLS": "surveillance",
     "SWART": "sweetheart",
@@ -561,6 +552,50 @@
 
     "KWRO*R": "yore",      // give up "I know, right?"
     "-F/KWROR": "of yore", // "yore" cannot be preceded by any other word
+
+    // -- -ty ------------------------------------------------------------------
+
+    // Add -T for -ty
+    "KRAOEFT": "creativity",   // from KRAOEF "creative"
+    "TKEUFLT": "difficulty",   // from TKEUFL "difficult"
+    "TPHREBLT": "flexibility", // from TPHREBL "flexible"
+    "RAELT": "reality",        // from RAEL "real"; use RELT for "relate"
+    "RAELTS": "realities",
+
+    // With vowel change
+    "TKPWRAEUFT": "gravity",         // TKPWRAFT is "graft"
+    "PHAOED/KWRORBGT": "mediocrity", // cf. PHAOED/KWROERBG "mediocre"
+
+    // EUFT for -icity
+    // EUFT/OUS gives -icitious (with an extra "i") due to orthography rules.
+    "TKPHREUFT": "duplicity",
+    "TKAOUP/HREUFT": "duplicity",
+    "TKAOUP/HREUFT/OUS": "duplicitous",
+    "TPHREUFT": "felicity", // give up {^philicity} (chemical suffix)
+    "TPHREUFT/OUS": "felicitous",
+    "TPE/HREUFT": "felicity",
+    "TPE/HREUFT/OUS": "felicitous",
+    "PHULT/PHREUFT": "multiplicity",
+
+    // OFT for -osity
+    // Precedents: APB/PHOFT    "animosity"
+    //             KAOUR/KWROFT "curiosity"
+    //             SKWREPB/ROFT "generosity"
+    "A/TROFT": "atrocity",
+    "TKPWRAPBD/KWROFT": "grandiosity",
+    "PHOPB/STROFT": "monstrosity",
+    "PHOPBS/TROFT": "monstrosity",
+    "RE/HREUPBLG/KWROFT": "religiosity",
+    "SRER/PWOFT": "verbosity",
+
+    // -FRT for -rsity
+    // Precedent: TKWEFRT "diversity"
+    "AD/SREFRT": "adversity",
+    "KAOUFRT": "curiosity",
+    "PER/SREFRT": "perversity",
+    "SKAEUFRT": "scarcity",
+    "SPAFRT": "sparsity",
+    "SRAFRT": "varsity",
 
     // -- -y -------------------------------------------------------------------
 
@@ -1767,30 +1802,6 @@
     "TPOUPB": "fountain", // use TPOUPBD or TP-D for "found" (custom)
     "PHOUPB": "mountain", // use PHO*EPB for "mown"
 
-    // OFT for -osity
-    // Precedents: KAOUR/KWROFT "curiosity"
-    //             SKWREPB/ROFT "generosity"
-    //             APB/PHOFT    "animosity"
-    "A/TROFT": "atrocity",
-    "TKPWRAPBD/KWROFT": "grandiosity",
-    "PHOPB/STROFT": "monstrosity",
-    "PHOPBS/TROFT": "monstrosity",
-    "RE/HREUPBLG/KWROFT": "religiosity",
-    "SRER/PWOFT": "verbosity",
-
-    // EUFT for -icity
-    // EUFT/OUS gives -icitious (with an extra "i") by default due to
-    // orthography rules, so define the -ous forms explicitly.
-    "TKAOU/PHREUFT": "duplicity",
-    "TKAOU/PHREUFT/OUS": "duplicitous",
-    "TPHREUFT": "felicity", // give up {^philicity} (chemical suffix)
-    "TPE/HREUFT": "felicity",
-    "TPHREUFT/OUS": "felicitous",
-    "TPHREUS/TOUS": "felicitous",
-    "TPE/HREUFT/OUS": "felicitous",
-    "TPE/HREUS/TOUS": "felicitous",
-    "PHULT/PHREUFT": "multiplicity",
-
     // EZ for -eeze
     // Like THEZ "these", although "these" is spelled with an "s".
     // It's a nice coincidence that EZ "easy" sans -y rhymes.
@@ -1837,15 +1848,6 @@
     "RA*EUFR": "razor", // - * = "racer" (default to "s")
     "AOUFR": "user", // use AUFR for {over^}
     "WAOEUFR": "wiser",
-
-    // -FRT for -rsity
-    // Precedent: TKWEFRT "diversity"
-    "AD/SREFRT": "adversity",
-    "KAOUFRT": "curiosity",
-    "PER/SREFRT": "perversity",
-    "SKAEUFRT": "scarcity",
-    "SPAFRT": "sparsity",
-    "SRAFRT": "varsity",
 
     // -FRD for -rsed
     // Precedents: KUFRD "cursed", TPOFRD "forced"
@@ -2848,6 +2850,7 @@
     "STKAFRS": "disastrous",  // use -Z for "disasters"
     "STKAFRTS": "disastrous", // more phonetic ("dsastrs")
     "TPHORPLS": "enormous",   // use -Z for "norms"
+    "TPHORPLT": "enormity",   // misstroke for "format"
     "TPAOEURBS": "fibrous",   // use -Z for "fibers" [1]
     "SKWRERPBS": "generous",
     "HAOURPLS": "humorous",   // use -Z for "humors"
