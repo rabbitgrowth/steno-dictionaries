@@ -271,7 +271,6 @@
     "TPRAOEPBLS": "freelance",
     "TKPWAPBLT": "gallant",
     "TKPWAL/APBT": "gallant",
-    "TKPWRAEUFT": "gravity", // TKPWRAFT is "graft"
     "HA*RT": "hearth", // give up "Hart"
     "HEPBG": "henge", // give up "he think"; use H-PBGZ for "he thinks" (custom)
     "HAOURBS": "hubris",
@@ -279,7 +278,6 @@
     "SPWREUBGT": "intricate",
     "EUFPB/TAEUGS": "invitation",
     "PHAPB/TEUS": "mantis",
-    "PHAOED/KWRORBGT": "mediocrity",
     "PHES/PHRAOEUZ": "mesmerize",
     "PHES/PHRAOEUFD": "mesmerized",
     "PHES/PHRAOEUFG": "mesmerizing",
@@ -564,6 +562,10 @@
     "TPHREBLT": "flexibility", // from TPHREBL "flexible"
     "RAELT": "reality",        // from RAEL "real"; use RELT for "relate"
     "RAELTS": "realities",
+
+    // With vowel change
+    "TKPWRAEUFT": "gravity",         // TKPWRAFT is "graft"
+    "PHAOED/KWRORBGT": "mediocrity", // cf. PHAOED/KWROERBG "mediocre"
 
     // -- -y -------------------------------------------------------------------
 
