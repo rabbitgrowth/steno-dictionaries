@@ -3166,7 +3166,7 @@
 
     // -- Proper nouns ---------------------------------------------------------
 
-    // People
+    // Names
     "AS/EUPL/OF": "Asimov", // AS/PHOF is "as move" ("he couldn't so much as move a finger")
     "PWAEUT/SREPB": "Beethoven",
     "PWOEB": "Bobby",
@@ -3175,6 +3175,7 @@
     "TPRAOED/REUFP": "Friedrich",
     "KAR/TKAGS": "Kardashian",
     "KEP/HRER": "Kepler",
+    "HRAOE/ROEU": "Leroy",
     "TPHOEUFRPB": "Neumann",
     "OFRBG": "Oscar",
     "RO*T/TPHAEPBT": "Rocinante",
