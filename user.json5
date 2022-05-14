@@ -3243,11 +3243,6 @@
     // Add * to *not* capitalize
     "KHO*EUPB": "china",
 
-    // Capitalize even when unstarred
-    "HER/PHAPBLGS/TEU": "Her Majesty",
-    "HEUS/PHAPBLGS/TEU": "His Majesty",
-    "KWROUR/PHAPBLGS/TEU": "Your Majesty",
-
     // Only capitalize when starred
     "PWAPBD/AEUD": "band-aid",
     "PWA*PBD/AEUD": "Band-Aid",
