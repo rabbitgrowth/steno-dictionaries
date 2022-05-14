@@ -130,10 +130,8 @@
     "KPHREGS": "completion",
     "KWEPBL": "consequential",  // with KWEPBS "consequence"
     "STAOUT": "constitute",     // with STAOUGS "constitution"; use STAUT for "statute"
-    "KRAOEFT": "creativity",    // with KRAOEF "creative"
     "KRED/AOULT": "credulity",  // with EUPB/KRED/AOULT "incredulity"
     "TKOEUPBL": "denial",       // with TKOEUPB "deny"
-    "TKEUFLT": "difficulty",    // with TKEUFL "difficult"
     "STREUBGS": "distribution", // with STREUBT "distribute"
                                 //   use REUBGS for "restriction":
                                 //   REUBGT  "restrict"   -> REUBGS   "restriction"
@@ -159,7 +157,6 @@
     "STEPBD": "extend",         // with STEPBGS "extension"
     "STEPBD/-D": "extended",
     "KPROERD": "extraordinary", // with OERD "ordinary"
-    "TPHREBLT": "flexibility",  // with TPHREBL "flexible"
     "TPREBGS": "for example",   // with TPREUPBS "for instance"; use -Z for "frequents"
     "H-B": "had been",          // with SR-B "have been"; misstroke for {^-^}
     "PHAGS": "imagination",     // with PHAPBLG "imagine"; use -Z for "magazines"
@@ -190,8 +187,6 @@
     "PERP/TWAL": "perpetual",   // with PERP/TWAEUT "perpetuate" ("wrong" stress)
                                 //      PERP/TRAEUT "perpetrate" ("right" stress)
     "PERP/TWAEL": "perpetually",
-    "RAELT": "reality",         // with RAEL "real"; use RELT for "relate"
-    "RAELTS": "realities",
     "RAOEDZ": "reeds",          // with RAOED "reed"; use RAEDZ for "reads"
     "R*URPB": "runner",         // with R*UPBG "running"
     "STEUFBG": "scientific",    // with STEUFT "scientist"
@@ -561,6 +556,15 @@
 
     "KWRO*R": "yore",      // give up "I know, right?"
     "-F/KWROR": "of yore", // "yore" cannot be preceded by any other word
+
+    // -- -ty ------------------------------------------------------------------
+
+    // Add -T for -ty
+    "KRAOEFT": "creativity",   // from KRAOEF "creative"
+    "TKEUFLT": "difficulty",   // from TKEUFL "difficult"
+    "TPHREBLT": "flexibility", // from TPHREBL "flexible"
+    "RAELT": "reality",        // from RAEL "real"; use RELT for "relate"
+    "RAELTS": "realities",
 
     // -- -y -------------------------------------------------------------------
 
