@@ -1303,7 +1303,7 @@
     "SPWHRAEUT": "undulate",
     "SPWHRAEUGS": "undulation",
 
-    // KPW for [aei]m[bp]-
+    // KPW for [aeiou]m[bp]-
     "KPWEUPBS": "ambience", // misstroke for "convince"
     "KPWEUPBT": "ambient",
     "KPWEUG/AOUT": "ambiguity", // or use TKPWAOUT
@@ -1404,6 +1404,8 @@
     "KPWULS": "impulse",
 
     "KPWUT": "input", // can be pronounced /ˈɪmpʊt/; misstroke for "gut"
+
+    "KPWREL": "umbrella",
 
     // -FRB for -rf in addition to -rve
     // Precedent: SUFRB "surf"
