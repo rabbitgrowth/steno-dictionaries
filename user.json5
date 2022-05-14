@@ -567,6 +567,38 @@
     "TKPWRAEUFT": "gravity",         // TKPWRAFT is "graft"
     "PHAOED/KWRORBGT": "mediocrity", // cf. PHAOED/KWROERBG "mediocre"
 
+    // EUFT for -icity
+    // EUFT/OUS gives -icitious (with an extra "i") due to orthography rules.
+    "TKAOU/PHREUFT": "duplicity",
+    "TKAOU/PHREUFT/OUS": "duplicitous",
+    "TPHREUFT": "felicity", // give up {^philicity} (chemical suffix)
+    "TPE/HREUFT": "felicity",
+    "TPHREUFT/OUS": "felicitous",
+    "TPHREUS/TOUS": "felicitous",
+    "TPE/HREUFT/OUS": "felicitous",
+    "TPE/HREUS/TOUS": "felicitous",
+    "PHULT/PHREUFT": "multiplicity",
+
+    // OFT for -osity
+    // Precedents: KAOUR/KWROFT "curiosity"
+    //             SKWREPB/ROFT "generosity"
+    //             APB/PHOFT    "animosity"
+    "A/TROFT": "atrocity",
+    "TKPWRAPBD/KWROFT": "grandiosity",
+    "PHOPB/STROFT": "monstrosity",
+    "PHOPBS/TROFT": "monstrosity",
+    "RE/HREUPBLG/KWROFT": "religiosity",
+    "SRER/PWOFT": "verbosity",
+
+    // -FRT for -rsity
+    // Precedent: TKWEFRT "diversity"
+    "AD/SREFRT": "adversity",
+    "KAOUFRT": "curiosity",
+    "PER/SREFRT": "perversity",
+    "SKAEUFRT": "scarcity",
+    "SPAFRT": "sparsity",
+    "SRAFRT": "varsity",
+
     // -- -y -------------------------------------------------------------------
 
     // There seem to be unwritten rules in Plover governing how to
@@ -1772,30 +1804,6 @@
     "TPOUPB": "fountain", // use TPOUPBD or TP-D for "found" (custom)
     "PHOUPB": "mountain", // use PHO*EPB for "mown"
 
-    // OFT for -osity
-    // Precedents: KAOUR/KWROFT "curiosity"
-    //             SKWREPB/ROFT "generosity"
-    //             APB/PHOFT    "animosity"
-    "A/TROFT": "atrocity",
-    "TKPWRAPBD/KWROFT": "grandiosity",
-    "PHOPB/STROFT": "monstrosity",
-    "PHOPBS/TROFT": "monstrosity",
-    "RE/HREUPBLG/KWROFT": "religiosity",
-    "SRER/PWOFT": "verbosity",
-
-    // EUFT for -icity
-    // EUFT/OUS gives -icitious (with an extra "i") by default due to
-    // orthography rules, so define the -ous forms explicitly.
-    "TKAOU/PHREUFT": "duplicity",
-    "TKAOU/PHREUFT/OUS": "duplicitous",
-    "TPHREUFT": "felicity", // give up {^philicity} (chemical suffix)
-    "TPE/HREUFT": "felicity",
-    "TPHREUFT/OUS": "felicitous",
-    "TPHREUS/TOUS": "felicitous",
-    "TPE/HREUFT/OUS": "felicitous",
-    "TPE/HREUS/TOUS": "felicitous",
-    "PHULT/PHREUFT": "multiplicity",
-
     // EZ for -eeze
     // Like THEZ "these", although "these" is spelled with an "s".
     // It's a nice coincidence that EZ "easy" sans -y rhymes.
@@ -1842,15 +1850,6 @@
     "RA*EUFR": "razor", // - * = "racer" (default to "s")
     "AOUFR": "user", // use AUFR for {over^}
     "WAOEUFR": "wiser",
-
-    // -FRT for -rsity
-    // Precedent: TKWEFRT "diversity"
-    "AD/SREFRT": "adversity",
-    "KAOUFRT": "curiosity",
-    "PER/SREFRT": "perversity",
-    "SKAEUFRT": "scarcity",
-    "SPAFRT": "sparsity",
-    "SRAFRT": "varsity",
 
     // -FRD for -rsed
     // Precedents: KUFRD "cursed", TPOFRD "forced"
