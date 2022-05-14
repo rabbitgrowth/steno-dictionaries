@@ -205,6 +205,7 @@
     "THOR": "thorough",         // with THORL "thoroughly"; use THORZ for "authorize"
     "TREUGS": "transmission",   // with TREUT "transmit"; use TRAPBGS for "transition"
     "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
+    "SRERBGTS": "vectors",      // with SRERBGT "vector"; use SRERDZ for "verdicts"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "SAEUGS": "{^isation}",     // with SA*EUGS {^ization}
     "O*UR": "{^our}",           // with O*R {^or}
@@ -559,6 +560,7 @@
     "KRAOEFT": "creativity",   // from KRAOEF "creative"
     "TKEUFLT": "difficulty",   // from TKEUFL "difficult"
     "TPHREBLT": "flexibility", // from TPHREBL "flexible"
+    "TPORLT": "formality",     // from TPORL "formal"
     "RAELT": "reality",        // from RAEL "real"; use RELT for "relate"
     "RAELTS": "realities",
 
@@ -1042,7 +1044,10 @@
     "PRAOEFRP": "preacher",
     "PREUFRPB": "prisoner",
     "SPORPBD": "responder",
+    "RE/SROFR": "revolver",
     "SAEURPB": "saner",
+    "SAURPBT": "saunter",
+    "SKAORL": "schooler", // "high-schooler"
     "SERPBD": "sender",
     "SHAEURBG": "shaker",
     "SHEURPL": "shimmer",
@@ -1136,6 +1141,7 @@
     "TPH-FPBLT": "infinitely",
     "STPHAPBLT": "instantly", // allow not omitting the -T
     "SPWEPBLS": "intensely",
+    "HREURPBL": "linearly",
     "HROULD": "loudly",
     "HRAOUD/KROULS": "ludicrously",
     "PHAFPBLT": "magnificently",
@@ -3584,6 +3590,7 @@
     // -- Important word families ----------------------------------------------
 
     "AFRD": "afterward", // use STPORD for "afford" (custom)
+    "AFRDZ": "afterwards",
     "PWAURD": "backward",
     "TPAURD": "forward", // standard
     "STRAURD": "straightforward",
