@@ -2169,12 +2169,12 @@
     /*1*/ "PWAELT": "ballot",
     /*2*/ "K*ELT": "Celt",
     /*3*/ "PWOELT": "bolt",  // cf. THUPBD/*ER/PWOELT "thunderbolt"
-    /*4*/ "SULT": "consult", // which frees up ...
+    /*4*/ "SULT": "consult", // frees up ...
           "KULT": "cult",
 
     "PWAOELT": "beetle",
     "KHORLT": "chortle",
-    "SKWREPBLT": "gentle", // which frees up ...
+    "SKWREPBLT": "gentle", // frees up ...
     "SKWREPBT/-L": "gently",
     "SKWR*EPBLT": "generality",
     "HURLT": "hurtle",
