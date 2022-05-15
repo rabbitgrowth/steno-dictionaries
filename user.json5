@@ -1462,7 +1462,7 @@
     "KPWREL": "umbrella",
 
     // -FRB for -rf in addition to -rve
-    // Precedent: SUFRB "surf"
+    // Precedent: SUFRB "surf", PEFRB/RAEUT "perforate"
     "PWAFRB": "barf",
     "TKWAFRB": "dwarf",
     "TKWAFRBZ": "dwarves", // use -S for -fs
