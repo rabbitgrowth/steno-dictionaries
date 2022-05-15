@@ -722,11 +722,6 @@
     "SA*EL": "zeal",  // use SAOEL for "seal"
 
     // For disambiguation
-    "HRAEFT": "least",     // cf. THRAES "at least"
-    "THRAEFT": "at least", // overrides "thrifty"; frees up THRAES for "Tesla"
-    "THROEUFT": "thrifty", // use OEU for -y
-    "THRAES": "Tesla",     // "tlaes"
-
     "ROUF": "rough",    // standard
     "ROUFL": "roughly", // vs RUFL "ruffle"
 
@@ -4007,6 +4002,17 @@
     "TPEUGZ": "figures",
     "TP*EUGZ": "figs",
     "TPEUGS": "fission",
+
+    // HRAOEFT  "least"
+    // THRAOEFT "at least"
+    // HRAEFT              -> "least"
+    // THRAEFT  "thrifty"  -> "at least"
+    // THRAES   "at least" -> "Tesla"
+    // THROEUFT            -> "thrifty"
+    "HRAEFT": "least",
+    "THRAEFT": "at least",
+    "THRAES": "Tesla",     // stack TES and HRA
+    "THROEUFT": "thrifty", // EU -> OEU for -y
 
     // PHAS   "mass"
     // PHASZ  "mass"    -> "masses"
