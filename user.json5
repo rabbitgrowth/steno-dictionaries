@@ -104,6 +104,12 @@
     "STKHR-BG": "dislike",
     /*1*/ "HR*LG": "{^ological}",
 
+    "HR-PB": "listen", // - cf. HR-PBG "listening"
+                       // - use HR-PBS for "license" (and -Z for "listens")
+    "HR-PBD": "listened",
+    "HR-RPB": "listener",
+    "TP-PB": "often", // use TP-PBS for "finance"
+
     "-RT": "right", // - physically stroked with the right hand
                     // - use R-T for "are the"
                     // - frees up RAOEUT for "rite" [1]
@@ -4207,13 +4213,6 @@
     "TPH-RTS": "under its",
     /*1*/ "TPH-PB": "inn",
           "TPH*PB": "Inn",
-
-    // "finance" is TP-PB or TP-PBS and "license" is HR-PB or HR-PBS.
-    // Don't waste two strokes on one word and make the -S mandatory.
-    "HR-PB": "listen", // cf. HR-PBG "listening"
-    "HR-PBD": "listened",
-    "HR-RPB": "listener",
-    "TP-PB": "often",
 
     // "fragile" is TPRALG or TPRAPBLG. I like TPRAPBLG better,
     // but since TPRAPBG is "frank" (* is reserved for "Frank"),
