@@ -2291,7 +2291,6 @@
     "STOEPBL": "stolen",
     "T-FGS": "television",
     "WHOUS": "White House",        // misstroke for "us who"
-    "TRAEURPBS": "transparency",   // use -Z for "trainers"
     "KWRUP": "yup",                // use AUP for {up^}
     "THOEUPB": "{^,000}",          // avoids 3/2/1/THO*EUPB outputting "32 1,000"
 
@@ -2955,10 +2954,11 @@
     "SREFLT": "irrelevant",
 
     // -S for -cy
-    "KURPBS": "currency",    // cf. KURPBT   "current";   use -Z for "curtains"
-    "TPEURBS": "efficiency", // cf. TPEURBT  "efficient"; use -Z for "fishes"
-    "PRAOEUFS": "privacy",   // cf. PRAOEUFT "private";   use PRAOEUSZ for "prices"
-    "PREUFS": "privacy",     //                           use PREUFLGZ for "privileges"
+    "KURPBS": "currency",        // cf. KURPBT "current"; use -Z for "curtains"
+    "TPEURBS": "efficiency",     // cf. TPEURBT "efficient"; use -Z for "fishes"
+    "PRAOEUFS": "privacy",       // cf. PRAOEUFT "private"; use PRAOEUSZ for "prices"
+    "PREUFS": "privacy",         // use PREUFLGZ for "privileges"
+    "TRAEURPBS": "transparency", // cf. TRAEURPBT "transparent"; use -Z for "trainers"
 
     // -- Verb forms -----------------------------------------------------------
 
