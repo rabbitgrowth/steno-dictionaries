@@ -397,6 +397,8 @@
     "TKHRAEUR": "declare",
     "TKHRAOEUPB": "decline", // give up "midline"; could also be "deadline"
     "TKAOEFT": "defeat", // use TKEFBGT for "defect"
+    "TKEFLT": "desolate", // use TKAOEFLT for "default"
+    "TKEFLGS": "desolation",
     "TKOPBT": "donate", // use TKUPT for "doesn't" (custom)
     "TKRAPB": "dragon",
     "TKAOUBS": "dubious",
