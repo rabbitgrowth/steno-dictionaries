@@ -4424,6 +4424,9 @@
     // HRAOURS/-S "loser"
     "HRAOURS/-S": "losers",
 
+    // SPAEUS/TAO*EUPL "Space/Time"
+    "SPAEUS/TAO*EUPL": "spacetime",
+
     // TAEUPBD "tained"
     "TAEUPBD": "contained", // cf. TAEUPB "contain"
 
