@@ -2930,6 +2930,11 @@
     "PALS": "palace", // use -Z for "pals"
     "SOLS": "solace",
 
+    // -S for -ius
+    "A/KWAEURS": "Aquarius",
+    "SAPBLG": "Sag",
+    "SAPBLG/TAEURS": "Sagittarius",
+
     // Use *S for special three-way conflicts
     "SKWRAO*EPBS": "genus", // -S "genius", -Z "genes"
     "T*EPBS": "tennis",     // -S "tense",  -Z "tens"
