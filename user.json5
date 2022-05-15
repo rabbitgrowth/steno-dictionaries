@@ -708,6 +708,7 @@
     "EFZ": "eh",
     "OFZ": "oh",
     "UFZ": "uh",
+    "AOFZ": "ooh",
 
     // Use AE for "ea" as an orthographic alternative
     // Precedents: KRAOET, KRAET "create"; SPAOEBG, SPAEBG "speak"
@@ -1192,7 +1193,7 @@
     "SREUFLD": "vividly",
     /*1*/ "PROLT": "protocol",
     /*2*/ "TPRAEUPBL": "Fresnel", // /ˈfreɪnəl/
-    /*3*/ "O*PL": "ohm", // feels consistent with O "oh" (custom)
+    /*3*/ "O*PL": "ohm",
     /*4*/ "SAELD": "salad", // AE for /æ/
 
     "-LG": "{^ingly}", // use WEULG for "willing"
@@ -4224,19 +4225,6 @@
     "TPH-GD": "ending", // much easier to stroke than EPBGD
     /*1*/ "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
           "OUFD": "outside",  // "ousd"; for consistency
-
-    // O*ERBGS "oh" seems crazy but actually has some logic to it:
-    //   OE      "owe"
-    //   OERBGS  "oh," (add -RBGS for comma)
-    //   O*ERBGS "oh"  (add * for the special case of "oh" without comma)
-    // But it still feels like too many keys for such a simple word.
-    "O": "oh",
-    "O/PHAPB": "oh man", // clashes with "Oman"
-    "O*/PHAPB": "Oman",
-    // For the poetic "O" ("O say can you see..."), just fingerspell (O*P).
-    "AO": "ooh", // give up "oo" (Hawaiian bird?)
-    "AO/AO": "oooh",
-    "AO/AO/AO": "ooooh",
 
     // TPH-PB "under" never made sense to me. Why two Ns? Plus TPH-PBT
     // is "innocent" (cf. TPH-PBS "innocence"), making it impossible to
