@@ -677,6 +677,9 @@
     "SOEUFRL": "silvery",
     "THOEUFRT": "thirsty",
 
+    "PHO*EULG": "milky",
+    "PHO*EULG/WAEU": "Milky Way",
+
     // AOEU -> OEU
     "SHROEUPL": "slimy",
 
