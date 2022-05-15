@@ -796,13 +796,15 @@
     "SPH/TAOEUPL": "some time",  // use STAOEUPL for "sometime"
     "SPH/WAEU": "some way",      // use SPH/WA*EU ("some" + {^way}) for "someway"
 
-    // -- Fix word boundary errors ---------------------------------------------
+    // -- Word boundary errors -------------------------------------------------
 
-    "EL/PA/SO": "El Paso",
+    "KAT/HREUBG": "cat lick", // use KA*T/HREUBG for "Catholic"
+
     "PAS/SO": "pass so", // give up "Paso" on its own
+    "EL/PA/SO": "El Paso",
 
-    "TOPL/KWREU": "Tommy", // cf. SKWREUPL/KWREU "Jimmy"; give up {^tomy}
     "TOPL/PHEU": "Tom my", // "I gave Tom my number"
+    "TOPL/KWREU": "Tommy", // cf. SKWREUPL/KWREU "Jimmy"; give up {^tomy}
 
     // -- Affixes --------------------------------------------------------------
 
@@ -4413,10 +4415,6 @@
 
     // PWAR/TKPWAPB/-G "bagaaining" (typo?)
     "PWAR/TKPWAPB/-G": "bargaining",
-
-    // KAT/HREUBG  "catholic"
-    // KA*T/HREUBG "Catholic"
-    "KAT/HREUBG": "cat lick",
 
     // KULD "culd"
     // "culd" is not a word (at least not in modern English;
