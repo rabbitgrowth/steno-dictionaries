@@ -569,7 +569,8 @@
     "PHAOED/KWRORBGT": "mediocrity", // cf. PHAOED/KWROERBG "mediocre"
 
     // EUFT for -icity
-    // EUFT/OUS gives -icitious (with an extra "i") due to orthography rules.
+    // If not explicitly defined, ~EUFT/OUS gives -icitious (with an extra "i")
+    // due to orthography rules.
     "TKPHREUFT": "duplicity",
     "TKAOUP/HREUFT": "duplicity",
     "TKAOUP/HREUFT/OUS": "duplicitous",
