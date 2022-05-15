@@ -1933,6 +1933,17 @@
     "TKPWRAOUFPL": "gruesome",
     "WHOEFPL": "wholesome",
 
+    // -FPT for -spect
+    "AFPT": "aspect", // stress feels wrong in SPAEBGT
+    "TPH-FPT": "inspect",
+    "SPWROFPT": "introspect",
+    "PROFPT": "prospect", // give up "postoperative"
+    "REFPT": "respect",
+    "STKREFPT": "disrespect",
+    "SUFPT": "suspect", // frees up ...
+    "SPEBGT": "spect",  // colloquial form of "expect";
+                        // also useful as a word part ("circumspect", "retrospect", etc.)
+
     // -FBG for -stic
     // Precedents: PHRAFBG  "plastic"
     //             TKPHEFBG "domestic"
