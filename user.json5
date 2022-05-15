@@ -708,10 +708,17 @@
     "EFDZ": "eh",
     "OFDZ": "oh",
     "UFDZ": "uh",
+    "AOFDZ": "ooh",
     "HAFDZ": "hah",
     "HEFDZ": "heh",
     "HUFDZ": "huh",
-    "AOFDZ": "ooh",
+    "TKUFDZ": "duh",
+    "PHEFDZ": "meh",
+    "TPHAFDZ": "nah",
+    "PWRUFDZ": "bruh",
+    "PWHRAFDZ": "blah",
+    "PWHREFDZ": "bleh",
+    "UFDZ/OFDZ": "uh-oh",
 
     // Use AE for "ea" as an orthographic alternative
     // Precedents: KRAOET, KRAET "create"; SPAOEBG, SPAEBG "speak"
