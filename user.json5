@@ -395,7 +395,7 @@
     "KOERPBT": "correspondent",
     "KURPB": "curtain",
     "TKHRAEUR": "declare",
-    "TKHRAOEUPB": "decline", // could also be "deadline"; "midline" seems too obscure
+    "TKHRAOEUPB": "decline", // give up "midline"; could also be "deadline"
     "TKAOEFT": "defeat", // use TKEFBGT for "defect"
     "TKOPBT": "donate", // use TKUPT for "doesn't" (custom)
     "TKRAPB": "dragon",
@@ -404,7 +404,7 @@
     "AOEPLT": "emit",
     "SKHAOU": "eschew",
     "SKHAOUL": "eschewal",
-    "AOEFPL": "eventual", // ERBL is unphonetic and EFPBL is tricky to hit
+    "AOEFPL": "eventual", // alternative to EFPBL
     "HRAOEFPL": "eventually",
     "KPAFRBT": "exacerbate",
     "KPAFRBGS": "exacerbation",
@@ -412,8 +412,8 @@
     "SKPHROERBL": "exponentially",
     "KPRAPLT": "extrapolate",
     "KPRAPLGS": "extrapolation",
-    "TPAOPBLG": "footage", // cf. TPHOPBLG "knowledge"
-    "TPREFT": "forest", // TPOFRT ("forst") is taken by "foster" ("fostr")
+    "TPAOPBLG": "footage",
+    "TPREFT": "forest", // TPOFRT is taken by "foster"
     "TKPWARPB": "garden",
     "TKPWREURPB": "grandchildren", // or use TKPWR-PB
     "HAFPL": "handsome",
@@ -427,9 +427,9 @@
     "HRAOUS/REU": "illusory",
     "SHU": "issue",
     "SHUD": "issued", // use SHO for "should"
-    "HREPB": "lesson", // not to be confused with HREFPB "eleven"
+    "HREPB": "lesson",   // to disambiguate from HREFPB "eleven"
     "HREPBZ": "lessons", // use -S for "lens"
-    "HRAOEUFPL": "lifetime", // "lifem"
+    "HRAOEUFPL": "lifetime",
     "PHEL": "medical", // add * for "Mel"
     "THOD": "method",
     "PHEUL/SHA": "militia",
@@ -451,9 +451,9 @@
     "SPOEBL": "responsibly", //                SPOEPBL
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
     "ROPLS": "romance",
-    "ROPLT": "romantic", // also the first stroke in ROPLT/EUBG
+    "ROPLT": "romantic", // also prefix of ROPLT/EUBG
     "REURB": "rubbish",
-    "SKREUF": "sacrifice", // "scriff"; no -S to make inflections easier
+    "SKREUF": "sacrifice", // omit -S to make inflections easier
     "SKREUFL": "sacrificial",
     "STHRAOEUT": "satellite",
     "STAOEUT": "satiety",
@@ -2664,7 +2664,7 @@
     "SKP-PB": "and then",
     "SKP-PBT": "and then the",
 
-    "TPWEFT": "at best", // tricky to hit; mostly for consistency with "at worst"
+    "TPWEFT": "at best",
     "THOEPL": "at home", // misstroke for "them"
     "THRAFT": "at last", // cf. THRAOEFT "at least"
     "TPHOEFT": "at most",
