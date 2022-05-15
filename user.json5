@@ -703,6 +703,12 @@
 
     // -- Orthographic ---------------------------------------------------------
 
+    // -FZ for -h
+    "AFZ": "ah",
+    "EFZ": "eh",
+    "OFZ": "oh",
+    "UFZ": "uh",
+
     // Use AE for "ea" as an orthographic alternative
     // Precedents: KRAOET, KRAET "create"; SPAOEBG, SPAEBG "speak"
     "PWAEFT": "beast",
