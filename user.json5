@@ -4429,20 +4429,11 @@
     // HRAOURS/-S "loser"
     "HRAOURS/-S": "losers",
 
-    // TPHURS   "nurse"
-    // TPHURGS  "nurse"   (extra G)
-    // TPHURBGS "nursing" (extra B)
-    "TPHURGS": "nursing",
-
     // RAEUGSZ "radiation"
     "RAEUGSZ": "regulations", // cf. RAEUGS "regulation"
 
     // TAEUPBD "tained"
     "TAEUPBD": "contained", // cf. TAEUPB "contain"
-
-    // THA/AOUGS "that use"
-    "THA/AOUGS": "that using", // ("It was estimated that using contract workers
-                               //  could save the company millions of dollars.")
 
     // SKWRARB "Yosh"
     "SKWRARB": "jabber",
