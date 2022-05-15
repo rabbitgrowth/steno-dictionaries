@@ -703,12 +703,12 @@
 
     // -- Orthographic ---------------------------------------------------------
 
-    // -FZ for -h
-    "AFZ": "ah",
-    "EFZ": "eh",
-    "OFZ": "oh",
-    "UFZ": "uh",
-    "AOFZ": "ooh",
+    // -FDZ for -h
+    "AFDZ": "ah", // give up "affidavits"
+    "EFDZ": "eh",
+    "OFDZ": "oh",
+    "UFDZ": "uh",
+    "AOFDZ": "ooh",
 
     // Use AE for "ea" as an orthographic alternative
     // Precedents: KRAOET, KRAET "create"; SPAOEBG, SPAEBG "speak"
