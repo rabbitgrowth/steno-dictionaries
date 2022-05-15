@@ -225,6 +225,9 @@
     //                   PWROER  "brother"  -- PHOER "mother"
     //                   PWRO*ER "borrower"    TPAER "father"
 
+    "HORL": "horizontal", // with SRERL "vertical"
+    "HORZ": "horizon",    // HRAOEUFPB is "liven"; also using HR for hr- feels weird
+
     "SRAEUPB": "vain",  // with RAEUPB  "rain" (and "main", "pain", "brain", "train", etc.)
     "SRA*EUPB": "vein", // with RA*EUPB "rein"
 
@@ -1143,6 +1146,7 @@
     "STPHAPBLT": "instantly", // allow not omitting the -T
     "SPWEPBLS": "intensely",
     "HREURPBL": "linearly",
+    "HREUFL": "lively", // alternative to HRAOEUFL
     "HROULD": "loudly",
     "HRAOUD/KROULS": "ludicrously",
     "PHAFPBLT": "magnificently",
@@ -4217,15 +4221,6 @@
     // as -gile; it could be thought of as an inversion of -lj.
     "ALG": "agile", // use ALGS for "additional"
     "TPRAPBLG": "frankly",
-
-    // "life" is HRAOEUF and "live" is HREUF. For words spelled with "live"
-    // but pronounced like "life", allow using EU as an alternative to AOEU.
-    "HREUFL": "lively", // alternative to HRAOEUFL
-    "HREUFPB": "liven", // alternative to HRAOEUFPB, which kind of matches
-                        // "horizon" too ("hrison"), but it matches "liven"
-                        // better so just use a brief for "horizon":
-    "H-RZ": "horizon",
-    "H-RL": "horizontal",
 
     // Swap "swayed" and "suede"
     // Make "suede" the starred stroke since it's less common
