@@ -1940,9 +1940,10 @@
     "PROFPT": "prospect", // give up "postoperative"
     "REFPT": "respect",
     "STKREFPT": "disrespect",
-    "SUFPT": "suspect", // frees up ...
-    "SPEBGT": "spect",  // colloquial form of "expect";
-                        // also useful as a word part ("circumspect", "retrospect", etc.)
+    "SUFPT": "suspect",  // frees up ...
+    "SPEBGT": "spect",   // colloquial form of "expect"; also useful as a word part
+                         // for "circumspect", "retrospect", "despect", etc.
+    "SP*EBGT": "'spect", // cf. KA*US "'cause"
 
     // -FBG for -stic
     // Precedents: PHRAFBG  "plastic"
