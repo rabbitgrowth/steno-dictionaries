@@ -4408,17 +4408,14 @@
 
     // -- Fix Plover's oddities ------------------------------------------------
 
-    // A/PHEPB/PHE, A/PHEPB/PHEU "anemone"
-    // That's "amenome", not "anemone".
+    // A/PHEPB/PHE, A/PHEPB/PHEU "anemone" ("m"s and "n"s swapped)
     "A/TPHEPL/TPHE": "anemone",
     "A/TPHEPL/TPHEU": "anemone",
 
     // PWAR/TKPWAPB/-G "bagaaining" (typo?)
     "PWAR/TKPWAPB/-G": "bargaining",
 
-    // KULD "culd"
-    // "culd" is not a word (at least not in modern English;
-    // apparently it's an obsolete form of "could").
+    // KULD "culd" (not a word)
     "KULD": "culled", // cf. KUL "cull"
 
     // HAPBD/SHAEUBGS "hand"
