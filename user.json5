@@ -2176,9 +2176,7 @@
 
     "PWAOELT": "beetle",
     "KHORLT": "chortle",
-    "SKWREPBLT": "gentle", // frees up ...
-    "SKWREPBT/-L": "gently",
-    "SKWR*EPBLT": "generality",
+    "SKWREPBLT": "gentle",
     "HURLT": "hurtle",
     "PHAPBLT": "mantle",
     "TKEUS/PHAPBLT": "dismantle",
