@@ -827,6 +827,9 @@
 
     "SAOEUFPL": "{seismo^}", // "seismograph", "seismogram", etc.
 
+    "TRAPBZ": "{trans^}", // standard
+    "TRAPBZ/TKPWREGS": "transgression",
+
     // Add * for prefix
     // Precedent: OEUT "auto", O*EUT {auto^}
     "KOURPBT": "counter", // swap with {counter^}
