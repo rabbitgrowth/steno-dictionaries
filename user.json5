@@ -2945,10 +2945,12 @@
     "SEPS": "acceptance",    // use -Z for "accepts"
     "AEURGS": "arrogance",   // use -Z for "airings"
     "AEURGT": "arrogant",
+    "PWREULS": "brilliance",
     "TKURBS": "disturbance", // use -Z for "disturbs"
     "KPELS": "excellence",   // use -Z for "compels"
     "KPELT": "excellent",
     "PORPLS": "performance", // use -Z for "performs"
+    "PORPLT": "performant",
     "RERS": "remembrance",   // use -Z for "remembers"
 
     "REFLS": "relevance",    // use -Z for "revels"
