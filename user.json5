@@ -2717,7 +2717,7 @@
     "HREPL": "let me",
     "HREPLZ": "let me see",
     "HRAOFRT": "look after", // "loofter"; cf. HRAFRT "laughter"
-    "PHORLS": "more or less",
+    "PHORLS": "more or less", // use -Z for "morals"
     "WUPBD": "one day",
     "TWOR": "or two",
     "RAERB": "rather be",
