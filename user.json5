@@ -46,6 +46,8 @@
     "P-FTS": "points of",
     "PR-B": "problem",
     "TH-G": "thing", // TH/TH-G "this thing" and TH-GZ "things" are nice
+    "-RPB": "under",
+    "*RPB": "{under^}",
     "SR-L": "value",
     "SR-BL": "valuable",
     "SR-LGS": "valuation",
@@ -4231,16 +4233,6 @@
     "AO": "ooh", // give up "oo" (Hawaiian bird?)
     "AO/AO": "oooh",
     "AO/AO/AO": "ooooh",
-
-    // TPH-PB "under" never made sense to me. Why two Ns? Plus TPH-PBT
-    // is "innocent" (cf. TPH-PBS "innocence"), making it impossible to
-    // one-stroke "under the".
-    "TPH-R": "under", // use TPHOR for "nor", cf. OR "or";
-                      // frees up TPH-PB for "inn" [1]
-    "TPH-RT": "under the",
-    "TPH-RTS": "under its",
-    /*1*/ "TPH-PB": "inn",
-          "TPH*PB": "Inn",
 
     // "fragile" is TPRALG or TPRAPBLG. I like TPRAPBLG better,
     // but since TPRAPBG is "frank" (* is reserved for "Frank"),
