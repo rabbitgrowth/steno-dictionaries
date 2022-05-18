@@ -251,6 +251,8 @@
     "ARPB/KEUFT": "anarchist",
     "ARPB/KEUFPL": "anarchism",
     "APBGS/TEU": "angsty",
+    "ARPBS": "answer",
+    "ARPBGS": "answer", // use ARPBLGZ for "arranges"
     "APLT/STPAOER": "atmosphere",
     "AU/RO/RA": "aurora",
     "AUT/TPHOEPL": "autonomy", // cf. AUT/KRAES "autocracy"
