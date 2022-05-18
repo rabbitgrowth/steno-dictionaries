@@ -668,6 +668,7 @@
     "PHAOERS": "mercy",
 
     // U -> AOU
+    "PWAO*ULG": "bulky", // give up "buccal"
     "PWAOUL": "bully", // overrides "boule" [1]
     "PWAOUPB": "bunny",
     "KAOURL": "curly",
