@@ -2677,6 +2677,12 @@
     "SREBD": "very bad",
     "SREGD": "very good",
 
+    "HREPL": "let me",
+    "HR*EPL": "lemme",
+    "HREPLZ": "let me see",
+    "TKPWEUPL": "give me", // use TKPWEUFRP for "gimp"
+    "TKPW*EUPL": "gimme",  // give up "GIMP" (image editor)
+
     "TPHUFP": "no such", // misstroke for "much"
     "TPHUFPG": "no such thing",
     "TPHUFPGS": "no such thing as",
@@ -2705,8 +2711,6 @@
     "TPHURPB": "in turn", // instead of "turn in"
     "TPHOEPBS": "known as", // use -Z for "knowns"
     "HRAFPBT": "last night",
-    "HREPL": "let me",
-    "HREPLZ": "let me see",
     "HRAOFRT": "look after", // "loofter"; cf. HRAFRT "laughter"
     "PHORLS": "more or less", // use -Z for "morals"
     "WUPBD": "one day",
