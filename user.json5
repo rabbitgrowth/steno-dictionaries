@@ -444,6 +444,7 @@
     "TPHOUDZ": "nowadays",
     "OFRPL": "organism", // "orsm"
     "PRABL": "parabola",
+    "PRARPLT": "parameter", // with -R
     "PAOEURPB": "pioneer",
     "POERBL": "potential",
     "PHROERBL": "potentially",
@@ -453,6 +454,7 @@
     "PREFRT": "protester",
     "PURPT": "purport",
     "PUZ": "puzzle", // cf. PEUZ "pizza"; alternative to PUFL
+    "RAFPL": "ransom",
     "SPOBL": "responsible",  // alternative to SPOPBL
     "SPOEBL": "responsibly", //                SPOEPBL
     "RAUPBT": "restaurant", // restau[rant] or [r]estaur[ant]
@@ -895,6 +897,7 @@
     "-PBD": "{^ened}", // use SKP for "and"
     "HRAEUD/-PB": "laden",
     "HRAOEUBG/-PB": "lichen", // use HR-BG/-PB for "liken" (custom)
+    "HRAOEUT/-PBG": "lightning",
 
     "-R": "{^er}",    // use R for "are"
     "-RL": "{^erly}", // use RAUL for "recall"
@@ -2715,6 +2718,7 @@
     "SAUFP": "such a",
     "TAEUR": "take care",
     "TAEUFR": "take care of",
+    "TU": "thank you",
     "TKO*": "to do",
     "STKO*": "to do so",
     "HR-F": "will have", // use HRUF for "love"
