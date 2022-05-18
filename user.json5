@@ -3707,6 +3707,10 @@
     "A/SAFPBT": "assassinate",
     "A/SAFPBGS": "assassination",
 
+    "PWHRUPT": "blueprint", // standard
+    "TPAOPT": "footprint",
+    "TPEURPT": "fingerprint",
+
     "PWRAOEFBGS": "briefcase",
     "SHOEBGS": "showcase",
     "STAEURBGS": "staircase",
