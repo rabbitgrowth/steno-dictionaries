@@ -800,6 +800,9 @@
 
     // -- Word boundary errors -------------------------------------------------
 
+    "K/TPHOT": "can not", // "you can not only ... but also ...";
+                          // use K-PLT for "cannot" (custom)
+
     "KAT/HREUBG": "cat lick", // use KA*T/HREUBG for "Catholic"
 
     "PAS/SO": "pass so", // give up "Paso" on its own
