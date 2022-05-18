@@ -352,7 +352,6 @@
     "KUFPB": "cousin",            // to KUZ
     "TKAOEUPBLG/EFT": "digest",   // to SKWR*EFT
     "TKEUPL/TPHEURB": "diminish", // to TKPHEURB
-    "TKEUS/SPEURT": "dispirit",   // to STKPEURT
     "STKREUBGT": "district",      // to TKR-T; use TKR-BG(T) for "distributing"
     "KPEBG/TEUF": "executive",    // to SKAOUF
     "TPABG/TEU": "faculty",       // to TPA*BG
@@ -1546,7 +1545,7 @@
     "STKPEFRL": "dispersal", // cf. TKOFRL "dorsal"
     "STKPERLS": "dispersal", // although there's no TKORLS
     "STKPERGS": "dispersion",
-    "STKPEURT": "dispirit", // let Plover handle "dispirited" and "dispiriting"
+    "STKPEURT": "dispirit",
     "STKPHRAEUS": "displace", // use -Z for "displays"
     "STKPHRAEUFD": "displaced",
     "STKPHRAEUPLT": "displacement",  // cf. PHRAEUPLT  "placement"
