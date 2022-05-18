@@ -178,7 +178,6 @@
     "TRUBGS": "introduction",   // with PRUBGS "production", RUBGS "reduction", etc.
                                 //   use -Z for "trucks"
     "EUR/SEUFT/PWHREU": "irresistibly", // with EUR/SEUFT/-BL "irresistible"
-    "SKWROURPB": "journey",        // with SKWROURPBL "journal"
     "PHAPBLGS/TEUBG": "majestic",  // with PHAPBLGS/TEU "majesty"
     "PH*EUBG": "mechanic",         // with PH*EUBGS "mechanics"; give up "MIC"
     "PHEL/TKROEUPL": "melodrama",  // with TKROEUPL "drama"
@@ -561,6 +560,8 @@
     "PO*UR": "power", // standard
     "TOR": "tore",
     "TOUR": "tour",
+    "TOUFRT": "tourist", // standard
+    "TOUFRPL": "tourism",
     "TO*UR": "tower", // standard
 
     "STPHOR": "snore", // use STPHART for "senator"
@@ -1932,16 +1933,6 @@
     /*1*/ "PAS/TAOUR": "Pasteur",
 
     "TUR": "{^ture}", // or use TAOUR, cf. AOUR {^ure}
-
-    // -FPL and -FT for -ism and -ist
-    "KPHAOUFPL": "communism",
-    "KPHAOUFT": "communist",
-    "KPHAO*UFPL": "Communism",
-    "KPHAO*UFT": "Communist",
-    "SKWROUFRPL": "journalism",
-    "SKWROUFRT": "journalist",
-    "TOUFRPL": "tourism",
-    "TOUFRT": "tourist", // standard
 
     // -FPL for -some
     "TKPWRAOUFPL": "gruesome",
@@ -3722,6 +3713,11 @@
     "SHOEBGS": "showcase",
     "STAEURBGS": "staircase",
 
+    "KPHAOUFT": "communist",
+    "KPHAO*UFT": "Communist",
+    "KPHAOUFPL": "communism",
+    "KPHAO*UFPL": "Communism",
+
     "KPREPBD": "comprehend",     // standard
     "KPREPBGS": "comprehension", // standard
     "KPRERPBD": "comprehender",
@@ -3833,6 +3829,11 @@
     "SPWROE/SRERT": "introvert", // cf. EBGS/TROE/SRERT "extrovert"
     "EBGS/TROEFRT": "extrovert", // cf. SPWROEFRT       "introvert"
     "KPROEFRT": "extrovert",
+
+    "SKWROURPB": "journey",
+    "SKWROURPBL": "journal", // standard
+    "SKWROUFRT": "journalist",
+    "SKWROUFRPL": "journalism",
 
     "HRA*S": "last",
     "HR*ES": "lest",  // standard
