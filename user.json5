@@ -2001,29 +2001,20 @@
     "STPHEUPBG": "instinct",
     "SARBG/SAPBG": "sacrosanct", // very nice
 
-    // -PBT, -PB, or -FPB for -ten
-    "PWRAOEUFPB": "brighten",    // cf. TPRAOEUFPB "frighten"
-                                 // PWRAOEUPBT is "Bryant" and PWRAOEUPB is "brine",
-                                 // so use -FPB as a last resort
-    "TPHRAPBT": "flatten",       // - -T = "flan"
-    "TPRAOEUPBT": "frighten",    // why use -FPB when -PBT is free?
-    "TPRAOEUPB": "frighten",     // allow dropping -T to make it easier to stroke
-    "TPRAOEUPBG": "frightening", // phonetic stroke for "frying"; use TPRAOEUG
-    "STRAEUPBT": "straighten",   // - -T = "strain"
-    "THREPB": "threaten",        // + -T = "talent"
-                                 // mnemonic: threa(glottal stop)en
-    "THREPBG": "threatening",
-    "THREPBD": "threatened",
+    // -PBT for -ten
+    "PWRAOEUPBT": "brighten", // overrides "Bryant" [1]
+    "TPHRAPBT": "flatten",
+    "TPRAOEUPBT": "frighten",
+    "STRAEUPBT": "straighten",
+    "THRAEPBT": "threaten", // with orthographic A since THREPBT is "talent"
+    "THRAET": "threat",     // for consistency; THRET is still available
+    /*1*/ "PWRAO*EUPBT": "Bryant",
 
     // -PBLD for -lden
     "PWHOEPBLD": "beholden",
-    "PWHOEPB": "beholden", // simplify further:
-                           // ...OELD/*EPB -> ...OEPBLD -> ...OEPB
-    "EPL/PWOEPBLD": "embolden",
-    "EPL/PWOEPB": "embolden",
+    "KPWOEPBLD": "embolden",
     "TKPWOEPBLD": "golden",
-    "TKPWOEPB": "golden",
-    "OEPBLD": "olden", // OEPB is "own"
+    "OEPBLD": "olden",
 
     // -PBG for -gan
     // Precedent: O*RPBG "organ" (- * = "orange")
@@ -2660,8 +2651,11 @@
 
     "TPWEFT": "at best",
     "THOEPL": "at home", // misstroke for "them"
-    "THRAFT": "at last", // cf. THRAOEFT "at least"
+    "THRAFT": "at last",
+    "THRAOEFT": "at least", // standard
+    "THREPBG": "at length", // standard
     "TPHOEFT": "at most",
+    "TWUPBS": "at once", // standard
     "TREFT": "at rest",
     "TWAR": "at war",
     "TWORBG": "at work",
