@@ -2414,6 +2414,9 @@
     "SKWR-LG": "just like",
     "SKWR-PBG": "just in case", // cf. the starless "junk" SKWRUPBG
 
+    "HEUPBD/SKWR": "behind just",    // misstroke  for "Hindu"
+    "WHEUPL/SKWR": "when I am just", // odd stroke for "whimsy"
+
     // "some ..."
     "SPH-F": "some of",      // instead of SPHOF  "some of"
     "SPH-FT": "some of the", //            SOFPLT "some of the"
