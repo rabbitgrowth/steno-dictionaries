@@ -177,10 +177,9 @@
     "TWAOEPB": "intervene",     // with TWEPBGS "intervention"; use TW for "between"
     "TRUBGS": "introduction",   // with PRUBGS "production", RUBGS "reduction", etc.
                                 //   use -Z for "trucks"
-    "EUR/SEUFT/PWHREU": "irresistibly",
-                                // with EUR/SEUFT/-BL "irresistible"
-    "PHAPBLGS/TEUBG": "majestic", // with PHAPBLGS/TEU "majesty"
-    "PH*EUBG": "mechanic",      // with PH*EUBGS "mechanics"; give up "MIC"
+    "EUR/SEUFT/PWHREU": "irresistibly", // with EUR/SEUFT/-BL "irresistible"
+    "PHAPBLGS/TEUBG": "majestic",  // with PHAPBLGS/TEU "majesty"
+    "PH*EUBG": "mechanic",         // with PH*EUBGS "mechanics"; give up "MIC"
     "PHEL/TKROEUPL": "melodrama",  // with TKROEUPL "drama"
     "PHAOEUFB": "might have been", // with PHAEUFB "may have been"
     "TPHAOERB": "nearby",       // with TPHAOER "near"; use TPHEURB for "niche"
