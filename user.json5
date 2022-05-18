@@ -2058,15 +2058,6 @@
     "TPHEFBLT": "inevitability", // - -T = "inevitable"
     "SRUBLT": "vulnerability",   // - -T = "vulnerable"
 
-    // -BGT for -cut
-    "HAEURBGT": "haircut",
-    "SHORBGT": "shortcut",
-
-    // -BGS for -case
-    "PWRAOEFBGS": "briefcase",
-    "SHOEBGS": "showcase",
-    "STAEURBGS": "staircase",
-
     // -LG for -gle
     // Precedents: TKPWAOLG "Google", STRULG "struggle"
     "AOELG": "eagle",      // use SERBL for "essential"
@@ -3716,6 +3707,10 @@
     "A/SAFPBT": "assassinate",
     "A/SAFPBGS": "assassination",
 
+    "PWRAOEFBGS": "briefcase",
+    "SHOEBGS": "showcase",
+    "STAEURBGS": "staircase",
+
     "KPREPBD": "comprehend",     // standard
     "KPREPBGS": "comprehension", // standard
     "KPRERPBD": "comprehender",
@@ -3780,6 +3775,9 @@
     "TPROT": "forgot",
     "TPROPB": "forgotten",
     "TPREFL": "forgetful",
+
+    "HAEURBGT": "haircut",
+    "SHORBGT": "shortcut",
 
     "HAEP": "happy", // standard
     "HAEPL": "happily",
