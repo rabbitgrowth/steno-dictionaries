@@ -4218,15 +4218,6 @@
     "-PT": "want",        // use standard phrase ender on its own
     /*1*/ "STPH*UR": "insure",
 
-    // A more ergonomic "end" with TPH for en-
-    // Precedents: TPH-PBLG "engine", TPH-RG "energy"
-    "TPH-D": "end",     // easier to stroke than EPBD; give up {^ed in}
-    "TPH-DZ": "ends",   // overrides "inside" [1]
-    "TPH-TD": "ended",  // use TPHO*ETS/-D for "noticed" (custom)
-    "TPH-GD": "ending", // much easier to stroke than EPBGD
-    /*1*/ "TPH-FD": "inside", // "insd"; use TPH-FRPLD for "informed"
-          "OUFD": "outside",  // "ousd"; for consistency
-
     // O*ERBGS "oh" seems crazy but actually has some logic to it:
     //   OE      "owe"
     //   OERBGS  "oh," (add -RBGS for comma)
