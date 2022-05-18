@@ -178,6 +178,7 @@
     "TRUBGS": "introduction",   // with PRUBGS "production", RUBGS "reduction", etc.
                                 //   use -Z for "trucks"
     "EUR/SEUFT/PWHREU": "irresistibly", // with EUR/SEUFT/-BL "irresistible"
+    "SKWROURPB": "journey",        // with SKWROURPBL "journal"
     "PHAPBLGS/TEUBG": "majestic",  // with PHAPBLGS/TEU "majesty"
     "PH*EUBG": "mechanic",         // with PH*EUBGS "mechanics"; give up "MIC"
     "PHEL/TKROEUPL": "melodrama",  // with TKROEUPL "drama"
@@ -1937,10 +1938,10 @@
     "KPHAOUFT": "communist",
     "KPHAO*UFPL": "Communism",
     "KPHAO*UFT": "Communist",
-    "SKWRUFRPL": "journalism",
-    "SKWRUFRT": "journalist",
-    "TOFRPL": "tourism",
-    "TOFRT": "tourist",
+    "SKWROUFRPL": "journalism",
+    "SKWROUFRT": "journalist",
+    "TOUFRPL": "tourism",
+    "TOUFRT": "tourist", // standard
 
     // -FPL for -some
     "TKPWRAOUFPL": "gruesome",
