@@ -656,11 +656,11 @@
     "SRA*EL": "vale",  // give up "eval"
 
     // O -> OE
-    "TKPWOER": "gory",    // compare TKPWHROER "glory"; use TKPWOR for "gore"
+    "TKPWOER": "gory", // cf. TKPWHROER "glory"; use TKPWOR for "gore"
     "HOEB": "hobby",
-    "HRO*EB": "lobby",    // - * = "lobe"
+    "HRO*EB": "lobby", // - * = "lobe"
     "PHO*EPBG": "monkey", // cf. PHO*PBG "monk"
-    "PROEBGS": "proxy",   // use PREBGS for "protection"
+    "PROEBGS": "proxy", // use PREBGS for "protection"
     "STPHOEB": "snobby",
 
     // E -> AOE
@@ -694,8 +694,8 @@
     "SHROEUPL": "slimy",
 
     // Other vowels
-    "PWHROEUD": "bloody", // AO   -> OEU?
-    "TPROEUT": "fruity",  // AO U -> OEU?
+    "PWHROEUD": "bloody", // AO  -> OEU?
+    "TPROEUT": "fruity",  // AOU -> OEU?
 
     // Just drop the -y
     "HUR": "hurry", // should not cause word boundary errors;
