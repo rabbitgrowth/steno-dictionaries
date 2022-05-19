@@ -245,18 +245,11 @@
     // -- Phonetic -------------------------------------------------------------
 
     "ARBG/SEU": "accuracy", // alternative to ABG/RAES and ABG/SEU
-    "APBLG/TEUF": "adjective",
-    "APBLG/TAOEUFL": "adjectival",
-    "ARPB/KEU": "anarchy",
-    "ARPB/KEUFT": "anarchist",
-    "ARPB/KEUFPL": "anarchism",
     "APBGS/TEU": "angsty",
     "ARPBS": "answer",
     "ARPBGS": "answering", // use ARPBLGZ for "arranges"
     "APLT/STPAOER": "atmosphere",
     "AU/RO/RA": "aurora",
-    "AUT/TPHOEPL": "autonomy", // cf. AUT/KRAES "autocracy"
-    "AUT/TPHOPLS": "autonomous",
     "PWHRAOEU": "belie",
     "PWHRAOEUD": "belied", // otherwise "belieed"
     "SPWAOEPBLG": "besiege",
@@ -264,15 +257,13 @@
     "PWOFPL": "bosom",
     "PWUFPL": "bosom",
     "PWRAOD": "brood", // use PWROD for "broad"
-    "KHRERPBD": "calendar",
     "KAUFT": "caste",
     "KREUFPLS": "Christmas",
     "KHRAPBD/STEUPB": "clandestine",
-    "KHRAEURPBT": "clarinet",
     "KOFPB/TKAPBT": "confidant",
     "KOFPB/TKA*PBT": "confidante",
-    "KAUPB/STAPBS/KWREU": "constancy", // or use STAPBT/SEU ("constant" + {^cy})
-    "TKHREURBT": "deliberate", // include -R
+    "KAUPB/STAPBS/KWREU": "constancy", // or use "constant" + {^cy}
+    "TKHREURBT": "deliberate", // with -R
     "TKHREURBLT": "deliberately",
     "TKEUS/PEUBG/-BL": "despicable", // with EU instead of the orthographic E
     "TKEUS/PEUBG/PWHREU": "despicably",
@@ -281,8 +272,6 @@
     "KWRAOUBG/HREUP/TUS": "eucalyptus",
     "KWRAOUBG/HREUPT/US": "eucalyptus", // cf. AOUBG/HREUPT/US
     "KWRAOUBG/HREUPTS": "eucalyptus",
-    "TPEPBGS": "fencing", // misstroke for "infection"
-    "TPRAOEPBLS": "freelance",
     "TKPWAPBLT": "gallant",
     "TKPWAL/APBT": "gallant",
     "HA*RT": "hearth", // give up "Hart"
@@ -299,12 +288,8 @@
     "PHAOUFPL": "mutual",
     "TPHAFPBT": "nascent",
     "TPHAOERPBS": "nearness",
-    "TPHEBLS": "nebulous",
     "TPHAOUFPBS": "nuisance",
     "TPHAOEUPBL": "nylon",
-    "OB/HREUF/KWROPB": "oblivion",
-    "OB/HREUF/KWROUS": "oblivious",
-    "OB/HREUF/KWROULS": "obliviously",
     "ORP/TEUF": "operative",
     "ORB": "orb", // misstroke for "or"
     "ORPB/TAEUGS": "orientation",
@@ -314,7 +299,6 @@
     "PHRAEUG": "plague", // come back for -G for "playing"
     "PROF/SEU": "prophecy", // use PROF/SAOEU for "prophesy"
     "PUR": "purr", // overrides "purchaser" [1]
-    "PEURPLD": "pyramid",
     "RE/PUBL/KAPB": "republican",
     "SKAPBLD": "scandal",
     "SRAOEPB": "serene", // use SRAOEPBT for "convenient"
@@ -322,20 +306,17 @@
     "SRAOEZ": "series",
     "S*EUBGT": "sixth", // alternative British pronunciation (/sɪkθ/)
     "SOPBT": "sonnet", // overrides "sonata" [2]
-    "TAOEPL": "teem",       // use TAEPL for "team"
-    "TAOEPL/-G": "teeming", // by default "teaming"
+    "TAOEPL": "teem", // use TAEPL for "team"
+    "TAOEPL/-G": "teeming",
     "TAOEPLD": "teemed",
-    "TAOEPBG": "teenage",
-    "TAOERPBG": "teenager",
     "T*EPBT": "tenth", // use EPBT/TEU for "entity"
     "T*EPBTS": "tenths",
     "TOEPL": "tome", // use T-RPL for "tomorrow" (custom)
     "TRAOEFPB": "treason",
     "TRAOEFPBS": "treasonous",
     "SRAPBL/TAOEUPB": "valentine",
-    "SRURLG": "vulgar",
-    "WEFBGT": "waistcoat",
     "WES/KEUT": "waistcoat",
+    "WEFBGT": "waistcoat",
     "WAOERPBS": "weariness",
     "WEURLD/-PBS": "wilderness",
     "KWROERGT": "yogurt",
@@ -375,6 +356,8 @@
 
     "ABD": "abandon",
     "A/KAOUFBG": "acoustic",
+    "APBLG/TEUF": "adjective",
+    "APBLG/TAOEUFL": "adjectival",
     "TKPHEUGS": "admission",
     "AFD/SAER": "adversary", // AFRD would violate inversion rule
     "AFD/SAEURL": "adversarial",
@@ -386,11 +369,14 @@
     "A*UT/TEUFT": "authenticity",
     "AUBG": "automatic", // overrides "awk" [1]
     "AULG": "automatically",
+    "AUT/TPHOEPL": "autonomy", // cf. AUT/KRAES "autocracy"
+    "AUT/TPHOPLS": "autonomous",
     "PWHRAEUPBT": "blatant",
     "KPHRAERD": "camaraderie", // "kmradry"
     "KROEF": "catastrophe",
     "KA*T/TKRAL": "cathedral",
     "KHOLT": "chocolate",
+    "KHRAEURPBT": "clarinet",
     "SKAOEL": "conceal", // cf. SKERT "concert" (the verb is stressed on the second syllable)
     "KAUPB/STELGS": "constellation", // cf. STELT "stellate"
     "KPRA*EUPBS": "contemporaneous", // KPRA*EURPBS - -R; - * = "extraneous"
@@ -420,6 +406,7 @@
     "KPRAPLGS": "extrapolation",
     "TPAOPBLG": "footage",
     "TPREFT": "forest", // TPOFRT is taken by "foster"
+    "TPRAOEPBLS": "freelance",
     "TKPWARPB": "garden",
     "TKPWREURPB": "grandchildren", // or use TKPWR-PB
     "HAFPL": "handsome",
@@ -441,6 +428,7 @@
     "PHEUL/SHA": "militia",
     "PHOFT": "modest", // use PHOEFT for "most"
     "PHOEFGS": "motivation",
+    "TPHEBLS": "nebulous",
     "TPHOUDZ": "nowadays",
     "OFRPL": "organism", // "orsm"
     "PRABL": "parabola",
@@ -454,6 +442,7 @@
     "PREFRT": "protester",
     "PURPT": "purport",
     "PUZ": "puzzle", // cf. PEUZ "pizza"; alternative to PUFL
+    "PEURPLD": "pyramid",
     "RAFPL": "ransom",
     "SPOBL": "responsible",  // alternative to SPOPBL
     "SPOEBL": "responsibly", //                SPOEPBL
@@ -478,6 +467,8 @@
     "SWART": "sweetheart",
     "STOPL": "symptom",
     "TPHAOEBG": "technique",
+    "TAOEPBG": "teenage",
+    "TAOERPBG": "teenager",
     "TRAPBLG/TOER": "trajectory",
     "STPHAPL": "tsunami",
     "WORP": "worship", // give up "WordPress"
@@ -1127,8 +1118,10 @@
     "TRARBGT": "tractor",
     "THRAEURT": "translator",
 
+    "KHRERPBD": "calendar",
     "HRAOURPB": "lunar",
     "SKORL": "scholar",
+    "SRURLG": "vulgar",
 
     // ... or use R if -R is already used
     // Precedents: TPRORPL "former", RERL "earlier"
@@ -3052,6 +3045,7 @@
     "AOEFD": "eased",
     "ETSDZ": "edits",        // (ETD + -S) + -Z
     "TPAEUGD": "fading",
+    "TPEPBGS": "fencing",    // misstroke for "infection"
     "TPUFD": "fussed",
     "TPUSZ": "fusses",       // misstroke for "fuss"
     "TPUFG": "fussing",
@@ -3681,6 +3675,10 @@
     "TKPWREGS": "aggression",
     "TKPWREFR": "aggressor",
 
+    "ARPB/KEU": "anarchy",
+    "ARPB/KEUFT": "anarchist",
+    "ARPB/KEUFPL": "anarchism",
+
     "A/PREPBD": "apprehend", // standard
     "A/PREBL": "apprehensible",
     "A/PREBLT": "apprehensibility",
@@ -3863,6 +3861,10 @@
     "PWOEUPB/AEUR": "billionaire", // standard
     "TROEUPB/AEUR": "trillionaire", // cf. "millionaire", "billionaire"
     "SO*EUPB/AEUR": "zillionaire",
+
+    "OB/HREUF/KWROPB": "oblivion",
+    "OB/HREUF/KWROUS": "oblivious",
+    "OB/HREUF/KWROULS": "obliviously",
 
     "P-F": "perfect",    // standard
     "P-FL": "perfectly", // standard
