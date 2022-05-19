@@ -355,7 +355,6 @@
     // -- Approximately phonetic -----------------------------------------------
 
     "ABD": "abandon",
-    "A/KAOUFBG": "acoustic",
     "APBLG/TEUF": "adjective",
     "APBLG/TAOEUFL": "adjectival",
     "TKPHEUGS": "admission",
@@ -1951,6 +1950,7 @@
     // Precedents: PHRAFBG  "plastic"
     //             TKPHEFBG "domestic"
     //             KREUFBG  "characteristic"
+    "A/KAOUFBG": "acoustic",
     "HREUPBG/WEUFBG": "linguistic",
     "OPT/PHEUFBG": "optimistic",
     "PES/PHEUFBG": "pessimistic",
