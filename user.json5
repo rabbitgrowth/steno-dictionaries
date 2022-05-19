@@ -323,7 +323,8 @@
     /*2*/ "STPHAT/KWRA": "sonata", // or use SO/TPHA/TA
 
     // Phonetic alternatives to briefs
-    "SER/TEUFBGT": "certificate", // to SER
+    "SERT/EUFBGT": "certificate", // to SER
+    "SER/TEUFBGT": "certificate",
     "STEUFBGT": "certificate",
     "KAUPB/TKURBGT": "conductor", // to KURBGT
     "KUFPB": "cousin",            // to KUZ
