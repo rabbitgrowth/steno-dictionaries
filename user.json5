@@ -261,8 +261,6 @@
     "PWRAOD": "brood", // use PWROD for "broad"
     "KREUFPLS": "Christmas",
     "KHRAPBD/STEUPB": "clandestine",
-    "KOFPB/TKAPBT": "confidant",
-    "KOFPB/TKA*PBT": "confidante",
     "KAUPB/STAPBS/KWREU": "constancy", // or use "constant" + {^cy}
     "TKHREURBT": "deliberate", // with -R
     "TKHREURBLT": "deliberately",
@@ -3735,6 +3733,10 @@
     "KPREF": "comprehensive", // use KPEF for "competitive"
     "KPREFL": "comprehensively",
     "KPREFPBS": "comprehensiveness",
+
+    "KAUFPB/TKEPBT": "confident", // standard
+    "KAUFPB/TKAPBT": "confidant", // by default "confidante"
+    "KAUFPB/TKA*PBT": "confidante",
 
     "KREB": "credible",      // cf. PROB   "probable"
     "KREBL": "credibly",     // cf. PROBL  "probably"; use KRET/-BL for "creditable"
