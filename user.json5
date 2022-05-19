@@ -300,7 +300,6 @@
     "TPHAFPBT": "nascent",
     "TPHAOERPBS": "nearness",
     "TPHEBLS": "nebulous",
-    "TPHEUPL/ROD": "nimrod",
     "TPHAOUFPBS": "nuisance",
     "TPHAOEUPBL": "nylon",
     "OB/HREUF/KWROPB": "oblivion",
@@ -4103,6 +4102,7 @@
     "AOEF": "eve",        // overrides "Eve" [1]
     "KEPB": "ken",        // + * = "Ken"
     "HRAO*EUT": "lithe",  // give up "lite"
+    "TPHEUPL/ROD": "nimrod",
     "TPRAEUFL": "phrasal",
     "WAOERG": "Uighur",   // use W*R for "we're"
     "STOLD": "stolid",    // cf. SOL/EUD "solid"
