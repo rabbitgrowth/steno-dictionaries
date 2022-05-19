@@ -275,7 +275,7 @@
     "TKPWAL/APBT": "gallant",
     "HEPBG": "henge", // give up "he think"; use H-PBGZ for "he thinks" (custom)
     "HAOURBS": "hubris",
-    "EUFRPB": "inch", // use TPRAEUPB for {^infra}
+    "EUFRPB": "inch", // use TPRAEUPB for {infra^}
     "SPWREUBGT": "intricate",
     "EUFPB/TAEUGS": "invitation",
     "PHAPB/TEUS": "mantis",
