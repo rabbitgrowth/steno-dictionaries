@@ -257,7 +257,6 @@
     "PWOFPL": "bosom",
     "PWUFPL": "bosom",
     "PWRAOD": "brood", // use PWROD for "broad"
-    "KAUFT": "caste",
     "KREUFPLS": "Christmas",
     "KHRAPBD/STEUPB": "clandestine",
     "KOFPB/TKAPBT": "confidant",
@@ -4223,6 +4222,7 @@
     "TA*UL": "at all",    // symmetry makes * feel nice; give up {^-tall}
     "SPWAR": "bizarre",   // allow dropping * for "z" because of PW in between
     "PWOEUR": "bury",     // OEU to reflect weirdness of "u" being pronounced /ɛ/
+    "KAUFT": "caste",     // AU for /ɑː/
     "KR-RG": "category",  // [c]ate[g]o[r]y; also symmetrical
     "KPHOS": "cosmos",    // "os" shared between "c" and "m"
     "KREPB": "century",   // first three letters
