@@ -45,6 +45,8 @@
     "P-FT": "point of",
     "P-FTS": "points of",
     "PR-B": "problem",
+    "KW-T": "quiet", // lack of vowels feels quiet; compare KWAOEUT "quite"
+    "KW-LT": "quietly",
     "TH-G": "thing", // TH/TH-G "this thing" and TH-GZ "things" are nice
     "-RPB": "under",
     "*RPB": "{under^}",
@@ -2692,6 +2694,7 @@
     "TPHEUFT": "any of the", // use EUFT for {^ist}
     "SKHER": "ask her",
     "SKHEUPL": "ask him",
+    "TA*UL": "at all", // - * = "tall"; give up {^-tall}
     "TPROUT": "figure out",
     "TPOU": "for you",
     "TKPWOEPL": "go home",
@@ -3766,6 +3769,10 @@
     "TKPHEUFL": "dismissal",
     "TKPHEUFG": "dismissing",
 
+    "STPHUR": "ensure", // overrides "insure"
+    "STPH*UR": "insure",
+    "STPHURPBS": "insurance", // standard
+
     "ER": "err",       // give up {er^}
     "*ER": "error",    // use -R for {^er} (custom)
     "ERPBT": "errant", // but "errand" is ER/APBD since ERPBD is "earned"
@@ -4219,7 +4226,6 @@
 
     "SKW": "and",         // SKP with P moved down
     "KWRAEUR": "area",    // /ˈɛːrj/
-    "TA*UL": "at all",    // symmetry makes * feel nice; give up {^-tall}
     "SPWAR": "bizarre",   // allow dropping * for "z" because of PW in between
     "PWOEUR": "bury",     // OEU to reflect weirdness of "u" being pronounced /ɛ/
     "KAUFT": "caste",     // AU for /ɑː/
@@ -4227,15 +4233,11 @@
     "KPHOS": "cosmos",    // "os" shared between "c" and "m"
     "KREPB": "century",   // first three letters
     "KWOEBG": "echo",     // left side ("qo"?) "echoing" the right side visually
-    "STPHUR": "ensure",   // "N-shur" (TPH + SH); overrides "insure" [1]
-    "EU/E": "i.e.",       // just "fingerspell" it
-    "HRAO*EULG": "lilac", // *LG for "lk" with a vowel in between
-    "O/ER": "o'er",       // separate into two strokes since OER is "other"
-    "PO*EUPB": "piano",   // wildcard OEU with * since POEUPB is "appoint"
-    "KW-T": "quiet",      // lack of vowels feels quiet; compare KWAOEUT "quite"
-    "KW-LT": "quietly",
-    "-PT": "want",        // use standard phrase ender on its own
-    /*1*/ "STPH*UR": "insure",
+    "EU/E": "i.e.",
+    "HRAO*EULG": "lilac", // *LG for "lk" with vowel in between
+    "O/ER": "o'er",
+    "PO*EUPB": "piano",   // wildcard OEU; - * = "appoint"
+    "-PT": "want",        // standard phrase ender used on its own
 
     // O*ERBGS "oh" seems crazy but actually has some logic to it:
     //   OE      "owe"
