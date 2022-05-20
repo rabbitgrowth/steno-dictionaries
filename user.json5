@@ -3581,14 +3581,14 @@
     // Ellipsis
     "-RBGS": "{^...}",
 
-    // Brackets
-    "WR": "{~|(^}",  // open bracket;  use -RP for "were"
-    "-RB": "{^~|)}", // close bracket; use KW-BG for {,}
-
     // Quotation marks
     // Use the same fingers you would use for making air quotes.
-    "PH": "{~|\"^}",  // open quote;  use PAEUFP for "pH"
-    "-FP": "{^~|\"}", // close quote; use TP-PL  for {.}
+    "PH": "{~|\"^}",  // open quote; use PAEUFP for "pH"
+    "-FP": "{^~|\"}", // close quote; use TP-PL for {.}
+
+    // Brackets
+    "WR": "{~|(^}",  // open bracket; use -RP for "were"
+    "-RB": "{^~|)}", // close bracket; use KW-BG for {,}
 
     // -- Commands -------------------------------------------------------------
 
