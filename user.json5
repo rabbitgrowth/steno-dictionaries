@@ -3582,14 +3582,8 @@
     "-RBGS": "{^...}",
 
     // Brackets
-    // The closest thing that looks like an open bracket,
-    // KPA, is already used for capitalizing the next word,
-    // so use the next closest thing:
-    //   P               T     L
-    //  K   is used so  S       S
-    //   A                A   U
-    "STA": "{~|(^}", // open bracket
-    "ULS": "{^~|)}", // close bracket
+    "WR": "{~|(^}",  // open bracket;  use -RP for "were"
+    "-RB": "{^~|)}", // close bracket; use KW-BG for {,}
 
     // Quotation marks
     // Use the same fingers you would use for making air quotes.
