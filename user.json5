@@ -3569,9 +3569,15 @@
 
     // -- Punctuation as shapes ------------------------------------------------
 
+    // The Holy Quaternity:
+    // TP-PL {.}
+    // KW-BG {,}
+    // KW-PL {?} (rising  shape or Q-M for "question mark")
+    // TP-BG {!} (falling shape or F-K for "fuck", maybe?)
+
     // Semicolon
-    // TP-PL {.} * 2         = STPH-FPLT {:}
-    // TP-PL {.} + KW-BG {,} = TKPW-PBLG {;}
+    // If   TP-PL {.} * 2 = STPH-FPLT {:},
+    // then TP-PL {.} + KW-BG {,} = ...
     "TKPW-PBLG": "{;}",
 
     // Hyphen and dash
@@ -3583,11 +3589,11 @@
 
     // Quotation marks
     // Use the same fingers you would use for making air quotes.
-    "PH": "{~|\"^}",  // open quote; use PAEUFP for "pH"
-    "-FP": "{^~|\"}", // close quote; use TP-PL for {.}
+    "PH": "{~|\"^}",  // open  quote; use PAEUFP for "pH"
+    "-FP": "{^~|\"}", // close quote; use TP-PL  for {.}
 
     // Brackets
-    "WR": "{~|(^}",  // open bracket; use -RP for "were"
+    "WR": "{~|(^}",  // open  bracket; use -RP   for "were"
     "-RB": "{^~|)}", // close bracket; use KW-BG for {,}
 
     // -- Commands -------------------------------------------------------------
