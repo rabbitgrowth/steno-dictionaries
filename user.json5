@@ -404,6 +404,7 @@
     "TPREFT": "forest", // TPOFRT is taken by "foster"
     "TPRAOEPBLS": "freelance",
     "TKPWARPB": "garden",
+    "TKPWOFD": "godsend",
     "TKPWREURPB": "grandchildren", // or use TKPWR-PB
     "HAFPL": "handsome",
     "HAOUR/ST-BG": "heuristic", // cf. ST-BG {^istic}
@@ -970,6 +971,7 @@
     "SWOU": "avow",    // SRAOU is "view"
     "SWOUL": "avowal", // SRAOUL is "value"
     "SWAEUBG": "awake",
+    "SWAEUR": "aware", // use SWAER for "swear"
     "SWOEBG": "awoke",
     /*1*/ "SHRO*EPB": "Sloan",
 
@@ -1300,6 +1302,7 @@
     "PUFRL": "pummel",
 
     // Miscellaneous
+    "TKAOEUFRBG": "dynamic", // instead of TKPHAOEUBG
     "AOEFRL": "email",
     "STOFRBG": "stomach",
 
@@ -1625,6 +1628,7 @@
     "SKPREFG": "expressing",
     "SKPREGS": "expression",
     "SKPREF": "expressive",
+    "SKPULGS": "expulsion",
 
     // SKH for exch-
     "SKHAEUPBG": "exchange", // misstroke for "change is"
@@ -3680,6 +3684,7 @@
     "PWHRUPT": "blueprint", // standard
     "TPAOPT": "footprint",
     "TPEURPT": "fingerprint",
+    "THUPT": "thumbprint",
 
     "PWRAOEFBGS": "briefcase",
     "SHOEBGS": "showcase",
@@ -4070,6 +4075,7 @@
     // -- Vocabulary -----------------------------------------------------------
 
     "ART/SEU/TPART/SEU": "artsy-fartsy",
+    "KHARPBL": "charnel",
     "TKO/TKO": "dodo",
     "TKOE/TKOE": "dodo",
     "TKO*PB": "don", // - * = "done"; prepend KPA for "Don"
@@ -4078,6 +4084,7 @@
     "AOEF": "eve", // add * for "Eve" [1]
     "KEPB": "ken", // add * for "Ken"
     "HRAO*EUT": "lithe", // give up "lite"
+    "PHOEUL": "moil",
     "TPHEUPL/ROD": "nimrod",
     "TPRAEUFL": "phrasal",
     "WAOERG": "Uighur", // use W*R for "we're"
