@@ -1596,6 +1596,7 @@
     "SKPAOERPBS": "experience", // or use KP-P (custom)
     "SKPERPLT": "experiment",
     "SKPERT": "expert",
+    "SKPERLT": "expertly",
     "SKPERT/EUS": "expertise",  // cf. SPERT/EUS
     "SKPERT/AOES": "expertise", // cf. SPERT/AOES
     "SKPRAEUGS": "expiration",
@@ -1612,6 +1613,8 @@
     "SKPHROEGS": "explosion",
     "SKPHROEF": "explosive",
     "SKPHROES/EUF": "explosive", // cf. SPHROES/EUF
+    "SKPO": "expo",
+    "SKPOEPBT": "exponent",
     "SKPOERBL": "exponential",
     "SKPHROERBL": "exponentially",
     "SKPORT": "export",
@@ -1619,7 +1622,9 @@
                         //              KPOES  "compose"
                         //              SKPOES "expose"
     "SKPOEFD": "exposed",
+    "SKPOGS": "exposition", // cf. POGS "position"
     "SKPOERB": "exposure",
+    "SKPOUPBD": "expound",
     "SKPRES": "express", // another nice trio: SPRES  "suppress"
                          //                    KPRES  "compress"
                          //                    SKPRES "express"
@@ -1627,6 +1632,7 @@
     "SKPREFG": "expressing",
     "SKPREGS": "expression",
     "SKPREF": "expressive",
+    "SKPROEPGS": "expropriation", // cf. PROEPGS "appropriation"
     "SKPULGS": "expulsion",
     // Conflicts with "and" phrasing:
     // SKPEL   "and he will"   vs "expel"
