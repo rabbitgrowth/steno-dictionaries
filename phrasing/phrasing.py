@@ -109,6 +109,7 @@ patterns.extend([
 # Verbs
 
 verb = {
+    "-RG":    "agree",
     "-BL":    "believe",
     "-FL":    "feel",
     "-FD":    "find",
@@ -128,6 +129,7 @@ verb = {
 }
 
 verbs = {
+    "-RGZ":    "agrees",
     "-BLZ":    "believes",
     "-FLZ":    "feels",
     "-FDZ":    "finds",
