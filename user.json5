@@ -466,7 +466,6 @@
     "WORP": "worship", // give up "WordPress"
     /*1*/ "A*UBG": "awk", // give up "AUC"
 
-    "STRAEUGS": "administration", // or use TKPHEUPBGS ("admin-tion")
     "A/TPHAOEULT": "annihilate",
     "A/TPHAOEULGS": "annihilation",
     "PHREUBGS": "application", // use -Z for "politics" [1]
@@ -1575,7 +1574,7 @@
     "STKHREBGT": "deselect",
     "STKPRAT": "desperate",
     "STKPRALT": "desperately",
-    "STKPRAEUGS": "desperation", // use STRAEUGS for "administration" (custom)
+    "STKPRAEUGS": "desperation", // use TKPHEUPBGS for "administration"
     "STKPOPBS": "despondency",
     "STKPOPBT": "despondent",
 
