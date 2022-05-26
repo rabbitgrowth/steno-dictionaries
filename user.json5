@@ -1962,7 +1962,7 @@
 
     // -PBG for -nct
     // Precedents: TKEUS/TEUPBG "distinct" (can be briefed to STKEUPBG)
-    //             EUPB/STEUPBG "instinct" (only STPHEUPBGT works)
+    //             EUPB/STEUPBG "instinct" (but STPHEUPBG doesn't work)
     //             AD/SKWRUPBG  "adjunct"
     "KAUPB/SKWRUPBG": "conjunct",
     "TKE/TPUPBG": "defunct",
@@ -1970,7 +1970,7 @@
     "KPEUPBG": "extinct",
     "KPEUPBGS": "extinction",
     "STPHEUPBG": "instinct",
-    "SARBG/SAPBG": "sacrosanct", // very nice
+    "SARBG/SAPBG": "sacrosanct",
 
     // -PBT for -ten
     "PWRAOEUPBT": "brighten", // overrides "Bryant" [1]
