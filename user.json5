@@ -394,8 +394,6 @@
     "HRAOEFPL": "eventually",
     "KPAFRBT": "exacerbate",
     "KPAFRBGS": "exacerbation",
-    "SKPOERBL": "exponential",
-    "SKPHROERBL": "exponentially",
     "KPRAPLT": "extrapolate",
     "KPRAPLGS": "extrapolation",
     "TPAOPBLG": "footage",
@@ -1614,6 +1612,8 @@
     "SKPHROEGS": "explosion",
     "SKPHROEF": "explosive",
     "SKPHROES/EUF": "explosive", // cf. SPHROES/EUF
+    "SKPOERBL": "exponential",
+    "SKPHROERBL": "exponentially",
     "SKPORT": "export",
     "SKPOES": "expose", // a nice trio: SPOES  "suppose"
                         //              KPOES  "compose"
