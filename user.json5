@@ -1628,6 +1628,9 @@
     "SKPREGS": "expression",
     "SKPREF": "expressive",
     "SKPULGS": "expulsion",
+    // Conflicts with "and" phrasing:
+    // SKPEL   "and he will"   vs "expel"
+    // SKPUPBG "and you think" vs "expunge"
 
     // SKH for exch-
     "SKHAEUPBG": "exchange", // misstroke for "change is"
