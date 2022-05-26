@@ -1941,12 +1941,11 @@
     "TP*EURB": "fissure", // use TP-RB for "finish" (custom)
 
     // -RBL for -bral and -RPBL for -nral
-                            // Plover consistently omits -R:
-    "SRAOERBL": "cerebral", // SRAOEBL
-    "TPAOURPBL": "funeral", // TPAOUPBL
-    "SKWRERPBL": "general", // SKWREPBL
-    "HREURBL": "liberal",   // HREUBL
-    "PHEURPBL": "mineral",  // PHEUPBL
+    "SRAOERBL": "cerebral", // Plover consistently omits -R: SRAOEBL
+    "TPAOURPBL": "funeral", //                               TPAOUPBL
+    "SKWRERPBL": "general", //                               SKWREPBL
+    "HREURBL": "liberal",   //                               HREUBL
+    "PHEURPBL": "mineral",  //                               PHEUPBL
 
     // *RT for -ther
     // Precedents: H*EURT "hither", TH*EURT "thither"
