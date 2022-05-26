@@ -2108,10 +2108,10 @@
     //             TKOUPBDZ "downside"
     //             TH-DZ    "this side"
     //             THADZ    "that side"
-    //             O*ERDZ   "other side" (not sure why starred)
     //             HR-PBDZ  "left-hand side"
     //             R-PBDZ   "right-hand side"
     "AOLDZ": "alongside",
+    "OERDZ": "other side", // drop *
     // But:
     "PW-D": "beside",   // give up "pwd"
     "PW-DZ": "besides", // standard
