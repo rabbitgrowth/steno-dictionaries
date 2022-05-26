@@ -1499,11 +1499,11 @@
     "STKAFBGS": "disaffection",
     "STKARPL": "disarm",
     "STKARPLT": "disarmament",
-    "STKPWHRAOEF": "disbelief", // uses every key on the left
+    "STKPWHRAOEF": "disbelief", // uses the entire left bank
     "STKPWHREF": "disbelieve",
-    "STKARD": "discard", // TK+S+K, cf. STKORD "discord"
+    "STKARD": "discard", // cf. STKORD "discord"
     "STKERPB": "discern",
-    "STKERPLT": "discernment", // drop "n", cf. A/HRAOEUPLT "alignment"
+    "STKERPLT": "discernment",
     "STKAOEUPL": "disciple",
     "STKPHREUPB": "discipline",
     "STKPHREUPB/REU": "disciplinary",
@@ -1535,7 +1535,7 @@
     "STKPERS": "disperse",
     "STKPEFRD": "dispersed", // cf. KUFRD  "cursed"
     "STKPEFRL": "dispersal", // cf. TKOFRL "dorsal"
-    "STKPERLS": "dispersal", // although there's no TKORLS
+    "STKPERLS": "dispersal", // although TKORLS doesn't work for "dorsal"
     "STKPERGS": "dispersion",
     "STKPEURT": "dispirit",
     "STKPHRAEUS": "displace", // use -Z for "displays"
@@ -1560,7 +1560,8 @@
     "STKOERBT": "dissociate", // cf. SOERBT "associate"
     "STKHRAOUT": "dissolute",
     "STKHRAOUGS": "dissolution",
-    "STKOFL": "dissolve", // or drop the -L
+    "STKOF": "dissolve", // standard
+    "STKOFL": "dissolve",
     "STKPHAPBS": "dissonance", // TK+S+TPH
     "STKPHAPBT": "dissonant",
     "STKWAEUD": "dissuade",
