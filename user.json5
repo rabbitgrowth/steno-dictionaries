@@ -1570,7 +1570,7 @@
 
     "STKEPGS": "deception",
     "STKEPT/EUF": "deceptive",
-    "STKEPBD": "descend", // and get KAUPB/STKEPBGD "condescending" for free
+    "STKEPBD": "descend", // prepend {con^} for "condescend"
     "STKHREBGT": "deselect",
     "STKPRAT": "desperate",
     "STKPRALT": "desperately",
@@ -1935,7 +1935,7 @@
 
     // -RB for -sure
     // Precedents: PRERB "pressure", PH*ERB "measure" (- * = "mesh")
-    "KHROERB": "closure", // and get EPB/KHROERB "enclosure" for free
+    "KHROERB": "closure", // prepend {en^} for "enclosure"
     "KPOERB": "composure",
     "AOE/RAEURB": "erasure",
     "TP*EURB": "fissure", // use TP-RB for "finish" (custom)
@@ -2970,9 +2970,9 @@
     "ES/KHRAEUGT": "escalating",
     "TPRABG/TAOURD": "fractured",  // or use TPRAFPD
     "TPRABG/TAOURG": "fracturing", //        TPRAFPG
-    "TKPWROEFD": "grossed",  // and get EPB/TKPWROEFD "engrossed" for free
-    "TKPWROESZ": "grosses",  //         EPB/TKPWROESZ "engrosses"
-    "TKPWROEFG": "grossing", //         EPB/TKPWROEFG "engrossing"
+    "TKPWROEFD": "grossed",  // prepend {en^} for "engrossed"
+    "TKPWROESZ": "grosses",  //                   "engrosses"
+    "TKPWROEFG": "grossing", //                   "engrossing"
     "SPWEUPL/TKAEUTD": "intimidated",
     "SPWEUPL/TKAEUTS": "intimidates",
     "SPWEUPL/TKAEUGT": "intimidating",
