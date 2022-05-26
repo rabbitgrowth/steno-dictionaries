@@ -496,6 +496,23 @@
           "PUBLG": "public", // cf. RUBLG "republic"
           "PUB/HREUFT": "publicity",
 
+    // -- Right bank consonant squeezing ---------------------------------------
+
+    // -BGS for -case
+    "PWRAOEFBGS": "briefcase",
+    "SHOEBGS": "showcase",
+    "STAEURBGS": "staircase",
+
+    // -BGT for -cut
+    "HAEURBGT": "haircut",
+    "SHORBGT": "shortcut",
+
+    // -PT for -print
+    "PWHRUPT": "blueprint", // standard
+    "TPAOPT": "footprint",
+    "TPEURPT": "fingerprint",
+    "THUPT": "thumbprint",
+
     // -- -ore -----------------------------------------------------------------
 
     // In Plover, -ore can be OR:
@@ -3707,15 +3724,6 @@
     "A/SAFPBT": "assassinate",
     "A/SAFPBGS": "assassination",
 
-    "PWHRUPT": "blueprint", // standard
-    "TPAOPT": "footprint",
-    "TPEURPT": "fingerprint",
-    "THUPT": "thumbprint",
-
-    "PWRAOEFBGS": "briefcase",
-    "SHOEBGS": "showcase",
-    "STAEURBGS": "staircase",
-
     "KPHAOUFT": "communist",
     "KPHAO*UFT": "Communist",
     "KPHAOUFPL": "communism",
@@ -3800,9 +3808,6 @@
     "TPROT": "forgot",
     "TPROPB": "forgotten",
     "TPREFL": "forgetful",
-
-    "HAEURBGT": "haircut",
-    "SHORBGT": "shortcut",
 
     "HAEP": "happy", // standard
     "HAEPL": "happily",
