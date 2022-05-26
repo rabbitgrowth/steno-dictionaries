@@ -338,11 +338,9 @@
     "STKREUBGS": "distribution", // to TKR-BGS; cf. STKREUBT "distribute"
     "STKREUBGT": "district",     // to TKR-T; use TKR-BG for "distributing"
 
-    "SPWEUBGT": "indicate", // to KA*EUT
-    "SPWEUBGD": "indicated",
-    "SPWEUGT": "indicating",
-    "SPWEUBGS": "indication",
-    "SPWEURBGT": "indicator",
+    "SPWEUBGT": "indicate",   // to KA*EUT
+    "SPWEUBGS": "indication", // to KA*EUGS
+    "SPWEURBGT": "indicator", // to KOERT; KA*EURT is {^-carat}
 
     "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
 
