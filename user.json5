@@ -2098,6 +2098,25 @@
     "SKWREPDZ": "jeopardize",
     "SURPLZ": "summarize",
 
+    // -DZ for -cide and -side
+    // Precedents: TK-DZ    "decide"
+    //             H-DZ     "homicide"
+    //             S-DZ, SAOUDZ "suicide"
+    //             TPH-DZ   "inside"
+    //             OUDZ     "outside"
+    //             UPDZ     "upside"
+    //             TKOUPBDZ "downside"
+    //             TH-DZ    "this side"
+    //             THADZ    "that side"
+    //             HR-PBDZ  "left-hand side"
+    //             R-PBDZ   "right-hand side"
+    "AOLDZ": "alongside",
+    // But:
+    "PW-D": "beside",   // give up "pwd"
+    "PW-DZ": "besides", // standard
+    "TK-D": "decide",   // give up {^ded}
+    "TK-DZ": "decides", // by default "decide"
+
     // -- Star-dropping --------------------------------------------------------
 
     // AEUPB for -aken
@@ -4271,13 +4290,6 @@
     "TK-RB": "diminish", // use -FPLT for dash (custom)
     "TP-RB": "finish",
     "SR-RB": "vanish",
-
-    // Normally -cide is -DZ (S-DZ "suicide", H-DZ "homicide"),
-    // but use -D for very common words often suffixed with -s.
-    "PW-D": "beside",   // give up "pwd"
-    "PW-DZ": "besides", // standard
-    "TK-D": "decide",   // give up {^ded}
-    "TK-DZ": "decides", // by default "decide"
 
     // Double to join with "and"
     "TKPWEPB/TKPWEPB": "again and again",
