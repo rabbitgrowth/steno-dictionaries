@@ -268,6 +268,7 @@
     "KWRAOUBG/HREUP/TUS": "eucalyptus",
     "KWRAOUBG/HREUPT/US": "eucalyptus", // cf. AOUBG/HREUPT/US
     "KWRAOUBG/HREUPTS": "eucalyptus",
+    "TPEUGS": "fission", // use -Z for "figs"
     "TKPWAPBLT": "gallant",
     "TKPWAL/APBT": "gallant",
     "HEPBG": "henge", // give up "he think"; use H-PBGZ for "he thinks" (custom)
@@ -3752,6 +3753,13 @@
     "KPRAOEL": "extremely",
     "KPREPLT": "extremity",
 
+    "TPEUG": "fig", // overrides "figure"
+    "TPEURG": "figure",
+    "TPEURG/TEUF": "figurative",
+    "TPEURG/TEUFL": "figuratively",
+    "KAUPB/TPEUG": "config",
+    "KAUPB/TPEURG": "configure", // standard
+
     "TPREUF": "forgive",
     "TPRAEUF": "forgave", // cf. TKPWAEUF "gave"
     "TPREUFD": "forgave",
@@ -4003,15 +4011,6 @@
     // KRAOUZ   "crews"
     "PWRAOUS": "bruise",
     "PWRAOUZ": "brews",
-
-    // TPEUG   "figure"
-    // TPEUGZ  "figs"    -> "figures"
-    // TP*EUG  "fig"
-    // TP*EUGZ "fission" -> "figs"
-    // TPEUGS  "figures" -> "fission"
-    "TPEUGZ": "figures",
-    "TP*EUGZ": "figs",
-    "TPEUGS": "fission",
 
     // HRAOEFT  "least"
     // THRAOEFT "at least"
