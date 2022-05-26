@@ -507,6 +507,16 @@
     "HAEURBGT": "haircut",
     "SHORBGT": "shortcut",
 
+    // -PLS for -place
+    "PWEURPLS": "birthplace",
+    "TKEUFPLS": "displace", // alternative to STKPHRAEUS (custom)
+    "EFRPLS": "everyplace", // cf. TPHEUPLS "anyplace"
+    "TPAOEURPLS": "fireplace", // use -Z for "firearms"
+    "PHARPLS": "marketplace",
+    "PHEUFPLS": "misplace", // use -Z for "mechanism"
+    "RAOEPLS": "replace",   // use -Z for "reams"
+    "WORPLS": "workplace",  // use -Z for "worms"
+
     // -PT for -print
     "PWHRUPT": "blueprint", // standard
     "TPAOPT": "footprint",
