@@ -482,6 +482,8 @@
     "SPWEFRB": "observe", // OEB requires coming back for -G for "observing"
                           // since OEBG is "oak"; give up "Internal Revenue"
     "SPWEFRBGS": "observation", // cf. KWEFRB "conserve", KWEFRBGS "conservation"
+    "SPWEFRB/TOER": "observatory", // cf. OEB/TOER
+    "SPWEFRB/TREU": "observatory", // cf. OEB/TREU
     "PUBGS": "publication", // "pub-tion"; use -Z for "pucks"
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // "vibe-tion"
