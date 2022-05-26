@@ -245,7 +245,8 @@
     "APBGS/TEU": "angsty",
     "ARPBS": "answer",
     "ARPBGS": "answering", // use ARPBLGZ for "arranges"
-    "STPHER": "answer", // "nser"; alternative for easier inflections
+    "STPHER": "answer",    // "nser"; alternative for easier inflections
+    "STPHERD": "answered", // use STPHERT for "insert"
     "APLT/STPAOER": "atmosphere",
     "AU/RO/RA": "aurora",
     "PWHRAOEU": "belie",
