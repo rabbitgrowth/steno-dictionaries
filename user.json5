@@ -142,11 +142,6 @@
     "STAOUT": "constitute",     // with STAOUGS "constitution"; use STAUT for "statute"
     "KRED/AOULT": "credulity",  // with EUPB/KRED/AOULT "incredulity"
     "TKOEUPBL": "denial",       // with TKOEUPB "deny"
-    "STREUBGS": "distribution", // with STREUBT "distribute"
-                                //   use REUBGS for "restriction":
-                                //   REUBGT  "restrict"   -> REUBGS   "restriction"
-                                //   STREUBT "distribute" -> STREUBGS "distribution"
-                                //   (TKR-BT and TKR-BGS are nice briefy alternatives)
     "TK-Z": "dizzy",            // with PW-Z "busy"; use STKAOES for "disease"
     "ERLD": "elder",            // with OERLD "older"; overrides "elderly"
     "HRERLD": "elderly",
@@ -329,7 +324,6 @@
     "KAUPB/TKURBGT": "conductor", // to KURBGT
     "KUFPB": "cousin",            // to KUZ
     "TKEUPL/TPHEURB": "diminish", // to TKPHEURB
-    "STKREUBGT": "district",      // to TKR-T; use TKR-BG(T) for "distributing"
     "KPEBG/TEUF": "executive",    // to SKAOUF
     "TPABG/TEU": "faculty",       // to TPA*BG
     "TPABG/TEUZ": "faculties",
@@ -340,6 +334,9 @@
     "PROFBGS": "prosecution",
     "PROFRBGT": "prosecutor",
     "SEUFRT": "sister",           // to ST-R
+
+    "STKREUBGS": "distribution", // to TKR-BGS; cf. STKREUBT "distribute"
+    "STKREUBGT": "district",     // to TKR-T; use TKR-BG for "distributing"
 
     "SPWEUBGT": "indicate", // to KA*EUT
     "SPWEUBGD": "indicated",
