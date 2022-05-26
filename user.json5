@@ -245,6 +245,7 @@
     "APBGS/TEU": "angsty",
     "ARPBS": "answer",
     "ARPBGS": "answering", // use ARPBLGZ for "arranges"
+    "STPHER": "answer", // "nser"; alternative for easier inflections
     "APLT/STPAOER": "atmosphere",
     "AU/RO/RA": "aurora",
     "PWHRAOEU": "belie",
@@ -1399,7 +1400,7 @@
     "KPWROE": "embryo", // cf. EPL/PWROE
 
     "KPWARS": "embarrass", // cf. EPL/PWARS
-    "KPWRAS": "embarrass", // cf. EPL/PWRAS; form for easier inflections
+    "KPWRAS": "embarrass", // cf. EPL/PWRAS; alternative for easier inflections
     "KPWRAFD": "embarrassed",
     "KPWRAFG": "embarrassing",
     "KPWRAFLG": "embarrassingly",
