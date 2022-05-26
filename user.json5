@@ -1663,40 +1663,6 @@
     "TPHAOUR": "inure",
     /*1*/ "TPHEUPBG": "ninja", // use -PBG for {^ening}
 
-    // TPEU for -fy
-    // This is standard in Plover:
-    //   KHRAR/TPEU "clarify"
-    //   KHRAS/TPEU "classify"
-    //   TKE/TPEU   "defy"
-    // It's the inflections that don't work.
-    "KHRAR/TPEUZ": "clarifies",
-    "KHRAR/TPEUG": "clarifying",
-    "KHRAS/TPEUZ": "classifies",  // conflicts with "class fizz"?
-                                  // ("cocktail bars serving world-class fizz")
-    "KHRAS/TPEUG": "classifying", // conflicts with "class figure"?
-                                  // ("a world-class figure skater")
-    "TKE/TPEUZ": "defies",
-    "TKE/TPEUG": "defying",
-    "PHOD/TPEUZ": "modifies",
-    "PHOD/TPEUG": "modifying",
-    "PHEUFT/TPEU": "mystify",
-    "PHEUFT/TPEUZ": "mystifies",   // "mist fizz"
-    "PHEUFT/TPEUG": "mystifying",  // "mist figure"
-    "KWAPBT/TPEUZ": "quantifies",  // "quantity fizz"
-    "KWAPBT/TPEUG": "quantifying", // "quantity figure"
-    "SHREUD/TPEUZ": "solidifies",  // "slid fizz"
-    "SHREUD/TPEUG": "solidifying", // "slid figure"
-    "AOUPB/TPEU": "unify", // mashup of AOUPB/TPAOEU and KWRAOUPB/TPEU
-                           // Plover seems to prefer ignoring the initial
-                           // /j/ sound and dropping the KWR; for example,
-                           // "unity" is AO*UPBT, and KWRAO*UPBT doesn't work
-    "AOUPB/TPEUZ": "unifies",
-    "AOUPB/TPEUG": "unifying",
-    "KWRAOUPB/TPEUZ": "unifies", // allow being explicit with the /j/
-    "KWRAOUPB/TPEUG": "unifying",
-    "SRER/TPEUZ": "verifies",
-    "SRER/TPEUG": "verifying",
-
     // KW for conv-
     // Precedents: KWAOEPBT "convenient"
     //             KWEPBGS  "convention"
