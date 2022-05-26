@@ -1448,6 +1448,7 @@
     "KPWHROES/EUF": "implosive", // cf. SPHROES/EUF "explosive"
     "KPWHREU": "imply",   // cf. EUPL/PHREU
     "KPWHRAOEU": "imply", // cf. EUPL/PHRAOEU
+    "KPWORT": "import",
     "KPWOES": "impose",
     "KPWOEFD": "imposed",
     "KPWOEFG": "imposing",
@@ -1611,6 +1612,7 @@
     "SKPHROEGS": "explosion",
     "SKPHROEF": "explosive",
     "SKPHROES/EUF": "explosive", // cf. SPHROES/EUF
+    "SKPORT": "export",
     "SKPOES": "expose", // a nice trio: SPOES  "suppose"
                         //              KPOES  "compose"
                         //              SKPOES "expose"
