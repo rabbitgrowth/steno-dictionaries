@@ -149,10 +149,17 @@ verbs = {
 }
 
 verbed = {
-    "-FLT":  "felt",
-    "-FRGD": "forgot",
-    "-GD":   "got",
-    "-BS":   "said",
+    "-RGD":   "agreed",
+    "-BLD":   "believed",
+    "-FLT":   "felt",
+    "-FRGD":  "forgot",
+    "-GD":    "got",
+    "-LGD":   "liked",
+    "*FLD":   "loved",
+    "-FRPBT": "meant",
+    "-RPLD":  "remembered",
+    "-BS":    "said",
+    "-PTD":   "wanted",
 }
 
 modal_verb = {

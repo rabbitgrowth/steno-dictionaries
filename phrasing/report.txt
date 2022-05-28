@@ -232,6 +232,9 @@ Hodgkin's lymphoma
 health care
   H-BG -> he can
 
+had believed
+  H-BLD -> he believed
+
 had had
   H-D -> he had
 
@@ -246,6 +249,9 @@ had felt
 
 HDL
   H-LD -> he would
+
+had remembered
+  H-RPLD -> he remembered
 
 who's -> WHO*S, WHO*Z
   HOS/AE
@@ -527,6 +533,10 @@ as fuck
 
 terminal deoxynucleotidyl transferase
   T*TD -> it'd the
+
+it would be
+  T-BLD -> it believed
+  TWOB
 
 tablespoon
   T-BS -> it said
