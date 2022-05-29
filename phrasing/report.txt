@@ -101,12 +101,21 @@ not
 them
   24E78
   THEFL -> they feel
-  THEFPL -> they know
+  THEFPL -> they seem
   THEP
   THEPL
   THEUPL
   THOEPL
   TWHEPL
+
+then
+  24E7B
+  THAEPB
+  THEB
+  THEPB
+  THEPBL -> they know
+  TKHEPB
+  TPHEPB
 
 they're -> TH*ER
   24ER
@@ -173,7 +182,7 @@ audiology
   AUD/KWROLG
   KWROLG -> I don't like
 
-I know -> KWR-FPL
+I know -> KWR-PBL
   EU/TPHOEU
   KWR*PB
   KWR-PB -> beyond
@@ -359,7 +368,7 @@ I didn't say
 
 {^y}{.}
   KWREUFP
-  KWREUFPL -> I didn't know
+  KWREUFPL -> I didn't seem
 
 I don't think
   KWREUPBG -> I didn't think
@@ -404,6 +413,16 @@ superficial
   SAUP/TPEURBL
   STPEUFL -> if I feel
   SU/PER/TPEURBL
+
+technology
+  SEBG/SKWREU
+  TEBG/SKWREU
+  TEBG/TPHOLG
+  TEPBLG
+  TEPBLG/TPHOLG
+  TOBG/SKWREU
+  TOPBL -> to know
+  TOPBLG
 
 shall understand
   SH-PBDZ -> she needs
