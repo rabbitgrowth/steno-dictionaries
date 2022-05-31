@@ -2452,6 +2452,7 @@
     "SPWAU": "is because",
     "SPWAUF": "is because of",
     "SPWAUT": "is because the", // use STUT for "substitute"
+    "SPWAUFT": "is because of the",
     "STP-RT": "is for the",
     "STPR": "is from",
     "STPR-LGTS": "is from a",
