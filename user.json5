@@ -2475,7 +2475,12 @@
     "WHAB": "what about",
     "WHABT": "what about the", // by default "what about"
 
-    // Existence
+    // "here" and "there"
+    "HAOERS": "here is",
+    "HAOERTS": "here is the",
+    "HAO*ERS": "here's", // standard
+    "HAO*ERTS": "here's the",
+
     "THR-S": "there is",
     "THR-TS": "there is the",
     "THR*S": "there's", // standard
@@ -2499,11 +2504,6 @@
     "THRURP": "there you were",
     "THRES": "there he is", // use -Z for "threes"
     "THREFS": "there he was",
-
-    "HAOERS": "here is",
-    "HAOERTS": "here is the",
-    "HAO*ERS": "here's", // standard
-    "HAO*ERTS": "here's the",
 
     // Miscellaneous
     "AEULT": "a lot", // the -L in HROELT seems to be completely arbitrary
