@@ -2378,22 +2378,27 @@
 
     // -- Phrasing -------------------------------------------------------------
 
-    // Modal verb + "be"
+    // Modal verbs
+    "K-B": "can be", // standard
+    "K-BT": "can be the",
+    "KOB": "could be", // standard
+    "KOBT": "could be the",
+    "SH-B": "shall be", // standard
+    "SH-BT": "shall be the",
+    "SHOB": "should be", // standard
+    "SHOBT": "should be the",
+    "HR-B": "will be",      // standard
+    "HR-BT": "will be the", // standard
+    "WOB": "would be",      // standard
+    "WOBT": "would be the", // standard
     "PHAEUB": "may be", // overrides "maybe" [1]
     "PHAEUBT": "may be the",
     "PHAOEUB": "might be", // standard
     "PHAOEUBT": "might be the",
     "PHUFB": "must be",
     "PHUFBT": "must be the",
-    "K-BT": "can be the",
-    "KOBT": "could be the",
-    "SH-BT": "shall be the",
-    "SHOBT": "should be the",
-    "HR-BT": "will be the", // standard
-    "WOBT": "would be the", // standard
     /*1*/ "PH-B": "maybe", // give up "Mapbox"
 
-    // Modal verb + "have"
     "KOUFT": "could have the",   // cf. KOUF  "could have"
     "SHOUFT": "should have the", // cf. SHOUF "should have"
     "WOUFT": "would have the",   // cf. WOUF  "would have"
