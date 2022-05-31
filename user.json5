@@ -2379,21 +2379,21 @@
     // -- Phrasing -------------------------------------------------------------
 
     // Modal verbs
-    "K-B": "can be", // standard
+    "K-B": "can be",        // standard
     "K-BT": "can be the",
-    "KOB": "could be", // standard
+    "KOB": "could be",      // standard
     "KOBT": "could be the",
-    "SH-B": "shall be", // standard
+    "SH-B": "shall be",     // standard
     "SH-BT": "shall be the",
-    "SHOB": "should be", // standard
+    "SHOB": "should be",    // standard
     "SHOBT": "should be the",
     "HR-B": "will be",      // standard
     "HR-BT": "will be the", // standard
     "WOB": "would be",      // standard
     "WOBT": "would be the", // standard
-    "PHAEUB": "may be", // overrides "maybe" [1]
+    "PHAEUB": "may be",     // overrides "maybe" [1]
     "PHAEUBT": "may be the",
-    "PHAOEUB": "might be", // standard
+    "PHAOEUB": "might be",  // standard
     "PHAOEUBT": "might be the",
     "PHUFB": "must be",
     "PHUFBT": "must be the",
