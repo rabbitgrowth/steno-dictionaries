@@ -2404,8 +2404,6 @@
     "WOUFT": "would have the",   // cf. WOUF  "would have"
 
     // "... a"
-    "S*LGTS": "as a",
-    "S*T": "as the",
     "T-LGTS": "at a",
     "T-T": "at the", // use -T for "the"
     "AEUFS": "was a",
@@ -2494,6 +2492,8 @@
     "SWU": "is with you",
 
     // "as ..."
+    "S*LGTS": "as a",
+    "S*T": "as the",
     "S*EU": "as I", // give up "si"
     "S*EUBZ": "as I say",
     "S*U": "as you",
