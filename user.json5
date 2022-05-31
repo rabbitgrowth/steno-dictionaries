@@ -2543,9 +2543,9 @@
     "SKPAOPB": "and so on",
     "SKP-PBT": "and then the",
     "SKP-PB": "and then",
-    "SKPHR": "and will",           // or use SKP-L
-    "SKPHR-B": "and will be",      // cf. "will be"
-    "SKPHR-BT": "and will be the", // cf. "will be the"
+    "SKPHR": "and will", // or use SKP-L
+    "SKPHR-B": "and will be",
+    "SKPHR-BT": "and will be the",
 
     "TPHEUBLS": "anybody else", // standard
     "TPHEUPBLS": "anyone else", // standard
