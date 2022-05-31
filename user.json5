@@ -134,6 +134,7 @@
     "AFT": "after the",         // with PW-FT "before the"
     "TKPWRAEBL": "agreeable",   // with TKPWRAE "agree"
     "TKPWR*EUPLT": "algorithm", // with R*EUPLT "rhythm"
+    "SW-L": "as well",          // with SW-LS "as well as"
     "A*EUT/EUFT": "atheist",    // with A*EUT/EUFPL "atheism"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
@@ -581,7 +582,7 @@
     "STPHOR": "snore", // use STPHART for "senator"
     "SPOR": "spore",   // use SPO*RT  for "support"
 
-    "TPOR": "fore", // use TPO for "for" (see phrasing)
+    "TPOR": "fore", // use TPO for "for" (see phrasing/)
     "TPO*R": "{fore^}",
 
     "KWRO*R": "yore",      // give up "I know, right?"
@@ -1752,7 +1753,7 @@
     "WROEBG": "revoke",
     "WROELT": "revolt",
     "WROLT": "revolt",
-    "WROF": "revolve", // use WHROF for "whereof" (see phrasing)
+    "WROF": "revolve", // use WHROF for "whereof" (see phrasing/)
     // "review" would be WRAOU, but that's "withdrew" already.
     //   WRAU  "withdraw"
     //   WRAOU "withdrew"
@@ -2378,253 +2379,62 @@
 
     // -- Phrasing -------------------------------------------------------------
 
-    // Modal verb + "be"
-    "PHAEUB": "may be", // overrides "maybe" [1]
+    // For formulaic phrases like all possible combinations of
+    //   and/that/what/when/who
+    // + I/you/he
+    // + can/could/shall/should/will/would/may/might/must,
+    // see phrasing/.
+
+    // Modal verbs
+    "K-B": "can be",        // standard
+    "K-BT": "can be the",
+    "KOB": "could be",      // standard
+    "KOBT": "could be the",
+    "SH-B": "shall be",     // standard
+    "SH-BT": "shall be the",
+    "SHOB": "should be",    // standard
+    "SHOBT": "should be the",
+    "HR-B": "will be",      // standard
+    "HR-BT": "will be the", // standard
+    "WOB": "would be",      // standard
+    "WOBT": "would be the", // standard
+    "PHAEUB": "may be",     // overrides "maybe" [1]
     "PHAEUBT": "may be the",
-    "PHAOEUB": "might be", // standard
+    "PHAOEUB": "might be",  // standard
     "PHAOEUBT": "might be the",
     "PHUFB": "must be",
     "PHUFBT": "must be the",
-    "K-BT": "can be the",
-    "KOBT": "could be the",
-    "SH-BT": "shall be the",
-    "SHOBT": "should be the",
-    "HR-BT": "will be the", // standard
-    "WOBT": "would be the", // standard
     /*1*/ "PH-B": "maybe", // give up "Mapbox"
 
-    // Modal verb + "have"
-    "KOUFT": "could have the",   // cf. KOUF  "could have"
-    "SHOUFT": "should have the", // cf. SHOUF "should have"
-    "WOUFT": "would have the",   // cf. WOUF  "would have"
+    "KOUF": "could have", // standard
+    "KOUFT": "could have the",
+    "SHOUF": "should have", // standard
+    "SHOUFT": "should have the",
+    "WOUF": "would have", // standard
+    "WOUFT": "would have the",
 
-    // "... a"
-    "S*LGTS": "as a",
-    "S*T": "as the",
+    // "a" and "the"
     "T-LGTS": "at a",
-    "T-T": "at the", // use -T for "the"
+    "T-T": "at the", // misstroke for "the"
+    "AOPB": "on a",   // use AUPB for {on^}
+    "OPBT": "on the", // standard
     "AEUFS": "was a",
+    "-FTS": "was the",
 
-    // "... the"
-    "KRAOTS": "across the",
+    "SKROTS": "across the", // cf. SKROS "across" (custom)
+    "KRAOTS": "across the", // cf. KRAOS "across"
     "TKPWEPBTS": "against the",
     "AOLT": "along the",
     "OEPBLT": "only the",
     "OUFT": "out of the", // add * for "oust"
     "SEUPBTS": "since the",
-    "-FTS": "was the",
 
-    // "go to ..."
-    "TKPWO": "go to", // use TKPW for "go"
-    "TKPWOG": "going to",
-    "TKPWOBG": "going to be",
-    "TKPWOGT": "going to the",
-    "TKPWOBGT": "going to be the",
-    "STKPWOG": "is going to",
-    "STKPWOBG": "is going to be",
-    "STKPWOGT": "is going to the",
-    "STKPWOBGT": "is going to be the",
+    // "here" and "there"
+    "HAOERS": "here is",
+    "HAOERTS": "here is the",
+    "HAO*ERS": "here's", // standard
+    "HAO*ERTS": "here's the",
 
-    // "just ..."
-    "SKWR": "just",
-    "SKWR-T": "just the",
-    "SKWR-LGTS": "just a",
-    "SKWR-B": "just be",
-    "SKWR-LG": "just like",
-    "SKWR-PBG": "just in case", // cf. the starless "junk" SKWRUPBG
-
-    "HEUPBD/SKWR": "behind just",    // misstroke  for "Hindu"
-    "WHEUPL/SKWR": "when I am just", // odd stroke for "whimsy"
-
-    // "some ..."
-    "SPH-F": "some of",      // instead of SPHOF  "some of"
-    "SPH-FT": "some of the", //            SOFPLT "some of the"
-    "SPH-R": "some are",
-    "SPH-RP": "some were",
-
-    // "people ..."
-    "P": "people",
-    "P-Z": "peoples",    // misstroke for 3-Z
-    "P-R": "people are", // misstroke for "for"
-    "P-RP": "people were",
-    "P-L": "people will",
-    "P-BZ": "people say",
-
-    // The P-P symmetry makes it feel natural to use -P for "people" too.
-    // (See "Counting" for "two people", "three people", etc.)
-    "PHAEP": "many people", // mashup of PHAEPB and -P
-    "OERP": "other people", // overrides "ownership" [1]
-    "SPH-P": "some people", // compare with the standard SPAOEPL
-    /*1*/ "O*ERP": "ownership", // Plover uses -P for -ship very nicely:
-                                // R*EUP   "relationship"
-                                // TPREUP  "friendship"
-                                // HRAOERP "leadership"
-                                // So I wouldn't want to just give up "ownership".
-                                // Adding * seems like a reasonable compromise;
-                                // maybe I can think of "relationship" and "ownership"
-                                // as a pair, both requiring *.
-
-    // "and ..."
-    "SKPAEUFLT": "and a lot of",
-    "SKPAUFL": "and all of",
-    "SKPAULT": "and all the",
-    "SKPAUFLT": "and all of the",
-    "SKPHR-S": "and also",
-    "SKPAOEPB": "and even",
-    "SKP-Z": "and has",
-    "SKPHEP": "and help",
-    "SKPHAOER": "and here",
-    "SKPHAOERS": "and here is",
-    "SKPHAO*ERS": "and here's",
-    "SKPHEUS": "and his",
-    "SKPHER": "and her",
-    "SKPHOU": "and how",
-    "SKPOER": "and other",
-    "SKPOUR": "and our",
-    "SKPHR": "and will",           // or use SKP-L
-    "SKPHR-B": "and will be",      // cf. "will be"
-    "SKPHR-BT": "and will be the", // cf. "will be the"
-
-    // "is ..."
-    "SPWAU": "is because",
-    "SPWAUF": "is because of",
-    "SPWAUT": "is because the", // use STUT for "substitute"
-    "S-FR": "is ever", // use SR-FR for "server"
-    "STP-RT": "is for the",
-    "STPR": "is from",
-    "STPR-T": "is from the",
-    "STPR-LGTS": "is from a",
-    "STPH": "is in",
-    "STPH-T": "is in the", // just two-stroke "isn't the"
-    "STPH-LGTS": "is in a",
-    "SPHOR": "is more", // add * for "s'more"
-    "STPHOU": "is now",
-    "SOEPBL": "is only", // give up "only is"
-                         // IS ONLY  36229
-                         // ONLY IS   4945
-    "STHR-LGTS": "is there a",
-    "STOBT": "is to be the",
-    "SW": "is with",
-    "SW-T": "is with the",
-    "SW-LGTS": "is with a",
-    "SWU": "is with you",
-
-    // "as ..."
-    "S*EU": "as I", // give up "si"
-    "S*EUBZ": "as I say",
-    "S*U": "as you",
-    "S*URP": "as you were",
-    "S*UBGZ": "as you can see",
-    "TPAS": "as if",
-    "SPOB": "as possible",
-    "SW-L": "as well", // cf. SW-LS "as well as"
-
-    // "as ... as"
-    // The most common ones already work beautifully:
-    // AS WELL AS  155949  SW-LS / SW*ELS  (SWELS)
-    // AS LONG AS   57042  SHROPBGS        (SLONGS)
-    // AS MUCH AS   49462  SPHUFPS         (SMUCHS)
-    // AS SOON AS   42046  SAOPBS          etc.
-    // AS FAR  AS   41940  STPARS
-    // AS GOOD AS   11733  STKPWAODZ
-    // AS MANY AS   10931  SPHAEPBS
-    // AS FAST AS    7145  STPAFTS
-    "STKPW-DZ": "as good as",  // with TKPW-D (custom)
-    "STKPW-TS": "as great as", // with TKPW-T (custom)
-    "STKPWRAETS": "as great as",
-    "SRAELS": "as real as",
-    "SPHALS": "as small as",
-    "SWAEBGS": "as weak as", // cf. STROPBGS "as strong as"
-    "SWELS": "as well as", // use -Z for "swells"
-
-    // "so that ..."
-    "STHAO": "so that",
-    "STHAOT": "so that the",
-    "STHAOEUBG": "so that I can",
-    "STHAOEUBGD": "so that I could",
-    "STHAOUBG": "so that you can",
-    "STHAOUBGD": "so that you could",
-    "STHAOEBG": "so that he can",
-    "STHAOEBGD": "so that he could",
-
-    // "... about"
-    // Instead of -BT, use -B, which
-    // 1) can be thought of as a mirror image of B (PW) for "about";
-    // 2) leaves room for -T for "the".
-    "AUB": "all about", // use SAUB for {sub^}
-    "AUBT": "all about the",
-    "PWREUB": "bring about",
-    "PWREUBT": "bring about the",
-    "PWRAUB": "brought about",
-    "PWRAUBT": "brought about the",
-    "KAEURB": "care about",
-    "KAEURBT": "care about the",
-    "HOUB": "how about",      // standard
-    "HOUBT": "how about the", // by default "how about"
-    "TPHOEB": "know about",      // use TPH-B for "nobody"
-    "TPHOEBT": "know about the", // by default "know about"
-    "TAUB": "talk about",
-    "TAUBT": "talk about the",
-    "THEUB": "think about",
-    "THEUBT": "think about the", // by default "think about"
-    "THAUB": "thought about",
-    "THAUBT": "thought about the",
-    "TOUB": "to you about",
-    "TOUBT": "to you about the",
-    "WHAB": "what about",
-    "WHABT": "what about the", // by default "what about"
-
-    // "... else"
-    "TPHEUBLS": "anybody else", // standard
-    "TPHEUPBLS": "anyone else", // standard
-    "TPHEULGS": "anything else",
-    "EFBLS": "everybody else",  // cf. EFB  "everybody"
-    "EFRBLS": "everybody else", // cf. EFRB "everybody"
-    "EFRPBLS": "everyone else",
-    "EFRLGS": "everything else",
-    "WEFRLS": "everywhere else",
-    "TPHOEUPBLS": "no one else",
-    "TPH-BLS": "nobody else",
-    "TPHOLGS": "nothing else",
-    "TPHO*ERLS": "nowhere else",
-    "S-BLS": "somebody else",
-    "SWUPBLS": "someone else", // standard
-    "SPHRAEULS": "someplace else",
-    "S-LGS": "something else",
-    "SWHR-LS": "somewhere else", // cf. WHR "where" (see phrasing)
-
-    // "... of"
-    "TPRAEFD": "afraid of", // misstroke for "afraid"
-    "STR-F": "center of",
-    "SKAEUFRD": "scared of",
-    "SEFT": "set of",
-    "SUFPL": "sum of",
-    "TAOEUFPL": "time of",
-    "WHOEFL": "whole of",
-
-    // "... up"
-    // Precedents: KHRUP "clean up", SKRUP "screw up", SHUP "shut up"
-    "PWUP": "back up",      // give up "bup", which is not a word
-    "PW*UP": "backup",      // instead of PWA*UP
-    "KPHUP": "come up",
-    "TKPWUP": "go up",      // instead of "give up"
-    "TKPWRUP": "grow up",   // instead of "grown up"
-    "TKPWRAOUP": "grew up", // use TKPW-P for "group" (custom)
-    "PHUP": "make up",
-    "PH*UP": "makeup",
-    "STUP": "set up",       // by default "setup"
-    "ST*UP": "setup",       // consistently add * to suppress space
-    "STPHUP": "sign up",
-    "STPH*UP": "signup",
-    "WUP": "wake up",       // misstroke for "one"
-
-    // "... have no idea"
-    "KWR-FPBD": "I have no idea", // cf. EUFPBD
-    "UFPBD": "you have no idea",  // use UFD for "you find" (custom)
-    "W-FPBD": "we have no idea",
-    "THEFPBD": "they have no idea",
-
-    // Existence
     "THR-S": "there is",
     "THR-TS": "there is the",
     "THR*S": "there's", // standard
@@ -2649,13 +2459,63 @@
     "THRES": "there he is", // use -Z for "threes"
     "THREFS": "there he was",
 
-    "HAOERS": "here is",
-    "HAOERTS": "here is the",
-    "HAO*ERS": "here's", // standard
-    "HAO*ERTS": "here's the",
+    // "just ..."
+    "SKWR": "just",
+    "SKWR-T": "just the",
+    "SKWR-LGTS": "just a",
+    "SKWR-B": "just be",
+    "SKWR-LG": "just like",
+    "SKWR-PBG": "just in case",
 
-    // Amounts
-    "AEULT": "a lot", // the -L in HROELT seems to be completely arbitrary
+    "HEUPBD/SKWR": "behind just",    // misstroke  for "Hindu"
+    "WHEUPL/SKWR": "when I am just", // odd stroke for "whimsy"
+
+    // "people ..."
+    "P": "people",
+    "P-Z": "peoples",    // misstroke for "300"
+    "P-R": "people are", // misstroke for "for"
+    "P-RP": "people were",
+    "P-L": "people will",
+    "P-BZ": "people say",
+
+    "PHAEP": "many people", // mashup of PHAEPB and -P
+    "OERP": "other people", // overrides "ownership" [1]
+    "SPH-P": "some people", // instead of SPAOEPL
+    /*1*/ "O*ERP": "ownership", // compare R*EUP "relationship"
+
+    "TWOP": "two people",
+    "THRAOEP": "three people",
+    "TPOURP": "four people",
+    "TPAOEUFP": "five people",
+
+    // "... about"
+    // Instead of -BT, use -B, which can be thought of as a
+    // mirror image of PW and leaves room for -T for "the".
+    "AUB": "all about", // use SAUB for {sub^}
+    "AUBT": "all about the",
+    "PWREUB": "bring about",
+    "PWREUBT": "bring about the",
+    "PWRAUB": "brought about",
+    "PWRAUBT": "brought about the",
+    "KAEURB": "care about",
+    "KAEURBT": "care about the",
+    "HOUB": "how about",      // standard
+    "HOUBT": "how about the", // by default "how about"
+    "TPHOEB": "know about",      // use TPH-B for "nobody"
+    "TPHOEBT": "know about the", // by default "know about"
+    "TAUB": "talk about",
+    "TAUBT": "talk about the",
+    "THEUB": "think about",
+    "THEUBT": "think about the", // by default "think about"
+    "THAUB": "thought about",
+    "THAUBT": "thought about the",
+    "TOUB": "to you about",
+    "TOUBT": "to you about the",
+    "WHAB": "what about",
+    "WHABT": "what about the", // by default "what about"
+
+    // Miscellaneous
+    "AEULT": "a lot", // instead of HROELT
     "AEUFLT": "a lot of",
     "HRAEUL": "a little",
     "HRAEUFL": "a little of",
@@ -2664,11 +2524,83 @@
     "AEUBT": "a bit",
     "AEUFBT": "a bit of",
 
-    // Miscellaneous
+    "TPRAEFD": "afraid of", // misstroke for "afraid"
+    "STR-F": "center of",
+    "SKAEUFRD": "scared of",
+    "SEFT": "set of",
+    "SUFPL": "sum of",
+    "TAOEUFPL": "time of",
+    "WHOEFL": "whole of",
+
     "SKPAF": "and a half",
+    "SKPAEUFLT": "and a lot of",
+    "SKPAUFL": "and all of",
+    "SKPAULT": "and all the",
+    "SKPAUFLT": "and all of the",
+    "SKPHR-S": "and also",
+    "SKPAOEPB": "and even",
+    "SKP-Z": "and has",
+    "SKPHEP": "and help",
+    "SKPHAOER": "and here",
+    "SKPHAOERS": "and here is",
+    "SKPHAO*ERS": "and here's",
+    "SKPHEUS": "and his",
+    "SKPHER": "and her",
+    "SKPHOU": "and how",
+    "SKPOER": "and other",
+    "SKPOUR": "and our",
     "SKPAOPB": "and so on",
-    "SKP-PB": "and then",
     "SKP-PBT": "and then the",
+    "SKP-PB": "and then",
+    "SKPHR": "and will", // or use SKP-L
+    "SKPHR-B": "and will be",
+    "SKPHR-BT": "and will be the",
+
+    "TPHEUBLS": "anybody else", // standard
+    "TPHEUPBLS": "anyone else", // standard
+    "TPHEULGS": "anything else",
+    "EFBLS": "everybody else",  // cf. EFB  "everybody"
+    "EFRBLS": "everybody else", // cf. EFRB "everybody"
+    "EFRPBLS": "everyone else",
+    "EFRLGS": "everything else",
+    "WEFRLS": "everywhere else",
+    "TPHOEUPBLS": "no one else",
+    "TPH-BLS": "nobody else",
+    "TPHOLGS": "nothing else",
+    "TPHO*ERLS": "nowhere else",
+    "S-BLS": "somebody else",
+    "SWUPBLS": "someone else", // standard
+    "SPHRAEULS": "someplace else",
+    "S-LGS": "something else",
+    "SWHR-LS": "somewhere else",
+
+    "S*LGTS": "as a",
+    "S*T": "as the",
+    "S*EU": "as I", // give up "si"
+    "S*EUBZ": "as I say",
+    "S*U": "as you",
+    "S*URP": "as you were",
+    "S*UBGZ": "as you can see",
+    "TPAS": "as if",
+    "SPOB": "as possible",
+
+    "STPARS": "as far as",      // standard
+    "STPAFTS": "as fast as",    // standard
+    "STKPWAODZ": "as good as",  // standard
+    "STKPW-DZ": "as good as",   // with TKPW-D (custom)
+    "STKPWRAETS": "as great as",
+    "STKPW-TS": "as great as",  // with TKPW-T (custom)
+    "SHROPBGS": "as long as",   // standard
+    "SPHAEPBS": "as many as",   // standard
+    "SPHUFPS": "as much as",    // standard
+    "SRAELS": "as real as",
+    "SPHALS": "as small as",
+    "SAOPBS": "as soon as",     // standard
+    "STROPBGS": "as strong as", // standard
+    "SWAEBGS": "as weak as",
+    "SW-LS": "as well as",      // standard
+    "SW*ELS": "as well as",     // standard
+    "SWELS": "as well as",      // use -Z for "swells"
 
     "TPWEFT": "at best",
     "THOEPL": "at home", // misstroke for "them"
@@ -2682,8 +2614,37 @@
     "TWORBG": "at work",
     "TWOFRT": "at worst",
 
+    "PWUP": "back up", // give up "bup"
+    "PW*UP": "backup",
+    "KHRUP": "clean up", // standard
+    "KHR*UP": "cleanup", // standard
+    "KPHUP": "come up",
+    "TKPWUP": "go up",    // instead of "give up"
+    "TKPWRUP": "grow up", // instead of "grown up"
+    "TKPWRAOUP": "grew up", // use TKPW-P for "group" (custom)
+    "PHUP": "make up",
+    "PH*UP": "makeup",
+    "SKRUP": "screw up", // standard
+    "STUP": "set up", // by default "setup"
+    "ST*UP": "setup", // overrides "shtup" [1]
+    "SHUP": "shut up", // standard
+    "STPHUP": "sign up",
+    "STPH*UP": "signup",
+    "WUP": "wake up", // misstroke for "one"
+    /*1*/ "SH/TUP": "shtup",
+
     "AOEFRP": "each other",
     "WURPB": "one another",
+
+    "TKPWO": "go to", // use TKPW for "go"
+    "TKPWOG": "going to",
+    "TKPWOBG": "going to be",
+    "TKPWOGT": "going to the",
+    "TKPWOBGT": "going to be the",
+    "STKPWOG": "is going to",
+    "STKPWOBG": "is going to be",
+    "STKPWOGT": "is going to the",
+    "STKPWOBGT": "is going to be the",
 
     "HOUBD": "how bad",
     "HOUGD": "how good",
@@ -2691,6 +2652,31 @@
     "PREUGD": "pretty good", // standard
     "SREBD": "very bad",
     "SREGD": "very good",
+
+    "KWR-FPBD": "I have no idea", // cf. EUFPBD
+    "UFPBD": "you have no idea",  // use UFD for "you find" (custom)
+    "W-FPBD": "we have no idea",
+    "THEFPBD": "they have no idea",
+
+    "SPWAU": "is because",
+    "SPWAUF": "is because of",
+    "SPWAUT": "is because the", // use STUT for "substitute"
+    "SPWAUFT": "is because of the",
+    "STPOT": "is for the",
+    "STPR": "is from",
+    "STPR-LGTS": "is from a",
+    "STPR-T": "is from the",
+    "STPH": "is in",
+    "STPH-LGTS": "is in a",
+    "STPH-T": "is in the", // write out "isn't the"
+    "STPHOU": "is now",
+    "SOEPBL": "is only", // instead of "only is"
+    "STHR-LGTS": "is there a",
+    "STOBT": "is to be the",
+    "SW": "is with",
+    "SW-LGTS": "is with a",
+    "SW-T": "is with the",
+    "SWU": "is with you",
 
     "HREPL": "let me",
     "HR*EPL": "lemme",
@@ -2704,6 +2690,20 @@
 
     "PAEFPLD": "peace of mind",
     "STAEUFPLD": "state of mind",
+
+    "STHAO": "so that",
+    "STHAOT": "so that the",
+    "STHAOEUBG": "so that I can",
+    "STHAOEUBGD": "so that I could",
+    "STHAOUBG": "so that you can",
+    "STHAOUBGD": "so that you could",
+    "STHAOEBG": "so that he can",
+    "STHAOEBGD": "so that he could",
+
+    "SPH-F": "some of",      // instead of SPHOF  "some of"
+    "SPH-FT": "some of the", //            SOFPLT "some of the"
+    "SPH-R": "some are",
+    "SPH-RP": "some were",
 
     "WHOELT": "whole lot",
     "WHOEFLT": "whole lot of",
@@ -2721,7 +2721,7 @@
     "TKPWOEPL": "go home",
     "TKPWROELD": "grow old",
     "TP-LGTS": "if a",
-    "TPE": "if he", // give up "fe", which is not a word
+    "TPE": "if he", // give up "fe"
     "TPOEPBL": "if only",
     "TPHEUS": "in this",
     "TPHURPB": "in turn", // instead of "turn in"
@@ -2738,7 +2738,7 @@
     "TU": "thank you",
     "TKO*": "to do",
     "STKO*": "to do so",
-    "HR-F": "will have", // use HRUF for "love"
+    "HR-F": "will have", // use HROF for "love"
     "HR-FB": "will have been",
     "KWRAOEUZ": "you guys",
 
@@ -2749,14 +2749,6 @@
     "WUFT": "one of the",
     "TWOF": "two of",
     "TWOFT": "two of the",
-
-    // P "people" (reflected along the vertical axis)
-    "TWOP": "two people",
-    "THRAOEP": "three people", // phonetic
-    "THREP": "three people",   // simpler vowel
-    "TPOURP": "four people",
-    "TPAOEUFP": "five people", // phonetic
-    "TPEUFP": "five people",   // simpler vowel
 
     // TH-G "thing"
     "WUPBG": "one thing",
