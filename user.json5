@@ -2482,22 +2482,23 @@
     "SPOB": "as possible",
 
     // "as ... as"
-    // The most common ones already work beautifully:
-    // AS WELL AS  155949  SW-LS / SW*ELS  (SWELS)
-    // AS LONG AS   57042  SHROPBGS        (SLONGS)
-    // AS MUCH AS   49462  SPHUFPS         (SMUCHS)
-    // AS SOON AS   42046  SAOPBS          etc.
-    // AS FAR  AS   41940  STPARS
-    // AS GOOD AS   11733  STKPWAODZ
-    // AS MANY AS   10931  SPHAEPBS
-    // AS FAST AS    7145  STPAFTS
-    "STKPW-DZ": "as good as",  // with TKPW-D (custom)
-    "STKPW-TS": "as great as", // with TKPW-T (custom)
+    "STPARS": "as far as",      // standard
+    "STPAFTS": "as fast as",    // standard
+    "STKPWAODZ": "as good as",  // standard
+    "STKPW-DZ": "as good as",   // with TKPW-D (custom)
     "STKPWRAETS": "as great as",
+    "STKPW-TS": "as great as",  // with TKPW-T (custom)
+    "SHROPBGS": "as long as",   // standard
+    "SPHAEPBS": "as many as",   // standard
+    "SPHUFPS": "as much as",    // standard
     "SRAELS": "as real as",
     "SPHALS": "as small as",
-    "SWAEBGS": "as weak as", // cf. STROPBGS "as strong as"
-    "SWELS": "as well as", // use -Z for "swells"
+    "SAOPBS": "as soon as",     // standard
+    "STROPBGS": "as strong as", // standard
+    "SWAEBGS": "as weak as",
+    "SW-LS": "as well as",      // standard
+    "SW*ELS": "as well as",     // standard
+    "SWELS": "as well as",      // use -Z for "swells"
 
     // "... about"
     // Instead of -BT, use -B, which
