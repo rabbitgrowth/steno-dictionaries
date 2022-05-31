@@ -2409,7 +2409,8 @@
     "AEUFS": "was a",
 
     // "... the"
-    "KRAOTS": "across the",
+    "SKROTS": "across the", // cf. SKROS "across" (custom)
+    "KRAOTS": "across the", // cf. KRAOS "across"
     "TKPWEPBTS": "against the",
     "AOLT": "along the",
     "OEPBLT": "only the",
