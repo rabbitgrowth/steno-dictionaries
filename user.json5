@@ -2420,6 +2420,36 @@
     "OUFT": "out of the", // add * for "oust"
     "SEUPBTS": "since the",
 
+    // "here" and "there"
+    "HAOERS": "here is",
+    "HAOERTS": "here is the",
+    "HAO*ERS": "here's", // standard
+    "HAO*ERTS": "here's the",
+
+    "THR-S": "there is",
+    "THR-TS": "there is the",
+    "THR*S": "there's", // standard
+    "THR*TS": "there's the",
+    "THR-R": "there are", // standard
+    "THR-RT": "there are the",
+    "THR*R": "there're",
+    "THR*RT": "there're the",
+    "THR-FS": "there was", // standard
+    "THR-FTS": "there was the",
+    "THR-F": "there have", // use THROF for "thereof"; cf. WR-F "where have", WROF "whereof"
+    "THR-FB": "there have been",
+    "THR-D": "there had",
+    "THR-BD": "there had been",
+    "THR-L": "there will",
+    "THR*L": "there'll", // standard
+
+    "THREUPL": "there I am",
+    "THREUFS": "there I was",
+    "THRUR": "there you are",
+    "THRURP": "there you were",
+    "THRES": "there he is", // use -Z for "threes"
+    "THREFS": "there he was",
+
     // "just ..."
     "SKWR": "just",
     "SKWR-T": "just the",
@@ -2474,36 +2504,6 @@
     "TOUBT": "to you about the",
     "WHAB": "what about",
     "WHABT": "what about the", // by default "what about"
-
-    // "here" and "there"
-    "HAOERS": "here is",
-    "HAOERTS": "here is the",
-    "HAO*ERS": "here's", // standard
-    "HAO*ERTS": "here's the",
-
-    "THR-S": "there is",
-    "THR-TS": "there is the",
-    "THR*S": "there's", // standard
-    "THR*TS": "there's the",
-    "THR-R": "there are", // standard
-    "THR-RT": "there are the",
-    "THR*R": "there're",
-    "THR*RT": "there're the",
-    "THR-FS": "there was", // standard
-    "THR-FTS": "there was the",
-    "THR-F": "there have", // use THROF for "thereof"; cf. WR-F "where have", WROF "whereof"
-    "THR-FB": "there have been",
-    "THR-D": "there had",
-    "THR-BD": "there had been",
-    "THR-L": "there will",
-    "THR*L": "there'll", // standard
-
-    "THREUPL": "there I am",
-    "THREUFS": "there I was",
-    "THRUR": "there you are",
-    "THRURP": "there you were",
-    "THRES": "there he is", // use -Z for "threes"
-    "THREFS": "there he was",
 
     // Miscellaneous
     "AEULT": "a lot", // the -L in HROELT seems to be completely arbitrary
