@@ -2486,10 +2486,11 @@
     "PHUP": "make up",
     "PH*UP": "makeup",
     "STUP": "set up", // by default "setup"
-    "ST*UP": "setup",
+    "ST*UP": "setup", // overrides "shtup" [1]
     "STPHUP": "sign up",
     "STPH*UP": "signup",
     "WUP": "wake up", // misstroke for "one"
+    /*1*/ "SH/TUP": "shtup",
 
     // Existence
     "THR-S": "there is",
