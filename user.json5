@@ -2449,57 +2449,6 @@
     "TPOURP": "four people",
     "TPAOEUFP": "five people",
 
-    // "is ..."
-    "SPWAU": "is because",
-    "SPWAUF": "is because of",
-    "SPWAUT": "is because the", // use STUT for "substitute"
-    "SPWAUFT": "is because of the",
-    "STPOT": "is for the",
-    "STPR": "is from",
-    "STPR-LGTS": "is from a",
-    "STPR-T": "is from the",
-    "STPH": "is in",
-    "STPH-LGTS": "is in a",
-    "STPH-T": "is in the", // write out "isn't the"
-    "STPHOU": "is now",
-    "SOEPBL": "is only", // instead of "only is"
-    "STHR-LGTS": "is there a",
-    "STOBT": "is to be the",
-    "SW": "is with",
-    "SW-LGTS": "is with a",
-    "SW-T": "is with the",
-    "SWU": "is with you",
-
-    // "as ..."
-    "S*LGTS": "as a",
-    "S*T": "as the",
-    "S*EU": "as I", // give up "si"
-    "S*EUBZ": "as I say",
-    "S*U": "as you",
-    "S*URP": "as you were",
-    "S*UBGZ": "as you can see",
-    "TPAS": "as if",
-    "SPOB": "as possible",
-
-    // "as ... as"
-    "STPARS": "as far as",      // standard
-    "STPAFTS": "as fast as",    // standard
-    "STKPWAODZ": "as good as",  // standard
-    "STKPW-DZ": "as good as",   // with TKPW-D (custom)
-    "STKPWRAETS": "as great as",
-    "STKPW-TS": "as great as",  // with TKPW-T (custom)
-    "SHROPBGS": "as long as",   // standard
-    "SPHAEPBS": "as many as",   // standard
-    "SPHUFPS": "as much as",    // standard
-    "SRAELS": "as real as",
-    "SPHALS": "as small as",
-    "SAOPBS": "as soon as",     // standard
-    "STROPBGS": "as strong as", // standard
-    "SWAEBGS": "as weak as",
-    "SW-LS": "as well as",      // standard
-    "SW*ELS": "as well as",     // standard
-    "SWELS": "as well as",      // use -Z for "swells"
-
     // "... about"
     // Instead of -BT, use -B, which
     // 1) can be thought of as a mirror image of B (PW) for "about";
@@ -2633,6 +2582,34 @@
     "S-LGS": "something else",
     "SWHR-LS": "somewhere else", // cf. WHR "where" (see phrasing)
 
+    "S*LGTS": "as a",
+    "S*T": "as the",
+    "S*EU": "as I", // give up "si"
+    "S*EUBZ": "as I say",
+    "S*U": "as you",
+    "S*URP": "as you were",
+    "S*UBGZ": "as you can see",
+    "TPAS": "as if",
+    "SPOB": "as possible",
+
+    "STPARS": "as far as",      // standard
+    "STPAFTS": "as fast as",    // standard
+    "STKPWAODZ": "as good as",  // standard
+    "STKPW-DZ": "as good as",   // with TKPW-D (custom)
+    "STKPWRAETS": "as great as",
+    "STKPW-TS": "as great as",  // with TKPW-T (custom)
+    "SHROPBGS": "as long as",   // standard
+    "SPHAEPBS": "as many as",   // standard
+    "SPHUFPS": "as much as",    // standard
+    "SRAELS": "as real as",
+    "SPHALS": "as small as",
+    "SAOPBS": "as soon as",     // standard
+    "STROPBGS": "as strong as", // standard
+    "SWAEBGS": "as weak as",
+    "SW-LS": "as well as",      // standard
+    "SW*ELS": "as well as",     // standard
+    "SWELS": "as well as",      // use -Z for "swells"
+
     "TPWEFT": "at best",
     "THOEPL": "at home", // misstroke for "them"
     "THRAFT": "at last",
@@ -2669,6 +2646,26 @@
     "UFPBD": "you have no idea",  // use UFD for "you find" (custom)
     "W-FPBD": "we have no idea",
     "THEFPBD": "they have no idea",
+
+    "SPWAU": "is because",
+    "SPWAUF": "is because of",
+    "SPWAUT": "is because the", // use STUT for "substitute"
+    "SPWAUFT": "is because of the",
+    "STPOT": "is for the",
+    "STPR": "is from",
+    "STPR-LGTS": "is from a",
+    "STPR-T": "is from the",
+    "STPH": "is in",
+    "STPH-LGTS": "is in a",
+    "STPH-T": "is in the", // write out "isn't the"
+    "STPHOU": "is now",
+    "SOEPBL": "is only", // instead of "only is"
+    "STHR-LGTS": "is there a",
+    "STOBT": "is to be the",
+    "SW": "is with",
+    "SW-LGTS": "is with a",
+    "SW-T": "is with the",
+    "SWU": "is with you",
 
     "HREPL": "let me",
     "HR*EPL": "lemme",
