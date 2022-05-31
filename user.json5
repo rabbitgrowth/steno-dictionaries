@@ -2440,15 +2440,8 @@
 
     "PHAEP": "many people", // mashup of PHAEPB and -P
     "OERP": "other people", // overrides "ownership" [1]
-    "SPH-P": "some people", // compare with the standard SPAOEPL
-    /*1*/ "O*ERP": "ownership", // Plover uses -P for -ship very nicely:
-                                // R*EUP   "relationship"
-                                // TPREUP  "friendship"
-                                // HRAOERP "leadership"
-                                // So I wouldn't want to just give up "ownership".
-                                // Adding * seems like a reasonable compromise;
-                                // maybe I can think of "relationship" and "ownership"
-                                // as a pair, both requiring *.
+    "SPH-P": "some people", // compare SPAOEPL
+    /*1*/ "O*ERP": "ownership", // compare R*EUP "relationship"
 
     "TWOP": "two people",
     "THRAOEP": "three people", // phonetic
