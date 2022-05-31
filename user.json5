@@ -2506,7 +2506,7 @@
     "WHABT": "what about the", // by default "what about"
 
     // Miscellaneous
-    "AEULT": "a lot", // the -L in HROELT seems to be completely arbitrary
+    "AEULT": "a lot", // instead of HROELT
     "AEUFLT": "a lot of",
     "HRAEUL": "a little",
     "HRAEUFL": "a little of",
