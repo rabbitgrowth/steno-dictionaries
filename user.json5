@@ -2563,7 +2563,7 @@
     "SWUPBLS": "someone else", // standard
     "SPHRAEULS": "someplace else",
     "S-LGS": "something else",
-    "SWHR-LS": "somewhere else", // cf. WHR "where" (see phrasing)
+    "SWHR-LS": "somewhere else",
 
     "S*LGTS": "as a",
     "S*T": "as the",
