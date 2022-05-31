@@ -2406,6 +2406,8 @@
     // "a" and "the"
     "T-LGTS": "at a",
     "T-T": "at the", // misstroke for "the"
+    "AOPB": "on a", // use AUPB for {on^}
+    "OPBT": "on the", // standard
     "AEUFS": "was a",
     "-FTS": "was the",
 
