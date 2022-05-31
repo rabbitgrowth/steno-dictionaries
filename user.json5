@@ -134,6 +134,7 @@
     "AFT": "after the",         // with PW-FT "before the"
     "TKPWRAEBL": "agreeable",   // with TKPWRAE "agree"
     "TKPWR*EUPLT": "algorithm", // with R*EUPLT "rhythm"
+    "SW-L": "as well",          // with SW-LS "as well as"
     "A*EUT/EUFT": "atheist",    // with A*EUT/EUFPL "atheism"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
@@ -2479,7 +2480,6 @@
     "S*UBGZ": "as you can see",
     "TPAS": "as if",
     "SPOB": "as possible",
-    "SW-L": "as well", // cf. SW-LS "as well as"
 
     // "as ... as"
     // The most common ones already work beautifully:
