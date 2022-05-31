@@ -2444,11 +2444,9 @@
     /*1*/ "O*ERP": "ownership", // compare R*EUP "relationship"
 
     "TWOP": "two people",
-    "THRAOEP": "three people", // phonetic
-    "THREP": "three people",   // simpler vowel
+    "THRAOEP": "three people",
     "TPOURP": "four people",
-    "TPAOEUFP": "five people", // phonetic
-    "TPEUFP": "five people",   // simpler vowel
+    "TPAOEUFP": "five people",
 
     // "is ..."
     "SPWAU": "is because",
