@@ -2438,8 +2438,6 @@
     "P-L": "people will",
     "P-BZ": "people say",
 
-    // The P-P symmetry makes it feel natural to use -P for "people" too.
-    // (See "Counting" for "two people", "three people", etc.)
     "PHAEP": "many people", // mashup of PHAEPB and -P
     "OERP": "other people", // overrides "ownership" [1]
     "SPH-P": "some people", // compare with the standard SPAOEPL
@@ -2451,6 +2449,13 @@
                                 // Adding * seems like a reasonable compromise;
                                 // maybe I can think of "relationship" and "ownership"
                                 // as a pair, both requiring *.
+
+    "TWOP": "two people",
+    "THRAOEP": "three people", // phonetic
+    "THREP": "three people",   // simpler vowel
+    "TPOURP": "four people",
+    "TPAOEUFP": "five people", // phonetic
+    "TPEUFP": "five people",   // simpler vowel
 
     // "is ..."
     "SPWAU": "is because",
@@ -2747,14 +2752,6 @@
     "WUFT": "one of the",
     "TWOF": "two of",
     "TWOFT": "two of the",
-
-    // P "people" (reflected along the vertical axis)
-    "TWOP": "two people",
-    "THRAOEP": "three people", // phonetic
-    "THREP": "three people",   // simpler vowel
-    "TPOURP": "four people",
-    "TPAOEUFP": "five people", // phonetic
-    "TPEUFP": "five people",   // simpler vowel
 
     // TH-G "thing"
     "WUPBG": "one thing",
