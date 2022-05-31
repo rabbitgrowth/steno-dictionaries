@@ -2464,27 +2464,6 @@
                                 // maybe I can think of "relationship" and "ownership"
                                 // as a pair, both requiring *.
 
-    // "and ..."
-    "SKPAEUFLT": "and a lot of",
-    "SKPAUFL": "and all of",
-    "SKPAULT": "and all the",
-    "SKPAUFLT": "and all of the",
-    "SKPHR-S": "and also",
-    "SKPAOEPB": "and even",
-    "SKP-Z": "and has",
-    "SKPHEP": "and help",
-    "SKPHAOER": "and here",
-    "SKPHAOERS": "and here is",
-    "SKPHAO*ERS": "and here's",
-    "SKPHEUS": "and his",
-    "SKPHER": "and her",
-    "SKPHOU": "and how",
-    "SKPOER": "and other",
-    "SKPOUR": "and our",
-    "SKPHR": "and will",           // or use SKP-L
-    "SKPHR-B": "and will be",      // cf. "will be"
-    "SKPHR-BT": "and will be the", // cf. "will be the"
-
     // "is ..."
     "SPWAU": "is because",
     "SPWAUF": "is because of",
@@ -2666,9 +2645,28 @@
 
     // Miscellaneous
     "SKPAF": "and a half",
+    "SKPAEUFLT": "and a lot of",
+    "SKPAUFL": "and all of",
+    "SKPAULT": "and all the",
+    "SKPAUFLT": "and all of the",
+    "SKPHR-S": "and also",
+    "SKPAOEPB": "and even",
+    "SKP-Z": "and has",
+    "SKPHEP": "and help",
+    "SKPHAOER": "and here",
+    "SKPHAOERS": "and here is",
+    "SKPHAO*ERS": "and here's",
+    "SKPHEUS": "and his",
+    "SKPHER": "and her",
+    "SKPHOU": "and how",
+    "SKPOER": "and other",
+    "SKPOUR": "and our",
     "SKPAOPB": "and so on",
-    "SKP-PB": "and then",
     "SKP-PBT": "and then the",
+    "SKP-PB": "and then",
+    "SKPHR": "and will",           // or use SKP-L
+    "SKPHR-B": "and will be",      // cf. "will be"
+    "SKPHR-BT": "and will be the", // cf. "will be the"
 
     "TPWEFT": "at best",
     "THOEPL": "at home", // misstroke for "them"
