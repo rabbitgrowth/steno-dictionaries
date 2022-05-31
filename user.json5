@@ -2454,21 +2454,18 @@
     "SPWAUT": "is because the", // use STUT for "substitute"
     "STP-RT": "is for the",
     "STPR": "is from",
-    "STPR-T": "is from the",
     "STPR-LGTS": "is from a",
+    "STPR-T": "is from the",
     "STPH": "is in",
-    "STPH-T": "is in the", // just two-stroke "isn't the"
     "STPH-LGTS": "is in a",
-    "SPHOR": "is more", // add * for "s'more"
+    "STPH-T": "is in the", // write out "isn't the"
     "STPHOU": "is now",
-    "SOEPBL": "is only", // give up "only is"
-                         // IS ONLY  36229
-                         // ONLY IS   4945
+    "SOEPBL": "is only", // instead of "only is"
     "STHR-LGTS": "is there a",
     "STOBT": "is to be the",
     "SW": "is with",
-    "SW-T": "is with the",
     "SW-LGTS": "is with a",
+    "SW-T": "is with the",
     "SWU": "is with you",
 
     // "as ..."
