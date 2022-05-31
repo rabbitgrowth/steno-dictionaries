@@ -582,7 +582,7 @@
     "STPHOR": "snore", // use STPHART for "senator"
     "SPOR": "spore",   // use SPO*RT  for "support"
 
-    "TPOR": "fore", // use TPO for "for" (see phrasing)
+    "TPOR": "fore", // use TPO for "for" (see phrasing/)
     "TPO*R": "{fore^}",
 
     "KWRO*R": "yore",      // give up "I know, right?"
@@ -1753,7 +1753,7 @@
     "WROEBG": "revoke",
     "WROELT": "revolt",
     "WROLT": "revolt",
-    "WROF": "revolve", // use WHROF for "whereof" (see phrasing)
+    "WROF": "revolve", // use WHROF for "whereof" (see phrasing/)
     // "review" would be WRAOU, but that's "withdrew" already.
     //   WRAU  "withdraw"
     //   WRAOU "withdrew"
@@ -2378,6 +2378,12 @@
     "SREUPBLG": "vigil",    // "individual" SREUD
 
     // -- Phrasing -------------------------------------------------------------
+
+    // For formulaic phrases like all possible combinations of
+    //   and/that/what/when/who
+    // + I/you/he
+    // + can/could/shall/should/will/would/may/might/must,
+    // see phrasing/.
 
     // Modal verbs
     "K-B": "can be",        // standard
