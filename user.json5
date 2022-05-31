@@ -2400,9 +2400,12 @@
     "PHUFBT": "must be the",
     /*1*/ "PH-B": "maybe", // give up "Mapbox"
 
-    "KOUFT": "could have the",   // cf. KOUF  "could have"
-    "SHOUFT": "should have the", // cf. SHOUF "should have"
-    "WOUFT": "would have the",   // cf. WOUF  "would have"
+    "KOUF": "could have", // standard
+    "KOUFT": "could have the",
+    "SHOUF": "should have", // standard
+    "SHOUFT": "should have the",
+    "WOUF": "would have", // standard
+    "WOUFT": "would have the",
 
     // "a" and "the"
     "T-LGTS": "at a",
