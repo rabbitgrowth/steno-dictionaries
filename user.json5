@@ -2403,12 +2403,12 @@
     "SHOUFT": "should have the", // cf. SHOUF "should have"
     "WOUFT": "would have the",   // cf. WOUF  "would have"
 
-    // "... a"
+    // "a" and "the"
     "T-LGTS": "at a",
-    "T-T": "at the", // use -T for "the"
+    "T-T": "at the", // misstroke for "the"
     "AEUFS": "was a",
+    "-FTS": "was the",
 
-    // "... the"
     "SKROTS": "across the", // cf. SKROS "across" (custom)
     "KRAOTS": "across the", // cf. KRAOS "across"
     "TKPWEPBTS": "against the",
@@ -2416,7 +2416,6 @@
     "OEPBLT": "only the",
     "OUFT": "out of the", // add * for "oust"
     "SEUPBTS": "since the",
-    "-FTS": "was the",
 
     // "go to ..."
     "TKPWO": "go to", // use TKPW for "go"
