@@ -2419,17 +2419,6 @@
     "OUFT": "out of the", // add * for "oust"
     "SEUPBTS": "since the",
 
-    // "go to ..."
-    "TKPWO": "go to", // use TKPW for "go"
-    "TKPWOG": "going to",
-    "TKPWOBG": "going to be",
-    "TKPWOGT": "going to the",
-    "TKPWOBGT": "going to be the",
-    "STKPWOG": "is going to",
-    "STKPWOBG": "is going to be",
-    "STKPWOGT": "is going to the",
-    "STKPWOBGT": "is going to be the",
-
     // "just ..."
     "SKWR": "just",
     "SKWR-T": "just the",
@@ -2440,12 +2429,6 @@
 
     "HEUPBD/SKWR": "behind just",    // misstroke  for "Hindu"
     "WHEUPL/SKWR": "when I am just", // odd stroke for "whimsy"
-
-    // "some ..."
-    "SPH-F": "some of",      // instead of SPHOF  "some of"
-    "SPH-FT": "some of the", //            SOFPLT "some of the"
-    "SPH-R": "some are",
-    "SPH-RP": "some were",
 
     // "people ..."
     "P": "people",
@@ -2523,16 +2506,6 @@
     "SWAEBGS": "as weak as", // cf. STROPBGS "as strong as"
     "SWELS": "as well as", // use -Z for "swells"
 
-    // "so that ..."
-    "STHAO": "so that",
-    "STHAOT": "so that the",
-    "STHAOEUBG": "so that I can",
-    "STHAOEUBGD": "so that I could",
-    "STHAOUBG": "so that you can",
-    "STHAOUBGD": "so that you could",
-    "STHAOEBG": "so that he can",
-    "STHAOEBGD": "so that he could",
-
     // "... about"
     // Instead of -BT, use -B, which
     // 1) can be thought of as a mirror image of B (PW) for "about";
@@ -2560,34 +2533,6 @@
     "WHAB": "what about",
     "WHABT": "what about the", // by default "what about"
 
-    // "... else"
-    "TPHEUBLS": "anybody else", // standard
-    "TPHEUPBLS": "anyone else", // standard
-    "TPHEULGS": "anything else",
-    "EFBLS": "everybody else",  // cf. EFB  "everybody"
-    "EFRBLS": "everybody else", // cf. EFRB "everybody"
-    "EFRPBLS": "everyone else",
-    "EFRLGS": "everything else",
-    "WEFRLS": "everywhere else",
-    "TPHOEUPBLS": "no one else",
-    "TPH-BLS": "nobody else",
-    "TPHOLGS": "nothing else",
-    "TPHO*ERLS": "nowhere else",
-    "S-BLS": "somebody else",
-    "SWUPBLS": "someone else", // standard
-    "SPHRAEULS": "someplace else",
-    "S-LGS": "something else",
-    "SWHR-LS": "somewhere else", // cf. WHR "where" (see phrasing)
-
-    // "... of"
-    "TPRAEFD": "afraid of", // misstroke for "afraid"
-    "STR-F": "center of",
-    "SKAEUFRD": "scared of",
-    "SEFT": "set of",
-    "SUFPL": "sum of",
-    "TAOEUFPL": "time of",
-    "WHOEFL": "whole of",
-
     // "... up"
     // Precedents: KHRUP "clean up", SKRUP "screw up", SHUP "shut up"
     "PWUP": "back up",      // give up "bup", which is not a word
@@ -2603,12 +2548,6 @@
     "STPHUP": "sign up",
     "STPH*UP": "signup",
     "WUP": "wake up",       // misstroke for "one"
-
-    // "... have no idea"
-    "KWR-FPBD": "I have no idea", // cf. EUFPBD
-    "UFPBD": "you have no idea",  // use UFD for "you find" (custom)
-    "W-FPBD": "we have no idea",
-    "THEFPBD": "they have no idea",
 
     // Existence
     "THR-S": "there is",
@@ -2640,7 +2579,7 @@
     "HAO*ERS": "here's", // standard
     "HAO*ERTS": "here's the",
 
-    // Amounts
+    // Miscellaneous
     "AEULT": "a lot", // the -L in HROELT seems to be completely arbitrary
     "AEUFLT": "a lot of",
     "HRAEUL": "a little",
@@ -2650,7 +2589,14 @@
     "AEUBT": "a bit",
     "AEUFBT": "a bit of",
 
-    // Miscellaneous
+    "TPRAEFD": "afraid of", // misstroke for "afraid"
+    "STR-F": "center of",
+    "SKAEUFRD": "scared of",
+    "SEFT": "set of",
+    "SUFPL": "sum of",
+    "TAOEUFPL": "time of",
+    "WHOEFL": "whole of",
+
     "SKPAF": "and a half",
     "SKPAEUFLT": "and a lot of",
     "SKPAUFL": "and all of",
@@ -2675,6 +2621,24 @@
     "SKPHR-B": "and will be",      // cf. "will be"
     "SKPHR-BT": "and will be the", // cf. "will be the"
 
+    "TPHEUBLS": "anybody else", // standard
+    "TPHEUPBLS": "anyone else", // standard
+    "TPHEULGS": "anything else",
+    "EFBLS": "everybody else",  // cf. EFB  "everybody"
+    "EFRBLS": "everybody else", // cf. EFRB "everybody"
+    "EFRPBLS": "everyone else",
+    "EFRLGS": "everything else",
+    "WEFRLS": "everywhere else",
+    "TPHOEUPBLS": "no one else",
+    "TPH-BLS": "nobody else",
+    "TPHOLGS": "nothing else",
+    "TPHO*ERLS": "nowhere else",
+    "S-BLS": "somebody else",
+    "SWUPBLS": "someone else", // standard
+    "SPHRAEULS": "someplace else",
+    "S-LGS": "something else",
+    "SWHR-LS": "somewhere else", // cf. WHR "where" (see phrasing)
+
     "TPWEFT": "at best",
     "THOEPL": "at home", // misstroke for "them"
     "THRAFT": "at last",
@@ -2690,12 +2654,27 @@
     "AOEFRP": "each other",
     "WURPB": "one another",
 
+    "TKPWO": "go to", // use TKPW for "go"
+    "TKPWOG": "going to",
+    "TKPWOBG": "going to be",
+    "TKPWOGT": "going to the",
+    "TKPWOBGT": "going to be the",
+    "STKPWOG": "is going to",
+    "STKPWOBG": "is going to be",
+    "STKPWOGT": "is going to the",
+    "STKPWOBGT": "is going to be the",
+
     "HOUBD": "how bad",
     "HOUGD": "how good",
     "PREUBD": "pretty bad",  // use PRAOEUBD for "prescribed"
     "PREUGD": "pretty good", // standard
     "SREBD": "very bad",
     "SREGD": "very good",
+
+    "KWR-FPBD": "I have no idea", // cf. EUFPBD
+    "UFPBD": "you have no idea",  // use UFD for "you find" (custom)
+    "W-FPBD": "we have no idea",
+    "THEFPBD": "they have no idea",
 
     "HREPL": "let me",
     "HR*EPL": "lemme",
@@ -2709,6 +2688,20 @@
 
     "PAEFPLD": "peace of mind",
     "STAEUFPLD": "state of mind",
+
+    "STHAO": "so that",
+    "STHAOT": "so that the",
+    "STHAOEUBG": "so that I can",
+    "STHAOEUBGD": "so that I could",
+    "STHAOUBG": "so that you can",
+    "STHAOUBGD": "so that you could",
+    "STHAOEBG": "so that he can",
+    "STHAOEBGD": "so that he could",
+
+    "SPH-F": "some of",      // instead of SPHOF  "some of"
+    "SPH-FT": "some of the", //            SOFPLT "some of the"
+    "SPH-R": "some are",
+    "SPH-RP": "some were",
 
     "WHOELT": "whole lot",
     "WHOEFLT": "whole lot of",
