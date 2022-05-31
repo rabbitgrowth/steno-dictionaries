@@ -2477,19 +2477,19 @@
 
     // "... up"
     // Precedents: KHRUP "clean up", SKRUP "screw up", SHUP "shut up"
-    "PWUP": "back up",      // give up "bup", which is not a word
-    "PW*UP": "backup",      // instead of PWA*UP
+    "PWUP": "back up", // give up "bup"
+    "PW*UP": "backup",
     "KPHUP": "come up",
-    "TKPWUP": "go up",      // instead of "give up"
-    "TKPWRUP": "grow up",   // instead of "grown up"
+    "TKPWUP": "go up", // instead of "give up"
+    "TKPWRUP": "grow up", // instead of "grown up"
     "TKPWRAOUP": "grew up", // use TKPW-P for "group" (custom)
     "PHUP": "make up",
     "PH*UP": "makeup",
-    "STUP": "set up",       // by default "setup"
-    "ST*UP": "setup",       // consistently add * to suppress space
+    "STUP": "set up", // by default "setup"
+    "ST*UP": "setup",
     "STPHUP": "sign up",
     "STPH*UP": "signup",
-    "WUP": "wake up",       // misstroke for "one"
+    "WUP": "wake up", // misstroke for "one"
 
     // Existence
     "THR-S": "there is",
