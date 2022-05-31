@@ -2450,9 +2450,8 @@
     "TPAOEUFP": "five people",
 
     // "... about"
-    // Instead of -BT, use -B, which
-    // 1) can be thought of as a mirror image of B (PW) for "about";
-    // 2) leaves room for -T for "the".
+    // Instead of -BT, use -B, which can be thought of as a
+    // mirror image of PW and leaves room for -T for "the".
     "AUB": "all about", // use SAUB for {sub^}
     "AUBT": "all about the",
     "PWREUB": "bring about",
