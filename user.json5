@@ -2459,7 +2459,7 @@
     "SKWR-LGTS": "just a",
     "SKWR-B": "just be",
     "SKWR-LG": "just like",
-    "SKWR-PBG": "just in case", // cf. the starless "junk" SKWRUPBG
+    "SKWR-PBG": "just in case",
 
     "HEUPBD/SKWR": "behind just",    // misstroke  for "Hindu"
     "WHEUPL/SKWR": "when I am just", // odd stroke for "whimsy"
@@ -2474,7 +2474,7 @@
 
     "PHAEP": "many people", // mashup of PHAEPB and -P
     "OERP": "other people", // overrides "ownership" [1]
-    "SPH-P": "some people", // compare SPAOEPL
+    "SPH-P": "some people", // instead of SPAOEPL
     /*1*/ "O*ERP": "ownership", // compare R*EUP "relationship"
 
     "TWOP": "two people",
@@ -2715,7 +2715,7 @@
     "TKPWOEPL": "go home",
     "TKPWROELD": "grow old",
     "TP-LGTS": "if a",
-    "TPE": "if he", // give up "fe", which is not a word
+    "TPE": "if he", // give up "fe"
     "TPOEPBL": "if only",
     "TPHEUS": "in this",
     "TPHURPB": "in turn", // instead of "turn in"
@@ -2732,7 +2732,7 @@
     "TU": "thank you",
     "TKO*": "to do",
     "STKO*": "to do so",
-    "HR-F": "will have", // use HRUF for "love"
+    "HR-F": "will have", // use HROF for "love"
     "HR-FB": "will have been",
     "KWRAOEUZ": "you guys",
 
