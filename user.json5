@@ -2476,17 +2476,20 @@
     "WHABT": "what about the", // by default "what about"
 
     // "... up"
-    // Precedents: KHRUP "clean up", SKRUP "screw up", SHUP "shut up"
     "PWUP": "back up", // give up "bup"
     "PW*UP": "backup",
+    "KHRUP": "clean up", // standard
+    "KHR*UP": "cleanup", // standard
     "KPHUP": "come up",
     "TKPWUP": "go up", // instead of "give up"
     "TKPWRUP": "grow up", // instead of "grown up"
     "TKPWRAOUP": "grew up", // use TKPW-P for "group" (custom)
     "PHUP": "make up",
     "PH*UP": "makeup",
+    "SKRUP": "screw up", // standard
     "STUP": "set up", // by default "setup"
     "ST*UP": "setup", // overrides "shtup" [1]
+    "SHUP": "shut up", // standard
     "STPHUP": "sign up",
     "STPH*UP": "signup",
     "WUP": "wake up", // misstroke for "one"
