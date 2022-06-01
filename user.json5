@@ -2680,9 +2680,13 @@
     "TH*EFGD": "they've got",
 
     "KWR-FPBD": "I have no idea", // cf. EUFPBD
-    "UFPBD": "you have no idea",  // use UFD for "you find" (custom)
+    "AOEUFPBD": "I've no idea",
+    "UFPBD": "you have no idea", // use UFD  for "you find" (custom)
+    "*UFPBD": "you've no idea",  // use -RPB for "under"    (custom)
     "W-FPBD": "we have no idea",
+    "W*FPBD": "we've no idea",
     "THEFPBD": "they have no idea",
+    "TH*EFPBD": "they've no idea",
 
     "SPWAU": "is because",
     "SPWAUF": "is because of",
