@@ -3994,7 +3994,6 @@
     "-RPB": "under",
     "*RPB": "{under^}",
     "*RPB/TPHAO*ET": "underneath",
-    "-RPBD": "understand",
     "STKAPBD": "understand", // URPBD is "you understand" (see phrasing/)
     "STKAPBG": "understanding",
     "STKAOD": "understood",
