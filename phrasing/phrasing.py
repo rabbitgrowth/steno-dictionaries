@@ -109,48 +109,60 @@ patterns.extend([
 # Verbs
 
 verb = {
+    "-RG":    "agree",
     "-BL":    "believe",
     "-FL":    "feel",
     "-FD":    "find",
     "-FRGT":  "forget",
     "-GT":    "get",
     "-GS":    "guess",
-    "-FPL":   "know",
+    "-PBL":   "know",
     "-LG":    "like",
     "*FL":    "love",
     "-FRPB":  "mean",
     "-FRPBD": "mind",
     "-PBD":   "need",
     "-RPL":   "remember",
+    "-FPL":   "seem",
     "-PBG":   "think",
     "-RPBD":  "understand",
     "-PT":    "want",
 }
 
 verbs = {
+    "-RGZ":    "agrees",
     "-BLZ":    "believes",
     "-FLZ":    "feels",
     "-FDZ":    "finds",
     "-FRGTS":  "forgets",
     "-GTS":    "gets",
     "-GSZ":    "guesses",
-    "-FPLZ":   "knows",
+    "-PBLZ":   "knows",
     "-LGZ":    "likes",
     "*FLZ":    "loves",
     "-FRPBZ":  "means",
     "-FRPBDZ": "minds",
     "-PBDZ":   "needs",
     "-RPLZ":   "remembers",
+    "-FPLZ":   "seems",
     "-PBGZ":   "thinks",
     "-RPBDZ":  "understands",
     "-PTS":    "wants",
 }
 
 verbed = {
-    "-FLT":  "felt",
-    "-FRGD": "forgot",
-    "-GD":   "got",
-    "-BS":   "said",
+    "-RGD":   "agreed",
+    "-BLD":   "believed",
+    "-FLT":   "felt",
+    "-FRGD":  "forgot",
+    "-GD":    "got",
+    "-LGD":   "liked",
+    "*FLD":   "loved",
+    "-FRPBT": "meant",
+    "-RPLD":  "remembered",
+    "-FPLD":  "seemed",
+    "-BS":    "said",
+    "-PTD":   "wanted",
 }
 
 modal_verb = {

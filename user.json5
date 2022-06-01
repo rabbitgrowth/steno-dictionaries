@@ -134,6 +134,7 @@
     "AFT": "after the",         // with PW-FT "before the"
     "TKPWRAEBL": "agreeable",   // with TKPWRAE "agree"
     "TKPWR*EUPLT": "algorithm", // with R*EUPLT "rhythm"
+    "SW-L": "as well",          // with SW-LS "as well as"
     "A*EUT/EUFT": "atheist",    // with A*EUT/EUFPL "atheism"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
@@ -142,11 +143,6 @@
     "STAOUT": "constitute",     // with STAOUGS "constitution"; use STAUT for "statute"
     "KRED/AOULT": "credulity",  // with EUPB/KRED/AOULT "incredulity"
     "TKOEUPBL": "denial",       // with TKOEUPB "deny"
-    "STREUBGS": "distribution", // with STREUBT "distribute"
-                                //   use REUBGS for "restriction":
-                                //   REUBGT  "restrict"   -> REUBGS   "restriction"
-                                //   STREUBT "distribute" -> STREUBGS "distribution"
-                                //   (TKR-BT and TKR-BGS are nice briefy alternatives)
     "TK-Z": "dizzy",            // with PW-Z "busy"; use STKAOES for "disease"
     "ERLD": "elder",            // with OERLD "older"; overrides "elderly"
     "HRERLD": "elderly",
@@ -250,6 +246,8 @@
     "APBGS/TEU": "angsty",
     "ARPBS": "answer",
     "ARPBGS": "answering", // use ARPBLGZ for "arranges"
+    "STPHER": "answer",    // "nser"; alternative for easier inflections
+    "STPHERD": "answered", // use STPHERT for "insert"
     "APLT/STPAOER": "atmosphere",
     "AU/RO/RA": "aurora",
     "PWHRAOEU": "belie",
@@ -261,8 +259,6 @@
     "PWRAOD": "brood", // use PWROD for "broad"
     "KREUFPLS": "Christmas",
     "KHRAPBD/STEUPB": "clandestine",
-    "KOFPB/TKAPBT": "confidant",
-    "KOFPB/TKA*PBT": "confidante",
     "KAUPB/STAPBS/KWREU": "constancy", // or use "constant" + {^cy}
     "TKHREURBT": "deliberate", // with -R
     "TKHREURBLT": "deliberately",
@@ -273,12 +269,12 @@
     "KWRAOUBG/HREUP/TUS": "eucalyptus",
     "KWRAOUBG/HREUPT/US": "eucalyptus", // cf. AOUBG/HREUPT/US
     "KWRAOUBG/HREUPTS": "eucalyptus",
+    "TPEUGS": "fission", // use -Z for "figs"
     "TKPWAPBLT": "gallant",
     "TKPWAL/APBT": "gallant",
-    "HA*RT": "hearth", // give up "Hart"
     "HEPBG": "henge", // give up "he think"; use H-PBGZ for "he thinks" (custom)
     "HAOURBS": "hubris",
-    "EUFRPB": "inch", // use TPRAEUPB for {^infra}
+    "EUFRPB": "inch", // use TPRAEUPB for {infra^}
     "SPWREUBGT": "intricate",
     "EUFPB/TAEUGS": "invitation",
     "PHAPB/TEUS": "mantis",
@@ -297,7 +293,6 @@
     "PAPL/TAEUT": "palpitate",
     "PHRAFD": "placid",
     "PHRAFLD": "placidly",
-    "PHRAEUG": "plague", // come back for -G for "playing"
     "PROF/SEU": "prophecy", // use PROF/SAOEU for "prophesy"
     "PUR": "purr", // overrides "purchaser" [1]
     "RE/PUBL/KAPB": "republican",
@@ -327,13 +322,12 @@
     /*2*/ "STPHAT/KWRA": "sonata", // or use SO/TPHA/TA
 
     // Phonetic alternatives to briefs
-    "SER/TEUFBGT": "certificate", // to SER
+    "SERT/EUFBGT": "certificate", // to SER
+    "SER/TEUFBGT": "certificate",
     "STEUFBGT": "certificate",
     "KAUPB/TKURBGT": "conductor", // to KURBGT
     "KUFPB": "cousin",            // to KUZ
-    "TKAOEUPBLG/EFT": "digest",   // to SKWR*EFT
     "TKEUPL/TPHEURB": "diminish", // to TKPHEURB
-    "STKREUBGT": "district",      // to TKR-T; use TKR-BG(T) for "distributing"
     "KPEBG/TEUF": "executive",    // to SKAOUF
     "TPABG/TEU": "faculty",       // to TPA*BG
     "TPABG/TEUZ": "faculties",
@@ -345,11 +339,12 @@
     "PROFRBGT": "prosecutor",
     "SEUFRT": "sister",           // to ST-R
 
-    "SPWEUBGT": "indicate", // to KA*EUT
-    "SPWEUBGD": "indicated",
-    "SPWEUGT": "indicating",
-    "SPWEUBGS": "indication",
-    "SPWEURBGT": "indicator",
+    "STKREUBGS": "distribution", // to TKR-BGS; cf. STKREUBT "distribute"
+    "STKREUBGT": "district",     // to TKR-T; use TKR-BG for "distributing"
+
+    "SPWEUBGT": "indicate",   // to KA*EUT
+    "SPWEUBGS": "indication", // to KA*EUGS
+    "SPWEURBGT": "indicator", // to KOERT; KA*EURT is {^-carat}
 
     "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
 
@@ -400,14 +395,13 @@
     "HRAOEFPL": "eventually",
     "KPAFRBT": "exacerbate",
     "KPAFRBGS": "exacerbation",
-    "SKPOERBL": "exponential",
-    "SKPHROERBL": "exponentially",
     "KPRAPLT": "extrapolate",
     "KPRAPLGS": "extrapolation",
     "TPAOPBLG": "footage",
     "TPREFT": "forest", // TPOFRT is taken by "foster"
     "TPRAOEPBLS": "freelance",
     "TKPWARPB": "garden",
+    "TKPWOFD": "godsend",
     "TKPWREURPB": "grandchildren", // or use TKPWR-PB
     "HAFPL": "handsome",
     "HAOUR/ST-BG": "heuristic", // cf. ST-BG {^istic}
@@ -474,7 +468,6 @@
     "WORP": "worship", // give up "WordPress"
     /*1*/ "A*UBG": "awk", // give up "AUC"
 
-    "STRAEUGS": "administration", // or use TKPHEUPBGS ("admin-tion")
     "A/TPHAOEULT": "annihilate",
     "A/TPHAOEULGS": "annihilation",
     "PHREUBGS": "application", // use -Z for "politics" [1]
@@ -490,6 +483,8 @@
     "SPWEFRB": "observe", // OEB requires coming back for -G for "observing"
                           // since OEBG is "oak"; give up "Internal Revenue"
     "SPWEFRBGS": "observation", // cf. KWEFRB "conserve", KWEFRBGS "conservation"
+    "SPWEFRB/TOER": "observatory", // cf. OEB/TOER
+    "SPWEFRB/TREU": "observatory", // cf. OEB/TREU
     "PUBGS": "publication", // "pub-tion"; use -Z for "pucks"
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // "vibe-tion"
@@ -501,6 +496,33 @@
           "P-BT": "publicity",
           "PUBLG": "public", // cf. RUBLG "republic"
           "PUB/HREUFT": "publicity",
+
+    // -- Right bank consonant squeezing ---------------------------------------
+
+    // -BGS for -case
+    "PWRAOEFBGS": "briefcase",
+    "SHOEBGS": "showcase",
+    "STAEURBGS": "staircase",
+
+    // -BGT for -cut
+    "HAEURBGT": "haircut",
+    "SHORBGT": "shortcut",
+
+    // -PLS for -place
+    "PWEURPLS": "birthplace",
+    "TKEUFPLS": "displace", // alternative to STKPHRAEUS (custom)
+    "EFRPLS": "everyplace", // cf. TPHEUPLS "anyplace"
+    "TPAOEURPLS": "fireplace", // use -Z for "firearms"
+    "PHARPLS": "marketplace",
+    "PHEUFPLS": "misplace", // use -Z for "mechanism"
+    "RAOEPLS": "replace",   // use -Z for "reams"
+    "WORPLS": "workplace",  // use -Z for "worms"
+
+    // -PT for -print
+    "PWHRUPT": "blueprint", // standard
+    "TPAOPT": "footprint",
+    "TPEURPT": "fingerprint",
+    "THUPT": "thumbprint",
 
     // -- -ore -----------------------------------------------------------------
 
@@ -560,7 +582,7 @@
     "STPHOR": "snore", // use STPHART for "senator"
     "SPOR": "spore",   // use SPO*RT  for "support"
 
-    "TPOR": "fore", // use TPO for "for" (see phrasing)
+    "TPOR": "fore", // use TPO for "for" (see phrasing/)
     "TPO*R": "{fore^}",
 
     "KWRO*R": "yore",      // give up "I know, right?"
@@ -693,7 +715,7 @@
     "HUR": "hurry", // should not cause word boundary errors;
                     //   HUR/KAEUPB "hurry cane" ("hurricane")
                     //   HUR/RAEU   "hurry ray"  ("hurray")
-                    // don't seem possible
+                    // seem unlikely
     "HRAURPBD": "laundry",
     "STURD": "sturdy", // "stur-D"
 
@@ -815,15 +837,29 @@
 
     // -- Word boundary errors -------------------------------------------------
 
-    "K/TPHOT": "can not", // "you can not only ... but also ...";
-                          // use K-PLT for "cannot" (custom)
+    // "You can not only ..."
+    "K/TPHOT": "can not", // use K-PLT for "cannot" (custom)
 
+    // "Why does my cat lick me?"
     "KAT/HREUBG": "cat lick", // use KA*T/HREUBG for "Catholic"
 
+    // "Did you buy it?"
+    "TKU/PWAOEU": "did you buy",
+    "TKAOU/PWAOEU": "Dubai", // "due buy" seems unlikely
+
+    // "The cost fell on us"
+    "TPEL/OPB/US": "fell on us",
+    "TPHROEPBS": "felonious",
+    "TPHROEPB/KWROUS": "felonious",
+    "TPHROPBS": "felonious",
+    "TPHROPB/KWROUS": "felonious",
+
+    // "Why does time pass so quickly?"
     "PAS/SO": "pass so", // give up "Paso" on its own
     "EL/PA/SO": "El Paso",
 
-    "TOPL/PHEU": "Tom my", // "I gave Tom my number"
+    // "I gave Tom my number"
+    "TOPL/PHEU": "Tom my",
     "TOPL/KWREU": "Tommy", // cf. SKWREUPL/KWREU "Jimmy"; give up {^tomy}
 
     // -- Affixes --------------------------------------------------------------
@@ -991,6 +1027,7 @@
     "SWOU": "avow",    // SRAOU is "view"
     "SWOUL": "avowal", // SRAOUL is "value"
     "SWAEUBG": "awake",
+    "SWAEUR": "aware", // use SWAER for "swear"
     "SWOEBG": "awoke",
     /*1*/ "SHRO*EPB": "Sloan",
 
@@ -1321,6 +1358,7 @@
     "PUFRL": "pummel",
 
     // Miscellaneous
+    "TKAOEUFRBG": "dynamic", // instead of TKPHAOEUBG
     "AOEFRL": "email",
     "STOFRBG": "stomach",
 
@@ -1421,7 +1459,7 @@
     "KPWROE": "embryo", // cf. EPL/PWROE
 
     "KPWARS": "embarrass", // cf. EPL/PWARS
-    "KPWRAS": "embarrass", // cf. EPL/PWRAS; form for easier inflections
+    "KPWRAS": "embarrass", // cf. EPL/PWRAS; alternative for easier inflections
     "KPWRAFD": "embarrassed",
     "KPWRAFG": "embarrassing",
     "KPWRAFLG": "embarrassingly",
@@ -1469,6 +1507,7 @@
     "KPWHROES/EUF": "implosive", // cf. SPHROES/EUF "explosive"
     "KPWHREU": "imply",   // cf. EUPL/PHREU
     "KPWHRAOEU": "imply", // cf. EUPL/PHRAOEU
+    "KPWORT": "import",
     "KPWOES": "impose",
     "KPWOEFD": "imposed",
     "KPWOEFG": "imposing",
@@ -1519,11 +1558,11 @@
     "STKAFBGS": "disaffection",
     "STKARPL": "disarm",
     "STKARPLT": "disarmament",
-    "STKPWHRAOEF": "disbelief", // uses every key on the left
+    "STKPWHRAOEF": "disbelief", // uses the entire left bank
     "STKPWHREF": "disbelieve",
-    "STKARD": "discard", // TK+S+K, cf. STKORD "discord"
+    "STKARD": "discard", // cf. STKORD "discord"
     "STKERPB": "discern",
-    "STKERPLT": "discernment", // drop "n", cf. A/HRAOEUPLT "alignment"
+    "STKERPLT": "discernment",
     "STKAOEUPL": "disciple",
     "STKPHREUPB": "discipline",
     "STKPHREUPB/REU": "disciplinary",
@@ -1555,7 +1594,7 @@
     "STKPERS": "disperse",
     "STKPEFRD": "dispersed", // cf. KUFRD  "cursed"
     "STKPEFRL": "dispersal", // cf. TKOFRL "dorsal"
-    "STKPERLS": "dispersal", // although there's no TKORLS
+    "STKPERLS": "dispersal", // although TKORLS doesn't work for "dorsal"
     "STKPERGS": "dispersion",
     "STKPEURT": "dispirit",
     "STKPHRAEUS": "displace", // use -Z for "displays"
@@ -1580,9 +1619,8 @@
     "STKOERBT": "dissociate", // cf. SOERBT "associate"
     "STKHRAOUT": "dissolute",
     "STKHRAOUGS": "dissolution",
-    "STKOFL": "dissolve", // or drop the -L
-    "STKPHAPBS": "dissonance", // TK+S+TPH
-    "STKPHAPBT": "dissonant",
+    "STKOF": "dissolve", // standard
+    "STKOFL": "dissolve",
     "STKWAEUD": "dissuade",
     "STKWAEUGS": "dissuasion",
     "STKORT": "distort",     // give up "accident report"
@@ -1591,11 +1629,11 @@
 
     "STKEPGS": "deception",
     "STKEPT/EUF": "deceptive",
-    "STKEPBD": "descend", // and get KAUPB/STKEPBGD "condescending" for free
+    "STKEPBD": "descend", // prepend {con^} for "condescend"
     "STKHREBGT": "deselect",
     "STKPRAT": "desperate",
     "STKPRALT": "desperately",
-    "STKPRAEUGS": "desperation", // use STRAEUGS for "administration" (custom)
+    "STKPRAEUGS": "desperation", // use TKPHEUPBGS for "administration"
     "STKPOPBS": "despondency",
     "STKPOPBT": "despondent",
 
@@ -1616,6 +1654,7 @@
     "SKPAOERPBS": "experience", // or use KP-P (custom)
     "SKPERPLT": "experiment",
     "SKPERT": "expert",
+    "SKPERLT": "expertly",
     "SKPERT/EUS": "expertise",  // cf. SPERT/EUS
     "SKPERT/AOES": "expertise", // cf. SPERT/AOES
     "SKPRAEUGS": "expiration",
@@ -1632,11 +1671,18 @@
     "SKPHROEGS": "explosion",
     "SKPHROEF": "explosive",
     "SKPHROES/EUF": "explosive", // cf. SPHROES/EUF
+    "SKPO": "expo",
+    "SKPOEPBT": "exponent",
+    "SKPOERBL": "exponential",
+    "SKPHROERBL": "exponentially",
+    "SKPORT": "export",
     "SKPOES": "expose", // a nice trio: SPOES  "suppose"
                         //              KPOES  "compose"
                         //              SKPOES "expose"
     "SKPOEFD": "exposed",
+    "SKPOGS": "exposition", // cf. POGS "position"
     "SKPOERB": "exposure",
+    "SKPOUPBD": "expound",
     "SKPRES": "express", // another nice trio: SPRES  "suppress"
                          //                    KPRES  "compress"
                          //                    SKPRES "express"
@@ -1644,6 +1690,11 @@
     "SKPREFG": "expressing",
     "SKPREGS": "expression",
     "SKPREF": "expressive",
+    "SKPROEPGS": "expropriation", // cf. PROEPGS "appropriation"
+    "SKPULGS": "expulsion",
+    // Conflicts with "and" phrasing:
+    // SKPEL   "and he will"   vs "expel"
+    // SKPUPBG "and you think" vs "expunge"
 
     // SKH for exch-
     "SKHAEUPBG": "exchange", // misstroke for "change is"
@@ -1683,40 +1734,6 @@
     "TPHEPT": "inept",
     "TPHAOUR": "inure",
     /*1*/ "TPHEUPBG": "ninja", // use -PBG for {^ening}
-
-    // TPEU for -fy
-    // This is standard in Plover:
-    //   KHRAR/TPEU "clarify"
-    //   KHRAS/TPEU "classify"
-    //   TKE/TPEU   "defy"
-    // It's the inflections that don't work.
-    "KHRAR/TPEUZ": "clarifies",
-    "KHRAR/TPEUG": "clarifying",
-    "KHRAS/TPEUZ": "classifies",  // conflicts with "class fizz"?
-                                  // ("cocktail bars serving world-class fizz")
-    "KHRAS/TPEUG": "classifying", // conflicts with "class figure"?
-                                  // ("a world-class figure skater")
-    "TKE/TPEUZ": "defies",
-    "TKE/TPEUG": "defying",
-    "PHOD/TPEUZ": "modifies",
-    "PHOD/TPEUG": "modifying",
-    "PHEUFT/TPEU": "mystify",
-    "PHEUFT/TPEUZ": "mystifies",   // "mist fizz"
-    "PHEUFT/TPEUG": "mystifying",  // "mist figure"
-    "KWAPBT/TPEUZ": "quantifies",  // "quantity fizz"
-    "KWAPBT/TPEUG": "quantifying", // "quantity figure"
-    "SHREUD/TPEUZ": "solidifies",  // "slid fizz"
-    "SHREUD/TPEUG": "solidifying", // "slid figure"
-    "AOUPB/TPEU": "unify", // mashup of AOUPB/TPAOEU and KWRAOUPB/TPEU
-                           // Plover seems to prefer ignoring the initial
-                           // /j/ sound and dropping the KWR; for example,
-                           // "unity" is AO*UPBT, and KWRAO*UPBT doesn't work
-    "AOUPB/TPEUZ": "unifies",
-    "AOUPB/TPEUG": "unifying",
-    "KWRAOUPB/TPEUZ": "unifies", // allow being explicit with the /j/
-    "KWRAOUPB/TPEUG": "unifying",
-    "SRER/TPEUZ": "verifies",
-    "SRER/TPEUG": "verifying",
 
     // KW for conv-
     // Precedents: KWAOEPBT "convenient"
@@ -1767,7 +1784,7 @@
     "WROEBG": "revoke",
     "WROELT": "revolt",
     "WROLT": "revolt",
-    "WROF": "revolve", // use WHROF for "whereof" (see phrasing)
+    "WROF": "revolve", // use WHROF for "whereof" (see phrasing/)
     // "review" would be WRAOU, but that's "withdrew" already.
     //   WRAU  "withdraw"
     //   WRAOU "withdrew"
@@ -1977,18 +1994,17 @@
 
     // -RB for -sure
     // Precedents: PRERB "pressure", PH*ERB "measure" (- * = "mesh")
-    "KHROERB": "closure", // and get EPB/KHROERB "enclosure" for free
+    "KHROERB": "closure", // prepend {en^} for "enclosure"
     "KPOERB": "composure",
     "AOE/RAEURB": "erasure",
     "TP*EURB": "fissure", // use TP-RB for "finish" (custom)
 
     // -RBL for -bral and -RPBL for -nral
-                            // Plover consistently omits -R:
-    "SRAOERBL": "cerebral", // SRAOEBL
-    "TPAOURPBL": "funeral", // TPAOUPBL
-    "SKWRERPBL": "general", // SKWREPBL
-    "HREURBL": "liberal",   // HREUBL
-    "PHEURPBL": "mineral",  // PHEUPBL
+    "SRAOERBL": "cerebral", // Plover consistently omits -R: SRAOEBL
+    "TPAOURPBL": "funeral", //                               TPAOUPBL
+    "SKWRERPBL": "general", //                               SKWREPBL
+    "HREURBL": "liberal",   //                               HREUBL
+    "PHEURPBL": "mineral",  //                               PHEUPBL
 
     // *RT for -ther
     // Precedents: H*EURT "hither", TH*EURT "thither"
@@ -2005,7 +2021,7 @@
 
     // -PBG for -nct
     // Precedents: TKEUS/TEUPBG "distinct" (can be briefed to STKEUPBG)
-    //             EUPB/STEUPBG "instinct" (only STPHEUPBGT works)
+    //             EUPB/STEUPBG "instinct" (but STPHEUPBG doesn't work)
     //             AD/SKWRUPBG  "adjunct"
     "KAUPB/SKWRUPBG": "conjunct",
     "TKE/TPUPBG": "defunct",
@@ -2013,7 +2029,7 @@
     "KPEUPBG": "extinct",
     "KPEUPBGS": "extinction",
     "STPHEUPBG": "instinct",
-    "SARBG/SAPBG": "sacrosanct", // very nice
+    "SARBG/SAPBG": "sacrosanct",
 
     // -PBT for -ten
     "PWRAOEUPBT": "brighten", // overrides "Bryant" [1]
@@ -2140,6 +2156,26 @@
     // More exotically:
     "SKWREPDZ": "jeopardize",
     "SURPLZ": "summarize",
+
+    // -DZ for -cide and -side
+    // Precedents: TK-DZ    "decide"
+    //             H-DZ     "homicide"
+    //             S-DZ, SAOUDZ "suicide"
+    //             TPH-DZ   "inside"
+    //             OUDZ     "outside"
+    //             UPDZ     "upside"
+    //             TKOUPBDZ "downside"
+    //             TH-DZ    "this side"
+    //             THADZ    "that side"
+    //             HR-PBDZ  "left-hand side"
+    //             R-PBDZ   "right-hand side"
+    "AOLDZ": "alongside",
+    "OERDZ": "other side", // drop *
+    // But:
+    "PW-D": "beside",   // give up "pwd"
+    "PW-DZ": "besides", // standard
+    "TK-D": "decide",   // give up {^ded}
+    "TK-DZ": "decides", // by default "decide"
 
     // -- Star-dropping --------------------------------------------------------
 
@@ -2374,52 +2410,86 @@
 
     // -- Phrasing -------------------------------------------------------------
 
-    // Modal verb + "be"
-    "PHAEUB": "may be", // overrides "maybe" [1]
+    // For formulaic phrases like all possible combinations of
+    //   and/that/what/when/who
+    // + I/you/he
+    // + can/could/shall/should/will/would/may/might/must,
+    // see phrasing/.
+
+    // Modal verbs
+    "K-B": "can be",        // standard
+    "K-BT": "can be the",
+    "KOB": "could be",      // standard
+    "KOBT": "could be the",
+    "SH-B": "shall be",     // standard
+    "SH-BT": "shall be the",
+    "SHOB": "should be",    // standard
+    "SHOBT": "should be the",
+    "HR-B": "will be",      // standard
+    "HR-BT": "will be the", // standard
+    "WOB": "would be",      // standard
+    "WOBT": "would be the", // standard
+    "PHAEUB": "may be",     // overrides "maybe" [1]
     "PHAEUBT": "may be the",
-    "PHAOEUB": "might be", // standard
+    "PHAOEUB": "might be",  // standard
     "PHAOEUBT": "might be the",
     "PHUFB": "must be",
     "PHUFBT": "must be the",
-    "K-BT": "can be the",
-    "KOBT": "could be the",
-    "SH-BT": "shall be the",
-    "SHOBT": "should be the",
-    "HR-BT": "will be the", // standard
-    "WOBT": "would be the", // standard
     /*1*/ "PH-B": "maybe", // give up "Mapbox"
 
-    // Modal verb + "have"
-    "KOUFT": "could have the",   // cf. KOUF  "could have"
-    "SHOUFT": "should have the", // cf. SHOUF "should have"
-    "WOUFT": "would have the",   // cf. WOUF  "would have"
+    "KOUF": "could have", // standard
+    "KOUFT": "could have the",
+    "SHOUF": "should have", // standard
+    "SHOUFT": "should have the",
+    "WOUF": "would have", // standard
+    "WOUFT": "would have the",
 
-    // "... a"
-    "S*LGTS": "as a",
-    "S*T": "as the",
+    // "a" and "the"
     "T-LGTS": "at a",
-    "T-T": "at the", // use -T for "the"
+    "T-T": "at the", // misstroke for "the"
+    "AOPB": "on a",   // use AUPB for {on^}
+    "OPBT": "on the", // standard
     "AEUFS": "was a",
+    "-FTS": "was the",
 
-    // "... the"
-    "KRAOTS": "across the",
+    "SKROTS": "across the", // cf. SKROS "across" (custom)
+    "KRAOTS": "across the", // cf. KRAOS "across"
     "TKPWEPBTS": "against the",
     "AOLT": "along the",
     "OEPBLT": "only the",
     "OUFT": "out of the", // add * for "oust"
     "SEUPBTS": "since the",
-    "-FTS": "was the",
 
-    // "go to ..."
-    "TKPWO": "go to", // use TKPW for "go"
-    "TKPWOG": "going to",
-    "TKPWOBG": "going to be",
-    "TKPWOGT": "going to the",
-    "TKPWOBGT": "going to be the",
-    "STKPWOG": "is going to",
-    "STKPWOBG": "is going to be",
-    "STKPWOGT": "is going to the",
-    "STKPWOBGT": "is going to be the",
+    // "here" and "there"
+    "HAOERS": "here is",
+    "HAOERTS": "here is the",
+    "HAO*ERS": "here's", // standard
+    "HAO*ERTS": "here's the",
+
+    "THR-S": "there is",
+    "THR-TS": "there is the",
+    "THR*S": "there's", // standard
+    "THR*TS": "there's the",
+    "THR-R": "there are", // standard
+    "THR-RT": "there are the",
+    "THR*R": "there're",
+    "THR*RT": "there're the",
+    "THR-FS": "there was", // standard
+    "THR-FTS": "there was the",
+    "THR-F": "there have", // use THROF for "thereof"; cf. WR-F "where have", WROF "whereof"
+    "THR-FB": "there have been",
+    "THR-D": "there had",
+    "THR-BD": "there had been",
+    "THR-L": "there will",
+    "THR*L": "there'll", // standard
+
+    "THREUPL": "there I am",
+    "THREUFS": "there I was",
+    "THRUG": "there you go",
+    "THRUR": "there you are",
+    "THRURP": "there you were",
+    "THRES": "there he is", // use -Z for "threes"
+    "THREFS": "there he was",
 
     // "just ..."
     "SKWR": "just",
@@ -2427,126 +2497,32 @@
     "SKWR-LGTS": "just a",
     "SKWR-B": "just be",
     "SKWR-LG": "just like",
-    "SKWR-PBG": "just in case", // cf. the starless "junk" SKWRUPBG
+    "SKWR-PBG": "just in case",
 
     "HEUPBD/SKWR": "behind just",    // misstroke  for "Hindu"
     "WHEUPL/SKWR": "when I am just", // odd stroke for "whimsy"
 
-    // "some ..."
-    "SPH-F": "some of",      // instead of SPHOF  "some of"
-    "SPH-FT": "some of the", //            SOFPLT "some of the"
-    "SPH-R": "some are",
-    "SPH-RP": "some were",
-
     // "people ..."
     "P": "people",
-    "P-Z": "peoples",    // misstroke for 3-Z
+    "P-Z": "peoples",    // misstroke for "300"
     "P-R": "people are", // misstroke for "for"
     "P-RP": "people were",
     "P-L": "people will",
     "P-BZ": "people say",
 
-    // The P-P symmetry makes it feel natural to use -P for "people" too.
-    // (See "Counting" for "two people", "three people", etc.)
     "PHAEP": "many people", // mashup of PHAEPB and -P
     "OERP": "other people", // overrides "ownership" [1]
-    "SPH-P": "some people", // compare with the standard SPAOEPL
-    /*1*/ "O*ERP": "ownership", // Plover uses -P for -ship very nicely:
-                                // R*EUP   "relationship"
-                                // TPREUP  "friendship"
-                                // HRAOERP "leadership"
-                                // So I wouldn't want to just give up "ownership".
-                                // Adding * seems like a reasonable compromise;
-                                // maybe I can think of "relationship" and "ownership"
-                                // as a pair, both requiring *.
+    "SPH-P": "some people", // instead of SPAOEPL
+    /*1*/ "O*ERP": "ownership", // compare R*EUP "relationship"
 
-    // "and ..."
-    "SKPAEUFLT": "and a lot of",
-    "SKPAUFL": "and all of",
-    "SKPAULT": "and all the",
-    "SKPAUFLT": "and all of the",
-    "SKPHR-S": "and also",
-    "SKPAOEPB": "and even",
-    "SKP-Z": "and has",
-    "SKPHEP": "and help",
-    "SKPHAOER": "and here",
-    "SKPHAOERS": "and here is",
-    "SKPHAO*ERS": "and here's",
-    "SKPHEUS": "and his",
-    "SKPHER": "and her",
-    "SKPHOU": "and how",
-    "SKPOER": "and other",
-    "SKPOUR": "and our",
-    "SKPHR": "and will",           // or use SKP-L
-    "SKPHR-B": "and will be",      // cf. "will be"
-    "SKPHR-BT": "and will be the", // cf. "will be the"
-
-    // "is ..."
-    "SPWAU": "is because",
-    "SPWAUF": "is because of",
-    "SPWAUT": "is because the", // use STUT for "substitute"
-    "S-FR": "is ever", // use SR-FR for "server"
-    "STP-RT": "is for the",
-    "STPR": "is from",
-    "STPR-T": "is from the",
-    "STPR-LGTS": "is from a",
-    "STPH": "is in",
-    "STPH-T": "is in the", // just two-stroke "isn't the"
-    "STPH-LGTS": "is in a",
-    "SPHOR": "is more", // add * for "s'more"
-    "STPHOU": "is now",
-    "SOEPBL": "is only", // give up "only is"
-                         // IS ONLY  36229
-                         // ONLY IS   4945
-    "STHR-LGTS": "is there a",
-    "STOBT": "is to be the",
-    "SW": "is with",
-    "SW-T": "is with the",
-    "SW-LGTS": "is with a",
-    "SWU": "is with you",
-
-    // "as ..."
-    "S*EU": "as I", // give up "si"
-    "S*EUBZ": "as I say",
-    "S*U": "as you",
-    "S*URP": "as you were",
-    "S*UBGZ": "as you can see",
-    "TPAS": "as if",
-    "SPOB": "as possible",
-    "SW-L": "as well", // cf. SW-LS "as well as"
-
-    // "as ... as"
-    // The most common ones already work beautifully:
-    // AS WELL AS  155949  SW-LS / SW*ELS  (SWELS)
-    // AS LONG AS   57042  SHROPBGS        (SLONGS)
-    // AS MUCH AS   49462  SPHUFPS         (SMUCHS)
-    // AS SOON AS   42046  SAOPBS          etc.
-    // AS FAR  AS   41940  STPARS
-    // AS GOOD AS   11733  STKPWAODZ
-    // AS MANY AS   10931  SPHAEPBS
-    // AS FAST AS    7145  STPAFTS
-    "STKPW-DZ": "as good as",  // with TKPW-D (custom)
-    "STKPW-TS": "as great as", // with TKPW-T (custom)
-    "STKPWRAETS": "as great as",
-    "SRAELS": "as real as",
-    "SPHALS": "as small as",
-    "SWAEBGS": "as weak as", // cf. STROPBGS "as strong as"
-    "SWELS": "as well as", // use -Z for "swells"
-
-    // "so that ..."
-    "STHAO": "so that",
-    "STHAOT": "so that the",
-    "STHAOEUBG": "so that I can",
-    "STHAOEUBGD": "so that I could",
-    "STHAOUBG": "so that you can",
-    "STHAOUBGD": "so that you could",
-    "STHAOEBG": "so that he can",
-    "STHAOEBGD": "so that he could",
+    "TWOP": "two people",
+    "THRAOEP": "three people",
+    "TPOURP": "four people",
+    "TPAOEUFP": "five people",
 
     // "... about"
-    // Instead of -BT, use -B, which
-    // 1) can be thought of as a mirror image of B (PW) for "about";
-    // 2) leaves room for -T for "the".
+    // Instead of -BT, use -B, which can be thought of as a
+    // mirror image of PW and leaves room for -T for "the".
     "AUB": "all about", // use SAUB for {sub^}
     "AUBT": "all about the",
     "PWREUB": "bring about",
@@ -2570,7 +2546,48 @@
     "WHAB": "what about",
     "WHABT": "what about the", // by default "what about"
 
-    // "... else"
+    // Miscellaneous
+    "AEULT": "a lot", // instead of HROELT
+    "AEUFLT": "a lot of",
+    "HRAEUL": "a little",
+    "HRAEUFL": "a little of",
+    "HRAEUBT": "a little bit", // "alibit"
+    "HRAEUFBT": "a little bit of",
+    "AEUBT": "a bit",
+    "AEUFBT": "a bit of",
+
+    "TPRAEFD": "afraid of", // misstroke for "afraid"
+    "STR-F": "center of",
+    "SKAEUFRD": "scared of",
+    "SEFT": "set of",
+    "SUFPL": "sum of",
+    "TAOEUFPL": "time of",
+    "WHOEFL": "whole of",
+
+    "SKPAF": "and a half",
+    "SKPAEUFLT": "and a lot of",
+    "SKPAUFL": "and all of",
+    "SKPAULT": "and all the",
+    "SKPAUFLT": "and all of the",
+    "SKPHR-S": "and also",
+    "SKPAOEPB": "and even",
+    "SKP-Z": "and has",
+    "SKPHEP": "and help",
+    "SKPHAOER": "and here",
+    "SKPHAOERS": "and here is",
+    "SKPHAO*ERS": "and here's",
+    "SKPHEUS": "and his",
+    "SKPHER": "and her",
+    "SKPHOU": "and how",
+    "SKPOER": "and other",
+    "SKPOUR": "and our",
+    "SKPAOPB": "and so on",
+    "SKP-PBT": "and then the",
+    "SKP-PB": "and then",
+    "SKPHR": "and will", // or use SKP-L
+    "SKPHR-B": "and will be",
+    "SKPHR-BT": "and will be the",
+
     "TPHEUBLS": "anybody else", // standard
     "TPHEUPBLS": "anyone else", // standard
     "TPHEULGS": "anything else",
@@ -2587,84 +2604,35 @@
     "SWUPBLS": "someone else", // standard
     "SPHRAEULS": "someplace else",
     "S-LGS": "something else",
-    "SWHR-LS": "somewhere else", // cf. WHR "where" (see phrasing)
+    "SWHR-LS": "somewhere else",
 
-    // "... of"
-    "TPRAEFD": "afraid of", // misstroke for "afraid"
-    "STR-F": "center of",
-    "SKAEUFRD": "scared of",
-    "SEFT": "set of",
-    "SUFPL": "sum of",
-    "TAOEUFPL": "time of",
-    "WHOEFL": "whole of",
+    "S*LGTS": "as a",
+    "S*T": "as the",
+    "S*EU": "as I", // give up "si"
+    "S*EUBZ": "as I say",
+    "S*U": "as you",
+    "S*URP": "as you were",
+    "S*UBGZ": "as you can see",
+    "TPAS": "as if",
+    "SPOB": "as possible",
 
-    // "... up"
-    // Precedents: KHRUP "clean up", SKRUP "screw up", SHUP "shut up"
-    "PWUP": "back up",      // give up "bup", which is not a word
-    "PW*UP": "backup",      // instead of PWA*UP
-    "KPHUP": "come up",
-    "TKPWUP": "go up",      // instead of "give up"
-    "TKPWRUP": "grow up",   // instead of "grown up"
-    "TKPWRAOUP": "grew up", // use TKPW-P for "group" (custom)
-    "PHUP": "make up",
-    "PH*UP": "makeup",
-    "STUP": "set up",       // by default "setup"
-    "ST*UP": "setup",       // consistently add * to suppress space
-    "STPHUP": "sign up",
-    "STPH*UP": "signup",
-    "WUP": "wake up",       // misstroke for "one"
-
-    // "... have no idea"
-    "KWR-FPBD": "I have no idea", // cf. EUFPBD
-    "UFPBD": "you have no idea",  // use UFD for "you find" (custom)
-    "W-FPBD": "we have no idea",
-    "THEFPBD": "they have no idea",
-
-    // Existence
-    "THR-S": "there is",
-    "THR-TS": "there is the",
-    "THR*S": "there's", // standard
-    "THR*TS": "there's the",
-    "THR-R": "there are", // standard
-    "THR-RT": "there are the",
-    "THR*R": "there're",
-    "THR*RT": "there're the",
-    "THR-FS": "there was", // standard
-    "THR-FTS": "there was the",
-    "THR-F": "there have", // use THROF for "thereof"; cf. WR-F "where have", WROF "whereof"
-    "THR-FB": "there have been",
-    "THR-D": "there had",
-    "THR-BD": "there had been",
-    "THR-L": "there will",
-    "THR*L": "there'll", // standard
-
-    "THREUPL": "there I am",
-    "THREUFS": "there I was",
-    "THRUR": "there you are",
-    "THRURP": "there you were",
-    "THRES": "there he is", // use -Z for "threes"
-    "THREFS": "there he was",
-
-    "HAOERS": "here is",
-    "HAOERTS": "here is the",
-    "HAO*ERS": "here's", // standard
-    "HAO*ERTS": "here's the",
-
-    // Amounts
-    "AEULT": "a lot", // the -L in HROELT seems to be completely arbitrary
-    "AEUFLT": "a lot of",
-    "HRAEUL": "a little",
-    "HRAEUFL": "a little of",
-    "HRAEUBT": "a little bit", // "alibit"
-    "HRAEUFBT": "a little bit of",
-    "AEUBT": "a bit",
-    "AEUFBT": "a bit of",
-
-    // Miscellaneous
-    "SKPAF": "and a half",
-    "SKPAOPB": "and so on",
-    "SKP-PB": "and then",
-    "SKP-PBT": "and then the",
+    "STPARS": "as far as",      // standard
+    "STPAFTS": "as fast as",    // standard
+    "STKPWAODZ": "as good as",  // standard
+    "STKPW-DZ": "as good as",   // with TKPW-D (custom)
+    "STKPWRAETS": "as great as",
+    "STKPW-TS": "as great as",  // with TKPW-T (custom)
+    "SHROPBGS": "as long as",   // standard
+    "SPHAEPBS": "as many as",   // standard
+    "SPHUFPS": "as much as",    // standard
+    "SRAELS": "as real as",
+    "SPHALS": "as small as",
+    "SAOPBS": "as soon as",     // standard
+    "STROPBGS": "as strong as", // standard
+    "SWAEBGS": "as weak as",
+    "SW-LS": "as well as",      // standard
+    "SW*ELS": "as well as",     // standard
+    "SWELS": "as well as",      // use -Z for "swells"
 
     "TPWEFT": "at best",
     "THOEPL": "at home", // misstroke for "them"
@@ -2678,8 +2646,37 @@
     "TWORBG": "at work",
     "TWOFRT": "at worst",
 
+    "PWUP": "back up", // give up "bup"
+    "PW*UP": "backup",
+    "KHRUP": "clean up", // standard
+    "KHR*UP": "cleanup", // standard
+    "KPHUP": "come up",
+    "TKPWUP": "go up",    // instead of "give up"
+    "TKPWRUP": "grow up", // instead of "grown up"
+    "TKPWRAOUP": "grew up", // use TKPW-P for "group" (custom)
+    "PHUP": "make up",
+    "PH*UP": "makeup",
+    "SKRUP": "screw up", // standard
+    "STUP": "set up", // by default "setup"
+    "ST*UP": "setup", // overrides "shtup" [1]
+    "SHUP": "shut up", // standard
+    "STPHUP": "sign up",
+    "STPH*UP": "signup",
+    "WUP": "wake up", // misstroke for "one"
+    /*1*/ "SH/TUP": "shtup",
+
     "AOEFRP": "each other",
     "WURPB": "one another",
+
+    "TKPWO": "go to", // use TKPW for "go"
+    "TKPWOG": "going to",
+    "TKPWOBG": "going to be",
+    "TKPWOGT": "going to the",
+    "TKPWOBGT": "going to be the",
+    "STKPWOG": "is going to",
+    "STKPWOBG": "is going to be",
+    "STKPWOGT": "is going to the",
+    "STKPWOBGT": "is going to be the",
 
     "HOUBD": "how bad",
     "HOUGD": "how good",
@@ -2687,6 +2684,31 @@
     "PREUGD": "pretty good", // standard
     "SREBD": "very bad",
     "SREGD": "very good",
+
+    "KWR-FPBD": "I have no idea", // cf. EUFPBD
+    "UFPBD": "you have no idea",  // use UFD for "you find" (custom)
+    "W-FPBD": "we have no idea",
+    "THEFPBD": "they have no idea",
+
+    "SPWAU": "is because",
+    "SPWAUF": "is because of",
+    "SPWAUT": "is because the", // use STUT for "substitute"
+    "SPWAUFT": "is because of the",
+    "STPOT": "is for the",
+    "STPR": "is from",
+    "STPR-LGTS": "is from a",
+    "STPR-T": "is from the",
+    "STPH": "is in",
+    "STPH-LGTS": "is in a",
+    "STPH-T": "is in the", // write out "isn't the"
+    "STPHOU": "is now",
+    "SOEPBL": "is only", // instead of "only is"
+    "STHR-LGTS": "is there a",
+    "STOBT": "is to be the",
+    "SW": "is with",
+    "SW-LGTS": "is with a",
+    "SW-T": "is with the",
+    "SWU": "is with you",
 
     "HREPL": "let me",
     "HR*EPL": "lemme",
@@ -2700,6 +2722,20 @@
 
     "PAEFPLD": "peace of mind",
     "STAEUFPLD": "state of mind",
+
+    "STHAO": "so that",
+    "STHAOT": "so that the",
+    "STHAOEUBG": "so that I can",
+    "STHAOEUBGD": "so that I could",
+    "STHAOUBG": "so that you can",
+    "STHAOUBGD": "so that you could",
+    "STHAOEBG": "so that he can",
+    "STHAOEBGD": "so that he could",
+
+    "SPH-F": "some of",      // instead of SPHOF  "some of"
+    "SPH-FT": "some of the", //            SOFPLT "some of the"
+    "SPH-R": "some are",
+    "SPH-RP": "some were",
 
     "WHOELT": "whole lot",
     "WHOEFLT": "whole lot of",
@@ -2717,7 +2753,7 @@
     "TKPWOEPL": "go home",
     "TKPWROELD": "grow old",
     "TP-LGTS": "if a",
-    "TPE": "if he", // give up "fe", which is not a word
+    "TPE": "if he", // give up "fe"
     "TPOEPBL": "if only",
     "TPHEUS": "in this",
     "TPHURPB": "in turn", // instead of "turn in"
@@ -2734,7 +2770,7 @@
     "TU": "thank you",
     "TKO*": "to do",
     "STKO*": "to do so",
-    "HR-F": "will have", // use HRUF for "love"
+    "HR-F": "will have", // use HROF for "love"
     "HR-FB": "will have been",
     "KWRAOEUZ": "you guys",
 
@@ -2745,14 +2781,6 @@
     "WUFT": "one of the",
     "TWOF": "two of",
     "TWOFT": "two of the",
-
-    // P "people" (reflected along the vertical axis)
-    "TWOP": "two people",
-    "THRAOEP": "three people", // phonetic
-    "THREP": "three people",   // simpler vowel
-    "TPOURP": "four people",
-    "TPAOEUFP": "five people", // phonetic
-    "TPEUFP": "five people",   // simpler vowel
 
     // TH-G "thing"
     "WUPBG": "one thing",
@@ -3012,9 +3040,9 @@
     "ES/KHRAEUGT": "escalating",
     "TPRABG/TAOURD": "fractured",  // or use TPRAFPD
     "TPRABG/TAOURG": "fracturing", //        TPRAFPG
-    "TKPWROEFD": "grossed",  // and get EPB/TKPWROEFD "engrossed" for free
-    "TKPWROESZ": "grosses",  //         EPB/TKPWROESZ "engrosses"
-    "TKPWROEFG": "grossing", //         EPB/TKPWROEFG "engrossing"
+    "TKPWROEFD": "grossed",  // prepend {en^} for "engrossed"
+    "TKPWROESZ": "grosses",  //                   "engrosses"
+    "TKPWROEFG": "grossing", //                   "engrossing"
     "SPWEUPL/TKAEUTD": "intimidated",
     "SPWEUPL/TKAEUTS": "intimidates",
     "SPWEUPL/TKAEUGT": "intimidating",
@@ -3590,9 +3618,15 @@
 
     // -- Punctuation as shapes ------------------------------------------------
 
+    // The Holy Quaternity:
+    // TP-PL {.}
+    // KW-BG {,}
+    // KW-PL {?} (rising  shape or Q-M for "question mark")
+    // TP-BG {!} (falling shape or F-K for "fuck", maybe?)
+
     // Semicolon
-    // TP-PL {.} * 2         = STPH-FPLT {:}
-    // TP-PL {.} + KW-BG {,} = TKPW-PBLG {;}
+    // If   TP-PL {.} * 2 = STPH-FPLT {:},
+    // then TP-PL {.} + KW-BG {,} = ...
     "TKPW-PBLG": "{;}",
 
     // Hyphen and dash
@@ -3602,20 +3636,14 @@
     // Ellipsis
     "-RBGS": "{^...}",
 
-    // Brackets
-    // The closest thing that looks like an open bracket,
-    // KPA, is already used for capitalizing the next word,
-    // so use the next closest thing:
-    //   P               T     L
-    //  K   is used so  S       S
-    //   A                A   U
-    "STA": "{~|(^}", // open bracket
-    "ULS": "{^~|)}", // close bracket
-
     // Quotation marks
     // Use the same fingers you would use for making air quotes.
-    "PH": "{~|\"^}",  // open quote;  use PAEUFP for "pH"
+    "PH": "{~|\"^}",  // open  quote; use PAEUFP for "pH"
     "-FP": "{^~|\"}", // close quote; use TP-PL  for {.}
+
+    // Brackets
+    "WR": "{~|(^}",  // open  bracket; use -RP   for "were"
+    "-RB": "{^~|)}", // close bracket; use KW-BG for {,}
 
     // -- Commands -------------------------------------------------------------
 
@@ -3730,14 +3758,6 @@
     "A/SAFPBT": "assassinate",
     "A/SAFPBGS": "assassination",
 
-    "PWHRUPT": "blueprint", // standard
-    "TPAOPT": "footprint",
-    "TPEURPT": "fingerprint",
-
-    "PWRAOEFBGS": "briefcase",
-    "SHOEBGS": "showcase",
-    "STAEURBGS": "staircase",
-
     "KPHAOUFT": "communist",
     "KPHAO*UFT": "Communist",
     "KPHAOUFPL": "communism",
@@ -3752,6 +3772,10 @@
     "KPREF": "comprehensive", // use KPEF for "competitive"
     "KPREFL": "comprehensively",
     "KPREFPBS": "comprehensiveness",
+
+    "KAUFPB/TKEPBT": "confident", // standard
+    "KAUFPB/TKAPBT": "confidant", // by default "confidante"
+    "KAUFPB/TKA*PBT": "confidante",
 
     "KREB": "credible",      // cf. PROB   "probable"
     "KREBL": "credibly",     // cf. PROBL  "probably"; use KRET/-BL for "creditable"
@@ -3798,6 +3822,13 @@
     "KPRAOEL": "extremely",
     "KPREPLT": "extremity",
 
+    "TPEUG": "fig", // overrides "figure"
+    "TPEURG": "figure",
+    "TPEURG/TEUF": "figurative",
+    "TPEURG/TEUFL": "figuratively",
+    "KAUPB/TPEUG": "config",
+    "KAUPB/TPEURG": "configure", // standard
+
     "TPREUF": "forgive",
     "TPRAEUF": "forgave", // cf. TKPWAEUF "gave"
     "TPREUFD": "forgave",
@@ -3811,9 +3842,6 @@
     "TPROT": "forgot",
     "TPROPB": "forgotten",
     "TPREFL": "forgetful",
-
-    "HAEURBGT": "haircut",
-    "SHORBGT": "shortcut",
 
     "HAEP": "happy", // standard
     "HAEPL": "happily",
@@ -4050,15 +4078,6 @@
     "PWRAOUS": "bruise",
     "PWRAOUZ": "brews",
 
-    // TPEUG   "figure"
-    // TPEUGZ  "figs"    -> "figures"
-    // TP*EUG  "fig"
-    // TP*EUGZ "fission" -> "figs"
-    // TPEUGS  "figures" -> "fission"
-    "TPEUGZ": "figures",
-    "TP*EUGZ": "figs",
-    "TPEUGS": "fission",
-
     // HRAOEFT  "least"
     // THRAOEFT "at least"
     // HRAEFT              -> "least"
@@ -4119,6 +4138,7 @@
     // -- Vocabulary -----------------------------------------------------------
 
     "ART/SEU/TPART/SEU": "artsy-fartsy",
+    "KHARPBL": "charnel",
     "TKO/TKO": "dodo",
     "TKOE/TKOE": "dodo",
     "TKO*PB": "don", // - * = "done"; prepend KPA for "Don"
@@ -4127,6 +4147,7 @@
     "AOEF": "eve", // add * for "Eve" [1]
     "KEPB": "ken", // add * for "Ken"
     "HRAO*EUT": "lithe", // give up "lite"
+    "PHOEUL": "moil",
     "TPHEUPL/ROD": "nimrod",
     "TPRAEUFL": "phrasal",
     "WAOERG": "Uighur", // use W*R for "we're"
@@ -4296,13 +4317,6 @@
     "TK-RB": "diminish", // use -FPLT for dash (custom)
     "TP-RB": "finish",
     "SR-RB": "vanish",
-
-    // Normally -cide is -DZ (S-DZ "suicide", H-DZ "homicide"),
-    // but use -D for very common words often suffixed with -s.
-    "PW-D": "beside",   // give up "pwd"
-    "PW-DZ": "besides", // standard
-    "TK-D": "decide",   // give up {^ded}
-    "TK-DZ": "decides", // by default "decide"
 
     // Double to join with "and"
     "TKPWEPB/TKPWEPB": "again and again",
