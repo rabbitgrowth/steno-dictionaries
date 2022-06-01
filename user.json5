@@ -4108,6 +4108,14 @@
     "PHORLT": "mortal",
     "EUPL/PHORLT": "immortal",
 
+    // PERP   "perp"   -> "pepper"
+    // P*ERP           -> "perp"
+    // PAOERP "pepper" -> "peeper"
+    "PERP": "pepper",
+    "P*ERP": "perp", // * associated with contractions
+    "PAOERP": "peeper",
+    "SPERP": "salt and pepper", // instead of SKPEP
+
     // PER/EUL "peril"
     // PERL    "pearl"     -> "peril"
     // PAERL   "parole"    -> "pearl"
