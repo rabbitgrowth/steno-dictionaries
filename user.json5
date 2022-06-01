@@ -826,6 +826,13 @@
     // "Why does my cat lick me?"
     "KAT/HREUBG": "cat lick", // use KA*T/HREUBG for "Catholic"
 
+    // "The cost fell on us"
+    "TPEL/OPB/US": "fell on us",
+    "TPHROEPBS": "felonious",
+    "TPHROEPB/KWROUS": "felonious",
+    "TPHROPBS": "felonious",
+    "TPHROPB/KWROUS": "felonious",
+
     // "Why does time pass so quickly?"
     "PAS/SO": "pass so", // give up "Paso" on its own
     "EL/PA/SO": "El Paso",
