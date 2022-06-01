@@ -1334,13 +1334,13 @@
     "STUFRBL": "stumble",
 
     // -FRL for -məl
-    "AFRL": "animal", // use SRAOEUFL for "arrival" (custom)
     "KAFRL": "camel",
     "AOE/TPHAFRL": "enamel",
     "PRAOEUFRL": "primal",
     "PUFRL": "pummel",
 
     // Miscellaneous
+    "AFRPBL": "animal",
     "TKAOEUFRBG": "dynamic", // instead of TKPHAOEUBG
     "AOEFRL": "email",
     "STOFRBG": "stomach",
