@@ -867,6 +867,10 @@
     "TRAPBZ": "{trans^}", // standard
     "TRAPBZ/TKPWREGS": "transgression",
 
+    "-RPB": "under",
+    "*RPB": "{under^}",
+    "*RPB/TPHAO*ET": "underneath",
+
     // Add * for prefix
     // Precedent: OEUT "auto", O*EUT {auto^}
     "KOURPBT": "counter", // swap with {counter^}
@@ -3991,9 +3995,6 @@
     "STPHEUPL": "synonym",
     "STPHOPLS": "synonymous", // cf. TPHOPLS "anonymous"
 
-    "-RPB": "under",
-    "*RPB": "{under^}",
-    "*RPB/TPHAO*ET": "underneath",
     "STKAPBD": "understand", // URPBD is "you understand" (see phrasing/)
     "STKAPBG": "understanding",
     "STKAOD": "understood",
