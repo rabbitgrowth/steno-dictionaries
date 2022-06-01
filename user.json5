@@ -2670,6 +2670,15 @@
     "SREBD": "very bad",
     "SREGD": "very good",
 
+    "KWR-FGD": "I have got",
+    "AOEUFGD": "I've got",
+    "UFGD": "you have got",
+    "*UFGD": "you've got",
+    "W-FGD": "we have got",
+    "W*FGD": "we've got",
+    "THEFGD": "they have got",
+    "TH*EFGD": "they've got",
+
     "KWR-FPBD": "I have no idea", // cf. EUFPBD
     "UFPBD": "you have no idea",  // use UFD for "you find" (custom)
     "W-FPBD": "we have no idea",
