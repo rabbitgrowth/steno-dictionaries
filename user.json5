@@ -715,7 +715,7 @@
     "HUR": "hurry", // should not cause word boundary errors;
                     //   HUR/KAEUPB "hurry cane" ("hurricane")
                     //   HUR/RAEU   "hurry ray"  ("hurray")
-                    // don't seem possible
+                    // seem unlikely
     "HRAURPBD": "laundry",
     "STURD": "sturdy", // "stur-D"
 
@@ -825,6 +825,10 @@
 
     // "Why does my cat lick me?"
     "KAT/HREUBG": "cat lick", // use KA*T/HREUBG for "Catholic"
+
+    // "Did you buy it?"
+    "TKU/PWAOEU": "did you buy",
+    "TKAOU/PWAOEU": "Dubai", // "due buy" seems unlikely
 
     // "The cost fell on us"
     "TPEL/OPB/US": "fell on us",
