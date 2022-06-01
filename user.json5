@@ -820,15 +820,18 @@
 
     // -- Word boundary errors -------------------------------------------------
 
-    "K/TPHOT": "can not", // "you can not only ... but also ...";
-                          // use K-PLT for "cannot" (custom)
+    // "You can not only ..."
+    "K/TPHOT": "can not", // use K-PLT for "cannot" (custom)
 
+    // "Why does my cat lick me?"
     "KAT/HREUBG": "cat lick", // use KA*T/HREUBG for "Catholic"
 
+    // "Why does time pass so quickly?"
     "PAS/SO": "pass so", // give up "Paso" on its own
     "EL/PA/SO": "El Paso",
 
-    "TOPL/PHEU": "Tom my", // "I gave Tom my number"
+    // "I gave Tom my number"
+    "TOPL/PHEU": "Tom my",
     "TOPL/KWREU": "Tommy", // cf. SKWREUPL/KWREU "Jimmy"; give up {^tomy}
 
     // -- Affixes --------------------------------------------------------------
