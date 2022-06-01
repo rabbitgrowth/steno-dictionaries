@@ -48,8 +48,6 @@
     "KW-T": "quiet", // lack of vowels feels quiet; compare KWAOEUT "quite"
     "KW-LT": "quietly",
     "TH-G": "thing", // TH/TH-G "this thing" and TH-GZ "things" are nice
-    "-RPB": "under",
-    "*RPB": "{under^}",
     "SR-L": "value",
     "SR-BL": "valuable",
     "SR-LGS": "valuation",
@@ -3993,11 +3991,10 @@
     "STPHEUPL": "synonym",
     "STPHOPLS": "synonymous", // cf. TPHOPLS "anonymous"
 
-    "URPBD": "understand",  // standard
-    "URPBG": "understanding",
-    "*URPBD": "understood", // standard
-    "URPBD/-D": "understood",
-    "STKAPBD": "understand",
+    "-RPB": "under",
+    "*RPB": "{under^}",
+    "-RPBD": "understand",
+    "STKAPBD": "understand", // URPBD is "you understand" (see phrasing/)
     "STKAPBG": "understanding",
     "STKAOD": "understood",
     "PHURPBD": "misunderstand", // cf. PHURPBGD "misunderstanding"
