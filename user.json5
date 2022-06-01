@@ -211,6 +211,7 @@
     "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
     "SRERBGTS": "vectors",      // with SRERBGT "vector"; use SRERDZ for "verdicts"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
+    "KWRAOEFRLD": "years old",  // with KWRAOERLD {^-year-old}; instead of KWRAERLDZ
     "SAEUGS": "{^isation}",     // with SA*EUGS {^ization}
     "O*UR": "{^our}",           // with O*R {^or}
     "PAUFT": "{post^}",         // with KAUPB "con-", AUFR "over-"
@@ -256,6 +257,7 @@
     "PWUFPL": "bosom",
     "PWRAOD": "brood", // use PWROD for "broad"
     "KREUFPLS": "Christmas",
+    "KAEU/KWREPB": "cayenne", // in addition to KAOEU/KWREPB
     "KHRAPBD/STEUPB": "clandestine",
     "KAUPB/STAPBS/KWREU": "constancy", // or use "constant" + {^cy}
     "TKHREURBT": "deliberate", // with -R
@@ -1061,6 +1063,7 @@
     "PWHRAOERBG": "bleaker", // cf. PWAOERBG "beaker"
     "PWHRURPBD": "blunder",
     "PWORBGS": "boxer",
+    "KAEURP": "caper",
     "KHARLG": "challenger",
     "KHERBG": "checker",
     "SEURPBD": "cinder",
@@ -2746,6 +2749,7 @@
     "SKHER": "ask her",
     "SKHEUPL": "ask him",
     "TA*UL": "at all", // - * = "tall"; give up {^-tall}
+    "KPAOUFPL": "excuse me", // alternative to KPUPL
     "TPROUT": "figure out",
     "TPOU": "for you",
     "TKPWOEPL": "go home",
@@ -3447,6 +3451,7 @@
     "SR-PLT": "have not", // give up {&v-}
     "SHOPLT": "should not",
     "HR-PLT": "will not", // give up {&l-}
+    "WOPLT": "would not",
 
     // Use -PLT for "not" even when there's no -n't form
     // cf. TP-PBLT  "if not"
@@ -4147,6 +4152,8 @@
     "WAOERG": "Uighur", // use W*R for "we're"
     "STOLD": "stolid",    // cf. SOL/EUD "solid"
     "STOL/EUD": "stolid", // cf. SOLD    "solid"
+    "THREPBD": "threnody", // misstroke for "lend it"
+    "THREPB/TKEU": "threnody",
     "SR*EUZ": "viz.", // - * = "advise"
     "W*URT": "wuther",
     /*1*/ "AO*EF": "Eve", // use A*EF for "eave"
