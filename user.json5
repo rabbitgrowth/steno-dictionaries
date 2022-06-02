@@ -948,6 +948,8 @@
     // since I've defined ARD as "around". But even though ORPBG is "orange",
     // that doesn't mean I have to use -RPBG for "range". Granted, "round"
     // and "around" are much more closely related than "range" and "orange".
+    "UT/-R": "utter",
+    "UT/-RL": "utterly",
     "TPAOEUR/KRABG/-R": "firecracker",
 
     // -- Folding in -----------------------------------------------------------
