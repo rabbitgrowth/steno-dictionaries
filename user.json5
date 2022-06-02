@@ -820,7 +820,7 @@
 
     // -- Word boundary errors -------------------------------------------------
 
-    // "You can not only ..."
+    // "You can not only buy but also sell"
     "K/TPHOT": "can not", // use K-PLT for "cannot" (custom)
 
     // "Why does my cat lick me?"
