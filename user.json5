@@ -752,7 +752,7 @@
     "SA*EL": "zeal",  // use SAOEL for "seal"
 
     // Miscellaneous
-    "SRAE": "area",
+    "SRAE": "area", // wildcard S
 
     "STKAE": "idea",   // KWR-D "I had"
     "STKAEL": "ideal", // KWR-L "I will", KWR-LD "I would" (see phrasing/)
