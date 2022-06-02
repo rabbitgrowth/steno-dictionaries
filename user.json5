@@ -1418,6 +1418,7 @@
     "SPWUBGS": "induction", // use STAR/PWUBGZ for "Starbucks"
     "SPWULG": "indulge",
     "SPWULGS": "indulgence", // use -Z for "indulges"
+    "SPWULGT": "indulgent",
 
     "SPWHRAEUT": "undulate",
     "SPWHRAEUGS": "undulation",
