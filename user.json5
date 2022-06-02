@@ -321,6 +321,12 @@
     /*1*/ "PR-FRP": "purchaser", // from PR-FP "purchase"
     /*2*/ "STPHAT/KWRA": "sonata", // or use SO/TPHA/TA
 
+    "TKPWUPB": "gun",     // overrides "begun"
+    "TKPWAOUPB": "begun", // overrides "guan"
+    "KWAPB": "quan",      // give up "Quan"
+    "TKPWURPB": "gunner",
+    "TKPWAUPB": "{gun^}",
+
     // Phonetic alternatives to briefs
     "SERT/EUFBGT": "certificate", // to SER
     "SER/TEUFBGT": "certificate",
@@ -1089,8 +1095,6 @@
     "TPAURLT": "falter", // cf. AURLT "alter"
     "TPEUL/PWUFRT": "filibuster",
     "TPRAEURPL": "framer",
-    "TKPW-RPB": "gunner", // from TKPW-PB "gun"
-    "TKPWURPB": "gunner",
     "HEURPBD": "hinder",
     "HEURPBTD": "hindered",
     "HEURPBGD": "hindering",
@@ -2897,7 +2901,6 @@
     "TKOE/TPHUTS": "doughnuts",
     "TKROP/HRETS": "droplets",
     "TKPWRAEUP/TPRAOUTS": "grapefruits",
-    "TKPW-PB/SHOTS": "gunshots",
     "HRAUR/KWRATS": "laureates",
     "PHOD/RATS": "moderates",
     "PHUFBG/RATS": "muskrats",
@@ -4496,7 +4499,6 @@
 
     // Impossible inflections
     "TPAEURLZ": "failures", // "fairlies"
-    "TKPWUPBZ": "guns",     // "beguns"
     "HAOEURZ": "hires",     // "highers"
     "HAOEURG": "hiring",    // "higherring"
     "PHAOETD": "meted",     // "meeted"
