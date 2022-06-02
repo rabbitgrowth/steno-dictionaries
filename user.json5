@@ -749,17 +749,17 @@
     "KWRAERPB": "yearn",
     "SA*EL": "zeal",  // use SAOEL for "seal"
 
-    // With wildcard S
+    // Miscellaneous
     "SRAE": "area",
-    "STKAE": "idea",
-    "STKAEL": "ideal",
 
-    // For disambiguation
+    "STKAE": "idea",   // KWR-D "I had"
+    "STKAEL": "ideal", // KWR-L "I will", KWR-LD "I would" (see phrasing/)
+
     "ROUF": "rough",    // standard
-    "ROUFL": "roughly", // vs RUFL "ruffle"
+    "ROUFL": "roughly", // RUFL "ruffle"; cf. ROUF "rough"
 
-    "SKREPB": "scene",     // SAOEPB is "seen" and SKRAOEPB is "screen"
-    "SKRAO*EUT": "scythe", // SAO*EUT is "site" since SAOEUT is "sight"
+    "SKREPB": "scene",     // SAOEPB "seen", SKRAOEPB "screen"
+    "SKRAO*EUT": "scythe", // SAOEUT "sight", SAO*EUT "site"
 
     // -- Anagrams -------------------------------------------------------------
 
