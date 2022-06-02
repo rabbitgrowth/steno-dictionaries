@@ -4300,6 +4300,7 @@
     "HRAO*EULG": "lilac", // *LG for "lk" with vowel in between
     "O/ER": "o'er",
     "PO*EUPB": "piano",   // wildcard OEU; - * = "appoint"
+    "-PLS": "please",
     "-PT": "want",        // standard phrase ender used on its own
 
     // O*ERBGS "oh" seems crazy but actually has some logic to it:
