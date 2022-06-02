@@ -1622,6 +1622,7 @@
     "STKORGS": "distortion", // standard
     "STKREUBT": "distribute", // standard
     "STKREUBGS": "distribution",
+    "STKREURBT": "distributor",
     "STKREUBGT": "district", // come back for -G for "distributing"
     "STKRUFT": "distrust",
 
