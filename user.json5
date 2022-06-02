@@ -328,28 +328,18 @@
     "TKPWAUPB": "{gun^}",
 
     // Phonetic alternatives to briefs
-    "SERT/EUFBGT": "certificate", // to SER
-    "SER/TEUFBGT": "certificate",
-    "STEUFBGT": "certificate",
     "KAUPB/TKURBGT": "conductor", // to KURBGT
     "KUFPB": "cousin",            // to KUZ
     "KPEBG/TEUF": "executive",    // to SKAOUF
     "EUPB/SEPBT": "innocent",     // to TPH-PBT; use EUPB/SEFPBT for "incessant"
     "SPWREFT": "interest",        // to TR
+    "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
     "TPHAEURB": "neighbor",       // to TPHAEUB
-    "PROFBGT": "prosecute",       // to PR-T
-    "PROFBGS": "prosecution",
-    "PROFRBGT": "prosecutor",
     "SEUFRT": "sister",           // to ST-R
 
-    "STKREUBGS": "distribution", // to TKR-BGS; cf. STKREUBT "distribute"
-    "STKREUBGT": "district",     // to TKR-T; use TKR-BG for "distributing"
-
-    "SPWEUBGT": "indicate",   // to KA*EUT
-    "SPWEUBGS": "indication", // to KA*EUGS
-    "SPWEURBGT": "indicator", // to KOERT; KA*EURT is {^-carat}
-
-    "EUPB/SREFT/TKPWAEUGS": "investigation", // to SREGS
+    "SERT/EUFBGT": "certificate", // to SER
+    "SER/TEUFBGT": "certificate",
+    "STEUFBGT": "certificate",
 
     // -- Approximately phonetic -----------------------------------------------
 
@@ -417,6 +407,9 @@
     "EURGS": "ignorance",
     "HRAOUGS": "illusion", // use HRAOUFG for "losing"
     "HRAOUS/REU": "illusory",
+    "SPWEUBGT": "indicate",   // alternative to KA*EUT
+    "SPWEUBGS": "indication", // alternative to KA*EUGS
+    "SPWEURBGT": "indicator", // alternative to KOERT (KA*EURT is {^-carat})
     "SHU": "issue",
     "SHUD": "issued", // use SHO for "should"
     "HREPB": "lesson",   // to disambiguate from HREFPB "eleven"
@@ -437,6 +430,9 @@
     "PHROERBL": "potentially",
     "PROFBL": "profitable",
     "PROPGD": "propaganda",
+    "PROFBGT": "prosecute", // alternative to PR-T
+    "PROFBGS": "prosecution",
+    "PROFRBGT": "prosecutor",
     "PREFT": "protest", // give up "previous to"
     "PREFRT": "protester",
     "PURPT": "purport",
@@ -1624,6 +1620,9 @@
     "STKWAEUGS": "dissuasion",
     "STKORT": "distort",     // give up "accident report"
     "STKORGS": "distortion", // standard
+    "STKREUBT": "distribute", // standard
+    "STKREUBGS": "distribution",
+    "STKREUBGT": "district", // come back for -G for "distributing"
     "STKRUFT": "distrust",
 
     "STKEPGS": "deception",
