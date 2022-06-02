@@ -1723,12 +1723,15 @@
     "STKWAPBG": "disadvantage",
     "STKWAPBGS": "disadvantageous",
     "TKWEPBT": "advent",       // misstroke for "divinity"
-    "TKWEPBG": "adventure",    // frees up SREPBG for "venture" [2]
+    "TKWEPBG": "adventure",    // frees up SREPBG ...
+    "TKWEFRPB": "adventure",   // ... and SREFRPB for "venture" [2]
     "TKWEPBGS": "adventurous", // use -Z for "adventures"
+    "TKWEFRPBS": "adventurous",
     "TKWERB": "adverb",
     "TKWERBL": "adverbial",
     /*1*/ "SRAPBG": "vantage",
     /*2*/ "SREPBG": "venture",
+          "SREFRPB": "venture",
 
     // TPH for in-
     // Precedents: TPHERT "inert", TPHEURBL "initial"
