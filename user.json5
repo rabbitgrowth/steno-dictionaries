@@ -372,6 +372,7 @@
     "KOERPBD": "correspond",
     "KOERPBT": "correspondent",
     "KURPB": "curtain",
+    "KUFTD": "custody",
     "TKHRAEUR": "declare",
     "TKHRAOEUPB": "decline", // give up "midline"; could also be "deadline"
     "TKAOEFT": "defeat", // use TKEFBGT for "defect"
@@ -743,6 +744,7 @@
     "PHRAED": "plead",
     "RAEFP": "reach",
     "SKRAEPL": "scream",
+    "SPHAER": "smear",
     "STRAEPL": "stream",
     "SWAET": "sweat", // use SWAT for "swat"
     "TAEFP": "teach",
@@ -2774,6 +2776,7 @@
     "KPAOUFPL": "excuse me", // alternative to KPUPL
     "TPROUT": "figure out",
     "TPOU": "for you",
+    "TPRAOEUPLT": "from time to time", // instead of TPREUPLT
     "TKPWOEPL": "go home",
     "TKPWROELD": "grow old",
     "TP-LGTS": "if a",
@@ -3323,6 +3326,7 @@
     "PRAOUFPB": "Peruvian",
     "RUGS": "Russian", // use -Z for "rugs"
     "U/SRAELD": "Uvalde",
+    "WAOFRT": "Worcester",
 
     // Demonyms
     "TPEUL/PEUPB/KWRA": "Filipina",
