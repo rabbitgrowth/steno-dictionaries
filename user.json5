@@ -1720,9 +1720,11 @@
     "TKPHEUBGS": "admix", // use -Z for "academics"; AD/PHEUBGS remains "add mix" ("add mix to the bowl")
     "TKWAPBG": "advantage",     // frees up SRAPBG for "vantage" [1]
     "TKWAPBGS": "advantageous", // use -Z for "advantages"
-    "TKWEPBT": "advent",        // misstroke for "divinity"
-    "TKWEPBG": "adventure",     // frees up SREPBG for "venture" [2]
-    "TKWEPBGS": "adventurous",  // use -Z for "adventures"
+    "STKWAPBG": "disadvantage",
+    "STKWAPBGS": "disadvantageous",
+    "TKWEPBT": "advent",       // misstroke for "divinity"
+    "TKWEPBG": "adventure",    // frees up SREPBG for "venture" [2]
+    "TKWEPBGS": "adventurous", // use -Z for "adventures"
     "TKWERB": "adverb",
     "TKWERBL": "adverbial",
     /*1*/ "SRAPBG": "vantage",
