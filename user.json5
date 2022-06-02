@@ -837,6 +837,9 @@
     "TPHROPBS": "felonious",
     "TPHROPB/KWROUS": "felonious",
 
+    // "It's the actor's first day on set"
+    "OPB/SET": "on set", // use AUPB/SET for "onset"
+
     // "Why does time pass so quickly?"
     "PAS/SO": "pass so", // give up "Paso" on its own
     "EL/PA/SO": "El Paso",
