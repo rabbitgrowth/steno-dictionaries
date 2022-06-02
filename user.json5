@@ -749,6 +749,11 @@
     "KWRAERPB": "yearn",
     "SA*EL": "zeal",  // use SAOEL for "seal"
 
+    // With wildcard S
+    "SRAE": "area",
+    "STKAE": "idea",
+    "STKAEL": "ideal",
+
     // For disambiguation
     "ROUF": "rough",    // standard
     "ROUFL": "roughly", // vs RUFL "ruffle"
@@ -1014,6 +1019,7 @@
     "SKROS": "across",
     "STPORD": "afford",
     "SHROEPB": "alone", // HRAOEPB is "lean"; overrides "Sloan" [1]
+
     "SHROUD": "aloud",  // add * for "shroud", like SHRUG "slug", SHR*UG "shrug"
     "SPART": "apart",
     "SRAOEUF": "arrive",
@@ -4288,7 +4294,6 @@
     // -- Miscellaneous --------------------------------------------------------
 
     "SKW": "and",         // SKP with P moved down
-    "KWRAEUR": "area",    // /ˈɛːrj/
     "SPWAR": "bizarre",   // allow dropping * for "z" because of PW in between
     "PWOEUR": "bury",     // OEU to reflect weirdness of "u" being pronounced /ɛ/
     "KAUFT": "caste",     // AU for /ɑː/
