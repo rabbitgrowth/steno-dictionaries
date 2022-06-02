@@ -382,6 +382,8 @@
     "TKHRAEUR": "declare",
     "TKHRAOEUPB": "decline", // give up "midline"; could also be "deadline"
     "TKAOEFT": "defeat", // use TKEFBGT for "defect"
+    "TKPHARBGT": "demarcate",
+    "TKPHARBGS": "demarcation",
     "TKEFLT": "desolate", // use TKAOEFLT for "default"
     "TKEFLGS": "desolation",
     "TKOPBT": "donate", // use TKUPT for "doesn't" (custom)
