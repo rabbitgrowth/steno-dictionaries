@@ -821,10 +821,12 @@
     "SAOE/KWRA": "see ya",
     "STEPG/STOEPB": "stepping stone",
 
-    "SPH/TKAEU": "some day",     // use SPH-D    for "someday"
+    "SPH/TKAEU": "some day",     // use SPH-D for "someday"
     "SPH/PHRAEUS": "some place", // use SPHRAEUS for "someplace"
     "SPH/TAOEUPL": "some time",  // use STAOEUPL for "sometime"
     "SPH/WAEU": "some way",      // use SPH/WA*EU ("some" + {^way}) for "someway"
+    "SPH/WHA": "some what",      // use SWHA for "somewhat"
+                                 // ("I made some pho." "Some what?")
 
     // -- Word boundary errors -------------------------------------------------
 
