@@ -934,7 +934,7 @@
     "*D": "{^'d}",  // standard
     "*L": "{^'ll}", // swap with {^le} [1]
     "*R": "{^'re}",
-    "*S": "{^'s}",  // use -S for {^s}
+    "*S": "{^'s}",  // use -S or -Z for {^s}
     "*F": "{^'ve}", // use -F for "of"
     /*1*/ "-L": "{^le}",
 
