@@ -2311,9 +2311,6 @@
     // Miscellaneous
     "THRAOET": "athlete",
     "PWRER": "barrier",            // give up "breast cancer"
-    "AOEGS": "emotion",            // use SERBL   for "essential"
-    "AOELGS": "emotional",         // use SHRERBL for "essentially"
-    "HRAOELGS": "emotionally",
     "TERPBL": "eternal",
     "TERPBT": "eternity",
     "EFLT": "evaluate",            // misstroke for {^est}
@@ -2359,6 +2356,12 @@
     "TK*G": "diagnose",
     "TK*GS": "diagnosis", // just for consistency; TK-GS works too
     "TK*GZ": "diagnoses",
+
+    "AOEGS": "emotion",    // use SERBL   for "essential"
+    "AOELGS": "emotional", // use SHRERBL for "essentially"
+    "HRAOELGS": "emotionally",
+    "AOEGS/HREU": "emotionally",
+    "AOELGS/HREU": "emotionally",
 
     "TREUPBG": "intrinsic", // the * is probably for the -nk sound,
                             // but I think briefs don't have to be
