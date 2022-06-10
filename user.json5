@@ -727,19 +727,19 @@
 
     // -FS for -h
     "AFS": "ah",
-    "EFS": "eh",
-    "OFS": "oh",
+    "EFS": "eh", // use H-FS for "he was" (see phrasing/)
     "UFS": "uh",
+    "OEFS": "oh", // OFS is "office"
     "AOFS": "ooh",
-    "HAFS": "hah",
-    "HEFS": "heh",
+    "HAFS": "hah", // use -Z for "halves"
+    "HEFS": "heh", // use H-FS for "he was"
     "HUFS": "huh",
     "TKUFS": "duh",
-    "PHEFS": "meh",
+    "PHEFS": "meh", // come back for -S for "messes"
     "TPHAFS": "nah",
     "PWRUFS": "bruh",
     "PWHRAFS": "blah",
-    "PWHREFS": "bleh",
+    "PWHREFS": "bleh", // use -Z for "believes"
     "UFS/OFS": "uh-oh",
 
     // Use AE for "ea" as an orthographic alternative
