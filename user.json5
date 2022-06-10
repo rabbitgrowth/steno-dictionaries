@@ -725,22 +725,22 @@
 
     // -- Orthographic ---------------------------------------------------------
 
-    // -FDZ for -h
-    "AFDZ": "ah", // give up "affidavits"
-    "EFDZ": "eh",
-    "OFDZ": "oh",
-    "UFDZ": "uh",
-    "AOFDZ": "ooh",
-    "HAFDZ": "hah",
-    "HEFDZ": "heh",
-    "HUFDZ": "huh",
-    "TKUFDZ": "duh",
-    "PHEFDZ": "meh",
-    "TPHAFDZ": "nah",
-    "PWRUFDZ": "bruh",
-    "PWHRAFDZ": "blah",
-    "PWHREFDZ": "bleh",
-    "UFDZ/OFDZ": "uh-oh",
+    // -FS for -h
+    "AFS": "ah",
+    "EFS": "eh",
+    "OFS": "oh",
+    "UFS": "uh",
+    "AOFS": "ooh",
+    "HAFS": "hah",
+    "HEFS": "heh",
+    "HUFS": "huh",
+    "TKUFS": "duh",
+    "PHEFS": "meh",
+    "TPHAFS": "nah",
+    "PWRUFS": "bruh",
+    "PWHRAFS": "blah",
+    "PWHREFS": "bleh",
+    "UFS/OFS": "uh-oh",
 
     // Use AE for "ea" as an orthographic alternative
     // Precedents: KRAOET, KRAET "create"; SPAOEBG, SPAEBG "speak"
