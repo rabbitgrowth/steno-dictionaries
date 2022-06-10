@@ -2573,6 +2573,19 @@
     "AEUBT": "a bit",
     "AEUFBT": "a bit of",
 
+    "KRAO": "according to",
+    "KRAOT": "according to the",
+    "TPHRAO": "in order to", // misstroke for "into"
+    "TPHRAOB": "in order to be",
+    "TPHRAOBT": "in order to be the",
+    "SPAO": "supposed to",
+    "SPAOB": "supposed to be",
+    "SPAOBT": "supposed to be the",
+    "SPAOFB": "supposed to have been",
+    "SPAOFBT": "supposed to have been the",
+    "WHAO": "when it comes to", // give up "whoo"
+    "WHAOT": "when it comes to the",
+
     "TPRAEFD": "afraid of", // misstroke for "afraid"
     "STR-F": "center of",
     "SKAEUFRD": "scared of",
@@ -4374,20 +4387,6 @@
     // but SEURP is the only one that matches my pronunciation.
     "SURP": "supper",
     "SEURPL": "simmer",
-
-    // Two consonants + AO for "... to"
-    "KRAO": "according to",
-    "KRAOT": "according to the",
-    "TPHRAO": "in order to", // misstroke for "into"
-    "TPHRAOB": "in order to be",
-    "TPHRAOBT": "in order to be the",
-    "SPAO": "supposed to",
-    "SPAOB": "supposed to be",
-    "SPAOBT": "supposed to be the",
-    "SPAOFB": "supposed to have been",
-    "SPAOFBT": "supposed to have been the",
-    "WHAO": "when it comes to", // give up "whoo"
-    "WHAOT": "when it comes to the",
 
     // Consonant + no vowel + -RB for -nish
     // cf. P-RB "punish"
