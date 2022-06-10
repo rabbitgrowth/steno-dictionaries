@@ -2806,6 +2806,20 @@
     "HR-FB": "will have been",
     "KWRAOEUZ": "you guys",
 
+    // -- Expand word to phrase ------------------------------------------------
+
+    // Use a special stroke to expand the first word of a phrase
+    // to the full phrase. Best for very common phrases or clichés
+    // that are hard to squeeze phonetically into one stroke.
+
+    "AUL/-P": "all of a sudden",
+    "AT/-P": "at the same time",
+    "HROF/-P": "love at first sight",
+    "TPHEGT/-P": "next thing you know",
+    "OPB/-P": "on the other hand",
+    "SOPB/-P": "son of a bitch",
+    "TAEUBG/-P": "take for granted",
+
     // -- Counting -------------------------------------------------------------
 
     // -F "of"
