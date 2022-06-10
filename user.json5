@@ -2819,12 +2819,24 @@
 
     // -- -Z for -s ------------------------------------------------------------
 
-    // Plover uses -S for detachable -s, except when there's a conflict,
-    // in which case it uses -S for undetachable -s and -Z for detachable -s:
-    //   TPHOES "nose"   TKAOEUS "dice"  PULS "pulse"  (undetachable)
-    //   TPHOEZ "knows"  TKAOEUZ "dies"  PULZ "pulls"  (detachable)
-    // Make this rule always apply.
-    // (Mnemonic: -Z, being further away to the right, feels more detachable.)
+    // Plover uses -S for the suffix -s:
+    //   KATS "cats"  TKOGS "dogs"
+    // except when there's a conflict with a (near-)homophone,
+    // in which case it uses -S for the homophone and -Z for -s:
+    //   TPHOES "nose"   TKAOEUS "dice"  PULS "pulse"
+    //   TPHOEZ "knows"  TKAOEUZ "dies"  PULZ "pulls"
+    // Although it's not perfectly consistent about this:
+    //   TKPWAOEUS "guys"   ROES "rows"
+    //   TKPWAOEUZ "guise"  ROEZ "rose"
+    // -GS and -BGS also cause trouble:
+    //   PHAPBGS "mansion"  KRABGS "contraction"
+    //   PHAPBGZ "manages"  KRABGZ "cracks"
+    // The fact that Plover uses both -S and -Z for -s means that
+    // you have to memorize an arbitrary list of words for which
+    // you have to use -Z.
+    // "bees" is PWAOES, but "knees" is TPHAOEZ (since TPHAOES is "niece");
+    // "days" is TKAEUS, but "pays"  is PAEUZ   (since PAEUS   is "pace");
+    // etc. etc. To avoid this, always use -Z for -s.
 
     "PWROUZ": "brows",    // vs "browse"
     "AOEUZ": "eyes",      // vs "ice"; overrides {^ize} [1]
