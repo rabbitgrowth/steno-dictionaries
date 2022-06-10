@@ -1270,6 +1270,7 @@
     "THRERPBL": "eternally",
     "TPHRUL": "fully", // use TP*UL for "fundamental"
     "TPHR*UL": "fundamentally",
+    "TPHREURBL": "officially", // no overlapping unlike "initially"
     "HRORPBL": "originally",
     "PHRAOEFL": "peacefully",
     "PHRERPL": "permanently",
@@ -1277,6 +1278,7 @@
     "SHRAOEPLG": "seemingly",
     "SHROERBL": "socially",
     "SPHRERBL": "specially",
+    "SPHREFBG": "specifically", // SPHREUFBG is "simplistic" (custom)
     "SWHREUPLG": "swimmingly",
     "THRERBL": "terribly",
     "HRUPLT": "ultimately",
