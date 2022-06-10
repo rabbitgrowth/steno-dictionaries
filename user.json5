@@ -740,7 +740,7 @@
     "PWRUFS": "bruh",
     "PWHRAFS": "blah",
     "PWHREFS": "bleh", // use -Z for "believes"
-    "UFS/OFS": "uh-oh",
+    "UFS/OEFS": "uh-oh",
 
     // Use AE for "ea" as an orthographic alternative
     // Precedents: KRAOET, KRAET "create"; SPAOEBG, SPAEBG "speak"
