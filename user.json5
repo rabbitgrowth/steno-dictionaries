@@ -4543,31 +4543,6 @@
     // KWROUR/TEFL "yourself" (odd misstroke)
     "KWROUR/TEFL": "your telephone",
 
-    // -- Misstrokes -----------------------------------------------------------
-
-    // Impossible inflections
-    "TPAEURLZ": "failures", // "fairlies"
-    "HAOEURZ": "hires",     // "highers"
-    "HAOEURG": "hiring",    // "higherring"
-    "PHAOETD": "meted",     // "meeted"
-    "PHORPBD": "mourned",   // "morned"
-    "SRAOEULZ": "vials",    // "viles"
-
-    // Nonsensical translations
-    "*FS": "was",    // "ofs"
-    "WOEUD": "wide", // "would Ied"
-    "K-BG": "{,}",   // "can being"
-    "KW-BGS": "{,}", // ",s"
-    "KW-RBG": "{,}", // "--ing"
-
-    // Untranslates
-    "KPW": "go",
-    "PRUBT": "product",
-    "TOEUPL": "time",
-
-    // Strokes I don't mind giving up
-    "KHROER": "clear", // just use OBG/HRAR for "ocular"
-
     // -- Phoenix-style homophone disambiguation -------------------------------
 
     "AD/H-F": "ad",                 // from "add"
