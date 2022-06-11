@@ -182,10 +182,6 @@ audiology
   AUD/KWROLG
   KWROLG -> I don't like
 
-upload
-  AUP/HRAOD
-  UPLD -> you mind
-
 I know -> KWR-PBL
   EU/TPHOEU
   KWR*PB
@@ -930,10 +926,6 @@ wheal
 whale -> KWHAEUL
   WHAEUL -> what I will
   WHRAEUL
-
-what happened
-  WHAPD
-  WHAPLD -> what mind
 
 what part
   WHAPT -> what want
