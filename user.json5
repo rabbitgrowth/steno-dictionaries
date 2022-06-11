@@ -579,6 +579,7 @@
     "TOUR": "tour",
     "TOUFRT": "tourist", // standard
     "TOUFRPL": "tourism",
+    "TOURPLT": "tournament",
     "TO*UR": "tower", // standard
 
     "STPHOR": "snore", // use STPHART for "senator"
@@ -708,6 +709,7 @@
 
     // AOEU -> OEU
     "SHROEUPL": "slimy",
+    "SPOEUS": "spicy",
 
     // Other vowels
     "PWHROEUD": "bloody", // AO  -> OEU?
@@ -748,8 +750,9 @@
     "STRAEPL": "stream",
     "SWAET": "sweat", // use SWAT for "swat"
     "TAEFP": "teach",
+    "TAES": "tease", // use -Z for "teas"
     "KWRAERPB": "yearn",
-    "SA*EL": "zeal",  // use SAOEL for "seal"
+    "SA*EL": "zeal", // use SAOEL for "seal"
 
     // Miscellaneous
     "SRAE": "area", // wildcard S
@@ -885,6 +888,7 @@
 
     "-RPB": "under",
     "*RPB": "{under^}",
+    "-RPBT": "under the",
     "*RPB/TPHAO*ET": "underneath",
 
     // Add * for prefix
@@ -1354,6 +1358,7 @@
     "SKWRUFRBL": "jumble",
     "PHUFRBL": "mumble",
     "STUFRBL": "stumble",
+    "TREFRBL": "tremble",
 
     // -FRL for -məl
     "KAFRL": "camel",
@@ -2715,6 +2720,7 @@
     "PREUGD": "pretty good", // standard
     "SREBD": "very bad",
     "SREGD": "very good",
+    "R-LGD": "really good",
 
     "KWR-FGD": "I have got",
     "AOEUFGD": "I've got",
@@ -2792,6 +2798,8 @@
     "SKHER": "ask her",
     "SKHEUPL": "ask him",
     "TA*UL": "at all", // - * = "tall"; give up {^-tall}
+    "KPWABG": "come back", // by default "comeback"
+    "KPWA*BG": "comeback",
     "KPAOUFPL": "excuse me", // alternative to KPUPL
     "TPROUT": "figure out",
     "TPOU": "for you",
@@ -2932,6 +2940,7 @@
     "HRAOEUFZ": "lives", // or use HREUFZ
     "HRAOFZ": "loaves", // cf. HRAOF "loaf"
     "HROEFZ": "loaves", // cf. HROEF "loaf"
+    "SEFLZ": "selves",
     "THAOEFZ": "thieves",
     "WOFLZ": "wolves", // cf. WOFL "wolf"
     "WOFZ": "wolves",  // cf. WOF  "wolf"
@@ -3262,6 +3271,7 @@
     "HAFRT": "hardest", // misstroke for "heart"
     "HAOEUFT": "highest", // cf. HROEFT "lowest"; overides "heist" [1]
     "HRAOEUFT": "lightest",
+    "HROUFT": "loudest",
     "PHAOEFRT": "merest",
     "OEFT": "oldest",
     "PAOUFRT": "purest",
@@ -4564,6 +4574,7 @@
     "SAOELG/H-F": "ceiling",        // from "sealing"
     "SEL/H-F": "cell",              // from "sell"
     "SELZ/H-F": "cells",
+    "SERPBS/H-F": "censor",         // from "sensor"
     "SAOERL/H-F": "cereal",         // from "serial"
     "SAOERLZ/H-F": "cereals",
     "KORD/H-F": "chord",            // from "cord"
