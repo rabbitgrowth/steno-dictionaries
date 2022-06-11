@@ -837,7 +837,7 @@
     "HAPL/PWRURG": "hamburger",
     "KHAOES/PWRURG": "cheeseburger",
 
-    // Don't glue together
+    // Don't join together
     "SKWRET/HRAG": "jet lag",
     "SAOE/KWRA": "see ya",
     "STEPG/STOEPB": "stepping stone",
@@ -849,6 +849,17 @@
     "SPH/WAEU": "some way",      // use SPH/WA*EU ("some" + {^way}) for "someway"
     "SPH/WHA": "some what",      // use SWHA for "somewhat"
                                  // ("I made some pho." "Some what?")
+
+    // Don't hyphenate
+    "KAFT/AOEURPB": "cast iron",
+    "TPUL/TAOEUPL": "full time",
+    "ROUPBD/TREUP": "round trip",
+    "SRAOEUS/PREZ": "vice president",
+
+    "HA/HA": "haha",
+    "HA/HA/HA": "hahaha",
+    "HO/HO": "ho ho",
+    "HO/HO/HO": "ho ho ho",
 
     // -- Word boundary errors -------------------------------------------------
 
@@ -4454,18 +4465,6 @@
 
     // Double to turn spaces into hyphens
     "AEUF/AEUF": "{^-of-a-^}",
-
-    // Don't hyphenate
-    "KAFT/AOEURPB": "cast iron",
-    "TPUL/TAOEUPL": "full time",
-    "ROUPBD/TREUP": "round trip",
-    "SRAOEUS/PREZ": "vice president",
-
-    // Don't hyphenate laughter
-    "HA/HA": "haha",
-    "HA/HA/HA": "hahaha",
-    "HO/HO": "ho ho",
-    "HO/HO/HO": "ho ho ho",
 
     // Swap strokes such that * is used to contract or suppress space,
     // not the other way round.
