@@ -2820,6 +2820,10 @@
     "THAUFP": "thank you very much",
     "THA*UFP": "thank you so much", // use THAFP for "that much"
 
+    "TKO*": "to do",
+    "STKO": "do so", // misstroke for "do is"
+    "STKO*": "to do so",
+
     "WHOELT": "whole lot",
     "WHOEFLT": "whole lot of",
     "WHOEG": "whole thing",  // cf. TH-G "thing" (custom)
@@ -2855,8 +2859,6 @@
     "SAUFP": "such a",
     "TAEUR": "take care",
     "TAEUFR": "take care of",
-    "TKO*": "to do",
-    "STKO*": "to do so",
     "HR-F": "will have", // use HROF for "love"
     "HR-FB": "will have been",
     "KWRAOEUZ": "you guys",
