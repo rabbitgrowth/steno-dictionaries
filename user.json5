@@ -729,6 +729,23 @@
 
     // -- Orthographic ---------------------------------------------------------
 
+    // -FS for -h
+    "AFS": "ah",
+    "EFS": "eh", // use H-FS for "he was" (see phrasing/)
+    "UFS": "uh",
+    "OEFS": "oh", // OFS is "office"
+    "AOFS": "ooh",
+    "HAFS": "hah", // use -Z for "halves"
+    "HEFS": "heh", // use H-FS for "he was"
+    "HUFS": "huh",
+    "TKUFS": "duh",
+    "PHEFS": "meh", // come back for -S for "messes"
+    "TPHAFS": "nah",
+    "PWRUFS": "bruh",
+    "PWHRAFS": "blah",
+    "PWHREFS": "bleh", // use -Z for "believes"
+    "UFS/OEFS": "uh-oh",
+
     // Use AE for "ea" as an orthographic alternative
     // Precedents: KRAOET, KRAET "create"; SPAOEBG, SPAEBG "speak"
     "PWAEFT": "beast",
@@ -1258,7 +1275,7 @@
     "SREUFLD": "vividly",
     /*1*/ "PROLT": "protocol",
     /*2*/ "TPRAEUPBL": "Fresnel", // /ˈfreɪnəl/
-    /*3*/ "O*PL": "ohm", // feels consistent with O "oh" (custom)
+    /*3*/ "O*PL": "ohm",
     /*4*/ "SAELD": "salad", // AE for /æ/
 
     "-LG": "{^ingly}", // use WEULG for "willing"
@@ -4367,19 +4384,6 @@
     "PO*EUPB": "piano",   // wildcard OEU; - * = "appoint"
     "-PLS": "please",
     "-PT": "want",        // standard phrase ender used on its own
-
-    // O*ERBGS "oh" seems crazy but actually has some logic to it:
-    //   OE      "owe"
-    //   OERBGS  "oh," (add -RBGS for comma)
-    //   O*ERBGS "oh"  (add * for the special case of "oh" without comma)
-    // But it still feels like too many keys for such a simple word.
-    "O": "oh",
-    "O/PHAPB": "oh man", // clashes with "Oman"
-    "O*/PHAPB": "Oman",
-    // For the poetic "O" ("O say can you see..."), just fingerspell (O*P).
-    "AO": "ooh", // give up "oo" (Hawaiian bird?)
-    "AO/AO": "oooh",
-    "AO/AO/AO": "ooooh",
 
     // "fragile" is TPRALG or TPRAPBLG. I like TPRAPBLG better,
     // but since TPRAPBG is "frank" (* is reserved for "Frank"),
