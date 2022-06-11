@@ -1679,6 +1679,12 @@
     "STK*EPBT": "descent", // add * for des-
     "STKERPBT": "dissenter",
 
+    // STKPWHR for nj- (TPH + SKWR)
+    "STKPWHRUR": "injure",
+    "STKPWHRAOUR": "injury",
+    "STKPWHROEU": "enjoy",
+    "STKPWHROEUPLT": "enjoyment",
+
     // SKP for exp-
     "SKPAPBD": "expand",
     "SKPAPBS": "expanse", // add {^ive} for "expansive"
