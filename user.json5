@@ -1280,8 +1280,8 @@
     "SRAFLT": "vastly", // misstroke for "vast"
     "SREUFLD": "vividly",
     /*1*/ "PROLT": "protocol",
-    /*2*/ "TPRAEUPBL": "Fresnel", // /ˈfreɪnəl/
-    /*3*/ "SAELD": "salad", // AE for /æ/
+    /*2*/ "TPRAEUPBL": "Fresnel",
+    /*3*/ "SAELD": "salad",
 
     "-LG": "{^ingly}", // use WEULG for "willing"
 
