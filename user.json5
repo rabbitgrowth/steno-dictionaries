@@ -2808,6 +2808,13 @@
     "SPH-R": "some are",
     "SPH-RP": "some were",
 
+    "TU": "thank you",
+    "TUFPL": "thank you very much", // "tuvm"
+    "T*UFPL": "thank you so much",  // "tusm"
+    "THAUG": "thank you", // standard
+    "THAUFP": "thank you very much",
+    "THA*UFP": "thank you so much", // use THAFP for "that much"
+
     "WHOELT": "whole lot",
     "WHOEFLT": "whole lot of",
     "WHOEG": "whole thing",  // cf. TH-G "thing" (custom)
@@ -2843,7 +2850,6 @@
     "SAUFP": "such a",
     "TAEUR": "take care",
     "TAEUFR": "take care of",
-    "TU": "thank you",
     "TKO*": "to do",
     "STKO*": "to do so",
     "HR-F": "will have", // use HROF for "love"
