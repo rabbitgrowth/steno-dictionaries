@@ -956,9 +956,6 @@
     "STPHOEFRPB": "snowman",
 
     // Add * for suffix
-    "SEFL": "self", // swap with {^self}
-    "S*EFL": "{^self}",
-
     "SHOP": "shop", // standard
     "SHORP": "shopper",
     "SHO*P": "{^shop}",
@@ -2049,6 +2046,17 @@
     "SAR/KAFBG": "sarcastic",
     "SKAFBG": "sarcastic", // cf. SKAFPL "sarcasm"
 
+    // -FL for -lf
+    // Precedents: TKPWOFL "golf"
+    //             TKPWUFL "gulf"
+    //             SHEFL   "shelf"
+    //             WOFL    "wolf"
+    "SEFL": "self", // swap with {^self}
+    "SEFLZ": "selves",
+    "S*EFL": "{^self}",
+    "EFL": "elf",
+    "EFLZ": "elves",
+
     // -RB for -sure
     // Precedents: PRERB "pressure", PH*ERB "measure" (- * = "mesh")
     "KHROERB": "closure", // prepend {en^} for "enclosure"
@@ -2987,7 +2995,6 @@
     "HRAOEUFZ": "lives", // or use HREUFZ
     "HRAOFZ": "loaves", // cf. HRAOF "loaf"
     "HROEFZ": "loaves", // cf. HROEF "loaf"
-    "SEFLZ": "selves",
     "THAOEFZ": "thieves",
     "WOFLZ": "wolves", // cf. WOFL "wolf"
     "WOFZ": "wolves",  // cf. WOF  "wolf"
