@@ -1989,24 +1989,23 @@
     // [2] * is used since PEUFP is "pitch"
     // [3] Long AOU is used although STRURBGT is not taken. Why?
     // [4] * is used since HREUFP is "lisp"
+    "TUR": "{^ture}",           // alternative to TAOUR, which is consistent with AOUR {^ure}
     "AG/TUR": "agriculture",    // cf. AG/KHUR
     "ARBG/TEFP": "architecture",
     "ARBG/TUR": "architecture", // cf. ARBG/TEBG/KHUR
-    "KAP/TUR": "capture",       // or use KA*FP
+    "KAP/TUR": "capture",       // alternative to KA*FP
     "KAUPB/SKWREFP": "conjecture",
     "TPRUFP": "infrastructure", // cf. TPRUBGS
-    "TPHUR/TUR": "nurture",     // or use TPHAOUFP
+    "TPHUR/TUR": "nurture",     // alternative to TPHAOUFP
     "PAS/TUR": "pasture",       // swap with "Pasteur" [1]
     "P-FP": "picture",          // misstroke for {.}
-    "SKREURPT": "scripture",    // or use SKR*EUFP
+    "SKREURPT": "scripture",    // alternative to SKR*EUFP
     "SKR*EURPT": "Scripture",
-    "SEUG/TUR": "signature",    // or use SEURG ("sigr")
+    "SEUG/TUR": "signature",    // alternative to SEURG
     "TEFP": "temperature",      // use TEBG for "tech"
     "TEPL/TUR": "temperature",
     "TEFRP/TUR": "temperature",
     /*1*/ "PAS/TAOUR": "Pasteur",
-
-    "TUR": "{^ture}", // or use TAOUR, cf. AOUR {^ure}
 
     // -FPL for -some
     "TKPWRAOUFPL": "gruesome",
