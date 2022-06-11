@@ -856,6 +856,9 @@
     "ROUPBD/TREUP": "round trip",
     "SRAOEUS/PREZ": "vice president",
 
+    "HAOEU/PHAEUPBT/TPHAPBS": "high maintenance",
+    "HROE/PHAEUPBT/TPHAPBS": "low maintenance",
+
     "HA/HA": "haha",
     "HA/HA/HA": "hahaha",
     "HO/HO": "ho ho",
