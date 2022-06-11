@@ -137,7 +137,6 @@
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
     "KPHRET": "complete",       // with KPHRELT "completely"
     "KPHREGS": "completion",
-    "KWEPBL": "consequential",  // with KWEPBS "consequence"
     "STAOUT": "constitute",     // with STAOUGS "constitution"; use STAUT for "statute"
     "KRED/AOULT": "credulity",  // with EUPB/KRED/AOULT "incredulity"
     "TKOEUPBL": "denial",       // with TKOEUPB "deny"
@@ -3884,6 +3883,11 @@
     "KAUFPB/TKEPBT": "confident", // standard
     "KAUFPB/TKAPBT": "confidant", // by default "confidante"
     "KAUFPB/TKA*PBT": "confidante",
+
+    "KWEPBS": "consequence", // standard
+    "KWEPBT": "consequent",
+    "KWEPBL": "consequential",
+    "KWEPBLT": "consequently",
 
     "KREB": "credible",      // cf. PROB   "probable"
     "KREBL": "credibly",     // cf. PROBL  "probably"; use KRET/-BL for "creditable"
