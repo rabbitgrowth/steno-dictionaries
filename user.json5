@@ -775,6 +775,7 @@
 
     "STKAE": "idea",   // KWR-D "I had"
     "STKAEL": "ideal", // KWR-L "I will", KWR-LD "I would" (see phrasing/)
+    "STKHRAEL": "ideally",
 
     "ROUF": "rough",    // standard
     "ROUFL": "roughly", // RUFL "ruffle"; cf. ROUF "rough"
