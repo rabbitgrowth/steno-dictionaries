@@ -1223,7 +1223,6 @@
 
     // Fold in -L for -ly
     "KORLG": "accordingly",
-    "PROELT": "appropriately", // overrides "protocol" [1]
     "SHAURLD": "assuredly",
     "PWHRAEUPBLT": "blatantly",
     "PWHRAOEUPBLD": "blindly",
@@ -1241,7 +1240,7 @@
     "TP-RBLT": "efficiently",
     "TPEURBLT": "efficiently",
     "AEFLT": "evidently",
-    "TPREPBL": "friendly", // overrides "Fresnel" [2]
+    "TPREPBL": "friendly", // overrides "Fresnel" [1]
     "SKWREPB/WEUPBL": "genuinely",
     "TKPWAFLT": "ghastly",
     "TKPWHRALD": "gladly",
@@ -1268,7 +1267,7 @@
     "RES/HRAOULT": "resolutely",
     "RAOUPBLT": "routinely", // phonetic
     "ROEUPBL": "routinely",  // brief
-    "SALD": "sadly", // overrides "salad" [3]
+    "SALD": "sadly", // overrides "salad" [2]
     "SWAOERL": "severely",
     "STAUFRPBL": "staunchly",
     "STRAEUPBLG": "strangely", // use STRAEUPBG for "strange"
@@ -1279,9 +1278,8 @@
     "PRAERL": "temporarily",
     "SRAFLT": "vastly", // misstroke for "vast"
     "SREUFLD": "vividly",
-    /*1*/ "PROLT": "protocol",
-    /*2*/ "TPRAEUPBL": "Fresnel",
-    /*3*/ "SAELD": "salad",
+    /*1*/ "TPRAEUPBL": "Fresnel",
+    /*2*/ "SAELD": "salad",
 
     "-LG": "{^ingly}", // use WEULG for "willing"
 
