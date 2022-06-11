@@ -1260,7 +1260,6 @@
     "TPHAOELT": "neatly",
     "TPHAOEULT": "nightly",
     "TPHO/TORLS": "notoriously",
-    "OEPL": "openly", // overrides "ohm" [3]
     "PAEURBLT": "patiently",
     "PHRAOEULT": "politely",
     "PRO*PBLT": "predominantly",
@@ -1269,7 +1268,7 @@
     "RES/HRAOULT": "resolutely",
     "RAOUPBLT": "routinely", // phonetic
     "ROEUPBL": "routinely",  // brief
-    "SALD": "sadly", // overrides "salad" [4]
+    "SALD": "sadly", // overrides "salad" [3]
     "SWAOERL": "severely",
     "STAUFRPBL": "staunchly",
     "STRAEUPBLG": "strangely", // use STRAEUPBG for "strange"
@@ -1282,8 +1281,7 @@
     "SREUFLD": "vividly",
     /*1*/ "PROLT": "protocol",
     /*2*/ "TPRAEUPBL": "Fresnel", // /ˈfreɪnəl/
-    /*3*/ "O*PL": "ohm",
-    /*4*/ "SAELD": "salad", // AE for /æ/
+    /*3*/ "SAELD": "salad", // AE for /æ/
 
     "-LG": "{^ingly}", // use WEULG for "willing"
 
