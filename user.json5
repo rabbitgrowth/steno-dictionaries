@@ -1114,6 +1114,7 @@
     "TKRAOERPL": "dreamer",
     "TKREFR": "dresser",
     "TKREUR": "drinker",
+    "TKRURPL": "drummer",
     "ERZ": "easier",
     "EPB/HARPBS": "enhancer",
     "KP-R": "examiner",
@@ -1134,6 +1135,7 @@
     "PHAOERG": "meager",
     "PHAOERPBD": "meander",
     "TPH*ERT": "nether",
+    "TPHAOURT": "neuter", // use TPHAOUFP for "nurture"
     "TPHEURG": "nigger",
     "OFRPBD": "offender",
     "O/TPERPBD": "offender",
@@ -1146,6 +1148,7 @@
     "RE/SROFR": "revolver",
     "SAEURPB": "saner",
     "SAURPBT": "saunter",
+    "SKARPL": "scammer",
     "SKAORL": "schooler", // "high-schooler"
     "SERPBD": "sender",
     "SHAEURBG": "shaker",
@@ -1159,6 +1162,7 @@
     "SPARPB": "spanner",
     "SKWARPBD": "squander",
     "STAURBG": "stalker",
+    "STRAOERPL": "streamer",
     "SURBG": "sucker",
     "SURPBD": "sunder", // misstroke for "understand is"
     "SR*ERPBD": "surrender", // - * = "vendor"; cf. SRAOEL "veal", SRAO*EL "surreal"
@@ -1169,6 +1173,7 @@
     "TOEFRT": "toaster", // misstroke for "effort to"
     "TRAORP": "trooper",
     "UPB/TPERT": "unfetter",
+    "SRER/TPAOEUR": "verifier",
     "WAEURPBLG": "wager",
     "WAURBG": "walker", // overrides "Washington, D.C."
     "WAFRP": "watcher",
