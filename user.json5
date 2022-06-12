@@ -38,6 +38,7 @@
     "TKPW-P": "group",
     "H-P": "hypothesis", // just fingerspell "HP"
     "H-PZ": "hypotheses",
+    "TPH-R": "nowhere", // use TPHOR for "nor", which is consistent with OR "or"
     "P-T": "point",   // use P-P for {^.^}
     "P-TS": "points", // use PREZ/-Z for "presidents"
     "P-RT": "pointer",
