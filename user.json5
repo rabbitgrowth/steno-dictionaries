@@ -3240,6 +3240,8 @@
     "PHOLGD": "modeling",
     "PHOLDZ": "models",      // use PHOELDZ for "molds"
     "PASZ": "passes",        // misstroke for "pass"
+    "PEUFD": "pissed",
+    "PEUFG": "pissing",
     "PHREUFG": "policing",
     "PROEUFD": "processed",  // use PROEFD for "provide"
     "RAEUPLD": "remained",   // overrides "Raymond" [1]
