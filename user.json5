@@ -2734,6 +2734,8 @@
 
     "PWUP": "back up", // give up "bup"
     "PW*UP": "backup",
+    "PWHROEP": "blow up",
+    "PWHRAOUP": "blew up",
     "KHRUP": "clean up", // standard
     "KHR*UP": "cleanup", // standard
     "KPHUP": "come up",
