@@ -2527,6 +2527,8 @@
     // "a" and "the"
     "T-LGTS": "at a",
     "T-T": "at the", // misstroke for "the"
+    "TP-RLGTS": "for a",
+    "TP-RT": "for the", // standard; TP-RT/TPEURT "for the first time" is nice
     "AOPB": "on a",   // use AUPB for {on^}
     "OPBT": "on the", // standard
     "AEUFS": "was a",
