@@ -500,6 +500,11 @@
           "PUBLG": "public", // cf. RUBLG "republic"
           "PUB/HREUFT": "publicity",
 
+    // Drop unstressed syllables in /x/x
+    "SEUPBD/REL": "Cinderella",
+    "PHOEPB/HREUS": "Mona Lisa",
+    "PHOET/ROEL": "Motorola",
+
     // -- Right bank consonant squeezing ---------------------------------------
 
     // -BGS for -case
