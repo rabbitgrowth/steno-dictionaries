@@ -3774,6 +3774,9 @@
     // KW-PL {?} (rising  shape or Q-M for "question mark")
     // TP-BG {!} (falling shape or F-K for "fuck", maybe?)
 
+    // Unspaced colon
+    "STPH*FPLT": "{^:^}", // instead of KHR-PB; STPH-FPLT {:} + *
+
     // Semicolon
     // If   TP-PL {.} * 2 = STPH-FPLT {:},
     // then TP-PL {.} + KW-BG {,} = ...
