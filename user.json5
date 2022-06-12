@@ -2196,6 +2196,8 @@
     "SKWRAEULGS": "generational", // use -Z for "jailings"
     "SPRAEULGS": "inspirational",
     "STPHAOULGS": "institutional",
+    "SPWEPBLGS": "intentional", // use SPWELS for "intelligence"
+    "SPWHREPBLGS": "intentionally",
     "TPH-LGS": "national", // or use TPHAT
     "TPHOE/TAEULGS": "notational",
     "TPHAOU/TREULGS": "nutritional",
