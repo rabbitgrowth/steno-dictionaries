@@ -4320,6 +4320,8 @@
     "TPHEUPL/ROD": "nimrod",
     "TPRAEUFL": "phrasal",
     "WAOERG": "Uighur", // use W*R for "we're"
+    "POG": "pog",
+    "PORGZ": "poggers",
     "STOLD": "stolid",    // cf. SOL/EUD "solid"
     "STOL/EUD": "stolid", // cf. SOLD    "solid"
     "THREPBD": "threnody", // misstroke for "lend it"
