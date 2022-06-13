@@ -791,13 +791,6 @@
     "SKREPB": "scene",     // SAOEPB "seen", SKRAOEPB "screen"
     "SKRAO*EUT": "scythe", // SAOEUT "sight", SAO*EUT "site"
 
-    // -- Anagrams -------------------------------------------------------------
-
-    "TPEUPB/AEL": "finale",
-
-    "HOELT": "hotel",
-    "HO*ELT": "Hotel",
-
     // -- Joining and splitting ------------------------------------------------
 
     // Compound words
@@ -3687,6 +3680,7 @@
 
     // Italian
     "KAR/SKAOUR/KWRO": "chiaroscuro", // /kj/ not possible so drop /j/
+    "TPEUPB/AEL": "finale",
     "PHAES/TRO": "maestro",
 
     // Latin
@@ -4442,6 +4436,7 @@
     "KPHOS": "cosmos",    // "os" shared between "c" and "m"
     "KREPB": "century",   // first three letters
     "KWOEBG": "echo",     // left side ("qo"?) "echoing" the right side visually
+    "HOELT": "hotel",     // anagram and vaguely phonetic
     "EU/E": "i.e.",
     "HRAO*EULG": "lilac", // *LG for "lk" with vowel in between
     "O/ER": "o'er",
