@@ -793,9 +793,6 @@
 
     // -- Anagrams -------------------------------------------------------------
 
-    "AET": "ate", // swap with "eight"
-    "AEUT": "eight",
-
     "TPEUPB/AEL": "finale",
 
     "HOELT": "hotel",
