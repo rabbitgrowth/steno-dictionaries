@@ -3519,12 +3519,16 @@
     "WOPBD/HRAPBD": "wonderland",
     "WOPBD/HRA*PBD": "wonderland",
 
-    "TKPWRAPBD/PHA": "grandma",     // uses HR instead of R by default:
-                                    //   TKPWRAPBD/PHA  "Grandma"
-                                    //   TKPWHRAPBD/PHA "grandma"
-    "HAL/HRAOU/KWRA": "hallelujah", // uses SKWR instead of KWR by default:
-                                    //   HAL/HRAOU/KWRA  "Hallelujah"
-                                    //   HAL/HRAOU/SKWRA "hallelujah"
+    // Don't capitalize randomly
+    // APL/TPHES/TEU    "amnesty"
+    // APL/TPHEFT/KWREU "Amnesty"
+    "APL/TPHEFT/KWREU": "amnesty",
+    // TKPWHRAPBD/PHA "grandma"
+    // TKPWRAPBD/PHA  "Grandma"
+    "TKPWRAPBD/PHA": "grandma",
+    // HAL/HRAOU/SKWRA "hallelujah"
+    // HAL/HRAOU/KWRA  "Hallelujah"
+    "HAL/HRAOU/KWRA": "hallelujah",
 
     // Don't capitalize "the"
     // For the following expressions, forcing "the" to uppercase
