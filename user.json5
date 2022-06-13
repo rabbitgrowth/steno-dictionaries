@@ -3140,12 +3140,12 @@
     "SREFLT": "irrelevant",
 
     // -S for -cy
-    "KURPBS": "currency",        // cf. KURPBT "current"; use -Z for "curtains"
-    "TPEURBS": "efficiency",     // cf. TPEURBT "efficient"; use -Z for "fishes"
-    "TPRAOEBGS": "frequency",    // cf. TPRAOEBGT "frequent"; use -Z for "freaks"
-    "PRAOEUFS": "privacy",       // cf. PRAOEUFT "private"; use PRAOEUSZ for "prices"
+    "KURPBS": "currency",        // from KURPBT "current"; use -Z for "curtains"
+    "TPEURBS": "efficiency",     // from TPEURBT "efficient"; use -Z for "fishes"
+    "TPRAOEBGS": "frequency",    // from TPRAOEBGT "frequent"; use -Z for "freaks"
+    "PRAOEUFS": "privacy",       // from PRAOEUFT "private"; use PRAOEUS/-S for "prices"
     "PREUFS": "privacy",         // use PREUFLGZ for "privileges"
-    "TRAEURPBS": "transparency", // cf. TRAEURPBT "transparent"; use -Z for "trainers"
+    "TRAEURPBS": "transparency", // from TRAEURPBT "transparent"; use -Z for "trainers"
 
     // -- Verb forms -----------------------------------------------------------
 
