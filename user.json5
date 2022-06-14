@@ -1598,7 +1598,7 @@
     "STKAFBGS": "disaffection",
     "STKARPL": "disarm",
     "STKARPLT": "disarmament",
-    "STKPWHRAOEF": "disbelief", // uses the entire left bank
+    "STKPWHRAOEF": "disbelief", // uses all keys on the left side
     "STKPWHREF": "disbelieve",
     "STKARD": "discard", // cf. STKORD "discord"
     "STKERPB": "discern",
