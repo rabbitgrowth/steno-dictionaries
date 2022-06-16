@@ -4213,6 +4213,12 @@
     "SPHREUFBGS": "simplification",
     "SEUFRPL/TOPB": "simpleton",
 
+    "STWAEUT": "situate",
+    "STWAEUGS": "situation", // standard; alternative to SEUFP
+    "STWAEULGS": "situational",
+    "STWHRAEULGS": "situationally",
+    "STWAEUGS/HREU": "situationally",
+
     "SUBT": "subject", // standard
     "OBT": "object",   // standard
     "SUFBT": "subjective",
