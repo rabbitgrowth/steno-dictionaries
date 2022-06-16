@@ -3547,6 +3547,8 @@
     "HO*BT": "Hobbit",
     "HURPBT": "hunter",
     "H*URPBT": "Hunter", // standard
+    "PRAOEUPL/PHEUPB/STER": "prime minister",
+    "PRAO*EUPL/PHEUPB/STER": "Prime Minister",
     "TWEURT": "twitter",
     "TW*EURT": "Twitter",
 
