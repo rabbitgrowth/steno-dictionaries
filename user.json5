@@ -1584,6 +1584,41 @@
     "WHAFRBZ": "wharves",
     // But SEFRB "serve", S*EFRB "serf"
 
+    // SKHR for shr- (borrowed from Phoenix)
+    // Plover resorts to an ugly vowel change to disambiguate between
+    // "shrink" and "slink":
+    //   SHREUPBG   "sling"
+    //   SHRAO*EPBG "slink" ("sleenk")
+    //   SHR*EUPBG  "shrink"
+    // This can be avoided by having a dedicated chord for shr-:
+    //   SHREUPBG   "sling"
+    //   SHR*EUPBG  "slink"
+    //   SKHR*EUPBG "shrink"
+    "SKHRA*PBG": "shrank",
+    "SKHRAP/TPHEL": "shrapnel",
+    "SKHRED": "shred",
+    "SKHRERD": "shredder",
+    "SKHRAOU": "shrew",
+    "SKHRAOUD": "shrewd",
+    "SKHRAOURB": "shrewish",
+    "SKHRAOEBG": "shriek",
+    "SKHREUFT": "shrift",
+    "SKHRAOEUBG": "shrike",
+    "SKHREUL": "shrill",
+    "SKHREUFRP": "shrimp",
+    "SKHRAOEUPB": "shrine",
+    "SKHR*EUPBG": "shrink", // frees up SHR*EUPBG for "slink" [1]
+    "SKHRAOEUF": "shrive",
+    "SKHREUFL": "shrivel",
+    "SKHREUFPB": "shriven",
+    "SKHROUD": "shroud",
+    "SKHROEF": "shrove",
+    "SKHRUB": "shrub",
+    "SKHRUB/REU": "shrubbery",
+    "SKHRUG": "shrug",
+    "SKHR*UPBG": "shrunk",
+    /*1*/ "SHR*EUPBG": "slink",
+
     // -- Sound patterns -------------------------------------------------------
 
     // STK for dis- and des-
