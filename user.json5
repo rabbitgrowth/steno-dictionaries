@@ -1165,11 +1165,13 @@
     "SHOP/HREUFRT": "shoplifter",
     "SHURD": "shudder",
     "SHRAURT": "slaughter",
+    "SHREURPBG": "slinger",
     "SHREURP": "slipper",
     "SPHURLG": "smuggler",
     "STPHAOEURP": "sniper",
     "SPARPB": "spanner",
     "SKWARPBD": "squander",
+    "SKWAURT": "squatter",
     "STAURBG": "stalker",
     "STRAOERPL": "streamer",
     "SURBG": "sucker",
@@ -3262,6 +3264,8 @@
     //    (SKAOED + -G), but since SKAOEG is defined as "skiing",
     //    it gives the nonsensical "skiinged" instead (SKAOEG + -D).
     // 3) -F is used instead of -S (e.g., PHREUFG "policing").
+    "A/PHAFD": "amassed",
+    "A/PHAFG": "amassing",
     "TR-BGT": "attributing", // give up "trial court"
     "PW*PBD": "buttoned",    // use PWA*PBD/AEUD for "Band-Aid"
     "PW*PBG": "buttoning",   // give up "!!Con" (tech conference Mirabai captions for)
@@ -3374,6 +3378,7 @@
     "HRAOEUFT": "lightest",
     "HROUFT": "loudest",
     "PHAOEFRT": "merest",
+    "TPHAOEFRT": "nearest",
     "OEFT": "oldest",
     "PAOUFRT": "purest",
     "KWEUFT": "quickest",
