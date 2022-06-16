@@ -3987,6 +3987,11 @@
     "KWEPBL": "consequential",
     "KWEPBLT": "consequently",
 
+    "KAORD": "coord", // by default "coordinate"
+    "KAORPBT": "coordinate",
+    "KRAORPBT": "coordinator",
+    "KAORPBGS": "coordination",
+
     "KREB": "credible",      // cf. PROB   "probable"
     "KREBL": "credibly",     // cf. PROBL  "probably"; use KRET/-BL for "creditable"
     "KREBLT": "credibility", // cf. PROBLT "probability"; standard
