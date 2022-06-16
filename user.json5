@@ -3189,6 +3189,84 @@
     "PREUFS": "privacy",         // use PREUFLGZ for "privileges"
     "TRAEURPBS": "transparency", // from TRAEURPBT "transparent"; use -Z for "trainers"
 
+    // -- Conflictful sound patterns involving -Z ------------------------------
+
+    // AEUS   -ace / common word / associated with "s"
+    // A*EUS  less frequent word / associated with "z"
+    // AEUZ   -ays (with suffix -s)
+    // AEZ    -aze
+    // A*EZ   -azy
+    "AEUS": "ace", // standard
+
+    "PWAEUS": "base",   // standard
+    "PWA*EUS": "baize", // give up {^-base}
+    "PWAEUZ": "bays",   // standard
+
+    "PWHRAEUZ": "ballets", // by default "blaze"
+    "PWHRAEZ": "blaze",
+
+    "PWRAEUS": "brace", // standard
+    "PWRA*EUS": "braise",
+    "PWRAEUZ": "brays", // by default "braise"
+    "PWRAEZ": "braze",  // standard
+
+    "KAEUS": "case",  // standard
+
+    "KRAEZ": "craze", // by default "crazy"
+    "KRA*EZ": "crazy",
+
+    "TKAEUS": "dace", // by default "days"
+    "TKA*EUS": "dais",
+    "TKAEUZ": "days", // by default "daze"
+    "TKAEZ": "daze",  // standard
+
+    "TPAEUS": "face", // standard
+    "TPA*EUS": "phase",
+    "TPAEUZ": "fays", // by default "phase"
+    "TPAEZ": "faze",  // standard
+
+    "TKPWAEUZ": "gays", // by default "gaze"
+    "TKPWAEZ": "gaze",  // standard
+
+    "TKPWHRAEZ": "glaze",
+    "TKPWHRA*EZ": "glazy",
+
+    "TKPWRAEUS": "grace",  // standard
+    "TKPWRA*EUS": "Grace", // standard
+    "TKPWRAEUZ": "grays",  // by default "graze"
+    "TKPWRAEZ": "graze",   // use TKPWRAOES for "grease"
+
+    "HRAEUS": "lace", // standard
+    "HRAEUZ": "lays", // standard
+    "HRAEZ": "laze",  // by default "lazy"
+    "HRA*EZ": "lazy",
+
+    "PHAEUS": "mace", // standard
+    "PHA*EUS": "maize",
+    "PHAEZ": "maze",  // standard
+    "PHA*EZ": "mazy",
+
+    "PAEUS": "pace", // standard
+    "PAEUZ": "pays", // standard
+
+    "TPRAEUS": "phrase", // standard
+    "TPRAEUZ": "frays",  // by default "phrase"
+
+    "PHRAEUS": "place",   // standard
+    "PHRA*EUS": "plaice", // standard
+    "PHRAEUZ": "plays",   // standard
+
+    "RAEUS": "race",   // standard
+    "RA*EUS": "raise", // give up "Reyes"
+    "RAEUZ": "rays",   // by default "raise"
+    "RAEZ": "raze",    // standard
+
+    "SPAEUS": "space", // standard
+    "SPAEUZ": "spays", // standard
+
+    "TRAEUS": "trace", // standard
+    "TRAEUZ": "trays", // standard
+
     // -- Verb forms -----------------------------------------------------------
 
     // The automatic suffix-appending mechanism for -S -Z -G -D
