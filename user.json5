@@ -1598,7 +1598,7 @@
     "SKHRAP/TPHEL": "shrapnel",
     "SKHRED": "shred",
     "SKHRERD": "shredder",
-    "SKHRAOU": "shrew",
+    "SKHRAOU": "shrew", // frees up SHRAOU for "slew" [1]
     "SKHRAOUD": "shrewd",
     "SKHRAOURB": "shrewish",
     "SKHRAOEBG": "shriek",
@@ -1607,7 +1607,7 @@
     "SKHREUL": "shrill",
     "SKHREUFRP": "shrimp",
     "SKHRAOEUPB": "shrine",
-    "SKHR*EUPBG": "shrink", // frees up SHR*EUPBG for "slink" [1]
+    "SKHR*EUPBG": "shrink", // frees up SHR*EUPBG for "slink" [2]
     "SKHRAOEUF": "shrive",
     "SKHREUFL": "shrivel",
     "SKHREUFPB": "shriven",
@@ -1617,7 +1617,8 @@
     "SKHRUB/REU": "shrubbery",
     "SKHRUG": "shrug",
     "SKHR*UPBG": "shrunk",
-    /*1*/ "SHR*EUPBG": "slink",
+    /*1*/ "SHRAOU": "slew",
+    /*2*/ "SHR*EUPBG": "slink",
 
     // -- Sound patterns -------------------------------------------------------
 
