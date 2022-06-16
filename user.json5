@@ -3522,8 +3522,8 @@
     "SRAO*EUS": "Vice", // as in "Vice President"
 
     // To capitalize a multi-stroke word, star the first syllable:
-    //   PEPBT/TKPWOPB "pentagon"  P*EPBT/TKPWOPB "Pentagon"
-    //   HAPL/HRET "hamlet"        HA*PL/HRET "Hamlet"
+    //   PEPBT/TKPWOPB "pentagon"   HAPL/HRET "hamlet"
+    //   P*EPBT/TKPWOPB "Pentagon"  HA*PL/HRET "Hamlet"
     // This feels right because the first syllable is the part where the
     // lowercase-to-uppercase change happens.
     "TPH*EUR/SRAPB/KWRA": "Nirvana", // instead of TPHEUR/SRAPB/KWRA*
