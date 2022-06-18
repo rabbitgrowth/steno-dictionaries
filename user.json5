@@ -920,6 +920,8 @@
     "-RPBT": "under the",
     "*RPB/TPHAO*ET": "underneath",
 
+    "KWREFRT": "{yester^}",
+
     // Add * for prefix
     // Precedent: OEUT "auto", O*EUT {auto^}
     "KOURPBT": "counter", // swap with {counter^}
@@ -942,7 +944,6 @@
     "HRAO*D": "{^load}",    // "truckload", "boatload", "shitload", etc.
     "WAO*EUD": "{^wide}",   // without hyphen
     "WR*EUR": "{^writer}",
-    "KWREFRT": "{yester^}",
 
     "-FRPB": "{^man}",
     "PWOEFRPB": "bowman", // archer
