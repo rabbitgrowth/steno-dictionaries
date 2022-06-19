@@ -2251,7 +2251,7 @@
     "KOEULGS": "occasional",
     "KHROEULGS": "occasionally",
     "PRO/SREULGS": "provisional", // or use PREUPBL (custom)
-    "TRALGS": "traditional", // AS/TRAL "as traditional" clashes with "astral"
+    "TRALGS": "traditional", // instead of TRAL; AS/TRAL "astral" conflicts with "as traditional"
 
     // -LD for -land
     "TKPWARLD": "garland",
