@@ -2237,10 +2237,8 @@
     // -LGS for -tional
     // Precedents: TPUPBLGS "functional", STAOULGS "constitutional"
     "KAUPB/TKPWRELGS": "congressional",
-    "TAOULGS": "constitutional",
     "KWEPBLGS": "conventional", // alternative to SREPBL; use KWEFRPBZ for "quenches"
-    "TKPHELGS": "dimensional",   // from TKPHEGS
-    "TKPHEPBLGS": "dimensional", // from TKPHEPBGS
+    "TKPHEPBLGS": "dimensional",
     "TPOUPBLGS": "foundational",
     "SKWRAEULGS": "generational", // use -Z for "jailings"
     "SPRAEULGS": "inspirational",
