@@ -535,7 +535,7 @@
 
     // -- -ore -----------------------------------------------------------------
 
-    // In Plover, -ore can be OR:
+    // In Plover, -ore is usually OR:
     //   PWOR   "bore"
     //   KHOR   "chore"
     //   TKPWOR "gore"
@@ -547,7 +547,7 @@
     //   STOR   "store"
     //   WHOR   "whore"
     //   WOR    "wore"
-    // O*R:
+    // but it can also be O*R:
     //   POR  "pour"   TOR  "tour"
     //   PO*R "pore"   TO*R "tore"
     //   POUR "power"  TOUR "tower"
@@ -555,15 +555,34 @@
     //   STPHOR  "senator"
     //   STPHO*R "Senator"
     //   STPHOER "snore"
+    //   SPOR    "support"
+    //   SPOER   "spore"
+    //   KWROR   {^ior}
+    //   KWROER  "yore"
     // or O*ER:
-    //  (TP-R   "for")
-    //   TPOR   "for"    OR "or"
-    //   TPO*R  "for"    O*R {^or}
-    //   TPOER  {fore^}  OER "other"
+    //   TP-R   "for"
+    //   TPOR   "for"    OR   "or"
+    //   TPO*R  "for"    O*R  {^or}
+    //   TPAUR  {for^}   AUR  {or^}
+    //   TPOER  {fore^}  OER  "other"
     //   TPO*ER "fore"   O*ER "ore"
-    // Make -ore more consistently OR.
+    // Try to make -ore more consistently OR.
 
-    // Plover usually uses OUR for -our, whether it's pronounced /ɔːr/ or /aʊər/:
+    // The O*ER case is hard to fix because I don't want to change
+    // "or", {^or}, and "other". Plus there's some mnemonic value
+    // to the existing system: TPAUR {for^} and TPOER {fore^} are similar,
+    // and TPO*ER "fore" and O*ER "ore" are both starred anagrams.
+
+    // The OER case is easy to fix:
+    "STPHOR": "snore", // use STPHART for "senator"
+    "SPOR": "spore",   // use SPO*RT  for "support"
+
+    // "yore" is a special case because it's normally only preceded by "of":
+    "-F/KWROR": "of yore",
+    "KWRO*ER": "yore", // keep KWROR as {^ior}
+
+    // The O*R case is also fixable. Plover often uses OUR for -our,
+    // whether it's pronounced /ɔːr/ or /aʊər/:
     //   OUR    "our"
     //   TPOUR  "four"
     //   HOUR   "hour"
@@ -572,31 +591,24 @@
     // and O*UR for -ower /aʊər/:
     //   KO*UR  "cower"
     //   SHO*UR "shower"
-    // although the * can be dropped:
+    // although the * can be dropped when there's no conflict:
     //   KOUR  "cower"
     //   SHOUR "shower"
-    // The pattern holds when -our and -ower form homophones:
+    // but it's mandatory when -our and -ower form homophones:
     //   TPHROUR "flour"  TPHRO*UR "flower"
-    // So for consistency, in three-way conflicts between -ore, -our, and -ower,
-    // use OUR for -our and O*UR for -ower.
-    "POR": "pore",
-    "POUR": "pour",
+    // So for consistency, in three-way conflicts between
+    // -ore, -our, and -ower, use OUR for -our and O*UR for -ower,
+    // freeing up OR for -ore.
+    "POR": "pore",    // by default "pour"
+    "POUR": "pour",   // by default "power"
     "PO*UR": "power", // standard
-    "TOR": "tore",
-    "TOUR": "tour",
+    "TOR": "tore",    // by default "tour"
+    "TOUR": "tour",   // by default "tower"
+    "TO*UR": "tower", // standard
+
     "TOUFRT": "tourist", // standard
     "TOUFRPL": "tourism",
     "TOURPLT": "tournament",
-    "TO*UR": "tower", // standard
-
-    "STPHOR": "snore", // use STPHART for "senator"
-    "SPOR": "spore",   // use SPO*RT  for "support"
-
-    "TPOR": "fore", // use TPO for "for" (see phrasing/)
-    "TPO*R": "{fore^}",
-
-    "KWRO*R": "yore",      // give up "I know, right?"
-    "-F/KWROR": "of yore", // "yore" cannot be preceded by any other word
 
     // -- -ty ------------------------------------------------------------------
 
@@ -4793,6 +4805,7 @@
     "AOEUD/H-F": "eyed",            // from "I'd"
     "TPHROUR/H-F": "flour",         // from "flower"
     "TPHROURZ/H-F": "flours",
+    "TPOR/H-F": "fore",             // from "for"
     "TKPWAEUT/H-F": "gate",         // from "gait"
     "TKPWEULT/H-F": "gilt",         // from "guilt"
     "HAUL/H-F": "haul",             // from "hall"
