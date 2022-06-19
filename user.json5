@@ -3102,15 +3102,23 @@
     "SKHRAUS": "Santa Claus",
     "THOUS": "thousand",
 
-    // -- Opportunities opened up by using -Z for -s ---------------------------
+    // -- Freeing up -S --------------------------------------------------------
+
+    // Using -Z for -s frees up -S for other sound patterns.
+    // e.g., TPAULS "falls"   -> "false"
+    //       TPAULZ "falls"
+    //       TPALS  "false"   -> "phallus"
+    //       TPAELS "females" -> "fallacy"
+    //       TPAELZ "females"
+    "TPAULS": "false",
+    "TPALS": "phallus",
+    "TPAELS": "fallacy",
 
     "PWAOEUS": "bias",     // use -Z for "buys"
-    "TPAULS": "false",     // use -Z for "falls"; frees up TPALS for "phallus" [1]
     "PEPBS": "pence",      // use -Z for "pens"
     "SAOEUPBS": "science", // use -Z for "signs"
-    /*1*/ "TPALS": "phallus",
 
-    // -S for -əs
+    // -əs
     "STKAOEURS": "desirous",  // use -Z for "desires"
     "STKAFRS": "disastrous",  // use -Z for "disasters"
     "STKAFRTS": "disastrous", // more phonetic ("dsastrs")
@@ -3166,7 +3174,7 @@
     "PALS": "palace", // use -Z for "pals"
     "SOLS": "solace",
 
-    // -S for -ius
+    // -ius
     "A/KWAEURS": "Aquarius",
     "SAPBLG": "Sag",
     "SAPBLG/TAEURS": "Sagittarius",
@@ -3175,7 +3183,7 @@
     "SKWRAO*EPBS": "genus", // -S "genius", -Z "genes"
     "T*EPBS": "tennis",     // -S "tense",  -Z "tens"
 
-    // -S for -əns
+    // -ance or -ence
     "SEPS": "acceptance",    // use -Z for "accepts"
     "AEURGS": "arrogance",   // use -Z for "airings"
     "AEURGT": "arrogant",
@@ -3192,7 +3200,7 @@
     "SREFLS": "irrelevance", // use -Z for "vessels"
     "SREFLT": "irrelevant",
 
-    // -S for -cy
+    // -cy
     "KURPBS": "currency",        // from KURPBT "current"; use -Z for "curtains"
     "TPEURBS": "efficiency",     // from TPEURBT "efficient"; use -Z for "fishes"
     "TPRAOEBGS": "frequency",    // from TPRAOEBGT "frequent"; use -Z for "freaks"
