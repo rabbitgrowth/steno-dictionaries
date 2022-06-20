@@ -483,11 +483,6 @@
     "TAOERGS": "deterioration",
     "SPWAOUF": "intuitive",  // cf. TWAOUF
     "SPWAOUGS": "intuition", // use STUGS for "substitution", cf. STUT "substitute"
-    "SPWEFRB": "observe", // OEB requires coming back for -G for "observing"
-                          // since OEBG is "oak"; give up "Internal Revenue"
-    "SPWEFRBGS": "observation", // cf. KWEFRB "conserve", KWEFRBGS "conservation"
-    "SPWEFRB/TOER": "observatory", // cf. OEB/TOER
-    "SPWEFRB/TREU": "observatory", // cf. OEB/TREU
     "PUBGS": "publication", // "pub-tion"; use -Z for "pucks"
     "SRAOEURBT": "vibrate",
     "SRAOEUBGS": "vibration", // "vibe-tion"
@@ -1404,6 +1399,31 @@
     "STUFRBL": "stumble",
     "TREFRBL": "tremble",
 
+    // -FRBG for -mic
+    "ABG/TKEFRBG": "academic",
+    "A/TPHAOEFRBG": "anemic",
+    "A/TOFRBG": "atomic",
+    "SRAFRBG": "ceramic",
+    "KOFRBG": "comic",
+    "TKAOEUFRBG": "dynamic", // instead of TKPHAOEUBG
+    "TKAOEU/TPHAFRBG": "dynamic",
+    "SPWEFRBG": "endemic",
+    "EPB/TKEFRBG": "endemic",
+    "EP/TKEFRBG": "epidemic",
+    "TPHOEFRBG": "gnomic",
+    "EUS/HRAFRBG": "Islamic",
+    "PHEUFRBG": "mimic",
+    "PAPB/TKEFRBG": "pandemic", // use PAPB/STKEFRBG for "pan deserving"
+                                // ("a frying pan deserving great attention")
+
+    "PHREFRBG": "polemic",
+    "PHREPL/EUBG": "polemic",      // standard
+    "PHREPL/K-L": "polemical",     // standard
+    "PHREPL/KHREU": "polemically", // standard
+    "PHREPL/SEUFT": "polemicist",
+    "PHREPL/SEUFTS": "polemicists",
+    "PHREPL/SAOEUZ": "polemicize",
+
     // -FRL for -məl
     "KAFRL": "camel",
     "AOE/TPHAFRL": "enamel",
@@ -1412,7 +1432,6 @@
 
     // Miscellaneous
     "AFRPBL": "animal",
-    "TKAOEUFRBG": "dynamic", // instead of TKPHAOEUBG
     "AOEFRL": "email",
     "STOFRBG": "stomach",
 
@@ -1445,7 +1464,6 @@
     "SPWHRER": "antler",
 
     "SPWEFR": "endeavor",
-    "SPWEFRBG": "endemic",
     "SPWHRES": "endless",
     "SPWHRELS": "endlessly",
     "SPWORS": "endorse",
@@ -4257,13 +4275,6 @@
     "KPWHRAUS/-BL": "implausible",
     "KPWHRAUS/-BLT": "implausibility",
     "KPWHRAUS/PWHREU": "implausibly",
-
-    "PHREPL/EUBG": "polemic",      // standard
-    "PHREPL/K-L": "polemical",     // standard
-    "PHREPL/KHREU": "polemically", // standard
-    "PHREPL/SEUFT": "polemicist",
-    "PHREPL/SEUFTS": "polemicists",
-    "PHREPL/SAOEUZ": "polemicize",
 
     "POF": "positive",
     "POFL": "positively",
