@@ -1347,19 +1347,12 @@
 
     "WORLS": "worthless",
 
-    // Use -FRLS for -mless with -FR as -m
-    "AEUFRLS": "aimless",
-    "HOEFRLS": "homeless",
-    "SAEFRLS": "seamless",
-    "SHAEUFRLS": "shameless",
-    "TAOEUFRLS": "timeless",
-
-    // -- -FR as -m ------------------------------------------------------------
+    // -- -FR for -m -----------------------------------------------------------
 
     // -FRP for -mp
-    // Precedents: HRAFRP   "lamp"   as an alternative to HRA*PL
-    //             SKWRUFRP "jump"                        SKWR*UPL
-    //             SHREUFRP "shrimp"                      SHR*EUPL
+    // Precedents: HRAFRP   "lamp"   (alternative to HRA*PL)
+    //             SKWRUFRP "jump"   (alternative to SKWR*UPL)
+    //             SHREUFRP "shrimp" (alternative to SHR*EUPL)
     "PWUFRP/KEUPB": "bumpkin",  // or use PWUPL/KEUPB (silent "p")
     "EFRP/THEBG": "empathetic", // cf. *EPL/THEBG
 
@@ -1372,7 +1365,7 @@
     "SAFRPB": "salmon",
     "SAOEFRPB": "semen",
     "SUFRPB": "summon", // alternative to SPHOPB
-    // But KOFRPB "conch", KPHOPB "common"
+    // But KPHOPB "common", KOFRPB "conch"
 
     // -FRB for -mber
     "AFRB": "amber",
@@ -1381,7 +1374,7 @@
     "SHRUFRB": "slumber",
     "SOFRB": "somber",
     "TEUFRB": "timber",
-    // ... but use -RPL when the "b" is silent
+    // But use -RPL when the "b" is silent:
     "PWORPL": "bomber", // give up "bodily harm"
     "KHRAOEURPL": "climber",
     "TKURPL": "dumber",
@@ -1428,6 +1421,13 @@
     "AOE/TPHAFRL": "enamel",
     "PRAOEUFRL": "primal",
     "PUFRL": "pummel",
+
+    // -FRLS for -mless
+    "AEUFRLS": "aimless",
+    "HOEFRLS": "homeless",
+    "SAEFRLS": "seamless",
+    "SHAEUFRLS": "shameless",
+    "TAOEUFRLS": "timeless",
 
     // Miscellaneous
     "AFRPBL": "animal",
