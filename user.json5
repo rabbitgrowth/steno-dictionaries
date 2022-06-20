@@ -1356,7 +1356,7 @@
     "PWUFRP/KEUPB": "bumpkin",  // or use PWUPL/KEUPB (silent "p")
     "EFRP/THEBG": "empathetic", // cf. *EPL/THEBG
 
-    // -FRPB for -mən
+    // -FRPB for -mn
     "TKAOEFRPB": "demon", // alternative to TKPHOPB
     "KPAFRPB": "examine",
     "TPAFRPB": "famine",
@@ -1416,7 +1416,7 @@
     "PHREPL/SEUFTS": "polemicists",
     "PHREPL/SAOEUZ": "polemicize",
 
-    // -FRL for -məl
+    // -FRL for -ml
     "KAFRL": "camel",
     "AOE/TPHAFRL": "enamel",
     "PRAOEUFRL": "primal",
