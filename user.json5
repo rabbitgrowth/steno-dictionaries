@@ -208,7 +208,6 @@
                                 //   but "symbolic" wins because it's much more common
     "THOR": "thorough",         // with THORL "thoroughly"; use THORZ for "authorize"
     "TREUGS": "transmission",   // with TREUT "transmit"; use TRAPBGS for "transition"
-    "TRAOEUPBG/-L": "triangle", // with SEUPBG/-L "single", APBG/-L "angle", etc.
     "SRERBGTS": "vectors",      // with SRERBGT "vector"; use SRERDZ for "verdicts"
     "WOEPB": "woken",           // with PWROEPB "broken", SPOEPB "spoken"
     "KWRAOEFRLD": "years old",  // with KWRAOERLD {^-year-old}; instead of KWRAERLDZ
@@ -2214,16 +2213,21 @@
     "TPHEFBLT": "inevitability", // - -T = "inevitable"
     "SRUBLT": "vulnerability",   // - -T = "vulnerable"
 
+    // -L for -le
+    // Precedents: APBG/-L "angle", SEUPBG/-L "single"
+    "SKWEUG/-L": "squiggle",
+    "TRAOEUPBG/-L": "triangle",
+
     // -LG for -gle
     // Precedents: TKPWAOLG "Google", STRULG "struggle"
-    "AOELG": "eagle",      // use SERBL for "essential"
+    "AOELG": "eagle", // use SERBL for "essential"
     "TKPWALG": "gaggle",
     "TKPWEULG": "giggle",
-    "TKPWOLG": "goggle",   // use SKWROLG for "geology"
+    "TKPWOLG": "goggle", // use SKWROLG for "geology"
     "HALG": "haggle",
     "SKWRULG": "juggle",
-    "SHEUPBLG": "shingle", // cf. SEUPBLG "single"
-    "STPHULG": "snuggle",  // cf. SPHULG "smuggle"
+    "SHEUPBLG": "shingle",
+    "STPHULG": "snuggle",
     "WREULG": "wriggle",
 
     // -LG for -lege
