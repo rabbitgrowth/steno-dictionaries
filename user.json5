@@ -1618,7 +1618,7 @@
     // But SEFRB "serve", S*EFRB "serf"
 
     // SKHR for shr- (borrowed from Phoenix)
-    // Plover resorts to an ugly vowel change to distinguish between
+    // Plover resorts to an ugly vowel change to disambiguate between
     // "shrink" and "slink":
     //   SHREUPBG   "sling"
     //   SHRAO*EPBG "slink" ("sleenk")
