@@ -1444,6 +1444,7 @@
     "PHAFRPL": "maximum", // frees up PHABGS for "max"
     "PHABGS": "max",
     "PHA*BGS": "Max",
+    "PHAEFRL": "mammal", // with E to disambiguate from "maximal"
 
     "KHRUFRB/KWRA": "Columbia",
     "HAFRL/TOPB": "Hamilton",
