@@ -699,12 +699,10 @@
 
     // U -> AOU
     "PWAO*ULG": "bulky", // give up "buccal"
-    "PWAOUL": "bully", // overrides "boule" [1]
     "PWAOUPB": "bunny",
     "KAOURL": "curly",
     "HAOURPBG": "hungry",
     "SAOURL": "surly",
-    /*1*/ "PWAO*UL": "boule",
 
     // OE -> OEU
     "SPHOEUBG": "smoky",
