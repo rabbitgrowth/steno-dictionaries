@@ -606,12 +606,12 @@
     // -- -ty ------------------------------------------------------------------
 
     // Add -T for -ty
-    "KRAOEFT": "creativity",   // from KRAOEF "creative"
-    "TKEUFLT": "difficulty",   // from TKEUFL "difficult"
-    "TPHREBLT": "flexibility", // from TPHREBL "flexible"
-    "TPORLT": "formality",     // from TPORL "formal"
-    "HROELT": "locality",      // from HROEL "local"; use AEULT for "a lot" (custom)
-    "RAELT": "reality",        // from RAEL "real"; use RELT for "relate"
+    "KRAOEFT": "creativity",
+    "TKEUFLT": "difficulty",
+    "TPHREBLT": "flexibility",
+    "TPORLT": "formality",
+    "HROELT": "locality", // use AEULT for "a lot" (custom)
+    "RAELT": "reality", // use RELT for "relate"
     "RAELTS": "realities",
 
     // With vowel change
