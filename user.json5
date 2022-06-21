@@ -610,6 +610,7 @@
     "TKEUFLT": "difficulty",   // from TKEUFL "difficult"
     "TPHREBLT": "flexibility", // from TPHREBL "flexible"
     "TPORLT": "formality",     // from TPORL "formal"
+    "HROELT": "locality",      // from HROEL "local"; use AEULT for "a lot" (custom)
     "RAELT": "reality",        // from RAEL "real"; use RELT for "relate"
     "RAELTS": "realities",
 
