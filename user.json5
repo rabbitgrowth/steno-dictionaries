@@ -365,7 +365,6 @@
     "KA*T/TKRAL": "cathedral",
     "KHOLT": "chocolate",
     "KHRAEURPBT": "clarinet",
-    "SKAOEL": "conceal", // cf. SKERT "concert" (the verb is stressed on the second syllable)
     "KAUPB/STELGS": "constellation", // cf. STELT "stellate"
     "KPRA*EUPBS": "contemporaneous", // KPRA*EURPBS - -R; - * = "extraneous"
     "KAUPLT": "contentment", // instead of KAUPBLT
@@ -1760,6 +1759,11 @@
     "STKPWHRAOUR": "injury",
     "STKPWHROEU": "enjoy",
     "STKPWHROEUPLT": "enjoyment",
+
+    // SK for conc-
+    "SKAOEL": "conceal",
+    "SKERPB": "concern", // use SKER for "cancer"; frees up KERPB for "kern" [1]
+    /*1*/ "KERPB": "kern",
 
     // SKP for exp-
     "SKPAPBD": "expand",
