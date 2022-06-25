@@ -4385,16 +4385,6 @@
     "KAUPB/TPHRAEUTD": "conflated",
     "KAUPBT/PHRAEUGS": "contemplation",
 
-    // "race" vs "raise"
-    // RAF  "rave"*   RAEUS  "race"    RAEUZ   "raise"
-    // RAFS "raves"   RAEUSZ "races"   RA*EUFS "raises"
-    // RAFG "raving"  RAEUFG "racing"  RA*EUFG "raising"
-    // RAFD "raved"   RAEUFD "raced"   RA*EUFD "raised"
-    // * like WAF "wave"
-    "RAEUFG": "racing", // use RAFG    for "raving"
-    "RAEUFD": "raced",  // use RA*EUFD for "raised"
-    "RAEUGZ": "raising",
-
     // -- Group reassignments --------------------------------------------------
 
     // TKPWRAT     "aggregate"
