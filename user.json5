@@ -3026,10 +3026,7 @@
     "TPHREBGZ": "flecks", // vs "flex"; use TPHRETS for "reflects" (custom)
     "PAUZ": "paws",       // vs "pause"
     "PRAEUZ": "prays",    // vs "praise"
-    /*1*/ "EUZ": "{^ize}",
-          "EUFD": "{^ized}",  // cf. AO*EUFD
-          "EUSZ": "{^izes}",
-          "EUFG": "{^izing}", // cf. AO*EUFG
+    /*1*/ "AO*EUS": "{^ize}", // cf. AO*EUFD {^ized}, AO*EUFG {^izing}
 
     // Swaps
     "TKPWAOEUS": "guise",
