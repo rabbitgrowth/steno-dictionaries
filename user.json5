@@ -4369,21 +4369,16 @@
     "WA*EUZ": "{^ways}", // give up "Waze" (GPS company)
     "WA*U": "{^away}",
 
-    // -- Easily confused words ------------------------------------------------
+    // -- Confusables ----------------------------------------------------------
 
-    // "contemplate" vs "conflate"
-    // The standard strokes are confusing:
-    //   KAUPB/TPHRAEUT    "contemplate" (use this for "conflate")
-    //   KAUPB/TPHRAEUTD   "contemplate"
-    //   KAUPB/TPHRAEUGS   "conflation"
-    //   KAUPB/TPHRA*EUT   "conflate"
-    //   KAUPB/TPHRA*EUGS  undefined
-    //   KAUPBT/PHRAEUT    "contemplate" (use this for "contemplate")
-    //   KAUPBT/PHRAEUTD   "contemplated"
-    //   KAUPBT/PHRAEUGS   "content population"
-    "KAUPB/TPHRAEUT": "conflate",
-    "KAUPB/TPHRAEUTD": "conflated",
-    "KAUPBT/PHRAEUGS": "contemplation",
+    "KAUPB/TPHRAEUT": "conflate",    // by default "contemplate"
+    "KAUPB/TPHRAEUTD": "conflated",  // by default also "contemplate"
+    "KAUPB/TPHRAEUGS": "conflation", // standard
+    "KAUPBT/PHRAEUT": "contemplate", // standard but technically conflicts with "content plate";
+                                     // {con^} + "template" also works
+    "KAUPBT/PHRAEUGS": "contemplation", // conflicts with "content population" [1]
+    /*1*/ "POPLGS": "population", // cf. POPLT "populate"
+          "POPGS": "population",  // "pop-tion"
 
     // -- Group reassignments --------------------------------------------------
 
