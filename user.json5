@@ -465,6 +465,7 @@
     "TPHAOEBG": "technique",
     "TAOEPBG": "teenage",
     "TAOERPBG": "teenager",
+    "TOD": "today", // misstroke for {^ed to}; use TO*D for "Todd"
     "TRAPBLG/TOER": "trajectory",
     "STPHAPL": "tsunami",
     "WORP": "worship", // give up "WordPress"
