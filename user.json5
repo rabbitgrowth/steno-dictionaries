@@ -3749,8 +3749,8 @@
     "WOPT": "wouldn't",
     /*1*/ "R-P": "respect", // misstroke for "reason"
           "R-FL": "respectful", // standard
-          "STKR-FL": "disrespectful",
           "STKR-P": "disrespect",
+          "STKR-FL": "disrespectful",
     /*2*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
           "HRUP": "{PLOVER:LOOKUP}", // give up "line up"
     /*3*/ "SREZ": "vice president",  // cf. PREZ  "president"
