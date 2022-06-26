@@ -3747,8 +3747,9 @@
     "PR-PT": "weren't", // wildly experimental: -RP reflected along vertical axis
     "WOEPT": "won't",
     "WOPT": "wouldn't",
-    /*1*/ "R-P": "respect", // misstroke for "reason"
+    /*1*/ "R-P": "respect",     // misstroke for "reason"
           "R-FL": "respectful", // standard
+          "R-F": "respective",  // give up "rf" (short for "radio frequency"?)
           "STKR-P": "disrespect",
           "STKR-FL": "disrespectful",
     /*2*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
@@ -4306,11 +4307,7 @@
     "TPHREF": "reflective",
 
     "RARLS": "regardless",
-    "R-F": "regardless of",
-    "R-FT": "regardless of the",
-    "RA*RLS": "irregardless",
-    "R*F": "irregardless of", // give up "reticular formation"
-    "R*FT": "irregardless of the",
+    "SRARLS": "irregardless",
 
     "RERP/HEPBD": "reprehend", // with -R
     "RERP/HEPBGS": "reprehension",
