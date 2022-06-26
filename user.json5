@@ -975,6 +975,7 @@
     "*L": "{^'ll}", // swap with {^le} [1]
     "*R": "{^'re}",
     "*S": "{^'s}",  // use -S or -Z for {^s}
+    "*Z": "{^s'}",  // -Z being associated with plurals
     "*F": "{^'ve}", // use -F for "of"
     /*1*/ "-L": "{^le}",
 
