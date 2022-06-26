@@ -458,7 +458,8 @@
     "SPHRAOEUT": "spotlight",
     "STRABG": "strategic", // cf. STRAPBLG "strategy"
     "STPEURBL": "superficial",
-    "SWAEUPBLS": "surveillance",
+    "SWAEUL": "surveil", // overrides "sexually" [2]
+    "SWAEULS": "surveillance",
     "SWART": "sweetheart",
     "STOPL": "symptom",
     "TPHAOEBG": "technique",
@@ -468,6 +469,7 @@
     "STPHAPL": "tsunami",
     "WORP": "worship", // give up "WordPress"
     /*1*/ "A*UBG": "awk", // give up "AUC"
+    /*2*/ "SWAEL": "sexually", // cf. SEBGS/WAEL
 
     "A/TPHAOEULT": "annihilate",
     "A/TPHAOEULGS": "annihilation",
