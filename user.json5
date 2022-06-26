@@ -2710,6 +2710,9 @@
 
     "KRAO": "according to",
     "KRAOT": "according to the",
+    "HAO": "how to", // give up "hoo"
+    "HAOB": "how to be",
+    "HAOBT": "how to be the",
     "TPHRAO": "in order to", // misstroke for "into"
     "TPHRAOB": "in order to be",
     "TPHRAOBT": "in order to be the",
