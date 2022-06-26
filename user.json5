@@ -1455,7 +1455,7 @@
     // -- Extensions -----------------------------------------------------------
 
     // SPW for [aeiou]n[dt]- in addition to int- and ent-
-    // It can be thought of as a mirror image of -PBT:
+    // It can be thought of as -PBT reflected:
     //   S P   P T
     //   S W   B
     //  *nt-   -nt
@@ -2673,8 +2673,8 @@
     "TPAOEUFP": "five people",
 
     // "... about"
-    // Instead of -BT, use -B, which can be thought of as a
-    // mirror image of PW and leaves room for -T for "the".
+    // Instead of -BT, use -B, which can be thought of as
+    // PW "about" reflected and leaves room for -T "the".
     "AUB": "all about", // use SAUB for {sub^}
     "AUBT": "all about the",
     "PWREUB": "bring about",
@@ -3744,7 +3744,7 @@
     "SHOPT": "shouldn't",
     "WUPT": "wasn't",
     "WR-PT": "weren't", // overrides "with respect" [1]
-    "PR-PT": "weren't", // wildly experimental: -RP reflected along vertical axis
+    "PR-PT": "weren't", // experimental: -RP reflected
     "WOEPT": "won't",
     "WOPT": "wouldn't",
     /*1*/ "R-P": "respect",     // misstroke for "reason"
