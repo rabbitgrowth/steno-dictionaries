@@ -3734,7 +3734,7 @@
     "AEUPT": "ain't",
     "R-PT": "aren't",   // overrides "respect" [1]
     "K-PT": "can't",    // K "can" negated; give up "can want"
-    "KOPT": "couldn't", // frees up KOPBT for "cotton"
+    "KOPT": "couldn't",
     "TK-PT": "didn't",  // use TKPARPLT for "department"
     "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION} [2]
     "TKOEPT": "don't",
