@@ -319,7 +319,7 @@
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELZ for "sells"
     /*1*/ "PR-FRP": "purchaser", // from PR-FP "purchase"
-    /*2*/ "STPHAT/KWRA": "sonata", // or use SO/TPHA/TA
+    /*2*/ "STPHAT/SKWRA": "sonata", // or use SO/TPHA/TA
 
     "TKPWUPB": "gun",     // overrides "begun"
     "TKPWAOUPB": "begun", // overrides "guan"
@@ -3607,7 +3607,7 @@
     // Places
     "PWREUPB": "Britain", // cf. PWREUT "Brit"; use PWHREUPB for "Brooklyn"
     "KWRAOURP/KWRAPB": "European",
-    "TKPWAPB/KWRA": "Ghana",
+    "TKPWAPB/SKWRA": "Ghana",
     "HRAS/SRAEUGS": "Las Vegas",
     "TKHROPB": "London", // give up "dorsal root ganglion"
     "HROS/APBLGS": "Los Angeles",
@@ -3649,8 +3649,8 @@
     //   P*EPBT/TKPWOPB "Pentagon"  HA*PL/HRET "Hamlet"
     // This feels right because the first syllable is the part where the
     // lowercase-to-uppercase change happens.
-    "TPH*EUR/SRAPB/KWRA": "Nirvana", // instead of TPHEUR/SRAPB/KWRA*
-    "SAO*UP/PHAPB": "Superman",      // instead of SAOUP/PHA*PB
+    "TPH*EUR/SRAPB/SKWRA": "Nirvana", // instead of TPHEUR/SRAPB/KWRA*
+    "SAO*UP/PHAPB": "Superman",       // instead of SAOUP/PHA*PB
 
     "PWHRA*BG/HRAOEUFZ/PHAERT": "Black Lives Matter",
 
@@ -3681,7 +3681,7 @@
 
     // Don't capitalize; use KPA if needed
     "TKAR/PHA": "dharma",
-    "TKARPL/KWRA": "dharma",
+    "TKARPL/SKWRA": "dharma",
     "PHABGS/EUPL": "maxim",
     "PHOR/ROE": "morrow",
     "OP/ED": "op-ed",
