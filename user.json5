@@ -3619,8 +3619,7 @@
     "WAOFRT": "Worcester",
 
     // Demonyms
-    "TPEUL/PEUPB/KWRA": "Filipina",
-    "TPEUL/PEUPB/KWRO": "Filipino",
+    "TPEUL/PEUPB/SKWRA": "Filipina", // cf. TPEUL/PEUPB/SKWRO "Filipino"
 
     // -- Capitalization -------------------------------------------------------
 
