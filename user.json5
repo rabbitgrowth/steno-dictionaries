@@ -3607,6 +3607,7 @@
     // Places
     "PWREUPB": "Britain", // cf. PWREUT "Brit"; use PWHREUPB for "Brooklyn"
     "KWRAOURP/KWRAPB": "European",
+    "TPEUL/PEUPB/SKWRA": "Filipina", // cf. TPEUL/PEUPB/SKWRO "Filipino"
     "TKPWAPB/SKWRA": "Ghana",
     "HRAS/SRAEUGS": "Las Vegas",
     "TKHROPB": "London", // give up "dorsal root ganglion"
@@ -3617,9 +3618,6 @@
     "RUGS": "Russian", // use -Z for "rugs"
     "AOU/SRAELD": "Uvalde",
     "WAOFRT": "Worcester",
-
-    // Demonyms
-    "TPEUL/PEUPB/SKWRA": "Filipina", // cf. TPEUL/PEUPB/SKWRO "Filipino"
 
     // -- Capitalization -------------------------------------------------------
 
