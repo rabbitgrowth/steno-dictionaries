@@ -3743,13 +3743,16 @@
     "SR-PT": "haven't", // overrides "vice president" [3]
     "SHOPT": "shouldn't",
     "WUPT": "wasn't",
-    "WR-PT": "weren't", // use WR-P for "with respect" (custom)
+    "WR-PT": "weren't", // overrides "with respect" [1]
     "PR-PT": "weren't", // wildly experimental: -RP reflected along vertical axis
     "WOEPT": "won't",
     "WOPT": "wouldn't",
     /*1*/ "R-P": "respect",     // misstroke for "reason"
           "R-FL": "respectful", // standard
           "R-F": "respective",  // give up "rf" (short for "radio frequency"?)
+          "WR-P": "with respect",
+          "WR-T": "with respect to", // use -RPT for "were the"
+          "WR*T": "w.r.t.",
           "STKR-P": "disrespect",
           "STKR-FL": "disrespectful",
     /*2*/ "TKUP": "{PLOVER:ADD_TRANSLATION}",
