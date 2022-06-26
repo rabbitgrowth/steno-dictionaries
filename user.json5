@@ -3737,7 +3737,7 @@
                      // - cf. K-PBT "can't"
                      // - give up "can want"
     "KOPT": "couldn't", // frees up KOPBT for "cotton"
-    "TK-PT": "didn't",  // use TKEPT for "department" (think "Dept")
+    "TK-PT": "didn't",  // use TKPARPLT for "department"
     "TKUPT": "doesn't", // overrides {PLOVER:ADD_TRANSLATION} [2]
     "TKOEPT": "don't",
     "H-PT": "hadn't",
@@ -4045,10 +4045,6 @@
 
     "TUL": "actual",
     "TAOUL": "actually",
-
-    "TKOPT": "adopt",  // standard
-    "TKAPT": "adapt",  // by default just "dapt" - meant to be used with {a^}?
-    "TKAEPT": "adept", // A easily folded in; TKEPT is "department"
 
     "TKPWREF": "aggressive", // use TKPWRAO*EF for "grieve" (TKPWRAOEF "grief" + *)
     "TKPWREGS": "aggression",
@@ -4372,6 +4368,13 @@
     "WA*U": "{^away}",
 
     // -- Confusables ----------------------------------------------------------
+
+    "TKOPT": "adopt",       // standard
+    "TKOPGS": "adoption",   // standard
+    "TKAPT": "adapt",       // by default just "dapt" - meant to be used with {a^}?
+    "TKAPGS": "adaptation", // use A/TKAPGS for "adaption", which is much rarer
+    "TKAEPT": "adept",      // unlike "adopt" and "adapt", A can be folded in
+    "TKEPT": "deputy",      // use TKPARPLT for "department"
 
     "KAUPB/TPHRAEUT": "conflate",    // by default "contemplate"
     "KAUPB/TPHRAEUTD": "conflated",  // by default also "contemplate"
