@@ -4777,138 +4777,138 @@
 
     // -- Phoenix-style homophone disambiguation -------------------------------
 
-    "AD/H-F": "ad",                 // from "add"
+    "AD/H-F": "ad",                // from "add"
     "ADZ/H-F": "ads",
-    "AS/H-F": "ass",                // from "as"
-    "AU/H-F": "aw",                 // from "awe"
-    "AOEU/H-F": "aye",              // from "eye"
-    "PWAPBD/H-F": "banned",         // from "band"
-    "PWARD/H-F": "barred",          // from "bard"
-    "PWAOEFP/H-F": "beach",         // from "beech"
-    "PWAOET/H-F": "beat",           // from "beet"
-    "PWORD/H-F": "board",           // from "bored"
-    "PWRAEUS/H-F": "braise",        // from "brace"
-    "PWRAOEFP/H-F": "breach",       // from "breech"
-    "PWUT/H-F": "butt",             // from "but"
-    "PWAOEU/H-F": "bye",            // from "buy"
-    "SAOELG/H-F": "ceiling",        // from "sealing"
-    "SEL/H-F": "cell",              // from "sell"
+    "AS/H-F": "ass",               // from "as"
+    "AU/H-F": "aw",                // from "awe"
+    "AOEU/H-F": "aye",             // from "eye"
+    "PWAPBD/H-F": "banned",        // from "band"
+    "PWARD/H-F": "barred",         // from "bard"
+    "PWAOEFP/H-F": "beach",        // from "beech"
+    "PWAOET/H-F": "beat",          // from "beet"
+    "PWORD/H-F": "board",          // from "bored"
+    "PWRAEUS/H-F": "braise",       // from "brace"
+    "PWRAOEFP/H-F": "breach",      // from "breech"
+    "PWUT/H-F": "butt",            // from "but"
+    "PWAOEU/H-F": "bye",           // from "buy"
+    "SAOELG/H-F": "ceiling",       // from "sealing"
+    "SEL/H-F": "cell",             // from "sell"
     "SELZ/H-F": "cells",
-    "SERPBS/H-F": "censor",         // from "sensor"
-    "SAOERL/H-F": "cereal",         // from "serial"
+    "SERPBS/H-F": "censor",        // from "sensor"
+    "SAOERL/H-F": "cereal",        // from "serial"
     "SAOERLZ/H-F": "cereals",
-    "KORD/H-F": "chord",            // from "cord"
+    "KORD/H-F": "chord",           // from "cord"
     "KORDZ/H-F": "chords",
-    "TKAPL/H-F": "damn",            // from "dam"
-    "TKAOER/H-F": "dear",           // from "deer"
-    "TKAOERL/H-F": "dearly",        // from "dealer"
-    "STKERT/H-F": "dessert",        // from "desert"
+    "TKAPL/H-F": "damn",           // from "dam"
+    "TKAOER/H-F": "dear",          // from "deer"
+    "TKAOERL/H-F": "dearly",       // from "dealer"
+    "STKERT/H-F": "dessert",       // from "desert"
     "STKERTS/H-F": "desserts",
-    "TKWAOEUS/H-F": "devise",       // from "device"
-    "TKAOU/H-F": "dew",             // from "due"
+    "TKWAOEUS/H-F": "devise",      // from "device"
+    "TKAOU/H-F": "dew",            // from "due"
     "TKAOUZ/H-F": "dews",
-    "TKEUFBG/H-F": "disk",          // from "disc"
-    "TKOE/H-F": "doe",              // from "dough"
-    "AOEUD/H-F": "eyed",            // from "I'd"
-    "TPHROUR/H-F": "flour",         // from "flower"
+    "TKEUFBG/H-F": "disk",         // from "disc"
+    "TKOE/H-F": "doe",             // from "dough"
+    "AOEUD/H-F": "eyed",           // from "I'd"
+    "TPHROUR/H-F": "flour",        // from "flower"
     "TPHROURZ/H-F": "flours",
-    "TPOR/H-F": "fore",             // from "for"
-    "TKPWAEUT/H-F": "gate",         // from "gait"
-    "TKPWEULT/H-F": "gilt",         // from "guilt"
-    "HAUL/H-F": "haul",             // from "hall"
+    "TPOR/H-F": "fore",            // from "for"
+    "TKPWAEUT/H-F": "gate",        // from "gait"
+    "TKPWEULT/H-F": "gilt",        // from "guilt"
+    "HAUL/H-F": "haul",            // from "hall"
     "HAULD/H-F": "hauled",
     "HAULZ/H-F": "hauls",
-    "HAEU/H-F": "hay",              // from "hey"
-    "HAOEL/H-F": "heal",            // from "heel"
+    "HAEU/H-F": "hay",             // from "hey"
+    "HAOEL/H-F": "heal",           // from "heel"
     "HAOELZ/H-F": "heals",
-    "HAEUR/H-F": "heir",            // from "hair"
+    "HAEUR/H-F": "heir",           // from "hair"
     "HAEURZ/H-F": "heirs",
-    "HAOU/H-F": "hew",              // from "hue"
+    "HAOU/H-F": "hew",             // from "hue"
     "HAOUD/H-F": "hewed",
     "HAOUZ/H-F": "hews",
-    "HAOEUR/H-F": "hire",           // from "higher"
-    "HAOEURD/H-F": "hired",         // from {hydro^}
-    "SKWREUPL/H-F": "Jim",          // from "gym"
-    "EUPB/SEPBS/H-F": "innocence",  // from "incense"
+    "HAOEUR/H-F": "hire",          // from "higher"
+    "HAOEURD/H-F": "hired",        // from {hydro^}
+    "SKWREUPL/H-F": "Jim",         // from "gym"
+    "EUPB/SEPBS/H-F": "innocence", // from "incense"
     "EUPB/SRAEUGS/H-F": "innovation", // from "invasion"
-    "TPHAOEUT/H-F": "knight",       // from "night"
+    "TPHAOEUT/H-F": "knight",      // from "night"
     "TPHAOEUTS/H-F": "knights",
-    "TPHOT/H-F": "knot",            // from "not"
-    "HRAOEUPB/H-F": "lion",         // from "line"
+    "TPHOT/H-F": "knot",           // from "not"
+    "HRAOEUPB/H-F": "lion",        // from "line"
     "HRAOEUPBZ/H-F": "lions",
-    "HREUPD/H-F": "lipped",         // from "lipid"
-    "HROEPB/H-F": "loan",           // from "lone"
-    "PHAEUPB/H-F": "Maine",         // from "main"
-    "PHARBGS/H-F": "Marx",          // from "marks"
-    "PHAER/H-F": "Mary",            // from "marry"
-    "HRAOUS/H-F": "loose",          // from "lose"
-    "PHORPB/H-F": "mourn",          // from "morn"
+    "HREUPD/H-F": "lipped",        // from "lipid"
+    "HROEPB/H-F": "loan",          // from "lone"
+    "PHAEUPB/H-F": "Maine",        // from "main"
+    "PHARBGS/H-F": "Marx",         // from "marks"
+    "PHAER/H-F": "Mary",           // from "marry"
+    "HRAOUS/H-F": "loose",         // from "lose"
+    "PHORPB/H-F": "mourn",         // from "morn"
     "PHORPBG/H-F": "mourning",
     "PHORPBZ/H-F": "mourns",
-    "PHOEPB/H-F": "mown",           // from "moan"
-    "TPHAOEUF/H-F": "naive",        // from "knife"
-    "ORD/TPHAPBS/H-F": "ordnance",  // from "ordinance"
-    "OR/H-F": "ore",                // from "or"
-    "PAEUPB/H-F": "pane",           // from "pain"
+    "PHOEPB/H-F": "mown",          // from "moan"
+    "TPHAOEUF/H-F": "naive",       // from "knife"
+    "ORD/TPHAPBS/H-F": "ordnance", // from "ordinance"
+    "OR/H-F": "ore",               // from "or"
+    "PAEUPB/H-F": "pane",          // from "pain"
     "PAEUPBZ/H-F": "panes",
-    "PAOES/H-F": "peace",           // from "piece"
-    "TPEUL/H-F": "Phil",            // from "fill"
-    "PAOEBG/H-F": "peak",           // from "peek"
+    "PAOES/H-F": "peace",          // from "piece"
+    "TPEUL/H-F": "Phil",           // from "fill"
+    "PAOEBG/H-F": "peak",          // from "peek"
     "PAOEBGD/H-F": "peaked",
     "PAOEBGZ/H-F": "peaks",
-    "PHRAEUPB/H-F": "plane",        // from "plain"
+    "PHRAEUPB/H-F": "plane",       // from "plain"
     "PHRAEUPBZ/H-F": "planes",
-    "POEL/H-F": "poll",             // from "pole"
+    "POEL/H-F": "poll",            // from "pole"
     "POELZ/H-F": "polls",
-    "PRAEU/H-F": "prey",            // from "pray"
+    "PRAEU/H-F": "prey",           // from "pray"
     "PRAEUD/H-F": "preyed",
     "PRAEUG/H-F": "preying",
     "PRAEUZ/H-F": "preys",
-    "PREUPB/H-F": "principal",      // from "principle"
+    "PREUPB/H-F": "principal",     // from "principle"
     "PREUPBZ/H-F": "principals",
-    "PROFT/H-F": "prophet",         // from "profit"
+    "PROFT/H-F": "prophet",        // from "profit"
     "PROFTS/H-F": "prophets",
-    "RAEUS/H-F": "raise",           // from "race"
-    "RAOEL/H-F": "real",            // from "reel"
-    "RAEUPB/H-F": "rein",           // from "rain"
-    "REFRPBS/H-F": "reverence",     // from "reference"
-    "RAOEUS/H-F": "rise",           // from "rice"
-    "RAOEUFL/H-F": "rival",         // from "rifle"
+    "RAEUS/H-F": "raise",          // from "race"
+    "RAOEL/H-F": "real",           // from "reel"
+    "RAEUPB/H-F": "rein",          // from "rain"
+    "REFRPBS/H-F": "reverence",    // from "reference"
+    "RAOEUS/H-F": "rise",          // from "rice"
+    "RAOEUFL/H-F": "rival",        // from "rifle"
     "RAOEUFLZ/H-F": "rivals",
-    "ROED/H-F": "road",             // from "rode"
-    "ROEL/H-F": "roll",             // from "role"
+    "ROED/H-F": "road",            // from "rode"
+    "ROEL/H-F": "roll",            // from "role"
     "ROELZ/H-F": "rolls",
-    "ROEPL/H-F": "Rome",            // from "roam"
-    "SOE/H-F": "sew",               // from "sow"
+    "ROEPL/H-F": "Rome",           // from "roam"
+    "SOE/H-F": "sew",              // from "sow"
     "SOED/H-F": "sewed",
     "SOEPB/H-F": "sewn",
-    "SAOEUD/H-F": "sighed",         // from "side"
-    "SAOEUT/H-F": "site",           // from "sight"
+    "SAOEUD/H-F": "sighed",        // from "side"
+    "SAOEUT/H-F": "site",          // from "sight"
     "SAOEUTS/H-F": "sites",
-    "STAEUR/H-F": "stare",          // from "stair"
+    "STAEUR/H-F": "stare",         // from "stair"
     "STAEURZ/H-F": "stares",
-    "STAOEL/H-F": "steal",          // from "steel"
+    "STAOEL/H-F": "steal",         // from "steel"
     "STAOELZ/H-F": "steals",
-    "STRAEUT/H-F": "strait",        // from "straight"
+    "STRAEUT/H-F": "strait",       // from "straight"
     "STRAEUTS/H-F": "straits",
-    "SWAEUD/H-F": "suede",          // from "swayed"
-    "SWAOET/H-F": "suite",          // from "sweet"
-    "S*EUPBG/H-F": "sync",          // from "sink"
+    "SWAEUD/H-F": "suede",         // from "swayed"
+    "SWAOET/H-F": "suite",         // from "sweet"
+    "S*EUPBG/H-F": "sync",         // from "sink"
     "S*EUPBGZ/H-F": "syncs",
-    "TAOE/H-F": "tea",              // from "tee"
+    "TAOE/H-F": "tea",             // from "tee"
     "TAOEZ/H-F": "teas",
-    "TAOER/H-F": "tear",            // from "tier"
+    "TAOER/H-F": "tear",           // from "tier"
     "TAOERZ/H-F": "tears",
-    "THROEPB/H-F": "throne",        // from "thrown"
-    "THAOEU/H-F": "thy",            // from "thigh"
-    "TAOEUD/H-F": "tied",           // from "tide"
-    "SRAEUPB/H-F": "vein",          // from "vain"
-    "SRAOEUL/H-F": "vial",          // from "vile"
-    "WAEUFT/H-F": "waste",          // from "waist"
-    "WAEUFR/H-F": "waver",          // from "waiver"
+    "THROEPB/H-F": "throne",       // from "thrown"
+    "THAOEU/H-F": "thy",           // from "thigh"
+    "TAOEUD/H-F": "tied",          // from "tide"
+    "SRAEUPB/H-F": "vein",         // from "vain"
+    "SRAOEUL/H-F": "vial",         // from "vile"
+    "WAEUFT/H-F": "waste",         // from "waist"
+    "WAEUFR/H-F": "waver",         // from "waiver"
     "WAEUFRD/H-F": "wavered",
     "WAEUFRZ/H-F": "wavers",
-    "KWROEBG/H-F": "yoke",          // from "yolk"
+    "KWROEBG/H-F": "yoke",         // from "yolk"
     "KWROEBGZ/H-F": "yokes",
 
 }
