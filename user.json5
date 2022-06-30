@@ -1198,7 +1198,7 @@
     "WAURBG": "walker", // overrides "Washington, D.C."
     "WAFRP": "watcher",
     /*1*/ "SHEFR": "chèvre", // with proper diacritic; give up "she ever"
-    /*2*/ "WA*/WA*": "Washington, D.C.",
+    /*2*/ "WARBG/TOPB/TKAOES": "Washington, D.C.",
 
     "TEURPBD": "tinder",
     "T*EURPBD": "Tinder",
