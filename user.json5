@@ -947,8 +947,9 @@
     "ABG": "{^atic}", // cf. TKRABG "dramatic", PRO*B/ABG "problematic"; give up "ack"
     "PWO*BGS": "{^box}",
     "TKERBG": "{^-decker}", // "double-decker"
-    "HRAO*D": "{^load}",    // "truckload", "boatload", "shitload", etc.
-    "WAO*EUD": "{^wide}",   // without hyphen
+    "HRAO*D": "{^load}", // "truckload", "boatload", "shitload", etc.
+    "WAO*EUD": "{^wide}", // without hyphen
+    "W*EUPBD": "{^wind}", // "woodwind", "headwind", "whirlwind", etc.
     "WR*EUR": "{^writer}",
 
     "-FRPB": "{^man}",
