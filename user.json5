@@ -259,6 +259,7 @@
     "KHRAPBD/STEUPB": "clandestine",
     "KAUPB/STAPBS/KWREU": "constancy", // or use "constant" + {^cy}
     "KO/TPHUPB/TKRUPL": "conundrum",
+    "KPHOS": "cosmos", // "os" shared between "c" and "m"
     "TKHREURBT": "deliberate", // with -R
     "TKHREURBLT": "deliberately",
     "TKEUS/PEUBG/-BL": "despicable", // with EU instead of the orthographic E
@@ -4602,19 +4603,18 @@
     // -- Miscellaneous --------------------------------------------------------
 
     "KWRAEUR": "area",    // /ɛrj/
-    "SPWAR": "bizarre",   // allow dropping * for "z" because of PW in between
+    "SPWAR": "bizarre",   // drop * for "z" because of PW in between
     "PWOEUR": "bury",     // OEU to reflect weirdness of "u" being pronounced /ɛ/
     "KAUFT": "caste",     // AU for /ɑ/
     "KR-RG": "category",  // [c]ate[g]o[r]y; also symmetrical
-    "KPHOS": "cosmos",    // "os" shared between "c" and "m"
     "KREPB": "century",   // first three letters
     "KWOEBG": "echo",     // left side ("qo"?) "echoing" the right side visually
-    "HOELT": "hotel",     // anagram and vaguely phonetic
+    "HOELT": "hotel",     // vaguely phonetic anagram
     "EU/E": "i.e.",
     "HRAO*EULG": "lilac", // *LG for "lk" with vowel in between
     "O/ER": "o'er",
     "PO*EUPB": "piano",   // wildcard OEU; - * = "appoint"
-    "-PLS": "please",
+    "-PLS": "please",     // alternative to PHRAOES
     "-PT": "want",        // standard phrase ender used on its own
 
     // "fragile" is TPRALG or TPRAPBLG. I like TPRAPBLG better,
