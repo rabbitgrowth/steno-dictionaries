@@ -1197,8 +1197,7 @@
     "WAEURPBLG": "wager",
     "WAURBG": "walker", // overrides "Washington, D.C."
     "WAFRP": "watcher",
-    /*1*/ "KH*EFR": "chèvre", // with proper diacritics
-          "SH*EFR": "chèvre", // phonetic
+    /*1*/ "SHEFR": "chèvre", // with proper diacritic; give up "she ever"
     /*2*/ "WA*/WA*": "Washington, D.C.",
 
     "TEURPBD": "tinder",
