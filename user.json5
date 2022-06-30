@@ -1015,12 +1015,12 @@
     "TPAEURPL": "affirm", // misstroke for "fairly"
     "TPHRAEUBGT": "afflict",
     "TPHRAEUBGS": "affliction", // use -Z for "flakes"
-    "HAED": "ahead",
+    "HAED": "ahead", // use HED for "head"
     "HRAEUF": "alive",
     "HRAEUFPBS": "aliveness",
     "HRAEPBLG": "allege",
     "PHAEPBD": "amend",
-    "PHAEPLT": "amendment",  // use PHAEPBTS for "amenities" (custom)
+    "PHAEPLT": "amendment", // use PHAEPBTS for "amenities" (custom)
     "PHA*EPLT": "Amendment", // "the 13th Amendment"
     "PHAEPBT": "amenity",
     "RAEFT": "arrest",
