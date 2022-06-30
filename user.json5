@@ -216,17 +216,6 @@
     "TPHOEU": "annoy",        // with TPHOEUG "annoying", TPHOEUD "annoyed"
     "TPHOEUPBS": "annoyance", // give up "no one's"
 
-    "PWROE": "borrow",     // with SROE "sorrow"; use PWRO for "borough"
-    "PWROEG": "borrowing", // much nicer than PWO*ERPBG; overrides "brogue"
-    "PWRO*EG": "brogue",
-    // SROE  "sorrow" -- PWROE   "borrow"
-    // SROEG "vogue"     PWROEG  "borrowing"
-    //                   PWRO*EG "brogue"
-    //                   PWROEZ  "borrows"
-    //                   PWROED  "borrowed"
-    //                   PWROER  "brother"  -- PHOER "mother"
-    //                   PWRO*ER "borrower"    TPAER "father"
-
     "HORL": "horizontal", // with SRERL "vertical"
     "HORZ": "horizon",    // HRAOEUFPB is "liven"; also using HR for hr- feels weird
 
