@@ -285,7 +285,6 @@
     "PHEFRPBG": "messenger", // "mesnjr"; alternative to PHAEPBG
     "PHAOUFPL": "mutual",
     "TPHAFPBT": "nascent",
-    "TPHAOERPBS": "nearness",
     "TPHAOUFPBS": "nuisance",
     "TPHUPL": "numb", // use TPHURPL for "number"
     "TPHAOEUPBL": "nylon",
@@ -315,8 +314,7 @@
     "SRAPBL/TAOEUPB": "valentine",
     "WES/KEUT": "waistcoat",
     "WEFBGT": "waistcoat",
-    "WAOERPBS": "weariness",
-    "WEURLD/-PBS": "wilderness",
+    "WEURLD/-PBS": "wilderness", // with -R
     "KWROERGT": "yogurt",
     "S*ELT": "zealot",  // use SELT for "settle"
     "S*ELS": "zealous", // use SELZ for "sells"
@@ -473,7 +471,9 @@
     "TOD": "today", // misstroke for {^ed to}; use TO*D for "Todd"
     "TRAPBLG/TOER": "trajectory",
     "STPHAPL": "tsunami",
+    "WAOERPBS": "weariness",
     "WORP": "worship", // give up "WordPress"
+    "WORLS": "worthless",
     /*1*/ "A*UBG": "awk", // give up "AUC"
     /*2*/ "SWAEL": "sexually", // cf. SEBGS/WAEL
 
@@ -1246,6 +1246,10 @@
     "SPRO*RT": "supporter",
     "WRAOERD": "weirder",
 
+    // Fold in -PBS for -ness
+    "TPHAOERPBS": "nearness",
+    "SHROEPBS": "slowness",
+
     // Fold in -L for -ly
     "KORLG": "accordingly",
     "SHAURLD": "assuredly",
@@ -1351,8 +1355,6 @@
     "SPAOEFPLS": "speechless",
     "SPAOEUPBLS": "spineless",
     /*1*/ "PRAOEULS": "precisely",
-
-    "WORLS": "worthless",
 
     // -- -FR for -m -----------------------------------------------------------
 
