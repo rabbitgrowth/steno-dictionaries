@@ -341,6 +341,9 @@
     "SER/TEUFBGT": "certificate",
     "STEUFBGT": "certificate",
 
+    "PRE/SRAEULS": "prevalence", // to PREFLS; use -Z for "prevails"
+    "PRE/SRAEULT": "prevalent",  // to PREFLT
+
     // -- Approximately phonetic -----------------------------------------------
 
     "ABD": "abandon",
