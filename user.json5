@@ -264,6 +264,7 @@
     "TKEUS/PEUBG/-BL": "despicable", // with EU instead of the orthographic E
     "TKEUS/PEUBG/PWHREU": "despicably",
     "TKROEUD": "droid", // use STROEUD for "destroyed"
+    "SPWRUFT": "entrust",
     "EFPBS": "essence", // add * for "Evans", which works because *EFPB is "Evan"
     "KWRAOUBG/HREUP/TUS": "eucalyptus",
     "KWRAOUBG/HREUPT/US": "eucalyptus", // cf. AOUBG/HREUPT/US
@@ -994,6 +995,7 @@
     // since I've defined ARD as "around". But even though ORPBG is "orange",
     // that doesn't mean I have to use -RPBG for "range". Granted, "round"
     // and "around" are much more closely related than "range" and "orange".
+    "AOEG/-R": "eager",
     "UT/-R": "utter",
     "UT/-RL": "utterly",
     "TPAOEUR/KRABG/-R": "firecracker",
@@ -1122,6 +1124,7 @@
     "PWHRAOERBG": "bleaker", // cf. PWAOERBG "beaker"
     "PWHRURPBD": "blunder",
     "PWORBGS": "boxer",
+    "KARPBS": "cancer", // cf. TKARPBS "dancer"
     "KAEURP": "caper",
     "KHARLG": "challenger",
     "KHERBG": "checker",
@@ -2935,6 +2938,7 @@
 
     "PWU": "about you", // use PWUT for "but"
     "TPHEUFT": "any of the", // use EUFT for {^ist}
+    "SPHAFBGT": "as a matter of fact", // with -F
     "SKHER": "ask her",
     "SKHEUPL": "ask him",
     "TA*UL": "at all", // - * = "tall"; give up {^-tall}
@@ -3423,6 +3427,7 @@
     "STPAOEUFD": "sufficed",
     "STPAOEUFG": "sufficing",
     "TAOEFD": "teased",
+    "SROEUFG": "voicing",
     /*1*/ "RAEUFRPBD": "Raymond",
 
     // -G as shortcut for -BG/-G
@@ -4485,6 +4490,8 @@
     "STOL/EUD": "stolid", // cf. SOLD    "solid"
     "THREPBD": "threnody", // misstroke for "lend it"
     "THREPB/TKEU": "threnody",
+    "TRAUPL/TA": "traumata",
+    "TRAUPLT": "traumata",
     "SR*EUZ": "viz.", // - * = "advise"
     "W*URT": "wuther",
     /*1*/ "AO*EF": "Eve", // use A*EF for "eave"
@@ -4781,6 +4788,7 @@
 
     // -- Phoenix-style homophone disambiguation -------------------------------
 
+    "AB/RAEUGS/H-F": "aberration", // from "abrasion"
     "AD/H-F": "ad",                // from "add"
     "ADZ/H-F": "ads",
     "AS/H-F": "ass",               // from "as"
@@ -4796,6 +4804,9 @@
     "PWUT/H-F": "butt",            // from "but"
     "PWAOEU/H-F": "bye",           // from "buy"
     "SAOELG/H-F": "ceiling",       // from "sealing"
+    "SAOELGZ/H-F": "ceilings",
+    "SAOEL/-G/H-F": "ceiling",
+    "SAOEL/-GZ/H-F": "ceilings",
     "SEL/H-F": "cell",             // from "sell"
     "SELZ/H-F": "cells",
     "SERPBS/H-F": "censor",        // from "sensor"
