@@ -4570,6 +4570,7 @@
     "EU/E": "i.e.",
     "HRAO*EULG": "lilac", // *LG for "lk" with vowel in between
     "O/ER": "o'er",
+    "AUPBL": "online",
     "PO*EUPB": "piano",   // wildcard OEU; - * = "appoint"
     "-PLS": "please",     // alternative to PHRAOES
     "-PT": "want",        // standard phrase ender used on its own
