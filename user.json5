@@ -787,8 +787,6 @@
     "SA*EL": "zeal", // use SAOEL for "seal"
 
     // Miscellaneous
-    "SRAE": "area", // wildcard S
-
     "STKAE": "idea",   // KWR-D "I had"
     "STKAEL": "ideal", // KWR-L "I will", KWR-LD "I would" (see phrasing/)
     "STKHRAEL": "ideally",
@@ -4591,6 +4589,7 @@
     // -- Miscellaneous --------------------------------------------------------
 
     "SKW": "and",         // SKP with P moved down
+    "KWRAEUR": "area",    // /ɛrj/
     "SPWAR": "bizarre",   // allow dropping * for "z" because of PW in between
     "PWOEUR": "bury",     // OEU to reflect weirdness of "u" being pronounced /ɛ/
     "KAUFT": "caste",     // AU for /ɑː/
