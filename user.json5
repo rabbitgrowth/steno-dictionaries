@@ -1048,6 +1048,7 @@
     "TAEPBD": "attend",
     "TAEPBTD": "attended",
     "SRAEPBG": "avenge",
+    "SRAERPBG": "avenger",
     "SRAERT": "avert", // frees up AFRT for "artist" [2]
     "SRAERS": "averse", // use -Z for "varies"
     "SRAERGS": "aversion",
