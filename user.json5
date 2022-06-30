@@ -3232,7 +3232,7 @@
     "TPRAOEBGS": "frequency",    // from TPRAOEBGT "frequent"; use -Z for "freaks"
     "TRAEURPBS": "transparency", // from TRAEURPBT "transparent"; use -Z for "trainers"
 
-    "PRAOEUFS": "privacy", // from PRAOEUFT "private"; use PRAOEUS/-S for "prices"
+    "PRAOEUFS": "privacy", // from PRAOEUFT "private"; come back for -S for "prices"
     "PREUFS": "privacy",   // use PREUFLGZ for "privileges"
 
     // -- Conflictful sound patterns involving -Z ------------------------------
