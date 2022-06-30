@@ -68,7 +68,6 @@
     "K-FDZ": "kinds of",
     "PH-D": "mind",   // overrides "PhD" [2]
     "PH-DZ": "minds", // overrides "merchandise" [3]
-    "PH-TD": "minded",
     "PH-GD": "minding",
     /*1*/ "K-FS": "confidence", // cf. PREPBT "present"
                                 //     PREPBS "presence"
@@ -1046,7 +1045,6 @@
     "SAURPBD": "asunder",
     "TAEPLT": "attempt",
     "TAEPBD": "attend",
-    "TAEPBTD": "attended",
     "SRAEPBG": "avenge",
     "SRAERPBG": "avenger",
     "SRAERT": "avert", // frees up AFRT for "artist" [2]
@@ -1524,7 +1522,6 @@
     "KPWARBG": "embark",
     "KPWAES": "embassy",
     "KPWED": "embed",
-    "KPWETD": "embedded",
     "KPWER": "ember",
     "KPWHRAEUFPB": "emblazon",
     "KPWHREPL": "emblem",
@@ -1570,7 +1567,6 @@
     "KPWAOEFP": "impeach",
     "KPWAOEFPLT": "impeachment", // cf. EUPL/PAOEFPLT
     "KPWAOED": "impede",
-    "KPWAOETD": "impeded",
     "KPWED/-PLT": "impediment",
     "KPWEL": "impel",
     "KPWEPBD": "impend",
@@ -1580,7 +1576,6 @@
     "KPWHREUBGS": "implication", // misstroke for "complication"
     "KPWHREUFT": "implicit",
     "KPWHROED": "implode",
-    "KPWHROETD": "imploded",
     "KPWHROR": "implore",
     "KPWHROEGS": "implosion",
     "KPWHROEF": "implosive",
@@ -1796,7 +1791,6 @@
     "SKPHREUFT": "explicit",
     "SKPHREUFLT": "explicitly",
     "SKPHROED": "explode",
-    "SKPHROETD": "exploded",
     "SKPHROEUT": "exploit",
     "SKPHROR": "explore",
     "SKPHRORGS": "exploration",
@@ -2469,7 +2463,6 @@
     "PEFRT": "pester",             // use P-F for "perfect"
     "PREUPBL": "provisional",      // use PREUPB for "principle"
     "REUPBD": "remind",            // cf. HEUPBD "behind"
-    "REUPBTD": "reminded",
     "REURPBD": "reminder",
     "ROPBT": "rotten",
     "SEUFR": "scissor",
@@ -3459,38 +3452,6 @@
     "KPHREUBGD": "complicated",
     "KEBGD": "connected",
     "TKAEUBGD": "educated",
-
-    // Fold in -T for -ed if the verb already ends with -d
-    // Precedents: TPHAOETD "needed", STKAOEUTD "decided"
-    "ATD": "added", // misstroke for "at"
-    "AEUTD": "aided",
-    "KROUTD": "crowded",
-    "TKEFTD": "defended",
-    "TKPHAPBTD": "demanded", // misstroke for "demand"
-    "TKE/TPHAOUTD": "denuded",
-    "AOE/HRAOUTD": "eluded",
-    "TPOUPBTD": "founded",
-    "TKPWROUPBTD": "grounded",
-    "TKPWAOEUTD": "guided",
-    "HAPBTD": "handed",
-    "HETD": "headed",
-    "SPWEPBTD": "intended",
-    "HRAPBTD": "landed",
-    "HRAUTD": "lauded",
-    "PER/SWAEUTD": "persuaded",
-    "PROEFTD": "provided",
-    "RORTD": "recorded", // use ORPD for "reported"
-    "RARTD": "regarded",
-    "RE/WARTD": "rewarded",
-    "SHAEUTD": "shaded",
-    "SKAOETD": "succeeded",
-    "SROUPBTD": "surrounded",
-    "TRAEUTD": "traded",
-    "WAOUPBTD": "wounded",
-
-    "PWHRAOTD": "blooded",
-    "KOELD/PWHRAOTD": "cold-blooded", // or use KOELD/PWHRAOD/-D
-    "WARPL/PWHRAOTD": "warm-blooded",
 
     // Irregular verbs
     "TPORBTD": "forbidden",
@@ -4778,9 +4739,6 @@
 
     // SKWRARB "Yosh"
     "SKWRARB": "jabber",
-
-    // U/TPHAOETD "you need"
-    "U/TPHAOETD": "you needed",
 
     // KWROUR/TEFL "yourself" (odd misstroke)
     "KWROUR/TEFL": "your telephone",
