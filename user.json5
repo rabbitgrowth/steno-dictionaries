@@ -1056,9 +1056,6 @@
           "SAEFL": "safely",
     /*2*/ "AFRT": "artist", // "arst"
 
-    "SHRAEP": "asleep",
-    "SHREP": "sleep", // but prefer SHRAOEP
-
     // ... or use S when
     // 1) there's already A; can't fold in A if it's already there.
     // 2) there's O; even when there's no conflict, the physical adjacency
