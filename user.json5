@@ -2476,12 +2476,6 @@
     "KWRUP": "yup",                // use AUP for {up^}
     "THOEUPB": "{^,000}",          // avoids 3/2/1/THO*EUPB outputting "32 1,000"
 
-    "AL": "{^al}", // swap with "al"
-    "A*L": "al",
-    "A*L/TKEPB/TE": "al dente", // cf. AL/TKEPB/TE
-    "A*L/TKPWOR": "Al Gore",    // cf. AL/TKPWOR
-    "A*L/KAOEU/TKA": "al-Qaeda",
-
     "PWEUPBG": "binge", // overrides "bing"
     "PW*EUPBG": "Bing", // name of search engine
 
