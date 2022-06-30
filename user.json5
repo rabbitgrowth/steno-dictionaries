@@ -3210,6 +3210,7 @@
     "AEURGS": "arrogance",   // use -Z for "airings"
     "AEURGT": "arrogant",
     "PWREULS": "brilliance",
+    "PWREULT": "brilliant",  // standard
     "TKURBS": "disturbance", // use -Z for "disturbs"
     "KPELS": "excellence",   // use -Z for "compels"
     "KPELT": "excellent",
