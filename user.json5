@@ -4601,7 +4601,6 @@
 
     // -- Miscellaneous --------------------------------------------------------
 
-    "SKW": "and",         // SKP with P moved down
     "KWRAEUR": "area",    // /ɛrj/
     "SPWAR": "bizarre",   // allow dropping * for "z" because of PW in between
     "PWOEUR": "bury",     // OEU to reflect weirdness of "u" being pronounced /ɛ/
