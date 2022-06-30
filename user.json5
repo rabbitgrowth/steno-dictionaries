@@ -577,14 +577,14 @@
     "-F/KWROR": "of yore",
     "KWRO*ER": "yore", // keep KWROR as {^ior}
 
-    // The O*R case is also fixable. Plover often uses OUR for -our,
-    // whether it's pronounced /ɔːr/ or /aʊər/:
+    // The O*R case is also fixable.
+    // Plover often uses OUR for -our regardless of pronunciation:
     //   OUR    "our"
     //   TPOUR  "four"
     //   HOUR   "hour"
     //   SOUR   "sour"
     //   KWROUR "your"
-    // and O*UR for -ower /aʊər/:
+    // and O*UR for -ower /aʊɚ/:
     //   KO*UR  "cower"
     //   SHO*UR "shower"
     // although the * can be dropped when there's no conflict:
@@ -4203,7 +4203,7 @@
     "KHRUF": "inclusive",  // standard
     "KHRUFL": "inclusively",
     "KHRUFPBS": "inclusiveness",
-    "SKHRU": "exclude", // S + KHRU "include" or /ɪkˈ[sklu]ːd/
+    "SKHRU": "exclude",
     "SKHRUGS": "exclusion",
     "SKHRUF": "exclusive",
     "SKHRUFL": "exclusively",
@@ -4592,7 +4592,7 @@
     "KWRAEUR": "area",    // /ɛrj/
     "SPWAR": "bizarre",   // allow dropping * for "z" because of PW in between
     "PWOEUR": "bury",     // OEU to reflect weirdness of "u" being pronounced /ɛ/
-    "KAUFT": "caste",     // AU for /ɑː/
+    "KAUFT": "caste",     // AU for /ɑ/
     "KR-RG": "category",  // [c]ate[g]o[r]y; also symmetrical
     "KPHOS": "cosmos",    // "os" shared between "c" and "m"
     "KREPB": "century",   // first three letters
