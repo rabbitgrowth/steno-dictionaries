@@ -4514,6 +4514,13 @@
     "EPLT/HR-L": "etymological",
     "EPLT/HR*L": "etymologically",
 
+    "TPHROLG": "neurology",
+    "TPHROLGS": "neurologist",
+    "TPHAOURLG": "neurology", // standard
+    "TPHAOURLGS": "neurologist",
+    "TPHAOUR/HR-L": "neurological",
+    "TPHAOUR/HR*L": "neurologically",
+
     "ORPB/THOLG": "ornithology", // standard
     "ORPB/THOLGS": "ornithologist",
     "O*RPBT/HR-L": "ornithological",
