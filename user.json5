@@ -1066,7 +1066,7 @@
     "SKROS": "across",
     "STPORD": "afford",
     "SHROEPB": "alone", // HRAOEPB is "lean"; overrides "Sloan" [1]
-    "SHROUD": "aloud",  // add * for "shroud", like SHRUG "slug", SHR*UG "shrug"
+    "SHROUD": "aloud", // use SKHROUD for "shroud" (custom)
     "SPART": "apart",
     "SRAOEUF": "arrive",
     "SRAOEUFL": "arrival",
