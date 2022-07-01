@@ -59,7 +59,6 @@
 
     "-FD": "find",
     "T-FD": "find it",
-    "TP-D": "found",   // give up "pharmacodynamic"
     "K-D": "kind",     // use A/KORD for "accord"
     "K-FD": "kind of", // overrides "confidence" [1]
     "K-FDZ": "kinds of",
