@@ -2674,6 +2674,14 @@
     "WHAB": "what about",
     "WHABT": "what about the", // by default "what about"
 
+    "WOERB": "worry about", // standard
+    "WOERBT": "worry about the", // overrides "worry about it"
+    "TWOERB": "worry about it",
+    "WO*ERBT": "worry about it", // standard
+    "TKWOERB": "don't worry about",
+    "TKWOERBT": "don't worry about the",
+    "TKWO*ERBT": "don't worry about it",
+
     // Miscellaneous
     "AEULT": "a lot", // instead of HROELT
     "AEUFLT": "a lot of",
