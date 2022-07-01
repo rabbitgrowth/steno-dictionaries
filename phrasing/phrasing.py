@@ -287,21 +287,22 @@ for pattern in patterns:
 
 phrasing |= {
     # Remap overridden words
-    "STKAE": "idea",
-    "STKAEL": "ideal",
-    "STKHRAEL": "ideally",
+    "KWR-PB": "beyond", # KWROPBD "I don't need"
 
     "TPORPBT":  "fortunate",
     "TPORPBL":  "fortunately",
     "STPORPBT": "unfortunate",
-    "STPORPBL": "unfortunately",
+    "STPORPBL": "unfortunately", # UFL "you feel"
 
-    "WHER":   "whether",
+    "STKAE":    "idea",  # KWR-D "I had"
+    "STKAEL":   "ideal", # KWR-L "I will", KWR-LD "I would"
+    "STKHRAEL": "ideally",
+
+    "TPH*R": "{under^}", # UPBD "you need"
+
+    "WHER":   "whether", # WHR "where"
     "WHERT":  "whether",
     "WH*ERT": "whether",
-
-    "KWR-PB": "beyond",
-    "TPH*R": "{under^}",
 
     # Remap words with "where" in them
     "WHRAS":  "whereas",
