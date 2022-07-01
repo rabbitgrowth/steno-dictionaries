@@ -83,16 +83,6 @@ and
   STK
   STKP
 
-not
-  23409
-  PHOT
-  TPHOLT
-  TPHOPT
-  TPHOT
-  TPHOTD
-  TPHOTS
-  TPOT -> for the
-
 them
   24E78
   THEFL -> they feel
@@ -388,11 +378,6 @@ young
   KWRUPBD -> I couldn't need
   UPBD -> you need
   UPBDZ
-
-to
-  O
-  TO
-  TPO -> for
 
 superficial
   SAO*UP/TPEURBL
@@ -755,14 +740,6 @@ continued to
 Editorial
   TORL -> to really
 
-phenomenon
-  TPE/TPHOPL/TPHOPB
-  TPE/TPHOPL/TPOPB
-  TPEPB/OPL/TPHOPB
-  TPEPB/TPHEPL/TPHOPB
-  TPHEPB/OPL/TPHOPB
-  TPO*PB -> {phono^}
-
 unfortunately -> STPORPBL
   TPHORPBLT
   TPHORPBLTD
@@ -773,9 +750,6 @@ unfortunately -> STPORPBL
   UPB/TPORPBLT
   UPB/TPORPBT/HREU
   UPB/TPORT/TPHET/HREU
-
-{phono^} -> TPO*PB
-  TPO/TPHO -> for no
 
 photograph
   TPOEF -> forever

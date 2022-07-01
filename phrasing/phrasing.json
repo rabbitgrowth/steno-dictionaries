@@ -3243,9 +3243,6 @@
     "TK": "did",
     "TK-T": "did the",
     "TK-LGTS": "did a",
-    "TPO": "for",
-    "TPOT": "for the",
-    "TPOLGTS": "for a",
     "TPR": "from",
     "TPR-T": "from the",
     "TPR-LGTS": "from a",
@@ -3325,7 +3322,5 @@
     "HAOED": "heed",
     "WAOED": "weed",
     "WAOEF": "weave",
-    "TPO/TPHO": "for no",
-    "TPO*PB": "{phono^}",
     "WUZ/WUZ": "{#}"
 }

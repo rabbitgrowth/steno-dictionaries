@@ -240,7 +240,6 @@ word_with_article = {
     "R":     "are",
     "TW":    "between",
     "TK":    "did",
-    "TPO":   "for", # instead of TP-R
     "TPR":   "from",
     "H":     "had",
     "SR":    "have",
@@ -357,10 +356,6 @@ phrasing |= {
     "HAOED": "heed",
     "WAOED": "weed",
     "WAOEF": "weave",
-
-    # Fix word boundary error caused by TPO "for"
-    "TPO/TPHO": "for no",
-    "TPO*PB": "{phono^}", # cf. PHO*PB {mono^}
 }
 
 
