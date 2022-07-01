@@ -1143,7 +1143,7 @@
     "O/TPERPBD": "offender",
     "PAEURPBT": "painter", // use PARPBT for "parent"
     "PAEURPBTS": "painters",
-    "POEUL/EFRT": "polyester", // EFRT is normally "effort" but "polyeffort" is not a word
+    "POEUL/EFRT": "polyester", // EFRT is "effort" but "polyeffort" is not a word
     "PRAOEFRP": "preacher",
     "PREUFRPB": "prisoner",
     "SPORPBD": "responder",
@@ -1178,7 +1178,7 @@
     "TAEURT": "tater",
     "TOEFRT": "toaster", // misstroke for "effort to"
     "TRAORP": "trooper",
-    "UPB/TPERT": "unfetter",
+    "UPB/TPERT": "unfetter", // TPERT is "ferret" but "unferret" is not a word
     "SRER/TPAOEUR": "verifier",
     "WAEURPBLG": "wager",
     "WAURBG": "walker", // overrides "Washington, D.C."
