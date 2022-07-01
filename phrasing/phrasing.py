@@ -287,8 +287,6 @@ for pattern in patterns:
 
 phrasing |= {
     # Remap overridden words
-    "KWR-PB": "beyond", # KWROPBD "I don't need"
-
     "TPORPBT":  "fortunate",
     "TPORPBL":  "fortunately",
     "STPORPBT": "unfortunate",
@@ -298,11 +296,17 @@ phrasing |= {
     "STKAEL":   "ideal", # KWR-L "I will", KWR-LD "I would"
     "STKHRAEL": "ideally",
 
-    "TPH*R": "{under^}", # UPBD "you need"
-
     "WHER":   "whether", # WHR "where"
     "WHERT":  "whether",
     "WH*ERT": "whether",
+
+    "KWR-PB": "beyond",    # KWROPBD "I don't need"
+    "TPAFBG": "fantastic", # STPEUBG "if I can"
+    "TEPL":   "item",      # AOEUPLT "I'm the"
+    "TH-FT":  "theft",     # THEFT   "they have the"
+    "AOULG":  "ugly",      # ULG     "you like"
+    "TPH*R":  "{under^}",  # UPBD    "you need"
+    "WHAOUS": "whose",     # WHOZ    "who has"
 
     # Remap words containing "where" to use WHR
     "WHRAS":  "whereas",
@@ -344,13 +348,6 @@ phrasing |= {
     "SKPHEFT": "whichever the",
     "WHOEF":   "whoever",
     "WHOEFT":  "whoever the",
-
-    # Miscellaneous
-    "TPAFBG": "fantastic",
-    "TEPL":   "item",
-    "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
-    "AOULG":  "ugly",
-    "WHAOUS": "whose",
 
     # Override the overrides
     "TOPBG":  "tong",
