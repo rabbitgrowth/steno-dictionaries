@@ -277,11 +277,11 @@ for pattern in patterns:
         if re.search(r"(ch|d|s)'", translation):
             continue
 
-        # Use AOEU instead of KWR* for "I'*" to avoid *
+        update(phrasing, stroke, translation)
+
         if Stroke('KWR*') in stroke and translation.startswith("I'"):
             stroke = stroke - Stroke('KWR*') + Stroke('AOEU')
-
-        update(phrasing, stroke, translation)
+            update(phrasing, stroke, translation)
 
 
 phrasing |= {

@@ -299,6 +299,12 @@ whole
   KWHOEL
   WHOEL -> who he will
 
+why'd -> TWH*D
+  KWR*D -> I'd
+
+Yours very truly{,}
+  KWR*FT -> I've the
+
 idea of
   KWR-FD -> I find
 
