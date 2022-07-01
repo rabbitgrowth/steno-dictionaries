@@ -162,9 +162,7 @@
     "PHAGS": "imagination",     // with PHAPBLG "imagine"; use -Z for "magazines"
     "STPROF": "in front of",    // with STPROPBT "in front"
     "PAEPBS": "independence",   // with PAEPBT "independent"; use -Z for "panes"
-    "TPH-FBGT": "infect",       // with TPH-FRPL "inform", TPH-FPBT "infinite"
-    "TPEBGT": "infect",         // with TPEBGS "infection", TPERBS "infectious"
-                                //   use EFBG for "effect"
+    "TPEBGT": "infect",         // with TPEBGS "infection"; use EFBG for "effect"
     "TERPGS": "interpretation", // with TERP "interpret"
     "TWAOEPB": "intervene",     // with TWEPBGS "intervention"; use TW for "between"
     "TRUBGS": "introduction",   // with PRUBGS "production", RUBGS "reduction", etc.
@@ -2852,6 +2850,9 @@
     "THEFPBD": "they have no idea",
     "TH*EFPBD": "they've no idea",
 
+    "TPH-FBGT": "in fact",
+    "SPHAFBGT": "as a matter of fact", // with -F
+
     "SPWAU": "is because",
     "SPWAUF": "is because of",
     "SPWAUT": "is because the", // use STUT for "substitute"
@@ -2918,7 +2919,6 @@
 
     "PWU": "about you", // use PWUT for "but"
     "TPHEUFT": "any of the", // use EUFT for {^ist}
-    "SPHAFBGT": "as a matter of fact", // with -F
     "SKHER": "ask her",
     "SKHEUPL": "ask him",
     "TA*UL": "at all", // - * = "tall"; give up {^-tall}
