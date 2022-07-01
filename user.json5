@@ -7,9 +7,6 @@
     "PW-RPB": "better than",
     "PW-RD": "birthday",
     "PW*T": "both",
-    "PW-L": "build",  // cf. PW-LG "building"
-    "PW-LT": "built", // give up "brake light"
-    "PW-RL": "builder",
     "K-GS": "condition", // instead of K-PB; use -Z for "kilograms"
     "STK-PT": "despite", // all the consonants evenly spread out
     "TK-FS": "difference",
@@ -134,6 +131,7 @@
     "SW-L": "as well",          // with SW-LS "as well as"
     "A*EUT/EUFT": "atheist",    // with A*EUT/EUFPL "atheism"
     "KHOEUPBS": "Chinese",      // with KHOEUPB "China"
+    "PW-L": "build",            // with PW-LG "building"
     "KPHRET": "complete",       // with KPHRELT "completely"
     "KPHREGS": "completion",
     "STAOUT": "constitute",     // with STAOUGS "constitution"; use STAUT for "statute"
