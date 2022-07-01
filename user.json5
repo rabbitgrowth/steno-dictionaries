@@ -779,8 +779,8 @@
     "STKAEL": "ideal", // KWR-L "I will", KWR-LD "I would" (see phrasing/)
     "STKHRAEL": "ideally",
 
-    "ROUF": "rough",    // standard
-    "ROUFL": "roughly", // RUFL "ruffle"; cf. ROUF "rough"
+    "ROUF": "rough",    // standard but optional; RUF also works
+    "ROUFL": "roughly", // mandatory; RUFL is "ruffle"
 
     "SKREPB": "scene",     // SAOEPB "seen", SKRAOEPB "screen"
     "SKRAO*EUT": "scythe", // SAOEUT "sight", SAO*EUT "site"
