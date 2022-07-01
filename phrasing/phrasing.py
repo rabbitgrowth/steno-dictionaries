@@ -287,10 +287,9 @@ for pattern in patterns:
 
 phrasing |= {
     # Remap overridden words
-    "EUD":    "idea",
-    "EULD":   "ideal",
-    "HREULD": "ideally",
-    "*EUD":   "id", # as in psychoanalysis
+    "STKAE": "idea",
+    "STKAEL": "ideal",
+    "STKHRAEL": "ideally",
 
     "TPORPBT":  "fortunate",
     "TPORPBL":  "fortunately",

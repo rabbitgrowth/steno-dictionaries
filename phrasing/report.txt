@@ -11,11 +11,6 @@ everybody
   EFRB
   EFRBG
 
-Idaho
-  *EUD -> id
-  *EUD/*EUD
-  AOEUD/HOE
-
 it's -> T*S, T*Z
   *TS
   EUT/AE
@@ -147,13 +142,13 @@ item -> TEPL
   AOEUT/EPL
   AOEUT/TEPL
 
-idea -> EUD
+idea -> STKAE
   AOEU/TKAOE/A
   AOEU/TKAOE/KWRA
   KWR-D -> I had
   KWRUD
 
-ideal -> EULD
+ideal -> STKAEL
   AOEU/TKAOEL
   AOEUD/AOEL
   AOEUD/TKAOEL
@@ -187,13 +182,6 @@ I know -> KWR-PBL
   KWR*PB
   KWR-PB -> beyond
   KWRO*
-
-id -> *EUD
-  EUD -> idea
-
-I would -> KWR-LD
-  EULD -> ideal
-  WOEU
 
 understand
   EURPBD
