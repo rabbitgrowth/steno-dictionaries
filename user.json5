@@ -64,7 +64,6 @@
     "K-FDZ": "kinds of",
     "PH-D": "mind",   // overrides "PhD" [2]
     "PH-DZ": "minds", // overrides "merchandise" [3]
-    "PH-GD": "minding",
     /*1*/ "K-FS": "confidence", // cf. PREPBT "present"
                                 //     PREPBS "presence"
                                 //     K-FT   "confident"
