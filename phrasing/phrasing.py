@@ -304,7 +304,7 @@ phrasing |= {
     "WHERT":  "whether",
     "WH*ERT": "whether",
 
-    # Remap words with "where" in them
+    # Remap words containing "where" to use WHR
     "WHRAS":  "whereas",
     "WHR-B":  "whereby",
     "WHROF":  "whereof",
