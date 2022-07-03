@@ -293,7 +293,7 @@ phrasing |= {
     "STPORPBL":  "unfortunately", # UFL "you feel"
     "STPORPBLT": "unfortunately",
 
-    "STKAE":    "idea",  # KWR-D "I had"
+    "STKAE":    "idea",  # KWR-D "I had" (wildcard S and orthographic AE)
     "STKAEL":   "ideal", # KWR-L "I will", KWR-LD "I would"
     "STKHRAEL": "ideally",
 
