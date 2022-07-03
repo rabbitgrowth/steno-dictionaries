@@ -308,22 +308,6 @@ phrasing |= {
     "WHA*BG": "whack",     # WHABG   "what can"
     "WHAOUS": "whose",     # WHOZ    "who has"
 
-    # wh-phrasing exceptions
-    "WHAEL": "whale",    # instead of "what he will"
-    "WHEUF": "whiff",    # instead of "when I have"
-    "WHEUFL": "whiffle", # instead of "when I feel"
-    "WHEUPL": "whim",    # instead of "when I am"
-    "WHEURL": "whirl",   # instead of "when I really"
-    "WHOEL": "whole",    # instead of "who he will"
-    "WHORL": "whorl",    # instead of "who really"
-
-    # Remap words containing "where" to use WHR
-    "WHRAS":  "whereas",
-    "WHR-B":  "whereby",
-    "WHROF":  "whereof",
-    "WHRELS": "elsewhere",
-    "SWHR":   "somewhere",
-
     # -FR is used for "may", so I'll need another way to stroke "ever".
     # EF, which is like EFR "every" shortened, seems like a good choice.
     # It's inconsistent with TPHEFR "never", but -FR isn't perfectly
@@ -345,9 +329,25 @@ phrasing |= {
     "WHOEF":   "whoever",
     "WHOEFT":  "whoever the",
 
+    # Remap words containing "where" to use WHR
+    "WHRAS":  "whereas",
+    "WHR-B":  "whereby",
+    "WHROF":  "whereof",
+    "WHRELS": "elsewhere",
+    "SWHR":   "somewhere",
+
     # to-phrasing exceptions
     "TOPBG":  "tong",
     "TOFRPB": "torch",
+
+    # wh-phrasing exceptions
+    "WHAEL": "whale",    # instead of "what he will"
+    "WHEUF": "whiff",    # instead of "when I have"
+    "WHEUFL": "whiffle", # instead of "when I feel"
+    "WHEUPL": "whim",    # instead of "when I am"
+    "WHEURL": "whirl",   # instead of "when I really"
+    "WHOEL": "whole",    # instead of "who he will"
+    "WHORL": "whorl",    # instead of "who really"
 
     # Strokes that have been freed up
     "HAOED": "heed",  # H*D "he'd"
