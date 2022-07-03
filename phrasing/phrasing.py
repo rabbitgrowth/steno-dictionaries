@@ -345,7 +345,7 @@ phrasing |= {
     "WHOEF":   "whoever",
     "WHOEFT":  "whoever the",
 
-    # Override the overrides
+    # to-phrasing exceptions
     "TOPBG":  "tong",
     "TOFRPB": "torch",
 
