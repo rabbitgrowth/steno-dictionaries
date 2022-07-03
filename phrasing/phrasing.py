@@ -302,7 +302,7 @@ phrasing |= {
     "KWR-PB": "beyond",    # KWROPBD "I don't need"
     "TPAFBG": "fantastic", # STPEUBG "if I can"
     "TEPL":   "item",      # AOEUPLT "I'm the"
-    "TH-FT":  "theft",     # THEFT   "they have the"
+    "TH-FT":  "theft",     # THEFT   "they have the" (mnemonic: E got stolen)
     "AOULG":  "ugly",      # ULG     "you like"
     "TPH*R":  "{under^}",  # UPBD    "you need"
     "WHA*BG": "whack",     # WHABG   "what can"
