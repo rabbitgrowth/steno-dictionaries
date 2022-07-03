@@ -742,7 +742,7 @@ continued to
 Editorial
   TORL -> to really
 
-unfortunately -> STPORPBL
+unfortunately -> STPORPBL, STPORPBLT
   TPHORPBLT
   TPHORPBLTD
   UFL -> you feel

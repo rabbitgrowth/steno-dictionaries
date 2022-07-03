@@ -286,10 +286,12 @@ for pattern in patterns:
 
 phrasing |= {
     # Remap overridden words
-    "TPORPBT":  "fortunate",
-    "TPORPBL":  "fortunately",
-    "STPORPBT": "unfortunate",
-    "STPORPBL": "unfortunately", # UFL "you feel"
+    "TPORPBT":   "fortunate",   # standard
+    "TPORPBL":   "fortunately",
+    "TPORPBLT":  "fortunately", # standard
+    "STPORPBT":  "unfortunate",
+    "STPORPBL":  "unfortunately", # UFL "you feel"
+    "STPORPBLT": "unfortunately",
 
     "STKAE":    "idea",  # KWR-D "I had"
     "STKAEL":   "ideal", # KWR-L "I will", KWR-LD "I would"
