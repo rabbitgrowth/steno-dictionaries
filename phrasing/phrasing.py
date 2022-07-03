@@ -305,7 +305,17 @@ phrasing |= {
     "TH-FT":  "theft",     # THEFT   "they have the"
     "AOULG":  "ugly",      # ULG     "you like"
     "TPH*R":  "{under^}",  # UPBD    "you need"
+    "WHA*BG": "whack",     # WHABG   "what can"
     "WHAOUS": "whose",     # WHOZ    "who has"
+
+    # wh-phrasing exceptions
+    "WHAEL": "whale",    # instead of "what he will"
+    "WHEUF": "whiff",    # instead of "when I have"
+    "WHEUFL": "whiffle", # instead of "when I feel"
+    "WHEUPL": "whim",    # instead of "when I am"
+    "WHEURL": "whirl",   # instead of "when I really"
+    "WHOEL": "whole",    # instead of "who he will"
+    "WHORL": "whorl",    # instead of "who really"
 
     # Remap words containing "where" to use WHR
     "WHRAS":  "whereas",
@@ -313,19 +323,6 @@ phrasing |= {
     "WHROF":  "whereof",
     "WHRELS": "elsewhere",
     "SWHR":   "somewhere",
-
-    # Ugly compromise: add arbitrary K to words beginning with wh-
-    "KWHABG":   "whack",
-    "KWHAEUL":  "whale",
-    "KWHEUF":   "whiff",
-    "KWHEUFL":  "whiffle",
-    "KWHEUPL":  "whim",
-    "KWHEURL":  "whirl",
-    "KWHEUFRP": "whisper",
-    "KWHEULS":  "whistle",
-    "KWHOEL":   "whole",
-    "KWHOR":    "whore",
-    "KWHORL":   "whorl",
 
     # -FR is used for "may", so I'll need another way to stroke "ever".
     # EF, which is like EFR "every" shortened, seems like a good choice.

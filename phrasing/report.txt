@@ -295,10 +295,6 @@ when
   WHEPB
   WHREPB
 
-whole
-  KWHOEL
-  WHOEL -> who he will
-
 why'd -> TWH*D
   KWR*D -> I'd
 
@@ -842,15 +838,15 @@ we'd -> W*D
   WAOED -> weed
   WAOED/AE
 
-whistle -> KWHEULS
+whistle
   WEUFL
   WH*EUS/-L
   WHEUFG
-  WHEUFL -> when I feel
+  WHEUFL -> whiffle
   WHEUS/*L
   WHEUS/-L
 
-whisper -> KWHEUFRP
+whisper
   WEUS/PER
   WHEUFP/*ER
   WHEUFR -> when I may
@@ -869,11 +865,14 @@ whenever -> WHEF
   WHEFR -> when he may
   WHREFR -> where he may
 
-whiffle -> KWHEUFL
+whiffle -> WHEUFL
   WH*EUFL -> when I love
 
 When were
   WH-RP -> when were
+
+what can -> WHABG
+  WHA*BG -> whack
 
 what'd
   WHA*D
@@ -884,14 +883,14 @@ what'll
   WHA/AOEL
   WHAL -> what will
 
-whack -> KWHABG
+whack -> WHA*BG
   WHABG -> what can
 
 wheal
-  WHAEL -> what he will
+  WHAEL -> whale
   WHAO*EL
 
-whale -> KWHAEUL
+whale -> WHAEL
   WHAEUL -> what I will
   WHRAEUL
 
@@ -909,15 +908,6 @@ what you're -> WHA*UR
 
 understand what
   WHAURPBD -> what you understand
-
-whiff -> KWHEUF
-  WHEUF -> when I have
-
-whim -> KWHEUPL
-  WHEUPL -> when I am
-
-whirl -> KWHEURL
-  WHEURL -> when I really
 
 who've
   WHO*F
@@ -945,15 +935,12 @@ who say
 whoa
   WHOE -> who he
 
-whore -> KWHOR
+whore
   WHOER
   WHOR -> who are
 
 who understand -> WHORPBD
   WHOPBDZ -> who needs
-
-whorl -> KWHORL
-  WHORL -> who really
 
 who you're -> WHO*UR
   WHOUR -> who you are
