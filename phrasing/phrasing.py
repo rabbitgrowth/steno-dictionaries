@@ -350,9 +350,9 @@ phrasing |= {
     "TOFRPB": "torch",
 
     # Strokes that have been freed up
-    "HAOED": "heed",
-    "WAOED": "weed",
-    "WAOEF": "weave",
+    "HAOED": "heed",  # H*D "he'd"
+    "WAOED": "weed",  # W*D "we'd"
+    "WAOEF": "weave", # W*F "we've"
 }
 
 
