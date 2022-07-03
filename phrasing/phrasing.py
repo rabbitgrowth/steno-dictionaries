@@ -343,13 +343,13 @@ phrasing |= {
     "TOFRPB": "torch",
 
     # wh-phrasing exceptions
-    "WHAEL": "whale",    # instead of "what he will"
-    "WHEUF": "whiff",    # instead of "when I have"
+    "WHAEL":  "whale",   # instead of "what he will"
+    "WHEUF":  "whiff",   # instead of "when I have"
     "WHEUFL": "whiffle", # instead of "when I feel"
     "WHEUPL": "whim",    # instead of "when I am"
     "WHEURL": "whirl",   # instead of "when I really"
-    "WHOEL": "whole",    # instead of "who he will"
-    "WHORL": "whorl",    # instead of "who really"
+    "WHOEL":  "whole",   # instead of "who he will"
+    "WHORL":  "whorl",   # instead of "who really"
 
     # Strokes that have been freed up
     "HAOED": "heed",  # H*D "he'd"
