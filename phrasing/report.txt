@@ -11,11 +11,6 @@ everybody
   EFRB
   EFRBG
 
-Idaho
-  *EUD -> id
-  *EUD/*EUD
-  AOEUD/HOE
-
 it's -> T*S, T*Z
   *TS
   EUT/AE
@@ -88,16 +83,6 @@ and
   STK
   STKP
 
-not
-  23409
-  PHOT
-  TPHOLT
-  TPHOPT
-  TPHOT
-  TPHOTD
-  TPHOTS
-  TPOT -> for the
-
 them
   24E78
   THEFL -> they feel
@@ -147,13 +132,13 @@ item -> TEPL
   AOEUT/EPL
   AOEUT/TEPL
 
-idea -> EUD
+idea -> STKAE
   AOEU/TKAOE/A
   AOEU/TKAOE/KWRA
   KWR-D -> I had
   KWRUD
 
-ideal -> EULD
+ideal -> STKAEL
   AOEU/TKAOEL
   AOEUD/AOEL
   AOEUD/TKAOEL
@@ -187,13 +172,6 @@ I know -> KWR-PBL
   KWR*PB
   KWR-PB -> beyond
   KWRO*
-
-id -> *EUD
-  EUD -> idea
-
-I would -> KWR-LD
-  EULD -> ideal
-  WOEU
 
 understand
   EURPBD
@@ -317,9 +295,11 @@ when
   WHEPB
   WHREPB
 
-whole
-  KWHOEL
-  WHOEL -> who he will
+why'd -> TWH*D
+  KWR*D -> I'd
+
+Yours very truly{,}
+  KWR*FT -> I've the
 
 idea of
   KWR-FD -> I find
@@ -400,11 +380,6 @@ young
   KWRUPBD -> I couldn't need
   UPBD -> you need
   UPBDZ
-
-to
-  O
-  TO
-  TPO -> for
 
 superficial
   SAO*UP/TPEURBL
@@ -767,15 +742,7 @@ continued to
 Editorial
   TORL -> to really
 
-phenomenon
-  TPE/TPHOPL/TPHOPB
-  TPE/TPHOPL/TPOPB
-  TPEPB/OPL/TPHOPB
-  TPEPB/TPHEPL/TPHOPB
-  TPHEPB/OPL/TPHOPB
-  TPO*PB -> {phono^}
-
-unfortunately -> STPORPBL
+unfortunately -> STPORPBL, STPORPBLT
   TPHORPBLT
   TPHORPBLTD
   UFL -> you feel
@@ -785,9 +752,6 @@ unfortunately -> STPORPBL
   UPB/TPORPBLT
   UPB/TPORPBT/HREU
   UPB/TPORT/TPHET/HREU
-
-{phono^} -> TPO*PB
-  TPO/TPHO -> for no
 
 photograph
   TPOEF -> forever
@@ -874,15 +838,15 @@ we'd -> W*D
   WAOED -> weed
   WAOED/AE
 
-whistle -> KWHEULS
+whistle
   WEUFL
   WH*EUS/-L
   WHEUFG
-  WHEUFL -> when I feel
+  WHEUFL -> whiffle
   WHEUS/*L
   WHEUS/-L
 
-whisper -> KWHEUFRP
+whisper
   WEUS/PER
   WHEUFP/*ER
   WHEUFR -> when I may
@@ -901,11 +865,14 @@ whenever -> WHEF
   WHEFR -> when he may
   WHREFR -> where he may
 
-whiffle -> KWHEUFL
+whiffle -> WHEUFL
   WH*EUFL -> when I love
 
 When were
   WH-RP -> when were
+
+what can -> WHABG
+  WHA*BG -> whack
 
 what'd
   WHA*D
@@ -916,14 +883,14 @@ what'll
   WHA/AOEL
   WHAL -> what will
 
-whack -> KWHABG
+whack -> WHA*BG
   WHABG -> what can
 
 wheal
-  WHAEL -> what he will
+  WHAEL -> whale
   WHAO*EL
 
-whale -> KWHAEUL
+whale -> WHAEL
   WHAEUL -> what I will
   WHRAEUL
 
@@ -941,15 +908,6 @@ what you're -> WHA*UR
 
 understand what
   WHAURPBD -> what you understand
-
-whiff -> KWHEUF
-  WHEUF -> when I have
-
-whim -> KWHEUPL
-  WHEUPL -> when I am
-
-whirl -> KWHEURL
-  WHEURL -> when I really
 
 who've
   WHO*F
@@ -977,15 +935,12 @@ who say
 whoa
   WHOE -> who he
 
-whore -> KWHOR
+whore
   WHOER
   WHOR -> who are
 
 who understand -> WHORPBD
   WHOPBDZ -> who needs
-
-whorl -> KWHORL
-  WHORL -> who really
 
 who you're -> WHO*UR
   WHOUR -> who you are

@@ -240,7 +240,6 @@ word_with_article = {
     "R":     "are",
     "TW":    "between",
     "TK":    "did",
-    "TPO":   "for", # instead of TP-R
     "TPR":   "from",
     "H":     "had",
     "SR":    "have",
@@ -278,51 +277,38 @@ for pattern in patterns:
         if re.search(r"(ch|d|s)'", translation):
             continue
 
-        # Use AOEU instead of KWR* for "I'*" to avoid *
+        update(phrasing, stroke, translation)
+
         if Stroke('KWR*') in stroke and translation.startswith("I'"):
             stroke = stroke - Stroke('KWR*') + Stroke('AOEU')
-
-        update(phrasing, stroke, translation)
+            update(phrasing, stroke, translation)
 
 
 phrasing |= {
     # Remap overridden words
-    "EUD":    "idea",
-    "EULD":   "ideal",
-    "HREULD": "ideally",
-    "*EUD":   "id", # as in psychoanalysis
+    "TPORPBT":   "fortunate",   # standard
+    "TPORPBL":   "fortunately",
+    "TPORPBLT":  "fortunately", # standard
+    "STPORPBT":  "unfortunate",
+    "STPORPBL":  "unfortunately", # UFL "you feel"
+    "STPORPBLT": "unfortunately",
 
-    "TPORPBT":  "fortunate",
-    "TPORPBL":  "fortunately",
-    "STPORPBT": "unfortunate",
-    "STPORPBL": "unfortunately",
+    "STKAE":    "idea",  # KWR-D "I had" (wildcard S and orthographic AE)
+    "STKAEL":   "ideal", # KWR-L "I will", KWR-LD "I would"
+    "STKHRAEL": "ideally",
 
-    "WHER":   "whether",
+    "WHER":   "whether", # WHR "where"
     "WHERT":  "whether",
     "WH*ERT": "whether",
 
-    "KWR-PB": "beyond",
-    "TPH*R": "{under^}",
-
-    # Remap words with "where" in them
-    "WHRAS":  "whereas",
-    "WHR-B":  "whereby",
-    "WHROF":  "whereof",
-    "WHRELS": "elsewhere",
-    "SWHR":   "somewhere",
-
-    # Ugly compromise: add arbitrary K to words beginning with wh-
-    "KWHABG":   "whack",
-    "KWHAEUL":  "whale",
-    "KWHEUF":   "whiff",
-    "KWHEUFL":  "whiffle",
-    "KWHEUPL":  "whim",
-    "KWHEURL":  "whirl",
-    "KWHEUFRP": "whisper",
-    "KWHEULS":  "whistle",
-    "KWHOEL":   "whole",
-    "KWHOR":    "whore",
-    "KWHORL":   "whorl",
+    "KWR-PB": "beyond",    # KWROPBD "I don't need"
+    "TPAFBG": "fantastic", # STPEUBG "if I can"
+    "TEPL":   "item",      # AOEUPLT "I'm the"
+    "TH-FT":  "theft",     # THEFT   "they have the" (mnemonic: E got stolen)
+    "AOULG":  "ugly",      # ULG     "you like"
+    "TPH*R":  "{under^}",  # UPBD    "you need"
+    "WHA*BG": "whack",     # WHABG   "what can"
+    "WHAOUS": "whose",     # WHOZ    "who has"
 
     # -FR is used for "may", so I'll need another way to stroke "ever".
     # EF, which is like EFR "every" shortened, seems like a good choice.
@@ -345,25 +331,30 @@ phrasing |= {
     "WHOEF":   "whoever",
     "WHOEFT":  "whoever the",
 
-    # Miscellaneous
-    "TPAFBG": "fantastic",
-    "TEPL":   "item",
-    "TH-FT":  "theft", # E got stolen? or associate with TKPW-PB "gun"
-    "AOULG":  "ugly",
-    "WHAOUS": "whose",
+    # Remap words containing "where" to use WHR
+    "WHRAS":  "whereas",
+    "WHR-B":  "whereby",
+    "WHROF":  "whereof",
+    "WHRELS": "elsewhere",
+    "SWHR":   "somewhere",
 
-    # Override the overrides
+    # to-phrasing exceptions
     "TOPBG":  "tong",
     "TOFRPB": "torch",
 
-    # Strokes that have been freed up
-    "HAOED": "heed",
-    "WAOED": "weed",
-    "WAOEF": "weave",
+    # wh-phrasing exceptions
+    "WHAEL":  "whale",   # instead of "what he will"
+    "WHEUF":  "whiff",   # instead of "when I have"
+    "WHEUFL": "whiffle", # instead of "when I feel"
+    "WHEUPL": "whim",    # instead of "when I am"
+    "WHEURL": "whirl",   # instead of "when I really"
+    "WHOEL":  "whole",   # instead of "who he will"
+    "WHORL":  "whorl",   # instead of "who really"
 
-    # Fix word boundary error caused by TPO "for"
-    "TPO/TPHO": "for no",
-    "TPO*PB": "{phono^}", # cf. PHO*PB {mono^}
+    # Strokes that have been freed up
+    "HAOED": "heed",  # H*D "he'd"
+    "WAOED": "weed",  # W*D "we'd"
+    "WAOEF": "weave", # W*F "we've"
 }
 
 
