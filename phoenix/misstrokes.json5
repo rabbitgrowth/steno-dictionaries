@@ -1,4 +1,6 @@
 {
+
+// Using EUR instead of UR for -ir
 "PWEUFRP": "birch",
 "PWEURD": "bird",
 "PWEURDZ": "birds",
@@ -32,6 +34,7 @@
 "WHEUR": "whir",
 "WHEURL": "whirl",
 
+// Using AOEUT instead of OEUGT for -ight
 "TKWAOEUT": "Dwight",
 "PWHRAOEUT": "blight",
 "PWHRAOEUTS": "blights",
@@ -49,5 +52,6 @@
 "KPWAOEUTS": "knights",
 "PHRAOEUT": "plight",
 "PHRAOEUTS": "plights",
-"SHRAOEUT": "slight"
+"SHRAOEUT": "slight",
+
 }
