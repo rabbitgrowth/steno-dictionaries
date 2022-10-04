@@ -1,5 +1,25 @@
 {
 
+// Using AOEUT instead of OEUGT for -ight
+"TKWAOEUT": "Dwight",
+"PWHRAOEUT": "blight",
+"PWHRAOEUTS": "blights",
+"PWRAOEUT": "bright",
+"PWRAOEUTS": "brights",
+"TKHRAOEUT": "delight",
+"TKHRAOEUTS": "delights",
+"TPHRAOEUT": "flight",
+"TPHRAOEUTS": "flights",
+"TPRAOEUT": "fright",
+"TPRAOEUTS": "frights",
+"HAOEUT": "height",
+"HAOEUTS": "heights",
+"KPWAOEUT": "knight",
+"KPWAOEUTS": "knights",
+"PHRAOEUT": "plight",
+"PHRAOEUTS": "plights",
+"SHRAOEUT": "slight",
+
 // Using EUR instead of UR for -ir
 "PWEUFRP": "birch",
 "PWEURD": "bird",
@@ -33,25 +53,5 @@
 "TWEURL": "twirl",
 "WHEUR": "whir",
 "WHEURL": "whirl",
-
-// Using AOEUT instead of OEUGT for -ight
-"TKWAOEUT": "Dwight",
-"PWHRAOEUT": "blight",
-"PWHRAOEUTS": "blights",
-"PWRAOEUT": "bright",
-"PWRAOEUTS": "brights",
-"TKHRAOEUT": "delight",
-"TKHRAOEUTS": "delights",
-"TPHRAOEUT": "flight",
-"TPHRAOEUTS": "flights",
-"TPRAOEUT": "fright",
-"TPRAOEUTS": "frights",
-"HAOEUT": "height",
-"HAOEUTS": "heights",
-"KPWAOEUT": "knight",
-"KPWAOEUTS": "knights",
-"PHRAOEUT": "plight",
-"PHRAOEUTS": "plights",
-"SHRAOEUT": "slight",
 
 }
