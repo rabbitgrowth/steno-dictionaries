@@ -1,6 +1,7 @@
-# rabbitgrowth’s steno dictionaries
+Here are my personal modifications to the
+[Plover](https://www.openstenoproject.org/)
+and
+[Phoenix](https://www.chicorymeadow.com/)
+stenographic theories.
 
-This repository contains my personal modifications to the
-[standard Plover dictionary](https://github.com/openstenoproject/plover/blob/master/plover/assets/main.json).
-
-I’m a casual steno hobbyist who has been self-learning Plover since April 2020.
+The Plover folder is abandoned because I switched to Phoenix.
