@@ -14,4 +14,14 @@
 "PHO*": "month", // star "mo" for "month" like how you star "ME" for "Maine"
 "PHO*Z": "months",
 
+// -- R-R entries they forgot to update --------------------------------
+
+// Sometimes when they swapped the outlines for homophones,
+// they forgot to update the R-R entries as well, so the R-R does nothing.
+
+"HAUL/R-R": "haul",
+"HRAOEUBL/R-R": "libel",
+"SRAEUPB/R-R": "vein",
+"WAEUFB/R-R": "wave",
+
 }
