@@ -1,4 +1,5 @@
 {
+
 "STKAO*EPG": "does he think",
 "STKEUPG": "distinct",
 "STKEUPGZ": "distinction",
@@ -955,5 +956,6 @@
 "-PG/-LD": "{^uncled}",
 "-PG/-LZ": "{^uncles}",
 "-PG/-TS": "{^uncts}",
-"-PGTS": "{^uncts}"
+"-PGTS": "{^uncts}",
+
 }
