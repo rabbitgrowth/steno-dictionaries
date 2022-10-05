@@ -501,7 +501,6 @@
 "TEUD/-L/TKE/WEUPG": "tiddledywink",
 "KPEUPG": "extinct",
 "KWRAO*PG": "I couldn't think",
-"KWRA*EPG": "I can't think",
 "KWRAUPG/-RZ": "Yonkers",
 "KWRAPG": "yank",
 "KWRAPG/AE": "Yankee",
@@ -1030,5 +1029,8 @@
 "-PG/-LZ": "{^uncles}",
 "-PG/-TS": "{^uncts}",
 "-PGTS": "{^uncts}",
+
+"TPRA*PG": "Frank",
+"KWRA*PG": "I can't think",
 
 }
