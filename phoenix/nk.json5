@@ -1,5 +1,78 @@
 {
 
+// Phoenix uses *PBG for -nk, but I find this mildly uncomfortable,
+// so I changed it to -PG, which is the "symmetric difference" of
+// -PB and -BG and is not used for any sound (-ping is -P/-G).
+//
+// Phoenix does use -PG for what it calls "increments of spelling",
+// which is basically an orthographic system for suffixes with
+// special rules like STK = k and SPW = ph:
+//
+// SHAPG   "-sha"
+// TKHREPG "-dle"
+// STKEUPG "-ki"
+// SPWOPG  "-pho"
+//
+// But according to Kathryn Dittmeier, these are "not taught in the theory"
+// and "can be ignored or repurposed".
+// (https://discord.com/channels/136953735426473984/850891132534915102/944513490104746015)
+//
+// The switch to -PG works out quite nicely.
+//
+// Many common words become easier to stroke:
+//
+// PWAPG  "bank"
+// THEUPG "think"
+//
+// -nct (pronounced -nkt) becomes -PGT:
+//
+// TPH/STEUPGT "instinct"
+// SAPGT/-PL   "sanctum" (or less finger-twistingly, SAPG/T-PL)
+//
+// This conflicts with -pth, but the only English word ending with -pth
+// is "depth", and "denct" is not a word. Thanks, English!
+//
+// -nction (pronounced -nkshun) becomes -PGZ:
+//
+// TPUPGZ "function"
+// SAPGZ  "sanction"
+//
+// This conflicts with -pshun, but by some miracle there isn't any overlap:
+// "function"    is a word, "fuption"    is not;
+// "conjunction" is a word, "conjuption" is not; etc.
+//
+// -nx (pronounced -nks) becomes -PGS:
+//
+// STPEUPGS "sphinx"
+// PWRAUPGS "Bronx"
+//
+// This is conflict-free because Phoenix only uses -PGS once in the brief
+// HRAFPGS "Los Angeles" ("langes").
+//
+// Phrases retain * for consistency with the rule that all phrases are starred:
+//
+// KWR*PG     "I think"
+// SKWAO*EUPG "and I think"
+//
+// "sync" is no longer hidden behind an R-R:
+//
+// SEUPG   "sink"
+// S*EUPG  "sync"
+// SWREUPG "zinc"
+//
+// "I can't think" no longer requires an arbitrary E:
+//
+// KWRAPBG  "yang"
+// KWRA*PBG "Yang"
+// KWRAPG   "yank"
+// KWRA*PG  "I can't think"
+//
+// Some more examples with longer words:
+//
+// KAUPG/-R/-R         "conqueror"
+// SRAPG/W-GS/-Z       "vanquishes"
+// EUD/KWRO/SEUPG/RAES "idiosyncrasy"
+
 "STKAO*EPG": "does he think",
 "STKEUPG": "distinct",
 "STKEUPGZ": "distinction",
