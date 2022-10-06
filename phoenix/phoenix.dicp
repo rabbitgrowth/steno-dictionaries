@@ -1,0 +1,9 @@
+{
+    "source": "phoenix.json",
+    "add": {},
+    "delete": [
+        "HRAOEUS/EPB",
+        "HRAOUT/EPB",
+        "SRABGS/EUPB"
+    ]
+}
