@@ -613,7 +613,6 @@
 "EPB/T-S/-S": "entasis",
 "EPB/KWRAD": "ennead",
 "EPB/KWRADZ": "enneads",
-"EPB/KWRU": "{ennea^}", // conflicts with "-ennia"
 "EPB/KWRU/HAOED/RU": "enneahedra",
 "EPB/KWR-R/AOESZ": "enuresis",
 "EPB/KWR-G/AUPB": "enneagon",
@@ -971,6 +970,10 @@
 "EPB/-RG/AOU/PH-PBZ": "energumens",
 "EPB/-RG/AOUPL/-PB": "energumen",
 "EPB/-RG/AOUPL/-PBZ": "energumens",
+
+"EPB/KWRU": "{ennea^}", // overrides "-ennia"
+// We can solve this by hard-coding words that end with "-ennia":
+"PHEUL/EPB/KWRU": "millennia", // technically conflicts with "mill ennea-"
 
 // -- Conflicts with "-en-" and "-in-" ---------------------------------
 
