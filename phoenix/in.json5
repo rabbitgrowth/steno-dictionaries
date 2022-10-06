@@ -1,5 +1,7 @@
 {
 
+// -- Conflicts with "-en-" and "-in-" ---------------------------------
+
 // Delete HRAOEUS/EPB "licen" so that it becomes "lice en-"
 "HRAOEUS/EPB/SH-T": "licentiate",
 "HRAOEUS/EPB/SH-TS": "licentiates",
