@@ -1,5 +1,64 @@
 {
 
+// The default outlines for "in" and "in-" feel like they should be the
+// other way round:
+//
+// TPHA* "in a"    EPB "en-"
+// TPH*T "in the"  UPB "un-"
+// EUPB  "in"      TPH "in-"
+//
+// They are this way for a good reason. As lesson 29 of the textbook
+// explains, "in-" and "en-" sound similar, and words spelled "en-" can
+// sometimes be pronounced "in-", so to prevent confusion, TPH is used
+// for *both* "in-" and "en-".
+//
+// Obviously, TPH on its own can only be one thing, so it's defined as
+// "in-". But if you add on more strokes, the "in-" can become "en-"
+// depending on context:
+//
+// TPH         "in-"
+// TPH/SKWROEU "enjoy"
+//
+// So a more flattering picture might be:
+//
+// OPB  "on"
+// EUPB "in"
+// TPH  "in-", "en-"
+//
+// But still, I decided to go with
+//
+// TPH  "in"
+// EUPB "in-"
+// EPB  "en-"
+//
+// because words are strongly tied to spelling in my mind: when I hear
+// "enjoy", I don't think "njoy" or "injoy"; I think "enjoy".
+//
+// To implement this change, I went through all the outlines in the
+// dictionary that start with TPH. If it's used for "in-", I changed the
+// TPH to EUPB; if it's used for "en-", I changed it to EPB. I didn't
+// find any conflicts at this stage.
+//
+// There are exactly four entries where TPH is neither used for "in-"
+// nor "en-":
+//
+// TPH/AE      "any"
+// TPH/AE/W-PB "anyone"
+// TPH/-GT     "nth"
+// TPH/-GTS    "nths"
+//
+// These are kept as they are.
+//
+// Finally, there are three minor conflicts caused by the fact that
+// Phoenix also uses EUPB and EPB for "-in-" and "-en-":
+//
+// SRABGS/EUPB "vaccin",  "vax in-"
+// HRAOEUS/EPB "licen",   "lice en-"
+// HRAOUT/EPB  "lieuten", "lute en-"
+//
+// Fortunately, these could be solved by explicitly defining words that
+// start with "vaccin", "licen", and "lieuten".
+
 // -- "in-" ------------------------------------------------------------
 
 "EUPB/STPEUGS/AEPBS": "insufficiency",
@@ -1280,8 +1339,8 @@
 "EUPB/-G": "inning", // already in dictionary
 
 "EUPB/S-L/-R": "insular", // overrides "-insular"
-// We can solve this by hard-coding words that end with "-insular":
-"PEPB/EUPB/S-L/-R": "peninsular",
+// We can solve this by explicitly defining words that end with "-insular":
+"PEPB/EUPB/S-L/-R": "peninsular", // technically conflicts with "pen insular"
 
 // Keep EUPB/-R as "inner" (like TKEUPB/-R for "dinner") and TPH/-R as
 // "inner-". (Do I really need "inner-" anyway? It only seems useful for
@@ -2260,10 +2319,10 @@
 "EPB/-RG/AOUPL/-PBZ": "energumens",
 
 "EPB/KWRU": "{ennea^}", // overrides "-ennia"
-// We can solve this by hard-coding words that end with "-ennia":
+// We can solve this by explicitly defining words that end with "-ennia":
 "PHEUL/EPB/KWRU": "millennia", // technically conflicts with "mill ennea-"
 
-// -- Conflicts with "-en-" and "-in-" ---------------------------------
+// -- Conflicts with "-in-" and "-en-" ---------------------------------
 
 // Delete HRAOEUS/EPB "licen" so that it becomes "lice en-"
 "HRAOEUS/EPB/SH-T": "licentiate",
