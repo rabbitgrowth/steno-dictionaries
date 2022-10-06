@@ -305,7 +305,7 @@
 "EUPB/S-L/-PBZ": "insulins",
 "EUPB/S-LGZ": "insulation",
 "EUPB/S-S/OR": "insessor",
-"EUPB/S-D": "inside", // standard
+"EUPB/S-D": "inside", // already in dictionary
 "EUPB/S-D/TH/PARBG/R-R": "inside-the-park",
 "EUPB/S-D/EPB/TAEL": "incidentally",
 "EUPB/S-D/EPB/T-L": "incidental",
@@ -1147,11 +1147,11 @@
 "EUPB/PW-FRB/-BL": "inobservable",
 "EUPB/PW-PBDZ": "inbounds",
 "EUPB/PHEUBL": "inadmissible",
-"EUPB/P-T": "input", // standard
-"EUPB/P-TS": "inputs", // standard
+"EUPB/P-T": "input", // already in dictionary
+"EUPB/P-TS": "inputs", // already in dictionary
 "EUPB/HRAOEU/-R": "inlier",
 "EUPB/HRAOEU/-RZ": "inliers",
-"EUPB/HRAOEPL/TPHAU": "in limine", // standard
+"EUPB/HRAOEPL/TPHAU": "in limine", // already in dictionary
 "EUPB/HRAU": "in-law",
 "EUPB/HREU/-R": "inlier",
 "EUPB/HREU/-RZ": "inliers",
@@ -1277,7 +1277,7 @@
 "EUPB/-PB/TKU/TOEUR": "inundatory",
 "EUPB/-PB/TK-T": "inundat",
 "EUPB/-PBD": "inund",
-"EUPB/-G": "inning", // standard
+"EUPB/-G": "inning", // already in dictionary
 
 "EUPB/S-L/-R": "insular", // overrides "-insular"
 // We can solve this by hard-coding words that end with "-insular":
@@ -1324,7 +1324,7 @@
 "EPB/SKWREPBD": "engend",
 "EPB/SKWRU/TPHAOER": "engineer",
 "EPB/SKWRU/TPHAOERZ": "engineers",
-"EPB/SKWR-PB": "engine", // standard
+"EPB/SKWR-PB": "engine", // already in dictionary
 "EPB/SKWR-PB/AO*ER": "engineer",
 "EPB/SKWR-PB/AO*ERZ": "engineers",
 "EPB/SKWR-PB/-D": "engined",
@@ -1339,12 +1339,12 @@
 "EPB/SKAUPBS": "ensconce",
 "EPB/SKAUPBS/-G": "ensconcing",
 "EPB/SKAUPBS/-D": "ensconced",
-"EPB/SWRAOEUPL": "enzyme", // standard
+"EPB/SWRAOEUPL": "enzyme", // already in dictionary
 "EPB/SWRAOEUPL/AUL/S-S": "enzymolysis",
 "EPB/SWRAOEUPL/AULG": "enzymology",
 "EPB/SWRAOEUPL/AT/-BG": "enzymatic",
 "EPB/SWRAOEUPL/OESZ": "enzymosis",
-"EPB/SWRAOEUPLZ": "enzymes", // standard
+"EPB/SWRAOEUPLZ": "enzymes", // already in dictionary
 "EPB/SWRO/AUT/-BG": "enzootic",
 "EPB/SWREU/PHAUL/S-S": "enzymolysis",
 "EPB/SWREU/PHAULG": "enzymology",
@@ -1352,10 +1352,10 @@
 "EPB/SWREU/PHOESZ": "enzymosis",
 "EPB/SWRU/PHAUL/S-S": "enzymolysis",
 "EPB/SWRU/PHAT": "enzymat",
-"EPB/SWR-PL": "enzyme", // standard
+"EPB/SWR-PL": "enzyme", // already in dictionary
 "EPB/SWR-PL/AUL/S-S": "enzymolysis",
 "EPB/SWR-PL/AT/-BG": "enzymatic",
-"EPB/SWR-PLZ": "enzymes", // standard
+"EPB/SWR-PLZ": "enzymes", // already in dictionary
 "EPB/SWAOET": "en suite",
 "EPB/SHRAEUFRB": "enslaver",
 "EPB/SHRAEUFRBZ": "enslavers",
@@ -1467,7 +1467,7 @@
 "EPB/SEU/KHR-BG": "encyclic",
 "EPB/SEUBG/HR-BG": "encyclic",
 "EPB/SEF": "{enceph^}",
-"EPB/SEF/HRAO*EUTS": "encephalitis", // standard
+"EPB/SEF/HRAO*EUTS": "encephalitis", // already in dictionary
 "EPB/SEF/HRAOEUT/-S": "encephalitis",
 "EPB/SEF/HRAUPB": "encephalon",
 "EPB/SEF/HRAUPBZ": "encephalons",
@@ -1475,7 +1475,7 @@
 "EPB/SEF/HRAULGS": "encephalologist",
 "EPB/SEF/HRAUG": "encephalog",
 "EPB/SEF/HRO": "{encephalo^}",
-"EPB/SEF/HRO/TKPWR-F": "encephalograph", // standard
+"EPB/SEF/HRO/TKPWR-F": "encephalograph", // already in dictionary
 "EPB/SEF/HRO/TKPWR-FBG": "encephalographic",
 "EPB/SEF/HRO/TKPWR-FZ": "encephalographs",
 "EPB/SEF/HRO/PHEU/HREU/T-S": "encephalomyelitis",
@@ -1483,7 +1483,7 @@
 "EPB/SEF/HROEPL/TU": "encephalomata",
 "EPB/SEF/HREUT": "encephalit",
 "EPB/SEF/HRU": "{encephalo^}",
-"EPB/SEF/HRU/TKPWR-F": "encephalograph", // standard
+"EPB/SEF/HRU/TKPWR-F": "encephalograph", // already in dictionary
 "EPB/SEF/HRU/TKPWR-FBG": "encephalographic",
 "EPB/SEF/HRU/TKPWR-FZ": "encephalographs",
 "EPB/SEF/HRU/R-R": "encephala",
@@ -1497,7 +1497,7 @@
 "EPB/SEFL/PHAOEUL/AOEUT/-S": "encephalomyelitis",
 "EPB/SEFL/PHEU/HRAOEUT/-S": "encephalomyelitis",
 "EPB/SEFL/PHEU/HREU/T-S": "encephalomyelitis",
-"EPB/SEFL/AO*EUTS": "encephalitis", // standard
+"EPB/SEFL/AO*EUTS": "encephalitis", // already in dictionary
 "EPB/SEFL/AU": "encephala",
 "EPB/SEFL/AUPB": "encephalon",
 "EPB/SEFL/AUPBZ": "encephalons",
@@ -1509,14 +1509,14 @@
 "EPB/SEP/-L/K-RG": "ensepulchering",
 "EPB/SEP/-L/K-RD": "ensepulchered",
 "EPB/SEP/-L/K-RZ": "ensepulchers",
-"EPB/SU/TPAL": "encephal", // standard
+"EPB/SU/TPAL": "encephal", // already in dictionary
 "EPB/SU/TPOERPL": "ensiform",
 "EPB/SU/HR-PBLG": "ensilage",
 "EPB/SU/HR-PBLG/-G": "ensilaging",
 "EPB/SU/HR-PBLG/-D": "ensilaged",
 "EPB/SU/HR-PBLGZ": "ensilages",
 "EPB/SURBG/-L": "encircle",
-"EPB/S-F/AL": "encephal", // standard
+"EPB/S-F/AL": "encephal", // already in dictionary
 "EPB/S-R/K-L": "encircle",
 "EPB/S-R/K-L/-GZ": "encirclings",
 "EPB/S-R/K-LG": "encircling",
@@ -1653,7 +1653,7 @@
 "EPB/TKO/KRAOEPB": "endocrine",
 "EPB/TKO/KRAOEPBZ": "endocrines",
 "EPB/TKO/KREU/TPH-L": "endocrinal",
-"EPB/TKO/KREUPB": "{endocrin^}", // standard
+"EPB/TKO/KREUPB": "{endocrin^}", // already in dictionary
 "EPB/TKO/KRU/TPHAULG": "endocrinology",
 "EPB/TKO/KRU/TPHAULGS": "endocrinologist",
 "EPB/TKO/KR-PB": "endocrine",
@@ -2008,7 +2008,7 @@
 "EPB/KEUPB": "enkin",
 "EPB/KEUPBD": "enkind",
 "EPB/KEUPBD/-L": "enkindle",
-"EPB/KU/PHU": "enchyma", // standard
+"EPB/KU/PHU": "enchyma", // already in dictionary
 "EPB/KU/REUD": "enchirid",
 "EPB/KU/REUD/KWR-PB": "enchiridion",
 "EPB/KU/REUD/KWR-PBZ": "enchiridions",
@@ -2047,7 +2047,7 @@
 "EPB/K-PL/PW-RZ": "encumbers",
 "EPB/K-PL/P-S": "encompass",
 "EPB/K-PL/P-S/-Z": "encompasses",
-"EPB/K-PL/AU": "enchyma", // standard
+"EPB/K-PL/AU": "enchyma", // already in dictionary
 "EPB/K-L/KH-R/AEUGZ": "enculturation",
 "EPB/K-L/KH-RGZ": "enculturation",
 "EPB/K-L/KH-RT/-FB": "enculturative",
@@ -2068,7 +2068,7 @@
 "EPB/PHAS": "en masse",
 "EPB/PHEGS": "enmesh",
 "EPB/PHEGS/-Z": "enmeshes",
-"EPB/PHU": "enema", // standard
+"EPB/PHU": "enema", // already in dictionary
 "EPB/PHU/TAE": "enmity",
 "EPB/PHU/TAEZ": "enmities",
 "EPB/PH-T": "enmit",
@@ -2235,7 +2235,7 @@
 "EPB/-R/SKWRAOESZ": "energesis",
 "EPB/-R/SKWRAE": "energy",
 "EPB/-R/SKWRAEZ": "energies",
-"EPB/-R/SKWRET": "energet", // standard
+"EPB/-R/SKWRET": "energet", // already in dictionary
 "EPB/-R/SKWR-Z": "energize",
 "EPB/-R/SKWR-Z/-R": "energizer",
 "EPB/-R/SKWR-Z/-RZ": "energizers",
@@ -2252,7 +2252,7 @@
 "EPB/-R/TKPWAOU/PH-PBZ": "energumens",
 "EPB/-R/TKPWAOUPL/-PB": "energumen",
 "EPB/-R/TKPWAOUPL/-PBZ": "energumens",
-"EPB/-RPBLG": "energ", // standard
+"EPB/-RPBLG": "energ", // already in dictionary
 "EPB/-RPBLG/ET": "energet",
 "EPB/-RG/AOU/PH-PB": "energumen",
 "EPB/-RG/AOU/PH-PBZ": "energumens",
