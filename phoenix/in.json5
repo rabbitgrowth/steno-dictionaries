@@ -299,7 +299,6 @@
 "EUPB/S-L/AOUB/RE/-S": "insalubrious",
 "EUPB/S-L/AOUB/R-T/AE": "insalubrity",
 "EUPB/S-L/AOUB/R-T/AEZ": "insalubrities",
-"EUPB/S-L/-R": "insular", // conflicts with "-insular"
 "EUPB/S-L/-PB": "insulin",
 "EUPB/S-L/-PBT": "insolent",
 "EUPB/S-L/-PBS": "insolence",
@@ -1258,7 +1257,6 @@
 "EUPB/-FRB/-G": "innerving",
 "EUPB/-FRB/-D": "innerved",
 "EUPB/-FRBZ": "innerves",
-"EUPB/-R": "{inner^}", // conflicts with "inner"
 "EUPB/-R/SHU": "inertia",
 "EUPB/-R/SRAEUGZ": "innervation",
 "EUPB/-R/SRAEUT": "innervate",
@@ -1280,6 +1278,15 @@
 "EUPB/-PB/TK-T": "inundat",
 "EUPB/-PBD": "inund",
 "EUPB/-G": "inning", // standard
+
+"EUPB/S-L/-R": "insular", // overrides "-insular"
+// We can solve this by hard-coding words that end with "-insular":
+"PEPB/EUPB/S-L/-R": "peninsular",
+
+// Keep EUPB/-R as "inner" (like TKEUPB/-R for "dinner") and TPH/-R as
+// "inner-". (Do I really need "inner-" anyway? It only seems useful for
+// "innermost", and "inner" + "-most" feels like a more natural way to
+// break up the word. The outline for "-most" is ugly though: PHO*ETS.)
 
 // -- "en-" ------------------------------------------------------------
 
