@@ -1380,6 +1380,10 @@
 "AD/EUPB/EUGS/-PL": "ad initium", // already in dictionary
 "UT/EUPB/TPRU": "ut infra",
 
+// There's a single entry that uses TPH at the end:
+// KRAUSZ/P-P/TPH "cross-in"
+// Not sure what's going on here.
+
 // -- "en-" ------------------------------------------------------------
 
 "EPB/STPHRAO*EUTS": "encephalitis",
