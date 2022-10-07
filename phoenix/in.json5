@@ -2353,6 +2353,21 @@
 // This overrides "-ennia", so we need to hard-code words that end with it:
 "PHEUL/EPB/KWRU": "millennia", // technically conflicts with "mill ennea-"
 
+"TKEUS/EPB/TAEUR": "dysenter",
+"TKEUS/EPB/TAER": "dysentery",
+"KPO/EPB/SWRAOEUPL": "exoenzyme",
+"KPO/EPB/SWRAOEUPLZ": "exoenzymes",
+"KPO/EPB/SWR-PL": "exoenzyme",
+"KPO/EPB/SWR-PLZ": "exoenzymes",
+"HRA*UPBG/EPB/TK-RG": "long-enduring",
+"RAOEUPB/EPB/SEF/HRAUPB": "rhinencephalon", // already in dictionary
+"RAOEUPB/EPB/SEF/HRU": "rhinencephala", // already in dictionary
+"RAOEUPB/EPB/SU/TPAL": "rhinencephal", // already in dictionary
+"RAOEUPB/EPB/S-F/AL": "rhinencephal", // already in dictionary
+"AFRP/EPB/AEPL": "archenemy",
+"AFRP/EPB/AEPL/-Z": "archenemies",
+"AFRP/EPB/AEPLZ": "archenemies",
+
 // -- Special uses of TPH ----------------------------------------------
 
 // There are four entries where TPH is used for neither "in-" nor "en-":
