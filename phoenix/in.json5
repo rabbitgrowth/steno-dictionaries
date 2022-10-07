@@ -38,9 +38,7 @@
 
 "TPH": "in",
 
-// -- Remaps -----------------------------------------------------------
-
-// First, remap TPH/... for "in..." to EUPB/...:
+// -- "in-" ------------------------------------------------------------
 
 "EUPB/STPEUGS/AEPBS": "insufficiency",
 "EUPB/STPEUGS/AEPBS/-Z": "insufficiencies",
@@ -1382,7 +1380,7 @@
 "AD/EUPB/EUGS/-PL": "ad initium", // already in dictionary
 "UT/EUPB/TPRU": "ut infra",
 
-// Next, remap TPH/... for "en..." to EPB/...:
+// -- "en-" ------------------------------------------------------------
 
 "EPB/STPHRAO*EUTS": "encephalitis",
 "EPB/STPHRAUG": "{encephalog^}",
