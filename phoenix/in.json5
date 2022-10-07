@@ -2322,9 +2322,16 @@
 // We can solve this by explicitly defining words that end with "-ennia":
 "PHEUL/EPB/KWRU": "millennia", // technically conflicts with "mill ennea-"
 
+// [PATCH] Delete all outlines that start with TPH except
+//         TPH/AE      "any"
+//         TPH/AE/W-PB "anyone"
+//         TPH/-GT     "nth"
+//         TPH/-GTS    "nths"
+//         TPH/-R      "inner-"
+
 // -- Conflicts with "-in-" and "-en-" ---------------------------------
 
-// Delete HRAOEUS/EPB "licen" so that it becomes "lice en-"
+// [PATCH] Delete HRAOEUS/EPB "licen" so that it becomes "lice en-"
 "HRAOEUS/EPB/SH-T": "licentiate",
 "HRAOEUS/EPB/SH-TS": "licentiates",
 "HRAOEUS/EPB/SHE/-T": "licentiate",
@@ -2335,12 +2342,12 @@
 "HRAOEUS/EPB/SHE/AEUTS": "licentiates",
 "HRAOEUS/EPB/SH-S": "licentious", // SHE/-S isn't used for "-tious"
 
-// Delete HRAOUT/EPB "lieuten" so that it becomes "lute en-"
+// [PATCH] Delete HRAOUT/EPB "lieuten" so that it becomes "lute en-"
 "HRAOUT/EPB/-PBT": "lieutenant",
 "HRAOUT/EPB/-PBTS": "lieutenants",
 "HRAOUT/EPB/AEPBS": "lieutenancy",
 
-// Delete SRABGS/EUPB "vaccin" so that it becomes "vax in-"
+// [PATCH] Delete SRABGS/EUPB "vaccin" so that it becomes "vax in-"
 "SRABGS/EUPB/KWRU": "vaccinia",
 
 }
