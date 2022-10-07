@@ -1325,6 +1325,59 @@
 // (The outline for "-most" is ugly though: PHO*ETS. But that's a
 // general problem with using *S for "-st".)
 
+"SPR/EUPB/TEPB/TKAEPBS": "superintendency",
+"SPR/EUPB/TEPB/TKAEPBS/-Z": "superintendencies",
+"SPR/EUPB/TEPB/TK-PBT": "superintendent", // already in dictionary
+"SPR/EUPB/TEPB/TK-PBTS": "superintendents", // already in dictionary
+"SPR/EUPB/TEPB/TK-PBS": "superintendence", // already in dictionary
+"SPR/EUPB/TEPBD/AEPBS": "superintendency",
+"SPR/EUPB/TEPBD/AEPBS/-Z": "superintendencies",
+"SPR/EUPB/TEPBD/-PBT": "superintendent", // already in dictionary
+"SPR/EUPB/TEPBD/-PBTS": "superintendents", // already in dictionary
+"SPR/EUPB/TEPBD/-PBS": "superintendence", // already in dictionary
+"SPR*/EUPB/TEPBD/-PBT": "superintendent", // already in dictionary
+"SRAOEUD/AE/EUPB/TPRU": "vide infra",
+"SREU/TKAE/EUPB/TPRU": "vide infra",
+"TKPWA*S/RO/EUPB/TES/TU/TPH-L": "gastrointestinal", // already in dictionary
+"TKPWAS/TRO/EUPB/TES/TU/TPH-L": "gastrointestinal", // already in dictionary
+"TKEUS/EUPB/HAEURT": "disinherit",
+"TPRAL/PWAOUR/OE/OF/EUPB/SR*ES/TKPWAEUGZ": "Federal Bureau of Investigation",
+"TPRAL/PWAOUR/OE/OF/EUPB/SRES/T-G": "Federal Bureau of Investig",
+"TPED/R-L/PWAOUR/OE/OF/EUPB/SR*ES/TKPWAEUGZ": "Federal Bureau of Investigation",
+"TPED/-RL/PWAOUR/OE/OF/EUPB/SR*ES": "Federal Bureau of Invest",
+"KO/EUPB/SHAOUR/-RZ": "coinsurers", // already in dictionary
+"KO/EUPB/SHAOUR/-PBS": "coinsurance",
+"KO/EUPB/SHAOURPBS": "coinsurance",
+"KO/EUPB/SHAOURG": "coinsuring",
+"KO/EUPB/SHAOURD": "coinsured",
+"KO/EUPB/SHAOURZ": "coinsures", // already in dictionary
+"PRAOEUPL/-S/EUPB/T-R/PAEUR/AEZ": "primus inter pares",
+"PREU/PH-S/EUPB/T-R/PAEUR/AEZ": "primus inter pares",
+"W*ES/EUPB/TKAOEZ/R-R": "West Indies",
+"W*ES/EUPB/TKAEZ/R-R": "West Indies",
+"RE/EUPB/TPORS": "reinforce",
+"RE/EUPB/TPORS/-R": "reinforcer",
+"RE/EUPB/TPORS/-RZ": "reinforcers",
+"RE/EUPB/TPORS/-G": "reinforcing",
+"RE/EUPB/TPORS/-D": "reinforced",
+"A*U/EUPB/SPAOEUR/-G": "awe-inspiring",
+"AEPBT/EUPB/TU/HREBG": "anti-intellec",
+"AEPBT/EUPB/T-L/EBG": "anti-intellec",
+"APB/TEU/EUPB/TPHRAPL/TOEUR": "anti-inflammatory", // already in dictionary
+"APB/TEU/EUPB/TPHRAPL/TOEURZ": "anti-inflammatories", // already in dictionary
+"APB/TEU/EUPB/TU/HREBG": "anti-intellec",
+"APB/TEU/EUPB/T-L/EBG": "anti-intellec",
+"AB/EUPB/TRU": "ab intra",
+"AB/EUPB/EUGS/OE": "ab initio",
+"AD/EUPB/TPU/TPHAOEUT/-PL": "ad infinitum",
+"AD/EUPB/TPU/TPHEU/T-PL": "ad infinitum",
+"AD/EUPB/TP-PB/AOEUT/-PL": "ad infinitum",
+"AD/EUPB/TR-PL": "ad interim",
+"AD/EUPB/T-R/-PL": "ad interim",
+"AD/EUPB/EUGS": "ad init",
+"AD/EUPB/EUGS/-PL": "ad initium", // already in dictionary
+"UT/EUPB/TPRU": "ut infra",
+
 // Next, remap TPH/... for "en..." to EPB/...:
 
 "EPB/STPHRAO*EUTS": "encephalitis",
