@@ -34,6 +34,10 @@
 // because words are strongly tied to spelling in my mind: when I hear
 // "enjoy", I don't think "njoy" or "injoy"; I think "enjoy".
 
+// -- "in" -------------------------------------------------------------
+
+"TPH": "in",
+
 // -- Remaps -----------------------------------------------------------
 
 // First, remap TPH/... for "in..." to EUPB/...:
