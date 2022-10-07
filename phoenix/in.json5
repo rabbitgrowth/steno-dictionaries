@@ -33,33 +33,10 @@
 //
 // because words are strongly tied to spelling in my mind: when I hear
 // "enjoy", I don't think "njoy" or "injoy"; I think "enjoy".
-//
-// To implement this change, I went through all the outlines in the
-// dictionary that start with TPH. If it's used for "in-", I changed the
-// TPH to EUPB; if it's used for "en-", I changed it to EPB. I didn't
-// find any conflicts at this stage.
-//
-// There are exactly four entries where TPH is neither used for "in-"
-// nor "en-":
-//
-// TPH/AE      "any"
-// TPH/AE/W-PB "anyone"
-// TPH/-GT     "nth"
-// TPH/-GTS    "nths"
-//
-// These are kept as they are.
-//
-// Finally, there are three minor conflicts caused by the fact that
-// Phoenix also uses EUPB and EPB for "-in-" and "-en-":
-//
-// SRABGS/EUPB "vaccin",  "vax in-"
-// HRAOEUS/EPB "licen",   "lice en-"
-// HRAOUT/EPB  "lieuten", "lute en-"
-//
-// Fortunately, these could be solved by explicitly defining words that
-// start with "vaccin", "licen", and "lieuten".
 
-// -- "in-" ------------------------------------------------------------
+// -- Remaps -----------------------------------------------------------
+
+// First, remap TPH/... for "in..." to EUPB/...:
 
 "EUPB/STPEUGS/AEPBS": "insufficiency",
 "EUPB/STPEUGS/AEPBS/-Z": "insufficiencies",
@@ -1338,16 +1315,17 @@
 "EUPB/-PBD": "inund",
 "EUPB/-G": "inning", // already in dictionary
 
-"EUPB/S-L/-R": "insular", // overrides "-insular"
-// We can solve this by explicitly defining words that end with "-insular":
+"EUPB/S-L/-R": "insular",
+// This overrides "-insular", so we need to hard-code words that end with it:
 "PEPB/EUPB/S-L/-R": "peninsular", // technically conflicts with "pen insular"
 
-// Keep EUPB/-R as "inner" (like TKEUPB/-R for "dinner") and TPH/-R as
-// "inner-". (Do I really need "inner-" anyway? It only seems useful for
-// "innermost", and "inner" + "-most" feels like a more natural way to
-// break up the word. The outline for "-most" is ugly though: PHO*ETS.)
+// Keep EUPB/-R as "inner" (which is consistent with TKEUPB/-R "dinner")
+// and give up TPH/-R "inner-". It's only useful for "innermost",
+// which can be more naturally broken up into "inner" + "-most" anyway.
+// (The outline for "-most" is ugly though: PHO*ETS. But that's a
+// general problem with using *S for "-st".)
 
-// -- "en-" ------------------------------------------------------------
+// Next, remap TPH/... for "en..." to EPB/...:
 
 "EPB/STPHRAO*EUTS": "encephalitis",
 "EPB/STPHRAUG": "{encephalog^}",
@@ -2318,18 +2296,38 @@
 "EPB/-RG/AOUPL/-PB": "energumen",
 "EPB/-RG/AOUPL/-PBZ": "energumens",
 
-"EPB/KWRU": "{ennea^}", // overrides "-ennia"
-// We can solve this by explicitly defining words that end with "-ennia":
+"EPB/KWRU": "{ennea^}",
+// This overrides "-ennia", so we need to hard-code words that end with it:
 "PHEUL/EPB/KWRU": "millennia", // technically conflicts with "mill ennea-"
 
+// -- Special uses of TPH ----------------------------------------------
+
+// There are four entries where TPH is used for neither "in-" nor "en-":
+//
+// TPH/AE      "any"
+// TPH/AE/W-PB "anyone"
+// TPH/-GT     "nth"
+// TPH/-GTS    "nths"
+//
+// Keep these as they are.
+
 // [PATCH] Delete all outlines that start with TPH except
-//         TPH/AE      "any"
-//         TPH/AE/W-PB "anyone"
-//         TPH/-GT     "nth"
-//         TPH/-GTS    "nths"
-//         TPH/-R      "inner-"
+//         TPH/AE, TPH/AE/W-PB, TPH/-GT, and TPH/-GTS
 
 // -- Conflicts with "-in-" and "-en-" ---------------------------------
+
+// Finally, there are three minor conflicts with word parts that use
+// EUPB and EPB for "-in-" and "-en-":
+//
+// SRABGS/EUPB "vax  in-", "vaccin"
+// HRAOEUS/EPB "lice en-", "licen"
+// HRAOUT/EPB  "lute en-", "lieuten"
+//
+// Fortunately, these could be solved by hard-coding words that start
+// with the word parts.
+
+// [PATCH] Delete SRABGS/EUPB "vaccin" so that it becomes "vax in-"
+"SRABGS/EUPB/KWRU": "vaccinia",
 
 // [PATCH] Delete HRAOEUS/EPB "licen" so that it becomes "lice en-"
 "HRAOEUS/EPB/SH-T": "licentiate",
@@ -2346,8 +2344,5 @@
 "HRAOUT/EPB/-PBT": "lieutenant",
 "HRAOUT/EPB/-PBTS": "lieutenants",
 "HRAOUT/EPB/AEPBS": "lieutenancy",
-
-// [PATCH] Delete SRABGS/EUPB "vaccin" so that it becomes "vax in-"
-"SRABGS/EUPB/KWRU": "vaccinia",
 
 }
