@@ -40,6 +40,8 @@
 
 // -- "in-" ------------------------------------------------------------
 
+// Change TPH used for "in-" to EUPB:
+
 "EUPB/STPEUGS/AEPBS": "insufficiency",
 "EUPB/STPEUGS/AEPBS/-Z": "insufficiencies",
 "EUPB/STPEUGS/-PBT": "insufficient",
@@ -1386,6 +1388,8 @@
 
 // -- "en-" ------------------------------------------------------------
 
+// Change TPH used for "en-" to EPB:
+
 "EPB/STPHRAO*EUTS": "encephalitis",
 "EPB/STPHRAUG": "{encephalog^}",
 "EPB/STPHRO": "{encephalo^}",
@@ -2385,25 +2389,28 @@
 //
 // Keep these as they are.
 
-// [PATCH] Delete all outlines that start with TPH except
-//         TPH/AE, TPH/AE/W-PB, TPH/-GT, and TPH/-GTS
+// -- Deleting entries with TPH ----------------------------------------
+
+// Delete all entries containing TPH except the four special entries
+// above to prevent conflicts with our new "in". For example, delete
+// TPH/TKAEUFPG/-R "endanger" so that it becomes "in danger".
 
 // -- Conflicts with "-in-" and "-en-" ---------------------------------
 
 // Finally, there are three minor conflicts with word parts that use
 // EUPB and EPB for "-in-" and "-en-":
 //
-// SRABGS/EUPB "vax  in-", "vaccin"
-// HRAOEUS/EPB "lice en-", "licen"
-// HRAOUT/EPB  "lute en-", "lieuten"
+// SRABGS/EUPB "vaccin"  (conflicts with "vax  in-")
+// HRAOEUS/EPB "licen"   (conflicts with "lice en-")
+// HRAOUT/EPB  "lieuten" (conflicts with "lute en-")
 //
 // Fortunately, these could be solved by hard-coding words that start
 // with the word parts.
 
-// [PATCH] Delete SRABGS/EUPB "vaccin" so that it becomes "vax in-"
+// Delete: SRABGS/EUPB
 "SRABGS/EUPB/KWRU": "vaccinia",
 
-// [PATCH] Delete HRAOEUS/EPB "licen" so that it becomes "lice en-"
+// Delete: HRAOEUS/EPB
 "HRAOEUS/EPB/SH-T": "licentiate",
 "HRAOEUS/EPB/SH-TS": "licentiates",
 "HRAOEUS/EPB/SHE/-T": "licentiate",
@@ -2414,7 +2421,7 @@
 "HRAOEUS/EPB/SHE/AEUTS": "licentiates",
 "HRAOEUS/EPB/SH-S": "licentious", // SHE/-S isn't used for "-tious"
 
-// [PATCH] Delete HRAOUT/EPB "lieuten" so that it becomes "lute en-"
+// Delete: HRAOUT/EPB
 "HRAOUT/EPB/-PBT": "lieutenant",
 "HRAOUT/EPB/-PBTS": "lieutenants",
 "HRAOUT/EPB/AEPBS": "lieutenancy",
