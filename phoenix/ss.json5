@@ -390,7 +390,6 @@
 "TKREFS/-G/TK-PB": "dressing-down",
 "TKREFS/-G/P-P/TKOUPB": "dressing-down",
 "TKREFS/-Z": "dresses",
-"TKR-FS": "{^dress}", // conflicts with "doctor's"
 "TKR-FS/-Z": "{^dresses}",
 "TKAOEUG/TPHOEFS": "diagnosis",
 "TKAOEUS/TPHAEFS": "diciness",
@@ -1048,7 +1047,6 @@
 "PH-T/OEFS": "{^matosis}",
 "PRAOEUS/TPHAEFS": "priciness",
 "PRAOEBG/TPH-FS": "Preakness",
-"PRAOEFS": "paresis", // conflicts with "previous"
 "PRAUP/TOEFS": "proptosis",
 "PRAUG/TPHOEFS": "prognosis",
 "PRAUFS": "process",
@@ -1318,7 +1316,6 @@
 "RUT/TPHAEFS": "ruttiness",
 "RUFS": "russ",
 "RUD/TPHAEFS": "ruddiness",
-"R-FS": "{^ress}", // conflicts with "{^rophous}"
 "R-FS/-Z": "{^resses}",
 "AOEUS/TPHAEFS": "iciness",
 "AOER/TPHAEFS": "eeriness",
@@ -1385,7 +1382,6 @@
 "AS/TKOEFS": "acidosis",
 "AS/P-R/SKWRU/HROEFS": "aspergillosis",
 "AS/P-RPBLG/HROEFS": "aspergillosis",
-"AFS": "ass", // conflicts with "advice"
 "AFS/-Z": "asses",
 "AD/SREPB/KH-R/-FS": "adventuress",
 "AD/SREPB/KH-R/-FS/-Z": "adventuresses",
@@ -1451,7 +1447,21 @@
 "-P/TAOEUFS": "{^ptysis}",
 "-P/TOEFS": "{^ptosis}",
 "-S/THAOEFS": "{^esthesis}",
-"-FS": "{^ess}", // conflicts with "was"
 "-FS/-Z": "{^esses}",
+
+// -- Conflicts --------------------------------------------------------
+
+"TKR-FS": "{^dress}", // write out "doctor's"
+
+"PRAOEFS": "paresis", // use PRAOEFBS for "previous"
+
+"R-FS": "{^ress}", // overrides "-rophous"; hard-code words that end with it
+"HET/RA*US/R-FS": "heterostrophous",
+"HET/-R/A*US/R-FS": "heterostrophous",
+
+"AFS": "ass", // overrides "advice"
+"AFBS": "advice",
+
+"-FS": "{^ess}", // use WUZ for "was" (and WUR for "were")
 
 }
