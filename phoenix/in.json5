@@ -2379,8 +2379,6 @@
 //
 // Keep these as they are.
 
-// -- Deleting entries with TPH ----------------------------------------
-
 // Delete all entries containing TPH except the four special entries
 // above to prevent conflicts with our new "in". For example, delete
 // TPH/TKAEUFPG/-R "endanger" so that it becomes "in danger".
