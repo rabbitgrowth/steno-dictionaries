@@ -1,5 +1,45 @@
 {
 
+// Phoenix uses -SZ for one-syllable words ending with -ss:
+//
+// PHEUS  "mis-"
+// PHEUSZ "miss"
+//
+// and for -sis:
+//
+// PWAEUSZ "basis"
+// O/AEUSZ "oasis"
+//
+// But -SZ is "awkward to stroke" and "prone to misstroking" (as the
+// textbook conveniently admits while explaining why the chord is not
+// used for -ses).
+//
+// For many of the -ss words, it's possible to use -S instead of -SZ
+// without causing any conflicts. For example, "stress" is STRESZ,
+// but STRES is completely free.
+//
+// However, for a few of the -ss words, using -S instead of -SZ causes
+// unresolvable conflicts:
+//
+// TKPWHRAUS/O  "glosso-",   "gloss o-"
+// TKPWROES/-R  "grocer",    "grosser"
+// PHAS/KAUPB   "mascon",    "mass con-"
+// PHES/TPEUL   "mesophyll", "mess fill"
+// PAS/TRAUL/AE "pastorale", "pass trolley"
+// PRES/TOE     "presto",    "press tow"
+// etc.
+//
+// Solution: instead of -SZ or -S, use -FS. -F, like -Z, is a key
+// that's sometimes used for "s" (as in -FBG -sk), so conceptually
+// -FS makes just as much sense as -SZ: it's still two keys standing
+// for "s" combining to make "ss", but easier to press. -FS is also
+// not used very much in Phoenix: it's mostly only used for "was"
+// in phrases, which are always starred, and for -fus, which is not
+// very common, so switching to -FS causes very few conflicts.
+//
+// -FS also has the nice property of being symmetrical along a
+// vertical axis with -PG, the other major chord I'm repurposing.
+
 "STKEUFS": "kiss",
 "STK-L/TOEUR/TPH-FS": "desultoriness",
 "STPHAOEZ/TPHAEFS": "sneeziness",
