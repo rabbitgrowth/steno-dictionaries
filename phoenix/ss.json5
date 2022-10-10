@@ -14,12 +14,10 @@
 // textbook conveniently admits while explaining why the chord is not
 // used for -ses).
 //
-// For many of the -ss words, it's possible to use -S instead of -SZ
-// without causing any conflicts. For example, "stress" is STRESZ,
-// but STRES is completely free.
+// One solution is to use -S instead of -SZ. This often works well.
+// For example, "stress" is STRESZ, but STRES is free.
 //
-// However, for a few of the -ss words, using -S instead of -SZ causes
-// unresolvable conflicts:
+// But sometimes using -S instead of -SZ causes unresolvable conflicts:
 //
 // TKPWHRAUS/O  "glosso-",   "gloss o-"
 // TKPWROES/-R  "grocer",    "grosser"
@@ -29,13 +27,12 @@
 // PRES/TOE     "presto",    "press tow"
 // etc.
 //
-// Solution: instead of -SZ or -S, use -FS. -F, like -Z, is a key
-// that's sometimes used for "s" (as in -FBG -sk), so conceptually
-// -FS makes just as much sense as -SZ: it's still two keys standing
-// for "s" combining to make "ss", but easier to press. -FS is also
-// not used very much in Phoenix: it's mostly only used for "was"
-// in phrases, which are always starred, and for -fus, which is not
-// very common, so switching to -FS causes very few conflicts.
+// Solution: instead of -SZ or -S, use -FS, which is a much easier
+// combination of two keys standing for "s".
+//
+// Switching to -FS causes very few conflicts because it's not used
+// very much in Phoenix. It's mostly only used for "was" in phrases,
+// which are always starred, and for -fus, which is not very common.
 //
 // -FS also has the nice property of being symmetrical along a
 // vertical axis with -PG, the other major chord I'm repurposing.
