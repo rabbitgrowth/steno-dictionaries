@@ -2,7 +2,14 @@
 
 // -- -PBGS for -nish --------------------------------------------------
 
-"PWAPBGS": "banish",
+// Precedents:
+// PUPBGS     "punish"
+// STAUPBGS   "astonish"
+// TPEUPBGS   "finish"
+// TKPHEUPBGS "diminish"
+// The last one is particularly nice because it's made up of five 2x2 blocks.
+
+"PWAPBGS": "banish", // used in PWAPBGS/AE "banshee" but "banishy" is not a word
 "PWROUPBGS": "brownish",
 "PWURPBGS": "burnish",
 "TKAEUPBGS": "Danish",
