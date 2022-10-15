@@ -21,6 +21,15 @@
 "SRAPBGS": "vanish",
 "SRARPBGS": "varnish",
 
+"PWAPBGS/-Z": "banishes",
+"PWURPBGS/-Z": "burnishes",
+"TKAEUPBGS/-Z": "Danishes", // "chocolate Danishes"
+"TKPWARPBGS/-Z": "garnishes",
+"PHREPBGS/-Z": "plenishes",
+"TARPBGS/-Z": "tarnishes",
+"SRAPBGS/-Z": "vanishes",
+"SRARPBGS/-Z": "varnishes",
+
 // -- Negative contractions without *PBT -------------------------------
 
 "AEUPBT": "ain't", // give up "-aint"
