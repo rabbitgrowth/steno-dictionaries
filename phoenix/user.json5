@@ -1,5 +1,19 @@
 {
 
+// -- -PBGS for -nish --------------------------------------------------
+
+"PWAPBGS": "banish",
+"PWROUPBGS": "brownish",
+"PWURPBGS": "burnish",
+"TKAEUPBGS": "Danish",
+"TKPWARPBGS": "garnish",
+"TKPWRAOEPBGS": "greenish",
+"PHREPBGS": "plenish",
+"SPAPBGS": "Spanish",
+"TARPBGS": "tarnish",
+"SRAPBGS": "vanish",
+"SRARPBGS": "varnish",
+
 // -- Negative contractions without *PBT -------------------------------
 
 "AEUPBT": "ain't", // give up "-aint"
