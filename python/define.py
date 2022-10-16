@@ -8,7 +8,7 @@ def lookup(strokes):
     output = '{^}"'
     for i, stroke in enumerate(strokes):
         if stroke == 'A*Z':
-            output += '": "{^}'
+            output += '": "",{#left}{#left}{^}'
             break
         if i:
             output += '/'
