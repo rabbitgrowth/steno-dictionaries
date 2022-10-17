@@ -9,8 +9,7 @@ COMMANDS = {
 def lookup(strokes):
     strokes = iter(strokes)
     first = next(strokes)
-    end_stroke, start, end = COMMANDS[first]
-    output = start
+    end_stroke, output, end = COMMANDS[first]
     for i, stroke in enumerate(strokes):
         if stroke == end_stroke:
             output += end
