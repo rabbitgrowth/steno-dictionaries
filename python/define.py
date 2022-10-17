@@ -1,14 +1,19 @@
 LONGEST_KEY = 10
 
+COMMANDS = {
+    'TK*EF': ('A*Z', '{^}"', '": "",{#left}{#left}{^}'),
+    'RA*U':  ('RA*UD', '', ''),
+    'RAUR':  ('RAURD', '`', '`'),
+}
+
 def lookup(strokes):
     strokes = iter(strokes)
     first = next(strokes)
-    if first != 'TK*EF':
-        raise KeyError
-    output = '{^}"'
+    end_stroke, start, end = COMMANDS[first]
+    output = start
     for i, stroke in enumerate(strokes):
-        if stroke == 'A*Z':
-            output += '": "",{#left}{#left}{^}'
+        if stroke == end_stroke:
+            output += end
             break
         if i:
             output += '/'
@@ -16,6 +21,8 @@ def lookup(strokes):
     try:
         next(strokes)
     except StopIteration:
+        if not output:
+            return '{#}'
         return output
     else:
         raise KeyError
