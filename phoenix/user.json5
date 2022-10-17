@@ -44,6 +44,49 @@
 "PHO*": "month", // star "mo" for "month" like how you star "ME" for "Maine"
 "PHO*Z": "months",
 
+// -- Conflicts between -al and -le ------------------------------------
+
+"PHED/-L": "meddle", // cf. PHEUD/-L "middle"
+"PHED/-LG": "meddling",
+"PHED/-LD": "meddled",
+"PHED/-LZ": "meddles",
+"PHED/-L/R-R": "medal",
+"PHED/-LG/R-R": "medaling",
+"PHED/-LD/R-R": "medaled",
+"PHED/-LZ/R-R": "medals",
+"PHED/*L": "medal",
+"PHED/*LZ": "medals",
+"PH*ELD": "medal",
+"PH*ELDZ": "medals",
+
+"PHET/-L": "mettle",
+"PHET/-LG": "mettling",
+"PHET/-LD": "mettled",
+"PHET/-LZ": "mettles",
+"PHET/-L/R-R": "metal",
+"PHET/-LG/R-R": "metaling",
+"PHET/-LD/R-R": "metaled",
+"PHET/-LZ/R-R": "metals",
+"PHET/*L": "metal",
+"PHET/*LZ": "metals",
+"PH*ELT": "metal",
+"PH*ELTS": "metals",
+
+"PED/-L": "peddle",
+"PED/-LG": "peddling",
+"PED/-LD": "peddled",
+"PED/-LZ": "peddles",
+"PED/-L/R-R": "pedal",
+"PED/-LG/R-R": "pedaling",
+"PED/-LD/R-R": "pedaled",
+"PED/-LZ/R-R": "pedals",
+"PED/*L": "pedal", // but PET/-L "petal"
+"PED/*LZ": "pedals",
+"P*ELD": "pedal",
+"P*ELDZ": "pedals",
+
+"PWRAOEUD/*L": "bridal",
+
 // -- R-R entries they forgot to update --------------------------------
 
 // Sometimes when they swapped the outlines for homophones,
