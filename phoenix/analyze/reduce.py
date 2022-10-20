@@ -2,7 +2,7 @@
 # in strict steno order into one stroke?
 #
 # - you can reduce TPAEUPL/-S "famous" into TPAEUPLS
-# - you can reduce RAB/-T "rabbit" into RABT (but RABTS doesn't work)
+# - you can reduce RAB/-T "rabbit" into RABT (but not RAB/-TS into RABTS)
 # - you cannot reduce HRET/-S "lettuce" into HRETS, because that's "lets"
 # - you cannot reduce RUB/-GS "rubbish" into RUBGS, even though that's undefined
 #
