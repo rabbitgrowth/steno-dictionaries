@@ -1,9 +1,9 @@
 LONGEST_KEY = 10
 
 COMMANDS = {
-    'TK*EF': ('A*Z', '{^}"', '": "",{#left}{#left}{^}'),
-    'RA*U':  ('RA*UD', '', ''),
-    'RAUR':  ('RAURD', '`', '`'),
+    'TK*EF':  ('A*Z', '{^}"', '": "",{#left}{#left}{^}'),
+    'RA*U':   ('*D', '', ''),
+    'PW*BGT': ('*D', '`', '`'),
 }
 
 def lookup(strokes):
