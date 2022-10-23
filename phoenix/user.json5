@@ -10,24 +10,23 @@
 // The last one is particularly nice because it's made up of five 2x2 blocks.
 
 "PWAPBGS": "banish", // used in PWAPBGS/AE "banshee" but "banishy" is not a word
+"PWAPBGS/-Z": "banishes",
 "PWROUPBGS": "brownish",
 "PWURPBGS": "burnish",
+"PWURPBGS/-Z": "burnishes",
 "TKAEUPBGS": "Danish",
+"TKAEUPBGS/-Z": "Danishes", // "chocolate Danishes"
 "TKPWARPBGS": "garnish",
+"TKPWARPBGS/-Z": "garnishes",
 "TKPWRAOEPBGS": "greenish",
 "PHREPBGS": "plenish",
+"PHREPBGS/-Z": "plenishes",
 "SPAPBGS": "Spanish",
 "TARPBGS": "tarnish",
-"SRAPBGS": "vanish",
-"SRARPBGS": "varnish",
-
-"PWAPBGS/-Z": "banishes",
-"PWURPBGS/-Z": "burnishes",
-"TKAEUPBGS/-Z": "Danishes", // "chocolate Danishes"
-"TKPWARPBGS/-Z": "garnishes",
-"PHREPBGS/-Z": "plenishes",
 "TARPBGS/-Z": "tarnishes",
+"SRAPBGS": "vanish",
 "SRAPBGS/-Z": "vanishes",
+"SRARPBGS": "varnish",
 "SRARPBGS/-Z": "varnishes",
 
 // -- Negative contractions without *PBT -------------------------------
