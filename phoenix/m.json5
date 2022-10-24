@@ -654,6 +654,8 @@
 "SHAFRP/AEUPB": "champagne",
 "SHAFRP/AEUPBZ": "champagnes",
 "SRAFRP": "vamp",
+"SRAFRP/R-FPL": "vampirism",
+"SRAFRP/AOEUR/-FPL": "vampirism",
 "SRAFRP/AOEUR/-GS": "vampirish",
 "SRAFRP/AOER/-BG": "vampiric",
 "SRAFRP/AOERBG": "vampiric",
@@ -694,6 +696,7 @@
 "SEUFRP/HREUS/TAEZ": "simplicities",
 "SEUFRP/HREBGS": "simplex",
 "SEUFRP/HREBGS/-Z": "simplexes",
+"SEUFRP/HR-FPL": "simplism",
 "SEUFRP/HR-S/TKEPB/TAEUT": "simplicidentate",
 "SEUFRP/HR-S/TKEPBT/AEUT": "simplicidentate",
 "SEUFRP/AEGT": "sympathy",
@@ -1293,7 +1296,9 @@
 "HED/HRA*FRP": "headlamp",
 "HED/HRA*FRPZ": "headlamps",
 "HUFRP": "hump",
+"HUFRP/TAE/TKUFRP/TAE": "Humpty Dumpty",
 "HUFRPT": "humpt",
+"HUFRPT/AE/TKUFRPT/AE": "Humpty Dumpty",
 "HUFRPZ": "humps",
 "RAUFRP": "romp",
 "RAUFRPZ": "romps",
@@ -1522,11 +1527,5 @@
 "U/K-FRP/AEPB/-RZ": "accompaniers",
 "UFRP": "ump",
 "UFRP/R-PBLG": "umpirage",
-
-"SRAFRP/R-FPL": "vampirism",
-"SRAFRP/AOEUR/-FPL": "vampirism",
-"SEUFRP/HR-FPL": "simplism",
-"HUFRP/TAE/TKUFRP/TAE": "Humpty Dumpty",
-"HUFRPT/AE/TKUFRPT/AE": "Humpty Dumpty",
 
 }
