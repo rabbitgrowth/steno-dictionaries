@@ -346,6 +346,7 @@
 // use -FRBG ("vrg"), which uses "g" to approximate "j".
 "AFRBG": "average",
 "PWEFRBG": "beverage",
+"KOFRBG": "coverage",
 "KUFRBG": "coverage",
 "HRAOEFRBG": "leverage",
 "HREFRBG": "leverage",
