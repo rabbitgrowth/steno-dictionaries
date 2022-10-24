@@ -348,8 +348,9 @@
 "PWEFRPBLG/-Z": "benches",
 "PWEFRPBLGZ": "benches",
 
-// For -verage, instead of -FRPBLG ("frj"), which uses "f" to approximate "v",
-// use -FRBG ("vrg"), which uses "g" to approximate "j".
+// For -verage, instead of -FRPBLG ("frj"),
+// which uses "f" to stand in for "v",
+// use -FRBG ("vrg"), which uses "g" to stand in for "j".
 "AFRBG": "average",
 "PWEFRBG": "beverage",
 "KOFRBG": "coverage",
