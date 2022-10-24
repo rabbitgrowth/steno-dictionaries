@@ -167,13 +167,10 @@
 "PWRUFRPBLG/-Z": "brunches",
 "PWRUFRPBLGZ": "brunches",
 "PWAUPB/SREFRPBLG/-R": "Bonaventure",
-"PWEFRPBLG": "bench",
 "PWEFRPBLG/-R": "benture",
 "PWEFRPBLG/-RG": "benturing",
 "PWEFRPBLG/-RD": "bentured",
 "PWEFRPBLG/-RZ": "bentures",
-"PWEFRPBLG/-Z": "benches",
-"PWEFRPBLGZ": "benches",
 "PWUFRPBLG": "bunch",
 "PWUFRPBLG/-Z": "bunches",
 "PWUFRPBLGZ": "bunches",
@@ -340,5 +337,17 @@
 "U/TPRAFRPBLG/AOEUZ/-G": "affranchising",
 "U/TPRAFRPBLG/AOEUZ/-D": "affranchised",
 "U/TAEUFRPBLG/-R": "attainture",
+
+"PWEFRPBLG": "bench", // overrides "beverage"
+"PWEFRPBLG/-Z": "benches",
+"PWEFRPBLGZ": "benches",
+
+// For -verage, instead of -FRPBLG ("frj"), which uses "f" to approximate "v",
+// use -FRBG ("vrg"), which uses "g" to approximate "j".
+"AFRBG": "average",
+"PWEFRBG": "beverage",
+"KUFRBG": "coverage",
+"HRAOEFRBG": "leverage",
+"HREFRBG": "leverage",
 
 }
