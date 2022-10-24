@@ -338,6 +338,14 @@
 "U/TPRAFRPBLG/AOEUZ/-D": "affranchised",
 "U/TAEUFRPBLG/-R": "attainture",
 
+"TP*EUFRPBLG": "{^finch}",
+"TP*EUFRPBLG/-Z": "{^finches}",
+"TP*EUFRPBLGZ": "{^finches}",
+"KWREUFRPBLG": "{^-inch}",
+"WR*EFRPBLG/-G": "{^-wrenching}",
+"AFRPBLG": "{^anch}",
+"EFRPBLG": "{^ench}",
+
 "PWEFRPBLG": "bench", // overrides "beverage"
 "PWEFRPBLG/-Z": "benches",
 "PWEFRPBLGZ": "benches",
