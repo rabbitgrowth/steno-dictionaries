@@ -346,7 +346,6 @@
 "PWEFRPBLG": "bench", // overrides "beverage"
 "PWEFRPBLG/-Z": "benches",
 "PWEFRPBLGZ": "benches",
-
 // For -verage, instead of -FRPBLG ("frj"),
 // which uses "f" to stand in for "v",
 // use -FRBG ("vrg"), which uses "g" to stand in for "j".
