@@ -1547,4 +1547,25 @@
 "WEUFRPL": "wimple",
 "WEUFRPLZ": "wimples",
 
+"AFRBL": "amble", // overrides "arval"
+"PWRAFRBL": "bramble",
+"PWUFRBL": "bumble",
+"KRUFRBL": "crumble",
+"TPUFRBL": "fumble",
+"TKPWAFRBL": "gamble",
+"TKPWRUFRBL": "grumble",
+"HUFRBL": "humble",
+"SKWRUFRBL": "jumble",
+"PHUFRBL": "mumble",
+"TPHEUFRBL": "nimble", // KAR/TPHEUFRBL "car nimble" conflicts with "carnivoral"
+"RAFRBL": "ramble",
+"RUFRBL": "rumble",
+"SKRAFRBL": "scramble",
+"SKUFRBL": "scumble",
+"SHAFRBL": "shamble",
+"STUFRBL": "stumble",
+"THEUFRBL": "thimble",
+"TREFRBL": "tremble",
+"TUFRBL": "tumble",
+
 }
