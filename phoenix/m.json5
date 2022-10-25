@@ -1,6 +1,6 @@
 {
 
-// -- Remapping -FRPB -nch to -FRPBLG ----------------------------------
+// -- Remapping -nch from -FRPB to -FRPBLG -----------------------------
 
 "STKEFRPBLG": "disenfranchise",
 "STKEFRPBLGD": "disenfranchised",
@@ -356,7 +356,7 @@
 "HRAOEFRBG": "leverage",
 "HREFRBG": "leverage",
 
-// -- Remapping -FRP -rch to -FRPB -------------------------------------
+// -- Remapping -rch from -FRP to -FRPB --------------------------------
 
 "STAFRPB": "starch",
 "STAFRPB/AEL": "starchily",
@@ -592,7 +592,7 @@
 "-FRPB/-RD": "{^ertured}",
 "-FRPB/-RZ": "{^ertures}",
 
-// -- Using -FRP instead of -FPL for -mp -------------------------------
+// -- Remapping -mp from -FPL to -FRP ----------------------------------
 
 "STRUFRP": "strump",
 "STRUFRP/-T": "strumpet",
