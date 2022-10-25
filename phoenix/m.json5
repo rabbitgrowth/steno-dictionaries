@@ -1567,7 +1567,6 @@
 "SKWRUFRBLZ": "jumbles",
 "PHUFRBL": "mumble",
 "PHUFRBLZ": "mumbles",
-"TPHEUFRBL": "nimble", // KAR/TPHEUFRBL "car nimble" conflicts with "carnivoral"
 "RAFRBL": "ramble",
 "RAFRBLZ": "rambles",
 "RUFRBL": "rumble",
@@ -1586,5 +1585,18 @@
 "TREFRBLZ": "trembles",
 "TUFRBL": "tumble",
 "TUFRBLZ": "tumbles",
+
+"TPHEUFRBL": "nimble",
+// KAR/TPHEUFRBL "car nimble" conflicts with "carnivoral".
+// It's not ideal, but this can be solved by using -FB/R-L
+// or -FB/-RL instead of -FRBL (which violates steno order)
+// for "carnivoral" and "herbivoral" (which are the only
+// English words ending with -voral). KAR/TPHEUFB/R-L and
+// KAR/TPHEUFB/-RL are already in the dictionary.
+"KAR/TPHEUFRBL": "car nimble",
+"HUR/PWEUFB/R-L": "herbivoral",
+"HUR/PWEUFB/R-LZ": "herbivoral",
+"HUR/PWEUFB/-RL": "herbivoral",
+"HUR/PWEUFB/-RLZ": "herbivoral",
 
 }
