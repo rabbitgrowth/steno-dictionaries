@@ -1530,4 +1530,17 @@
 "TEFRP/-R/KH-R": "temperature",
 "TEFRP/-R/KH-RZ": "temperatures",
 
+// -- Briefs -----------------------------------------------------------
+
+"AFRPL": "ample",
+"KRUFRPL": "crumple",
+"TKEUFRPL": "dimple",
+"PEUFRPL": "pimple",
+"RUFRPL": "rumple",
+"SAFRPL": "sample",
+"SEUFRPL": "simple",
+"TEFRPL": "temple",
+"TRAFRPL": "trample",
+"WEUFRPL": "wimple",
+
 }
