@@ -30,6 +30,8 @@
 
 // -- "in-" ------------------------------------------------------------
 
+"EUPB": "{in^}",
+
 // Change TPH used for "in-" to EUPB:
 
 "EUPB/STPEUGS/AEPBS": "insufficiency",
