@@ -96,4 +96,14 @@
 "SRAEUPB/R-R": "vein",
 "WAEUFB/R-R": "wave",
 
+// -- Experimental -----------------------------------------------------
+
+"P": "be",
+"PA*": "be a",
+"P*T": "be the",
+"P-G": "being",
+
+"TPOUFBL": "fowl", // TPOUL "foul"
+"TPO*UL": "if you will",
+
 }
