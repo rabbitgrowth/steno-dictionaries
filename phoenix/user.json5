@@ -164,10 +164,10 @@
 
 // -- Experimental -----------------------------------------------------
 
-"P": "be",
-"PA*": "be a",
-"P*T": "be the",
-"P-G": "being",
+"PW": "be",
+"PWA*": "be a",
+"PW*T": "be the",
+"PWAOE": "bee",
 
 "TPOUFBL": "fowl", // TPOUL "foul"
 "TPO*UL": "if you will",
