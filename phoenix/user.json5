@@ -1,5 +1,81 @@
 {
 
+// -- -FR for -m in briefs ---------------------------------------------
+
+"AFRPL": "ample",
+"KRUFRPL": "crumple",
+"KRUFRPLZ": "crumples",
+"TKEUFRPL": "dimple",
+"TKEUFRPLZ": "dimples",
+"KPAFRPL": "example",
+"KPAFRPLZ": "examples",
+"PEUFRPL": "pimple",
+"PEUFRPLZ": "pimples",
+"RUFRPL": "rumple",
+"RUFRPLZ": "rumples",
+"SAFRPL": "sample",
+"SAFRPLZ": "samples",
+"SEUFRPL": "simple",
+"SEUFRPLZ": "simples",
+"TEFRPL": "temple",
+"TEFRPLZ": "temples",
+"TRAFRPL": "trample",
+"TRAFRPLZ": "tramples",
+"WEUFRPL": "wimple",
+"WEUFRPLZ": "wimples",
+
+"AFRBL": "amble", // overrides "arval"
+"AFRBLZ": "ambles",
+"PWRAFRBL": "bramble",
+"PWRAFRBLZ": "brambles",
+"PWUFRBL": "bumble",
+"PWUFRBLZ": "bumbles",
+"KRUFRBL": "crumble",
+"KRUFRBLZ": "crumbles",
+"TPUFRBL": "fumble",
+"TPUFRBLZ": "fumbles",
+"TKPWAFRBL": "gamble",
+"TKPWAFRBLZ": "gambles",
+"TKPWRUFRBL": "grumble",
+"TKPWRUFRBLZ": "grumbles",
+"HUFRBL": "humble",
+"HUFRBLZ": "humbles",
+"SKWRUFRBL": "jumble",
+"SKWRUFRBLZ": "jumbles",
+"PHUFRBL": "mumble",
+"PHUFRBLZ": "mumbles",
+"RAFRBL": "ramble",
+"RAFRBLZ": "rambles",
+"RUFRBL": "rumble",
+"RUFRBLZ": "rumbles",
+"SKRAFRBL": "scramble",
+"SKRAFRBLZ": "scrambles",
+"SKUFRBL": "scumble",
+"SKUFRBLZ": "scumbles",
+"SHAFRBL": "shamble",
+"SHAFRBLZ": "shambles",
+"STUFRBL": "stumble",
+"STUFRBLZ": "stumbles",
+"THEUFRBL": "thimble",
+"THEUFRBLZ": "thimbles",
+"TREFRBL": "tremble",
+"TREFRBLZ": "trembles",
+"TUFRBL": "tumble",
+"TUFRBLZ": "tumbles",
+
+"TPHEUFRBL": "nimble",
+// KAR/TPHEUFRBL "car nimble" conflicts with "carnivoral".
+// It's not ideal, but this can be solved by using -FB/R-L
+// or -FB/-RL instead of -FRBL (which violates steno order)
+// for "carnivoral" and "herbivoral" (which are the only
+// English words ending with -voral). KAR/TPHEUFB/R-L and
+// KAR/TPHEUFB/-RL are already in the dictionary.
+"KAR/TPHEUFRBL": "car nimble",
+"HUR/PWEUFB/R-L": "herbivoral",
+"HUR/PWEUFB/R-LZ": "herbivoral",
+"HUR/PWEUFB/-RL": "herbivoral",
+"HUR/PWEUFB/-RLZ": "herbivoral",
+
 // -- -PBGS for -nish --------------------------------------------------
 
 // Precedents:
