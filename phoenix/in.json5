@@ -32,8 +32,6 @@
 
 "EUPB": "{in^}",
 
-// Change TPH used for "in-" to EUPB:
-
 "EUPB/STPEUGS/AEPBS": "insufficiency",
 "EUPB/STPEUGS/AEPBS/-Z": "insufficiencies",
 "EUPB/STPEUGS/-PBT": "insufficient",
@@ -1376,11 +1374,8 @@
 
 // There's a single entry that uses TPH at the end:
 // KRAUSZ/P-P/TPH "cross-in"
-// Not sure what's going on here.
 
 // -- "en-" ------------------------------------------------------------
-
-// Change TPH used for "en-" to EPB:
 
 "EPB/STPHRAO*EUTS": "encephalitis",
 "EPB/STPHRAUG": "{encephalog^}",
@@ -2380,6 +2375,8 @@
 // TPH/-GTS    "nths"
 //
 // Keep these as they are.
+
+// -- Deletions --------------------------------------------------------
 
 // Delete all entries containing TPH except the four special entries
 // above to prevent conflicts with our new "in". For example, delete
@@ -4702,15 +4699,15 @@
 
 // -- Conflicts with "-in-" and "-en-" ---------------------------------
 
-// Finally, there are three minor conflicts with word parts that use
+// There are three minor conflicts with word parts that use
 // EUPB and EPB for "-in-" and "-en-":
 //
 // SRABGS/EUPB "vaccin"  (conflicts with "vax  in-")
 // HRAOEUS/EPB "licen"   (conflicts with "lice en-")
 // HRAOUT/EPB  "lieuten" (conflicts with "lute en-")
 //
-// Fortunately, these could be solved by hard-coding words that start
-// with the word parts.
+// Fortunately, these could be solved by hard-coding words that
+// start with the word parts.
 
 // Delete: SRABGS/EUPB
 "SRABGS/EUPB/KWRU": "vaccinia",
