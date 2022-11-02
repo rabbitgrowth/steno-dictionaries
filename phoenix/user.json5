@@ -21,7 +21,7 @@
 "TWEFBLZ": "twelves",
 
 "TP*URS": "first",
-"TP*URS/-Z": "firsts",
+"TP*URS/-Z": "firsts", // "firsts are always scary"
 "SEBGD": "second",
 "SEBGDZ": "seconds",
 "THURD": "third",
