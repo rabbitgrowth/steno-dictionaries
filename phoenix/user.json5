@@ -21,12 +21,17 @@
 "TWEFBLZ": "twelves",
 
 "TP*URS": "first",
+"TP*URS/-Z": "firsts",
 "SEBGD": "second",
 "SEBGDZ": "seconds",
 "THURD": "third",
+"THURDZ": "thirds",
 "TPOURGT": "fourth",
+"TPOURGTS": "fourths",
 "TPEUFGT": "fifth",
+"TPEUFGTS": "fifths",
 "AEUGT/-GT": "eighth",
+"AEUGT/-GTS": "eighths",
 
 // -- -FR for -m in briefs ---------------------------------------------
 
