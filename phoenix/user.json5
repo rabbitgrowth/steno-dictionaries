@@ -1,5 +1,29 @@
 {
 
+// -- Numbers ----------------------------------------------------------
+
+"WUPB": "one",
+"WUPBZ": "ones",
+"TWO": "two",
+"THRAOE": "three",
+"TPOUR": "four",
+"TPAOEUFB": "five",
+"SEUBGS": "six",
+"SAEFB": "seven",
+"AEUGT": "eight",
+"TPHAOEUPB": "nine",
+"TEPB": "ten",
+"HRAEFB": "eleven",
+"TWEFBL": "twelve",
+
+"TP*URS": "first",
+"SEBGD": "second",
+"SEBGDZ": "seconds",
+"THURD": "third",
+"TPOURGT": "fourth",
+"TPEUFGT": "fifth",
+"AEUGT/-GT": "eighth",
+
 // -- -FR for -m in briefs ---------------------------------------------
 
 "AFRPL": "ample",
