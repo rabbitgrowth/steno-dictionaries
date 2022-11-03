@@ -8,8 +8,8 @@
 //    means that all spelled-out numbers, which include some very
 //    common words with non-numerical senses, have to be starred:
 //
-//    WUPB   "1"    W*UPB  "one"
-//    SEBGD  "2nd"  S*EBGD "second"
+//    WUPB  "1"    W*UPB  "one"
+//    SEBGD "2nd"  S*EBGD "second"
 //
 //    The starred outlines also conflict with phrases:
 //
