@@ -2,37 +2,36 @@ import string
 
 from plover.steno import Stroke
 
-ALPHABET = {
-    Stroke(chord): letter
-    for chord, letter in zip([
-        'A',
-        'PW',
-        'KR',
-        'TK',
-        'E',
-        'TP',
-        'TKPW',
-        'H',
-        'EU',
-        'SKWR',
-        'K',
-        'HR',
-        'PH',
-        'TPH',
-        'O',
-        'P',
-        'KW',
-        'R',
-        'S',
-        'T',
-        'U',
-        'SR',
-        'W',
-        'KP',
-        'KWR',
-        'SWR',
-    ], string.ascii_lowercase)
-}
+LONGEST_KEY = 1
+
+ALPHABET = dict(zip(map(Stroke, [
+    'A',
+    'PW',
+    'KR',
+    'TK',
+    'E',
+    'TP',
+    'TKPW',
+    'H',
+    'EU',
+    'SKWR',
+    'K',
+    'HR',
+    'PH',
+    'TPH',
+    'O',
+    'P',
+    'KW',
+    'R',
+    'S',
+    'T',
+    'U',
+    'SR',
+    'W',
+    'KP',
+    'KWR',
+    'SWR',
+]), string.ascii_lowercase))
 
 FORMATS = {
     Stroke('-FPLT'):  lambda letter: f'{{&{letter.upper()}}}',
@@ -46,8 +45,6 @@ FORMATS = {
 
 LEFT = Stroke('STKPWHRAOEU')
 REST = Stroke('#*FRPBLGTSDZ')
-
-LONGEST_KEY = 1
 
 def lookup(strokes):
     stroke = Stroke(strokes[0])
