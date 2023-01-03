@@ -11,11 +11,11 @@
 // O/AEUSZ "oasis"
 //
 // But -SZ is "awkward to stroke" and "prone to misstroking" (as the
-// textbook conveniently admits while explaining why the chord is not
+// textbook conveniently declares while explaining why the chord is not
 // used for -ses).
 //
 // One solution is to use -S instead of -SZ. This often works well.
-// For example, "stress" is STRESZ, but STRES is free.
+// For example, STRES can be used for "stress" without problem.
 //
 // But sometimes using -S instead of -SZ causes unresolvable conflicts:
 //
@@ -27,8 +27,11 @@
 // PRES/TOE     "presto",    "press tow"
 // etc.
 //
-// Solution: instead of -SZ or -S, use -FS, which is a much easier
-// combination of two keys standing for "s".
+// Solution: instead of -SZ or -S, use -FS.
+//
+// -F is sometimes used for "s" in Phoenix: -FPL -ism, -FBG -isk.
+// So -FS, like -SZ, can be thought of as a combination of two keys
+// standing for "s".
 //
 // Switching to -FS causes very few conflicts because it's not used
 // very much in Phoenix. It's mostly only used for "was" in phrases,
@@ -36,6 +39,7 @@
 //
 // -FS also has the nice property of being symmetrical along a
 // vertical axis with -PG, the other major chord I'm repurposing.
+// What's more, "fs" looks like "ß", the German ligature for "ss".
 
 "STKEUFS": "kiss",
 "STK-L/TOEUR/TPH-FS": "desultoriness",
