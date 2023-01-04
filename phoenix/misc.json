@@ -140,6 +140,7 @@
 "TEPLT": "tempt",
 "KPWAOEUFB": "knive",
 "KPWOEBL": "knowable",
+"KPWORPB": "important",
 "KPEUPGZ": "extinction",
 "KHAEURB": "cherub",
 "KHAEURBZ": "cherubs",
@@ -214,6 +215,7 @@
 "HRA*UFT": "a lot of",
 "HRA*UT": "a lot",
 "HRA*S/P": "last but not least",
+"HRAFPG": "language",
 "HREPBG/-GTS": "lengths",
 "HREPBS": "lesson",
 "HRES/*R": "lessor",
@@ -278,5 +280,5 @@
 "URD": "around",
 "URD/AOU": "Urdu",
 "-FT": "often",
-"-RL": "really"
+"-RL": "{^erly}"
 }
