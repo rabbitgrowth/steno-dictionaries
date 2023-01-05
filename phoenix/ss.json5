@@ -29,7 +29,7 @@
 //
 // Solution: instead of -SZ or -S, use -FS.
 //
-// -F is sometimes used for "s" in Phoenix: -FPL -ism, -FBG -isk.
+// -F is sometimes used for "s" in Phoenix: -FPL -ism, -FBG -sk.
 // So -FS, like -SZ, can be thought of as a combination of two keys
 // standing for "s".
 //
