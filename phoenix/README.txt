@@ -28,6 +28,11 @@
   PERL     peril
   PAEURL   payroll
 
+* Add P to expand the first word in a
+  common phrase into the full phrase:
+  HRA*S/P last but not least
+  WUPBS/P once upon a time
+
 * Global remaps:
   [in.json5] in  EUPB -> TPH
              in- TPH  -> EUPB
