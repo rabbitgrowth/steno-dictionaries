@@ -20,9 +20,9 @@
   PAEURL   payroll
 
 * Stack non-overlapping strokes:
-  focus   TPOEBG/-S -> TPOEBGS
-  rubbish RUB/-GS   -> RUBGS
-  suffix  SUF/-BGS  -> SUFBGS
+  orbit ORB/-T    -> ORBT
+  focus TPOEBG/-S -> TPOEBGS
+  valid SRAL/UD   -> SRALD
 
 * Global remaps:
   [in.json5] in  EUPB -> TPH
