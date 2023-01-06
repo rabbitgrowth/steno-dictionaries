@@ -23,10 +23,10 @@
 //    STKPWAEPB "15" (STKPW for 5 because five keys)
 //    KWOEU     "83" (KW for 8 and OEU for 3 for no reason)
 //
-//    In fact, the outlines don't even always work consistently.
-//    TPH is normally associated with 9 and UPB with 1, so you'd
-//    expect "91" to be TPHUPB, but that conflicts with "none",
-//    so "91" is special-cased:
+//    The outlines don't even always work consistently. Normally,
+//    TPH is associated with 9 and UPB with 1, so you'd expect
+//    "91" to be TPHUPB, but that conflicts with "none", so "91"
+//    is special-cased:
 //
 //    TPHUPB  "none"  TPHAOEUPBT/W-PB  "91"
 //    TPH*UPB "nun"   TPHAO*EUPBT/W-PB "ninety-one"
