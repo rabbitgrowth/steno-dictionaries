@@ -10,6 +10,15 @@
   TP*URS first
   SEBGD  second
 
+* Make common words the exceptions:
+  earn  URPB -> ERPB
+  urn  *URPB -> URPB
+
+* Stack non-overlapping strokes:
+  orbit ORB/-T    -> ORBT
+  focus TPOEBG/-S -> TPOEBGS
+  valid SRAL/UD   -> SRALD
+
 * Use ER for "er" pronounced /ɛr/:
   ER/-R    error
   AEUR/-R  airer
@@ -18,11 +27,6 @@
   PURL     pearl
   PERL     peril
   PAEURL   payroll
-
-* Stack non-overlapping strokes:
-  orbit ORB/-T    -> ORBT
-  focus TPOEBG/-S -> TPOEBGS
-  valid SRAL/UD   -> SRALD
 
 * Global remaps:
   [in.json5] in  EUPB -> TPH
