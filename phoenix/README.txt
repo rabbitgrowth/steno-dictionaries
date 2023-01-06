@@ -1,4 +1,4 @@
-         General principles
+General principles
 
 * Use number bar for Arabic numerals
   and drop * in spelled-out numbers:
@@ -33,9 +33,10 @@
   HRA*S/P "last but not least"
   WUPBS/P "once upon a time"
 
-* Global remaps:
-  [in.json5] in  EUPB -> TPH
-             in- TPH  -> EUPB
-             en- TPH  -> EPB
-  [nk.json5] -nk *PBG -> -PG
-  [ss.json5] -ss -SZ  -> -FS
+Global remaps
+
+* in.json5: in  EUPB -> TPH
+            in- TPH  -> EUPB
+            en- TPH  -> EPB
+* nk.json5: -nk *PBG -> -PG
+* ss.json5: -ss -SZ  -> -FS
