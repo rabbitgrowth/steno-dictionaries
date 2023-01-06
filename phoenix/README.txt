@@ -24,7 +24,7 @@
   rubbish RUB/-GS   -> RUBGS
   suffix  SUF/-BGS  -> SUFBGS
 
-* Global remaps
+* Global remaps:
   [in.json5] in  EUPB -> TPH
              in- TPH  -> EUPB
              en- TPH  -> EPB
