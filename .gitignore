@@ -1,4 +1,5 @@
 Session.vim
-phoenix/*.json
-!phoenix/misc.json
+phoenix/phoenix.dicp
+phoenix/phoenix.json
+phoenix/topics.json
 plover/user.json
