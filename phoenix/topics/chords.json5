@@ -76,6 +76,26 @@
 "HUR/PWEUFB/-RL": "herbivoral",
 "HUR/PWEUFB/-RLZ": "herbivoral",
 
+// -- -FD for -h -------------------------------------------------------
+
+"AFD": "ah", // overrides "affidavit"
+"AFBT": "affidavit",
+
+"EFD": "eh", // use EFBT for "evident", which is consistent with EFBS "evidence"
+"UFD": "uh",
+"OEFD": "oh", // instead of O*EFPLT
+"AOFD": "ooh",
+"HAFD": "hah",
+"HEFD": "heh",
+"HUFD": "huh",
+"TKUFD": "duh",
+"PHEFD": "meh",
+"TPHAFD": "nah",
+"PWRUFD": "bruh",
+"PWHRAFD": "blah",
+"PWHREFD": "bleh",
+"UFD/OEFD": "uh-oh",
+
 // -- -PBGS for -nish --------------------------------------------------
 
 // Precedents:
