@@ -102,8 +102,7 @@
 // PUPBGS     "punish"
 // TPEUPBGS   "finish"
 // STAUPBGS   "astonish"
-// TKPHEUPBGS "diminish"
-// The last one is particularly nice because it's made up of five 2x1 blocks.
+// TKPHEUPBGS "diminish" (nice shape with five two-key blocks)
 
 "PWAPBGS": "banish", // used in PWAPBGS/AE "banshee" but "banishy" is not a word
 "PWAPBGS/-Z": "banishes",
