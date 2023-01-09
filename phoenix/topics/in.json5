@@ -1,7 +1,7 @@
 {
 
-// The default outlines for "in" and "in-" feel like they should be the
-// other way round:
+// The default outlines for "in" and "in-" feel like they should be
+// the other way round:
 //
 // TPHA* "in a"    EPB "en-"
 // TPH*T "in the"  UPB "un-"
@@ -17,15 +17,15 @@
 //
 // But still, I prefer the consistency of
 //
-// TPH  "in"
-// EUPB "in-"
-// EPB  "en-"
+// TPHA* "in a"    EPB  "en-"
+// TPH*T "in the"  UPB  "un-"
+// TPH   "in"      EUPB "in-"
 
-// -- "in" -------------------------------------------------------------
+// -- Remapping "in" ---------------------------------------------------
 
 "TPH": "in",
 
-// -- "in-" ------------------------------------------------------------
+// -- Remapping "in-" --------------------------------------------------
 
 "EUPB": "{in^}",
 
@@ -1372,7 +1372,7 @@
 // There's a single entry that uses TPH at the end:
 // KRAUSZ/P-P/TPH "cross-in"
 
-// -- "en-" ------------------------------------------------------------
+// -- Remapping "en-" --------------------------------------------------
 
 "EPB/STPHRAO*EUTS": "encephalitis",
 "EPB/STPHRAUG": "{encephalog^}",
@@ -2362,22 +2362,19 @@
 "AFRP/EPB/AEPL/-Z": "archenemies",
 "AFRP/EPB/AEPLZ": "archenemies",
 
-// -- Special uses of TPH ----------------------------------------------
+// -- Deletions --------------------------------------------------------
 
-// There are four entries where TPH is used for neither "in-" nor "en-":
+// With the exception of four special outlines where TPH is used for
+// neither "in-" nor "en-":
 //
 // TPH/AE      "any"
 // TPH/AE/W-PB "anyone"
 // TPH/-GT     "nth"
 // TPH/-GTS    "nths"
 //
-// Keep these as they are.
-
-// -- Deletions --------------------------------------------------------
-
-// Delete all entries containing TPH except the four special entries
-// above to prevent conflicts with our new "in". For example, delete
-// TPH/TKAEUFPG/-R "endanger" so that it becomes "in danger".
+// Delete all outlines containing TPH to prevent conflicts with our
+// new "in". For example, delete TPH/TKAEUFPG/-R "endanger" so that
+// it becomes "in danger".
 
 // Delete: SPR/TPH/TEPB/TKAEPBS
 // Delete: SPR/TPH/TEPB/TKAEPBS/-Z
