@@ -1,0 +1,14 @@
+TPOUR  "4"
+TPO*UR "four"
+/      "if you are"
+
+Solution: use the number bar for "4" and TPOUR for "four",
+freeing up TPO*UR for "if you are".
+
+TPOUL  "foul"
+TPO*UL "fowl"
+/      "if you will"
+
+No satisfactory solution. Maybe use TPOUFBL for "fowl",
+with "v" standing in for "w", to free up TPO*UL for
+"if you will".
