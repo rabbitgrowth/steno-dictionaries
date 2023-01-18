@@ -10,10 +10,6 @@ General principles
   TP*URS "first"
   SEBGD  "second"
 
-* Make common words the exceptions:
-  "earn"  URPB -> ERPB
-  "urn"  *URPB -> URPB
-
 * Stack non-overlapping strokes:
   "orbit" ORB/-T    -> ORBT
   "focus" TPOEBG/-S -> TPOEBGS
