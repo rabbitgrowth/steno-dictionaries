@@ -1,0 +1,6 @@
+TKPHEUT  "admit"
+TKPHEUGZ "admission"
+but
+SPH-T   "submit"
+SPHEUGZ "submission"
+SPHEUT  "smit" (archaic past participle of "smite")
