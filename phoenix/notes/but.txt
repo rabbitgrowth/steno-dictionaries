@@ -1,6 +1,5 @@
 TKPHEUT  "admit"
 TKPHEUGZ "admission"
 but
-SPH-T   "submit"
+SPH-T   "submit"     since SPHEUT is "smit" (archaic past participle of "smite")
 SPHEUGZ "submission"
-SPHEUT  "smit" (archaic past participle of "smite")
