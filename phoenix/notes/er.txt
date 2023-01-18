@@ -1,0 +1,38 @@
+Phoenix uses AEUR for /ɛr/, even when it's spelled "er":
+
+PHAEUR/-T     "merit"
+E/PHAEUR/T-S  "emeritus"
+SRAEUR/TPAOEU "verify"
+
+There are several problems with this.
+
+Firstly, it might feel counterintuitive to use AEU when there's
+neither "a" nor "i" in the spelling, especially if you come from
+a more orthgraphic theory.
+
+Secondly, it might cause conflicts:
+
+AEUR/-R  "error"  (conflicts with "airer")
+TAEUR/-R "terror" (conflicts with "tearer")
+
+Seeing that Phoenix already uses ER as a disambiguator in
+some conflicts:
+
+PWAEUR/AE "bury"   PWER/AE or PWAEUR/AE/R-R "berry"
+TPAEUR/AE "fairy"  TPER/AE or TPAEUR/AE/R-R "ferry"
+PHAEUR/AE "marry"  PHER/AE or PHAEUR/AE/R-R "merry"
+
+Why not generalize this and use ER for all /ɛr/ spelled "er"?
+
+PHER/-T     "merit"
+E/PHER/T-S  "emeritus"
+SRER/TPAOEU "verify"
+
+You can also brief "merit" as PHERT; while PHAEURT is "-imator",
+PHERT doesn't conflict with anything.
+
+ER joins AR and OR in the list of special rules:
+
+AR  /ɔr/ spelled "war"
+OR  used instead of AUR for beginning or medial /ɔr/
+ER  /ɛr/ spelled "er"
