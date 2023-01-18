@@ -8,7 +8,7 @@ There are several problems with this.
 
 Firstly, it might feel counterintuitive to use AEU when there's
 neither "a" nor "i" in the spelling, especially if you come from
-a more orthgraphic theory.
+a more orthographic theory.
 
 Secondly, it might cause conflicts:
 
