@@ -20,9 +20,6 @@ General principles
   AEUR/-R  "airer"
   TER/-R   "terror"
   TAEUR/-R "tearer"
-  PURL     "pearl"
-  PERL     "peril"
-  PAEURL   "payroll"
 
 * Add P to expand the first word in a
   common phrase into the full phrase:
