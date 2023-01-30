@@ -1,4 +1,4 @@
-AFD  "ah"
-AFBT "affidavit"
-AFS  "ass"
-AFBS "advice"
+AU/R-R -> AFD  "ah"
+AFD    -> AFBT "affidavit"
+ASZ    -> AFS  "ass"
+AFS    -> AFBS "advice"
