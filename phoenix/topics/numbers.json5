@@ -1,36 +1,32 @@
 {
 
-// I have two problems with the way Phoenix handles numbers:
+// I have several problems with Phoenix's number system:
 //
-// 1) The fact that it uses phonetic outlines for Arabic numerals
-//    means that all spelled-out numbers, which include some very
-//    common words with non-numerical senses, have to be starred:
+// 1) All spelled-out numbers, which include some very common words,
+//    have to be starred:
 //
 //    WUPB  "1"    W*UPB  "one"
 //    SEBGD "2nd"  S*EBGD "second"
 //
-//    The starred outlines also conflict with phrases:
+// 2) The outlines conflict with important words and phrases.
+//    TPO*UR is "four" and not "if you are" as you would expect
+//    from the pattern of other "if you" phrases; SKOUR is "64",
+//    and "scour" isn't even defined in my copy of the dictionary.
 //
-//    TPOUR  "4"
-//    TPO*UR "four", not "if you are"
+// 3) Some of the outlines are awkward and arbitrary:
 //
-// 2) In trying to cram almost every number from 1 to 99 into
-//    one stroke, it sometimes resorts to weird mnemonics and
-//    arbitrary shapes, resulting in ugly outlines:
-//
-//    STKPWAEPB "15" (STKPW for 5 because five keys)
+//    STKPWAEPB "15" (STKPW for 5 because it has five keys)
 //    KWOEU     "83" (KW for 8 and OEU for 3 for no reason)
 //
-//    The outlines don't even always work consistently. Normally,
-//    TPH is associated with 9 and UPB with 1, so you'd expect
-//    "91" to be TPHUPB, but that conflicts with "none", so "91"
-//    is special-cased:
+// 4) The system isn't completely consistent. Normally, TPH and UPB
+//    are associated with 9 and 1, so you'd expect "91" to be TPHUPB,
+//    but that conflicts with "none", so "91" is special-cased:
 //
 //    TPHUPB  "none"  TPHAOEUPBT/W-PB  "91"
 //    TPH*UPB "nun"   TPHAO*EUPBT/W-PB "ninety-one"
 //
-// To solve this, use the number bar for Arabic numerals
-// and unstarred phonetic outlines for spelled-out numbers.
+// Use the number bar for Arabic numerals and unstarred phonetic
+// outlines for spelled-out numbers.
 
 "WUPB": "one",
 "WUPBZ": "ones",
