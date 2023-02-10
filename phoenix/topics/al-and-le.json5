@@ -1,19 +1,5 @@
 {
 
-// -- Negative contractions without *PBT -------------------------------
-
-"AEUPBT": "ain't", // give up "-aint"
-"ARPBT": "aren't",
-"HAPBT": "hadn't",
-"SAEPBT": "isn't",
-"PHAOEUPBT": "mightn't",
-"TPHAOEPBT": "needn't",
-"SHAEPBT": "shan't",
-
-"PHUPBT": "mustn't", // cf. TKUPBT "doesn't"; overrides "month"
-"PHO*": "month", // star "mo" for "month" like how you star "ME" for "Maine"
-"PHO*Z": "months",
-
 // -- Conflicts between -al and -le ------------------------------------
 
 "PHED/-L": "meddle", // cf. PHEUD/-L "middle"
